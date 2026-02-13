@@ -1,4 +1,4 @@
-# Limbus-Company-Polskie-Tłumaczenie
+# Limbus Company Polskie Tłumaczenie
 Jak zainstalować tłumaczenie:
 
 1. Wejdź w C:(lub jakimtam innym dysk na którym trzymasz limbusa)\SteamLibrary\steamapps\common\Limbus Company\LimbusCompany_Data
