@@ -1,0 +1,576 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ciemny Las",
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Czy kiedyś w końcu to do ciebię dotrze? Nie możesz od nas uciec."
+    },
+    {
+      "id": 1,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Wy bezczelne kmiotki… jak śmiecie mi przerywać podczas wykrajania ■■■■■… Czy kompletnie postradaliście wszystkie swoje…>"
+    },
+    {
+      "id": 2,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Cóż, jeśli już wchodzimy w technikalia, plan który wymyśliła nasza Pani nie podchodzi pod taboo miasta."
+    },
+    {
+      "id": 3,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "To po prostu jedna z tych rzeczy której nikt inny nie śmiał nawet rozważyć, czaisz?"
+    },
+    {
+      "id": 4,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "No patrz, kto by pomyślał…"
+    },
+    {
+      "id": 5,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Już udało ci się założyć nowy czerep. Ludzie tacy jak ty naprawdę są przygotowani na każdą okazję."
+    },
+    {
+      "id": 6,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Ah... cholera… Poczekaj tylko aż dostane się do ■■■■■■… Nie będziecie mieli szans z…>"
+    },
+    {
+      "id": 7,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Haha, widze że ta twoja nowa głowa nie przyszła z buźką, co?"
+    },
+    {
+      "id": 8,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "No, słysze tylko 'tiki' i 'taki'. Myślisz że w środku krzyczy z bólu?"
+    },
+    {
+      "id": 9,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Aaaaa…!>"
+    },
+    {
+      "id": 10,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Hmm. Zaczeło tykać szybciej. Widocznie ciągle czują ból."
+    },
+    {
+      "id": 11,
+      "content": "Szlag… Dlaczego… do diaska…!"
+    },
+    {
+      "id": 12,
+      "content": "…oni mnię atakują?"
+    },
+    {
+      "id": 13,
+      "content": "Niedobrze… Moje wspomnienia już mi umykają… ■■■ musiało być zrobione za szybko…"
+    },
+    {
+      "id": 14,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "No i teraz kompletnie ucichło. Czas to skończyć."
+    },
+    {
+      "id": 15,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Wilk, nie ma przecież w tym miejscu żywej duszy. Po co ten pośpiech?"
+    },
+    {
+      "id": 16,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Musimy pamiętać o jej lekcjach. Nie możemy tego przeciągać ani dłużej."
+    },
+    {
+      "id": 17,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "No niby racja ale… Haa, no kurcze, taką okazję dostaje się tylko raz w życiu. Bardzo wątpliwe że zgasimy kiedyś kogoś tak ważnego jak oni…"
+    },
+    {
+      "id": 18,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Lwie, musisz nauczyć się panować nad swoimi emocjami na misjach."
+    },
+    {
+      "id": 19,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Ehhh…"
+    },
+    {
+      "id": 20,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Ale masz rację, troche szkoda, chiałem jeszcze spojrzeć im w twarz. Zakładam że nie powiesz nam gdzie jest ta twoja gwiazda, nie?"
+    },
+    {
+      "id": 21,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Prędzej zginę niż powiem wam gdzie schowałom ■■■!>"
+    },
+    {
+      "id": 22,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<……>"
+    },
+    {
+      "id": 23,
+      "content": "Szlag, a w sumie to gdzie ja schowałom ■■■? Moje wspomnienia uciekają mi zbyt szybko…"
+    },
+    {
+      "id": 24,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "…No tak. Nie masz ust."
+    },
+    {
+      "id": 25,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Co oznacza że od ciebie się o niej więcej nie dowiemy."
+    },
+    {
+      "id": 26,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Mogę już z nimi skończyć?"
+    },
+    {
+      "id": 27,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Ta, jasne… Huh?"
+    },
+    {
+      "id": 28,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Hej, co to za dźwięk? Pantera… nie mów mi że miałeś ogon?"
+    },
+    {
+      "id": 29,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Nie, nie miałem 'ogona'. Może to jakieś dzikie zwierze?"
+    },
+    {
+      "id": 30,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Mi to na zwierze nie brzmi. Brzmi raczej jak…"
+    },
+    {
+      "id": 31,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Autobus…?"
+    },
+    {
+      "id": 32,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Jak to się tu wogóle dostało?"
+    },
+    {
+      "id": 33,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Musieli się chyba zgubić?"
+    },
+    {
+      "id": 34,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Hoo, nieźle ich będzie kosztować taka nieostrożna nawigacja…"
+    },
+    {
+      "id": 35,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "…!"
+    },
+    {
+      "id": 36,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "…Potrącili Lwa?"
+    },
+    {
+      "id": 37,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "…!"
+    },
+    {
+      "id": 38,
+      "model": "???",
+      "teller": "???",
+      "title": "???",
+      "content": "……"
+    },
+    {
+      "id": 39,
+      "teller": "???",
+      "title": "???",
+      "content": "Jeśli moje oczy mnię nie mylą, dopłyniesz jeszcze spokojnie do portu chwały."
+    },
+    {
+      "id": 40,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Kim… ty jesteś? Na plakietce… pisze że… Faust?>"
+    },
+    {
+      "id": 41,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Zgubiłoś się w ciemnym lesie."
+    },
+    {
+      "id": 42,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Ja… przepraszam, co?>"
+    },
+    {
+      "id": 43,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "A jednak nie ogarnął cię strach. Czemu?"
+    },
+    {
+      "id": 44,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<…>"
+    },
+    {
+      "id": 45,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Mogłom zawasze… popatrzeć w niebo i znaleźć moją gwiazdę.>"
+    },
+    {
+      "id": 46,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Zgadza się."
+    },
+    {
+      "id": 47,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Teraz, powtarzaj z serca to co ci teraz powiem i spróbuj przypomnieć sobie tamten widok."
+    },
+    {
+      "id": 48,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Podążaj za swoją gwiazdą."
+    },
+    {
+      "id": 49,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Podążaj… za swoją gwiazdą.>"
+    },
+    {
+      "id": 50,
+      "content": "Od razu po wypowiedzeniu tych słów…"
+    },
+    {
+      "id": 51,
+      "content": "Poczułom nagły grzmot w mojej głowie."
+    },
+    {
+      "id": 52,
+      "content": "Po którym poczułom jak masa łańcuchów zaczęła wbijać się w moją pierś."
+    },
+    {
+      "id": 53,
+      "model": "프롤로그단테",
+      "teller": "Ja",
+      "title": "■■■",
+      "content": "<Hyag… Ah— Aaagh!!!>"
+    },
+    {
+      "id": 54,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Spokojnie. Nawet jeśli twoje ciało próbuje cię przekonać że jest inaczej, twoje serce ciągle bije."
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "content": "I w ten sposób, cyrograf został podpisany."
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Dante, od tego dnia daprzód, jesteśmy powiązani z twoim czasem."
+    },
+    {
+      "id": 57,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<O czym ty…?>"
+    },
+    {
+      "id": 58,
+      "model": "파우스트",
+      "content": "Bicie naszych serc zależy teraz od tego gdzie padną twoje ręce."
+    },
+    {
+      "id": 59,
+      "model": "파우스트",
+      "content": "Mam nadzieję że będziesz dla nas dobrym przywódcą."
+    },
+    {
+      "id": 60,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<“Nas”…?>"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "I co, to tyle?"
+    },
+    {
+      "id": 62,
+      "model": "이상",
+      "content": "Pojedyńcze jabłko upadło na ziemię."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "…A ten ziomek ciągle plecie bez sensu."
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "content": "Dobra~ Miałam już dość tego czekania! Dzieje się w końcu coś ciekawego?"
+    },
+    {
+      "id": 65,
+      "model": "그레고르",
+      "content": "Cóż, nie zaszkodziło by troche rozprostować kości."
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "Kim jest ten nędznik wijący się z bólu na ziemi? Czy to najnowszy dodatek do naszej drużyny?"
+    },
+    {
+      "id": 67,
+      "model": "그레고르",
+      "content": "Uh… Na twoim miejscu troche bardziej ostrożnie wybierałbym słowa… To podobno za niedługo będzie nasz szef…"
+    },
+    {
+      "id": 68,
+      "model": "파우스트",
+      "content": "Ten atak musiał stać się prawie od razu—Schowanie swojej głowy musiało być nie lada wyczynem."
+    },
+    {
+      "id": 69,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Kim wy wogóle jesteście? I o co chodzi z tym autobusem?>"
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "Jesteśmy sprawiedliwymi bohaterami któży przybyli na twój ratunek, a to jest nasz magiczny autobus który zawiezie nas wszędzie, tam gdzie chcemy."
+    },
+    {
+      "id": 71,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Sprawiedliwi bochaterzy? Autobus? Ja nic nie…>"
+    },
+    {
+      "id": 72,
+      "model": "파우스트",
+      "content": "Nie tego spodziewałoś się usłyczeć? Tak czy owak, twoją najlepszą opcją w tym momencie jest uwierzenie w nas."
+    },
+    {
+      "id": 73,
+      "model": "파우스트",
+      "content": "Czas nas goni a sytuacja w której jesteśmy jest niefortunna, więc słuchaj mnie uważnie."
+    },
+    {
+      "id": 74,
+      "content": "Po chwili…"
+    },
+    {
+      "id": 75,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<A więc… Jeśli dobrze to zrozumiałom, jeśli zrobie to co mówisz, ci kompletnie obcy mi ludzie będą za mnię walczyć?>"
+    },
+    {
+      "id": 76,
+      "model": "파우스트",
+      "content": "Dokładnie. A przynajmniej tak długo jak będziesz dobrze nami przywodzić."
+    },
+    {
+      "id": 77,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Dobra, w takim razie spuśćmy tym skurwielom łomot…>"
+    },
+    {
+      "id": 78,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<A potem wróce tam gdzie byłom…>"
+    },
+    {
+      "id": 79,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "Tam gdzie byłom, I…>"
+    },
+    {
+      "id": 80,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<……>"
+    },
+    {
+      "id": 81,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Co, gdzie i jak ja to miałom zrobić?>"
+    },
+    {
+      "id": 82,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Mam to coś na końcu języka. Coś bardzo ważnego…>"
+    },
+    {
+      "id": 83,
+      "model": "파우스트",
+      "content": "Uspokój się. Takie rzeczy zdażają się z twoją aktualną głową."
+    },
+    {
+      "id": 84,
+      "model": "파우스트",
+      "content": "Powinnoś skupić się na tu i teraz, Dante."
+    },
+    {
+      "id": 85,
+      "model": "오티스",
+      "content": "Zega… Przepraszam, naprawde nie wiem jak mam się do ciebię zwracać."
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "content": "Czy 'Dowódca Zegar' pasuje…? W każdym razie, czekamy na twoje rozkazy!"
+    },
+    {
+      "id": 87,
+      "model": "그레고르",
+      "content": "Ej, a my wogóle potrzebujemy rozkazów? Wygląda na to że nasza jedyna opcja to pojedyńcze starcia."
+    },
+    {
+      "id": 88,
+      "model": "이스마엘",
+      "content": "Co do?! H-Hej!"
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "content": "Przestańcie w końcu pierdolić! Po prostu zbijmy ich wszystkich na miazgę!"
+    },
+    {
+      "id": 90,
+      "model": "파우스트",
+      "content": "…Prosze daj z siebię wszystko, Dante."
+    },
+    {
+      "id": 91,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Jakbym jeszcze miało jakiś wybór…>"
+    }
+  ]
+}

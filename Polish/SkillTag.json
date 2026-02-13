@@ -1,0 +1,272 @@
+{
+  "dataList": [
+    {
+      "id": "OnSucceedAttack",
+      "name": "[Trafienie]"
+    },
+    {
+      "id": "WhenUse",
+      "name": "[Użycie Zdolności]"
+    },
+    {
+      "id": "WinDuel",
+      "name": "[Wygranie Starcia]"
+    },
+    {
+      "id": "BeforeAttack",
+      "name": "[Przed Atakiem]"
+    },
+    {
+      "id": "Wide",
+      "name": "[AoE]"
+    },
+    {
+      "id": "nxPostLine",
+      "name": "[{n} in Front]"
+    },
+    {
+      "id": "nxCenterLine",
+      "name": "[{n} in Middle]"
+    },
+    {
+      "id": "nxBackLine",
+      "name": "[{n} in Back]"
+    },
+    {
+      "id": "CantIdentify",
+      "name": "[Może Atakować Sojuszników]"
+    },
+    {
+      "id": "CRIMSON",
+      "name": "Crimson"
+    },
+    {
+      "id": "SCARLET",
+      "name": "Scarlet"
+    },
+    {
+      "id": "AMBER",
+      "name": "Amber"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "Shamrock"
+    },
+    {
+      "id": "AZURE",
+      "name": "Azure"
+    },
+    {
+      "id": "INDIGO",
+      "name": "Indigo"
+    },
+    {
+      "id": "VIOLET",
+      "name": "Violet"
+    },
+    {
+      "id": "WHITE",
+      "name": "White"
+    },
+    {
+      "id": "BLACK",
+      "name": "Black"
+    },
+    {
+      "id": "EndSkill",
+      "name": "[Po Ataku]"
+    },
+    {
+      "id": "StartBattle",
+      "name": "[Początek Walki]"
+    },
+    {
+      "id": "DefeatDuel",
+      "name": "[Przegranie Starcia]"
+    },
+    {
+      "id": "OnSucceedAttackHead",
+      "name": "[Trafienie Orłem]"
+    },
+    {
+      "id": "OnSucceedAttackTail",
+      "name": "[Trafienie Reszką]"
+    },
+    {
+      "id": "OnSucceedEvade",
+      "name": "[Udany Unik]"
+    },
+    {
+      "id": "AlwaysUse",
+      "name": "[Stałe]"
+    },
+    {
+      "id": "CantDuel",
+      "name": "[Nie Ściera Się]"
+    },
+    {
+      "id": "EnemyKill",
+      "name": "[Zabicie Wroga]"
+    },
+    {
+      "id": "EnemyKillFail",
+      "name": "[Nieudane Zabicie Wroga]"
+    },
+    {
+      "id": "ReUse",
+      "name": "[Ponowne Wykorzystanie]"
+    },
+    {
+      "id": "ReUseOnSucceedAttackHead",
+      "name": "[Ponowne Wykorzystanie - Orzeł]"
+    },
+    {
+      "id": "CriticalOnSucceedAttack",
+      "name": "[Trafienie Krytyczne]"
+    },
+    {
+      "id": "StartDuel",
+      "name": "[Początek Starcia]"
+    },
+    {
+      "id": "EndBattle",
+      "name": "[Koniec Tury]"
+    },
+    {
+      "id": "OnDefeatEvade",
+      "name": "[Nieudany Unik]"
+    },
+    {
+      "id": "EndSkillHead",
+      "name": "[Koniec Ataku - Orzeł]"
+    },
+    {
+      "id": "EndSkillTail",
+      "name": "[Koniec Ataku - Reszka]"
+    },
+    {
+      "id": "WinDuelAttackHead",
+      "name": "[Orzeł Po Wygraniu Starcia]"
+    },
+    {
+      "id": "WinDuelAttack",
+      "name": "[Trafienie Po Wygraniu Starcia]"
+    },
+    {
+      "id": "CriticalActivated",
+      "name": "[Trafienie Krytyczne]"
+    },
+    {
+      "id": "CriticalEndSkill",
+      "name": "[Koniec Ataku - Tr. Krytyczne]"
+    },
+    {
+      "id": "CantChangeTarget",
+      "name": "[Ustalony Cel]"
+    },
+    {
+      "id": "TurnStartBattle",
+      "name": "[Początek Tury]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[Koniec Zdolności]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[Przy Użyciu]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[Początek Walki]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[Zabicie Celu]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[Zabicie Trafieniem Krytycznym]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[Przed Użyciem]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[Ścierająca się Kontra]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[Niezłomna Moneta]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[Ścierająca się Garda]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[Przy Użyciu Uniku]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[Po Ataku Obecnej Monety]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[Nieudane Zabicie Tr. Krytycznym]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[Zabicie Przeciwnika Trafieniem Krytycznym]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[Trafienie Po Przegraniu Starcia]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[Nieudane Zabicie Celu]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[Zabicie Sojusznika]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[Nieudane Zabicie Sojusznika]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
+    },
+    {
+      "id": "UnBrokenCoinOnSucceedAttack",
+      "name": "[Trafienie Bez Pękania]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[Przed Byciem Trafionym]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[Bezpośredni Atak]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[Ponowne Wykorzystanie - Trafienie]"
+    },
+    {
+      "id": "CriticalOnSucceedAttackHead",
+      "name": "[Trafienie Krytyczne Orłem]"
+    },
+    {
+      "id": "OnStartCoin",
+      "name": "[Przy Rzucie Monetą]"
+    },
+    {
+      "id": "BeforeBehavior",
+      "name": "[Przed Akcją]"
+    }
+  ]
+}

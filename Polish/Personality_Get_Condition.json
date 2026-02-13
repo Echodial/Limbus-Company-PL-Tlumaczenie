@@ -1,0 +1,1212 @@
+{
+  "dataList": [
+    {
+      "id": "10102_getCondition_normal",
+      "content": "Zdobądź Seven South Section 6 Yi Sang"
+    },
+    {
+      "id": "10102_getCondition_gacksung",
+      "content": "Powiąż Seven South Section 6 Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10103_getCondition_normal",
+      "content": "Zdobądź Blade Lineage Salsu Yi Sang"
+    },
+    {
+      "id": "10103_getCondition_gacksung",
+      "content": "Powiąż Blade Lineage Salsu Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10202_getCondition_normal",
+      "content": "Zdobądź W Corp. L2 Cleanup Agent Faust"
+    },
+    {
+      "id": "10202_getCondition_gacksung",
+      "content": "Powiąż W Corp. L2 Cleanup Agent Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10203_getCondition_normal",
+      "content": "Zdobądź Lobotomy Corp. Remnant Faust"
+    },
+    {
+      "id": "10203_getCondition_gacksung",
+      "content": "Powiąż Lobotomy Corp. Remnant Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10302_getCondition_normal",
+      "content": "Zdobądź W Corp. L3 Cleanup Agent Don Quixote"
+    },
+    {
+      "id": "10302_getCondition_gacksung",
+      "content": "Powiąż W Corp. L3 Cleanup Agent Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10303_getCondition_normal",
+      "content": "Zdobądź Shi South Section 5 Director Don Quixote"
+    },
+    {
+      "id": "10303_getCondition_gacksung",
+      "content": "Powiąż Shi South Section 5 Director Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10402_getCondition_normal",
+      "content": "Zdobądź Seven South Section 6 Ryōshū"
+    },
+    {
+      "id": "10402_getCondition_gacksung",
+      "content": "Powiąż Seven South Section 6 Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10403_getCondition_normal",
+      "content": "Zdobądź Kurokumo Wakashu Ryōshū"
+    },
+    {
+      "id": "10403_getCondition_gacksung",
+      "content": "Powiąż Kurokumo Wakashu Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10502_getCondition_normal",
+      "content": "Zdobądź Liu South Section 6 Meursault"
+    },
+    {
+      "id": "10502_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 6 Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10503_getCondition_normal",
+      "content": "Zdobądź W Corp. L2 Cleanup Agent Meursault"
+    },
+    {
+      "id": "10503_getCondition_gacksung",
+      "content": "Powiąż W Corp. L2 Cleanup Agent Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10602_getCondition_normal",
+      "content": "Zdobądź Kurokumo Wakashu Hong Lu"
+    },
+    {
+      "id": "10602_getCondition_gacksung",
+      "content": "Powiąż Kurokumo Wakashu Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10603_getCondition_normal",
+      "content": "Zdobądź Tingtang Gangleader Hong Lu"
+    },
+    {
+      "id": "10603_getCondition_gacksung",
+      "content": "Powiąż Tingtang Gangleader Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10702_getCondition_normal",
+      "content": "Zdobądź Shi South Section 5 Heathcliff"
+    },
+    {
+      "id": "10702_getCondition_gacksung",
+      "content": "Powiąż Shi South Section 5 Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10703_getCondition_normal",
+      "content": "Zdobądź R Corp. 4th Pack Rabbit Heathcliff"
+    },
+    {
+      "id": "10703_getCondition_gacksung",
+      "content": "Powiąż R Corp. 4th Pack Rabbit Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10802_getCondition_normal",
+      "content": "Zdobądź R Corp. 4th Pack Reindeer Ishmael"
+    },
+    {
+      "id": "10802_getCondition_gacksung",
+      "content": "Powiąż R Corp. 4th Pack Reindeer Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10803_getCondition_normal",
+      "content": "Zdobądź Shi South Section 5 Ishmael"
+    },
+    {
+      "id": "10803_getCondition_gacksung",
+      "content": "Powiąż Shi South Section 5 Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10804_getCondition_normal",
+      "content": "Zdobądź LCCB Assistant Manager Ishmael"
+    },
+    {
+      "id": "10804_getCondition_gacksung",
+      "content": "Powiąż LCCB Assistant Manager Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10902_getCondition_normal",
+      "content": "Zdobądź Kurokumo Wakashu Rodya"
+    },
+    {
+      "id": "10902_getCondition_gacksung",
+      "content": "Powiąż Kurokumo Wakashu Rodya do Trzeciej Rangi"
+    },
+    {
+      "id": "10903_getCondition_normal",
+      "content": "Zdobądź LCCB Assistant Manager Rodya"
+    },
+    {
+      "id": "10903_getCondition_gacksung",
+      "content": "Powiąż LCCB Assistant Manager Rodya do Trzeciej Rangi"
+    },
+    {
+      "id": "11002_getCondition_normal",
+      "content": "Zdobądź Blade Lineage Salsu Sinclair"
+    },
+    {
+      "id": "11002_getCondition_gacksung",
+      "content": "Powiąż Blade Lineage Salsu Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "11003_getCondition_normal",
+      "content": "Zdobądź Zwei South Section 6 Sinclair"
+    },
+    {
+      "id": "11003_getCondition_gacksung",
+      "content": "Powiąż Zwei South Section 6 Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "11004_getCondition_normal",
+      "content": "Zdobądź Jefe de Los Mariachis Sinclair"
+    },
+    {
+      "id": "11004_getCondition_gacksung",
+      "content": "Powiąż Jefe de Los Mariachis Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "11102_getCondition_normal",
+      "content": "Zdobądź Blade Lineage Salsu Outis"
+    },
+    {
+      "id": "11102_getCondition_gacksung",
+      "content": "Powiąż Blade Lineage Salsu Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "11103_getCondition_normal",
+      "content": "Zdobądź G Corp. Head Manager Outis"
+    },
+    {
+      "id": "11103_getCondition_gacksung",
+      "content": "Powiąż G Corp. Head Manager Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "11202_getCondition_normal",
+      "content": "Zdobądź Liu South Section 6 Gregor"
+    },
+    {
+      "id": "11202_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 6 Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "11203_getCondition_normal",
+      "content": "Zdobądź G Corp. Manager Corporal Gregor"
+    },
+    {
+      "id": "11203_getCondition_gacksung",
+      "content": "Powiąż G Corp. Manager Corporal Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10504_getCondition_normal",
+      "content": "Zdobądź N Corp. Großhammer Meursault"
+    },
+    {
+      "id": "10504_getCondition_gacksung",
+      "content": "Powiąż N Corp. Großhammer Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10904_getCondition_normal",
+      "content": "Zdobądź N Corp. Mittelhammer Rodion"
+    },
+    {
+      "id": "10904_getCondition_gacksung",
+      "content": "Powiąż N Corp. Mittelhammer Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10204_getCondition_normal",
+      "content": "Zdobądź The One Who Grips Faust"
+    },
+    {
+      "id": "10204_getCondition_gacksung",
+      "content": "Powiąż The One Who Grips Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10704_getCondition_normal",
+      "content": "Zdobądź N Corp. Kleinhammer Heathcliff"
+    },
+    {
+      "id": "10704_getCondition_gacksung",
+      "content": "Powiąż N Corp. Kleinhammer Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "11104_getCondition_normal",
+      "content": "Zdobądź Seven South Section 6 Director Outis"
+    },
+    {
+      "id": "11104_getCondition_gacksung",
+      "content": "Powiąż Seven South Section 6 Director Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10604_getCondition_normal",
+      "content": "Zdobądź Liu South Section 5 Hong Lu"
+    },
+    {
+      "id": "10604_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 5 Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10404_getCondition_normal",
+      "content": "Zdobądź R.B. Chef de Cuisine Ryōshū"
+    },
+    {
+      "id": "10404_getCondition_gacksung",
+      "content": "Powiąż R.B. Chef de Cuisine Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "11204_getCondition_normal",
+      "content": "Zdobądź R.B. Sous-chef Gregor"
+    },
+    {
+      "id": "11204_getCondition_gacksung",
+      "content": "Powiąż R.B. Sous-chef Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10304_getCondition_normal",
+      "content": "Zdobądź N Corp. Mittelhammer Don Quixote"
+    },
+    {
+      "id": "10304_getCondition_gacksung",
+      "content": "Powiąż N Corp. Mittelhammer Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "11005_getCondition_normal",
+      "content": "Zdobądź The One Who Shall Grip Sinclair"
+    },
+    {
+      "id": "11005_getCondition_gacksung",
+      "content": "Powiąż The One Who Shall Grip Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "10905_getCondition_normal",
+      "content": "Zdobądź Rosespanner Workshop Rep Rodion"
+    },
+    {
+      "id": "10905_getCondition_gacksung",
+      "content": "Powiąż Rosespanner Workshop Rep Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10505_getCondition_normal",
+      "content": "Zdobądź Rosespanner Workshop Fixer Meursault"
+    },
+    {
+      "id": "10505_getCondition_gacksung",
+      "content": "Powiąż Rosespanner Workshop Fixer Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10705_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Sunshower Heathcliff"
+    },
+    {
+      "id": "10705_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Sunshower Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "11205_getCondition_normal",
+      "content": "Zdobądź Rosespanner Workshop Fixer Gregor"
+    },
+    {
+      "id": "11205_getCondition_gacksung",
+      "content": "Powiąż Rosespanner Workshop Fixer Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10104_getCondition_normal",
+      "content": "Zdobądź Effloresced E.G.O::Spicebush Yi Sang"
+    },
+    {
+      "id": "10104_getCondition_gacksung",
+      "content": "Powiąż Effloresced E.G.O::Spicebush Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10805_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Sloshing Ishmael"
+    },
+    {
+      "id": "10805_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Sloshing Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10605_getCondition_normal",
+      "content": "Zdobądź K Corp. Class 3 Excision Staff Hong Lu"
+    },
+    {
+      "id": "10605_getCondition_gacksung",
+      "content": "Powiąż K Corp. Class 3 Excision Staff Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "11006_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Red Sheet Sinclair"
+    },
+    {
+      "id": "11006_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Red Sheet Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "10806_getCondition_normal",
+      "content": "Zdobądź Liu South Section 4 Ishmael"
+    },
+    {
+      "id": "10806_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 4 Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10506_getCondition_normal",
+      "content": "Zdobądź R Corp. 4th Pack Rhino Meursault"
+    },
+    {
+      "id": "10506_getCondition_gacksung",
+      "content": "Powiąż R Corp. 4th Pack Rhino Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10906_getCondition_normal",
+      "content": "Zdobądź Zwei South Section 5 Rodion"
+    },
+    {
+      "id": "10906_getCondition_gacksung",
+      "content": "Powiąż Zwei South Section 5 Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10305_getCondition_normal",
+      "content": "Zdobądź Cinq South Section 5 Director Don Quixote"
+    },
+    {
+      "id": "10305_getCondition_gacksung",
+      "content": "Powiąż Cinq South Section 5 Director Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10807_getCondition_normal",
+      "content": "Zdobądź Molar Boatworks Fixer Ishmael"
+    },
+    {
+      "id": "10807_getCondition_gacksung",
+      "content": "Powiąż Molar Boatworks Fixer Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "11007_getCondition_normal",
+      "content": "Zdobądź Molar Boatworks Fixer Sinclair"
+    },
+    {
+      "id": "11007_getCondition_gacksung",
+      "content": "Powiąż Molar Boatworks Fixer Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "11206_getCondition_normal",
+      "content": "Zdobądź Zwei South Section 4 Gregor"
+    },
+    {
+      "id": "11206_getCondition_gacksung",
+      "content": "Powiąż Zwei South Section 4 Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10205_getCondition_normal",
+      "content": "Zdobądź Zwei South Section 4 Faust"
+    },
+    {
+      "id": "10205_getCondition_gacksung",
+      "content": "Powiąż Zwei South Section 4 Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10405_getCondition_normal",
+      "content": "Zdobądź W Corp. L3 Cleanup Agent Ryōshū"
+    },
+    {
+      "id": "10405_getCondition_gacksung",
+      "content": "Powiąż W Corp. L3 Cleanup Agent Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10606_getCondition_normal",
+      "content": "Zdobądź W Corp. L2 Cleanup Agent Hong Lu"
+    },
+    {
+      "id": "10606_getCondition_gacksung",
+      "content": "Powiąż W Corp. L2 Cleanup Agent Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10206_getCondition_normal",
+      "content": "Zdobądź Seven South Section 4 Faust"
+    },
+    {
+      "id": "10206_getCondition_gacksung",
+      "content": "Powiąż Seven South Section 4 Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10706_getCondition_normal",
+      "content": "Zdobądź Seven South Section 4 Heathcliff"
+    },
+    {
+      "id": "10706_getCondition_gacksung",
+      "content": "Powiąż Seven South Section 4 Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10105_getCondition_normal",
+      "content": "Zdobądź Molar Office Fixer Yi Sang"
+    },
+    {
+      "id": "10105_getCondition_gacksung",
+      "content": "Powiąż Molar Office Fixer Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "11105_getCondition_normal",
+      "content": "Zdobądź Molar Office Fixer Outis"
+    },
+    {
+      "id": "11105_getCondition_gacksung",
+      "content": "Powiąż Molar Office Fixer Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10907_getCondition_normal",
+      "content": "Zdobądź Dieci South Section 4 Rodion"
+    },
+    {
+      "id": "10907_getCondition_gacksung",
+      "content": "Powiąż Dieci South Section 4 Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10207_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Regret Faust"
+    },
+    {
+      "id": "10207_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Regret Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10607_getCondition_normal",
+      "content": "Zdobądź Hook Office Fixer Hong Lu"
+    },
+    {
+      "id": "10607_getCondition_gacksung",
+      "content": "Powiąż Hook Office Fixer Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10106_getCondition_normal",
+      "content": "Zdobądź W Corp. L3 Cleanup Agent Yi Sang"
+    },
+    {
+      "id": "10106_getCondition_gacksung",
+      "content": "Powiąż W Corp. L3 Cleanup Agent Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "11207_getCondition_normal",
+      "content": "Zdobądź Twinhook Pirates First Mate Gregor"
+    },
+    {
+      "id": "11207_getCondition_gacksung",
+      "content": "Powiąż Twinhook Pirates First Mate Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10406_getCondition_normal",
+      "content": "Zdobądź LCCB Assistant Manager Ryōshū"
+    },
+    {
+      "id": "10406_getCondition_gacksung",
+      "content": "Powiąż LCCB Assistant Manager Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10306_getCondition_normal",
+      "content": "Zdobądź The Middle Little Sister Don Quixote"
+    },
+    {
+      "id": "10306_getCondition_gacksung",
+      "content": "Powiąż The Middle Little Sister Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10507_getCondition_normal",
+      "content": "Zdobądź The Middle Little Brother Meursault"
+    },
+    {
+      "id": "10507_getCondition_gacksung",
+      "content": "Powiąż The Middle Little Brother Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10707_getCondition_normal",
+      "content": "Zdobądź The Pequod Harpooneer Heathcliff"
+    },
+    {
+      "id": "10707_getCondition_gacksung",
+      "content": "Powiąż The Pequod Harpooneer Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10107_getCondition_normal",
+      "content": "Zdobądź The Pequod First Mate Yi Sang"
+    },
+    {
+      "id": "10107_getCondition_gacksung",
+      "content": "Powiąż The Pequod First Mate Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "11008_getCondition_normal",
+      "content": "Zdobądź Cinq South Section 4 Director Sinclair"
+    },
+    {
+      "id": "11008_getCondition_gacksung",
+      "content": "Powiąż Cinq South Section 4 Director Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "11106_getCondition_normal",
+      "content": "Zdobądź Cinq South Section 4 Outis"
+    },
+    {
+      "id": "11106_getCondition_gacksung",
+      "content": "Powiąż Cinq South Section 4 Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "11107_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Magic Bullet Outis"
+    },
+    {
+      "id": "11107_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Magic Bullet Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10307_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Lantern Don Quixote"
+    },
+    {
+      "id": "10307_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Lantern Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10608_getCondition_normal",
+      "content": "Zdobądź Dieci South Section 4 Hong Lu"
+    },
+    {
+      "id": "10608_getCondition_gacksung",
+      "content": "Powiąż Dieci South Section 4 Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10108_getCondition_normal",
+      "content": "Zdobądź Dieci South Section 4 Yi Sang"
+    },
+    {
+      "id": "10108_getCondition_gacksung",
+      "content": "Powiąż Dieci South Section 4 Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10808_getCondition_normal",
+      "content": "Zdobądź The Pequod Captain Ishmael"
+    },
+    {
+      "id": "10808_getCondition_gacksung",
+      "content": "Powiąż The Pequod Captain Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10508_getCondition_normal",
+      "content": "Zdobądź Blade Lineage Mentor Meursault"
+    },
+    {
+      "id": "10508_getCondition_gacksung",
+      "content": "Powiąż Blade Lineage Mentor Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "10208_getCondition_normal",
+      "content": "Zdobądź Blade Lineage Salsu Faust"
+    },
+    {
+      "id": "10208_getCondition_gacksung",
+      "content": "Powiąż Blade Lineage Salsu Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "11208_getCondition_normal",
+      "content": "Zdobądź Kurokumo Clan Captain Gregor"
+    },
+    {
+      "id": "11208_getCondition_gacksung",
+      "content": "Powiąż Kurokumo Clan Captain Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10308_getCondition_normal",
+      "content": "Zdobądź Blade Lineage Salsu Don Quixote"
+    },
+    {
+      "id": "10308_getCondition_gacksung",
+      "content": "Powiąż Blade Lineage Salsu Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10908_getCondition_normal",
+      "content": "Zdobądź Liu South Section 4 Director Rodion"
+    },
+    {
+      "id": "10908_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 4 Director Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10407_getCondition_normal",
+      "content": "Zdobądź Liu South Section 4 Ryōshū"
+    },
+    {
+      "id": "10407_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 4 Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10708_getCondition_normal",
+      "content": "Zdobądź Öufi South Section 3 Heathcliff"
+    },
+    {
+      "id": "10708_getCondition_gacksung",
+      "content": "Powiąż Öufi South Section 3 Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "11108_getCondition_normal",
+      "content": "Zdobądź Wuthering Heights Chief Butler Outis"
+    },
+    {
+      "id": "11108_getCondition_gacksung",
+      "content": "Powiąż Wuthering Heights Chief Butler Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10509_getCondition_normal",
+      "content": "Zdobądź Dead Rabbits Boss Meursault"
+    },
+    {
+      "id": "10509_getCondition_gacksung",
+      "content": "Powiąż Dead Rabbits Boss Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "11209_getCondition_normal",
+      "content": "Zdobądź Edgar Family Heir Gregor"
+    },
+    {
+      "id": "11209_getCondition_gacksung",
+      "content": "Powiąż Edgar Family Heir Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10209_getCondition_normal",
+      "content": "Zdobądź Wuthering Heights Butler Faust"
+    },
+    {
+      "id": "10209_getCondition_gacksung",
+      "content": "Powiąż Wuthering Heights Butler Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10408_getCondition_normal",
+      "content": "Zdobądź Edgar Family Chief Butler Ryōshū"
+    },
+    {
+      "id": "10408_getCondition_gacksung",
+      "content": "Powiąż Edgar Family Chief Butler Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10809_getCondition_normal",
+      "content": "Zdobądź Edgar Family Butler Ishmael"
+    },
+    {
+      "id": "10809_getCondition_gacksung",
+      "content": "Powiąż Edgar Family Butler Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "11009_getCondition_normal",
+      "content": "Zdobądź Dawn Office Fixer Sinclair"
+    },
+    {
+      "id": "11009_getCondition_gacksung",
+      "content": "Powiąż Dawn Office Fixer Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "10109_getCondition_normal",
+      "content": "Zdobądź The Ring Pointillist Student Yi Sang"
+    },
+    {
+      "id": "10109_getCondition_gacksung",
+      "content": "Powiąż The Ring Pointillist Student Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "11109_getCondition_normal",
+      "content": "Zdobądź The Ring Pointillist Student Outis"
+    },
+    {
+      "id": "11109_getCondition_gacksung",
+      "content": "Powiąż The Ring Pointillist Student Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10609_getCondition_normal",
+      "content": "Zdobądź District 20 Yurodivy Hong Lu"
+    },
+    {
+      "id": "10609_getCondition_gacksung",
+      "content": "Powiąż District 20 Yurodivy Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10409_getCondition_normal",
+      "content": "Zdobądź District 20 Yurodivy Ryōshū"
+    },
+    {
+      "id": "10409_getCondition_gacksung",
+      "content": "Powiąż District 20 Yurodivy Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10309_getCondition_normal",
+      "content": "Zdobądź T Corp. Class 3 Collection Staff Don Quixote"
+    },
+    {
+      "id": "10309_getCondition_gacksung",
+      "content": "Powiąż T Corp. Class 3 Collection Staff Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10909_getCondition_normal",
+      "content": "Zdobądź T Corp. Class 2 Collection Staff Rodion"
+    },
+    {
+      "id": "10909_getCondition_gacksung",
+      "content": "Powiąż T Corp. Class 2 Collection Staff Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10510_getCondition_normal",
+      "content": "Zdobądź Dieci South Section 4 Director Meursault"
+    },
+    {
+      "id": "10510_getCondition_gacksung",
+      "content": "Powiąż Dieci South Section 4 Director Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "11110_getCondition_normal",
+      "content": "Zdobądź W Corp. Cleanup Captain Outis"
+    },
+    {
+      "id": "11110_getCondition_gacksung",
+      "content": "Powiąż W Corp. L3 Cleanup Captain Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10210_getCondition_normal",
+      "content": "Zdobądź MultiCrack Office Rep Faust"
+    },
+    {
+      "id": "10210_getCondition_gacksung",
+      "content": "Powiąż MultiCrack Office Rep Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10709_getCondition_normal",
+      "content": "Zdobądź MultiCrack Office Fixer Heathcliff"
+    },
+    {
+      "id": "10709_getCondition_gacksung",
+      "content": "Powiąż MultiCrack Office Fixer Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10710_getCondition_normal",
+      "content": "Zdobądź Wild Hunt Heathcliff"
+    },
+    {
+      "id": "10710_getCondition_gacksung",
+      "content": "Powiąż Wild Hunt Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10110_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Solemn Lament Yi Sang"
+    },
+    {
+      "id": "10110_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Solemn Lament Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10410_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::Red Eyes & Penitence Ryōshū"
+    },
+    {
+      "id": "10410_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::Red Eyes & Penitence Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "10910_getCondition_normal",
+      "content": "Zdobądź Devyat' North Section 3 Rodion"
+    },
+    {
+      "id": "10910_getCondition_gacksung",
+      "content": "Powiąż Devyat' North Section 3 Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10810_getCondition_normal",
+      "content": "Zdobądź Zwei West Section 3 Ishmael"
+    },
+    {
+      "id": "10810_getCondition_gacksung",
+      "content": "Powiąż Zwei West Section 3 Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10511_getCondition_normal",
+      "content": "Zdobądź Cinq West Section 3 Meursault"
+    },
+    {
+      "id": "10511_getCondition_gacksung",
+      "content": "Powiąż Cinq West Section 3 Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "11010_getCondition_normal",
+      "content": "Zdobądź Zwei West Section 3 Sinclair"
+    },
+    {
+      "id": "11010_getCondition_gacksung",
+      "content": "Powiąż Zwei West Section 3 Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "11111_getCondition_normal",
+      "content": "Zdobądź The Barber of La Manchaland Outis"
+    },
+    {
+      "id": "11111_getCondition_gacksung",
+      "content": "Powiąż The Barber of La Manchaland Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10610_getCondition_normal",
+      "content": "Zdobądź Fanghunt Office Fixer Hong Lu"
+    },
+    {
+      "id": "10610_getCondition_gacksung",
+      "content": "Powiąż Fanghunt Office Fixer Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "11210_getCondition_normal",
+      "content": "Zdobądź The Priest of La Manchaland Gregor"
+    },
+    {
+      "id": "11210_getCondition_gacksung",
+      "content": "Powiąż The Priest of La Manchaland Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10911_getCondition_normal",
+      "content": "Zdobądź The Princess of La Manchaland Rodion"
+    },
+    {
+      "id": "10911_getCondition_gacksung",
+      "content": "Powiąż The Princess of La Manchaland Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "11011_getCondition_normal",
+      "content": "Zdobądź Devyat' North Section 3 Sinclair"
+    },
+    {
+      "id": "11011_getCondition_gacksung",
+      "content": "Powiąż Devyat' North Section 3 Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "10310_getCondition_normal",
+      "content": "Zdobądź the Manager of La Manchaland Don Quixote"
+    },
+    {
+      "id": "10310_getCondition_gacksung",
+      "content": "Powiąż The Manager of La Manchaland Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10611_getCondition_normal",
+      "content": "Zdobądź Full-Stop Office Rep Hong Lu"
+    },
+    {
+      "id": "10611_getCondition_gacksung",
+      "content": "Powiąż Full-Stop Office Rep Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "10711_getCondition_normal",
+      "content": "Zdobądź Full-Stop Office Fixer Heathcliff"
+    },
+    {
+      "id": "10711_getCondition_gacksung",
+      "content": "Powiąż Full-Stop Office Fixer Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10211_getCondition_normal",
+      "content": "Zdobądź LCE E.G.O::Ardor Blossom Star Faust"
+    },
+    {
+      "id": "10211_getCondition_gacksung",
+      "content": "Powiąż LCE E.G.O::Ardor Blossom Star Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10111_getCondition_normal",
+      "content": "Zdobądź LCE E.G.O::Lantern Yi Sang"
+    },
+    {
+      "id": "10111_getCondition_gacksung",
+      "content": "Powiąż LCE E.G.O::Lantern Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10811_getCondition_normal",
+      "content": "Zdobądź Kurokumo Clan Captain Ishmael"
+    },
+    {
+      "id": "10811_getCondition_gacksung",
+      "content": "Powiąż Kurokumo Clan Captain Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10712_getCondition_normal",
+      "content": "Zdobądź Kurokumo Clan Wakashu Heathcliff"
+    },
+    {
+      "id": "10712_getCondition_gacksung",
+      "content": "Powiąż Kurokumo Clan Wakashu Heathcliff do Trzeciej Rangi"
+    },
+    {
+      "id": "10112_getCondition_normal",
+      "content": "Zdobądź Liu South Section 3 Yi Sang"
+    },
+    {
+      "id": "10112_getCondition_gacksung",
+      "content": "Powiąż Liu South Section 3 Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10311_getCondition_normal",
+      "content": "Zdobądź Cinq East Section 3 Don Quixote"
+    },
+    {
+      "id": "10311_getCondition_gacksung",
+      "content": "Powiąż Cinq East Section 3 Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "11211_getCondition_normal",
+      "content": "Zdobądź Firefist Office Survivor Gregor"
+    },
+    {
+      "id": "11211_getCondition_gacksung",
+      "content": "Powiąż Firefist Office Survivor Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "11112_getCondition_normal",
+      "content": "Zdobądź Heishou Pack - Mao Branch Outis"
+    },
+    {
+      "id": "11112_getCondition_gacksung",
+      "content": "Powiąż Heishou Pack - Mao Branch Outis do Trzeciej Rangi"
+    },
+    {
+      "id": "10411_getCondition_normal",
+      "content": "Zdobądź Heishou Pack - Mao Branch Ryōshū"
+    },
+    {
+      "id": "10411_getCondition_gacksung",
+      "content": "Powiąż Heishou Pack - Mao Branch Ryōshū do Trzeciej Rangi"
+    },
+    {
+      "id": "11012_getCondition_normal",
+      "content": "Zdobądź The Middle Little Brother Sinclair"
+    },
+    {
+      "id": "11012_getCondition_gacksung",
+      "content": "Powiąż The Middle Little Brother Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "10612_getCondition_normal",
+      "content": "Zdobądź R Corp. 4th Pack Reindeer Hong Lu"
+    },
+    {
+      "id": "10612_getCondition_gacksung",
+      "content": "Powiąż R Corp. 4th Pack Reindeer Hong Lu do Trzeciej Rangi"
+    },
+    {
+      "id": "11212_getCondition_normal",
+      "content": "Zdobądź Heishou Pack - Si Branch Gregor"
+    },
+    {
+      "id": "11212_getCondition_gacksung",
+      "content": "Powiąż Heishou Pack - Si Branch Gregor do Trzeciej Rangi"
+    },
+    {
+      "id": "10912_getCondition_normal",
+      "content": "Zdobądź Heishou Pack - Si Branch Rodion"
+    },
+    {
+      "id": "10912_getCondition_gacksung",
+      "content": "Powiąż Heishou Pack - Si Branch Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "10212_getCondition_normal",
+      "content": "Zdobądź Heishou Pack - Mao Branch Adept Faust"
+    },
+    {
+      "id": "10212_getCondition_gacksung",
+      "content": "Powiąż Heishou Pack - Mao Branch Adept Faust do Trzeciej Rangi"
+    },
+    {
+      "id": "10812_getCondition_normal",
+      "content": "Zdobądź Family Hierarch Candidate Ishmael"
+    },
+    {
+      "id": "10812_getCondition_gacksung",
+      "content": "Powiąż Family Hierarch Candidate Ishmael do Trzeciej Rangi"
+    },
+    {
+      "id": "10512_getCondition_normal",
+      "content": "Zdobądź The Thumb East Capo IIII Meursault"
+    },
+    {
+      "id": "10512_getCondition_gacksung",
+      "content": "Powiąż The Thumb East Capo IIII Meursault do Trzeciej Rangi"
+    },
+    {
+      "id": "11013_getCondition_normal",
+      "content": "Zdobądź The Thumb East Soldato II Sinclair"
+    },
+    {
+      "id": "11013_getCondition_gacksung",
+      "content": "Powiąż The Thumb East Soldato II Sinclair do Trzeciej Rangi"
+    },
+    {
+      "id": "10113_getCondition_normal",
+      "content": "Zdobądź N Corp. E.G.O::Fell Bullet Yi Sang"
+    },
+    {
+      "id": "10113_getCondition_gacksung",
+      "content": "Powiąż N Corp. E.G.O::Fell Bullet Yi Sang do Trzeciej Rangi"
+    },
+    {
+      "id": "10312_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::In the Name of Love and Hate Don Quixote"
+    },
+    {
+      "id": "10312_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::In the Name of Love and Hate Don Quixote do Trzeciej Rangi"
+    },
+    {
+      "id": "10913_getCondition_normal",
+      "content": "Zdobądź Lobotomy E.G.O::The Sword Sharpened with Tears Rodion"
+    },
+    {
+      "id": "10913_getCondition_gacksung",
+      "content": "Powiąż Lobotomy E.G.O::The Sword Sharpened with Tears Rodion do Trzeciej Rangi"
+    },
+    {
+      "id": "11113_getCondition_normal",
+      "content": "Acquire T Corp. Class 3 VDCU Staff Outis"
+    },
+    {
+      "id": "11113_getCondition_gacksung",
+      "content": "Uptie T Corp. Class 3 VDCU Staff Outis to Tier 3"
+    },
+    {
+      "id": "10613_getCondition_normal",
+      "content": "Acquire The Lord of Hongyuan Hong Lu"
+    },
+    {
+      "id": "10613_getCondition_gacksung",
+      "content": "Uptie The Lord of Hongyuan Hong Lu to Tier 3"
+    },
+    {
+      "id": "10114_getCondition_normal",
+      "content": "Acquire Heishou Pack - Wu Branch Adept Yi Sang"
+    },
+    {
+      "id": "10114_getCondition_gacksung",
+      "content": "Uptie Heishou Pack - Wu Branch Adept Yi Sang to Tier 3"
+    },
+    {
+      "id": "11014_getCondition_normal",
+      "content": "Acquire Heishou Pack - You Branch Sinclair"
+    },
+    {
+      "id": "11014_getCondition_gacksung",
+      "content": "Uptie Heishou Pack - You Branch Sinclair to Tier 3"
+    },
+    {
+      "id": "10412_getCondition_normal",
+      "content": "Acquire N Corp. E.G.O::Contempt, Awe Ryōshū"
+    },
+    {
+      "id": "10412_getCondition_gacksung",
+      "content": "Uptie N Corp. E.G.O::Contempt, Awe Ryōshū to Tier 3"
+    },
+    {
+      "id": "10213_getCondition_normal",
+      "content": "Acquire Shi East Section 3 Faust"
+    },
+    {
+      "id": "10213_getCondition_gacksung",
+      "content": "Uptie Shi East Section 3 Faust to Tier 3"
+    },
+    {
+      "id": "10513_getCondition_normal",
+      "content": "Acquire The Prince of La Manchaland Meursault"
+    },
+    {
+      "id": "10513_getCondition_gacksung",
+      "content": "Uptie The Prince of La Manchaland Meursault to Tier 3"
+    },
+    {
+      "id": "10713_getCondition_normal",
+      "content": "Acquire W Corp. L4 Cleanup Agent - CCA Heathcliff"
+    },
+    {
+      "id": "10713_getCondition_gacksung",
+      "content": "Uptie W Corp. L4 Cleanup Agent - CCA Heathcliff to Tier 3"
+    },
+    {
+      "id": "10813_getCondition_normal",
+      "content": "Acquire Jeong's Office Rep Ishmael"
+    },
+    {
+      "id": "10813_getCondition_gacksung",
+      "content": "Uptie Jeong's Office Rep Ishmael to Tier 3"
+    },
+    {
+      "id": "11213_getCondition_normal",
+      "content": "Acquire Night Awls Capitano Gregor"
+    },
+    {
+      "id": "11213_getCondition_gacksung",
+      "content": "Uptie Night Awls Capitano Gregor to Tier 3"
+    },
+    {
+      "id": "10313_getCondition_normal",
+      "content": "Acquire Heishou Pack - Wei Branch Don Quixote"
+    },
+    {
+      "id": "10313_getCondition_gacksung",
+      "content": "Uptie Heishou Pack - Wei Branch Don Quixote to Tier 3"
+    },
+    {
+      "id": "10714_getCondition_normal",
+      "content": "Acquire Heishou Pack - Wei Branch Adept Heathcliff"
+    },
+    {
+      "id": "10714_getCondition_gacksung",
+      "content": "Uptie Heishou Pack - Wei Branch Adept Heathcliff to Tier 3"
+    },
+    {
+      "id": "10413_getCondition_normal",
+      "content": "Acquire Drifting Blade of Hongyuan Ryōshū"
+    },
+    {
+      "id": "10413_getCondition_gacksung",
+      "content": "Uptie Drifting Blade of Hongyuan Ryōshū to Tier 3"
+    },
+    {
+      "id": "10914_getCondition_normal",
+      "content": "Acquire R Corp. 4th Pack Reindeer Rodion"
+    },
+    {
+      "id": "10914_getCondition_gacksung",
+      "content": "Uptie R Corp. 4th Pack Reindeer Rodion to Tier 3"
+    },
+    {
+      "id": "10214_getCondition_normal",
+      "content": "Acquire The Index Proselyte: 【Paper Slip】 Faust"
+    },
+    {
+      "id": "10214_getCondition_gacksung",
+      "content": "Uptie The Index Proselyte: 【Paper Slip】 Faust to Tier 3"
+    },
+    {
+      "id": "11114_getCondition_normal",
+      "content": "Acquire LCA Udjat Vanguard Team 3 Leader Outis"
+    },
+    {
+      "id": "11114_getCondition_gacksung",
+      "content": "Uptie LCA Udjat Vanguard Team 3 Leader Outis to Tier 3"
+    },
+    {
+      "id": "10314_getCondition_normal",
+      "content": "Acquire The Index Proxy - Effloresced E.G.O::Procuration Don Quixote"
+    },
+    {
+      "id": "10314_getCondition_gacksung",
+      "content": "Uptie The Index Proxy - Effloresced E.G.O::Procuration Don Quixote to Tier 3"
+    }
+  ]
+}

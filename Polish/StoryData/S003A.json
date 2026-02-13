@@ -1,0 +1,115 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Na pokładzie Mefistofolesa",
+      "model": "이스마엘",
+      "content": "Chwila, moment."
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "O co chodzi?"
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Dołączyłam do tej firmy bo było mi powiedziane że pomoże to przyśpieszyć rozwój mojej kariery."
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Ale aktualnie wyszytko co robimy to wdajemy się bezmyślnie w walki z kim popadnie jak jakieś Szczury."
+    },
+    {
+      "id": 4,
+      "model": "돈키호테",
+      "content": "Sprzeciwiam się tej szykanie! Walczyliśmy ze złem w imię sprawiedliwości!"
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Prosze cię, przestań gadać przez chwilę."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "…Tak czy siak, jeśli nie zaczniemy robić rzeczy poza tłuczeniem się z przypadkowymi ludźmi jak jakieś zbiry na wynajem będe zmuszona do poważnego rozmyślenia zmiany kariery."
+    },
+    {
+      "id": 7,
+      "model": "파우스트",
+      "content": "Czy nie czytałaś zawartości swojego kontraktu?"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "…Rezygnacja nie jest wam dozwolona."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "…Serio myślisz że takie nieszczere kontrakty są prawomocne?"
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Oczywiście że tak."
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "A sam kontrakt jest w pełni szczery."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "…Słucham?"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Czy myślałaś że Mefistofoles był zbudowany wyłącznie jako pojazd który ma wozić nas z jednego miejsca na drugie?"
+    },
+    {
+      "id": 14,
+      "model": "카론",
+      "content": "Mefi jest głodny. Ciągle płacze."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Jakim cudem autobus może być głodny?>"
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Kiedy silnik “wchłania” paliwo, wytwarza on też wyjątkowy produkt uboczny…"
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Dzięki niemu możecie stać się silniejsi."
+    },
+    {
+      "id": 18,
+      "model": "파우스트",
+      "content": "Jestem pewna że Yi Sang wie o czym mówię. Z wszystkimi możliwościami które można zyskać z lustra…"
+    },
+    {
+      "id": 19,
+      "model": "이상",
+      "content": "Coś takiego jak limit indywidualnej siły staje się wyłącznie sugestją."
+    },
+    {
+      "id": 20,
+      "model": "이상",
+      "content": "Czy to ja zerkam spowrotem z za tafli lustra, czy może jest to ktoś kompletnie mi obcy?"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Możliwości…? Czyli co konkretnie z tego zyskujemy?>"
+    }
+  ]
+}

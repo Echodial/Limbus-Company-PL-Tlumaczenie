@@ -1,0 +1,791 @@
+{
+  "dataList": [
+    {
+      "id": 2050511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Żal",
+          "abName": "Porzucony Morderca",
+          "desc": "[BeforeAttack] Usuń 1 możliwy do usunięcia negatywny efekt na sobie<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]; Nałóż (A-Rezonans Gniewu. /3) dodatkowej Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Żal",
+          "abName": "Porzucony Morderca",
+          "desc": "[BeforeAttack] Usuń 1 możliwy do usunięcia negatywny efekt na sobie<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]; Nałóż (A-Rezonans Gniewu. /3) dodatkowej Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]\nJeśli cel nie ma Progu Zachwiania przy aktywacji [VibrationExplosion],\nZadaj Obrażenia od Gniewu równe (6 + 2x(A-Rezonans Gniewu.))% podniesienia ostatniego Progu Zachwiania<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Żal",
+          "abName": "Porzucony Morderca",
+          "desc": "[BeforeAttack] Usuń w możliwe do usunięcia negPrzyywne efekty na sobie<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]; Nałóż (A-Rezonans Gniewu. /3) dodatkowej Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]\nJeśli cel nie ma Progu Zachwiania przy aktywacji [VibrationExplosion],\nZadaj Obrażenia od Gniewu równe (12 + 3x(A-Rezonans Gniewu.))% podniesienia ostatniego Progu Zachwiania.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Żal",
+          "abName": "Porzucony Morderca",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Jeśli ta jednostka ma negatywny efekt, Waga Ataku +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion].\nIlość podniesienia Progu Zachwiania przez [VibrationExplosion] zwiększa się o 30% [Vibration] na celu.\nZmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Zyskaj 3 [Binding] i 1 [HitResultUp] na początku następnej tury.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Żal",
+          "abName": "Porzucony Morderca",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Jeśli ta jednostka ma negatywny efekt, Waga Ataku +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]\nIlość podniesienia Progu Zachwiania przez [VibrationExplosion] zwiększa się o 40% [Vibration] na celu.\nJeśli cel nie ma Progu Zachwiania przy aktywacji [VibrationExplosion],\nZadaj Obrażenia od Gniewu równe (6 + 2x(A-Rezonans Gniewu.))% podniesienia ostatniego Progu Zachwiania\nZmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Zyskaj 3 [Binding] i 1 [HitResultUp] na początku następnej tury.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Żal",
+          "abName": "Porzucony Morderca",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Jeśli ta jednostka ma negatywny efekt, Waga Ataku +2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]\nIlość podniesienia Progu Zachwiania przez [VibrationExplosion] zwiększa się o 50% [Vibration] na celu.\nJeśli cel nie ma Progu Zachwiania przy aktywacji [VibrationExplosion],\nZadaj Obrażenia od Gniewu równe (12 + 3x(A-Rezonans Gniewu.))% podniesienia ostatniego Progu Zachwiania\nZmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Zyskaj 3 [Binding] i 1 [HitResultUp] na początku następnej tury.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elektryczny Wrzask",
+          "abName": "Śniąca Elektryczna Owca",
+          "desc": "[BeforeAttack] Zyskaj +8 Ilości [Charge]\n[EndSkill] Przyznaj +8 Ilości [Charge] 1 innemu sojusznikowi z najmniejszą Ilością [Charge]\n- Efekt wpływa dodatkowo na (najwyższy Rezon. Zazdrości - 2) sojuszników (maks 3)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Elektryczny Wrzask",
+          "abName": "Śniąca Elektryczna Owca",
+          "desc": "[BeforeAttack] Zyskaj +8 Ilości [Charge]\n[EndSkill] Przyznaj +8 Ilości [Charge] 1 innemu sojusznikowi z najmniejszą Ilością [Charge]\n- Efekt wpływa dodatkowo na (najwyższy Rezon. Zazdrości - 2) sojuszników (maks 4)\n- Przy 4+ (najwyższy Rezon. Zazdrości), Przyznaj 1 [VioletDamageUp] na siebie, i wszystkich sojuszników, na których wpłynął poprzedni efekt<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Elektryczny Wrzask",
+          "abName": "Śniąca Elektryczna Owca",
+          "desc": "[BeforeAttack] Zyskaj +12 Ilości [Charge]\n[EndSkill] Przyznaj +8 Ilości [Charge] 1 innemu sojusznikowi z najmniejszą Ilością [Charge]\n- Efekt wpływa dodatkowo na (najwyższy Rezon. Zazdrości - 2) sojuszników (maks <style=\"highlight\">5</style>)\n- Przy 4+ (najwyższy Rezon. Zazdrości), Przyznaj 1 [VioletDamageUp] na siebie, i wszystkich sojuszników, na których wpłynął poprzedni efekt\n<style=\"highlight\">- Przy 6+ (najwyższy Rezon. Zazdrości), Przyznaj 1 [VioletDamageUp] na siebie, i wszystkich sojuszników, na których wpłynął poprzedni efekt</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elektryczny Wrzask",
+          "abName": "Śniąca Elektryczna Owca",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj Wagę Ataku równą (najwyższy Rezon. Zazdrości - 2) (maks 2)\n[BeforeAttack] Jeśli ta jednostka ma 10+ Ilości [Charge], zużyj do 20 Ilości [Charge]; zadaj +2% więcej obrażeń za każdą zużytą Ilość [Charge] (maks 40%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Elektryczny Wrzask",
+          "abName": "Śniąca Elektryczna Owca",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj Wagę Ataku równą (najwyższy Rezon. Zazdrości - 2) (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Jeśli ta jednostka ma 10+ Ilości [Charge], zużyj do 20 Ilości [Charge]; zadaj +<style=\"highlight\">2.5</style>% więcej obrażeń za każdą zużytą Ilość [Charge] (maks <style=\"highlight\">50</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Elektryczny Wrzask",
+          "abName": "Śniąca Elektryczna Owca",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj Wagę Ataku równą (najwyższy Rezon. Zazdrości - 2) (maks 3)\n<style=\"highlight\">[BeforeAttack] Przy 10+ Ilości [Charge], efekty 'Przy Uderzeniu' są nakładane dwukrotnie</style>\n[BeforeAttack] Jeśli ta jednostka ma 10+ Ilości [Charge], zużyj do 20 Ilości [Charge]; zadaj +<style=\"highlight\">3</style>% więcej obrażeń za każdą zużytą Ilość [Charge] (maks <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pragnienie - Mircalla",
+          "abName": "Cztery Setki Róż",
+          "desc": "[EndSkill] Przez 3 kolejne tury, strać 10 SP na Końcu Tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Nałóż +2 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Aktywuj [Laceration] na celu jeden raz (cel traci 1 Ilości [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pragnienie - Mircalla",
+          "abName": "Cztery Setki Róż",
+          "desc": "<style=\"highlight\">Jeśli cel ma 6+ [Laceration], Moc Monet +1</style>\n[EndSkill] Przez 3 kolejne tury, strać 10 SP na Końcu Tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy 4+ najwyższy Rezonans, aktywuj [Laceration] na celu jeden raz (cel traci 1 Ilości [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy 4+ najwyższy Rezonans, aktywuj [Laceration] na celu jeden raz (cel traci 1 Ilości [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Nałóż +2 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Aktywuj [Laceration] na celu <style=\"highlight\">(1 + (najwyższy Rezon./2)) razy. (3 razy maks; cel traci Ilość [Laceration] równą ilości aktywacji)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pragnienie - Mircalla",
+          "abName": "Cztery Setki Róż",
+          "desc": "<style=\"highlight\">Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>\n[EndSkill] Przez 3 kolejne tury, strać 10 SP na Końcu Tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ najwyższy Rezonans, aktywuj [Laceration] na celu jeden raz (cel traci 1 Ilości [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ najwyższy Rezonans, aktywuj [Laceration] na celu jeden raz (cel traci 1 Ilości [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Nałóż +2 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Aktywuj [Laceration] na celu (1 + (najwyższy Rezon./2)) razy. (3 razy maks; cel traci Ilość [Laceration] równą ilości aktywacji)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Zadając nadmierne obrażenia ponad pozostałe HP przeciwnika, zadaj nadwyżkę jako stałe obrażenia rozdzielone na wszystkich przeciwników. (min 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pragnienie - Mircalla",
+          "abName": "Cztery Setki Róż",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[WhenUse] Zużyj (Maks) 10% Maks HP tej jednostki i zadaj (zużyte HP / 2) obrażeń wszystkim wrogom i sojusznikom\n- Jesli ta jednostka ma mniej niż 50% swojego maks HP, zamiast tego nałóż 5 [Laceration] na wszystkich sojuszników, po czym aktywuj [Laceration] ma nich jeden raz (strać 1 Ilości [Laceration]). Ulecz (suma obrażeń zadanych przez poprzedni efekt) HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration] na siebie i na cel<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration] na siebie i na cel<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Nałóż +2 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jeśli cel nie ma na sobie [RoseWedge], nałóż 4 dodatkowego nasilenia [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Aktywuj [Laceration] na celu jeden raz (cel traci 1 Ilości [Laceration])<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pragnienie - Mircalla",
+          "abName": "Cztery Setki Róż",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n<style=\"highlight\">Przy 6+ (suma [Laceration] na sobie i na celu), Moc Monet +1</style>\n[WhenUse] Zużyj (Maks) 10% Maks HP tej jednostki i zadaj (zużyte HP / 2) obrażeń wszystkim wrogom i sojusznikom\n- Jesli ta jednostka ma mniej niż 50% swojego maks HP, zamiast tego nałóż 5 [Laceration] na wszystkich sojuszników, po czym aktywuj [Laceration] ma nich jeden raz (strać 1 Ilości [Laceration]). Ulecz (suma obrażeń zadanych przez poprzedni efekt) HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration] na siebie i na cel"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration] na siebie i na cel"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Nałóż +2 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jeśli cel nie ma na sobie [RoseWedge], nałóż 4 dodatkowego nasilenia [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Aktywuj [Laceration] na celu <style=\"highlight\">(1 + (najwyższy Rezon./2)) razy. (3 razy maks; cel traci Ilości [Laceration] równą ilości aktywacji)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pragnienie - Mircalla",
+          "abName": "Cztery Setki Róż",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nMoc Monet +1 za każde 6 (suma [Laceration] na sobie i na celu) <style=\"highlight\">(maks 3)</style>\n[WhenUse] Zużyj (Maks) 10% Maks HP tej jednostki i zadaj (zużyte HP / 2) obrażeń wszystkim wrogom i sojusznikom\n- Jesli ta jednostka ma mniej niż 50% swojego maks HP, zamiast tego nałóż i aktywuj 5 [Laceration] na wszystkich sojuszników (strać 1 Ilości [Laceration]). Ulecz (suma obrażeń zadanych przez poprzedni efekt) HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration] na siebie i na cel<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [Laceration] na siebie i na celu jeden raz (oboje tracą 1 Ilości [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration] na siebie i na cel<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [Laceration] na siebie i na celu jeden raz (oboje tracą 1 Ilości [Laceration])</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Nałóż +2 Ilości [RoseWedge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości [RoseWedge]"
+                },
+                {
+                  "desc": "- Jeśli cel nie ma na sobie [RoseWedge], nałóż 4 dodatkowego nasilenia [RoseWedge]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[WinDuelattack] Aktywuj [Laceration] na celu (1 + (najwyższy Rezonans/2)) razy. (3 razy maks; cel traci Ilości [Laceration] równą ilości aktywacji)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Zadając nadmierne obrażenia ponad pozostałe HP przeciwnika, zadaj nadwyżkę jako stałe obrażenia rozdzielone na wszystkich przeciwników. (min 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Miażdżąca Przeszłość",
+          "abName": "Parowa Machina Transportowa",
+          "desc": "[EndSkill] Przez 3 kolejne tury, strać 10 SP na Końcu Tury\n[EndSkill] Jeśli aktywujesz (Rezon. Lenistwa) o nieparzystej wartości w nieparzystych turach, lub jeśli aktywujesz (Rezon. Lenistwa) o parzystej wartości w parzystych turach, ulecz 10 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +(Rezon. Lenistwa / 2) Ilości [Vibration] (max 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Na głównym celu, aktywuj [FusionVibration] w jego obecny typ [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde [Vibration] na głównym celu (max 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde (suma Siły [Vibration] i Ilości [Vibration] na głównym celu) (max 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o +100% lub wiecej, aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Miażdżąca Przeszłość",
+          "abName": "Parowa Machina Transportowa",
+          "desc": "<style=\"highlight\">[BeforeAttack] Jeśli główny cel ma 30+ (suma Siły [Vibration] i Ilości [Vibration]), zyskaj +1 Wagi Ataku</style>\n[EndSkill] Przez 3 kolejne tury, strać 10 SP na Końcu Tury\n[EndSkill] Jeśli aktywujesz (Rezon. Lenistwa) o nieparzystej wartości w nieparzystych turach, lub jeśli aktywujesz (Rezon. Lenistwa) o parzystej wartości w parzystych turach, ulecz 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +(Rezon. Lenistwa / 2) Ilości [Vibration] (max 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Na głównym celu, aktywuj [FusionVibration] w jego obecny typ [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde [Vibration] na głównym celu (max 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde (suma Siły [Vibration] i Ilości [Vibration] na głównym celu) (max 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o +100% lub wiecej, aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Miażdżąca Przeszłość",
+          "abName": "Parowa Machina Transportowa",
+          "desc": "[BeforeAttack] Jeśli główny cel ma 30+ (suma Siły [Vibration] i Ilości [Vibration]), zyskaj +1 Wagi Ataku\n<style=\"highlight\">- Jeśli ma 100+, zamiast tego zyskaj +3 Wagi Ataku</style>\n<style=\"highlight\">[BeforeAttack] Za każde 2 najwyższego Rezonansu, nałóż 1 [Vibration] na wszystkie cele tego ataku (max 3)</style>\n[EndSkill] Przez 3 kolejne tury, strać 10 SP na Końcu Tury\n<style=\"highlight\">[EndSkill] Ulecz ([AccumulatedPastSinner] x 2)% HP</style>\n[EndSkill] Jeśli aktywujesz (Rezon. Lenistwa) o nieparzystej wartości w nieparzystych turach, lub jeśli aktywujesz (Rezon. Lenistwa) o parzystej wartości w parzystych turach, ulecz 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +(Rezon. Lenistwa / 2) Ilości [Vibration] (max 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Na głównym celu, aktywuj [FusionVibration] w jego obecny typ [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde [Vibration] na głównym celu (max 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde (suma Siły [Vibration] i Ilości [Vibration] na głównym celu) (max 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o  +50% lub wiecej, aktywuj [VibrationExplosion] jeden raz.</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o +100% lub wiecej, aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Miażdżąca Przeszłość",
+          "abName": "Parowa Machina Transportowa",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nZadaj +10% obrażeń za każdą wartość najwyższego Rezonansu (max 100%)\n- Jeśli najwyższy Rezon. był Rezonansem Lenistwa, zamiast tego zadaj +20% obrażeń za każdą wartość najwyższego Rezonansu (max 100%)\n[BeforeAttack] Jeśli aktywujesz (Rezon. Lenistwa) o parzystej wartości w nieparzystych turach, lub jeśli aktywujesz (Rezon. Lenistwa) o nieparzystej wartości w parzystych turach, zadaj +12% obrażeń<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde (suma Siły [Vibration] i Ilości [Vibration] na głównym celu) (max 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration] i +2 Ilości [Vibration] <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +(Rezon. Lenistwa) Ilości [Vibration] (max 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Na głównym celu, aktywuj [FusionVibration] w jego obecny typ [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o +100% lub wiecej, aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Miażdżąca Przeszłość",
+          "abName": "Parowa Machina Transportowa",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nZadaj +10% obrażeń za każdą wartość najwyższego Rezonansu (max 100%)\n- Jeśli najwyższy Rezon. był Rezonansem Lenistwa, zamiast tego zadaj +20% obrażeń za każdą wartość najwyższego Rezonansu (max 100%)\n<style=\"highlight\">[BeforeAttack] Jeśli główny cel ma 30+ (suma Siły [Vibration] i Ilości [Vibration]), zyskaj +2 Wagi Ataku</style>\n[BeforeAttack] Jeśli aktywujesz (Rezon. Lenistwa) o parzystej wartości w nieparzystych turach, lub jeśli aktywujesz (Rezon. Lenistwa) o nieparzystej wartości w parzystych turach, zadaj +12% obrażeń",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje +1% obrażeń za każde (suma Siły [Vibration] i Ilości [Vibration] na głównym celu) (max 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration] i +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +(Rezon. Lenistwa) Ilości [Vibration] (max 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Na głównym celu, aktywuj [FusionVibration] w jego obecny typ [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o +100% lub wiecej, aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Miażdżąca Przeszłość",
+          "abName": "Parowa Machina Transportowa",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nZadaj +10% obrażeń za każdą wartość najwyższego Rezonansu (max 100%)\n- Jeśli najwyższy Rezon. był Rezonansem Lenistwa, zamiast tego zadaj +20% obrażeń za każdą wartość najwyższego Rezonansu (max 100%)\n[BeforeAttack] Jeśli główny cel ma 30+ (suma Siły [Vibration] i Ilości [Vibration]), zyskaj +2 Wagi Ataku\n[BeforeAttack] Jeśli aktywujesz (Rezon. Lenistwa) o parzystej wartości w nieparzystych turach, lub jeśli aktywujesz (Rezon. Lenistwa) o nieparzystej wartości w parzystych turach, zadaj +12% obrażeń\n<style=\"highlight\">[EndSkill] Ulecz ([AccumulatedPastSinner] x 3)% HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Ta Moneta zadaje <style=\"highlight\">+2%</style> obrażeń za każde (suma Siły [Vibration] i Ilości [Vibration] na głównym celu) (max 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration] i +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +(Rezon. Lenistwa) Ilości [Vibration] (max 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Na głównym celu, aktywuj [FusionVibration] w jego obecny typ [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli efekty tej Monety zwiększyły obrażenia o +100% lub wiecej, aktywuj [VibrationExplosion] 2 razy; następnie zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

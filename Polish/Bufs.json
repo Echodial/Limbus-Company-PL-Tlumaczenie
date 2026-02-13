@@ -1,0 +1,3119 @@
+{
+  "dataList": [
+    {
+      "id": "Enhancement",
+      "name": "Większa Moc Ataku",
+      "desc": "Zdolności atakujące mają +{0} Ostateczenej Mocy w tej turze.",
+      "summary": "Ost. moc zdolności ATK +{0}",
+      "undefined": "-"
+    },
+    {
+      "id": "Agility",
+      "name": "Pośpiech",
+      "desc": "+{0} Prędkości w tej turze.",
+      "summary": "PRD +{0}",
+      "undefined": "-"
+    },
+    {
+      "id": "Endurance",
+      "name": "Większa Moc Obrony",
+      "desc": "Zdolności obronne mają +{0} Ostateczenej Mocy w tej turze.",
+      "summary": "Ost. moc zdolności OBR +{0}",
+      "undefined": "-"
+    },
+    {
+      "id": "Reduction",
+      "name": "Mniejsza Moc Ataku",
+      "desc": "Zdolności atakujące mają -{0} Ostateczenej Mocy w tej turze.",
+      "summary": "Ost. moc zdolności ATK -{0}",
+      "undefined": "-"
+    },
+    {
+      "id": "Binding",
+      "name": "Spętanie",
+      "desc": "-{0} Prędkości w tej turze.",
+      "summary": "PRD -{0}",
+      "undefined": "-"
+    },
+    {
+      "id": "Vulnerable",
+      "name": "Kruchość",
+      "desc": "+{0}0% obrażeń otrzymywanych w tej turze. (Maks 100%)",
+      "summary": "+{0}0% Otrzymywanych obrażeń",
+      "undefined": "-"
+    },
+    {
+      "id": "Taunt",
+      "name": "Taunt",
+      "desc": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ElectricShock",
+      "name": "Szok",
+      "desc": "+{0} obrażeń otrzymywanych w tej turze."
+    },
+    {
+      "id": "Target",
+      "name": "Naznaczenie",
+      "desc": "Cel postaci ze zdolnością pasywną [Ostra Krawędź].",
+      "undefined": "-"
+    },
+    {
+      "id": "SelfHarm_LowMorale",
+      "name": "Compulsion [te sa chyba unused]",
+      "desc": "- Niskie Morale\n- Początek Tury: Przyznaje 2 Pośpiechu i 2 Kruchości",
+      "undefined": "-"
+    },
+    {
+      "id": "SelfHarm_Panic",
+      "name": "Compulsion",
+      "desc": "- Panika\n- Początek Tury: Lose 10 HP",
+      "undefined": "-"
+    },
+    {
+      "id": "Blame_LowMorale",
+      "name": "Outlash",
+      "desc": "- Niskie Morale\n- Początek Tury: Przyznaje 2 Większej Mocy Ataku i 2 Kruchości",
+      "undefined": "-"
+    },
+    {
+      "id": "Blame_Panic",
+      "name": "Outlash",
+      "desc": "- Panika\n- Początek Tury: A random ally loses 20 SP",
+      "undefined": "-"
+    },
+    {
+      "id": "EgoErode",
+      "name": "Korozja E.G.O",
+      "desc": "Grzesznik nie będzie słuchać instrukcji i użyje tylko zdolności Krozji.",
+      "summary": "Poza kontrolą; używa zdolności korozji",
+      "undefined": "-"
+    },
+    {
+      "id": "Charge",
+      "name": "Naładowanie",
+      "desc": "Używane przez zdolności dla dodatkowych efektów. Maksymalna ilość: 20. Ilość spada o 1 na końcu każdej tury.\n\n<color=#1aece7>Zużyta Ilość: {2}</color>",
+      "summary": "Używane w zdolnościach",
+      "undefined": "-"
+    },
+    {
+      "id": "DamageOverTime",
+      "name": "Ongoing Damage",
+      "desc": "Początek Tury: Take {0} fixed obrażeń HP.",
+      "summary": "{0} fixed obrażeń HP"
+    },
+    {
+      "id": "ResultEnhancement",
+      "name": "Wzmocnienie",
+      "desc": "Zdolności mają +{0} Ostateczenej Mocy w tej turze.",
+      "summary": "Ost. moc zdolności +{0}"
+    },
+    {
+      "id": "Protection",
+      "name": "Ochrona",
+      "desc": "-{0}0% obrażeń otrzymywanych w tej turze. (Maks 100%)",
+      "summary": "-{0}0% Otrzymywanych Obrażeń"
+    },
+    {
+      "id": "AttackDmgUp",
+      "name": "Większe Obrażenia",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami w tej turze. (Maks 100%)",
+      "summary": "+{0}0% Zadawanych Obrażeń"
+    },
+    {
+      "id": "DefenseUp",
+      "name": "Większy Poziom Obrony",
+      "desc": "Poziom Obrony +{0} w tej turze.",
+      "summary": "Poziom Obrony +{0}"
+    },
+    {
+      "id": "PlusCoinValueUp",
+      "name": "Wzmocnienie Dodatnich Monet",
+      "desc": "+{0} Mocy Dodatnich Monet  w tej turze.",
+      "summary": "Moc Dodatnich Monet +{0}"
+    },
+    {
+      "id": "MinusCoinValueUp",
+      "name": "Wzmocnienie Ujemnych Monet",
+      "desc": "+{0} Mocy Ujemnych Monet +{0} w tej turze.",
+      "summary": "Moc Ujemnych Monet +{0}"
+    },
+    {
+      "id": "TimesCoinValueUp",
+      "name": "Wzmocnienie Mnożących Monet",
+      "desc": "Moc Mnożących Monet +{0} w tej turze.",
+      "summary": "Moc Mnożących Monet +{0}"
+    },
+    {
+      "id": "Disarming",
+      "name": "Mniejsza Moc Obrony",
+      "desc": "Zdolności obronne mają -{0} Ostateczenej Mocy w tej turze.",
+      "summary": "Ost. moc zdolności OBR -{0}"
+    },
+    {
+      "id": "ResultReduction",
+      "name": "Osłabienie",
+      "desc": "Zdolności mają -{0} Ostateczenej Mocy w tej turze.",
+      "summary": "Ost. moc zdolności -{0}"
+    },
+    {
+      "id": "AttackDmgDown",
+      "name": "Mniejsze Obrażenia",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami w tej turze. (Maks 100%)",
+      "summary": "-{0}0% Zadawanych Obrażeń"
+    },
+    {
+      "id": "DefenseDown",
+      "name": "Mniejszy Poziom Obrony",
+      "desc": "-{0} Poziomu Obrony w tej turze.",
+      "summary": "Poziom Obrony -{0}"
+    },
+    {
+      "id": "Paralysis",
+      "name": "Paraliż",
+      "desc": "Ustawia Moc {0} następnych monet na 0 w tej turze.",
+      "summary": "{0} Monet mają 0 Mocy"
+    },
+    {
+      "id": "PlusCoinValueDown",
+      "name": "Osłabienie Dodatnich Monet",
+      "desc": "-{0} Mocy Dodatnich Monet  w tej turze.",
+      "summary": "Moc Dodatnich Monet -{0}"
+    },
+    {
+      "id": "MinusCoinValueDown",
+      "name": "Osłabienie Ujemnych Monet",
+      "desc": "-{0} Mocy Ujemnych Monet  w tej turze.",
+      "summary": "Moc Ujemnych Monet -{0}"
+    },
+    {
+      "id": "TimesCoinValueDown",
+      "name": "Osłabienie Mnożących Monet",
+      "desc": "Moc Mnożących Monet -{0} w tej turze.",
+      "summary": "Moc Mnożących Monet -{0}"
+    },
+    {
+      "id": "BeingGolden",
+      "name": "Złota Skórka",
+      "desc": "Początek Tury: Ulecz 10 HP na Ilość.",
+      "summary": "Odnowa HP"
+    },
+    {
+      "id": "MoonLight",
+      "name": "Moonlight",
+      "desc": "Resource used by certain skills for dodatkowe effects.",
+      "summary": "For dodatkowe effects"
+    },
+    {
+      "id": "Daunted_LowMorale",
+      "name": "Atrofia (Niskie Morale)",
+      "desc": "Początek tury: Nałóż 2 Mniejszej Mocy Ataku.",
+      "summary": "Nałóż 2 Mniejszej Mocy Ataku.",
+      "undefined": "-"
+    },
+    {
+      "id": "Daunted_Panic",
+      "name": "Atrofia",
+      "desc": "- Panika\n- Początek tury: Nałóż 4 Mniejszej Mocy Ataku.",
+      "summary": "Nałóż 4 Mniejszej Mocy Ataku."
+    },
+    {
+      "id": "Overwhelm_LowMorale",
+      "name": "Przytłoczenie (Niskie Morale)",
+      "desc": "Początek tury: Nałóż 2 Mniejszej Mocy Ataku.",
+      "summary": "Nałóż 2 Mniejszej Mocy Ataku.",
+      "undefined": "-"
+    },
+    {
+      "id": "Overwhelm_Panic",
+      "name": "Przytłoczenie",
+      "desc": "- Panika\n- Nie wykonuje ruchu w tej turze.",
+      "summary": "Niekatywne",
+      "undefined": "-"
+    },
+    {
+      "id": "Anger_LowMorale",
+      "name": "Podenerwowanie",
+      "desc": "- Niskie Morale\n- Początrk Tury: Nałóż 1 Większej Mocy Ataku i 2 Kruchości",
+      "summary": "Nałóż 1 Większej Mocy Ataku i 2 Kruchości"
+    },
+    {
+      "id": "Anger_Panic",
+      "name": "Podenerwowanie",
+      "desc": "- Panika\n- Początrk Tury: Nałóż 2 Większej Mocy Ataku i 5 Kruchości",
+      "summary": "Nałóż 2 Większej Mocy Ataku i 5 Kruchości"
+    },
+    {
+      "id": "Run_LowMorale",
+      "name": "Ucieczka",
+      "desc": "Nie wykonuje ruchu. Gdy zostanie trafiona, ta jednostka zostanie pokonana.",
+      "summary": "Nieaktywne i Uciekające"
+    },
+    {
+      "id": "Nail",
+      "name": "Gwoździe N Corpu",
+      "desc": "Początak tury: Otrzymaj 1 Krwawienie i zwiększ Ilość Krwawienia o {0}.\nKoniec tury: Zmniejsz ten efekt o 1.",
+      "summary": "Przyznaje 1 Krwawienie i dodaje +{0} Ilości Krwawienia"
+    },
+    {
+      "id": "Inactible",
+      "name": "Unieruchomienie",
+      "desc": "Nie wykonuje ruchu w tej turze.",
+      "summary": "Inactive"
+    },
+    {
+      "id": "Combustion",
+      "name": "Podpalenie",
+      "desc": "Koniec tury: Zadaje {0} stałych obrażeń. Trwa {1} tur.",
+      "summary": "{0} stałych obrażeń"
+    },
+    {
+      "id": "Laceration",
+      "name": "Krwawienie",
+      "desc": "Następne {1} razy kiedy ta jednostka rzuca Monetą atakującą, zadaje jej {0} stałych obrażeń.",
+      "summary": "{0} stałych obrażeń"
+    },
+    {
+      "id": "Vibration",
+      "name": "Drżenie",
+      "desc": "Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o {0}.\nKoniec tury: Zmniejsz Ilość o 1.",
+      "summary": "Podniesie próg zachwiania o {0}"
+    },
+    {
+      "id": "Burst",
+      "name": "Pęknięcie",
+      "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} stałych obrażeń.",
+      "summary": "{0} stałych obrażeń"
+    },
+    {
+      "id": "Sinking",
+      "name": "Zrozpaczenie",
+      "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} stałych obrażeń Psychiki. (Jednostki bez Psychiki otrzymują obrażenia od Przygnębienia.)",
+      "summary": "{0} OBR zrozpaczenia"
+    },
+    {
+      "id": "Breath",
+      "name": "Tchnienie",
+      "desc": "Zwiększa szansę na trafienie krytyczne o {0}x5% na następnie {1} krytycznych trafień. Koniec tury: traci 1 Ilość.",
+      "summary": "{0}x5% szansy krytycznej"
+    },
+    {
+      "id": "BloodPocket",
+      "name": "Pochwa Z Krwią",
+      "desc": "Przy odpowiedniej Ilości używa potężnego ataku.",
+      "summary": "Szykuje potężny atak"
+    },
+    {
+      "id": "WaterPocket",
+      "name": "Pochwa Z Surowicą",
+      "desc": "Leczy {0} x 20 HP.",
+      "summary": "Leczenie HP"
+    },
+    {
+      "id": "DogThunder",
+      "name": "Piorun",
+      "desc": "Wzmacnia się przy odpowiedniej ilości.",
+      "summary": "Wzmacnia siebie"
+    },
+    {
+      "id": "Run_Panic",
+      "name": "Oppression [prob unused]",
+      "desc": "Does not act. Kiedy ta jednostka zostanie trafiona, this unit is defeated after the skill ends.",
+      "summary": "Inactive & Fleeing"
+    },
+    {
+      "id": "Operation",
+      "name": "Operacja",
+      "desc": "Umiera kiedy ilość dojdzie do 5.\nZmniejsza Maks HP o 20% na Ilość ({0}).\nZadaje +20% obrażeń na Ilość ({0}).\nPoczątek Tury: Otrzymuje {0} Pośpiechu.",
+      "summary": "Zabija tą jednostkę przy 5 Ilości"
+    },
+    {
+      "id": "Emergency_Operation",
+      "name": "Amatorska Operacja",
+      "desc": "Zwiększa Maks HP o 25% i Moc Zdolności o 1 za każdą Ilość tego efektu.\nW każdą turę, zwiększa Ilość tego efektu o 1.\nUmiera kiedy Ilość dojdzie do 5.",
+      "summary": "Zabija tą jednostkę przy 5 Ilości"
+    },
+    {
+      "id": "BabayagaTimeLimit",
+      "name": "Nadchodzi Baba Jaga!",
+      "desc": "Zbliża się Baba Jaga. Utorujcie sobie drogę, albo spotka was pewna śmierć.",
+      "summary": "Baba Yaga approaches!"
+    },
+    {
+      "id": "PinkRibbon_Ishmael",
+      "name": "Różowe Wstążki",
+      "desc": "Zwiększa Ilość o 1 za każdym razem, kiedy ta jednostka rzuca atakującą monetą.\nKoniec Tury: Nakłada Spętanie równe Ilości, po czym usuwa ten efekt.",
+      "summary": "Przyznaje {0} Spętania"
+    },
+    {
+      "id": "Muckworm",
+      "name": "Larwy",
+      "desc": "Koniec Tury: Zadaje obrażenia od Obżarstwa równe Ilości, po czym obniża ją o 1; Ilość Krwawienia +1.",
+      "summary": "Obrażenia od Obżarstwa; +1 Ilości Krwawienie"
+    },
+    {
+      "id": "AttackUp",
+      "name": "Większy Poziom Ataku",
+      "desc": "Poziom Ataku +{0} w tej turze.",
+      "summary": "Poziom Ataku +{0}"
+    },
+    {
+      "id": "AttackDown",
+      "name": "Mniejszy Poziom Ataku",
+      "desc": "Poziom Ataku -{0} w tej turze.",
+      "summary": "Poziom Ataku -{0}"
+    },
+    {
+      "id": "Liu_Meursault_Guard_Buff",
+      "name": "Great Mountain",
+      "desc": "When attacked, nałóż +1 Podpalenia Ilości on the attacker.",
+      "summary": "Attacker Podpalenia Ilości +1"
+    },
+    {
+      "id": "SlashResistUp",
+      "name": "Większa Wytrzymałość na Cięcie",
+      "desc": "Zmniejsz Wytrzymałość na Cięcie o 0.{0}"
+    },
+    {
+      "id": "PenetrateResistUp",
+      "name": "Większa Wytrzymałość na Dźganie",
+      "desc": "Zmniejsz Wytrzymałość na Dźganie o 0.{0}"
+    },
+    {
+      "id": "HitResistUp",
+      "name": "Większa Wytrzymałość na Uderzenie",
+      "desc": "Zmniejsz Wytrzymałość na Uderzenie o 0.{0}"
+    },
+    {
+      "id": "SlashDamageUp",
+      "name": "Większe Obrażenia od Cięcia",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Cięcia w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Cięcia +{0}0%"
+    },
+    {
+      "id": "PenetrateDamageUp",
+      "name": "Większe Obrażenia od Dźgania",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Dźgania w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Dźgania +{0}0%"
+    },
+    {
+      "id": "HitDamageUp",
+      "name": "Większe Obrażenia od Uderzenia",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Uderzenia w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Uderzenia +{0}0%"
+    },
+    {
+      "id": "SlashResistDown",
+      "name": "Mniejsza Wytrzymałość na Cięcie",
+      "desc": "Zwiększ Wytrzymałość na Cięcie o 0.{0}"
+    },
+    {
+      "id": "PenetrateResistDown",
+      "name": "Mniejsza Wytrzymałość na Dźganie",
+      "desc": "Zwiększ Wytrzymałość na Dźganie o 0.{0}"
+    },
+    {
+      "id": "HitResistDown",
+      "name": "Mniejsza Wytrzymałość na Uderzenie",
+      "desc": "Zwiększ Wytrzymałość na Uderzenie o 0.{0}"
+    },
+    {
+      "id": "SlashDamageDown",
+      "name": "Mniejsze Obrażenia od Cięcia",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Cięcia w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Cięcia -{0}0%"
+    },
+    {
+      "id": "PenetrateDamageDown",
+      "name": "Mniejsze Obrażenia od Dźgania",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Dźgania w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Dźgania -{0}0%"
+    },
+    {
+      "id": "HitDamageDown",
+      "name": "Mniejsze Obrażenia od Uderzenia",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Uderzenia w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Uderzenia -{0}0%"
+    },
+    {
+      "id": "CrimsonResistDown",
+      "name": "Mniejsza Wytrzymałość na Gniew",
+      "desc": "Zwiększa Odporność na Gniew o 0.{0}"
+    },
+    {
+      "id": "ScarletResistDown",
+      "name": "Mniejsza Wytrzymałość na Żądzę",
+      "desc": "Zwiększa Odporność na Żądzę o 0.{0}"
+    },
+    {
+      "id": "AmberResistDown",
+      "name": "Mniejsza Wytrzymałość na Lenistwo",
+      "desc": "Zwiększa Odporność na Lenistwo o 0.{0}"
+    },
+    {
+      "id": "ShamrockResistDown",
+      "name": "Mniejsza Wytrzymałość na Obżarstwo",
+      "desc": "Zwiększa Odporność na Obżarstwo o 0.{0}"
+    },
+    {
+      "id": "AzureResistDown",
+      "name": "Mniejsza Wytrzymałość na Przygnębienie",
+      "desc": "Zwiększa Odporność na Przygnębienie o 0.{0}"
+    },
+    {
+      "id": "IndigoResistDown",
+      "name": "Mniejsza Wytrzymałość na Pychę",
+      "desc": "Zwiększa Odporność na Pychę o 0.{0}"
+    },
+    {
+      "id": "VioletResistDown",
+      "name": "Mniejsza Wytrzymałość na Zazdrość",
+      "desc": "Zwiększa Odporność na Zazdrość o 0.{0}"
+    },
+    {
+      "id": "CrimsonResistUp",
+      "name": "Wrath Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "ScarletResistUp",
+      "name": "Lust Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "AmberResistUp",
+      "name": "Sloth Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "ShamrockResistUp",
+      "name": "Gluttony Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "AzureResistUp",
+      "name": "Gloom Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "IndigoResistUp",
+      "name": "Pride Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "VioletResistUp",
+      "name": "Envy Resist Up",
+      "desc": ""
+    },
+    {
+      "id": "CrimsonDamageDown",
+      "name": "Mniejsze Obrażenia od Gniewu",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Gniewu w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Gniewu -{0}0%"
+    },
+    {
+      "id": "ScarletDamageDown",
+      "name": "Mniejsze Obrażenia od Żądzy",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Żądzy w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Żądzy -{0}0%"
+    },
+    {
+      "id": "AmberDamageDown",
+      "name": "Mniejsze Obrażenia od Lenistwa",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Lenistwa w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Lenistwa -{0}0%"
+    },
+    {
+      "id": "ShamrockDamageDown",
+      "name": "Mniejsze Obrażenia od Obżarstwa",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Obżarstwa w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Obżarstwa -{0}0%"
+    },
+    {
+      "id": "AzureDamageDown",
+      "name": "Mniejsze Obrażenia od Przygnębienia",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Przygnębienia w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Przygnębienia -{0}0%"
+    },
+    {
+      "id": "IndigoDamageDown",
+      "name": "Mniejsze Obrażenia od Przygnębienia",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Pychy w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Pychy -{0}0%"
+    },
+    {
+      "id": "VioletDamageDown",
+      "name": "Mniejsze Obrażenia od Zazdrości",
+      "desc": "-{0}0% obrażeń zadawanych zdolnościami Zazdrości w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Zazdrości -{0}0%"
+    },
+    {
+      "id": "CrimsonDamageUp",
+      "name": "Większe Obrażenia od Gniewu",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Gniewu w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Gniewu +{0}0%"
+    },
+    {
+      "id": "ScarletDamageUp",
+      "name": "Większe Obrażenia od Żądzy",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Żądzy w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Żądzy +{0}0%"
+    },
+    {
+      "id": "AmberDamageUp",
+      "name": "Większe Obrażenia od Lenistwa",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Lenistwa w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Lenistwa +{0}0%"
+    },
+    {
+      "id": "ShamrockDamageUp",
+      "name": "Większe Obrażenia od Obżarstwa",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Obżarstwa w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Obżarstwa +{0}0%"
+    },
+    {
+      "id": "AzureDamageUp",
+      "name": "Większe Obrażenia od Przygnębienia",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Przygnębienia w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Przygnębienia +{0}0%"
+    },
+    {
+      "id": "IndigoDamageUp",
+      "name": "Większe Obrażenia od Pychy",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Pychy w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Pychy +{0}0%"
+    },
+    {
+      "id": "VioletDamageUp",
+      "name": "Większe Obrażenia od Zazdrości",
+      "desc": "+{0}0% obrażeń zadawanych zdolnościami Zazdrości w tej turze. (Maks 100%)",
+      "summary": "Obrażenia od Zazdrości +{0}0%"
+    },
+    {
+      "id": "Curse",
+      "name": "Klątwa",
+      "desc": "Koniec Tury: Na początku następnej tury, nałóż losowo jeden z tych efektów, po czym zmniejsz Iiość Klątwy o 1.\n1 Mniejsza Moc Ataku/1 Mniejsza Moc Obrony/2 Mniejszy Poziom Ataku/2 Mniejsza Moc Obrony.",
+      "summary": "Nakłada losowy negatywny efekt, po czym zmniejsza Ilość o 1"
+    },
+    {
+      "id": "AttackDmgUp_Weak",
+      "name": "Wzmocnienie Obrażeń Od Słabych Wytrzymałości",
+      "desc": "Wzmacnia obrażenia ataków, przeciwko którym wytrzymałość jest Słaba, o {0}%",
+      "summary": "+{0}% obrażeń przeciwko Słabym Wytrzymałościom"
+    },
+    {
+      "id": "Bullet",
+      "name": "Amunicja",
+      "desc": "Zużywana przez niektóre zdolności. Niektóre ataki mogą zostac anulowane, jeśli brakuje im amunicji.",
+      "summary": "Potrzebna do zdolności"
+    },
+    {
+      "id": "Meursault_Last_Remodeling",
+      "name": "Final Augment",
+      "desc": "Początek Tury: Przyznaje 3 Większej Mocy Ataku, Większej Mocy Obrony i Pośpiechu; die in {0} turn(s)."
+    },
+    {
+      "id": "Choice_90103301",
+      "name": "Struggle",
+      "desc": "Prędkości +1 for this battle.",
+      "summary": "SPD +1"
+    },
+    {
+      "id": "Choice_90103402",
+      "name": "Relief",
+      "desc": "Prędkości +2 for this battle.",
+      "summary": "SPD +2"
+    },
+    {
+      "id": "Choice_901001",
+      "name": "Spreading Flame",
+      "desc": "Mając the start of the next Encounter, allies without Wrath Affinity take 5 Wrath damage"
+    },
+    {
+      "id": "Choice_901007",
+      "name": "Gentle Sendoff",
+      "desc": "Początek Tury: Heal 10 HP i SP. (Up to 3 turns)",
+      "summary": "HP & SP +10"
+    },
+    {
+      "id": "Choice_901009",
+      "name": "Photopia",
+      "desc": "All Ally Units lose 1 Skill Ostatecznej Mocy for the next Encounter",
+      "summary": "Skill Ostatecznej Mocy -1"
+    },
+    {
+      "id": "Choice_901010",
+      "name": "Emptied",
+      "desc": "Combat Start: Allies without Lust Affinity Attack Skill are Staggered."
+    },
+    {
+      "id": "Choice_901019",
+      "name": "Contamination",
+      "desc": "Combat Start: Prędkości -2.",
+      "summary": "SPD -2"
+    },
+    {
+      "id": "Choice_1030301",
+      "name": "Event Effect",
+      "desc": "Combat Start: Przyznaje 3 Większej Mocy Ataku.",
+      "summary": "Przyznaje 3 Większej Mocy Ataku"
+    },
+    {
+      "id": "Choice_1030501",
+      "name": "Event Effect",
+      "desc": "Przyznaje 5 Mniejszej Mocy Ataku each turn.",
+      "summary": "Przyznaje 5 Mniejszej Mocy Ataku"
+    },
+    {
+      "id": "Choice_1031001",
+      "name": "Event Effect",
+      "desc": "Przyznaje 3 Mniejszych Obrażeń each turn.",
+      "summary": "Przyznaje 3 Mniejszych Obrażeń"
+    },
+    {
+      "id": "Assemble",
+      "name": "Fanatyzm",
+      "desc": "+{0} Ostatecznej Mocy Zdolności przeciwko jednostom z Gwoździami w tej turze. (Liczy się też w straciach)",
+      "summary": "Ostateczna Moc +{0}"
+    },
+    {
+      "id": "ReinforcedAssemble",
+      "name": "Gwizdy Kromer",
+      "desc": "Nie obaiwamy się, bowiem Ta, Która Chwyta jest z nami."
+    },
+    {
+      "id": "Greedy",
+      "name": "Majaczenie",
+      "desc": "Nakłada 2 Kruchości i 10 Spętania w tą turę. Dodatkowo daje żeton umiejetności i zmienia zachowanie.",
+      "summary": "Nakłada 2 Kruchości i 10 Spętania"
+    },
+    {
+      "id": "Desire",
+      "name": "Chęć",
+      "desc": "Koniec Tury: Mając 5+ Ilości, otrzymuje 30 obrażeń SP, nakłada 2 Kruchości i 10 Spętania, po czym usuwa ten efekt.",
+      "summary": "Otrzymuje 30 obrażeń SP, nakłada 2 Kruchości i 10 Spętania"
+    },
+    {
+      "id": "GreedyReady",
+      "name": "Constricting Desires",
+      "desc": "Use a skill that applies ‘Desirous’ in {0} turn(s)."
+    },
+    {
+      "id": "Decay",
+      "name": "Gnijąca Skóra",
+      "desc": "Będąc zaatakowanym, nakłada 3 Trucizny na atakującego.",
+      "summary": "Nakłada 3 Trucizny na atakującego"
+    },
+    {
+      "id": "Poison",
+      "name": "Trucizna",
+      "desc": "Koniec Tury: Zadaje {0} stałych obrażeń, po czym obniża Ilość o połowę.",
+      "summary": "{0} obrażeń HP"
+    },
+    {
+      "id": "Cromer_Target",
+      "name": "Spojrzene Tej, Która Chwyta",
+      "desc": "Nakłada zachwianie w tej turze. +100% obrażeń otrzymanych od Kromer."
+    },
+    {
+      "id": "Cromer_Boredom",
+      "name": "Przyjmij Ten Ból!",
+      "desc": "Otrzymuje i zadaje +100% obrażeń.\nOstateczna moc Umiejętności Obronnych -5."
+    },
+    {
+      "id": "Cromer_Ecstasy",
+      "name": "Ekstaza",
+      "desc": "Wszystkie wytrzymałości fizyczne Paszczy zmieniają się na ‘Zabójcze’.",
+      "summary": "Osłabia wytrz. fizyczną części"
+    },
+    {
+      "id": "Cromer_Madness",
+      "name": "Czystość",
+      "desc": "Nakłada na wszystkie części 3 Spętania i 3 Większe Obrażenia, ale ich wytrzymałości fizyczne zmieniają się na ‘Zabójcze’."
+    },
+    {
+      "id": "Hardening",
+      "name": "Hardening",
+      "desc": "Początek Tury: Mając 3+ Ilości, the Arms change into a “perfect” state."
+    },
+    {
+      "id": "Perfected",
+      "name": "Perfect Shell",
+      "desc": "Początek Tury: The Arms przyznaje 2 Większej Mocy Ataku. Removed when the Arms’ HP falls below 50%",
+      "summary": "Przyznaje 2 Większej Mocy Ataku"
+    },
+    {
+      "id": "Enrage",
+      "name": "Szał",
+      "desc": "Nakłada 3 Większej Mocy Ataku i 3 Kruchości w tą turę i zmienia zachowanie. Nie otrzymuje Instynktu po byciu zaatakowanym.",
+      "summary": "Nakłada 3 Większej Mocy Ataku i 3 Kruchoście"
+    },
+    {
+      "id": "Aggressive",
+      "name": "Instynkt",
+      "desc": "Koniec Tury: Mając 4+ Ilości, wchodzi w “agresywny” stan."
+    },
+    {
+      "id": "Whistle_Courage",
+      "name": "Odwaga, by pokonać Strach",
+      "desc": "Początek tury: Nakłada 1 Większej Mocy Ataku i 2 Ochrony.",
+      "summary": "Nakłada 1 Większej Mocy Ataku i 2 Ochrony."
+    },
+    {
+      "id": "Whistle_Fear",
+      "name": "Przerażające Gwizdy",
+      "desc": "Początek Tury: Nakłada 1 Spętanie i 1 Paraliż.",
+      "summary": "Nakłada 1 Spętanie i 1 Paraliż"
+    },
+    {
+      "id": "SlashTakeDamageDown",
+      "name": "Ochrona przed Cięciem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Cięcia w tej turze. (Maks 100%)",
+      "summary": "-{0}0% obrażeń otrzymywanych od Cięcia"
+    },
+    {
+      "id": "PenetrateTakeDamageDown",
+      "name": "Ochrona przed Dźganiem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Dźgania w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Dźgania"
+    },
+    {
+      "id": "HitTakeDamageDown",
+      "name": "Ochrona przed Uderzeniem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Uderzenia w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Uderzenia"
+    },
+    {
+      "id": "CrimsonTakeDamageDown",
+      "name": "Ochrona przed Gniewem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Gniewu w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Gniewu"
+    },
+    {
+      "id": "ScarletTakeDamageDown",
+      "name": "Ochrona przed Rządzą",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Rządzy w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Rządzy"
+    },
+    {
+      "id": "AmberTakeDamageDown",
+      "name": "Ochrona przed Lenistwem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Lenistwa w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Lenistwa"
+    },
+    {
+      "id": "ShamrockTakeDamageDown",
+      "name": "Ochrona przed Obżarstwem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Obżarstwa w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Obżarstwa"
+    },
+    {
+      "id": "AzureTakeDamageDown",
+      "name": "Ochrona przed Przygnębieniem",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Przygnębienia w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Przygnębienia"
+    },
+    {
+      "id": "IndigoTakeDamageDown",
+      "name": "Ochrona przed Pychą",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Pychy w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Pychy"
+    },
+    {
+      "id": "VioletTakeDamageDown",
+      "name": "Ochrona przed Zazdrością",
+      "desc": "-{0}0% obrażeń otrzymywanych od zdolności Zazdrości w tej turze. (Maks 100%)",
+      "summary": "-{0}0% otrzymywanych obrażeńd Zazdrości"
+    },
+    {
+      "id": "SlashTakeDamageUp",
+      "name": "Kruchość przed Cięciem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Cięcia w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Cięcia"
+    },
+    {
+      "id": "PenetrateTakeDamageUp",
+      "name": "Kruchość przed Dźganiem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Dźgania w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Dźgania"
+    },
+    {
+      "id": "HitTakeDamageUp",
+      "name": "Kruchość przed Uderzeniem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Uderzenia w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Uderzenia"
+    },
+    {
+      "id": "CrimsonTakeDamageUp",
+      "name": "Kruchość przed Gniewem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Gniewu w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Gniewu"
+    },
+    {
+      "id": "ScarletTakeDamageUp",
+      "name": "Kruchość przed Rządzą",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Rządzy w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Rządzy"
+    },
+    {
+      "id": "AmberTakeDamageUp",
+      "name": "Kruchość przed Lenistwem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Lenistwa w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Lenistwa"
+    },
+    {
+      "id": "ShamrockTakeDamageUp",
+      "name": "Kruchość przed Obżarstwem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Obżarstwa w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Obżarstwa"
+    },
+    {
+      "id": "AzureTakeDamageUp",
+      "name": "Kruchość przed Przygnębieniem",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Przygnębienia w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Przygnębienia"
+    },
+    {
+      "id": "IndigoTakeDamageUp",
+      "name": "Kruchość przed Pychą",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Pychy w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Pychy"
+    },
+    {
+      "id": "VioletTakeDamageUp",
+      "name": "Kruchość przed Zazdrością",
+      "desc": "+{0}0% obrażeń otrzymywanych od zdolności Zazdrości w tej turze. (Maks 100%)",
+      "summary": "+{0}0% obrażeń otrzymywanych od Zazdrości"
+    },
+    {
+      "id": "LittleCourage",
+      "name": "Znak",
+      "desc": "Determinacja Sinclaira, by postawić się Kromer. Gdy namalowane zostaną trzy linie…",
+      "summary": "Wola Sinclaira"
+    },
+    {
+      "id": "NailPersonality",
+      "name": "Gwoździe",
+      "desc": "Specjalne Krwawienie\nPoczątek Tury: Nakłada 1 Krwawienie i zwiększa Ilość Krwawienia o {0}.\nKoniec Tury: Zmniejsz Ilość tego ofektu o połowę. (Zaokrągalne w dół)",
+      "summary": "Nakłada 1 Krwawienie i {0} Ilości Krwawienia"
+    },
+    {
+      "id": "AssemblePersonality",
+      "name": "Fanatyzm",
+      "desc": "Ostateczna Moc Zdolności +{0} przeciwko jednostom z Gwoździami w tej turze. (Liczy się też w straciach)",
+      "summary": "Ostateczna Moc +{0}"
+    },
+    {
+      "id": "MarkOfHeresy",
+      "name": "Spojrzenie",
+      "desc": "+20% otrzynywanych obrażeń od Dźgania i Uderzenia.\nSojusznik, który zabije naznaczoną jednosykę odzyskuje 10 SP; jeśli ten sojusznik jest 'Fanatykiem z N Corpu', nałóż też 1 Fanatyzm w następnej turze.",
+      "summary": "+20% Otrzymywanych obrażeń od Dźgania i Uderzenia"
+    },
+    {
+      "id": "HitResultUp",
+      "name": "Większa Moc Uderzenia",
+      "desc": "Zdolności Uderzenia mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Uderzenia +{0}"
+    },
+    {
+      "id": "WeaknessAnalysis",
+      "name": "Analiza Słabości",
+      "desc": "Losowa wytrzymałość “Słaba” lub “Zwykła” zostaje osłabiona [+0.2 do mnożnika obrażeń] w tej turze.",
+      "summary": "Osłabia [+0.2 mnożnika obr] wytrzymałość “Słabą” lub “Zwykłą”"
+    },
+    {
+      "id": "Cycle",
+      "name": "Karma",
+      "desc": "+{0}% obrażeń otrzymywanych . Koniec tury: Przy 108+ Ilości zabij tą jednostkę.",
+      "summary": "My Form Empties’ Passive"
+    },
+    {
+      "id": "Duress",
+      "name": "Zniewolenie",
+      "desc": "Jednostka jest Zachwiana przez 3 tury.\nPoczątek tury: Jeśli Kqe-1j-23 jest Zachwiane, usuń ten status.",
+      "summary": "Kqe’s Passive"
+    },
+    {
+      "id": "VioletResultUp",
+      "name": "Większa Moc Zazdrości",
+      "desc": "Zdolności Zazdrości mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Zazdrości +{0}"
+    },
+    {
+      "id": "CyclingKarma",
+      "name": "Wracająca Karma",
+      "desc": "Wszystkie jednostki przenoszą swoją Karmę na swoje cele po udanym ataku.\nKarma nie jest przekazywanana do Ma Forma Się Opróźnia jeśli jego sojusznicy dalej żyją.",
+      "summary": "Karma transfers on hit"
+    },
+    {
+      "id": "TakeHpHealReduce",
+      "name": "Mniejsze leczenie HP",
+      "desc": "Efekty Pasywne, Zdolności i Efekty Monet leczą -{0}0% HP w tą turę. (Maks 5)",
+      "summary": "HP Healing -{0}0%"
+    },
+    {
+      "id": "AttackLevelAdder",
+      "name": "Poziomy Ataku+",
+      "desc": "Poziomy Ataku +{0} w tej turze.",
+      "summary": "Poziomy Ataku +{0}"
+    },
+    {
+      "id": "Thirst",
+      "name": "Apetyt",
+      "desc": "+{0}0% leczenia z [Rustle Up].\nZużywane, kiedy Zdolność Pasywna zostanie aktywowana.",
+      "summary": "Leczenie od [Rustle Up] +{0}0% HP"
+    },
+    {
+      "id": "GainSinStockAdder",
+      "name": "Więszy Zysk Zasobów E.G.O",
+      "desc": "Zdolości dają +{0} zasobów E.G.O w tej turze.",
+      "summary": "+{0} zyskiwanych zasobów E.G.O "
+    },
+    {
+      "id": "Weak_Chicken",
+      "name": "Kurczakokalipsa",
+      "desc": "Reakcja na kuchnię Grzeszników. Papa Bongy traci HP równe 40% jego Maks HP.",
+      "summary": "HP -40%"
+    },
+    {
+      "id": "Strong_Chicken",
+      "name": "Kotłujący się gniew",
+      "desc": "Papa Bongy Zyskuje 1 Większej Mocy Ataku na początku każdej tury.",
+      "summary": "Daje 1 Większej Mocy Ataku"
+    },
+    {
+      "id": "DimensionRift",
+      "name": "Wyrwa Wymiarowa",
+      "desc": "Koniec Tury: Zyskuj +{0} Ilości Pęknięcia",
+      "summary": "Zwiększa Ilość Pęknięcia"
+    },
+    {
+      "id": "Scared",
+      "name": "Strach",
+      "desc": "Koniec Tury: Mając -20 lub mniej SP, zyskaj 1 Ochrony na początku następnej tury.",
+      "summary": "Koniec Tury: Mając -20 lub mniej SP, zyskaj 1 Ochrony na początku następnej tury."
+    },
+    {
+      "id": "Stressed",
+      "name": "Stres",
+      "desc": "Koniec Tury: Mając -25 lub mniej SP, zyskaj 1 Większej Mocy Obrony na początku następnej tury",
+      "summary": "Koniec Tury: Mając -25 lub mniej SP, zyskaj 1 Większej Mocy Obrony na początku następnej tury"
+    },
+    {
+      "id": "Nervous",
+      "name": "Nerwowość",
+      "desc": "Koniec Tury: Mając -15 lub mniej SP, zyskaj 5 Większego Poziomu Obrony na początku następnej tury",
+      "summary": "Koniec Tury: Mając -15 lub mniej SP, zyskaj 5 Większego Poziomu Obrony na początku następnej tury"
+    },
+    {
+      "id": "ShardOfUmbrella",
+      "name": "Drzazgi Z Parasoli",
+      "desc": "Koniec Tury: Nakłada {0} x 5 Pęknięcia",
+      "summary": "Koniec Tury: Nakłada {0} x 5 Pęknięcia"
+    },
+    {
+      "id": "WrappedCurseTag",
+      "name": "Talizman Wiążącej Klątwy",
+      "desc": "+{0}% zadawanych obrażeń\nPrzy 9+ Ilości, nałóż 2 Mniejszej Mocy Ataku na początku tury",
+      "summary": "+{0}% zadawanych obrażeń; przy 9+ Ilości, nałóż 2 Mniejszej Mocy Ataku na początku tury"
+    },
+    {
+      "id": "ReattachedCurseTag",
+      "name": "Talizman Doczepionej Klątwy",
+      "desc": "Mając 9+ Ilości, nałóż 5 Spętania na początku tury.\nPrzy 12+ Ilości, nałóż 5 Mniejszej Mocy Ataku na początku tury.",
+      "summary": "Mając 9+ Ilości, nałóż 5 Spętania na początku tury.\nPrzy 12+ Ilości, nałóż 5 Mniejszej Mocy Ataku na początku tury."
+    },
+    {
+      "id": "ElectricStorage",
+      "name": "Kondensator",
+      "desc": "Zdaje się przechowywać energię w swoim ciele.",
+      "summary": "표시용"
+    },
+    {
+      "id": "SelfCharge",
+      "name": "Automatyczne Ładowanie",
+      "desc": "Nurt elektryczny płynie poprzez ciało tej Anomalii.\nGdy ta jednostka umrze, tak długo jak ma na sobie has Automatyczne Ładowanie, jej HP jest ustawione na 1 dopóki ten status nie zostanie zużyty. (Maks 20)",
+      "summary": "표시용"
+    },
+    {
+      "id": "Exalted",
+      "name": "Wzmocnienie Morale",
+      "desc": "Zyskuje {0} Większych Obrażeń na początku każdej tury (Maks 5)\nNie zyskuje tego statusu, jeśli jest w stanie Podpicia",
+      "summary": "Zyskuje Większe Obrażenia równe Wartości na początku każdej tury; Nie zyskuje statusu w stanie Podpicia"
+    },
+    {
+      "id": "Tipsiness",
+      "name": "Podpicie",
+      "desc": "-{0} Mocy Starcia (Maks 5)",
+      "summary": "Zmniejsza Moc Staecia o Wartość Efektu"
+    },
+    {
+      "id": "Predation",
+      "name": "Szykowanie",
+      "desc": "Wygląda, jakby szykowało potężny atak.",
+      "summary": "표시용"
+    },
+    {
+      "id": "ATL_Agility",
+      "name": "Szybciej!",
+      "desc": "Zyskuje 2 Pośpiechu",
+      "summary": "표시용"
+    },
+    {
+      "id": "ATL_Breath",
+      "name": "Prosto W Cel!",
+      "desc": "Zyskuje 3 Tchnienia",
+      "summary": "표시용"
+    },
+    {
+      "id": "ATL_Target",
+      "name": "Brać Ich!",
+      "desc": "Jednocześnie atakuje tą samą jednostkę",
+      "summary": "표시용"
+    },
+    {
+      "id": "ATL_EndureCombustion",
+      "name": "Podpalenia Resistance",
+      "desc": "When taking damage from Podpalenia, reduce the damage by {0}0% (Maks 10)",
+      "summary": "When taking damage from Podpalenia, take {0}0% less damage"
+    },
+    {
+      "id": "Resonate",
+      "name": "Rezonowanie",
+      "desc": "Aktywując Impuls Drżeń lub podnosząc Próg Zachwiania, zadaj {0} * 3 stałych obrażeń i podnieś Próg Zachwiania o {0} * 3%",
+      "summary": "Aktywując Impuls Drżeń lub podnosząc Próg Zachwiania, zadaj obrażenia i jeszcze bardziej podnieś Próg Zachwiania"
+    },
+    {
+      "id": "VibrationAssimilation",
+      "name": "Synchronizacja Drżeń",
+      "desc": "Podczas starcia, przeciwnik traci 1 Mocy Starcia za każde 5 Drżeń na nim",
+      "summary": "Podczas starcia, przeciwnik traci 1 Mocy Starcia za każde 5 Drżeń na nim"
+    },
+    {
+      "id": "CollapseAmpoule",
+      "name": "Ampułka Rozkładu",
+      "desc": "Zadaje obrażenia równe {0} * 2% Maks HP",
+      "summary": "Zadaje obrażenia równe {0} * 2% Maks HP"
+    },
+    {
+      "id": "InterlockingTime",
+      "name": "Splecioy Czas",
+      "desc": "Zmniejsza otrzymywane obrażenia o 30% i przechowuje zatrzymane obrażenia. Przy 3 Ilości, zadaje stałe obrażenia równe 1.5 razy zgromadzonych obrażeń i nakłada 3 Spętania na początku następnej tury.",
+      "summary": "Zmniejsza otrzymywane obrażenia o 30% i przechowuje zatrzymane obrażenia. Przy 3 Ilości, zadaje stałe obrażenia równe 1.5 razy zgromadzonych obrażeń i nakłada 3 Spętanie na początku następnej tury."
+    },
+    {
+      "id": "TimeRental",
+      "name": "Pożyczony Czas z Odmętów",
+      "desc": "Koniec Tury: Nakłada 3 Pośpiechu i 2 Większych Obrażeń; Jeśli zostało tylko 1 Ilości, zyskaj 4 Spętania i 1 Mniejszej Mocy Ataku",
+      "summary": "Koniec Tury: Nakłada 3 Pośpiechu i 2 Większych Obrażeń; Jeśli zostało tylko 1 Ilości, zyskaj 4 Spętania i 1 Mniejszej Mocy Ataku"
+    },
+    {
+      "id": "Bull_FadedHeat",
+      "name": "Chwilowe Schłodzenie",
+      "desc": "Rdzeń i ciało tracą 50% Maks HP"
+    },
+    {
+      "id": "Bull_Fever",
+      "name": "Gorączka",
+      "desc": "+{0}0% zadawanych obrażeń\nKoniec Tury: Zmniejsz Ilość o 1",
+      "summary": ""
+    },
+    {
+      "id": "Bull_Sadness",
+      "name": "Żal Bez Ujścia",
+      "desc": "Nakłada Mniejszą Moc Ataku równą Ilości tego statusu na początku następnej tury.\nKoniec Tury: Mając 3+ Ilości, zmienia się w Rosnącą Żałobę.",
+      "summary": ""
+    },
+    {
+      "id": "Bull_ReinforcedSadness",
+      "name": "Rosnąca Żałoba",
+      "desc": "Zmienia Zachowanie.",
+      "summary": "Zmienia Zachowanie."
+    },
+    {
+      "id": "Bull_BuzzingEmotion",
+      "name": "Niezdecydowane Emocje",
+      "desc": "Początek Tury: Nakłada losowo Mniejszą Moc Ataku, Paraliż, lub Spętanie równe Ilości tego efektu, po czym go usuwa",
+      "summary": "Początek Tury: Randomly przyznaje Mniejszą Moc Ataku, Paraliż, lub Spętanie równe Ilości tego efektu, po czym go usuwa"
+    },
+    {
+      "id": "Crazy_LowMorale",
+      "name": "Szaleństwo",
+      "desc": "- Niskie Morale\n- Osiągając Niskie Morale po raz pierwszy, zaczyna atakować sojuszników",
+      "undefined": "-"
+    },
+    {
+      "id": "Crazy_Panic",
+      "name": "Szaleństwo",
+      "desc": "- Panika\n- Atakuje sojuszników; +1 Mocy Starcia i +2 Większych Obrażeń",
+      "undefined": "-"
+    },
+    {
+      "id": "Suicide_LowMorale",
+      "name": "Samobójczość",
+      "desc": "- Niskie Morale\n- Osiągając Niskie Morale po raz pierwszy, przestaje atakować",
+      "undefined": "-"
+    },
+    {
+      "id": "Suicide_Panic",
+      "name": "Samobójczość",
+      "desc": "- Panika\n- Nie atakuje przez 3 tury. Umiera na początku tury; wszyscy sojusznicy tracą 10 SP",
+      "undefined": "-"
+    },
+    {
+      "id": "Prowl_LowMorale",
+      "name": "Tułaczka",
+      "desc": "- Niskie Morale\n- Koniec Tury: Zadaje sojusznikom 2 obrażenia SP",
+      "undefined": "-"
+    },
+    {
+      "id": "Prowl_Panic",
+      "name": "Tułaczka",
+      "desc": "- Panika\n- Koniec Tury: Zadaje sojusznikom 5 obrażeń SP. Ucieka z walki po 3 turach",
+      "undefined": "-"
+    },
+    {
+      "id": "Thorn",
+      "name": "Ciernie",
+      "desc": "Będąc trafiona, zadaje atakującemu z powrotem 50% otrzymanych obrażeń",
+      "summary": "Zadaj 50% otrzymanych obrażeń atakującemu"
+    },
+    {
+      "id": "Fragile_Mind_LowMorale",
+      "name": "Zatrwożone Serce",
+      "desc": "Początek Tury: Nakłada 2 Większej Mocy Ataku i 3 Spętania",
+      "summary": "Początek Tury: Nakłada 2 Większej Mocy Ataku i 3 Spętania"
+    },
+    {
+      "id": "Fragile_Mind_Panic",
+      "name": "Chwiejne Serce",
+      "desc": "Panikując, Dongbaek zostaje Zachwiana.",
+      "summary": "Panikując, Dongbaek zostaje Zachwiana."
+    },
+    {
+      "id": "ErodingMind",
+      "name": "Korodujące Serce",
+      "desc": "Początek Tury: Nakłada 2 Mniejszej Mocy Ataku, 2 Kruchości i 5 Spętanie",
+      "summary": "Początek Tury: Nakłada 2 Mniejszej Mocy Ataku, 2 Kruchości i 5 Spętanie"
+    },
+    {
+      "id": "Blue_LowMorale",
+      "name": "Odrzucenie",
+      "desc": "- Niskie Morale\n- Podczas starcia, jeśli którakolwiek z Monet wyląduje na Reszce, -1 Mocy Starcia na to Starcie",
+      "undefined": "-"
+    },
+    {
+      "id": "Blue_Panic",
+      "name": "Odrzucenie",
+      "desc": "- Panika\n- Podczas starcia, jeśli którakolwiek z Monet wyląduje na Reszce, -3 Mocy Starcia na to Starcie",
+      "undefined": "-"
+    },
+    {
+      "id": "ATL_EndureLaceration",
+      "name": "Wytrzymałość Na Krwawienie",
+      "desc": "Otrzymując obrażenia od Krwawienia, zmniejsza te obrażenia o {0}0% (Maks 10)",
+      "summary": "Otrzymując obrażenia od Krwawienia, otrzymaj o {0}0% mniej obrażeń"
+    },
+    {
+      "id": "DongbaekGrow",
+      "name": "Wzrost",
+      "desc": "Koniec Tury: Zwiększ Ilość o 1 i zyskaj Maks HP proporcjonalne do Ilości (Maks 3)",
+      "summary": "Koniec Tury: Zwiększ Ilość o 1 i zyskaj Maks HP proporcjonalne do Ilości (Maks 3)"
+    },
+    {
+      "id": "DongbaekFlorescence",
+      "name": "Kwitnięcie",
+      "desc": "Koniec Tury: Mając 5+ Ilości, zadaje obrażenia od Lenistwa równe (Ilość)% Maks HP i zakwita w pełni\nPrzy mniej niż 5 Ilości, zmniejsza SP o (Ilość * 5), po czym zmniejsza ilość Ilość o 1",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekFullBloom",
+      "name": "Pełny Rozkwit",
+      "desc": "Nie atakuje\nNa końcu tury, zmniejsza SP o 20; jeśli SP osiągnie -45, w pełni leczy SP, po czym zamienia się w 'Zaślepiony Umysł' na początku następnej tury.\nJeśli ten status nie zostanie usunięty przez 2 tury, zostnie usunięty na końcu tury.",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekFascination",
+      "name": "Zaślepiony Umysł",
+      "desc": "Ataki celują w sojuszników\nStatus zostaje usunięty przez Zachwianie na początku następnej tury\nJeśli ten status nie zostanie usunięty przez 2 tury, zmniejsza SP o 30 i zostnie usunięty na końcu tury",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekShowdown",
+      "name": "Pojedynek",
+      "desc": "Początek Tury: Jednostki bez tego statusu wchodzą w stan 'Pełnego Rozkwitu'\nJeśli Yi Sang ma ten status, Dongbaek zyskuje 1 Większej Mocy Ataku",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekScatterPetal",
+      "name": "Rozwiane Płatki",
+      "desc": "Koniec Tury: Mając 6+ Ilości, Dongbaek zostaje Zachwiana",
+      "summary": ""
+    },
+    {
+      "id": "CrimsonResultUp",
+      "name": "Większa Moc Gniewu",
+      "desc": "Zdolności Gniewu mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Gniewu +{0}"
+    },
+    {
+      "id": "EmittedCurrent",
+      "name": "Wyładowanie Iskier",
+      "desc": "Przy trafieniu, atakujący zyskuje +1 Ilości Naładowania; przy trafieniu atakiem od Przygnębienia, nakłada +1 Ilości Pęknięcia, po czym zmniejsza Ilość o 1"
+    },
+    {
+      "id": "DistortedDongrangRadiantVanity",
+      "name": "Świetlista Próżność",
+      "desc": "Początek Tury: Dongrang zyskuje 1 Ochrony i 1 Większej Mocy Ataku"
+    },
+    {
+      "id": "DistortedDongrangEmptyMark",
+      "name": "Pusty Znak",
+      "desc": "Cel ataków Dongranga. Nakłada 2 Spętania na początku każdej tury i zwiększa obrażenia otrzymywane od Dongranga o +50%."
+    },
+    {
+      "id": "DistortedDongrangEarnestAchievement",
+      "name": "Realne Osiągnięcie",
+      "desc": "Jeśli ta jednostka zostanie pokonana, lub jej HP zostanie zmniejszone do 1, atakujący zostaje wzmocniony"
+    },
+    {
+      "id": "DistortedDongrangEmptyHonor",
+      "name": "Pusty Honor",
+      "desc": "Jeśli Dongrang pokona tą jednostkę, traci on HP, zyskuje 1 Pustości i zostaje osłabiony na początku następnej tury"
+    },
+    {
+      "id": "DistortedDongrangMomentaryGlory",
+      "name": "Chwilowa Chwała",
+      "desc": "Mając 3+ Ilości, Dongrang staje się silniejszy"
+    },
+    {
+      "id": "DistortedDongrangEmptiness",
+      "name": "Pustość",
+      "desc": "Mając 4+ Ilości, Dongrang zostaje zachwiany."
+    },
+    {
+      "id": "DistortedDongrangFruition",
+      "name": "Brzemię Spełnienia",
+      "desc": "Jednostka, która pokonała tą jednostka leczy się o 5% swojego Maks HP, zyskuje 1 Pośpiechu i 1 Większej Mocy Ataku na początku następnej tury"
+    },
+    {
+      "id": "EgoAwakenDongrangRadiantDesire",
+      "name": "Jaśniejąca Pragnienie",
+      "desc": "Początek Tury: Dongrang zyskuje 1 Większych Obrażeń i 1 Ochrony"
+    },
+    {
+      "id": "EgoAwakenDongrangSeed",
+      "name": "Nasiona",
+      "desc": "Koniec Tury: Mając 5+ Ilości, zyskaj Nawóz na 2 tury; Mając mniej niż 5 Ilości, zmniejsz Ilość o 1"
+    },
+    {
+      "id": "EgoAwakenDongrangTree",
+      "name": "Nawóz",
+      "desc": "Koniec Tury: Dongrang leczy się o 10 HP"
+    },
+    {
+      "id": "EgoAwakenDongrangOverHeal",
+      "name": "Nadleczenie",
+      "desc": "Ilość zwiększa się wraz z HP, które wyleczył Dongrang; przy 50+ Ilości, zadaje obrażenia od Obżarstwa równe Ilości efektu, nakłada 5 Kruchości i usuwa ten status."
+    },
+    {
+      "id": "SinkingSurge",
+      "name": "Powódź Rozpaczy",
+      "desc": "Zadaj obrażenia SP równe (Ilość Zrozpaczenia * Moc Zrozpaczenia), po czym usuwa Zrozpaczenie\nJeśli SP celu wynosic -45, nadmiar obrażeń SP jest zadany jako obrażenia HP od Przygnębienia\n(Jednostki nie posiadające Psychiki otrzymują całość jako obrażenia HP)"
+    },
+    {
+      "id": "Blue",
+      "name": "Łzy",
+      "desc": "Koniec Tury: Traci 5 SP\nTrafienia Reszką nakładają 2 Zrozpaczenia"
+    },
+    {
+      "id": "AmberResultUp",
+      "name": "Większa Moc Lenistwa",
+      "desc": "Zdolności Lenistwa mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Lenistwa +{0}"
+    },
+    {
+      "id": "EgoAwakenDongrangTreeDisplay",
+      "name": "Wysysanie Składników Odżywczych",
+      "desc": "Koniec Tury: Dongrang leczy się o 10 HP"
+    },
+    {
+      "id": "DongbaekFullBloomDisplay",
+      "name": "Pełny Rozkwit",
+      "desc": "Nie atakuje\nNa końcu tury, zmniejsza SP o 20; jeśli SP osiągnie -45, w pełni leczy SP, po czym zamienia się w 'Zaślepiony Umysł' na początku następnej tury.\nJeśli ten status nie zostanie usunięty przez 2 tury, zostnie usunięty na końcu tury.",
+      "summary": ""
+    },
+    {
+      "id": "EgoAwakenDongrangShardOfBrokenConnection",
+      "name": "Kawałek Rozbitej Więzi",
+      "desc": "Zdolności Yi Sanga zyskują +2 Ostatecznej Mocy\nKiedy zginie sojusznik, pozostali sojusznicyzyskują 1 Pośpiechu i 1 Większej Mocy Ataku na początku następnej tury (Raz na turę)\nTak długo, jak w walce pozostaje co najmniej jeden inny sojusznik, Yi Sang nie umrze",
+      "summary": ""
+    },
+    {
+      "id": "Choice_1040301",
+      "name": "Unknown Wound",
+      "desc": "Przyznaje 10 Pęknięcia w tej turze.",
+      "summary": "Przyznaje 10 Pęknięcia for the turn"
+    },
+    {
+      "id": "TakeHpHealIncrease",
+      "name": "Wzmocnienie Leczenia HP",
+      "desc": "Otrzumuje +{0}0% leczenia HP od Zdolności Pasywnych, SkilZdolnościls i fektów Monet w tej turze. (Maks 5)",
+      "summary": "HP Healing +{0}0%"
+    },
+    {
+      "id": "Choice_90104001",
+      "name": "Understanding",
+      "desc": "Mając the start of the battle, przyznaje 2 E.G.O resources za każde Affinity",
+      "summary": "Przyznaje +2 zasobów E.G.O for all Affinities"
+    },
+    {
+      "id": "Choice_9010400101",
+      "name": "Determined",
+      "desc": "All Ally Units przyznaje +2 Skill Ostatecznej Mocy for this battle",
+      "summary": "Skill Ostatecznej Mocy +2"
+    },
+    {
+      "id": "Choice_90104002",
+      "name": "Longing",
+      "desc": "All Ally Units przyznaje +1 Skill Power for this battle",
+      "summary": "Skill Power +1"
+    },
+    {
+      "id": "S2Mirror2ndFloor",
+      "name": "Mirror of Mirrors - F2",
+      "desc": "Skill Ostatecznej Mocy +1",
+      "summary": "Skill Ostatecznej Mocy +1"
+    },
+    {
+      "id": "S2Mirror3rdFloor",
+      "name": "Mirror of Mirrors - F3",
+      "desc": "Skill Ostatecznej Mocy +1\nSkill Poziomy Ataku +3",
+      "summary": "Skill Ostatecznej Mocy +1; Skill Poziomy Ataku +3"
+    },
+    {
+      "id": "S2Mirror4thFloor",
+      "name": "Mirror of Mirrors - F4",
+      "desc": "Skill Ostatecznej Mocy +1\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy ",
+      "summary": "Skill Ostatecznej Mocy +1; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy "
+    },
+    {
+      "id": "S2Mirror5thFloor",
+      "name": "Mirror of Mirrors - F5",
+      "desc": "Skill Ostatecznej Mocy +1\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy \nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
+      "summary": "Skill Ostatecznej Mocy +1; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy ; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+    },
+    {
+      "id": "SkillPowerUp",
+      "name": "Większa Moc Bazowa",
+      "desc": "+{0} Mocy Bazowej Zdolności w tej turze.",
+      "summary": "Bazowa Moc Zdolności +{0}"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "name": "Większe Maks HP",
+      "desc": "Zwiększa Maks HP o {0}0",
+      "summary": "Maks HP +{0}0"
+    },
+    {
+      "id": "StickCoinHeadAndTailToMaxPer",
+      "name": "Meshed Possibilities",
+      "desc": "Every three turns, all Coins on each skill used by allies land on the same side depending on the Coin's type",
+      "summary": "Every 3 turns, all Coins land on the same side based on the type"
+    },
+    {
+      "id": "RemoveBreakSection",
+      "name": "Stalwart Spirit",
+      "desc": "The 1st stagger thresholds of allies are nullified",
+      "summary": "Nullify 1st stagger threshold"
+    },
+    {
+      "id": "KCorpSerum",
+      "name": "Ampułka K Corpu",
+      "desc": "Początek Tury: Mając mniej niż 4 Ilości, ulecz się o ({0} * 5)% Maks HP\nPrzy 4+ Ilości, ta jednostka umiera",
+      "summary": ""
+    },
+    {
+      "id": "Talisman",
+      "name": "Talizman",
+      "desc": "Przy trafieniu nakłada {0} Pęknięcia; Gdy ta jednostka zostanie trafionya otrzymuje ona {0} Pęknięcia\nKoniec tury: Mając 6+ Ilości, usuń wszystkie Talizmany i zadaj stałe obrażenia równe ilości",
+      "summary": "Zadaje Pęknięcie atakując i otrzymuje je będąc trafianym"
+    },
+    {
+      "id": "S2Mirror2ndFloor_Hard",
+      "name": "Mirror of Mirrors Hard - F2",
+      "desc": "Skill Ostatecznej Mocy +1\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy \nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
+      "summary": "Skill Ostatecznej Mocy +1; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy ; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+    },
+    {
+      "id": "S2Mirror3rdFloor_Hard",
+      "name": "Mirror of Mirrors Hard - F3",
+      "desc": "Skill Ostatecznej Mocy +2\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy \nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
+      "summary": "Skill Ostatecznej Mocy +2; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy ; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+    },
+    {
+      "id": "S2Mirror4thFloor_Hard",
+      "name": "Mirror of Mirrors Hard - F4",
+      "desc": "Skill Ostatecznej Mocy +3\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy \nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
+      "summary": "Skill Ostatecznej Mocy +3; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy ; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+    },
+    {
+      "id": "S2Mirror5thFloor_Hard",
+      "name": "Mirror of Mirrors Hard - F5",
+      "desc": "Skill Ostatecznej Mocy +5\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy \nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
+      "summary": "Skill Ostatecznej Mocy +5; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy ; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+    },
+    {
+      "id": "S2Mirror1stFloor_Hard",
+      "name": "Mirror of Mirrors Hard - F1",
+      "desc": "Skill Ostatecznej Mocy +1\nSkill Poziomy Ataku +3\nSkill +1 Bazowej Mocy \nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
+      "summary": "Skill Ostatecznej Mocy +1; Skill Poziomy Ataku +3; Skill +1 Bazowej Mocy ; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+    },
+    {
+      "id": "MentalSystemResultIncrease_Typo",
+      "name": "Efektywność Leczenia SP",
+      "desc": "Ilość SP leczonego przez 'Bazowe czynniki zwiększające Psychikę(SP)'"
+    },
+    {
+      "id": "MentalSystemResultDecrease_Typo",
+      "name": "Efektywność Straty SP",
+      "desc": "Ilość SP traconego przez 'Bazowe czynniki zmniejszające Psychikę(SP)'"
+    },
+    {
+      "id": "DuelDeclaration",
+      "name": "Deklaracja Pojedynku",
+      "desc": "W starciu pomiędzy jednostką, która nałożyła Deklarację Pojedynku i jednostką z tym statusem, deklarujący posiada +1 Mocy Starcia i zyskuje 1 Pośpiechu na początku następnej tury po udanym ataku. (4 razy na turę) Efekt zostaje zdjęty, kiedy jednostka, która zadeklarowała pojedynek zadeklaruje go innemu celowi. Zostaje zastąpioy, kiedy inna jednostka zadeklaruje temu celowi pojedynek. "
+    },
+    {
+      "id": "Aggro",
+      "name": "Aggro",
+      "desc": "W Skupionych Potyczkach, żetony z wyższą wartością Aggro mają większą szansę być celem ataków."
+    },
+    {
+      "id": "BurstVulnerable",
+      "name": "Kruchość przed Pęknięciem",
+      "desc": "+{0}0% obrażeń otrzymywanych od Pęknięcia w tej turze."
+    },
+    {
+      "id": "EmergencyFeed",
+      "name": "Emergency Nutrient Supply",
+      "desc": "Mając the end of the turn, jeśli ta jednoska ma healed 15% Maks HP lub więcej, the body is restored na początku następnej tury."
+    },
+    {
+      "id": "Bullet_Crab",
+      "name": "Nabój ze Zrzuconej Skorupy",
+      "desc": "Używany przez niektóre Zdolności dla dodatkowych efektów."
+    },
+    {
+      "id": "SinkingVulnerable",
+      "name": "Kruchość przed Zrozpaczeniem",
+      "desc": "+{0}0% obrażeń otrzymywanych od Zrozpaczenia w tej turze."
+    },
+    {
+      "id": "BurstProtection",
+      "name": "Ochrona przed Pęknięciem",
+      "desc": "-{0}0% obrażeń otrzymywanych od Pęknięcia w tej turze."
+    },
+    {
+      "id": "PseudoLastBoss_KingCrap",
+      "name": "Crab Rage",
+      "desc": "Mając the start of the turn, apply Większej Mocy Ataku to all other allied crabs i przyznaje 2 Ochrony if its Shell isn't broken.\n-5 SP to target when using a skill.\nPrzy 50%- HP, every part gains 2 Większej Mocy Ataku i 2 Kruchości."
+    },
+    {
+      "id": "ChargeForceField",
+      "name": "Naładowana Bariera",
+      "desc": "- Zapewnia ({0} x 3) Tarczy.\n- Traci 1 Naładowaną Barierę po straceniu ({0} x 3) Tarczy.\n- (Jeżeli ta jednostka jest pracownikiem W Corp, WSZYSTKIE efekty Naładowanej Bariery aktywują się z mocą ({0} x 5) zamiast ({0} x 3))\n- Koniec tury: Zdobądź ilość Naładowania za każdą Naładowaną Barierę, a Naładowana Bariera i związana z nią tarcza znikają kompletnie w następnej turze"
+    },
+    {
+      "id": "SlashResultUp",
+      "name": "Większa Moc Cięcia",
+      "desc": "Zdolności Cięcia mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Cięcia +{0}"
+    },
+    {
+      "id": "RailBuffForLine2_A_ENEMY",
+      "name": "Cycle"
+    },
+    {
+      "id": "RailBuffForLine2_B_ENEMY",
+      "name": "Opportunistic"
+    },
+    {
+      "id": "RailBuffForLine2_C_ENEMY",
+      "name": "Hardening"
+    },
+    {
+      "id": "RailBuffForLine2_D_ENEMY",
+      "name": "Accelerating"
+    },
+    {
+      "id": "RailBuffForLine2_E_ENEMY",
+      "name": "Inhaling"
+    },
+    {
+      "id": "RailBuffForLine2_F_ENEMY",
+      "name": "Thirsting"
+    },
+    {
+      "id": "RailBuffForLine2_A_ALLY",
+      "name": "Slash Boost"
+    },
+    {
+      "id": "RailBuffForLine2_B_ALLY",
+      "name": "Pierce Boost"
+    },
+    {
+      "id": "RailBuffForLine2_C_ALLY",
+      "name": "Blunt Boost"
+    },
+    {
+      "id": "RailBuffForLine2_D_ALLY",
+      "name": "Wrath Boost"
+    },
+    {
+      "id": "RailBuffForLine2_E_ALLY",
+      "name": "Lust Boost"
+    },
+    {
+      "id": "RailBuffForLine2_F_ALLY",
+      "name": "Sloth Boost"
+    },
+    {
+      "id": "RailBuffForLine2_G_ALLY",
+      "name": "Gluttony Boost"
+    },
+    {
+      "id": "RailBuffForLine2_H_ALLY",
+      "name": "Gloom Boost"
+    },
+    {
+      "id": "RailBuffForLine2_I_ALLY",
+      "name": "Pride Boost"
+    },
+    {
+      "id": "RailBuffForLine2_J_ALLY",
+      "name": "Envy Boost"
+    },
+    {
+      "id": "RailBuffForLine2_K_ALLY",
+      "name": "Heal All"
+    },
+    {
+      "id": "RailBuffForLine2_L_ALLY",
+      "name": "Heal Selected"
+    },
+    {
+      "id": "RailBuffForLine2_T_ALLY",
+      "name": "Resurrect"
+    },
+    {
+      "id": "Discard",
+      "name": "Odrzuć",
+      "desc": "- Usuń z Tablicy Zdolności pasujące do wymagań i które można wybrać do użycia. (Zdolności obronne & E.G.O nie są liczone. Nie usuwa Zdolności z listy nadchodzących Zdolności)\n- Odrzucone zdolności nie będą aktywowały swoich efektów, nie licząc efektów ich Odrzucenia, ani nie dadzą swoich zasobów E.G.O."
+    },
+    {
+      "id": "RailBuffForLine2_M_ALLY",
+      "name": "Podpalenia Boost"
+    },
+    {
+      "id": "RailBuffForLine2_N_ALLY",
+      "name": "Krwawienie Boost"
+    },
+    {
+      "id": "RailBuffForLine2_O_ALLY",
+      "name": "Drżenie Boost"
+    },
+    {
+      "id": "RailBuffForLine2_P_ALLY",
+      "name": "Pęknięcia Boost"
+    },
+    {
+      "id": "RailBuffForLine2_Q_ALLY",
+      "name": "Zrozpaczenia Boost"
+    },
+    {
+      "id": "RailBuffForLine2_R_ALLY",
+      "name": "Tchnienia Boost"
+    },
+    {
+      "id": "RailBuffForLine2_S_ALLY",
+      "name": "Charge Boost"
+    },
+    {
+      "id": "KnowledgeExplored",
+      "name": "Wiedza",
+      "desc": "Poziom ostatniej Odrzuconej Zdolności: {0} (Wartość Bazowa: 1)"
+    },
+    {
+      "id": "Unjust_Enrichment",
+      "name": "Zabawa Cudzym Kosztem",
+      "desc": "- Zdobywana Trafieniami Orłem celów z Krwawieniem (Maks 4)\n- Kiedy Zdolność Pasywna 'Naboje są Takie Drogie' jest aktywna, ataki zużywają całą wartość Zabawę Cudzym Kosztem by zadawać dodatkowe obrażenia"
+    },
+    {
+      "id": "RetaliationBook",
+      "name": "Znak Zemsty",
+      "desc": "Nakładane jednostce, która zadała najwięcej obrażeń sojusznikom (Maks 1)",
+      "undefined": "-"
+    },
+    {
+      "id": "PenetrateResultUp",
+      "name": "Większa Moc Dźgania",
+      "desc": "Zdolności Dźgania mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Dźgania +{0}"
+    },
+    {
+      "id": "DuelDeclaration_DonQuixote",
+      "name": "Deklaracja Pojedynku - Don Kichote",
+      "desc": "- W starciu pomiędzy jednostką, która nałożyła Deklarację Pojedynku i jednostką z tym statusem, deklarujący posiada +1 Mocy Starcia i zyskuje 1 Pośpiechu na początku następnej tury po udanym ataku. (4 razy na turę) Efekt zostaje zdjęty, kiedy jednostka, która zadeklarowała pojedynek zadeklaruje go innemu celowi. Zostaje zastąpioy, kiedy inna jednostka zadeklaruje temu celowi pojedynek. "
+    },
+    {
+      "id": "DuelDeclaration_Outis",
+      "name": "Deklaracja Pojedynku - Outis",
+      "desc": "- W starciu pomiędzy jednostką, która nałożyła Deklarację Pojedynku i jednostką z tym statusem, deklarujący posiada +1 Mocy Starcia i zyskuje 1 Pośpiechu na początku następnej tury po udanym ataku. (4 razy na turę) Efekt zostaje zdjęty, kiedy jednostka, która zadeklarowała pojedynek zadeklaruje go innemu celowi. Zostaje zastąpioy, kiedy inna jednostka zadeklaruje temu celowi pojedynek. "
+    },
+    {
+      "id": "DuelDeclaration_Sinclair",
+      "name": "Deklaracja Pojedynku - Sinclair",
+      "desc": "- W starciu pomiędzy jednostką, która nałożyła Deklarację Pojedynku i jednostką z tym statusem, deklarujący posiada +1 Mocy Starcia i zyskuje 1 Pośpiechu na początku następnej tury po udanym ataku. (4 razy na turę) Efekt zostaje zdjęty, kiedy jednostka, która zadeklarowała pojedynek zadeklaruje go innemu celowi. Zostaje zastąpioy, kiedy inna jednostka zadeklaruje temu celowi pojedynek. "
+    },
+    {
+      "id": "VibrationExplosion",
+      "name": "Impuls Drżeń",
+      "desc": "Podnosi Próg Zachwiania celu o nałożoną na niego Moc Drżeń"
+    },
+    {
+      "id": "OneOnOneDuel",
+      "name": "Starcie Jeden na Jendego",
+      "desc": "Ustanowione, kiedy dany żeton jest atakowany przez jedną jednostkę i tylko tą jedną jednostkę. Ten warunek jest określany tylko pomiędzy atakującym a atakowanym Żetonem. (Nie działa z Ponownie Używanymi Zdolnościami)"
+    },
+    {
+      "id": "BulletFreischutz",
+      "name": "사용하지 않음",
+      "desc": "사용하지 않음"
+    },
+    {
+      "id": "FreischutzShotCount",
+      "name": "Koszmarny Pocisk",
+      "desc": "- Maks Wartość: 7\n- Wartość zmienia się zależnie od niektórych efektów Zdolności.\n- [Tylko dla Lobotomy E.G.O::Koszmarny Pocisk Outis]\n· +{0} Bazowej Mocy 3 Zdolności\n· +{1} Mocy Monet 3 Zdolności"
+    },
+    {
+      "id": "DarkFlame",
+      "name": "Mroczny Płomień",
+      "desc": "- Specjalne Podpalenie\n- Maks Wartość: 7\n- -{0} Poziomu Obrony Celu\n- Koniec Tury: Zadaj ({0} x Podpalenie na celu) obrażeń od Pychy, po czym usuńten efekt"
+    },
+    {
+      "id": "CtrlTeamCaptain",
+      "name": "Kapitan Zespołu Kontrolnego",
+      "desc": "- +1Żeton Zdolności\n- Zmienia pulę Zdolności: Przyznaje 1 użycie 3 Zdolności, ale odbiera 1 użycie 1 Zdolności\n- Kiedy ta jednostka pokona przeciwnika zdolnością, 2 sojuszników (w tym ta jednostka) z najmniejszą ilością SP leczą się o 25 SP. Zyskaj +2 zasoby E.G.O od Grzechu odpowiadającego zdolności, którą został zabity cel; zyskaj +1 zasobów E.G.O do pozostałych Grzechów"
+    },
+    {
+      "id": "HeatedGasHarpoon",
+      "name": "Nagrzany Harpun Gazowy",
+      "desc": "W tej Turze: Nakładaj 1 Podpalenie Trafieniami Orłem"
+    },
+    {
+      "id": "OverHeatedGasHarpoon",
+      "name": "Przegrzany Harpun Gazowy",
+      "desc": "W tej Turze: Nakładaj 1 Podpalenie Trafieniami"
+    },
+    {
+      "id": "CoverAttack",
+      "name": "Asystę w Ataku",
+      "desc": "- Jeśli jednostka A nałoży ten efekt na jednostkę B: Jednostka B ponawia atak Atakując Bezpośrednio swoją 1 Zdolnością przeciwko temu samemu celowi, który jednostka A zaatakowała swoją Zdolnością. Aktywuje się zaraz po zakończeniu ataku jednostki A.\n- Zdolność użyta jako Asysta w Ataku nie wpływa na listę kolejnych Zdolności jednostki B."
+    },
+    {
+      "id": "ReCompulsion",
+      "name": "Odwrotny Przymus",
+      "desc": "Ulecz 15 SP na Początku Każdej Tury"
+    },
+    {
+      "id": "IndigoResultUp",
+      "name": "Większa Moc Pychy",
+      "desc": "Zdolności Pychy mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Pychy +{0}"
+    },
+    {
+      "id": "BladeResultUpTier1",
+      "name": "Miecz Ojczyzny - Rozdzierający",
+      "desc": " +{0} Ostatecznej Mocy 1 Zdolności w tej turze.",
+      "summary": "Ostateczna Moc 1 Zdolności +{0}"
+    },
+    {
+      "id": "BladeResultUpTier2",
+      "name": "Miecz Ojczyzny - Przeszywający",
+      "desc": " +{0} Ostatecznej Mocy 2 Zdolności w tej turze.",
+      "summary": "Ostateczna Moc 2 Zdolności +{0}"
+    },
+    {
+      "id": "SwordPlayOfTheHomeland",
+      "name": "Ojczyźniana Szermierka",
+      "desc": "- Mając 5+ Tchnienia, przy użyciu Zdolności, 1 i 2 Zdolność zyskują +(3/# Monet, minimum 1) Mocy Monet i zadają +(30/# Monet)% obrażeń przy Trafieniu Krytycznym\n- Mając 7+ Tchnienia, przy użyciu Zdolności, 3 Zdolność zadaje +(30/# Monet)% obrażeń i +(50/# Monet)% obrażeń przy Trafieniu Krytycznym",
+      "summary": "Wzmacnia Zdolności przy konkretnych ilościach Tchnienia"
+    },
+    {
+      "id": "SwordPlayOfTheMemorial",
+      "name": "Pamięć o Domu",
+      "desc": "Mając 5+ Tchnienia, przy użyciu Zdolności, 1 i 2 Zdolność zyskują +(3/# Monet, minimum 1) Mocy Monet i zadają +(30/# Monet)% obrażeń przy Trafieniu Krytycznym\nMając 7+ Tchnienia, przy użyciu Zdolności, 3 Zdolność zadaje +(30/# Monet)% obrażeń i +(50/# Monet)% obrażeń przy Trafieniu Krytycznym",
+      "summary": "Wzmacnia Zdolności przy konkretnych ilościach Tchnienia"
+    },
+    {
+      "id": "RedApricotBlossom",
+      "name": "Rozkwit Czerwonej Śliwy",
+      "desc": "- Specjalne Krwawienie\n- Maks wartość: 10\n- +10% szansy na Krytyczne Trafienie tej jednostki, jeśli ta jest głównym celem\n- Kiedy ta jednostka zostanie Trafiona Krytycznie, Trafienie to nakłada Krwawienie równe połowie wartości tego efektu i zadaje +({0} x 3)% obrażeń\n- Wartość spada o 1 kiedy ta jednostka zostanie Trafiona",
+      "summary": "Wyższa szansa na otrzymanie Krytycznego Trafienia; otrzymuje więcej obrażeń od Trafień Krytycznych"
+    },
+    {
+      "id": "ShamrockResultUp",
+      "name": "Większa Moc Obżarstwaa",
+      "desc": "Zdolności Obżarswa mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Obżarstwa +{0}"
+    },
+    {
+      "id": "ScarletResultUp",
+      "name": "Większa Moc Rządzy",
+      "desc": "Zdolności Rządzy mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Rządzy +{0}"
+    },
+    {
+      "id": "AzureResultUp",
+      "name": "Większa Moc Przygnębienia",
+      "desc": "Zdolności Przygnębienia mają +{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Przygnębienia +{0}"
+    },
+    {
+      "id": "HitResultDown",
+      "name": "Mniejsza Moc Uderzenia",
+      "desc": "Zdolności Uderzenia mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Uderzenia -{0}"
+    },
+    {
+      "id": "PenetrateResultDown",
+      "name": "Mniejsza Moc Dźgania",
+      "desc": "Zdolności Dźgania mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Dźgania -{0}"
+    },
+    {
+      "id": "SlashResultDown",
+      "name": "Mniejsza Moc Cięcia",
+      "desc": "Zdolności Cięcia mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Cięcia -{0}"
+    },
+    {
+      "id": "CrimsonResultDown",
+      "name": "Mniejsza Moc Gniewu",
+      "desc": "Zdolności Gniewu mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Gniewu -{0}"
+    },
+    {
+      "id": "ScarletResultDown",
+      "name": "Mniejsza Moc Rządzy",
+      "desc": "Zdolności Rządzy mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Rządzy -{0}"
+    },
+    {
+      "id": "ShamrockResultDown",
+      "name": "Mniejsza Moc Obżarstwa",
+      "desc": "Zdolności Obżarstwa mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Obżarstwa -{0}"
+    },
+    {
+      "id": "AmberResultDown",
+      "name": "Mniejsza Moc Lenistwa",
+      "desc": "Zdolności Lenistwa mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Lenistwa -{0}"
+    },
+    {
+      "id": "AzureResultDown",
+      "name": "Mniejsza Moc Przygnębienia",
+      "desc": "Zdolności Przygnębienia mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Przygnębienia -{0}"
+    },
+    {
+      "id": "IndigoResultDown",
+      "name": "Mniejsza Moc Pychy",
+      "desc": "Zdolności Pychy mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Pychy -{0}"
+    },
+    {
+      "id": "VioletResultDown",
+      "name": "Mniejsza Moc Zazdrości",
+      "desc": "Zdolności Zazdrości mają -{0} Ostatecznej Mocy w tej turze.",
+      "summary": "Ostateczna moc Zdolności Zazdrości -{0}"
+    },
+    {
+      "id": "VibrationCollapse",
+      "name": "Drżenie - Rozkład",
+      "desc": "Zmniejsza Poziom obrony o 1 za każde 4 Siły Drżeń na sobie\nPo zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o {0}.\nKoniec tury: Zmniejsz Ilość o 1.\n(Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": "Zmniejsza Poziom obrony o 1 za każde 4 Siły Drżeń na sobie\nPodniesie Próg Zachwiania o {0}"
+    },
+    {
+      "id": "EchoOfMansion",
+      "name": "Echa Dworu",
+      "desc": "- 50% szansy nałożyć +1 Ilości Zrozpaczenia kiedy na tą jednostkę nakładane są Siła lub Ilość Zrozpaczenia przez efekty Zdolności lub Monet\n- Jednostki z SP: Zmień typ Paniki na Echa Dworu. Kiedy ta jednostka Panikuje, nałóż 2 Echa Dworu na 2 losowych innych sojuszników tej jednostki na początku następnej tury\n- Jednostki bez SP: -10% szansy na wyrzucenie Orła\n- Wartość zmniejsza się o 1 na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "EchoOfMansion_Main",
+      "name": "Echa Dworu",
+      "desc": "- 50% szansy nałożyć +1 Ilości Zrozpaczenia kiedy na tą jednostkę nakładane są Siła lub Ilość Zrozpaczenia przez efekty Zdolności lub Monet\n- Zmień typ Paniki tej jednostki na Echa Dworu.\n- Kiedy ta jednostka Panikuje, nałóż 2 Echa Dworu na 2 losowych innych sojuszników tej jednostki\n- Wartość zmniejsza się o 1 na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "EchoOfMansion_Sub",
+      "name": "Echa Dworu",
+      "desc": "- 50% szansy nałożyć +1 Ilości Zrozpaczenia kiedy na tą jednostkę nakładane są Siła lub Ilość Zrozpaczenia przez efekty Zdolności lub Monet\n- -10% szansy na wyrzucenie Orła\n- Wartość zmniejsza się o 1 na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "VibrationCrack",
+      "name": "Drżenie - Złamanie",
+      "desc": "- Kiedy ta jednostka zostanie Zachwiana i kiedy suma Siły i Ilości Drżenia wynosi co najmniej 20, podnieś Poziom Zachwiania o 1\n- Ten efekt nie przekracza maksymalnego Poziomu Zachwiania\nPo zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o {0}.\nKoniec tury: Zmniejsz Ilość o 1.\n(Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": "Przy Zachwianiu i kiedy suma Siły i Ilości Drżenia wynosi 20 lub więcej, podnosi Poziom Zachwiania o 1\nPodnosi Próg Zachwiania o {0}"
+    },
+    {
+      "id": "ForwardToTheKing",
+      "name": "W Obliczu Króla",
+      "desc": "Przy Trafieniu, zadaj 50% obecnej wartości Monet jako obrażenia od (Grzechu/Typu Ataku używanego przez tą Zdolność) przeciwko 2 innym możliwym do zaatakowania przeciwnikom z najmniejszym HP.",
+      "summary": ""
+    },
+    {
+      "id": "ForwardToTheBoundKing",
+      "name": "W Obliczu Spętanego Króla",
+      "desc": "Przy Trafieniu, zadaj 100% obecnej wartości Monet jako obrażenia od (Grzechu/Typu Ataku używanego przez tą Zdolność) przeciwko 2 innym możliwym do zaatakowania przeciwnikom z najmniejszym HP.",
+      "summary": ""
+    },
+    {
+      "id": "Switch_Vibration",
+      "name": "Konwersję Częstotliwości",
+      "desc": "Zamienia Drżenie lub inne już zamienione Drżenie na celu w inny typ Drżenia.\nWartości Siły i Ilości nie zmieniają się przez konwersję."
+    },
+    {
+      "id": "MarkOfButler",
+      "name": "N.N.L.",
+      "desc": "Wzmacnia Zdolności Przewodzącego Lokaja Rodziny Edgar Ryoshu przeciwko celom z tym efektem.\nSpada o 1 na Końcu Tury",
+      "summary": " 'To chyba oznacza... 'Następny Na Liście' ~ Lokaj Wichrowych Wzgóż Sinclair\n Hah, M.C.~ Przewodzący Lokaj Rodziny Edgar Ryoshu",
+      "undefined": "-"
+    },
+    {
+      "id": "LibrarianOfHistoryNormal",
+      "name": "Asystent Bibliotekarza Historii",
+      "desc": "- +1 Żeton Zdolności\n- Leczy 15 SP na Początku Tury\n- Ta jednostka nakłada dwukrotnie większą Siłę & Ilość Podpalenia, Krwawienia, Pęknięcia, Zrozpaczenia i Drżenia. (działa też ze 'Specjalnymi' efektami)",
+      "summary": ""
+    },
+    {
+      "id": "PreparedMeat",
+      "name": "Przyszykowane Mięso",
+      "desc": "Jeśli spełnione są odpowiednie warunki, Wróżkowa Królowa zabija tą jednostkę na Końcu Tury"
+    },
+    {
+      "id": "Hunger",
+      "name": "Głód",
+      "desc": "Koniec Tury: zyskaj 1 jeśli ta jednostka nie zabiła sojusznika z Przyszykowanym Mięsem.\nPrzy 75%- HP, zyskaj 2. Mając 50%- HP, zyskaj 3.\nPoczątek tury: strać 1 jeśli ta jednostka zabiła sojusznika z Przyszykowanym Mięsem.\nPrzy 0 wartości, zyskaj (# pokonanych sojuszników x 3) Mniejszej Mocy Ataku i Mniejszej Mocy Obrony.",
+      "summary": ""
+    },
+    {
+      "id": "UnstableFeeling",
+      "name": "Kruchy Zapał",
+      "desc": "- Przy Trafieniu, nakłada 1 Podpalenia\n- Jeśli główny cel ma już Podpalenie, +1 Ostatecznej Mocy\n- Jeśli ta jednostka ma wybraną Zdolność Obronną na Początku Walki, nakłada na atakującego 1 Podpalenia z każdym trafieniem przez tą turę\n- Koniec Tury: ta jednostka traci ({0} x 5) SP. (Maks strata SP : 40)",
+      "summary": " "
+    },
+    {
+      "id": "LibrarianOfHistoryHard",
+      "name": "Bibliotekarz Historii",
+      "desc": "- +1 Żeton Zdolności\n- Leczy 15 SP na Początku Tury\n- Ta jednostka nakłada dwukrotnie większą Siłę & Ilość Podpalenia, Krwawienia, Pęknięcia, Zrozpaczenia i Drżenia. (działa też ze 'Specjalnymi' efektami)\n- Kiedy zostanie pokonany przeciwnik, 2 sojuszników (w tym ta jednostka) z najmniejszą ilością SP leczą się o 25 SP.\n- Przy zabiciu przeciwnika: zyskaj +2 zasoby E.G.O od Grzechu odpowiadającego zdolności, którą został zabity cel; zyskaj +1 zasobów E.G.O do pozostałych Grzechów",
+      "summary": ""
+    },
+    {
+      "id": "PriceOfCare",
+      "name": "Bezdenny Głód",
+      "desc": "Pożarte Masy Wróżkowe: {0}",
+      "summary": ""
+    },
+    {
+      "id": "VibrationEcho",
+      "name": "Drżenie - Wybrzmienie",
+      "desc": "- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, zadaj {0} obrażeń od Lenistwa i podnieś Próg Zachwiania o {0}. Trwa {1} tur.\n(Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": ""
+    },
+    {
+      "id": "ShieldManagerCryingToad",
+      "name": "Łzawy Bąbel",
+      "desc": "- Ten efekt liczy się jako 'Zarządzanie Tarczą'.\n- Koniec Tury: Zmniejsz Ilość o 1\n- Ta jednostka nie traci Tarczy na Końcu Tury tak długo, jak ma na sobie efekt Łzawego Bąbla (chyba, że zostanie wyczerpana przez inne źródła)\n- Jeśli tarcza nadana z Łzawego Bąbla pęknie, nałóż na atakującego 4 Siły/Ilości Zrozpaczenia. (Ile z tej wartości '4' będzie Siłą a ile Ilością jest określane losowo)\n- Ta jednostka może zbierać więcej tarczy używając tego efektu. Jednak tak długo, jak Łzawy Bąbel działa, wartość Tarczy nie może przekroczyć 60% Maks HP tej jednostki.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationContinue",
+      "name": "Drżenie - Nieustanność",
+      "desc": "- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, ten efekt ma (Siła Drżenia na sobie)% szansy aktywować kolejny Impuls. (Maks 50%)\n- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, ten efekt ma (Ilość Drżenia na sobie)% szansy aktywować kolejny Impuls. (Maks 50%)\n- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o {0}.\nKoniec tury: Zmniejsz Ilość o 1\n(Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": ""
+    },
+    {
+      "id": "TimeSuspend",
+      "name": "Wstrzymanie Czasu",
+      "desc": "- Ta jednostka nie otrzymuje obrażeń tak długo, jak aktywny jest ten efekt; zamiast tego, wszystkie obrażenia są przechowywane\n- Koniec Walki: Jeśli została tylko 1 Ilość tego efektu, aktywuje on {0} impuls(ów) Drżeń po zadaniu {3} obrażeń od Lenistwa.\n- Koniec Tury: ten efekt zyskuje 1 Wartości i traci 1 Ilości\n- Wstrzymanie Czasu wygaśnie od razu po aktywowaniu Impulsu Drżeń i obrażeń od Lenistwa, jeśli kolejne Wstrzymanie Czasu zostanie nałożone na jednostkę, która już ma na sobie Wstrzymanie Czasu.\n- Przechowane obrażenia: {2}",
+      "summary": ""
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "Pożyczony Czas",
+      "desc": "Koniec Tury przy 2+ Ilości:\n- Przyznaje {1} Pośpiechu, Większej Mocy Starcia i Kruchości na początku następnej tury\n- Jeśli ta jednostka ma otrzymać więcej Spętania niż Pośpiechu na początku następnej tury, efekt Pożyczonego Czasu wygasa na początku następnej tury, a ta jednostka zostaje Zachwiana\n\nKoniec Tury: Mając 1 Ilości, zyskaj {0} Spętania na początku następnej tury\nKoniec Tury: ten efekt zyskuje 1 Wartości i traci 1 Ilości",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "Drżenie - Ciąg",
+      "desc": "- Zmniejsza Moc Starcia o 1 za każde 10 Siła Drżenia na sobie (Maks 3)\n- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o {0}.\nKoniec tury: Zmniejsz Ilość o 1\n- (Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": ""
+    },
+    {
+      "id": "GazePersonality",
+      "name": "Spojrzenie Odrazy",
+      "desc": "- Maks Wartość: 7\n- +7% zadawanych obrażeń za każde Spojrzenie Odrazy\n- Koniec Tury: ten efekt wygasa\n- Koniec Tury: Jeśli masz 7 Wartości Spojrzenia Odrazy, zamiast wygasania, na początku następnej tury zamienia się w Odrazę Spojrzenia",
+      "summary": ""
+    },
+    {
+      "id": "ContemptPersonality",
+      "name": "Odraza Spojrzenia",
+      "desc": "- Przyznaje 7 Ochrony\n- Przyznaje 7 Mniejszych Obrażeń\n- Jeden z Żetonów Zdolności tej jednostki zyskuje +20 Aggro\n- Tak długo, jak Odraza Spojrzenia jest aktywna, ta jednostka nie może zyskać Spojrzenia Odrazy\n- Koniec Tury: ten efekt wygasa",
+      "summary": ""
+    },
+    {
+      "id": "KnowledgeTraining",
+      "name": "Erudycja",
+      "desc": "- Maks Wartość: 6\n- Odrzucając Zdolność, ta jednostka zyskuje (Erudycja x 1.5)% swojego Maks HP jako Tarczę (raz na turę)\n- Jeśli ta jednostka Odrzuci Zdolność mając 2+ Wiedzy, zyskuje ona 1 Mocy Starcia (raz na turę)\n- Spada o 1 kiedy ta jednostka otrzymuje obrażenia HP po zostaniu trafioną Zdolnością Atakującą wroga\n- Wygasa, kiedy zostanie Zachwiana",
+      "summary": ""
+    },
+    {
+      "id": "BoseProjektil",
+      "name": "Podarte Wspomnienia",
+      "desc": "- Maks Wartość : 7\n- Używane przez niektóre Zdolności",
+      "summary": ""
+    },
+    {
+      "id": "ChargeLoad",
+      "name": "Rozładowanie",
+      "desc": "- Maks Wartość: 6\n- Zdolności Ataku, które zużywają Naładowanie zadają +({0} x 2.5)% obrażeń (Maks 15%)\n- Jeśli jednostka jest pracownikiem W Corp, zamiast tego zadają +({0} x 5)% obrażeń. (Maks 30%)\n- Koniec Tury: ten efekt wygasa",
+      "summary": ""
+    },
+    {
+      "id": "PhotoElectricity",
+      "name": "Fotoelektryczność",
+      "desc": "Maks Wartość: 3\nKiedy ta jednostka zostanie trafiona, Atakujący zyskuje Ilość Naładowania równą Wartości (raz na Zdolność)\n- Jeśli Atakujący ma 5- Ilości Naładowania, zyskuje +3 dodatkowej Ilości Naładowania\nKoniec Tury: ten efekt wygasa",
+      "summary": ""
+    },
+    {
+      "id": "AaCfPaBa_Alt1",
+      "name": "Niekończące Się Osamotnienie",
+      "desc": "Początek Każdej Tury: leczy 5 SP\nKiedy ta jednostka zostanie trafiona, traci 3 SP i zyskuje 2 Większe Poziomy Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 0 SP, przyznaje 3 Większej Mocy Ataku",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPaBa_Alt2",
+      "name": "Ściąć Heathcliffów",
+      "desc": "Początek Każdej Tury: leczy 10 SP\nKiedy ta jednostka zostanie trafiona, zyskuje 2 Większe Poziomy Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 0 SP, przyznaje 3 Większej Mocy Ataku",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa_Alt1",
+      "name": "Wdzierający Się Gniew",
+      "desc": "Koniec Tury: leczy 10 SP\nKiedy ta jednostka zostanie trafiona, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 0 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 1 Większych Obrażeń i 3 Mniejsze Poziomy Obrony",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa_Alt2",
+      "name": "Ściąć Heathcliffów",
+      "desc": "Koniec Tury: leczy 10 SP\nKiedy ta jednostka zostanie trafiona, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 10 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Mniejsze Poziomy Obrony",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa_Alt3",
+      "name": "Czułość i Nienawiść",
+      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Pośpiechu i 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 10 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa_Alt4",
+      "name": "Zatracona Obietnica",
+      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 20 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Większy Poziom Ataku\nPrzy 1 HP, leczy 40% HP i 25 SP (raz na Potyczkę)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa_Alt5",
+      "name": "Zatracona Obietnica",
+      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 20 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Większy Poziom Ataku\nTak długo, jak w walce jest co najmniej 1 inny żywy sojusznik, HP Heathcliffa nie spada poniżej 1\nPrzy 1 HP, leczy 40% HP i 25 SP (raz na Potyczkę)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Coffin",
+      "name": "Trumna",
+      "desc": "- Maks Wartość: 10\n- Na Końcu Tury:\n  - Przyznaje 2 Większych Obrażeń na początku następnej tury za każde 3 Wartości (Maks 6)\n  - Podnosi minimalną Prędkość o 1 na początku następnej tury za każde 4 Wartości (Maks 2)\n  - Przyznaje 1 Większej Mocy Starcia na początku następnej tury za każde 5 Wartości (Maks 2)",
+      "summary": ""
+    },
+    {
+      "id": "WildHunt",
+      "name": "Dziki Gon",
+      "desc": "- W tej samej turze, w której ta jednostka zyskała Dziki Gon po raz pierwszt, zawsze ma 1 pozostałe HP; \"wskrzesza\"(leczy 50% HP i resetuje SP do 0) tą jednostkę na Końcu Tury.\n- Przy śmierci, daje 1 zasób E.G.O z typu, którego posiadasz najmniej\n- Jeśli ta jednostka została zabita przez atak, nałóż 3 Zrozpaczenia na ostatniego atakującego\n- Ta jednostka umiera na końcu tej samej tury, w której została wskrzeszona.",
+      "summary": ""
+    },
+    {
+      "id": "NightPathfinding",
+      "name": "Dullahan",
+      "desc": "- Maks Wartość: 3\n- Przyznaje 3 Poziomy Ataku\n- Zmniejsza Poziom Obrony o 3\n- Podnosi Min & Maks Prędkość o 1\n- Koniec Tury: Przyznaje 1 Dullahana na początku następnej tury (Mając -25 lub mniej SP, zamiast tego kompletnie odbiera Dullahana)\n- Koniec Tury: Jeśli ta jednpstka ma Dullahana, traci (15 - (Trumna/2)) SP. (min 10)",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps",
+      "name": "Nadchodząca Ruina",
+      "desc": "- Jednostki posiadające SP: Zmień typ Paniki na \"\"Ruinę\"\".\n(Ruina: Kiedy ta jednostka wchodzi w stan Niskiego Morale, zyskuje 3 Zrozpaczenia na Końcu Każdej Tury i traci 1 Mocy Starcia. Kiedy ta jednostka Panikuje, zyskuje 5 Zrozpaczenia i 3 Ilości Zrozpaczenia na Końcu Każdej Tury i traci 2 Mocy Starcia)\n- Jednostki bez SP: -10% szansy na wyrzucenie Orła\n- Wartość spada o 1 na Końcu Tury\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n※ Nakłada efekt \"\"Jednostej bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki.",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps_Main",
+      "name": "Nadchodząca Ruina",
+      "desc": "- Jednostki posiadające SP: Zmień typ Paniki na 'Ruinę'\n- Wartość spada o 1 na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps_Sub",
+      "name": "Nadchodząca Ruina",
+      "desc": "- -10% szansy na wyrzucenie Orła\n- Wartość spada o 1 na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps_LowMorale",
+      "name": "Ruina",
+      "desc": "- Niskie Morale\n- -1 Mocy Starcia na sobie. Przyznaje 3 Zrozpaczenia na Końcu Każdej Tury",
+      "summary": "-1 Mocy Starcia na sobie. Przyznaje 3 Zrozpaczenia na Końcu Każdej Tury",
+      "undefined": "-"
+    },
+    {
+      "id": "WanderingFootsteps_Panic",
+      "name": "Ruina",
+      "desc": "- Panika\n- -2 Mocy Starcia na sobie. Przyznaje 5 Zrozpaczenia i +3 Ilości Zrozpaczenia na Końcu Każdej Tury",
+      "summary": "-2 Mocy Starcia na sobie. Przyznaje 5 Zrozpaczenia i +3 Ilości Zrozpaczenia na Końcu Każdej Tury",
+      "undefined": "-"
+    },
+    {
+      "id": "UninvitedGuestPersonality",
+      "name": "Nieproszeni Goście",
+      "desc": "- Maks Wartość: 2\n- Przy śmierci, ostatni atakujący odzyskuje 3 SP, po czym losowy sojusznik bez tego efektu zyskuje 2 Watrości tego efektu.\n- +0.5% otrzymywanyh obrażeń za każde Zrozpaczenia na sobie (Maks 10%; w Skupioych Potyczkach, Ilość Zrozpaczenia na każdej Części jest liczona osobno)\n- Koniec Tury: Zmniejsza Wartość o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DevyatDimensionalSack",
+      "name": "Kufer Kurierski - Rodion",
+      "desc": "- Wartość Bazowa: 0\n- Początek Tury: zyskuje 3 Wartości\n- Wartość nie wygasa przy Odwrocie; zamiast tego jest przechowywana\n- Mając 10+ Wartości: podnośi Min & Maks Prędkość o 1\n- Mając 20+ Wartości: Przyznaje 1 Większej Mocy Starcia i 1 Większych Obrażeń od Cięcia\n- Mając 30+ Wartości:\n· Przy Użyciu Zdolności, zadaje tej jednostce (Wartość/3)% obrażeń HP i (Wartość/3) obrażeń SP\n· Na Końcu Tury, zadaje tej jednostce (Wartość/2)% obrażeń HP i (Wartość/2) obrażeń SP (aktywuje się przed Odwrotem)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Retreat",
+      "name": "Tryb Strategicznego Odpoczynku",
+      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi HP i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DefensiveStance",
+      "name": "Postawa Obronna",
+      "desc": "- Maks Wartość: 2\n- Ten efekt nie kumuluje się w Sile; Ponowne nakładaie go zwiększa tylko jego długość.\n- Wartość spada o 1 na Końcu Tury\n- Kiedy jednostka zyska ten efekt, zyskuje na początku następnej tury dane efekty:\n  · Ustawia Prędkość tej jednostki na jej maksymalną wartość\n  · Przyznaje 5 Większego Poziomu Obrony\n  · Każdy z Żetonów Zdolności tej jednostki zyskuje +(10 / # Żetonów tej jednostki) Aggro\n  · Podczas wybierania Zdolności ta jednostka może ściągać na siebie ataki przeciwników bez względu na Prędkość (Tylko w Skupionych Potyczkach)\n  · Wygrywając Starcie, Aktywuj Impuls Drżeń\n  · Nie może być ogłuszona przez obrażenia",
+      "summary": ""
+    },
+    {
+      "id": "CanDuelGuard",
+      "name": "Ścierająca Się Garda",
+      "desc": "- Wygranie Starcia: podnieś Próg Zachwiania celu o ostateczną Moc Starcia tej jednostki.\n- Przegranie Starcia: kiedy ta jednostka zostanie trafiona, zmniejsza ostateczną Moc Zdolności atakującego o Ostateczną Moc tej Zdolności.\n- Przegranie Starcia: nie zyskuje Ostatecznej Mocy z tych źródeł: Rezonans i różnica Poziomów pomiędzy Zdolnościami",
+      "summary": ""
+    },
+    {
+      "id": "SuperCoin",
+      "name": "Niezłomna Moneta",
+      "desc": "- Ta moneta nie łamie się po przegrniu Starcia.\n- Jeśli ta moneta wystepuje w Zdolności Atakującej, zaatakuj tą monetą po byciu trafionym.\n- Po przegraniu starcia, ustaw Moc niezłamanej monety na 1",
+      "summary": ""
+    },
+    {
+      "id": "BloodScissorPersonalityFirst",
+      "name": "Splamione Krwią Nożyce",
+      "desc": "- Maks Wartość: 10\n- 1 Poziom Splamionych Krwią Nożyc\n- Mając 10+ Splamionych Krwią Nożyc, zmienia się w Splamione Krwią Nożyce II.\n- Mając 20+ Splamionych Krwią Nożyc, zmienia się w Splamione Krwią Nożyce III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Splamione Krwią Nożyce nie spadają poniżej 1.\n- Mając Splamione Krwią Nożyce II, przyznaje 1 Większy Poziom Ataku i 1 Mniejsze Poziomy Obrony zależnie od Wartości\n- Mając Splamione Krwią Nożyce III, przyznaje 1 Większy Poziom Ataku zależnie od Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorPersonalitySecond",
+      "name": "Splamione Krwią Nożyce II",
+      "desc": "- Maks Wartość: 20\n- 2 Poziom Splamionych Krwią Nożyc\n- Początek Tury: przyznaje 1 Większy Poziom Ataku i 1 Mniejsze Poziomy Obrony za każde 5 Wartości\n- Mając 10+ Splamionych Krwią Nożyc, zmienia się w Splamione Krwią Nożyce II.\n- Mając 20+ Splamionych Krwią Nożyc, zmienia się w Splamione Krwią Nożyce III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Splamione Krwią Nożyce nie spadają poniżej 1.\n- Mając Splamione Krwią Nożyce II, przyznaje 1 Większy Poziom Ataku i 1 Mniejsze Poziomy Obrony zależnie od Wartości\n- Mając Splamione Krwią Nożyce III, przyznaje 1 Większy Poziom Ataku zależnie od Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorPersonalityThird",
+      "name": "Splamione Krwią Nożyce III",
+      "desc": "- Maks Wartość: 30\n- 3 Poziom Splamionych Krwią Nożyc\n- Początek Tury: przyznaje 1 Większy Poziom Ataku za każde 5 Wartości\n- Mając 10+ Splamionych Krwią Nożyc, zmienia się w Splamione Krwią Nożyce II.\n- Mając 20+ Splamionych Krwią Nożyc, zmienia się w Splamione Krwią Nożyce III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Splamione Krwią Nożyce nie spadają poniżej 1.\n- Mając Splamione Krwią Nożyce II, przyznaje 1 Większy Poziom Ataku i 1 Mniejsze Poziomy Obrony zależnie od Wartości\n- Mając Splamione Krwią Nożyce III, przyznaje 1 Większy Poziom Ataku zależnie od Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCuttingPersonality",
+      "name": "Cel do szycia",
+      "desc": "- Maks Wartość: 1\n- +0.5% otrzymywanych obrażeń za każde Krwawienie (Maks 10%)\n- Koniec Tury: wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Snare",
+      "name": "Lasso",
+      "desc": "- Maks Wartość: 3\n- Koniec Tury: przyznaje Siłę Pęknięcia równą obecnej Prędkości tej jednostki (Maks 5) i przyznaje 1 Spętanie na początku następnej tury\n- Koniec Tury: wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHandGregFirst",
+      "name": "Krwawa Ręka",
+      "desc": "- Maks Wartość: 10\n- 1 Poziom Krwawej Ręki\n- Mając 10+ Krwawej Ręki, zmienia się w Krwawą Rękę II.\n- Mając 20+ Krwawej Ręki, zmienia się w Krwawą Rękę III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Mając Krwawą Rękę II, przyznaje 1 Większy Poziom Ataku zależnie od Wartości\n- Mając Krwawą Rękę III, przyznaje 1 Większy Poziom Ataku zależnie od Wartości i dodatkowo nakłada 1 Pęknięcia i 1 Krwawienie Przy Trafieniu Bazowymi Zdolnościami",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHandGregSecond",
+      "name": "Krwawa Ręka II",
+      "desc": "- Maks Wartość: 20\n- 2 Poziom Krwawej Ręki\n- Początek Tury: przyznaje 1 Większy Poziom Ataku za każde 10 Wartości\n- Mając 10+ Krwawej Ręki, zmienia się w Krwawą Rękę II.\n- Mając 20+ Krwawej Ręki, zmienia się w Krwawą Rękę III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Mając Krwawą Rękę II, przyznaje 1 Większy Poziom Ataku zależnie od Wartości\n- Mając Krwawą Rękę III, przyznaje 1 Większy Poziom Ataku zależnie od Wartości i dodatkowo nakłada 1 Pęknięcia i 1 Krwawienie Przy Trafieniu Bazowymi Zdolnościami",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHandGregThird",
+      "name": "Krwawa Ręka III",
+      "desc": "- Maks Wartość: 30\n- 3 Krwawej Ręki\n- Początek Tury: przyznaje 1 Większy Poziom Ataku za każde 10 Wartości\n- Przy Trafieniu Bazowymi Zdolnościami: dodatkowo nakłada 1 Pęknięcia i 1 Krwawienie\n- Mając 10+ Krwawej Ręki, zmienia się w Krwawą Rękę II.\n- Mając 20+ Krwawej Ręki, zmienia się w Krwawą Rękę III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Mając Krwawą Rękę II, przyznaje 1 Większy Poziom Ataku zależnie od Wartości\n- Mając Krwawą Rękę III, przyznaje 1 Większy Poziom Ataku zależnie od Wartości i dodatkowo nakłada 1 Pęknięcia i 1 Krwawienie Przy Trafieniu Bazowymi Zdolnościami",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WornHeartGreg",
+      "name": "Schorowane Serce",
+      "desc": "- Maks Wartość: 10\n- Koniec Tury: przyznaje 1 Wartości\n- Początek Tury: przyznaje 1 Większy Poziomu Obrony za każde 3 Wartości\n- Mając 50%- HP, przyznaje 1 Poziom Obrony za każde 3 Wartości\n- Mając 40%- HP, Przy Trafieniu Bazowymi Zdolnościami, leczy (Wartość x 5)% obrażeń zadanych przy trafieniu jako HP (min 1; zaokrąglone w dół; leczy do 30 HP na Zdolność)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThornsRodionFirst",
+      "name": "Kwitnący Cierń",
+      "desc": "- Maks Wartość: 10\n- 1 Poziom Kwitnącego Ciernia\n- Przyznaje 1 Poziom Obrony za każde 2 Wartości (Maks 5)\n- Kiedy ta jednostka zostanie trafiona, nakłada 1 Krwawienie na atakującego a Wartość spada o 1\n- [Tylko dla Księżniczki La Manchaland Rodion]\n· Mając Maks Wartość, zamienia się w następny Poziom tego efektu.\n· Ta jednostka nakłada +(Poziom efektu - 1) więcej Krwawienie i Pęknięcia efektami Monet swoich Bazowych Zdolności.\n· Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThornsRodionSecond",
+      "name": "Kwitnący Cierń II",
+      "desc": "- Maks Wartość: 20\n- 2 Poziom Kwitnącego Ciernia\n- Przyznaje 1 Poziom Obrony za każde 2 Wartości (Maks 5)\n- Kiedy ta jednostka zostanie trafiona, nakłada 1 Krwawienie na atakującego a Wartość spada o 1\n- [Tylko dla Księżniczki La Manchaland Rodion]\n· Mając Maks Wartość, zamienia się w następny Poziom tego efektu.\n· Ta jednostka nakłada +(Poziom efektu - 1) więcej Krwawienie i Pęknięcia efektami Monet swoich Bazowych Zdolności.\n· Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThornsRodionThird",
+      "name": "Kwitnący Cierń III",
+      "desc": "- Maks Wartość: 30\n- 3 Poziom Kwitnącego Ciernia\n- Przyznaje 1 Poziom Obrony za każde 2 Wartości (Maks 5)\n- Kiedy ta jednostka zostanie trafiona, nakłada 1 Krwawienie na atakującego a Wartość spada o 1\n- [Tylko dla Księżniczki La Manchaland Rodion]\n· Mając Maks Wartość, zamienia się w następny Poziom tego efektu.\n· Ta jednostka nakłada +(Poziom efektu - 1) więcej Krwawienie i Pęknięcia efektami Monet swoich Bazowych Zdolności.\n· Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FestivalFeverRodion",
+      "name": "Paradna Werwa",
+      "desc": "- Maks Wartość: 10\n- Wygasa na Końcu Tury\n- +({0} x 1.5)% obrażeń zadawanych celom z Krwawieniem\n- Zdolności, które zyskują Krwawą Ucztę lub ją kosztują, zamiast tego zadają +({0} x 3)% obrażeń",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationSpring",
+      "name": "Drżenie - Nakręcanie",
+      "desc": "- Maks Prędkość + 2\n- Nakłada o 1 więcej każdego, kiedy ta jednostka nakłada Siłę lub Ilość Drżenia efektami Monet lub Zdolności, zużywając przy tym 1 Ilość Drżenia na sobie\n- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o {0}.\nKoniec tury: Zmniejsz Ilość o 1\n- (Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": "Maks Prędkość +2\nZużywa Ilość Drżenia na sobie by nakładać o 1 więcej Siły i Ilości Drżenia",
+      "undefined": "-"
+    },
+    {
+      "id": "DevyatDimensionalSackSinclair",
+      "name": "Kufer Kurierski - Sinclair",
+      "desc": "- Wartość Bazowa: 0\n- Początek Tury: przyznaje 3 Wartości\n- Wartość nie wygasa przy Odwrocie; zamiast tego jest przechowywana\n- Mając 10+ Wartości: podnośi Min & Maks Prędkość o 1\n- Mając 20+ Wartości: Przyznaje 1 Większej Mocy Starcia i 1 Większych obrażeń od Uderzenia\n- Mając 30+ Wartości:\n· Przy Użyciu Zdolności, zadaje tej jednostce (Wartość/3)% obrażeń HP i (Wartość/3) obrażeń SP\n· Na Końcu Tury, zadaje tej jednostce (Wartość/2)% obrażeń HP i (Wartość/2) obrażeń SP (aktywuje się przed Odwrotem)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Zazen",
+      "name": "Dhyāna",
+      "desc": "- Maks Wartość: 108\n- +1% zadawanych obrażeń za każdą Wartość",
+      "summary": "Deal more damage"
+    },
+    {
+      "id": "SwirlingBloodPersonality",
+      "name": "Migotanie【Krwiopijca】",
+      "desc": "- Maks Wartość: 50\n- Tak długo, jak ten efekt istnieje, całe obrażenia od krwawienia zadane Tarczy HP są zamieniane w Krwawą Ucztę.\n- Przyznaje HP Tarczy równe Wartości w momencie nałożenia efektu\n- Wygasa na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "BloodArmorPersonalityFirst",
+      "name": "Utwardzona Krew",
+      "desc": "- Maks Wartość: 10\n- 1 Poziom Utwardzonej Krwi\n- Mając 10+ Utwardzonej Krwi, zmienia się w Utwardzoną Krew II.\n- Mając 20+ Utwardzonej Krwi, zmienia się w Utwardzoną Krew III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Utwardzona Krew nie spada poniżej 1.\n- Podnosi Min & Maks Prędkość o 1 za każde 10 Utwardzonej Krwi\n- Mając Utwardzoną Krew II, przyznaje 1 Większy Poziom Ataku zależnie od Wartości\n- Mając Utwardzoną Krew III, przyznaje 1 Większy Poziom Ataku i 1 Większy Poziom Obrony zależnie od Wartości",
+      "summary": ""
+    },
+    {
+      "id": "BloodArmorPersonalitySecond",
+      "name": "Utwardzona Krew II",
+      "desc": "- Maks Wartość: 20\n- 2 Poziom Utwardzonej Krwi\n- Początek Tury: przyznaje 1 Większy Poziom Ataku za każde 5 Wartości\n- Podnosi Min & Maks Prędkość o 1\n- Mając 10+ Utwardzonej Krwi, zmienia się w Utwardzoną Krew II.\n- Mając 20+ Utwardzonej Krwi, zmienia się w Utwardzoną Krew III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Utwardzona Krew nie spada poniżej 1.\n- Mając Utwardzoną Krew II, przyznaje 1 Większy Poziom Ataku zależnie od Wartości\n- Mając Utwardzoną Krew III, przyznaje 1 Większy Poziom Ataku i 1 Większy Poziom Obrony zależnie od Wartości",
+      "summary": ""
+    },
+    {
+      "id": "BloodArmorPersonalityThird",
+      "name": "Utwardzona Krew III",
+      "desc": "- Maks Wartość: 30\n- 3 Poziom Utwardzonej Krwi\n- Początek Tury: przyznaje 1 Większy Poziom Ataku i 1 Większy Poziom Obrony za każde 5 Wartości\n- Podnosi Min & Maks Prędkość o 2\n- Mając 10+ Utwardzonej Krwi, zmienia się w Utwardzoną Krew II.\n- Mając 20+ Utwardzonej Krwi, zmienia się w Utwardzoną Krew III.\n- Wraca do poprzedniego Poziomu, kiedy Wartość spadnie poniżej wymagań.\n- Utwardzona Krew nie spada poniżej 1.\n- Mając Utwardzoną Krew II, przyznaje 1 Większy Poziom Ataku zależnie od Wartości\n- Mając Utwardzoną Krew III, przyznaje 1 Większy Poziom Ataku i 1 Większy Poziom Obrony zależnie od Wartości",
+      "summary": ""
+    },
+    {
+      "id": "SadLamanchaland",
+      "name": "Odpowiedzialność",
+      "desc": "- Maks Wartość: 1\n- Moc Starcia +1\n- +20% zadawanych obrażeń\n- +20% otrzymywanych obrażeń",
+      "summary": ""
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_1st",
+      "name": "Pierwszy Koszmarny Pocisk",
+      "desc": "- Zadaje +20% obrażeń\n- Podnosi Próg Zachwiania Celu o zadane obrażenia (Maks 30)"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_2nd",
+      "name": "Drugi Koszmarny Pocisk",
+      "desc": "- Zadaje +10% obrażeń\n- Zadaje obrażenia celom innym niż główny cel (Maks celów: 4); Główny cel otrzymuje 0 obrażeń\n- Przy Trafieniu, nakłada 3 Paraliżu"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_3rd",
+      "name": "Trzeci Koszmarny Pocisk",
+      "desc": "- Zadaje +20% obrażeń\n- Przed Atakiem: przyznaje +2 Wagi Ataku\n- Przy Trafieniu, nakłada 2 Mniejszej Mocy Ataku i 10 Podpalenia"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_4th",
+      "name": "Czwarty Koszmarny Pocisk",
+      "desc": "- Zadaje +30% obrażeń\n- Przed Atakiem: przyznaje +3 Wagi Ataku\n- Przy Trafieniu, Podnosi Próg Zachwiania Celu o zadane obrażenia (Maks 20), po czym nałóż 3 Kruchości na początku następnej tury"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_5th",
+      "name": "Piąty Koszmarny Pocisk",
+      "desc": "- Zadaje +30% obrażeń\n- Przed Atakiem: przyznaje +4 Wagi Ataku\n- Przy Trafieniu, nałóż 10 Podpalenia, po czym nałóż 4 Mniejsze Poziomy Ataku i 4 Mniejsze Poziomy Obrony na początku następnej tury"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_6th",
+      "name": "Szósty Koszmarny Pocisk",
+      "desc": "- Przed Atakiem: przyznaje +6 Wagi Ataku\n- Przy Trafieniu, Podnosi Próg Zachwiania Celu o zadane obrażenia (Maks 30)\n- Ponownie używa tej monety za każde 7 Podpalenia na głównym celu (2 razy Maks)\n - -16 Bazowej Mocy Zdolności z Dodatnimi Monetami\n - -22 Bazowej Mocy Zdolności z Ujemnymi Monetami\n -  -8 Mocy Dodatnich Monet\n - -12 Mocy Ujemnych Monet"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_7th",
+      "name": "Siódmy Koszmarny Pocisk",
+      "desc": "- Zadaje +200% obrażeń\n- +2.5% zadawanych obrażeń za każde 1% brakującego HP na celu (Maks 200%)\n- Przed Atakiem: dla tego ataku, jeśli Odporność na Obrażenia od Dźgania na celu są mniejsze niż 2.0, zmień je na Śmiertelne(x2.0)\n- Po ataku: zabija tą jednostkę"
+    },
+    {
+      "id": "FreishutzOutisEgoBulletCnt",
+      "name": "Pocisk Strzelca",
+      "desc": "Używa innego rodzaju amunicji zależnie od Pocisku Strzelca"
+    },
+    {
+      "id": "CoveringFire",
+      "name": "Cel Namierzony",
+      "desc": "Jeśli jednostka A nałoży ten efekt na jednostkę B: Jednostka B ponawia atak Atakując Bezpośrednio swoją 2 Zdolnością przeciwko temu samemu celowi, który jednostka A zaatakowała swoją Zdolnością. Aktywuje się zaraz po zakończeniu ataku jednostki A.\n- Zdolność użyta przez ten efekt nie wpływa na listę kolejnych Zdolności jednostki B."
+    },
+    {
+      "id": "FullReload",
+      "name": "Przeładuj",
+      "desc": "Usuwa całą amunicję tej jednostki i przeładowuje do pełna"
+    },
+    {
+      "id": "Bullet_LogicAtelier",
+      "name": "Amunicja - Atelier Logic",
+      "desc": "Specjalna Amunicja\n Specjalne Naboje Warsztatu Atelier Logic\n- Ta amunicja nie może być zyskana lub stracona z powodu zewnętrznych czynników"
+    },
+    {
+      "id": "Retreat_FullStop",
+      "name": "Zlecennie Obserwacji",
+      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi HP i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)"
+    },
+    {
+      "id": "LogicAtelierAM",
+      "name": "Koncentracja【Snajper】",
+      "desc": "- Maks Wartość: 4\n- Koniec Tury: przyznaje 1 Wartości"
+    },
+    {
+      "id": "MeleeCover",
+      "name": "Wsparcie Krótkozasięgowe",
+      "desc": "- Jeśli jednostka A nałoży ten efekt na jednostkę B: Jednostka B ponawia atak Atakując Bezpośrednio swoją Zdolnością 'Wsparcie Krótkozasięgowe' przeciwko temu samemu celowi, który jednostka A zaatakowała swoją Zdolnością. Aktywuje się zaraz po zakończeniu ataku jednostki A.\n- Zdolność użyta jako 'Wsparcie Krótkozasięgowe' nie wpływa na listę kolejnych Zdolności jednostki B."
+    },
+    {
+      "id": "RequestedTarget",
+      "name": "Wyznaczony Cel",
+      "desc": "+0.2 Odporności na Typy Ataku, na które ta jednostka ma 1.5 lub mniej Odporności. Jeśli cel z tym efektem zostanie pokonany, przyznaje 1 zasób E.G.O dla wszystkich Grzechów, a jednostka, która go pokonała odzyskuje 10 SP"
+    },
+    {
+      "id": "GlowingLantern",
+      "name": "Wróżkowy Wabik",
+      "desc": "- Maks Wartość: 5\n- Początek Tury: Żeton po lewej stronie Tablicy zyskuje +10 Aggro\n- +50% otrzymywanych obrażeń\n- Kiedy ta jednostka zostanie trafiona, nałóż na Atakującego 1 Pęknięcie (3 razy na zdolność celu)\n· Mając mniej niż 50% HP, nałóż 1 dodatkowe Pęknięcie\n· Jeśli cel ma 15+ Pęknięcia, ten efekt nie nakłada Pęknięcia\n- Wartość spada o 1 na Końcu Tury"
+    },
+    {
+      "id": "HoldingBreath",
+      "name": "Głęboki Wdech",
+      "desc": "- Maks Wartość: 20\n- Przy Trafienu Krytycznym, mając 15+ Siły Tchnienia i 5+ Ilości Tchnienia, zużywa (Siła Tchnienia na sobie / 5) Siły Tchnienia, żeby zadać +(Zużyta Siła Tchnienia x 4)% obrażeń przy Trafienu Krytycznym i stracić 1 Wartości",
+      "summary": "Więcej zadanych obrażeń przy Trafienu Krytycznym"
+    },
+    {
+      "id": "NebulizerInhale",
+      "name": "Inhalator β",
+      "desc": "- Maks Wartość: 5\n- Ten efekt zostaje na jednostce poprzez Potyczkę\n- Aktywując A-Rezon. Pychy: na Początku Walki przyznaje 3 Tchnienia i +3 Ilości Tchnienia na sobie i (Wartość efektu) sojuszników (w pierwszej kolejności działa na sojuzników, którzy zyskują lub zużywają Tchnienie; wśród nich, w pierwszej kolejności działa na tych z najmniejszą Siłą Tchnienia)",
+      "summary": "Przyznaje Tchnienia i Ilości Tchnienia"
+    },
+    {
+      "id": "Hohenheim_LowMorale",
+      "name": "Boleść",
+      "desc": "Początek Tury: przyznaje 1 Kruchości i 2 SP Mniejszą Efektywność Leczenia SP"
+    },
+    {
+      "id": "Hohenheim_Panic",
+      "name": "Boleść",
+      "desc": "Początek Tury: przyznaje 2 Kruchości i 3 SP Mniejszą Efektywność Leczenia SP"
+    },
+    {
+      "id": "BlackCloud",
+      "name": "Ciemna Chmura",
+      "desc": "Maks Wartość: 1\nZamienia wszystkie Monety Bazowych Zdolności tej jednostki w [Unbreakable Coins], sprawia, że obrażenia nie mogą Zachwiać tej jednostki do Końca Tury i nakłada +1 dodatkowych efektów Krwawienia\nPrzegranie Starcia: +3 przyznaje Ostatecznej Mocy\nKoniec Tury: ten efekt wygasa"
+    },
+    {
+      "id": "BlackCloudBlade",
+      "name": "Ostrze Ciemnej Chmury",
+      "desc": "Maks Wartość: 1\nPrzyznaje 1 Mocy Cięcia\nNakłada 1 Krwawienie Przy Trafieniu Zdolnościami Cięcia"
+    },
+    {
+      "id": "EngageToBattle",
+      "name": "Gotowość do Walki",
+      "desc": "Maks Wartość: 1\n+1 Siły i Ilości Krwawienia nakładanych przez efekty Zdolności i Monet tej jednostki\nPrzyznaje 1 Większej Mocy Cięcia i 3 Większych Obrażeń od Cięcia na czas tej Potyczki"
+    },
+    {
+      "id": "CloudWall",
+      "name": "Kłębiasta Ściana",
+      "desc": "Maks Wartość: 1\n +1 Ostatecznej Mocy Zdolności Oboronnej\nTen efekt wygasa na Końcu Tury lub po użyciu danego ataku: 'Prawa Uliczek Bocznych'"
+    },
+    {
+      "id": "NebulizerExhale",
+      "name": "Inhalator α",
+      "desc": "- Maks Wartość: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Siłę Tchnienia i +1 Ilości Tchnienia"
+    },
+    {
+      "id": "ReleaseBreath",
+      "name": "Płytki Wydech",
+      "desc": "- Maks Wartość: 1\n- Mając 20+ Siły Tchnienia, przyznaje też +1 Ilości kiedy ta jednostka zyskuje Siłę Tchnienia efektami Zdolności i Monet\n- Wygasa na Końcu Tury"
+    },
+    {
+      "id": "FirePunchFuel",
+      "name": "Paliwo z Dystryktu 12",
+      "desc": "Maks Wartość: 100\nZużywane przez Zdolności.\nPrzy 50- Wartości, Zamienia się w Przegrzane Paliwo\nZużyte paliwo: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FirePunchFuelOverheated",
+      "name": "Przegrzane Paliwo",
+      "desc": "Maks Wartość: 100\nZużywanie Paliwa z Dystryktu 12 w stanie Przegrzanego Paliwa zamiast tego zużywa Przegrzane Paliwo\nZużywanie Przegrzanego Paliwa lczy się jako zużywanie Paliwa z Dystryktu 12\nPrzy ponad 50 Wartości, zamienia się w Paliwo z Dystryktu 12\nZużyte paliwo: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DianxueDonQuixote",
+      "name": "Czuły Punkt - Don Kichote",
+      "desc": "- Maks Wartość: 3\n- Jednostka, która odsłoniła ten Czuły Punkt zyskuje dane efekty, zależnie od Wartości Czułego Punktu na celu (lub Części)\n· 1x Wartości: Przyznaje +1 Mocy Starcia \n· 2x Wartości: Przyznaje +1 Bazowej Mocy \n· 3x Wartości: Przyznaje +1 Mocy Starcia  i +1 Bazowej Mocy \n- Wygasa, jeśli jednostka, która nałożyła ten efekt nałoży go na inny cel (lub inną Część)\n- Zastąpiony, kiedy inna jednostka nałoży Czuły Punkt",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookSinclair",
+      "name": "Księga Zemsty [Sinclair]",
+      "desc": "- Maks Wartość: 30\n- Zadaje o (Wartość)% więcej obrażeń (Maks 30%)\n- Przyznaje dane efekty na początku następnej tury zależnie od Wartości efektu:\n· Mając 10+ Wartości: przyznaje 1 Większych Obrażeń Uderzenia\n· Mając 20+ Wartości: +1 Maks Prędkości, przyznaje 1 Wzmocnienia\n· Mając 30 Wartości: przyznaje 2 Większych Obrażeń Uderzenia",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VendettaMark",
+      "name": "Znak Wendety",
+      "desc": "- Maks Wartość: 10\n- Zużywany przez Zdolności\n- +2% obrażeń otrzymywanych od Tożsamości ze Środka za każdą Wartość (Maks 20%)\n- Koniec Tury: jednostka z największą Wartością tego ofektu zyskuje 1 Znak Zemsty Rodzeństwa na początku następnej tury\n(Liczy się osobno od Znaku Zemsty; jeśli więcej niż jedna jednostka ma najwięcej tego efektu, ten efekt aktywuje się na tej z największym procentem HP)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RetaliationBookFamily",
+      "name": "Znak Zemsty Rodzeństwa",
+      "desc": "- Maks Wartość: 1\n- Wygasa na Końcu Tury\n- Każda Tożsamość traktuje tą jednostkę, jakby miała jej Znak Zemsty",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BirdCage",
+      "name": "Rozżarzona Klatka",
+      "desc": "Maks Wartość: 5\nJeśli ta jednostka ma Podpalenie, +0.1 Odporności na Gniew za każdą Wartość (nie może przekroczyć 2.0 Odporności na Gniew)\nKoniec Tury: przyznaje Spętanie równe Wartości na początku następnej tury\nKoniec Tury: zmniejsz Wartość o połowę (zaokrąglone w dół)\n※ Kiedy ten efekt jest aktywny, nie można nałożyć ponownie dodatkowej Wartości",
+      "summary": "Wrath Resistance +0.1 za każdą Wartość",
+      "undefined": "-"
+    },
+    {
+      "id": "WideAreaRampage",
+      "name": "Rozproszona Salwa",
+      "desc": "- Kiedy ta Zdolność rzuca Monetami, każda Moneta atakuje losowy cel Zdolności\n· Pierwsza Moneta zawsze atakuje główny cel\n· Wszystkie efekty 'Przy Trafieniu' i wsztystkie obrażenia zadane przez każdą z Monet są zadawane tylko losowym celom wybranym przez daną Monetę",
+      "summary": "Attack indiscriminately among targets",
+      "undefined": "-"
+    },
+    {
+      "id": "ActivatedEgoPassive",
+      "name": "Pasywne efekty E.G.O",
+      "desc": "ActAktywneive Pasywne efekty E.G.O",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstPoison",
+      "name": "Obrzęd Śmierci【Jad】",
+      "desc": "Bazowa Wartość: 5\n- Kiedy Pęknięcie na tej jednostce jest aktywowane przez Krytyczne Trafienie, Wartość spada o 1\n- Tracąc Wartość przez ten efekt, nakłada 1 Mniejszy Poziom Ataku lub 1 Mniejszy Poziomy Obrony (3 razy na turę)\n- Tracąc Wartość przez ten efekt, jeśli Wartości spadnie do 0, zadaje obrażenia od Obżarstwa równe Sile Pęknięcia na sobie\n- ※ Kiedy ten efekt jest aktywny, nie można nałożyć ponownie dodatkowej Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SnakeStance",
+      "name": "Wężowa Ręka",
+      "desc": "Maks Wartość: 3\nKoniec Tury: przyznaje 3 Tchnienia i +2 Ilości Tchnienia na początku następnej tury\nPrzy użyciu Bazowych Zdolności, jeśli cel ma Pęknięcie, przyznaje 5 Tchnienia\nKoniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstZilu",
+      "name": "Obrzęd Śmierci【Wyłom】",
+      "desc": "- Bazowa Wartość: 3\n- Kiedy Pęknięcie na tej jednostce jest aktywowane i ma ona na sobie Obrzęd Śmierci, Wartość spada o 1 i przyznaje 1 Spętanie na początku następnej tury\n· Kiedy ten efekt się aktywuje, jeśli ta jednostka ma zyskać 3 lub wiecej Spętania na początku następnej tury, efekt traci 2 Wartości zamiast zyskiwania Spętania\n- Mając 0 Wartości, zadaje obrażenia od Obżarstwa równe Sile Pęknięcia na sobie\n※ Kiedy ten efekt jest aktywny, nie można nałożyć ponownie dodatkowej Wartości.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtect",
+      "name": "Asysta Obronna",
+      "desc": "- Maks Wartość: 3\n- Kiedy sojusznik ma przyjąć na siebie Bezpośredni Atak od przeciwnika, zużywa 1 Wartości by przenieść atak przeciwnika na tą jednostkę, po czym używa wyłącznej zdolności obronnej używanej przez Asystę Obronną\n- Jeśli w walce jest kilka jednostek z Asystą Obronną, sojusznik z największą jej Wartością aktywuje ją pierwsza\n- Nie aktywuje się dla sojuszników, którzy użyli Zdolności Obronnych\n- Wygasa na Końcu Tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceZilu",
+      "name": "Ostrze Gwiazdy Tianjiu",
+      "desc": "- Maks Wartość: 20\n- Mając 10+ Wartości: na Końcu Tury, przyznaje 1 Pośpiechu na początku następnej tury\n-  Używane przez Zdolności",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstVulnerableZilu",
+      "name": "Znamie Rozkładu",
+      "desc": "- Maks Wartość: 1\n- +10% obrażeń otrzymywanych od Zdolności Obżarstwa\n- +10% obrażeń otrzymywanych od Obrzędów Śmierci\n- Wygasa na Końcu Tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtectTypo",
+      "name": "Asysta Obronna",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EntangledCurseTalisman",
+      "name": "Talizman Skrzywionej Klątwy",
+      "desc": "- Maks Wartość: 10\n- Wygasa na Końcu Tury\n- Mając 10+ Wartości, otrzymując 30+ obrażeń od Zdolności: przyznaje +1 Ilości Pęknięcia; zadaje obrażenia od Obżarstwa równe Sile Pęknięcia na sobie (raz na turę)\n- Kiedy ten efekt wygasa, przyznaje (Wartość / 4) Mniejszej Mocy Ataku na początku następnej tury (maks 2)\n※ Kiedy ten efekt jest aktywny, nie można nałożyć ponownie dodatkowej Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CentipedePoison",
+      "name": "Jad Stonogi",
+      "desc": "- Maks Wartość: 20\n- Koniec Tury: przyznaje (Wartość / 4) Mniejsze Poziomy Obrony na początku następnej tury (zaokrąglone w dół)\n- Koniec Tury: zadaje obrażenia od Obżarstwa równe Wartości i zmniejsza Wartość o połowę (zaokrąglone w dół)\nW chwili śmierci, przenosi się na sojusznika tej jednostki(w Skupioych Potyczkach, inną Część) który nie ma na sobie Jadu Stonogi, lub ma jego najmniejszą Wartość.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DragonLance",
+      "name": "Przykrywający Kwiaty Klin [埋花櫼]",
+      "desc": "Bazowa Wartość: 0\nMaks Wartość: 3\n- Wszystkie Monety Bazowej Zdolności tej jednostki najbardziej po lewej stronie Tablicy zamieniają się w Niezłomne Monety\n- Początek Tury: przyznaje 2 Większe Poziomy Ataku i 2 Mniejsze Poziomy Obrony\n- Początek Tury: przy 3+ Wartości, przyznaje 1 Zbezczeszczoną Krew (raz na Potyczkę)\n- Koniec Tury: przyznaje 1 Wartości\n※ Wartości tego efektu nie można zwiększyć w żaden sposób poza powyższym\n- Wygasa przy śmierci lub wycofaniu\n\n- Kiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 0: zamiast pozwolić, by HP tej jednostki spadło do 1, lub została Zachwiana czy Pokonana, używa Zdolności 'Łzy Zbezczeszczonej Krwi - Zakończenie' na samym końcu tej tury. Po zakończeniu Zdolności, usuwa cały Przykrywający Kwiaty Klin.\nKiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 1 na Końcu Tury, używa Zdolności 'Łzy Zbezczeszczonej Krwi - Zakończenie' zależnie od Prędkości tej jednostki na początku następnej tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CondensedBlood",
+      "name": "Zbezczeszczona Krew",
+      "desc": "Maks Wartość: 5\n- Koniec Tury: Zadaje tej jednostce obrażenia równe 20% jej maks HP za każdą Wartość (Ten efekt nie może jej Zachwiać)\n- Przyznaje 1 Wartości na Końcu Tury\n- Wygasa przy śmierci lub wycofaniu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonSelf",
+      "name": "Przykrywająca Kwiaty Igła [埋花針]",
+      "desc": "Maks Wartość: 20\n- Przyznaje 1 Wartości na Końcu Tury lub kiedy ta jednostka zostanie trafiona\n- Przyznaje 1 Poziom Ataku za każde 5 Wartości\n- Jeśli jednostka z tym efektem umrze, zadaje obrażenia od Obżarstwa równe Wartości i nakłada 5 Pęknięcia\n- Wygasa przy śmierci lub wycofaniu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonNodie",
+      "name": "Odmowa [不許]",
+      "desc": "Kiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 0: Hp tej jednostki nie spada poniżej 1; odratowuje ze stanu Zachwiania .\nJeśli powyższy efekt zostanie aktywowany, ta jednostka umiera na Końcu Tury.\nWygasa przy śmierci, wycofaniu lub na Koniec Tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonBurst",
+      "name": "Razor Thorn",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WaitingXichun",
+      "name": "Oczekiwanie [待]",
+      "desc": "- Maks Wartość: 3\n- Liczba tur, które ta jednostka spędziła w Wycofaniu lub jako jednostka Rezerwowa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StartXichun",
+      "name": "Wejście [始]",
+      "desc": "- Maks Wartość: 6\n- Liczba tur, które ta jednostka spędziła aktywnie uczestnicząc w Potyczce\n- Wygasa przy Wycofaniu\n- Przyznaje 1 Wartości na Końcu Tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CheerUpXichun",
+      "name": "Wsparcie [援]",
+      "desc": "- Maks Wartość: 1\n- Jeśli cel ma 5+ rodzai negatywnych efektów, +1 Mocy Starcia i +10% zadawanych obrażeń",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RetreatForCommon",
+      "name": "Wycofanie z Walki",
+      "desc": "- Koniec Tury: odratowuje tą jednostkę ze stanu Zachwiania i Wycofuje ją z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi HP i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FireBulletPropellant",
+      "name": "Amunicja z Paliwem Zapalnym",
+      "desc": "- Maks Pojemność: 15\n- Specjalna Amunicja\n- Używana przez Zdolności\n- Liczy się jako \"Amunicja\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SingBulletSupport",
+      "name": "(엄지 싱클 탄환 보급 받는 대상 이펙트)",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantAlly",
+      "name": "Tygrysi Nabój",
+      "desc": "- Specjalna Amunicja\n- Mając 8+ (łącznej sumy zużytych Tygrysich Naboi i Dzikich Tygrysich Naboi), Pasywna Zdolność tej jednostki przyznaje Nieugięty Duch - Shin [剛氣-心] zamiast Nieugiętego Ducha [剛氣]\n- Łączna wartość zużytych Naboi: {0}\n- Maks Pojemność: 12",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantSpecialAlly",
+      "name": "Dziki Tygrysi Nabój",
+      "desc": "- Specjalna Amunicja\n- Mając 8+ (łącznej sumy zużytych Tygrysich Naboi i Dzikich Tygrysich Naboi), Pasywna Zdolność tej jednostki przyznaje Nieugięty Duch - Shin [剛氣-心] zamiast Nieugiętego Ducha [剛氣]\n- Łączna wartość zużytych Naboi: {0}\n- Aktywuje się tak samo jak Tygrysi Nabój\n- Maks Pojemność: 8",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IrritationAlly",
+      "name": "Nieugięty Duch [剛氣]",
+      "desc": "- Min & Maks Prędkość +1\n- Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, +(różnica Prędkości x 2.5)% zadawanych obrażeń (maks 20%)\n- +1 Nakładanych przez Zdolności tej jednostki Siły i Ilości Drżenia\n- Jeśli ta jednostka zużyła 8+ (Sumy Tygrysich Naboi i Dzikich Tygrysich Naboi): na Końcu Tury, zamienia to wzmocnienie w Nieugięty Duch - Shin [剛氣-心] na początku następnej tury\n- Maks Wartość: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HugeIrritationAlly",
+      "name": "Nieugięty Duch - Shin [剛氣-心]",
+      "desc": "- Min & Maks Prędkość +3\n- Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, +(różnica Prędkości x 5)% zadawanych obrażeń (maks 40%)\n- +2 Nakładanych przez Zdolności tej jednostki Siły i Ilości Drżenia\n- Maks Wartość: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeastEyesAlly",
+      "name": "Przegrzanie",
+      "desc": "- Ten efekt wygasa po zyskaniu Dzikiego Tygrysiego Naboju\n- Min & Maks Prędkość +2\n- Bazowe Zdolnośc tracą (łączna liczba zużytych Tygrysich Naboi i Dzikich Tygrysich Naboi / 2) Mocy Starcia (maks 10); w zamian za to, przyznaje dane efekty(kumulatywnie):\n· łączna liczba zużytych Naboi: {0}\n· 8+ zużytych Naboi: Przyznaje 1 Ochrony za każde 10% brakującego HP na sobie na Początku Tury (maks 5)\n· 14+ zużytych Naboi: Po przegraniu Starcia, Niezłomne monety Bazowych Zdolności tej jednostki zadają +(75 + procent brakującego HP na sobie)% zadawanych obrażeń (maks 150%)\n· 20+ zużytych Naboi: +(różnica w procencie HP)% obrażeń zadawanych celom z wyższym procentem pozostałego HP niż ta jednostka (maks 50%; nie liczy Zdolności E.G.O)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseThorn",
+      "name": "Żarłoczny Cierń (貪食棘)",
+      "desc": "Maks Wartość: 9\n\nKoniec Tury: przyznaje Ilość Krwawienia równą Rezonansowi Rządzy, po czym zmniejsza ilość Żarłocznego Ciernia (貪食棘) o 1. (maks przyznanej Ilości Krwawienia: 5)\n\nKiedy ta jednostka ma na sobie ten efekt, jeśli zyska Siłę Krwawienia ponad 99, zwiększa Krwawą Ucztę o nadwyżkę Siły Krwawienia, po czym przyznaje Mniejszy Poziom Obrony równy zwiększeniu Krwawej Uczty na początku następnej tury (maks przyznanych Mniejszych Poziomów Obrony: 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FellBulletPersonality",
+      "name": "Przeklęty Pocisk",
+      "desc": "Maks Wartość: 1\n+3% zadawanych obrażeń przy Trafienu Krytycznym za każde Podarte Wspomnienie (maks 18%)\nPrzy Trafieniu, nakłada 1 Krwawienie (3 na turę)\nPrzy Zabiciu, przyznaje 3 Tchnienia i +2 Ilości Tchnienia (2 razy na turę)\nWygasa na Końcu Tury",
+      "summary": "Zadaje więcej obrażeń krytycznych, nakłada więcej Krwawienia",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoSuperCharge",
+      "name": "Bliskoświetlna Superbateria",
+      "desc": "- Maks Wartość: 100\n- Zużywając Ilość Naładowania, dodaje zużytą Ilość do Wartości tego efektu.\n- Limit Maks Ilości Naładowania +10\n- Przyznaje 1 Ilość Naładowania kiedy sojusznicy zyskują Siłę lub Ilość Naładowania\n- Kiedy ta jednostka zużywa swoimi Zdolnościami Ilość Naładowania, zużywa ponownie tą samą Ilość Naładowania (jeśli nie ma dość Ilości Naładowania, zużywa tyle, ile może)\n- +10% zadawanych obrażeń za każde 10 Wartości\n- Przeciwnicy zyskują +0.1 Odporności na ataki tej jednostki za każde 20 Wartości (maks +0.5 Odporności; nie aktywuje się przrciwko Zachwianym przeciwnikom)\n- Jeśli Tożsamość z tym efektem zginie, wzmocnienie przenosi się na sojusznika, który był drugi najwcześniejszy w kolejności Wyboru. Wartość również się przenosi.\n- Ten efekt działa też ze 'Specjalnym Naładowaniem'.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ShareCharge",
+      "name": "Samo Rezonujący Obwód",
+      "desc": "Łączna suma Ilości Naładowania obecnie posiadana przez sojuszników\n\nŁączna suma Ilości Naładowania zużytego przez sojuszników: {0}\n\nPrzy trafieniu Zdolnością: zadaje +(suma Ilości Naładowania na wszystkich sojusznikach / 3)% obrażeń\nWszyscy sojusznicy zyskują 1 Większy Poziom Ataku za każde 100 łącznej sumy Ilości Naładowania zużytej przez sojuszników",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WaveSinking",
+      "name": "Refluks",
+      "desc": "- Maks Wartość: 3\nKiedy ta jednostka zostanie trafiona, zyskuje Siłę Zrozpaczenia równą Wartości\n\nKoniec Tury: jeśli ta jednoska ma -30 lub mniej SP, aktywuje dane efekty (dla jednostek bez SP, aktywuje się przy 60+ Siłe Zrozpaczenia)\n- Zadaje (Siła Zrozpaczenia na sobie x Wartość) obrażeń od Zrozpaczenia\n- Nakłada 1 Refluks na 2 inne cele z najniższym SP (dla Anomalii, Części), po czym zadaje (Siła Zrozpaczenia x Wartość) obrażeń od Zrozpaczenia obu celom\nJeśli jednostka z Refluksem zginie, jej Wartość Refluksu przenosi się na jej sojusznika z najwyższą Wartością Refluksu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouDeathCount",
+      "name": "Życie Ze Śmierci [死中求活]",
+      "desc": "- Maks Wartość: 5\n- Początek Tury: aktywuje dane efekty\n· Przyznaje 1 Większy Poziom Ataku za każde 1 Wartości (maks 5)\n· Przyznaje 1 Większych Obrażeń za każde 2 Wartości (maks 2)\n· Przyznaje 1 Większej Mocy Ataku przy 3+ Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouCombo",
+      "name": "Najwyższy Rozkaz",
+      "desc": "- Jeśli jednostka A nałoży ten efekt na jednostkę B: Jednostka B ponawia atak Atakując Bezpośrednio swoją Bazową 3 Zdolnością przeciwko temu samemu celowi, który jednostka A zaatakowała swoją Zdolnością (Nie aktywuje wzmocnionych Zdolności). Aktywuje się zaraz po zakończeniu ataku jednostki A.\n- Zdolność użyta jako Asysta w Ataku nie wpływa na listę kolejnych Zdolności jednostki B. Nie aktywuje się, jeśli 3 Zdolność tego Sojusznika nie jest odblokowna.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouComboCount",
+      "name": "Bezlitosna Nawałnica",
+      "desc": "- Liczba ile razy ta jednostka wykonała kombo z Tożsamością Władca Hongyuan Hong Lu\n- Maks Wartość: 2\n- Początek Tury: przyznaje 1 Większy Poziom Ataku i 1 Większy Poziom Obrony za każdą Wartość",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouAttack",
+      "name": "Twa Wola Prowadzi Me Ostrze.",
+      "desc": "- Jeśli jednostka A nałoży ten efekt na jednostkę B: Jednostka B ponawia atak Atakując Bezpośrednio swoją 1 Zdolnością przeciwko temu samemu celowi, który jednostka A zaatakowała swoją Zdolnością. Aktywuje się zaraz po zakończeniu ataku jednostki A.\n- Zdolność użyta jako Asysta w Ataku nie wpływa na listę kolejnych Zdolności jednostki B.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouSupportProtect",
+      "name": "Ochrona Władcy",
+      "desc": "- Psecjalna Asysta Obronna\n- Maks Wartość: 1\n- Kiedy Władca Hongyuan Hong Lu ma być zaatakowany Bezpośrednim Atakiem przeciwnika, zużywa 1 Wartości by przejąć atak wroga na tą jednostkę, po czym kopiuje i używa zdolności Władcy Hongyuan Hong Lu 'Chrońcie Swego Władcę'\n- Jeśli w walce jest kilka jednostek z Asystą Obronną, sojusznik z największą jej Wartością aktywuje ją pierwsza\n- Ten efekt liczy się jako Asysta Obronna i jest wliczany w kalkulacje Wartości Asysty Obronnej\n- Wygasa na Końcu Tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouSynergy",
+      "name": "Trzymający Za Smycz Wszystkich Heishou",
+      "desc": "- Maks Wartość: 11\n- Przyznaje dane efekty zależnie od Wartości efektu:\n· Za każde 1 Wartości, przyznaje 1 Maks Prędkości (maks 5) i +1% obrażeń zadawanych Zdolnościami\n· Za każde 2 Wartości, przyznaje 1 Min Prędkości (maks 2) i 1 Większy Poziom Obrony (maks 5)\n· Za każde 3 Wartości, przyznaje 1 Większy Poziom Ataku (maks 3)\n· Mając 5+ Wartości, przyznaje 1 Większych Obrażeń i przyznaje 1 Większy Poziom Ataku wszystkim Tożsamnościom Stada Heishou",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouComboCountHonglu",
+      "name": "Skażenie Bolusem Heishou [黑獣丸染]",
+      "desc": "- Maks Wartość: 11\n- Wzmacnia Władcę Hongyuan Hong Lu zależnie od tego, z którym Heishou wykonał kombo\n- Efekty Skażenia Bolusem Heishou mogą się na siebie kanładać\n\n· Stado Heishou - Wyróżniona Mao Faust: -5% obrażeń otrzymywanych od Zdolności\n· Stado Heishou - Oddział Mao Ryōshū: jeśli ta jednostka jest szybsza od celu, +5% zadawanych obrażeń\n· Stado Heishou - Oddział Mao Outis: +1 Nakładanej Ilości Pęknięcia Przy Trafieniu Bezpośrednimi Atakami (raz na turę)\n· Stado Heishou - Oddział Si Rodion: Przy Trafieniu Krytycznym nakłada 1 Pęknięcie (3 razy na turę)\n· Stado Heishou - Oddział Si Gregor: Przyznaje +1 Ilości Tchnienia zadając obrażenia od Pęknięcia (raz na turę)\n· Stado Heishou Wyróżniony Wu Yi Sang: Przy trafieniu ostatnią Monetą Bazowej Zdolności, aktywuje Impuls Drżeń (raz na turę)\n· Stado Heishou Wyróżniony You Heathcliff: Przy Trafieniu Bazową Zdolnością tej jednostki: Zadaje 5% zadanych obrażeń od Obżarstwa jako obrażenia od Gniewu\n· Stado Heishou Oddział You Sinclair: Nakładając Siłę lub Ilość Pęknięcia, nakłada też 1 Podpalenie (3 razy na turę)\n· Stado Heishou Oddział Wei Don Kichote: - Nakładając Siłę lub Ilość Pęknięcia, czy używając Zdolności, nakłada też 1 Zrozpaczenie (3 razy na turę)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkHongluQiuAndHonglu",
+      "name": "One Who Walks The Way of the Hegemon",
+      "desc": "- Hong Lu's Skills przyznaje +1 Ostatecznej Mocy\n- On Clash Win, 1 ally(including this unit) with the least SP heals 5 SP\n- When an ally dies, na początku następnej tury, this unit gains 2 Większej Mocy Ataku i remaining allies przyznaje 1 Większej Mocy Ataku (raz na turę)",
+      "summary": ""
+    },
+    {
+      "id": "DarkHongluTeaching",
+      "name": "Uncompromising Imposition",
+      "desc": "Maks Wartość: 3\n- Koniec Tury: leczy 5 SP\n- When HP drops to 0 during the Encounter, leczy do maks HP (activates as many razy as this unit has Wartości)\n- When healed by this effect, przyznaje 1 Wzmocnienia na początku następnej tury\n- Activated: {0} razy",
+      "summary": ""
+    },
+    {
+      "id": "DarkHongluParryGahwan",
+      "name": "You're Ridiculous, Big Brother.",
+      "desc": "In Clashes against Jia Huan, Mocy Starcia +2",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_EGOResourceup",
+      "name": "No Matter How Many Must Krwawienie...",
+      "desc": "[Hong Lu Exclusive Effect]\n- For this Encounter: after using a Skill Attack, przyznaje 2 dodatkowe E.G.O resources of the Skill's Affinity (raz na turę)\n- When this unit takes damage, it gains 2 Slash DMG Up na początku następnej tury (raz na turę)",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Xi",
+      "name": "Happiness",
+      "desc": "- Hong Lu's +1 Mocy Starcia \n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\n- Nullfies the effect that turns this unit into a Precious Jade once. When clashing against Skills that turns this unit into a Precious Jade, Mocy Starcia +5; if this unit wins that Clash, this unit does not become a Precious Jade, recovers from Stagger, reduces Jia Mu's SP by 10 i inflicts 2 Kruchości against Jia Mu\nOn Clash Win against Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Le",
+      "name": "Happiness, Joy",
+      "desc": "- Hong Lu's Ostatecznej Mocy +1\n- On Clash Win, leczy 5 SP for 1 ally with the least SP (including this unit)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\nOn Clash Win against Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Ai",
+      "name": "Happiness, Joy, Sorrow",
+      "desc": "- Hong Lu's Ostatecznej Mocy +3\n- On Clash Win, leczy 5 SP for 1 ally with the least SP (including this unit)\n- When an ally is killed, the remaining allies na Końcu Tury przyznaje 1 Większej Mocy Ataku na początku następnej tury (raz na turę)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\nOn Clash Win against Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Nu",
+      "name": "Happiness, Joy, Sorrow, Wrath",
+      "desc": "- Hong Lu's Ostatecznej Mocy +5\n- Allies leczy 5 SP przy every Początek Tury (including this unit)\n- When an ally is killed, the remaining allies na Końcu Tury przyznaje 1 Większej Mocy Ataku na początku następnej tury (raz na turę)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\n- Increases damage dealt by 30% of the total HP percentage this unit has cumulatively lost during this Encounter (maks 100%)\nOn Clash Win against Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "summary": ""
+    },
+    {
+      "id": "ChickenStance",
+      "name": "Krwawy Płomień [血炎]",
+      "desc": "- Maks Wartość: 3\n- Ta jednostka Nakłada swoimi Bazowymi Zdolnościami +1 dodatkowej Siły  Podpalenia i Pęknięcia\n- Kiedy ta jednostka ma ten efekt, leczy się o 3 SP przy Zachwianiu lub Zabiciu przeciwnika (3 razy na turę)\n· Jeśli powyższy efekt aktywuje się kiedy ta jednostka ma maks SP, przyznaje 1 Większy Poziom Ataku i 1 Pośpiech na początku następnej tury\n- Traci 1 Wartości na Końcu Tury",
+      "summary": "+1 Nakładanych Podpalenia i Pęknięcia"
+    },
+    {
+      "id": "LegStrengthHorseYisang",
+      "name": "Bieg【Wu】",
+      "desc": "- Maks Wartość: 3\n- Koniec Tury: przyznaje 2 Pośpiechu i (Wartość x 2) Aggro na początku następnej tury\n- Przed Atakiem: nakłada na główny cel (Wartość) Siły Drżenia (maks 6 na turę)\n- Traci 1 Wartości na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "ConcussionYisang",
+      "name": "Wstrząs",
+      "desc": "- Maks Wartość: 2\n- Pomnaża wartość, o jaką Impuls Drżeń podnosi Próg Zachwiania i obrażenia zadane przez Pęknięcie tej jednostce o 1.2 (zaokrąglone w dół)\n- Traci 1 Wartości na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "BreakthroughHorse",
+      "name": "Przełamanie Szyków",
+      "desc": "- Maks Wartość: 5\n- Początek Tury: przyznaje (Wartość x 10) Tarczy \n- Mając maks Wartości, przyznaje 2 Ostatecznej Mocy\n- Kiedy ta jednostka zostanie trafiona: jeśli ta jednostka otrzymała 100+ obrażeń od jednej Zdolności, przyznaje 1 Ochrony po zakończeniu tej Zdolności (2 razy na turę; liczy obrażenia zadane Tarczy HP; nie liczy obrażeń zadanych przez Słowa Kluczowe)",
+      "summary": ""
+    },
+    {
+      "id": "BattlefieldHorse",
+      "name": "Okrzyk Bitewny",
+      "desc": "- Przyznaje 1 Mocy Starcia i 2 Poziom Obrony\n- Wygasa na Końcu Tury",
+      "summary": ""
+    },
+    {
+      "id": "VibrationBleeding",
+      "name": "Drżenie - Krwotok",
+      "desc": "- Przy aktywacji Impulsu Drżeń, zadaje Obrażenia od Rządzy równe (suma Siły Drżenia i Siły Krwawienia / 2) i zmniejsza Ilość Krwawienia o 1\n- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnieś Próg Zachwiania o {0}.\n- Koniec Tury: Ilość spada o 1\n(Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GazeRyoshu",
+      "name": "Spojrzenie",
+      "desc": "- Maks Wartość: 7\n- +10% otrzymywanych i zadawanych obrażeń od i przeciwko Ryōshū za każde 1 Wartości Spojrzenia\n- W chwili śmierci, przenosi się na sojusznika tej jednostki(w Skupioych Potyczkach, inną Część) która albo nie ma Spojrzenia ani Odrazy, albo ma jej najmniej (ten efekt nie aktywuje się, jeśli ta jednostka została zabita Zdolnością 'Ciężki Wzrok Trwogi Zakryty Przeszywającą Odrazą')\n- Koniec Tury: przy 7 Wartości, zamienia ten efekt w Odrazę na początku następnej tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ContemptRyoshu",
+      "name": "Odraza",
+      "desc": "- Maks Wartość: 1\n- -50% otrzymywanych i zadawanych obrażeń od i przeciwko Ryōshū\n- Na cele z Odrazą nie można nałożyć Spojrzenia\n- W chwili śmierci, przenosi się na sojusznika tej jednostki(w Skupioych Potyczkach, inną Część) która albo nie ma Spojrzenia ani Odrazy, albo ma jej najmniej (ten efekt nie aktywuje się, jeśli ta jednostka została zabita Zdolnością 'Ciężki Wzrok Trwogi Zakryty Przeszywającą Odrazą')\n- Koniec Tury: wygasa, po czym przyznaje tej jednostce 7 Spojrzenia na początku następnej tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CommonExit",
+      "name": "Ucieczka z Pola Walki",
+      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)",
+      "summary": ""
+    },
+    {
+      "id": "CuredFilm",
+      "name": "Bariera Utwardzonej Skorupy",
+      "desc": "- Początek Tury: przyznaje (Wartość / 3) Większego Poziomu Obrony (maks 3; zaokrąglone w dół)\n- Natychmiast zanim ta jednostka zostanie trafiona przez atak, zużywa połowę of Bariery Utwardzonej Skorupy i przyznaje Ochronę równą zużytej Wartości (raz na turę, zaokrąglone w górę)\n- Koniec Tury: Wartość spada o 3\n- Maks Wartość: 10",
+      "summary": "Przyznaje Większego Poziomu Obrony\nImmediately before taking damage from Skills, consume Wartości to przyznaje Ochrony"
+    },
+    {
+      "id": "Cianjing",
+      "name": "Grzmot",
+      "desc": "- Początek Tury: przyznaje 1 Większy Poziom Ataku i 1 Większy Poziom Obrony\n- Koniec Tury: Wartość spada o 1\n- Maks Wartość: 5",
+      "summary": "Przyznaje Większy Poziom Ataku & Większy Poziom Obrony"
+    },
+    {
+      "id": "SeniorCianjing",
+      "name": "Wielki Grzmot",
+      "desc": "- Początek Tury: przyznaje 2 Większe Poziomy Ataku i 2 Większe Poziomy Obrony\n- Koniec Tury: Wartość spada o 1\n- Maks Wartość: 5",
+      "summary": "Przyznaje Większy Poziom Ataku & Większy Poziom Obrony"
+    },
+    {
+      "id": "MlynarWaiting",
+      "name": "Z Mieczem W Pochwie",
+      "desc": "- Maks Wartość: 40\n- Za każde (Wartość / 8), przyznaje 1 Aggro (maks 5; zaokrąglone w dół; wpływa na Żeton najbardzoej po lewej na Tablicy)\n- Za każde (Wartość / 20), przyznaje 1 Ochrony (maks 2; zaokrąglone w dół)\n- Przyznaje 10 Wartości na Końcu Tury\n※ W jednej turze może przyznać do 20 Wartości"
+    },
+    {
+      "id": "ArrowShiFau",
+      "name": "Strzała - Shi",
+      "desc": "- Min Pojemność: 0\n- Maks Pojemność: 4\n- Strzały zużywane przez Zdolności",
+      "undefined": "-"
+    },
+    {
+      "id": "ArrowInTheEyeFau",
+      "name": "Wbita Strzała",
+      "desc": "- Maks Wartość: 4\n- Początek Tury: przyznaje Siłę Krwawienia równą Wartości\n- Zmniejsza Poziom Obrony o liczbę równą Wartości\n- Koniec Tury: przy 2+ Wartości, przyznaje 1 Kruchości na początku następnej tury (raz na turę)\n- Wygasa przy: Śmierci, Wycofaniu, usunięciu/wygaśnięciu efektu. Kiedy ten efekt Wygaśnie, przyznaje Strzałę - Shi dla Trzecia Wschodnia Sekcja Stowarzyszenia Shi Faust równą Wartości",
+      "undefined": "-"
+    },
+    {
+      "id": "AimForTheGoal",
+      "name": "Cel Na Oku",
+      "desc": "- Maks Wartość: 4\n- Wygasa jeśli ta jednostka nie ma \"Naciągniętej Cięciwy\"",
+      "undefined": "-"
+    },
+    {
+      "id": "SnipingArrowMode",
+      "name": "Naciągnięta Cięciwa",
+      "desc": "- Kiedy ta jednostka jest w tym stanie, aktywuje dane efekty:\n· Zamienia Bazową Zdolność tej jednostki po lewej stronie tablicy w \"Błysk Łuku\", po czym używa jej na Początku Walki\n· Ta jednostka nie może zostać zachwiana przez otrzymywanie obrażeń, Impuls Drżeń, czy podniesienie Progu Zachwiania\n· Nie używa <noparse>Asyst w Ataku</noparse>\n· Efekt usuwa się, jeśli przy Początku Walki została wybrana do użycia Zdolność E.G.O",
+      "undefined": "-"
+    },
+    {
+      "id": "AStrokeOfDeath",
+      "name": "Ścinacz Żyć",
+      "desc": "- +2 Poziomy Ataku\n- +1 Ostatecznej Mocy\n- Wygasa na Końcu Tury",
+      "undefined": "-"
+    },
+    {
+      "id": "WOverCharge",
+      "name": "Przeładowanie",
+      "desc": "- Maks Wartość : 1\n- Ta jednostka zostaje Unieruchomiona\n- Zmniejsza otrzymywane obrażenia o 10 + (Siła Naładowania na sobie x 5)% (maks 25%)\n- Początek Tury: Przyznaje Naładowaną Barierę równą Sile Naładowania na sobie (maks 5)\n- Koniec Tury: Przyznaje +10 Ilości Naładowania and 2 Większej Mocy Ataku na początku następnej tury i kończy ten efekt\n- Przyznaje Aggro nnajbardziej wysuniętemu na lewo Żetonowi Zdolności równe Sile Naładowania na sobie (maks 5)\n- Kiedy ta jednostka zostanie trafiona, przyznaje +1 Ilości Naładowania i 1 Rozładowania na początku następnej tury (maks 5 na turę)\n- Jeśli ta jednostka jest na Początku Tury w stanie Paniki, Korozji E.G.O lub Zachwiana, traci ten efekt",
+      "summary": "Unieruchomienie. Zmniejszenie otrzymanych obrażeń. Aggro i Naładowana Bariera. Ilości Naładowania na początku następnej tury. Rozładowanie i Ilość Naładowania kiedy ta jednostka zostanie trafiona",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmorMeursault",
+      "name": "Zbroja z Utwardzonej Krwi",
+      "desc": "- Maks Wartość: 5\n- Jeśli ta jednosttka nie jest przy maks HP: po użyciu Zdolności Atakującej, leczy się o 10% zadanych obrażeń HP (raz na turę; maks 40)\n- Po ataku: jeśli ta jednostka zadała obrażenia HP, Wartość spada o 1 (raz na turę)\n• Jeśli został aktywowany Rezon. Rządzy, zmniejsza leczenie HP o połowę, ale nie zużywa Wartości Zbroji z Utwardzonej Krwi",
+      "undefined": "-"
+    },
+    {
+      "id": "FocusOnActing",
+      "name": "Skupienie na Występie",
+      "desc": "- Maks Wartość: 3\n- Tylko dla Tożsamości z <La Manchaland>; liczy się dla Wzmocnionych Zdolności\n- Zdolności 1 i 2 zyskują +1 Ostatecznej Mocy i +5% zadawanych obrażeń za każdą Wartość (maks 15%)\n- Zdolność 3 zyskuje +2 Ostatecznej Mocy i +10% zadawanych obrażeń za każdą Wartość (maks 30%)\n- Po zaatakowaniu Zdolnością 3, lub na Początku Tury, jeśli ta jednoskta nie ma Zbroji z Utwardzonej Krwi, Wartość spada o 1",
+      "summary": "Przy Trafieniu, deal more damage",
+      "undefined": "-"
+    },
+    {
+      "id": "ParadeConcentration",
+      "name": "Parada La Mancha",
+      "desc": "- Maks Wartość: 4\n- +10% obrażeń otrzymywanych od Zdolności Rządzy\n• Jeśli atakujący jest Tożsamością z <La Manchaland> Identity, +20% otrzymywanych obrażeń, bez względu na Grzech Zdolności\n• Przy maks Wartości, -20% obrażeń zadawanych Tożsamościom z <La Manchaland>\n- Wartość spada o 1 albo kiedy ta jednostka zaatakuje Zdolnością, albo kiedy ona zostanie zaatakowana Zdolnością",
+      "summary": "<La Manchaland> Identities take less damage",
+      "undefined": "-"
+    },
+    {
+      "id": "EmergencyChargeForceField",
+      "name": "Awaryjna Bateria Barierowa",
+      "desc": "- Maks Wartość: 7\n- Kiedy ta jednostka zostanie Zachwiana, zużywa całą Wartość Awaryjnej Batery Barierowej i przyznaje Naładowaną Barierę równą zużytej Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmorCasting",
+      "name": "Gips z Utwardzonej Krwi",
+      "desc": "- Maks Wartość: 3\n- Ścierając się z przeciwnikiem posiadającym Krwawienie lub Specjalne Krwawienie, +1 Mocy Starcia \n- Kiedy ta jednostka kosztuje Krwawą Ucztę Zdolnością Atakującą, jeśli nie ma dość Krwawej Uczty, zużywa 1 HP za każde 1 brakującej Krwawej Uczty by dodać ją przed jej skosztowaniem (obrażenia od tego efektu nie mogą Zachwiać, ani sprowadzić HP poniżej 1)\n- Wartość spada o 1 na Końcu Tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaOne",
+      "name": "Ręka - Kolor Czerwonej Sosny",
+      "desc": "- +2 Bazowej Mocy Zdolności 1\n- Kiedy ta jednostka wybiera Bazową Zdolność Aktaku lub E.G.O od <color=#ff0000>Gniewu</color> na swoim najbardziej wysuniętym na lewo Żetonie i jej używa, aktywuje efekt \"formowania Ręki\" Zdolności Pasywnej \"Koi-Koi\"",
+      "summary": "Przyznaje Bazową Moc",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaTwo",
+      "name": "Ręka - Kolor Żółtej Trawy",
+      "desc": "- +1 Bazowej Mocy Zdolności 2\n- Kiedy ta jednostka wybiera Bazową Zdolność Aktaku lub E.G.O od <color=#fbc82b>Lenistwa</color> na swoim najbardziej wysuniętym na lewo Żetonie i jej używa, aktywuje efekt \"formowania Ręki\" Zdolności Pasywnej \"Koi-Koi\"",
+      "summary": "Przyznaje Bazową Moc",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaThree",
+      "name": "Ręka - Kolor Błękitnej Wiśni",
+      "desc": "- +1 Bazowej Mocy Zdolności 3\n- Kiedy ta jednostka wybiera Bazową Zdolność Aktaku lub E.G.O od <color=#15c3ee>Przygnębienia</color> na swoim najbardziej wysuniętym na lewo Żetonie i jej używa, aktywuje efekt \"formowania Ręki\" Zdolności Pasywnej \"Koi-Koi\"",
+      "summary": "Przyznaje Bazową Moc",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaCombo",
+      "name": "Blask【光】",
+      "desc": "- Siła : Bazowa 0, Maks 5\n- Ilość : Bazowa 3, Maks 3\n\n- Początek Tury: przyznaje 1 Większy Poziom Ataku za każdą Siłę\n- Początek Tury: Wartość spada o 1",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "HurtNightStiletto",
+      "name": "Otwarta Rana",
+      "desc": "- Maks Wartość: 2\n- Koniec Tury: Przyznaje 1 Spętanie na początku następnej tury\n- Koniec Tury: Przy 2 Wartości, zamienia ten efekt w Głęboką Ranę na początku następnej tury",
+      "summary": "Przyznaje Spętanie na początku następnej tury",
+      "undefined": "-"
+    },
+    {
+      "id": "CriHurtNightStiletto",
+      "name": "Głęboka Rana",
+      "desc": "- Bazowa Wartość: 3\n- Przy Impulsie Drżeń, przyznaje +1 Ilości Krwawienia (2 razy na turę)\n- Ta jednostka nie może zyskać Otwartej Rany (w Skupionych Potyczkach, ta Część)\n- Koniec Tury: Przyznaje (Wartość - 1) Spętania na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
+      "summary": "Przyznaje Ilość Krwawienia\nPrzyznaje Spętanie na początku następnej tury",
+      "undefined": "-"
+    },
+    {
+      "id": "HorrHurtNightStiletto",
+      "name": "Śmiertelna Rana",
+      "desc": "- Bazowa Wartość: 3\n- Przy Impulsie Drżeń, przyznaje +3 Ilości Krwawienia (2 razy na turę)\n- Ta jednostka nie może zyskać Otwartej Rany (w Skupionych Potyczkach, ta Część)\n- Koniec Tury: Przyznaje Spętanie równe Wartości na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
+      "summary": "Przyznaje Ilość Krwawienia\nPrzyznaje Spętanie na początku następnej tury",
+      "undefined": "-"
+    },
+    {
+      "id": "GrownHorns",
+      "name": "Wyrastające Rogi [發角]",
+      "desc": "- Maks Wartość: 3\n- Bazowe Zdolności tej jednostki zadają +1 Siły Pęknięcia i Zrozpaczeniaency\n- Koniec Tury: Wartość spada o 1",
+      "summary": "+1 Nakładanych Zrozpaczenia i Pęknięcia",
+      "undefined": "-"
+    },
+    {
+      "id": "CrushMarks",
+      "name": "Zdruzgotanie",
+      "desc": "- +10% obrażeń otrzymywanych od Zdolności Obżarstwa i Przygnębienia\n- Jednostki posiadające SP: zmienia typ paniki na \"Zdruzgotanie\"\n- Jednostki nie posiadające SP: -1 Mocy Starcia\n- Koniec Tury: Wartość spada o 1\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n- Nakłada efekt \"\"Jednostek bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki\n\n※ Efekty Paniki Zdruzgotanie\n- Niskie Morale: -1 Mocy Starcia, -2 Poziomy Obrony na sobie\n- Panika: -2 Mocy Starcia, -3 Poziomy Obrony na sobie",
+      "summary": "+10% obrażeń otrzymywanych od Zdolności Obżarstwa i Przygnębienia\n- Jednostki posiadające SP: zmienia typ paniki na \"Zdruzgotanie\"\n- Jednostki nie posiadające SP: -1 Mocy Starcia",
+      "undefined": "-"
+    },
+    {
+      "id": "CrushMarks_Main",
+      "name": "Zdruzgotanie",
+      "desc": "+10% obrażeń otrzymywanych od Zdolności Obżarstwa i Przygnębienia\n- Jednostki posiadające SP: zmienia typ paniki na \"Zdruzgotanie\"\n- Koniec Tury: Wartość spada o 1",
+      "summary": "+10% obrażeń otrzymywanych od Zdolności Obżarstwa i Przygnębienia\n- Zmienia typ paniki na \"Zdruzgotanie\"",
+      "undefined": "-"
+    },
+    {
+      "id": "CrushMarks_Sub",
+      "name": "Zdruzgotanie",
+      "desc": "- +10% obrażeń otrzymywanych od Zdolności Obżarstwa i Przygnębienia\n- Jednostki nie posiadające SP: -1 Mocy Starcia\n- Koniec Tury: Wartość spada o 1",
+      "summary": "+10% obrażeń otrzymywanych od Zdolności Obżarstwa i Przygnębienia\n- -1 Mocy Starcia",
+      "undefined": "-"
+    },
+    {
+      "id": "CrushMarks_LowMorale",
+      "name": "Zdruzgotanie",
+      "desc": "- Niskie Morale\n- -1 Mocy Starcia, -2 Poziomy Obrony",
+      "summary": "-1 Mocy Starcia, -2 Poziomy Obrony",
+      "undefined": "-"
+    },
+    {
+      "id": "CrushMarks_Panic",
+      "name": "Zdruzgotanie",
+      "desc": "- Panika\n- -2 Mocy Starcia, -3 Poziomy Obrony",
+      "summary": "-2 Mocy Starcia, -3 Poziomy Obrony",
+      "undefined": "-"
+    },
+    {
+      "id": "ChickenFightlust",
+      "name": "Instynkt Krwi Bitewnej",
+      "desc": "- Maks Wartość: 20\n- Za każdą wartość, +0.75% zadawanych obrażeń\n- Za każde 10 Wartości, przyznaje 1 Pośpiechu na początku następnej tury.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ProtectStanceRyoshu",
+      "name": "Protector's Stance",
+      "desc": "- Max Stack: 2\n- Take (Stack x 10)% less damage\n- Turn Start: Gain Shield by Poise on self (max 20)\n- Turn End: Gain 3 Poise Potency and +1 Poise Count; this unit's leftmost Skill Slot gains +5 Aggro next turn\n- Turn End: Lose 1 Stack",
+      "summary": "Take less damage",
+      "undefined": "-"
+    },
+    {
+      "id": "TheUdjatOutis",
+      "name": "The Udjat [Vanguard]",
+      "desc": "- Max Stack: 2\n- Min & Max Speed +3\n- Combat Start: gain 1 Protection\n- Gain the following effects during the Combat Phase (once per Skill, 3 times per turn)\n· When this unit is the main target of an Unopposed Attack Skill, halve the chance for the Skill's first Coin to flip Heads\n· Clash Start: In the first Clash, halve the target's chance to flip Heads for all of its Coins\n· For both of the above effects, if the target uses Minus Coins, halve their chance to flip Tails instead\n- Turn End: Reduce 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlueSand",
+      "name": "Blue Sand",
+      "desc": "- On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units with SP: change their Panic Type to \"Blue Sand\"\n- Units without SP: Min & Max Speed -1\n- Turn End: Reduce 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types\n\n※ Blue Sand Panic Effects\n- Low Morale: Clash Power -1, Min & Max Speed -1\n- Panic: Clash Power -2, Min & Max Speed -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlueSand_Main",
+      "name": "Blue Sand",
+      "desc": "- On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units with SP: change their Panic Type to \"Blue Sand\"\n- Turn End: Reduce 1 Stack",
+      "summary": "On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units with SP: change their Panic Type to \"Blue Sand\"",
+      "undefined": "-"
+    },
+    {
+      "id": "BlueSand_Sub",
+      "name": "Blue Sand",
+      "desc": "- On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units without SP: Min & Max Speed -1\n- Turn End: Reduce 1 Stack",
+      "summary": "On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units without SP: Min & Max Speed -1",
+      "undefined": "-"
+    },
+    {
+      "id": "BlueSand_LowMorale",
+      "name": "Blue Sand",
+      "desc": "- Low Morale\n- Clash Power -1\n- Min & Max Speed -1",
+      "summary": "Clash Power -1 on self",
+      "undefined": "-"
+    },
+    {
+      "id": "BlueSand_Panic",
+      "name": "Blue Sand",
+      "desc": "- Panic\n- Clash Power -2\n- Min & Max Speed -1",
+      "summary": "Clash Power -2 on self",
+      "undefined": "-"
+    },
+    {
+      "id": "SheutFracture",
+      "name": "Sheut Fracture",
+      "desc": "- Max Stack: 10\n- Unique Sinking\n- For every Stack, take +1% more damage from Sloth and Gloom Skills\n- At max Stack, gain 1 Gloom Fragility (once per turn), take Gloom damage equal to Sinking Potency on self(lose 1 Sinking Count), then expires\n- If the unit with this effect dies, transfer half of its Stack to its ally with the highest SP (rounded down)\n- Turn Start: If there are no LCA Identities on the field, expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LCA_Bullet",
+      "name": "LCA Fracture Round",
+      "desc": "- Max Capacity: 16\n- Unique Ammo\n- Spent by certain Skills\n- Some attacks cancel if lacking Ammo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NiddleEGO",
+      "name": "Needle",
+      "desc": "- Unique Bleed\n- When taking Envy damage, gain +1 Bleed Count and reduce this effect's Stack by 1\n- Turn End: Gain 1 Bleed and reduce this effect's Stack by 1",
+      "summary": "Gain Bleed Count",
+      "undefined": "-"
+    },
+    {
+      "id": "IDMicroChip",
+      "name": "Resident Reg. Microchip",
+      "desc": "- Max Stack: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ExtractCoin",
+      "name": "Excision Coin",
+      "desc": "- This Coin can destroy Unbreakable Coins in a Clash.\n- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
+      "summary": ""
+    }
+  ]
+}

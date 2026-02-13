@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "Ally",
+      "content": "Przyjazne Jednostki"
+    },
+    {
+      "id": "RandomAlly",
+      "content": "Losowe Przyjazne Jednostki"
+    },
+    {
+      "id": "EveryAlly",
+      "content": "Wszystkie Przyjazne Jednostki"
+    },
+    {
+      "id": "EveryEnemy",
+      "content": "Wszyscy Przeciwnicy"
+    },
+    {
+      "id": "ChosenPersonality",
+      "content": "Wybrana Osobowość"
+    },
+    {
+      "id": "HighestHpAlly",
+      "content": "Przyjazne Jednostki z najwyższym HP"
+    },
+    {
+      "id": "LowestHpAlly",
+      "content": "Przyjazne Jednostki z najniższym HP"
+    },
+    {
+      "id": "HighestMpAlly",
+      "content": "Przyjazne Jednostki z najwyższym SP"
+    },
+    {
+      "id": "LowestMpAlly",
+      "content": "Przyjazne Jednostki z najniższym SP"
+    },
+    {
+      "id": "NotFullHpAlly",
+      "content": "Przyjazne Jednostki z niepełnym HP"
+    },
+    {
+      "id": "NotAffectedAlly",
+      "content": "Przyjazne Jednostki nietknięte przez poprzedni efekt"
+    },
+    {
+      "id": "LowestHpRatioAlly",
+      "content": "Przyjazne Jednostki z najniższym %HP"
+    },
+    {
+      "id": "Every",
+      "content": "Wszyscy"
+    }
+  ]
+}

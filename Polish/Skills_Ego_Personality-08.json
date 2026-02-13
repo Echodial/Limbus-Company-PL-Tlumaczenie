@@ -1,0 +1,1090 @@
+{
+  "dataList": [
+    {
+      "id": 2080511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ślepa Pogoń",
+          "abName": "Pożerający Sny Nurt Głębinowy",
+          "desc": "[EndSkill] Ulecz 4 sojuszników z najniższym SP o 15 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przyznaj 1 losowemu sojusznikowi +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ślepa Pogoń",
+          "abName": "Pożerający Sny Nurt Głębinowy",
+          "desc": "[EndSkill] Ulecz 4 sojuszników z najniższym SP o 20 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Zyskaj +4 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przyznaj 1 losowemu sojusznikowi +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillHead] Przyznaj 1 <sprite name=\"PenetrateResultUp\"><color=#ffc700><u><link=\"PenetrateResultUp\">Większą Moc Dźgania</link></u></color> i 1 <sprite name=\"AttackDmgUp\"><color=#ffc700><u><link=\"AttackDmgUp\">Większych Obrażeń</link></u></color> 4 sojusznikom z najwyższym SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ślepa Pogoń",
+          "abName": "Pożerający Sny Nurt Głębinowy",
+          "desc": "[EndSkill] Ulecz 4 sojuszników z najniższym SP o 25 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przyznaj 1 losowemu sojusznikowi +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Przyznaj 2 <sprite name=\"PenetrateResultUp\"><color=#ffc700><u><link=\"PenetrateResultUp\">Większej Mocy Dźgania</link></u></color> i 2 <sprite name=\"AttackDmgUp\"><color=#ffc700><u><link=\"AttackDmgUp\">Większych Obrażeń</link></u></color> 4 sojusznikom z najwyższym SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ślepa Pogoń",
+          "abName": "Pożerający Sny Nurt Głębinowy",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> i +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Kruchości przed Pychą</link></u></color> w tą i następną turę<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ślepa Pogoń",
+          "abName": "Pożerający Sny Nurt Głębinowy",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Ulecz 3% Maks HP na sobie<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> i +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Kruchości przed Pychą</link></u></color> w tą i następną turę<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillTail] Przyznaj 4 sojusznikom z najmniejszym SP 2 <sprite name=\"AttackDmgUp\"><color=#ffc700><u><link=\"AttackDmgUp\">Większych Obrażeń</link></u></color> w tą i następną turę<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ślepa Pogoń",
+          "abName": "Pożerający Sny Nurt Głębinowy",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz 3% Maks HP na sobie<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> i +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Kruchości przed Pychą</link></u></color> w tą i następną turę<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Przyznaj 4 sojusznikom z najmniejszym SP 2 <sprite name=\"AttackDmgUp\"><color=#ffc700><u><link=\"AttackDmgUp\">Większych Obrażeń</link></u></color> w tą i następną turę<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trzepot Skrzydeł",
+          "abName": "Wróżkowy Festiwal",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz 15% Maks HP na sobie<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Strać 1~2 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Użyj tą Monetę ponownie (5 razy na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz siebie o 4~8% zadanych obrażeń<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ShamrockTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1~3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Trzepot Skrzydeł",
+          "abName": "Wróżkowy Festiwal",
+          "desc": "Jeśli leczenie tej Zdolności przekracza maks HP tej jednostki, przenosi nadwyżkę leczenia na 1 sojusznika z najmniejszym procentem HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz <style=\"highlight\">18%</style> Maks HP na sobie"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Strać 1~2 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Użyj tą Monetę ponownie (5 razy na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz siebie o <style=\"highlight\">6~10</style>% zadanych obrażeń"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ShamrockTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1~3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trzepot Skrzydeł",
+          "abName": "Wróżkowy Festiwal",
+          "desc": "Jeśli leczenie tej Zdolności przekracza maks HP tej jednostki, przenosi nadwyżkę leczenia na 1 sojusznika z najmniejszym procentem HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz <style=\"highlight\">20</style>% Maks HP na sobie"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Strać 1~2 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Użyj tą Monetę ponownie (5 razy na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz siebie o <style=\"highlight\">8~12</style>% zadanych obrażeń"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ShamrockTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1~<style=\"highlight\">4</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trzepot Skrzydeł",
+          "abName": "Wróżkowy Festiwal",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP Rdzenia\n[BeforeAttack] Zadaj obrażenia równe 5% HP najwyżej 5 losowym sojusznikom\n- Ulecz HP na sobie równe obrażeniom zadanym sojusznikom.\n- Jeśli ta jednostka zadała obrażenia sojusznikowi, zyskuje 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> w tej turze, i 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury.\n(Raz na Turę. Do 'zadanych obrażeń' wliczają się też obrażenia zadane HP Tarczy. Ten efekt może zabić sojuszników.)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Ulecz siebie o 10% zadanych obrażeń<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż 1~4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Trzepot Skrzydeł",
+          "abName": "Wróżkowy Festiwal",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP Rdzenia\n<style=\"highlight\">[BeforeAttack] Zyskaj (Najwyższy Rezon. -2) Wagi ataku (maks 1)</style>\n[BeforeAttack] Zadaj obrażenia równe 5% HP najwyżej 5 losowym sojusznikom\n- Ulecz HP na sobie równe obrażeniom zadanym sojusznikom.\n- Jeśli ta jednostka zadała obrażenia sojusznikowi, zyskuje 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> w tej turze, i 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury.\n(Raz na Turę. Do 'zadanych obrażeń' wliczają się też obrażenia zadane HP Tarczy. Ten efekt może zabić sojuszników.)\n<style=\"highlight\">[EndSkill] Jeśli leczenie tej Zdolności przekracza maks HP tej jednostki, zyskaj (nadwyżka leczenia/maks HP) x 10 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Większych Poziomów Ataku</link></u></color> na początku następnej tury. (maks 3 na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Ulecz siebie o <style=\"highlight\">15</style>% zadanych obrażeń"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż <style=\"highlight\">2~5</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trzepot Skrzydeł",
+          "abName": "Wróżkowy Festiwal",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP Rdzenia\n[BeforeAttack] Zyskaj (Najwyższy Rezon. -2) Wagi ataku (maks <style=\"highlight\">2</style>)\n[BeforeAttack] Zadaj obrażenia równe 5% HP najwyżej 5 losowym sojusznikom\n- Ulecz HP na sobie równe obrażeniom zadanym sojusznikom.\n- Jeśli ta jednostka zadała obrażenia sojusznikowi, zyskuje 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> w tej turze, i 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury.\n(Raz na Turę. Do 'zadanych obrażeń' wliczają się też obrażenia zadane HP Tarczy. Ten efekt może zabić sojuszników.)\n[EndSkill] Jeśli leczenie tej Zdolności przekracza maks HP tej jednostki, zyskaj (nadwyżka leczenia/maks HP) x 10 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Większych Poziomów Ataku</link></u></color> na początku następnej tury. (maks <style=\"highlight\">6</style> na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Ulecz siebie o <style=\"highlight\">20</style>% zadanych obrażeń"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż <style=\"highlight\">3~6</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Moc Ataku</link></u></color> na początku następnej tury (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi ataku\n[EndSkill] Ulecz 2 sojuszników z najniższym procentrm HP o (5 + (suma Sumy i Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu)/3)% HP (maks 15%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwę</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Uznaj cele za <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Nieproszonych Gości</link></u></color> (Nałóż 2 Wartości)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi ataku\n<style=\"highlight\">- Jeśli ten Rezonans był Rezonansem Przygnębienia, zyskaj dodatkowe +1 Wagi ataku</style>\n[EndSkill] Ulecz 2 sojuszników z najniższym procentrm HP o (<style=\"highlight\">10</style> + (suma Sumy i Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu)/3)% HP (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwę</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy 4+ Rezonansie Przygnębienia, nałóż 1 [AzureTakeDamageUp]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Uznaj cele za <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Nieproszonych Gości</link></u></color> (Nałóż 2 Wartości)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi ataku\n- Jeśli ten Rezonans był Rezonansem Przygnębienia, zyskaj dodatkowe +1 Wagi ataku\n[EndSkill] Ulecz 2 sojuszników z najniższym procentrm HP o (10 + (suma Sumy i Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu)/3)% HP (maks <style=\"highlight\">20</style>%)\n<style=\"highlight\">- Jeśli najwyższy Rezon. był 4+ Rezonansem Przygnębienia, ulecz o 10% więcej maks HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Przygnębienia, nałóż 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Uznaj cele za <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Nieproszonych Gości</link></u></color> (Nałóż 2 Wartości)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nBierze na cel jednostki mające najwięcej <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>\n[BeforeAttack] Strać HP równe 10% Maks HP (ten efekt nie może Zachwiać)\n[EndSkill] Ulecz 3 innych sojuszników z najniższym procentrm HP o (5 + (suma Sumy i Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu)/3)% HP (maks 10%)\n- Przy 4+ najwyższego Rezonansu, ulecz 1 dodatkowego sojusznika<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwę</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 3+ Rezonansie Przygnębienia, nałóż 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Uznaj cele za <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Nieproszonych Gości</link></u></color> (Nałóż 2 Wartości)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nBierze na cel jednostki mające najwięcej <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>\n[BeforeAttack] Strać HP równe 10% Maks HP (ten efekt nie może Zachwiać)\n[EndSkill] Ulecz 3 innych sojuszników z najniższym procentrm HP o (<style=\"highlight\">10</style> + (suma Sumy i Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu)/3)% HP (maks <style=\"highlight\">15</style>%)\n- Przy 4+ najwyższego Rezonansu, ulecz 1 dodatkowego sojusznika",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 3+ Rezonansie Przygnębienia, nałóż 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Uznaj cele za <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Nieproszonych Gości</link></u></color> (Nałóż 2 Wartości)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [EchoOfMansion] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nBierze na cel jednostki mające najwięcej <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>\n[BeforeAttack] Strać HP równe 10% Maks HP (ten efekt nie może Zachwiać)\n[EndSkill] Ulecz 3 innych sojuszników z najniższym procentrm HP o (10 + (suma Sumy i Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu)/3)% HP (maks 15%)\n- Przy 4+ najwyższego Rezonansu, ulecz 1 dodatkowego sojusznika\n<style=\"highlight\">- Jeśli ten Rezonans był Rezonansem Przygnębienia, ulecz an additional 5% HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">For every 3</style> Rezonansie Przygnębienia, nałóż 1 [AzureTakeDamageUp] <style=\"highlight\">(maks 2)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Uznaj cele za <sprite name=\"UninvitedGuestPersonality\"><color=#e30000><u><link=\"UninvitedGuestPersonality\">Nieproszonych Gości</link></u></color> (Nałóż 2 Wartości)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [EchoOfMansion] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezon. + 5) Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (maks 10)\n[EndSkill] Jeśli któryś z celów jest Zachwiany lub w stanie Niskiego Morale czy Paniki, ulecz 10 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "<style=\"highlight\">Jeśli cel ma mniej niż 0 SP, +1% zadanych obrażeń za każdą wartość SP poniżej 0 (maks 45%)</style>\n[BeforeAttack] Zyskaj (najwyższy Rezon. + 5) Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (maks 10)\n[EndSkill] Jeśli któryś z celów jest Zachwiany lub w stanie Niskiego Morale czy Paniki, ulecz 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "Jeśli cel ma mniej niż 0 SP, +1% zadanych obrażeń za każdą wartość SP poniżej 0 (maks 45%)\n[BeforeAttack] Zyskaj (najwyższy Rezon. + 5) Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (maks 10)\n[EndSkill] Jeśli któryś z celów jest Zachwiany lub w stanie Niskiego Morale czy Paniki, ulecz 10 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, <style=\"highlight\">dwukrotnie</style> aktywuj [VibrationExplosion] , po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezon. + 5) Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (maks 10)\n[BeforeAttack] Ulecz 10 HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n<style=\"highlight\">Jeśli główny cel jest Zachwiany lub w stanie Niskiego Morale czy Paniki, +1 Bazowej Mocy</style>\n[BeforeAttack] Zyskaj (najwyższy Rezon. + 5) Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (maks 10)\n[BeforeAttack] Ulecz 10 HP\n<style=\"highlight\">[EndSkill] Ulecz 5 SP za każdego przeciwnika, który jest Zachwiany lub w stanie Niskiego Morale czy Paniki</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> i +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nJeśli główny cel jest Zachwiany lub w stanie Niskiego Morale czy Paniki, +<style=\"highlight\">2</style> Bazowej Mocy\n[BeforeAttack] Zyskaj (najwyższy Rezon. + 5) Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (maks 10)\n[BeforeAttack] Ulecz 10 HP\n[EndSkill] Ulecz 5 SP za każdego przeciwnika, który jest Zachwiany lub w stanie Niskiego Morale czy Paniki<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> i +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie jest Zachwiany lub w stanie Niskiego Morale czy Paniki, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
+          "abName": "Stonoga Apostoł",
+          "desc": "[EndSkill] Nałóż [CentipedePoison] równy sumie typów negatywnych efektów na sobie i na głównym celu (maks 5)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Obżarstwa lub Przygnębienia, nałóż [CentipedePoison] równy Rezonansowi (maks 4)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
+          "abName": "Stonoga Apostoł",
+          "desc": "[EndSkill] Nałóż [CentipedePoison] równy sumie typów negatywnych efektów na sobie i na głównym celu (maks <style=\"highlight\">8</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Obżarstwa lub Przygnębienia, nałóż [CentipedePoison] równy Rezonansowi (maks 4)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
+          "abName": "Stonoga Apostoł",
+          "desc": "[EndSkill] Nałóż [CentipedePoison] równy sumie typów negatywnych efektów na sobie i na głównym celu (maks <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Obżarstwa lub Przygnębienia, nałóż [CentipedePoison] równy Rezonansowi (maks <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
+          "abName": "Stonoga Apostoł",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Nałóż [CentipedePoison] równy sumie typów negatywnych efektów na sobie i na głównym celu (maks 8)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Obżarstwa lub Przygnębienia, nałóż [CentipedePoison] równy Rezonansowi (maks 4)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
+          "abName": "Stonoga Apostoł",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Nałóż [CentipedePoison] równy sumie typów negatywnych efektów na sobie i na głównym celu (maks <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Obżarstwa lub Przygnębienia, nałóż [CentipedePoison] równy Rezonansowi (maks 4)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
+          "abName": "Stonoga Apostoł",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Nałóż [CentipedePoison] równy sumie typów negatywnych efektów na sobie i na głównym celu (maks 10<style=\"highlight\"></style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 4+ Rezonansie Obżarstwa lub Przygnębienia, nałóż [CentipedePoison] równy Rezonansowi (maks <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2081011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elegia Fal",
+          "abName": "Skadi",
+          "desc": "Atakując tylko jeden cel (w Skupionych Potyczkach, Rdzeń i należące do niego części liczą się jako jeden cel), +2 Mocy Monet i +100% zadanych obrażeń\n[WhenUse] Jeśli główny cel ma 4+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>, +1 Mocy Starcia\n[BeforeAttack] Jeśli Odporność na Przygnębienie głównego celu wynosi więcej niż 1, +2% zadanych obrażeń za każde 0.1 wyższej odporności. (maks 10%)\n[BeforeAttack] Przy 2+ Rezonansie Przygnębienia, +5% zadanych obrażeń za każdą wartość Rezonansu Przygnębienia (maks 20%)\n[EndSkill] Jeśli ta Zdolnośc zabiła chociaż jeden cel, zadaj 2 losowym przeciwnikom (Siła <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na każdym celu / 2) obrażeń od Przygnębienia (maks 15; w pierwszej kolejności bierze za cel przeciwników z największą Siłą <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli któryś z celów został Zachwiany, Zabity, lub jego Część została zniszczona, nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na losowego przeciwnika nie będącego celem tej Zdolności (raz na turę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Atakując tylko jeden cel, zamiast tego nałóż je na 3 cele<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Elegia Fal",
+          "abName": "Skadi",
+          "desc": "Atakując tylko jeden cel (w Skupionych Potyczkach, Rdzeń i należące do niego części liczą się jako jeden cel), +2 Mocy Monet i +100% zadanych obrażeń\n[WhenUse] Jeśli główny cel ma 4+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>, +1 Mocy Starcia\n[BeforeAttack] Jeśli Odporność na Przygnębienie głównego celu wynosi więcej niż 1, +<style=\"highlight\">3</style>% zadanych obrażeń za każde 0.1 wyższej odporności. (maks <style=\"highlight\">15</style>%)\n[BeforeAttack] Przy 2+ Rezonansie Przygnębienia, +<style=\"highlight\">8</style>% zadanych obrażeń za każdą wartość Rezonansu Przygnębienia (maks <style=\"highlight\">32</style>%)\n[EndSkill] Jeśli ta Zdolnośc zabiła chociaż jeden cel, zadaj 2 losowym przeciwnikom (Siła <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na każdym celu / 2) obrażeń od Przygnębienia (maks 15; w pierwszej kolejności bierze za cel przeciwników z największą Siłą <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli któryś z celów został Zachwiany, Zabity, lub jego Część została zniszczona, nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na losowego przeciwnika nie będącego celem tej Zdolności (raz na turę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Atakując tylko jeden cel, zamiast tego nałóż je na 3 cele<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Elegia Fal",
+          "abName": "Skadi",
+          "desc": "Atakując tylko jeden cel (w Skupionych Potyczkach, Rdzeń i należące do niego części liczą się jako jeden cel), +2 Mocy Monet i +100% zadanych obrażeń\n[WhenUse] <style=\"highlight\">+1 Mocy Starcia za każde 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu (maks 2)</style>\n[BeforeAttack] Jeśli Odporność na Przygnębienie głównego celu wynosi więcej niż 1, +<style=\"highlight\">5</style>% zadanych obrażeń za każde 0.1 wyższej odporności. (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Przy 2+ Rezonansie Przygnębienia, +<style=\"highlight\">10</style>% zadanych obrażeń za każdą wartość Rezonansu Przygnębienia (maks <style=\"highlight\">40</style>%)\n[EndSkill] Jeśli ta Zdolnośc zabiła chociaż jeden cel, zadaj 2 losowym przeciwnikom (Siła <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na każdym celu / 2) obrażeń od Przygnębienia (maks 15; w pierwszej kolejności bierze za cel przeciwników z największą Siłą <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli któryś z celów został Zachwiany, Zabity, lub jego Część została zniszczona, nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na losowego przeciwnika nie będącego celem tej Zdolności (raz na turę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Atakując tylko jeden cel, zamiast tego nałóż je na 3 cele<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość \n<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2081021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elegia Fal",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[WhenUse] Jeśli główny cel ma 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>, +1 Mocy Starcia\n[BeforeAttack] Zyskaj następujące efekty za każde 3 najwyższego Rezonansu.\n- Zyskaj +1 Wagi ataku (maks 2)\n- +15% zadanych obrażeń (maks 30%)\n[EndSkill] Przyznaj (najwyższy Rezon.) losowym sojusznikom 1 [HitDamageUp] na początku następnej tury (może działać na tą jednostkę; maks 4 sojuszników; raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Elegia Fal",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[WhenUse] <style=\"highlight\">+1 Mocy Starcia za każde 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu (maks 2)</style>\n[BeforeAttack] Zyskaj następujące efekty za każde 3 najwyższego Rezonansu.\n- Zyskaj +1 Wagi ataku (maks 2)\n- +15% zadanych obrażeń (maks 30%)\n[EndSkill] Przyznaj (najwyższy Rezon.) losowym sojusznikom 1 [HitDamageUp] na początku następnej tury (może działać na tą jednostkę; maks 4 sojuszników; raz na turę)\n<style=\"highlight\">- Jeśli ten Rezonans był Rezonansem Przygnębienia lub A-Rezonansem, przyznaj im też 1 [AzureDamageUp]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli któryś z celów został Zachwiany, Zabity, lub jego Część została zniszczona, nałóż 1 [AzureTakeDamageUp] na początku następnej tury na losowego przeciwnika nie będącego celem tej Zdolności (raz na turę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Elegia Fal",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[WhenUse] +1 Mocy Starcia za każde 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na głównym celu (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Zyskaj następujące efekty za każde 3 najwyższego Rezonansu. <style=\"highlight\">(jeśli to był Rezonans Przygnębienia, za każde 2 najwyższego Rezonansu)</style>\n- Zyskaj +1 Wagi ataku (maks 2)\n- +15% zadanych obrażeń (maks 30%)\n[EndSkill] Przyznaj (najwyższy Rezon.) losowym sojusznikom 1 [HitDamageUp] na początku następnej tury (może działać na tą jednostkę; maks 4 sojuszników; raz na turę)\n- Jeśli ten Rezonans był Rezonansem Przygnębienia lub A-Rezonansem, przyznaj im też 1 [AzureDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli któryś z celów został Zachwiany, Zabity, lub jego Część została zniszczona, nałóż 1 [AzureTakeDamageUp] na początku następnej tury na losowego przeciwnika nie będącego celem tej Zdolności (raz na turę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

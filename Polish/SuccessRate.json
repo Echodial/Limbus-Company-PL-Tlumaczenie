@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "very-high",
+      "content": "Dominacja"
+    },
+    {
+      "id": "high",
+      "content": "Przewaga"
+    },
+    {
+      "id": "normal",
+      "content": "Wyrównane Starcie"
+    },
+    {
+      "id": "low",
+      "content": "Słaby Pomysł"
+    },
+    {
+      "id": "very-low",
+      "content": "Misja Samobójcza"
+    },
+    {
+      "id": "impossible",
+      "content": "Niemożliwość"
+    },
+    {
+      "id": "event-very-high",
+      "content": "Bardzo Wysoka"
+    },
+    {
+      "id": "event-high",
+      "content": "Wysoka"
+    },
+    {
+      "id": "event-normal",
+      "content": "Zwykła"
+    },
+    {
+      "id": "event-low",
+      "content": "Niska"
+    },
+    {
+      "id": "event-very-low",
+      "content": "Bardzo Niska"
+    },
+    {
+      "id": "event-impossible",
+      "content": "Nieosiągalna"
+    }
+  ]
+}

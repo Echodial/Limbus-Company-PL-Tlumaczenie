@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10411_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Mam jeszcze czas... żeby wypalić tą O.F."
+        },
+        {
+            "id": "lobby_morning_10411_1",
+            "desc": "Morning Greeting",
+            "dlg": "Patrz na tych zabieganych idiotów kręcących się pod nami... mmm, a dla mnie nadszedł czas na drzemkę. ... Skąd to zdziwienie? Zające są przecież nocnymi zwierzętami."
+        },
+        {
+            "id": "lobby_noon_10411_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Ostatnia okazja żeby zapalić. Potem nie będe miała czasu.\nLepiej trzymać powietrze rześkim, no chyba że chcesz wywołać z lasu tych, którzy siedzą w najgłębszych cieniach."
+        },
+        {
+            "id": "lobby_night_10411_1",
+            "desc": "Evening Greeting",
+            "dlg": "Księżyc wschodzi. Czas kicnąć na miejsce następnej rzezi... ha, przyznam, troche mnie ta myśl ekscytuje. Zastanawiam się, jak piękne rozbryzgi krwi zobacze tym razem."
+        },
+        {
+            "id": "smalltalk_10411_1",
+            "desc": "Chatter #1",
+            "dlg": "Tylko tępe osły porównują nas do Zajęcy z Korpo R.\nMoże i mamy wspólne korzenie ale pasaliśmy się na kompletnie innych łąkach."
+        },
+        {
+            "id": "smalltalk_10411_2",
+            "desc": "Chatter #2",
+            "dlg": "... Nie uważam że tytuły 'mao' lub 'heishou' dobrze przedstawiają kim jestem; milordzie, zwracaj się do mnie wyłącznie 'Ryōshū'."
+        },
+        {
+            "id": "smalltalk_10411_3",
+            "desc": "Chatter #3",
+            "dlg": "Reszta zajęcy to totalne tępaki które nie rozpoznały by sztuki gdyby R.I.W.P, ale lubie jak efektywnie odcinają się od wszystkiego niezwiązanego z misją. Plus, nikogo nie obchodzi co robie tak długo jak wykonuję rozkazy."
+        },
+        {
+            "id": "smalltalk_10411_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Glify na tym ostrzu nie są tylko na pokaz. To pierwszorzędne pieczęci z Korpo Q.\nAle nie dorastają one do pięt mojemu mieczowi. ... NIC się z nim nie porównuje."
+        },
+        {
+            "id": "smalltalk_10411_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Bestia z którą dzielisz chleb dziś jutro zostanie puszczona na ciebie z kagańcem na pysku; Lord któremu dziś służysz jutro będzie błagał cię o litość z pod ostrza twojej klingi. Taka jest nasza codzienność."
+        },
+        {
+            "id": "neglect_10411_1",
+            "desc": "Idle",
+            "dlg": "Jak to kiedyś mówiono; 'nie ufaj bestiom z czarnym futrem'. Jest w tym powiedzeniu dużo mądrości, milordzie."
+        },
+        {
+            "id": "gacksung_10411_1",
+            "desc": "Uptying",
+            "dlg": "Jakie to uczucie, kiedy bestia która niedawno stała u twojego boku wbija w ciebię swoje trzonowce? Wytłumacz mi powoli, bez pomijania żadnych szczegółów. Kupi ci to pare dodatkowych minut."
+        },
+        {
+            "id": "formation_10411_1",
+            "desc": "Deployment",
+            "dlg": "Spóźniłoś się. Cóż, lord każe, mao musi."
+        },
+        {
+            "id": "battleentry_10411_1",
+            "desc": "Stage Entry",
+            "dlg": "Czas kicać."
+        },
+        {
+            "id": "battle_select_10411_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Masz dla mnie jeszcze jakieś inne ofiary do zarżnięcia?"
+        },
+        {
+            "id": "battle_endcommand_10411_1",
+            "desc": "Commencing Attack",
+            "dlg": "Członkini Stada Heishou, Oddziału Mao, gotowa na kicanie."
+        },
+        {
+            "id": "battle_enemy_break_10411_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Ha. Nie umieraj mi tu jeszcze."
+        },
+        {
+            "id": "battle_break_10411_1",
+            "desc": "Staggered",
+            "dlg": "Tch, czekaj..."
+        },
+        {
+            "id": "battle_kill_10411_1",
+            "desc": "Enemy Killed",
+            "dlg": "Hmpf, miernota. Giń."
+        },
+        {
+            "id": "battle_dead_10411_1",
+            "desc": "Death",
+            "dlg": "A żesz... cholera. To była nawet... niezła... zabawa."
+        },
+        {
+            "id": "choice_success_p_10411_2",
+            "desc": "Check Passed",
+            "dlg": "Zabijam tylko czas."
+        },
+        {
+            "id": "choice_fail_n_10411_1",
+            "desc": "Check Failed",
+            "dlg": "Marnujesz czas Stada Heishou na takie <i>idiotyzmy</i>?"
+        },
+        {
+            "id": "battle_clear_10411_1",
+            "desc": "Victory Cry",
+            "dlg": "Ale słaba pogoń. Wylaliśmy tyle krwi że nie da się nic z tego już zrobić—kto by pomyślał, mao: za wolni... tsk."
+        },
+        {
+            "id": "battle_clear_ex_10411_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Cudo... Tylko patrz jak ożywiliśmy to miejsce. Mam nadzieje że następna zdobycz też będzie taka ciekawa."
+        },
+        {
+            "id": "battle_defeat_10411_1",
+            "desc": "Defeat Wail",
+            "dlg": "Łowcy stali się zwierzyną... Lubie dobry paradoks ale to jest... nieprzyjemne uczucie."
+        }
+    ]
+}

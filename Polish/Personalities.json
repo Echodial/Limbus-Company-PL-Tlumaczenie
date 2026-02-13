@@ -1,0 +1,1159 @@
+{
+  "dataList": [
+    {
+      "id": 10101,
+      "title": "Grzesznik\nLCB",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang’s 1st Identity"
+    },
+    {
+      "id": 10201,
+      "title": "Grzesznik\nLCB",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 1st Identity"
+    },
+    {
+      "id": 10301,
+      "title": "Grzesznik\nLCB",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 1st Identity"
+    },
+    {
+      "id": 10401,
+      "title": "Grzesznik\nLCB",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū’s 1st Identity"
+    },
+    {
+      "id": 10501,
+      "title": "Grzesznik\nLCB",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 1st Identity"
+    },
+    {
+      "id": 10601,
+      "title": "Grzesznik\nLCB",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 1st Identity"
+    },
+    {
+      "id": 10701,
+      "title": "Grzesznik\nLCB",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 1st Identity"
+    },
+    {
+      "id": 10801,
+      "title": "Grzesznik\nLCB",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 1st Identity"
+    },
+    {
+      "id": 10901,
+      "title": "Grzesznik\nLCB",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 1st Identity"
+    },
+    {
+      "id": 11001,
+      "title": "Grzesznik\nLCB",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 1st Identity"
+    },
+    {
+      "id": 11101,
+      "title": "Grzesznik\nLCB",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 1st Identity"
+    },
+    {
+      "id": 11201,
+      "title": "Grzesznik\nLCB",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 1st Identity"
+    },
+    {
+      "id": 10102,
+      "title": "Szósta Południowa Sekcja\nStowarzyszenia Seven",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang’s 2nd Identity"
+    },
+    {
+      "id": 10202,
+      "title": "Agent Porządkowy\nDrugiej Linii\nW Korp.",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 2nd Identity"
+    },
+    {
+      "id": 10302,
+      "title": "Agent Porządkowy\nTrzeciej Linii\nW Korp.",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 2nd Identity"
+    },
+    {
+      "id": 10402,
+      "title": "Szósta Południowa Sekcja\nStowarzyszenia Seven",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū’s 2nd Identity"
+    },
+    {
+      "id": 10502,
+      "title": "Szósta Południowa Sekcja\nStowarzyszenia Liu",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 2nd Identity"
+    },
+    {
+      "id": 10602,
+      "title": "Wakashu\nKlanu\nKurokumo",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 2nd Identity"
+    },
+    {
+      "id": 10702,
+      "title": "Piąta Południowa Sekcja\nStowarzyszenia Shi",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 2nd Identity"
+    },
+    {
+      "id": 10802,
+      "title": "Renifer\nCzwartego Stada R Korp.",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 2nd Identity"
+    },
+    {
+      "id": 10902,
+      "title": "Wakashu\nKlanu\nKurokumo",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 2nd Identity"
+    },
+    {
+      "id": 11002,
+      "title": "Salsu\nRodowodu\nOstrza",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 2nd Identity"
+    },
+    {
+      "id": 11102,
+      "title": "Salsu\nRodowodu\nOstrza",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 2nd Identity"
+    },
+    {
+      "id": 11202,
+      "title": "Szósta Południowa Sekcja\nStowarzyszenia Liu",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 2nd Identity"
+    },
+    {
+      "id": 10103,
+      "title": "Salsu\nRodowodu\nOstrza",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang’s 3rd Identity"
+    },
+    {
+      "id": 10203,
+      "title": "Niedobitek\nLobotomy Korp.",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 3rd Identity"
+    },
+    {
+      "id": 10403,
+      "title": "Wakashu\nKlanu\nKurokumo",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū’s 3rd Identity"
+    },
+    {
+      "id": 10503,
+      "title": "Agent Porządkowy\nDrugiej Linii\nW Korp.",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 3rd Identity"
+    },
+    {
+      "id": 10603,
+      "title": "Przywódca\nGangu Tingtang",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 3rd Identity"
+    },
+    {
+      "id": 10703,
+      "title": "Zając\nCzwartego Stada R Korp.",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 3rd Identity"
+    },
+    {
+      "id": 10803,
+      "title": "Piąta Południowa Sekcja\nStowarzyszenia Shi",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 3rd Identity"
+    },
+    {
+      "id": 10903,
+      "title": "Asystent Menedżera\nLCCB",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 3rd Identity"
+    },
+    {
+      "id": 11003,
+      "title": "Szósta Południowa Sekcja\nStowarzyszenia Zwei",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 3rd Identity"
+    },
+    {
+      "id": 11103,
+      "title": "Czołowy Menedżer\nG Korp.",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 3rd Identity"
+    },
+    {
+      "id": 11203,
+      "title": "Kapral Menedżer\nG Korp.",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 3rd Identity"
+    },
+    {
+      "id": 10804,
+      "title": "Asystent Menedżera\nLCCB",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 4th Identity"
+    },
+    {
+      "id": 11004,
+      "title": "Jefe\nLos Mariachis",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 4th Identity"
+    },
+    {
+      "id": 10303,
+      "title": "Dyrektor Piątej Południowej Sekcji\nStowarzyszenia Shi",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 3rd Identity"
+    },
+    {
+      "id": 10504,
+      "title": "Großhammer\nFanatyków\nN Korp.",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 4th Identity"
+    },
+    {
+      "id": 10904,
+      "title": "Mittelhammer\nFanatyków\nN Korp.",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 4th Identity"
+    },
+    {
+      "id": 10204,
+      "title": "Ta,\nKtóra Chwyta",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 4th Identity"
+    },
+    {
+      "id": 10704,
+      "title": "Kleinhammer\nFanatyków\nN Korp.",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 4th Identity"
+    },
+    {
+      "id": 11104,
+      "title": "Dyrektor Szóstej Południowej Sekcji\n Stowarzyszenia Seven",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 4th Identity"
+    },
+    {
+      "id": 10604,
+      "title": "Piąta Południowa Sekcja\nStowarzyszenia Liu",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 4th Identity"
+    },
+    {
+      "id": 10404,
+      "title": "Szef Kuchni\nR.B.",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū’s 4th Identity"
+    },
+    {
+      "id": 11204,
+      "title": "Zastępca Szefa Kuchni\nR.B.",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 4th Identity"
+    },
+    {
+      "id": 10304,
+      "title": "Mittelhammer\nFanatyków\nN Korp.",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 4th Identity"
+    },
+    {
+      "id": 11005,
+      "title": "Ten, Który Będzie Chwytał",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 5th Identity"
+    },
+    {
+      "id": 10905,
+      "title": "Przedstawiciel\nWarsztatu Rosepanner",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 5th Identity"
+    },
+    {
+      "id": 10505,
+      "title": "Fixer\nWarsztatu Rosepanner",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 5th Identity"
+    },
+    {
+      "id": 10705,
+      "title": "Lobotomy E.G.O::Słoneczna Mrzawka",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 5th Identity"
+    },
+    {
+      "id": 11205,
+      "title": "Fixer\nWarsztatu Rosepanner",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 5th Identity"
+    },
+    {
+      "id": 10104,
+      "title": "Rozkwitłe E.G.O::\nLindera",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang’s 4th Identity"
+    },
+    {
+      "id": 10805,
+      "title": "Lobotomy E.G.O::Chlupotanie",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 5th Identity"
+    },
+    {
+      "id": 10605,
+      "title": "Personel Usuwający\nTrzeciej Klasy\nK Korp.",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 5th Identity"
+    },
+    {
+      "id": 11006,
+      "title": "Lobotomy E.G.O::Czerwona Płachta",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 6th Identity"
+    },
+    {
+      "id": 10806,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Liu",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 6th Identity"
+    },
+    {
+      "id": 10506,
+      "title": "Nosorożec\nCzwartego Stada R Korp.",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 6th Identity"
+    },
+    {
+      "id": 10906,
+      "title": "Piąta Południowa Sekcja\nStowarzyszenia Zwei",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 6th Identity"
+    },
+    {
+      "id": 10305,
+      "title": "Dyrektor Piątej Południowej Sekcji\nStowarzyszenia Cinq",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 5th Identity"
+    },
+    {
+      "id": 10807,
+      "title": "Fixer\nZazębionych Szkutników",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 7th Identity"
+    },
+    {
+      "id": 11007,
+      "title": "Fixer\nZazębionych Szkutników",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 7th Identity"
+    },
+    {
+      "id": 11206,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Zwei",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 6th Identity"
+    },
+    {
+      "id": 10205,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Zwei",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 5th Identity"
+    },
+    {
+      "id": 10405,
+      "title": "Agent Porządkowy\nTrzeciej Linii\nW Korp.",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū’s 5th Identity"
+    },
+    {
+      "id": 10606,
+      "title": "Agent Porządkowy\nDrugiej Linii\nW Korp.",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 6th Identity"
+    },
+    {
+      "id": 10206,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Seven",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 6th Identity"
+    },
+    {
+      "id": 10706,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Seven",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 6th Identity"
+    },
+    {
+      "id": 10105,
+      "title": "Fixer\n Zazębionego Biura",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 5th Identity"
+    },
+    {
+      "id": 11105,
+      "title": "Fixer\n Zazębionego Biura",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis's 5th Identity"
+    },
+    {
+      "id": 10907,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Dieci",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 7th Identity"
+    },
+    {
+      "id": 10207,
+      "title": "Lobotomy E.G.O::Żal",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 7th Identity"
+    },
+    {
+      "id": 10607,
+      "title": "Fixer\nBiura Sierpu",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu's 7th Identity"
+    },
+    {
+      "id": 10106,
+      "title": "Agent Porządkowy\nTrzeciej Linii\nW Korp.",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 6th Identity"
+    },
+    {
+      "id": 11207,
+      "title": "Pierwszy Oficer\nPiratów Twinhook",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor's 7th Identity"
+    },
+    {
+      "id": 10406,
+      "title": "Asystent Menedżera\nLCCB",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū’s 6th Identity"
+    },
+    {
+      "id": 10306,
+      "title": "Młodsza Siostra\nŚrodka",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 6th Identity"
+    },
+    {
+      "id": 10507,
+      "title": "Młodszy Brat\nŚrodka",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 7th Identity"
+    },
+    {
+      "id": 10707,
+      "title": "Harpunier\nStatku Pequod",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff's 7th Identity"
+    },
+    {
+      "id": 10107,
+      "title": "Pierwszy Oficer\nStatku Pequod",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 7th Identity"
+    },
+    {
+      "id": 11008,
+      "title": "Dyrektor Czwartej Południowej Sekcji\nStowarzyszenia Cinq",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 8th Identity"
+    },
+    {
+      "id": 11106,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Cinq",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis's 6th Identity"
+    },
+    {
+      "id": 11107,
+      "title": "Lobotomy E.G.O::Koszmarny Pocisk",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis's 7th Identity"
+    },
+    {
+      "id": 10307,
+      "title": "Lobotomy E.G.O::Latarnia",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 7th Identity"
+    },
+    {
+      "id": 10608,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Dieci",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu's 8th Identity"
+    },
+    {
+      "id": 10108,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Dieci",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 8th Identity"
+    },
+    {
+      "id": 10808,
+      "title": "Kapitan\nStatku Pequod",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 8th Identity"
+    },
+    {
+      "id": 10508,
+      "title": "Mentor\nRodowodu\nOstrza",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 8th Identity"
+    },
+    {
+      "id": 10208,
+      "title": "Salsu\nRodowodu\nOstrza",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust’s 8th Identity"
+    },
+    {
+      "id": 10308,
+      "title": "Salsu\nRodowodu\nOstrza",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 8th Identity"
+    },
+    {
+      "id": 11208,
+      "title": "Kapitan\nKlanu\nKurokumo",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor's 8th Identity"
+    },
+    {
+      "id": 10908,
+      "title": "Dyrektor Czwartej Południowej Sekcji\nStowarzyszenia Liu",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 8th Identity"
+    },
+    {
+      "id": 10407,
+      "title": "Czwarta Południowa Sekcja\nStowarzyszenia Liu",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 7th Identity"
+    },
+    {
+      "id": 10708,
+      "title": "Trzecia Południowa Sekcja\nStowarzyszenia Öufi",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff's 8th Identity"
+    },
+    {
+      "id": 11108,
+      "title": "Przewodzący Lokaj\nWichrowych Wzgóż",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis's 8th Identity"
+    },
+    {
+      "id": 10509,
+      "title": "Szef\nMartwych Zajęcy",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 9th Identity"
+    },
+    {
+      "id": 11209,
+      "title": "Dziedzic\nRodziny Edgar",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor's 9th Identity"
+    },
+    {
+      "id": 10209,
+      "title": "Lokaj\nWichrowych Wzgóż",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 9th Identity"
+    },
+    {
+      "id": 9999,
+      "title": "Czerwony Wzrok",
+      "name": "Vergilius",
+      "nameWithTitle": "",
+      "desc": ""
+    },
+    {
+      "id": 10408,
+      "title": "Przewodzący Lokaj\nRodziny Edgar",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 8th Identity"
+    },
+    {
+      "id": 10809,
+      "title": "Lokaj\nRodziny Edgar",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael’s 9th Identity"
+    },
+    {
+      "id": 11009,
+      "title": "Fixer\nBiura Brzasku",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair's 9th Identity"
+    },
+    {
+      "id": 10109,
+      "title": "Student Puentylizmu\nPierścienia",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 9th Identity"
+    },
+    {
+      "id": 11109,
+      "title": "Student Puentylizmu\nPierścienia",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis's 9th Identity"
+    },
+    {
+      "id": 10609,
+      "title": "Yurodivy\nz\nDwudziestego Dystryktu",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu's 9th Identity"
+    },
+    {
+      "id": 10409,
+      "title": "Yurodivy\nz\nDwudziestego Dystryktu",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 9th Identity"
+    },
+    {
+      "id": 10309,
+      "title": "Komornik\nT Korp.\nKlasy Trzeciej",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 9th Identity"
+    },
+    {
+      "id": 10909,
+      "title": "Komornik\nT Korp. \nKlasy Drugiej",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 9th Identity"
+    },
+    {
+      "id": 10510,
+      "title": "Dyrektor Czwartej Południowej Sekcji\nStowarzyszenia Dieci",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 10th Identity"
+    },
+    {
+      "id": 11110,
+      "title": "Agent Porządkowy\nTrzeciej Linii\nW Korp.",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 10th Identity"
+    },
+    {
+      "id": 10210,
+      "title": "Przedstawiciel\nBiura\nMultiCrack",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 10th Identity"
+    },
+    {
+      "id": 10709,
+      "title": "Fixer\nBiura\nMultiCrack",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff's 9th Identity"
+    },
+    {
+      "id": 10710,
+      "title": "Przywódca Dzikiego Gonu",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 10th Identity"
+    },
+    {
+      "id": 10110,
+      "title": "Lobotomy E.G.O::\nUroczysty Lament",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 10th Identity"
+    },
+    {
+      "id": 10410,
+      "title": "Lobotomy E.G.O::\nCzerwone Oczy i\nSkrucha",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 10th Identity"
+    },
+    {
+      "id": 10910,
+      "title": "Trzecia Północna Sekcja\nStowarzyszenia Devyat",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 10th Identity"
+    },
+    {
+      "id": 10810,
+      "title": "Trzecia Zachodnia Sekcja\nStowarzyszenia Zwei",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael's 10th Identity"
+    },
+    {
+      "id": 10511,
+      "title": "Trzecia Zachodnia Sekcja\nStowarzyszenia Cinq",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 11th Identity"
+    },
+    {
+      "id": 11010,
+      "title": "Trzecia Zachodnia Sekcja\nStowarzyszenia Zwei",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 10th Identity"
+    },
+    {
+      "id": 11111,
+      "title": "Fryzjer\nLa\nManchaland",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 11th Identity"
+    },
+    {
+      "id": 10610,
+      "title": "Fixer\nBiura Kłokruszycieli",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 10th Identity"
+    },
+    {
+      "id": 11210,
+      "title": "Ksiądz\nLa\nManchaland",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 10th Identity"
+    },
+    {
+      "id": 10911,
+      "title": "Księżniczka\nLa\nManchaland",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 11th Identity"
+    },
+    {
+      "id": 11011,
+      "title": "Trzecia Północna Sekcja\nStowarzyszenia Devyat",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 11th Identity"
+    },
+    {
+      "id": 10310,
+      "title": "Menedżer\nLa\nManchaland",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote’s 10th Identity"
+    },
+    {
+      "id": 10611,
+      "title": "Przedstawiciel\nBiura Full-Stop",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 11th Identity"
+    },
+    {
+      "id": 10711,
+      "title": "Fixer\nBiura Full-Stop",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 11th Identity"
+    },
+    {
+      "id": 10211,
+      "title": "LCE E.G.O::\nĆma Płomiennego Rozkwitu",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 11th Identity"
+    },
+    {
+      "id": 10111,
+      "title": "LCE E.G.O::\nLatarnia",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 11th Identity"
+    },
+    {
+      "id": 10811,
+      "title": "Kaptain\nKlanu\nKurokumo",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael's 11th Identity"
+    },
+    {
+      "id": 10712,
+      "title": "Wakashu\nKlanu\nKurokumo",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 12th Identity"
+    },
+    {
+      "id": 10112,
+      "title": "Trzecia Południowa Sekcja\nStowarzyszenia Liu",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 12th Identity"
+    },
+    {
+      "id": 10311,
+      "title": "Trzecia Wschodnia Sekcja\nStowarzyszenia Cinq",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote's 11th Identity"
+    },
+    {
+      "id": 11211,
+      "title": "Niedobitek\nBiura Ognistej Pięści",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 11th Identity"
+    },
+    {
+      "id": 11112,
+      "title": "Stado Heishou - Oddział Mao",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 12th Identity"
+    },
+    {
+      "id": 10411,
+      "title": "Stado Heishou - Oddział Mao",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 11th Identity"
+    },
+    {
+      "id": 11012,
+      "title": "Młodszy Brat\nŚrodka",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 12th Identity"
+    },
+    {
+      "id": 11012,
+      "title": "Młodszy Brat\nŚrodka",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 12th Identity"
+    },
+    {
+      "id": 10612,
+      "title": "Renifer\nCzwartego Stada R Korp.",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu’s 12th Identity"
+    },
+    {
+      "id": 11212,
+      "title": "Stado Heishou - Oddział Si",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 12th Identity"
+    },
+    {
+      "id": 10912,
+      "title": "Stado Heishou - Oddział Si",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 12th Identity"
+    },
+    {
+      "id": 10212,
+      "title": "Stado Heishou - Wyróżniona Mao",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 12th Identity"
+    },
+    {
+      "id": 10812,
+      "title": "Kandydatka\nNa\nHierarchę Hongyuan",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael's 12th Identity"
+    },
+    {
+      "id": 10512,
+      "title": "Capo IIII\nWschodniego Oddziału\nKciuka",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 12th Identity"
+    },
+    {
+      "id": 11013,
+      "title": "Soldato II\nWschodniego Oddziału\nKciuka",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 13th Identity"
+    },
+    {
+      "id": 10113,
+      "title": "N Korp. E.G.O::\nPrzeklęty Pocisk",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 13th Identity"
+    },
+    {
+      "id": 10312,
+      "title": "Lobotomy E.G.O::\nW Imieniu Miłości\nOraz Nienawiści",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote's 12th Identity"
+    },
+    {
+      "id": 10913,
+      "title": "Lobotomy E.G.O::\nMiecz Naostrzony Łzami",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 13th Identity"
+    },
+    {
+      "id": 11113,
+      "title": "Personel VDCU\nT Korp.\nKlasy Trzeciej",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 13th Identity"
+    },
+    {
+      "id": 10613,
+      "title": "Władca\nHongyuan",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu's 13th Identity"
+    },
+    {
+      "id": 11014,
+      "title": "Stado Heishou -\nOddział You",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 14th Identity"
+    },
+    {
+      "id": 10114,
+      "title": "Stado Heishou -\nWyróżniony Wu",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 14th Identity"
+    },
+    {
+      "id": 10412,
+      "title": "N Korp. E.G.O::\nOdraza, Trwoga",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 12th Identity"
+    },
+    {
+      "id": 10213,
+      "title": "Trzecia Wschodnia Sekcja\nStowarzyszenia Shi",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 13th Identity"
+    },
+    {
+      "id": 10513,
+      "title": "Książe La Manchaland",
+      "name": "Meursault",
+      "nameWithTitle": "Meursault",
+      "desc": "Meursault’s 13th Identity"
+    },
+    {
+      "id": 10713,
+      "title": "Agent CCA\nCzwartej Linii\nW Korp.",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 13th Identity"
+    },
+    {
+      "id": 11213,
+      "title": "Capitano Nocnych Szewców",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 13th Identity"
+    },
+    {
+      "id": 10813,
+      "title": "Przedstawiciel\nBiura\nJeong",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael's 13th Identity"
+    },
+    {
+      "id": 10313,
+      "title": "Stado Heishou -\nOddział Wei",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote's 13th Identity"
+    },
+    {
+      "id": 10714,
+      "title": "Stado Heishou -\nWyróżniony You",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 14th Identity"
+    },
+    {
+      "id": 10413,
+      "title": "Dryftujące Ostrze Hongyuan",
+      "name": "Ryōshū",
+      "nameWithTitle": "Ryōshū",
+      "desc": "Ryōshū's 13th Identity"
+    },
+    {
+      "id": 10914,
+      "title": "Renifer\nCzwartego Stada R Korp.",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion's 14th Identity"
+    },
+    {
+      "id": 11114,
+      "title": "Lider Trzeciego Skwadronu\nPrzedniej Straży LCA Udjat",
+      "name": "Outis",
+      "nameWithTitle": "Outis",
+      "desc": "Outis’s 14th Identity"
+    },
+    {
+      "id": 10214,
+      "title": "Neofitka Wskazu:\n【Karteczka Papieru】",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 14th Identity"
+    },
+    {
+      "id": 10314,
+      "title": "The Index Proxy - \nEffloresced E.G.O::\nProcuration",
+      "name": "Don Quixote",
+      "nameWithTitle": "Don Quixote",
+      "desc": "Don Quixote's 14th Identity"
+    }
+  ]
+}

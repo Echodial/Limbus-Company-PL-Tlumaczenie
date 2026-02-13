@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": "select_personality_gacksung_up_ticket",
+      "content": "Wybierz Osobowość którą chcesz Ulepszyć"
+    },
+    {
+      "id": "tip_long_click_to_view_personality",
+      "content": "※ Long-press an Osobowość to view more detailed info."
+    },
+    {
+      "id": "leap_up_confim_main_only_gacksung",
+      "content": "[{0}] Osobowość Uptie Tier will be changed as follows."
+    },
+    {
+      "id": "select_ego_gacksung_up_ticket",
+      "content": "Wybierz E.G.O które chcesz Ulepszyć"
+    },
+    {
+      "id": "tip_long_click_to_view_ego",
+      "content": "※ Long-press an E.G.O to view more detailed info."
+    },
+    {
+      "id": "ego_leap_up_confim_main_only_gacksung",
+      "content": "[{0}] E.G.O's Threadspinning Tier will be changed as follows."
+    },
+    {
+      "id": "all_egos",
+      "content": "All E.G.Os"
+    },
+    {
+      "id": "leap_up_able_uptie_ego_tier",
+      "content": "Can be Threadspun"
+    },
+    {
+      "id": "ego_gacksung_grade",
+      "content": "Threadspin Tier"
+    },
+    {
+      "id": "leap_up_ego_confim_title",
+      "content": "Wybieranie E.G.O"
+    },
+    {
+      "id": "check_default_personality_leap_up",
+      "content": "This is an Osobowość that can be Uptied for free to Tier 3 by progressing through the Main Story.\n\nUptie this Osobowość anyway?"
+    },
+    {
+      "id": "check_default_ego_leap_up",
+      "content": "This is an E.G.O that can be Threadspun for free to Tier 3 by progressing through the Main Story.\n\nUptie this Osobowość anyway?"
+    },
+    {
+      "id": "select_identity_popup_title",
+      "content": "Wybierz Osobowość"
+    },
+    {
+      "id": "select_identity_popup_title_season_1",
+      "content": "Wybierz Season 1 Osobowość"
+    },
+    {
+      "id": "select_ego_popup_title_season_1_battlepass",
+      "content": "Wybierz Season 1 Battle Pass E.G.O"
+    },
+    {
+      "id": "select_ego_popup_title",
+      "content": "Wybierz E.G.O"
+    }
+  ]
+}

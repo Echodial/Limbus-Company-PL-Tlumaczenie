@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20101_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wyjaw mi, co uważasz za ideał."
+    },
+    {
+      "id": "battle_upgrade_20101_1",
+      "desc": "E.G.O Liberation",
+      "dlg": "Wyłam się z klatki,"
+    },
+    {
+      "id": "battle_upgrade_20101_2",
+      "desc": "E.G.O Liberation",
+      "dlg": "I bądź wolny."
+    },
+    {
+      "id": "battle_awaken_20102_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Palę to, co spalić chcę."
+    },
+    {
+      "id": "battle_erosion_20102_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "To wszystko… obróci się w proch."
+    },
+    {
+      "id": "battle_awaken_20103_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Jeśli szukasz to szczęścia—módl się ze szczerością w sercu."
+    },
+    {
+      "id": "battle_erosion_20103_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Powiedz mi, czego sobie życzysz. Wyraź swe chęci słowami…"
+    },
+    {
+      "id": "battle_awaken_20104_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Co za urzekające kolory… A jednak ścieżka uparcie zamazuje wszystkie ich wspomnienia."
+    },
+    {
+      "id": "battle_erosion_20104_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Zaiste, ta aleja jest otwarta."
+    },
+    {
+      "id": "battle_awaken_20105_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Martwię się, że ten rzęsisty deszcz będzie ciekł przez parasolkę."
+    },
+    {
+      "id": "battle_erosion_20105_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Powietrze jest zbyt zimne... a deszcz coraz bardziej ulewny."
+    },
+    {
+      "id": "battle_awaken_20106_1",
+      "desc": "E.G.O Activation",
+      "dlg": "To jego portret. Przyjrzysz mu się... z bliska?"
+    },
+    {
+      "id": "battle_erosion_20106_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Odejdź, intruzie! Opuść to miejsce...!"
+    },
+    {
+      "id": "battle_awaken_20107_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Poczuję, jak ciężka masa lufy strzelby spoczywa na moich trzewiach.\nNiechaj ten przeklęty pocisk przebije sie przez nich...!"
+    },
+    {
+      "id": "battle_erosion_20107_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nie ma nic; żadnych wspomnień, ani potrzeby przypominania ich sobie... strzelać, tylko ciągnąć za spust!"
+    },
+    {
+      "id": "battle_erosion_20107_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nie ma nic; żadnych wspomnień, ani potrzeby przypominania ich sobie... strzelać, tylko ciągnąć za spust!"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_1_1",
+      "dlg": " Pamiętajcie, że mój zegaj nie jest panaceum… Najpierw myślcie, potem róbcie, okej?"
+    },
+    {
+      "id": "announcer_cheer_1_2",
+      "dlg": "Spróbujcie bardziej na siebie uważać. Czekaj, nie, M-mam na myśli że… Po prostu się o was martwie, okej?"
+    },
+    {
+      "id": "announcer_specialcheer_1_1",
+      "dlg": "Uhh… Nie wydaje ci się że ta krew powinna być jednak w środku? Czy powinnom zaczynać się przygotowywać?"
+    },
+    {
+      "id": "announcer_specialcheer_1_2",
+      "dlg": "Obiecajcie mi, że nie będziecie wbiegać łeb na szyję do walki tylko dlatego, że moge was potem uleczyć, okej? Uważajcie tam na siebie."
+    },
+    {
+      "id": "announcer_enemy_break_1_1",
+      "dlg": "Przeciwnik jest zachwiany. Możecie ich atakować."
+    },
+    {
+      "id": "announcer_ally_break_1_1",
+      "dlg": "Ajajaj, chyba spuszczą wam niezły łomot…"
+    },
+    {
+      "id": "announcer_killenemy_1_1",
+      "dlg": "Dobra, jeden z Grzeszników załatwił wroga. Oby tak dalej."
+    },
+    {
+      "id": "announcer_ally_dead_1_1",
+      "dlg": "Grzesznik właśnie umarł. Całe szczęście mogę ich potem wskrzesić…"
+    },
+    {
+      "id": "announcer_enemy_adv_1_1",
+      "dlg": "Jeśli szybko nie zmienimy podejścia będe musiało cofnąć zegar. Postarajmy się tego uniknąć."
+    },
+    {
+      "id": "announcer_ally_adv_1_1",
+      "dlg": "Wydaje mi się, że wygrywamy. Oby tak dalej."
+    },
+    {
+      "id": "announcer_danger_1_1",
+      "dlg": "To wygląda na dość krytyczny moment, nie? Ufam wam, że zrobicie to, co należy."
+    },
+    {
+      "id": "announcer_enemy_specialskill_1_1",
+      "dlg": "Mam silne uczucie, że nasi wrogowie szykują dla nas podłą niespodziankę. Przygotujcie się."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_1_1",
+      "dlg": "Czy to tylko ja, czy… wy też czujecie jak wisi w powietrzu taka… złowroga aura?"
+    },
+    {
+      "id": "announcer_advatk_physical_1_1",
+      "dlg": "Dobra robota. Ten ostatni cios naprawde mocno im dowalił."
+    },
+    {
+      "id": "announcer_disadvatk_physical_1_1",
+      "dlg": "Kurde. Ten ostani atak ledwo co ich drzasnął."
+    },
+    {
+      "id": "announcer_advatk_attr_1_1",
+      "dlg": "Wygląda na to, że są oni dość podatni na ten Grzech. Mamy tą walkę jak w banku."
+    },
+    {
+      "id": "announcer_disadvatk_attr_1_1",
+      "dlg": "Oh… Ten Grzech nie był specjalnie efektywny. Następnym razem spróbujmy czegoś innego."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_1_1",
+      "dlg": "Nasi przeciwnicy robią coś dziwnego. Lepiej uważajcie."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_1_1",
+      "dlg": "Nasi wrogowie wydają się na zmęczonych. Powinniśmy to wykożystać."
+    },
+    {
+      "id": "announcer_ally_specialbuff_1_1",
+      "dlg": "Widze, że czujecie się dość energicznie. To dobrze, czas przechylić szalę szycięstwa."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_1_1",
+      "dlg": "Wygląda na to, że coś poszło nie tak. Jak się czujecie? Nie żebym mogło wam teraz pomóc…"
+    },
+    {
+      "id": "announcer_enemy_destroy_1_1",
+      "dlg": "Dobra robota, załatwiliśmy jedną z kończyn. Teraz pozbądźmy się reszty."
+    },
+    {
+      "id": "announcer_enemy_destroy_1_2",
+      "dlg": "Złamaliście jedną z kończyn wroga. Świetnie nam idzie."
+    },
+    {
+      "id": "announcer_round_takebigdmg_1_1",
+      "dlg": "Ajć. Widze że dostaliście niezły łomot."
+    },
+    {
+      "id": "announcer_round_takebigdmg_1_2",
+      "dlg": "Jedna z Osobowości dostała niezłe bęcki."
+    },
+    {
+      "id": "announcer_round_takebigdmg_1_3",
+      "dlg": "Bardzo dobrze ci to wyszło. Myślisz, że udałoby ci się zrobić coś takiego jeszcze raz?"
+    },
+    {
+      "id": "announcer_round_takebigdmg_1_4",
+      "dlg": "Znakomicie. Masz jeszcze siłę na jeszcze jeden taki występ?"
+    },
+    {
+      "id": "announcer_multikillenemy_1_1",
+      "dlg": "Grzesznik właśnie załatwił paru przeciwników na raz. To zdecydowanie zasługuje na pochwałe."
+    },
+    {
+      "id": "announcer_equip_1_1",
+      "dlg": "Wiem, że dla was to jest ta sama stara twarz… nie, raczej tarcza… Uh, tak czy siak, oto jestem."
+    },
+    {
+      "id": "announcer_a1c5p3_ish_special_1_1",
+      "dlg": "Ishmael… Nie słuchaj nikogo. W tym momencie najważniesze jest to, co mówi ci twoje serce."
+    },
+    {
+      "id": "announcer_a1c7p3_don_special_1_1",
+      "dlg": "UWAGA! BROŃCIE SIĘ!"
+    }
+  ]
+}

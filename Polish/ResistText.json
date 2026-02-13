@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "resist_weak",
+      "content": "Śmiertelne"
+    },
+    {
+      "id": "resist_vulnerable",
+      "content": "Mocne"
+    },
+    {
+      "id": "resist_normal",
+      "content": "Zywkłe"
+    },
+    {
+      "id": "resist_endure",
+      "content": "Słabe"
+    },
+    {
+      "id": "resist_resist",
+      "content": "Nieefektywne"
+    },
+    {
+      "id": "resist_immune",
+      "content": "Bezużyteczne"
+    }
+  ]
+}

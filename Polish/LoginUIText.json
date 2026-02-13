@@ -1,0 +1,368 @@
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "Zaloguj przez Google"
+    },
+    {
+      "id": "loginui_sign_in_with_apple",
+      "content": "Zaloguj przez Apple"
+    },
+    {
+      "id": "loginui_sign_in_with_steam",
+      "content": "Zaloguj przez Steama"
+    },
+    {
+      "id": "loginui_sign_in_with_guest",
+      "content": "Zaloguj jako gość"
+    },
+    {
+      "id": "loginui_sign_out_current_account",
+      "content": "Wyloguj"
+    },
+    {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "Wylogować z obecnego konta?\nJeśli grasz jako gość, twoje dane mogą zostać utracone."
+    },
+    {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "Wylogować z obecnego konta\ni zmienić na wybrane?\nJeśli grasz jako gość, twoje dane mogą zostać utracone."
+    },
+    {
+      "id": "switch_account",
+      "content": "Zmień Konto"
+    },
+    {
+      "id": "user_agreements",
+      "content": "Warunki Świadczenia Usług"
+    },
+    {
+      "id": "title_game_data_download",
+      "content": "Pobierz Dane Gry"
+    },
+    {
+      "id": "content_game_data_download",
+      "content": "Pobieranie {0} danych."
+    },
+    {
+      "id": "content_game_data_download_description",
+      "content": "Jeśli twoje urządzenie nie ma dość miejsca, zostaniesz przeniesiony do ekranu tytuowego."
+    },
+    {
+      "id": "content_game_data_download_recommend",
+      "content": "A direct Internet connection (Wi-Fi) is recommended."
+    },
+    {
+      "id": "switch_allcacheclear",
+      "content": "Zapomnij Pamięć Podręczną"
+    },
+    {
+      "id": "switch_oldcacheclear",
+      "content": "Wyczyść stare dane"
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "Połączenie jest niestabilne.\nProszę sprawdzić połączenie internetowe."
+    },
+    {
+      "id": "networkingerror_close",
+      "content": "Zamknij"
+    },
+    {
+      "id": "networkingerror_retry",
+      "content": "Ponów"
+    },
+    {
+      "id": "loginui_ok",
+      "content": "Potwierdź"
+    },
+    {
+      "id": "login_cancel",
+      "content": "Anuluj"
+    },
+    {
+      "id": "loginui_loading_battlehint",
+      "content": "Porady w Walce"
+    },
+    {
+      "id": "servererror_content",
+      "content": "Nastąpił błąd serwera.\nProszę spróbować ponownie za chwilę."
+    },
+    {
+      "id": "forcequit_content",
+      "content": "Gra nie działa poprawnie.\nWyłączanie."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "Wciąż przygotowujemy niektóre rzeczy!"
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "Serwer przechodzi rutynowe czynności konserwacyjne."
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "Serwer przechodzi tymczasowe czynności konserwacyjne."
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "To konto nie istnieje, bądź zostało zamknięte."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "Na to konto zostało nałożone ograniczenie gry."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "Wystąpił błąd.\nProszę zalogować się ponownie."
+    },
+    {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "Nieudane zalogowanie jako gość.\nKonto albo jest już połączone, albo konto gościa nie istnieje.\n\nChcesz stworzyć nowe konto gościa?"
+    },
+    {
+      "id": "secession_remain_days",
+      "content": "Konto przechodzi okres zamknięcia.\nPozostały Czas: {0}D {1}H {2}M\n\nJeśli zaogujesz się teraz, możesz odzyskać konto.\nOdzyskać konto?"
+    },
+    {
+      "id": "secession_canceled",
+      "content": "Konto Odzyskane."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "Klient gry musi zostać zakualizowany."
+    },
+    {
+      "id": "create_guest",
+      "content": "Stwórz Nowe Konto Gościa"
+    },
+    {
+      "id": "ask_to_remove_all_cache",
+      "content": "Wyczyścić dane?"
+    },
+    {
+      "id": "networkingerror_update",
+      "content": "Do Sklepu"
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "Wykryto Użycie Nieautoryzowanego Oprogramowania."
+    },
+    {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "Data"
+    },
+    {
+      "id": "serverstate_verify_ban_reason",
+      "content": "Opis"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "Nadużycie Systemu Zwrotów Otwartego Rynku"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "Nietypowa Aktywność w Grze"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "Ta funkcja jest obecnie pod konserwacją."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "Ta proźba została już przepracowana.\nProszę zresetować grę aby zsynchronizować."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Ta historia ma miejsce po rozdziale Głównej Historii {0}. Wyświetlić ją mimo to?"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    },
+    {
+      "id": "switch_clearcatalog",
+      "content": "Usuń Katalog"
+    },
+    {
+      "id": "panel_clearcatalog",
+      "content": "Usunąć Katalog?"
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "Błąd połączenia z Serwerem. Proszę spróbować ponownie później."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "Tranzakcja nieudana."
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "Klient Gry nie uruchomił się poprawnie.\nProszę sprawdzić połączenie z intenernetem.\nUwagi proszę kierować do: limbussupport+bug@projmoon.com"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_title",
+      "content": "Limbus Company"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_text",
+      "content": "Enkefalina w Pełni naładowana."
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_text",
+      "content": "Take notice, yet naught is odd here. Ideally, my only purpose here would be to inform you that Enkephalin is replenished fully. Such is all I have to say."
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_text",
+      "content": "Enkephalin recharge is complete. Dear manager, Enkephalin module conversion is recommended for the sake of efficiency."
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_text",
+      "content": "MANAGER ESQUIRE!!! THE FUEL TANK HATH BEEN REFILLED!!! COME HITHER, FOR OUR ADVENTURES MUST GO ON!!!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_text",
+      "content": "E.C.(Enkephalin Charged.)"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_text",
+      "content": "Enkephalin has been fully recharged, manager."
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_text",
+      "content": "Woow~ Enkephalin's already fully charged~ Would you like to go check?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_text",
+      "content": "The, uh. Enkeph—? ... The green stuff's full. Go take a gander, yeah?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_text",
+      "content": "Enkephalin's been recharged... Hm. Yeah, the bus is ready for another voyage. Let's go."
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_text",
+      "content": "Dante~ Enkephalin's charged! Don'tcha forget to convert 'em to modules!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_text",
+      "content": "Hi, manager... are you... busy? I-it's nothing too serious, but... Enkephalin's about to overflow..."
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_text",
+      "content": "Reporting to the Executive Manager. Enkephalin has been fully replenished. May I suggest that you use or convert them?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_text",
+      "content": "Uhh, manager bud? You there? The, uh, the bus fuel tank is full... Might wanna come check?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_text",
+      "content": "Your break is over, manager Dante. Don't keep the bus sitting for too long."
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_title",
+      "content": "Enkephalin Charged"
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_text",
+      "content": "Mephi's stuffed. Charon, time to vroom-vroom."
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "Wybierz Niestandardowy Język"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "Wybierz Niestandardowy Język"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※ Zmiana języka wymaga resetu gry."
+    },
+    {
+      "id": "steam_overlay_cannot_activate_title",
+      "content": "Błąd Tranzakcji Steamu"
+    },
+    {
+      "id": "steam_overlay_cannot_activate_text",
+      "content": "Proszę włączyć opcję [Włącz nakładkę Steam podczas gry]n\nwe właściwościach gry - Ogólne,\npo czym zresetować grę."
+    },
+    {
+      "id": "servererror_remain_restore_purchasing",
+      "content": "Tranzakcja jest w trakcie.\nProsze użyć przycisku [Przywróć Zakup] i spróbować ponownie."
+    },
+    {
+      "id": "invalid_login_no_guest_uid",
+      "content": "The Guest account does not exist,\nor has been deleted."
+    },
+    {
+      "id": "invalid_login_is_not_guest",
+      "content": "This Guest account is already linked to a platform.\nPlease use the [Change Account] button to log into your linked platform."
+    },
+    {
+      "id": "try_new_guest",
+      "content": "Make a new Guest account?"
+    },
+    {
+      "id": "need_verify_integrity_steam",
+      "content": "Missing resources detected.\nPlease use Steam's \"Verify integrity of game files\" function."
+    }
+  ]
+}

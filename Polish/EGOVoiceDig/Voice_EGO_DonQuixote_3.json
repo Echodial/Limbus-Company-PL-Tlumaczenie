@@ -1,0 +1,144 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20301_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Galopem, Rocinante! Sprawiedliwość zwycięży!"
+    },
+    {
+      "id": "battle_awaken_20301_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Naprzód, Rocinante! Raz po raz, aż w końcu nasze sen będzie w zasięgu reki!"
+    },
+    {
+      "id": "battle_awaken_20302_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Posmakujcie mej maczugi!"
+    },
+    {
+      "id": "battle_erosion_20302_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "…Zgnieść ich."
+    },
+    {
+      "id": "battle_awaken_20303_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Tylko patrz! Porażę ich wszystkich!!!"
+    },
+    {
+      "id": "battle_erosion_20303_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20304_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Witam was!!!!!! Nalegam, byście skosztowali tejże zupy!!!!"
+    },
+    {
+      "id": "battle_erosion_20304_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Ewerrgh… K-komu zupy…?"
+    },
+    {
+      "id": "battle_awaken_20305_1",
+      "desc": "E.G.O Activation",
+      "dlg": "A teraz czas na życzenia!\nJa życzę sobie, by ten kamień obił wam porządnie lica!"
+    },
+    {
+      "id": "battle_erosion_20305_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Życzenia należy składać… całym swym sercem… Inaczej spadnie na was niedola…"
+    },
+    {
+      "id": "battle_awaken_20306_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Jaki kolor widzą twe oczy w tej iskrze prądu?!"
+    },
+    {
+      "id": "battle_erosion_20306_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Proszę, przestańcie… przestańcie odbierać mi rzeczy…"
+    },
+    {
+      "id": "battle_awaken_20307_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Nasiąknięty krwią was wszystkich… tak…!\nZakwitnij! Zakwitnij w euforii, oh zakwitnij!"
+    },
+    {
+      "id": "battle_erosion_20307_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nie znasz naszego pragnienia! Odbiorę ci krew, jeśli będę musieć…\ni… i zakwitnę… czerwieną, jakieś świat nie widział!"
+    },
+    {
+      "id": "battle_awaken_20308_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Heheh! Wyglądacie na pełnych życzeń… Które z nich chcecie spełnić pierwsze?!"
+    },
+    {
+      "id": "battle_erosion_20308_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Hooh… nadzieje, pragnienia, wszystkie te bolączki zostaną rozbite…! A ja wyzwolę was z ich brzemia!"
+    },
+    {
+      "id": "battle_awaken_20309_1",
+      "desc": "E.G.O Activation",
+      "dlg": "<i>SŁUGA ARKAN!</i>"
+    },
+    {
+      "id": "battle_awaken_20309_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Usłysz me wołanie, o błękicie ponad sprawiedliwość i szkarłacie ponad miłość…"
+    },
+    {
+      "id": "battle_awaken_20309_3",
+      "desc": "E.G.O Activation",
+      "dlg": "W imię tych, pogrzebanych przez los…"
+    },
+    {
+      "id": "battle_awaken_20309_4",
+      "desc": "E.G.O Activation",
+      "dlg": "Składam przysięgę światłości."
+    },
+    {
+      "id": "battle_awaken_20309_5",
+      "desc": "E.G.O Activation",
+      "dlg": "Naznacz nienawistne stworzenia, które stawiają się przed nami…"
+    },
+    {
+      "id": "battle_awaken_20309_6",
+      "desc": "E.G.O Activation",
+      "dlg": "Niech twa siła złączy się z moją,\nbyśmy pokazały wszystkim moc miłości…"
+    },
+    {
+      "id": "battle_erosion_20309_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nienawistnym stworzeniom na mej ścieżcie…"
+    },
+    {
+      "id": "battle_erosion_20309_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nngh… istotom ani dobrym, ani złym,\nistotom, które zasługują na czystkę…"
+    },
+    {
+      "id": "battle_erosion_20309_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Pokażę im wielką moc miłości…"
+    },
+    {
+      "id": "battle_erosion_20309_4",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Hah. Nic z tego nie ma znaczenia."
+    },
+    {
+      "id": "battle_erosion_20309_5",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Ktoś musi tu grać rolę złoczyńcy. I to będziecie wy."
+    },
+    {
+      "id": "battle_erosion_20309_6",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Jestem wybranką… Nie jestem taka jak wy… Ja jestem inna!!!"
+    }
+  ]
+}

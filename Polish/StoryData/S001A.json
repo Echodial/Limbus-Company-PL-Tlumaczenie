@@ -1,0 +1,345 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ciemny Las",
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Nie rozumiem. To z tym Lew miała taki problem?"
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "H-hej, chwilunia!"
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Wiem że to troche dziwnie brzmi z ust osoby z którą właśnie walczyliście, ale jestem pewny że możemy się jakoś doga—"
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "……!"
+    },
+    {
+      "id": 4,
+      "model": "이상",
+      "content": "Ta sytuacja…"
+    },
+    {
+      "id": 5,
+      "model": "이상",
+      "content": "…jest nieidealna."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Haa… Wiedziałam że walka z nimi była głupim pomysłem."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "……"
+    },
+    {
+      "id": -1,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Ej Lwie, ile jescze planujesz leżeć sobie na podłodze? Mamy mało czasu."
+    },
+    {
+      "id": -1,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "…Wiesz co? W sumie racja, nie ma co to przeciągać."
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Jaja sobie robicie? Na nawet nie…"
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "……"
+    },
+    {
+      "id": 10,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Co do diabła się tu wyrabia? Mówiliście że będziecie dla mnie walczyć!>"
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "Obiecaliśmy że będziemy walczyć, nie wygrywać."
+    },
+    {
+      "id": 12,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Co…>"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Wygląda na to, że zostałam tylko ja i ty."
+    },
+    {
+      "id": 14,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Oookej. Czyli właśnie na to czekałaś?>"
+    },
+    {
+      "id": 15,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Na pewno masz jakiegoś asa w rękawie, prawda?>"
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Cóż… nie nazwałabym tego asem. Raczej…"
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Chodzi o podążanie za gwiazdą."
+    },
+    {
+      "id": 18,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "Co to miało być, jakiś legion samobójców? Bo dobra walka to na pewno nie była."
+    },
+    {
+      "id": 19,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Co… no i co ja mam teraz zrobić?>"
+    },
+    {
+      "id": 20,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Przyjechali tu jakby wygrana była dla nich tylko formalnością a potem popadali jak muchy…>"
+    },
+    {
+      "id": 21,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Aah… Wogóle już nic nie pamiętam od kiedy powiedziałom to, o co ona mnie poprosiła.>"
+    },
+    {
+      "id": -1,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Aah~ I took my sweet time. Let’s finish this for real!"
+    },
+    {
+      "id": 22,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Czy to… jest mój koniec?>"
+    },
+    {
+      "id": 23,
+      "teller": "???",
+      "title": "???",
+      "content": "Przekaż to wiedze Wężowi, fałszywy lwie."
+    },
+    {
+      "id": 24,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Tego nurtu nie da się zatrzymać."
+    },
+    {
+      "id": 25,
+      "model": "사자",
+      "teller": "Lew",
+      "title": "???",
+      "content": "Grh… GAAAH!!"
+    },
+    {
+      "id": 26,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Czerwony…? Ale czemu?"
+    },
+    {
+      "id": 27,
+      "model": "늑대",
+      "teller": "Wilk",
+      "title": "???",
+      "content": "Argh…"
+    },
+    {
+      "id": 28,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Czy wiesz czemu rozczłonkowałem tylko dwóch z was?"
+    },
+    {
+      "id": 29,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Ponieważ wystarczy tylko jeden żeby ich z tąd zabrać."
+    },
+    {
+      "id": 30,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "A ty jesteś jedyną osobą która jest chętna wogóle im pomóc."
+    },
+    {
+      "id": 31,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "…Czerwony Wzrok."
+    },
+    {
+      "id": 32,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Nie gap się tak na mnię. W porównaniu do waszych czynów to jest nic."
+    },
+    {
+      "id": 33,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Z ranami takimi jak te, jestem pewny że wasz przyódca uwierzy że daliście z siebię wszystko. Pomyślcie o nich jako medale za waleczność."
+    },
+    {
+      "id": 34,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "No chyba że…"
+    },
+    {
+      "id": 35,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Wolicie dostać te medale pośmiertnie?"
+    },
+    {
+      "id": 36,
+      "model": "표범",
+      "teller": "Pantera",
+      "title": "???",
+      "content": "……"
+    },
+    {
+      "id": 37,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Kim ty… Czy ty jesteś jednym z nich?>"
+    },
+    {
+      "id": 38,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Przyszedłeś za późno, oni wszyscy już…>"
+    },
+    {
+      "id": 39,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Nikt nie jest na nic za późno, Dante."
+    },
+    {
+      "id": 40,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Potrzebujemy po prostu jednej rzeczy…"
+    },
+    {
+      "id": 41,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Troche czasu do cofnięcia."
+    },
+    {
+      "id": 42,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<…!>"
+    },
+    {
+      "id": 43,
+      "content": "<color=#b01c37>Nagle zostałom kompletnie przytłoczone bólem z mojej klatki piersiowej, jakby moje serce było rozrywane na strzępy.</color>"
+    },
+    {
+      "id": 44,
+      "content": "<color=#b01c37>Zaraz po zaczęłom czuć podobny ból z żeber, jelit, żołądka, oraz płuc.</color>"
+    },
+    {
+      "id": 45,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<AAAAAAAH!!!>"
+    },
+    {
+      "id": 46,
+      "content": "Porwane w potoku cierpienia i zgniatane z każdej strony, wydałom mrożący krew w żyłach wrzask."
+    },
+    {
+      "id": 47,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Ja",
+      "content": "<Ty… Grgh…>"
+    },
+    {
+      "id": 48,
+      "content": "W moich ostatnich momentach świadomości, jedyną rzecz którą byłom w stanie zobaczyć…"
+    },
+    {
+      "id": 49,
+      "content": "…były rozerwane na strzępy trupy zekonstruujące się i wstające spowrotem na nogi."
+    },
+    {
+      "id": 50,
+      "model": "눈이붉은자",
+      "teller": "Człowiek z Czerwonymi Oczami",
+      "title": "???",
+      "content": "Twoje cierpienia dopiero się zaczęły, Dante."
+    },
+    {
+      "id": 51,
+      "content": "Oraz głos człowieka z Czerwonymi Oczami."
+    }
+  ]
+}

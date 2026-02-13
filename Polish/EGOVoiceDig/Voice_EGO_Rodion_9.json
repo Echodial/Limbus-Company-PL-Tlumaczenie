@@ -1,0 +1,79 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20901_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Nie mogłam niczego cofnąć…"
+    },
+    {
+      "id": "battle_awaken_20902_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Jeśli gorliwy płomień może odmrozić oblodzone serce…"
+    },
+    {
+      "id": "battle_awaken_20903_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Cóż, kiedyś muszę wrócić z szczypiącego zimna."
+    },
+    {
+      "id": "battle_erosion_20902_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Obróćcie się w prochy… i pył…"
+    },
+    {
+      "id": "battle_erosion_20903_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Pozostań na zimnie… a nie poczujesz bólu."
+    },
+    {
+      "id": "battle_awaken_20904_1",
+      "desc": "E.G.O Activation",
+      "dlg": "To naprawde mocno lepi... Nie ma opcji że tego unikniecie!"
+    },
+    {
+      "id": "battle_erosion_20904_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Hmm... Ach, ble. Nie jesteście warci stania się moją perłą!"
+    },
+    {
+      "id": "battle_awaken_20905_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Rozkaz twojej egzekucji... zostanie wykonany."
+    },
+    {
+      "id": "battle_erosion_20905_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Wszyscy zostaliście skazani na egzekucję."
+    },
+    {
+      "id": "battle_awaken_20906_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Musze jako jedyna tańczyć na tym parkiecie...\nWięc jak już odetnę ci nogi przy kostkach...!"
+    },
+    {
+      "id": "battle_erosion_20906_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Ahahaha! Będe rżnąć aż do kości...\nZrobię wszystko dla tej krwistej, żywej czerwieni...!"
+    },
+    {
+      "id": "battle_awaken_20907_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Dalej misiu~ Tańcz jak ja! Ta-da!"
+    },
+    {
+      "id": "battle_erosion_20907_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Dalej Rodya. Rań jak ja. Huhuhu, ta-da!"
+    },
+    {
+      "id": "battle_awaken_20908_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Powieście ich i spalcie ich ciała. Niech z ich kości nie zostanie iskra mała."
+    },
+    {
+      "id": "battle_erosion_20908_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "I który to będzie? Co o tym myślicie? Który z was najwdzięczniej utraci swe życie?"
+    }
+  ]
+}

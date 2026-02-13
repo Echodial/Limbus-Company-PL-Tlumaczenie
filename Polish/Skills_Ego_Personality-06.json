@@ -1,0 +1,1155 @@
+{
+  "dataList": [
+    {
+      "id": 2060411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %HP o 10 HP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillTail] Ulecz 10 SP dla dwóch sojuszników z najniższą wartością SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %HP o 12 HP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillTail] Ulecz 12 SP dla dwóch sojuszników z najniższą wartością SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalEndSkill] Ulecz sojusznika z najniższym %HP o 6 HP; Ulecz sojusznika z najniższą wartością SP o 6 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %HP o 15 HP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillTail] Ulecz 15 SP dla dwóch sojuszników z najniższą wartością SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalEndSkill] Ulecz sojusznika z najniższym %HP o 8 HP; Ulecz sojusznika z najniższą wartością SP o 8 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Żrąca Piana",
+          "abName": "Ambling Pearl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Burst] równe (Rezonans Obżarstwa /2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Żrąca Piana",
+          "abName": "Ambling Pearl",
+          "desc": "[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Burst] równe (Rezonans Obżarstwa /2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 [ShamrockTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Żrąca Piana",
+          "abName": "Ambling Pearl",
+          "desc": "[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku;\nPrzy 25%- HP, zyskaj zamiast tego +2 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Burst] równe (Rezonans Obżarstwa /2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [ShamrockTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Żrąca Piana",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTargets the unit with the least HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż Ilość [Burst] równe (Rezonansu Obżarstwa /3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz wartość HP równą 20% zadanych obrażeń<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Żrąca Piana",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP\n[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż Ilość [Burst] równe (Rezonansu Obżarstwa /3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz wartość HP równą 30% zadanych obrażeń<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Żrąca Piana",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP\n[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku\nAt 25%- HP, additional +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż Ilość [Burst] równe (Rezonansu Obżarstwa /3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz wartość HP równą 50% zadanych obrażeń<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gorycz z Grot",
+          "abName": "Blubbering Toad",
+          "desc": "Jeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 20%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Gorycz z Grot",
+          "abName": "Blubbering Toad",
+          "desc": "Jeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">25%</style>)\n<style=\"highlight\">- Przy 4+ najwyższego Rezonansu, zmień kalkulacje obrażeń na: zadaj +(5 + (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 35%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] and <style=\"highlight\">+2 Ilość [Vibration]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gorycz z Grot",
+          "abName": "Blubbering Toad",
+          "desc": "Jeśli cel posiada [Vibration], zadaj +(<style=\"highlight\">5 +</style> (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">30%</style>)\n- Przy 4+ najwyższego Rezonansu, zmień kalkulacje obrażeń na: zadaj +(<style=\"highlight\">7.5 +</style> (suma Nasilenia oraz Ilości [Vibration] na celu)/<style=\"highlight\">1.5</style>)% więcej obrażeń (maks <style=\"highlight\">40%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] and <style=\"highlight\">+3</style> Ilość [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gorycz z Grot",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 25%)\n- Przy 4+ najwyższego Rezonansu, podnieś sufit tego efektu do (maks 35%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] and +3 Ilość [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Gorycz z Grot",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">30%</style>)\n- Przy 4+ najwyższego Rezonansu, <style=\"highlight\">zmień kalkulacje obrażeń na: zadaj +(5 + (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] and +3 Ilość [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gorycz z Grot",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli cel posiada [Vibration], zadaj +(<style=\"highlight\">5</style> + (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">40%</style>)\n- Przy 4+ najwyższego Rezonansu, zmień kalkulacje obrażeń na: zadaj +(<style=\"highlight\">7.5</style> + (suma Nasilenia oraz Ilości [Vibration] na celu)/<style=\"highlight\">1.5</style>)% więcej obrażeń (maks <style=\"highlight\">50%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">6</style> [Vibration] and <style=\"highlight\">+6</style> Ilość [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst] za każde 2 Rezonansu Obżarstwa (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "<style=\"highlight\">Jeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet</style>\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst] za każde 2 Rezonansu Obżarstwa (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przypadkowo nałóż [Laceration] równe (wartość Prędkości tej Jednostki/2) pomiędzy celami tej umiejętności (maks 3)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przypadkowo nałóż [Burst] równe (wartość Prędkości tej Jednostki/2) pomiędzy celami tej umiejętności (maks 3)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "Jeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 2 [TakeHpHealReduce] na początku następnej tury</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst] za każde 2 Rezonansu Obżarstwa (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przypadkowo nałóż [Laceration] równe wartości Prędkości tej Jednostki pomiędzy celami tej umiejętności (maks 7)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przypadkowo nałóż [Burst] równe wartości Prędkości tej Jednostki pomiędzy celami tej umiejętności (maks 7)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +1% obrażeń za każde [Laceration] na celu (Max 20%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +1% obrażeń za każde [Burst] na celu (Max 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet</style>\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +1% obrażeń za każde [Laceration] na celu <style=\"highlight\">(maks 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +1% obrażeń za każde [Burst] na celu <style=\"highlight\">(maks 30%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n<style=\"highlight\">[BeforeAttack] Przy 4+ Rezonansu Obżarstwa lub Pożądania, zyskaj +1 Wagi Ataku</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 3 [TakeHpHealReduce] na początku następnej tury</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +1% obrażeń za każde [Laceration] na celu (maks 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +1% obrażeń za każde [Burst] na celu (maks 30%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Łzy Zbeżczeszczonej Krwi - Wprowadzenie [始]",
+          "abName": "Yinglong",
+          "desc": "[CantDuel]\nIgnoruje Defensywne Umiejętności\nTa Umiejętność nie udeża przeciwnika\n[EndSkill] Zyskaj [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta jednostka traci HP równe Finalnej Mocy tej Umiejętności\n- Stracone w ten sposób HP nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Łzy Zbeżczeszczonej Krwi - Wprowadzenie [始]",
+          "abName": "Yinglong",
+          "desc": "[CantDuel]\nIgnoruje Defensywne Umiejętności\nTa Umiejętność nie udeża przeciwnika\n[EndSkill] Zyskaj [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta jednostka traci HP równe Finalnej Mocy tej Umiejętności\n- Stracone w ten sposób HP nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Łzy Zbeżczeszczonej Krwi - Wprowadzenie [始]",
+          "abName": "Yinglong",
+          "desc": "[CantDuel]\nIgnoruje Defensywne Umiejętności\nTa Umiejętność nie udeża przeciwnika\n[EndSkill] Zyskaj [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta jednostka traci HP równe Finalnej Mocy tej Umiejętności\n- Stracone w ten sposób HP nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060812,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Łzy Zbeżczeszczonej Krwi - Zakończenie [終]",
+          "abName": "Yinglong",
+          "desc": "Ta umiejętność nie zużywa Zasobów E.G.O\n[CantDuel]\nZadaj +2% obrażeń za każde [DragonLance] na sobie (maks 6%)\nZadaj +4% obrażeń za każde [CondensedBlood] na sobie (maks 20%)\n[WhenUse] If main target has 5+ [Burst], +1 Mocy Monet\n[WhenUse] Przy 3+ [CondensedBlood], zyskaj +1 Wagi Ataku oraz +1 Mocy Bazowej\n[EndSkill] Jednostka ta traci całe [DragonLance] i [CondensedBlood] na sobie, po czym umiera<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Łzy Zbeżczeszczonej Krwi - Zakończenie [終]",
+          "abName": "Yinglong",
+          "desc": "Ta umiejętność nie zużywa Zasobów E.G.O\n[CantDuel]\nZadaj <style=\"highlight\">+3%</style> obrażeń za każde [DragonLance] na sobie (maks <style=\"highlight\">9%</style>)\nZadaj <style=\"highlight\">+6%</style> obrażeń za każde [CondensedBlood] na sobie (maks <style=\"highlight\">30%</style>)\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 5 [Burst] na głównym celu (maks 2)</style>\n[WhenUse] Przy 3+ [CondensedBlood], zyskaj +1 Wagi Ataku oraz +1 Mocy Bazowej\n<style=\"highlight\">- Przy 4+ [CondensedBlood], zamiast tego zyskaj +2 Wagi Ataku oraz +2 Mocy Bazowej</style>\n[EndSkill] Jednostka ta traci całe [DragonLance] i [CondensedBlood] na sobie, po czym umiera",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Łzy Zbeżczeszczonej Krwi - Zakończenie [終]",
+          "abName": "Yinglong",
+          "desc": "Ta umiejętność nie zużywa Zasobów E.G.O\n[CantDuel]\nZadaj +3% obrażeń za każde [DragonLance] na sobie (maks 9%)\nZadaj +6% obrażeń za każde [CondensedBlood] na sobie (maks 30%)\n[WhenUse] +1 Mocy Monet za każde 5 [Burst] na głównym celu (maks <style=\"highlight\">3</style>)\n[WhenUse] Przy 3+ [CondensedBlood], zyskaj +1 Wagi Ataku oraz +1 Mocy Bazowej\n- Przy 4+ [CondensedBlood], zamiast tego zyskaj +2 Wagi Ataku oraz +2 Mocy Bazowej\n<style=\"highlight\">- Przy 5+ [CondensedBlood],zyskaj zamiast tego +3 Wagi Ataku oraz +3 Mocy Bazowej</style>\n[EndSkill] Jednostka ta traci całe [DragonLance] i [CondensedBlood] na sobie, po czym umiera",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Łzy Zbeżczeszczonej Krwi - Wprowadzenie [始]",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[BeforeAttack] -2 Mocy Bazowej za każdą Zkruszoną Monetę (maks -8)\n[EndSkill] Zyskaj [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Łzy Zbeżczeszczonej Krwi - Wprowadzenie [始]",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[BeforeAttack] -2 Mocy Bazowej za każdą Zkruszoną Monetę (maks -8)\n[EndSkill] Zyskaj [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Łzy Zbeżczeszczonej Krwi - Wprowadzenie [始]",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n<style=\"highlight\">- Przy 6+ najwyższego Rezonansu, zamiast tego zyskaj +2 Wagi Ataku</style>\n[BeforeAttack] -2 Mocy Bazowej za każdą Zkruszoną Monetę (maks -8)\n[EndSkill] Zyskaj [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chciałbym Być Sobą [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Zyskaj 2 [Breath]\n[BeforeAttack] Przy 5+ (Suma Nasilania oraz Ilości [Breath] na sobie), zyskaj +1 Mocy Finalnej\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing], zadaj +15% obrażeń\n[BeforeAttack] Jeśli ta jednostka posiada [SeniorCianjing], zadaj +27% obrażeń\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka posiada [Cianjing], zadaj +(Nasilenie [Breath] / 2)% obrażeń przy Trafieniu Krytycznym (maks 15%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [SeniorCianjing], zadaj +((Suma Nasilania oraz Ilości [Breath] na sobie) / 2)% obrażeń przy Trafieniu Krytycznym (maks 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chciałbym Być Sobą [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Zyskaj <style=\"highlight\">3</style> [Breath]\n[BeforeAttack] <style=\"highlight\">zyskaj +1 Mocy Finalnej za każde 5 (Suma Nasilania oraz Ilości [Breath] na sobie) (maks 2)</style>\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing], zyskaj <style=\"highlight\">+1 Wagi Ataku</style> oraz zadaj +15% obrażeń\n[BeforeAttack] Jeśli ta jednostka posiada [SeniorCianjing], zyskaj <style=\"highlight\">+2 Wagi Ataku</style> oraz zadaj +27% obrażeń\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka posiada [Cianjing], zadaj +(Nasilenie [Breath] / 2)% obrażeń przy Trafieniu Krytycznym (maks <style=\"highlight\">20</style>%)"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [SeniorCianjing], zadaj +((Suma Nasilania oraz Ilości [Breath] na sobie) / 2)% obrażeń przy Trafieniu Krytycznym (maks <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chciałbym Być Sobą [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Zyskaj <style=\"highlight\">4</style> [Breath]\n[BeforeAttack] zyskaj +1 Mocy Finalnej za każde 5 (Suma Nasilania oraz Ilości [Breath] na sobie) (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Jeśli ta jednostka nie posiada [Cianjing] ani [SeniorCianjing], zwróć połowę SP oraz Zasobów E.G.O zużytych przez tą umiejętność (zaokrąglone w dół)</style>\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing], zyskaj +1 Wagi Ataku oraz zadaj +<style=\"highlight\">25</style>% obrażeń\n[BeforeAttack] Jeśli ta jednostka posiada [SeniorCianjing], zyskaj +2 Wagi Ataku oraz zadaj +<style=\"highlight\">45</style>% obrażeń\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka posiada [Cianjing], zadaj +(<style=\"highlight\">Nasilenie [Breath]</style>)% obrażeń przy Trafieniu Krytycznym (maks 20%)"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [SeniorCianjing], zadaj +(<style=\"highlight\">Suma Nasilania oraz Ilości [Breath] na sobie</style>)% obrażeń przy Trafieniu Krytycznym (maks 40%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chciałbym Być Sobą [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nLosowe Cele\n[WhenUse] Zyskaj 2 [Breath] oraz +2 Ilość [Breath]\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], +1 Mocy Monet\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 10% zadanych obrażeń (maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 15% zadanych obrażeń (maks 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [Cianjing], zadaj +(Nasilenie [Breath] / 2)% obrażeń przy Trafieniu Krytycznym (maks 20%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [SeniorCianjing], zadaj +((Suma Nasilania oraz Ilości [Breath] na sobie) / 2)% obrażeń przy Trafieniu Krytycznym (maks 40%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 25% zadanych obrażeń (maks 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chciałbym Być Sobą [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nLosowe Cele\n[WhenUse] Zyskaj <style=\"highlight\">3</style> [Breath] and +<style=\"highlight\">3</style> Ilość [Breath]\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], <style=\"highlight\">zyskaj +1 Wagi Ataku, +1 Mocy Bazowej</style>, oraz +1 Mocy Monet\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 10% zadanych obrażeń (maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 15% zadanych obrażeń (maks 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [Cianjing], zadaj +(Nasilenie [Breath] / 2)% obrażeń przy Trafieniu Krytycznym (maks <style=\"highlight\">30</style>%)"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [SeniorCianjing], zadaj +((Suma Nasilania oraz Ilości [Breath] na sobie) / 2)% obrażeń przy Trafieniu Krytycznym (maks <style=\"highlight\">60</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 25% zadanych obrażeń (maks 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chciałbym Być Sobą [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nLosowe Cele\n[WhenUse] Zyskaj <style=\"highlight\">4</style> [Breath] and +<style=\"highlight\">4</style> Ilość [Breath]\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zyskaj +<style=\"highlight\">2</style> Wagi Ataku, +<style=\"highlight\">2</style> Mocy Bazowej, oraz +<style=\"highlight\">2</style> Mocy Monet\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 10% zadanych obrażeń (maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 15% zadanych obrażeń (maks 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [Cianjing], zadaj +(<style=\"highlight\">Nasilenie [Breath]</style>)% obrażeń przy Trafieniu Krytycznym (maks 30%)"
+                },
+                {
+                  "desc": "Jeśli ta jednostka posiada [SeniorCianjing], zadaj +(<style=\"highlight\">Suma Nasilania oraz Ilości [Breath] na sobie</style>)% obrażeń przy Trafieniu Krytycznym (maks 60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking] <style=\"highlight\">oraz +2 Ilości [Sinking]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Pychy równe 25% zadanych obrażeń (maks 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 1010311,
+      "name": "Natchniony",
+      "desc": "Wygrywając starcie, zyskaj +1 Ilości [Breath].\n+1 Mocy Monet za każde 5 Ilości [Breath]. (Maks 3)"
+    },
+    {
+      "id": 1020211,
+      "name": "Automatyczne Ładowanie",
+      "desc": "Zyskaj +1 Ilości [Charge] po ataku.\nLosowy sojusznik zyskuje +1 Ilości [Charge] after an attack."
+    },
+    {
+      "id": 1050311,
+      "name": "Wytrwały Duch",
+      "desc": "Gdy ta jednostka zostanie zaatakowana, zyskuje +1 Ilości [Charge]. (Do 6 razy)\nPo przegraniu Starcia, zyskaj +1 Ilości [Charge]. (Do 6 razy, liczone niezależnie od przyjętych uderzeń)"
+    },
+    {
+      "id": 1070411,
+      "name": "Cholercia…",
+      "desc": "Kiedy sojusznik zostanie pokonany, strać 10 SP i zyskaj 1 [HitResultUp] na początku następnej tury.\n+1 Mocy Monet jeśli 4 lub więcej żywych jednostek w tym zespole, licząc tą jednostkę, są 'Fanatykami N Corpu'."
+    },
+    {
+      "id": 1100211,
+      "name": "Pogromca",
+      "desc": "Ostatnia Moneta ostatniej Zdolności w łańcuchu zada +20% obrażeń.\nKiedy inna jednostka zyskuje Ilość [Breath], ta jednostka ma 50% szans zyskać +1 Ilości [Breath].",
+      "summary": "The last Coin on the last Skill in the chain deals +20% damage. Gain additional Ilości [Breath]"
+    },
+    {
+      "id": 1020411,
+      "name": "Gwizdy",
+      "desc": "Na początku fazy walki, ulecz 2 sojuszników z najniższym SP o 15 SP.\nJeśli któryś z tych sojuszników jest 'Fanatykiem N Corpu', przyznaj mu też 2 [AssemblePersonality]."
+    },
+    {
+      "id": 1020431,
+      "name": "Szepty",
+      "desc": "Na początku fazy walki, ulecz 1 sojusznika z najniższym SP o 15 SP.\nJeśli ten sojusznik jest 'Fanatykiem N Corpu', przyznaj mu też 2 [AssemblePersonality]."
+    },
+    {
+      "id": 1100511,
+      "name": "Płomień Szaleństwa",
+      "desc": "Wygrywanie Starć i pokonywanie przeciwników przyznaje o połowę mniej SP.\nJeśli 4 lub więcej żywych jednostek w tym zespole, licząc tą jednostkę, są 'Fanatykami N Corpu', zadają one +10% obrażeń."
+    },
+    {
+      "id": 1070311,
+      "name": "Wypasanie",
+      "desc": "Zyskaj (Rezon. Gniewu) Ilości [Charge] na początku następnej tury.\nMając 5+ Ilości [Charge], zyskaj 1 [Agility] i [Enhancement].\nEfekt zawsze aktywny: Na początku etapu, zyskaj +3 [Bullet]."
+    },
+    {
+      "id": 1050611,
+      "name": "Aktywacja Systemów Ciśnienia Kombinezonu rrR-#4",
+      "desc": "Na końcu tury, zyskaj na początku następnej tury +2 Maks Prędkości (Najwyżej 6) za każde 5 Ilości [Charge].\nNa początku tury, mając 5+ Ilości [Charge], najbardziej wysunięty na prawo Żeton Zdolności tej jednostki zyskuje 3 [Aggro]."
+    },
+    {
+      "id": 1080511,
+      "name": "Napełniający Płyn",
+      "desc": "Jeśli tej jednostce nie uda się zadać podczas tury obrażeń HP Zdolnościami Atakującym, zyskuje Tarczę równą 10% Maks HP na początku następnej tury. (Maks 30)"
+    },
+    {
+      "id": 1080211,
+      "name": "Skupienie Fal Mózgowych",
+      "desc": "Na początku fazy walki, zyskaj (Rezon. Przygnębienia / 3) [Enhancement].\nJeśli ta jednostka nie zada żadnych obrażeń w tej turze, traci na końcu tury 15 SP."
+    },
+    {
+      "id": 1040511,
+      "name": "Diabelsko Ostra Klinga Drąca Rzeczywistość W Drobny Mak",
+      "desc": "Po pokonaniu Przeciwnika, zyskaj +3 Ilości [Charge] (3 razy na turę)"
+    },
+    {
+      "id": 1040531,
+      "name": "Ostrze Odbicia Rzeczywistości - Wersja #7",
+      "desc": "Kiedy Sojusznik z najniższym Maks HP pokona Przeciwnika, zyskuje on +3 Ilości [Charge] (raz na turę)"
+    },
+    {
+      "id": 1060611,
+      "name": "Mistrzowskie Porządkowanie",
+      "desc": "Mając 5+ Ilości [Charge] na początku fazy walki, zyskaj 2 [Agility] na początku następnej tury. <style=\"highlight\">Mając 10+ Ilości [Charge], zyskaj 1 dodatkowe [Agility].</style>"
+    }
+  ]
+}

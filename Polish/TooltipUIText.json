@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "id": "unit_info_tooltip_status_0",
+      "content": "Maksymalne HP"
+    },
+    {
+      "id": "unit_info_tooltip_status_1",
+      "content": "Zakres Prędkości"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_0",
+      "content": "Odporność na Cięcia"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_1",
+      "content": "Odporność na Przebicia"
+    },
+    {
+      "id": "unit_info_tooltip_attack_resist_2",
+      "content": "Odporność na Uderzenia"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_0",
+      "content": "Odporność na Złość"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_1",
+      "content": "Odporność na Pragnienie"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_2",
+      "content": "Odporność na Lenistwo"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_3",
+      "content": "Odporność na Obżarstwo"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_4",
+      "content": "Odporność na Przygnębienie"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_5",
+      "content": "Odporność na Pyche"
+    },
+    {
+      "id": "unit_info_tooltip_attribute_resist_6",
+      "content": "Odporność na Zazdrość"
+    },
+    {
+      "id": "unit_info_tooltip_skill_count",
+      "content": "Ilość Kopii Danej Umiejętności w Puli"
+    },
+    {
+      "id": "unit_info_tooltip_targetting_count",
+      "content": "Waga Ataku"
+    },
+    {
+      "id": "unit_info_tooltip_targetting_count_desc",
+      "content": "Ilość Żetonów Umiejętności Które Może Namieżyć Ten Atak"
+    },
+    {
+      "id": "unit_info_tooltip_ego_resource",
+      "content": "Ilość Zasobów E.G.O Wymaganych do Użycia Tej Umiejętności"
+    },
+    {
+      "id": "tooltip_ego_resource_ui",
+      "content": "Ilość Posiadanych Zasobów E.G.O"
+    }
+  ]
+}

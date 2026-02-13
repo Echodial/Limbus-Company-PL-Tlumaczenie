@@ -1,0 +1,269 @@
+{
+  "dataList": [
+    {
+      "id": 9900401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Słaby Cios",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9900501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9900601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezgrabny Dzig",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9900701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9900801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezgrabny Dzig",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9900901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Słaby Cios",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezgrabny Dzig",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezgrabny Dzig",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Słaby Cios",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Słaby Cios",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uderzenie",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ciężki Cios",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blok",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9901901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9902001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Słaby Cios",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9902101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezgrabny Dzig",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 9902201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezdarny Siek",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9902301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Niezgrabny Dzig",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9902401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ciężki Cios",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9902501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uderzenie",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9902601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Słaby Cios",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

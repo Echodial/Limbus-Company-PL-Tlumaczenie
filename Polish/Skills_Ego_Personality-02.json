@@ -1,0 +1,858 @@
+{
+  "dataList": [
+    {
+      "id": 2020511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Wymień 2 [Combustion] na celu na 1 [DefenseDown] (Maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Wymień 2 [Combustion] na celu na 1 [DefenseDown] (Maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku\nPrzy 6+ (Absolutnego Rezonansu Porządania), zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Wymień 2 [Combustion] na celu na 1 [DefenseDown] (Maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Wymień 2 [Combustion] na celu na 1 [DefenseDown] (Maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Wymień 2 [Combustion] na celu na 1 [DefenseDown] (Maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku\nPrzy 6+ (Absolutnego Rezonansu Porządania), zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Wymień 2 [Combustion] na celu na 1 [DefenseDown] (Maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nieustanność",
+          "abName": "Time Duck",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(2.5 x (Różnica Prędkości))% więcej obrażeń (Maks 25%)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration] oraz +5 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zetnij Maksymalną Prędkość celu w pół na czas następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nieustanność",
+          "abName": "Time Duck",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">3.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">35%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n<style=\"highlight\">- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Potency Nałóżed (Maks 5)</style>\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration] oraz +5 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zetnij Maksymalną Prędkość celu w pół na czas następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nieustanność",
+          "abName": "Time Duck",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">50%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe (<style=\"highlight\">2</style> x (Najwyższy Rezonans)) (Maks <style=\"highlight\">10</style>)\n- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Potency Nałóżed (Maks <style=\"highlight\">10</style>)\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">10</style> [Vibration] oraz <style=\"highlight\">+10</style> Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zetnij Maksymalną Prędkość celu w pół na czas następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nieustanność",
+          "abName": "Time Duck",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(1.5 x (Różnica Prędkości))% więcej obrażeń (Maks 12%)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż 3 [Vibration] Potency<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] oraz +3 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zetnij Maksymalną Prędkość celu w pół na czas następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nieustanność",
+          "abName": "Time Duck",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">2</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">16%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 4)\n<style=\"highlight\">- [BeforeAttack] Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż +2 Ilości [Vibration]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] oraz +3 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zetnij Maksymalną Prędkość celu w pół na czas następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nieustanność",
+          "abName": "Time Duck",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">2.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">20%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks <style=\"highlight\">5</style>)\n- [BeforeAttack] Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, <style=\"highlight\">Nałóż Ilości [Vibration] by [Vibration] Potency Nałóżed (Maks 5)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">5</style> [Vibration] oraz <style=\"highlight\">+5</style> Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] na celu o 1</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zetnij Maksymalną Prędkość celu w pół na czas następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "<style=\"highlight\">Jeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety</style>\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n[BeforeAttack] Przy 4+ Rezonansu Obżarstwa lub Pożądania, zyskaj +1 Wagi Ataku</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "Jeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n<style=\"highlight\">- Jeśli tym Rezonansem był Rez. Obżarstwa, zyskaj dodatkowe +1 Wagi Ataku</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety</style>\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Snare]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] zadaj +2% więcej obrażeń za każde [Burst] na celu (Maks 30%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n<style=\"highlight\">[EndSkill] Jeśli cel zostanie Zachwiany lub Pokonany, zyskaj 1 [ShamrockResultUp] na początku następnej tury</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Snare]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] zadaj +2% więcej obrażeń za każde [Burst] na celu (Maks 60%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 4)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks <style=\"highlight\">6</style>)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zyskaj +1 Ilości [Breath]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">zadaj +(Suma Nasilenia [Breath] oraz Ilości [Breath])% więcej obrażeń przy Trafieniu Krytycznym (Maks 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 6)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +(Suma Nasilenia [Breath] oraz Ilości [Breath])% więcej obrażeń przy Trafieniu Krytycznym (Maks <style=\"highlight\">40%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% HP na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 4)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% HP na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks <style=\"highlight\">6</style>)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zyskaj +1 Ilości [Breath]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">zadaj +(Suma Nasilenia [Breath] oraz Ilości [Breath])% więcej obrażeń przy Trafieniu Krytycznym (Maks 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% HP na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 6)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +(Suma Nasilenia [Breath] oraz Ilości [Breath])% więcej obrażeń przy Trafieniu Krytycznym (Maks <style=\"highlight\">40%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rozkaz :: Załamanie",
+          "abName": "Kal'tsit",
+          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +1 Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o 15% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rozkaz :: Załamanie",
+          "abName": "Kal'tsit",
+          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">2</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n<style=\"highlight\">- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o 1.5</style>\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o <style=\"highlight\">20</style>% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rozkaz :: Załamanie",
+          "abName": "Kal'tsit",
+          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">3</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks <style=\"highlight\">25</style>%)\n- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o <style=\"highlight\">2</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o <style=\"highlight\">30</style>% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz <style=\"highlight\">15</style> SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rozkaz :: Załamanie",
+          "abName": "Kal'tsit",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą HP straconemu przez ten efekt\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rozkaz :: Załamanie",
+          "abName": "Kal'tsit",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli główny cel ma 6+ (sumy Nasilenia [Burst] oraz Ilości [Burst]), +1 Bazowej Mocy</style>\n[BeforeAttack] Przy <style=\"highlight\">3</style>+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą HP straconemu przez ten efekt\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilość [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rozkaz :: Załamanie",
+          "abName": "Kal'tsit",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">+1 Bazowej Mocy za każde 6 (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 2)</style>\n<style=\"highlight\">[BeforeAttack] Zyskaj +1 Wagi Ataku za każde 3 najwyższego Rezonansu (maks 2)</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą <style=\"highlight\">(HP stracone przez ten efekt x 2)</style>\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilość [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, zadaj +30% obrażeń</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

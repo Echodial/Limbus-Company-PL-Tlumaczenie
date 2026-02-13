@@ -1,0 +1,89 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20201_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Faust zna wszystkie wyniki."
+    },
+    {
+      "id": "battle_awaken_20202_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ta bitwa zakończy się zwycięstwem."
+    },
+    {
+      "id": "battle_awaken_20203_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Niech ta igła… Dotknie najgłębszych czeluści twego serca…"
+    },
+    {
+      "id": "battle_erosion_20202_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nawet jeśli musze zwrócić wszystko…"
+    },
+    {
+      "id": "battle_erosion_20203_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Choć tu… Przytule cię z całych sił…"
+    },
+    {
+      "id": "battle_awaken_20204_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Piorun: Maksymalny Woltaż."
+    },
+    {
+      "id": "battle_erosion_20204_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20205_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wszystko zostało zapisane. Teraz pozostało tylko... wypuścić cię na wolność."
+    },
+    {
+      "id": "battle_erosion_20205_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Prawda, prawda jest już na wyciągnięcie ręki... Heheh, Eheheheh, heheh!!!"
+    },
+    {
+      "id": "battle_awaken_20206_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Jak ja wyglądam? Prosze cię, powiedz!\nMoże mechanizm czasu poda mi odpowiedź?"
+    },
+    {
+      "id": "battle_erosion_20206_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Oto. Jesteście zatrzymani. Wasz czas przestał płynąć. I taki pozostanie."
+    },
+    {
+      "id": "battle_awaken_20207_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Podązaj za scenariuszem sztuki.\nPozostań w jego więzach, bo w nich leży prawda."
+    },
+    {
+      "id": "battle_erosion_20207_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Wynocha...! Jabłko, to cholerne jabłko...! Gdzie żeście je skitrali?!"
+    },
+    {
+      "id": "battle_awaken_20208_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Czy pamiętacie moment w którym po raz pierwszy napełniliście swoje płuca bez strachu?\nDla mnie... ten moment to teraz."
+    },
+    {
+      "id": "battle_erosion_20208_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Weź głęboki wdech... bo będzie on twoim ostatnim."
+    },
+    {
+      "id": "battle_awaken_20209_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Podczas tej podróży, w niespokojnych czasach,\nmiej nadzieje na przyszłość. Znajdź swoją własną odpowiedź."
+    },
+    {
+      "id": "battle_erosion_20209_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Przyjęto Rozkaz: Załamanie. Przejdź przez pole prochu,\nodkryj prawdziwe znaczenie samotności, i walcz bezustannie o daleką, niepewną przyszłość."
+    }
+  ]
+}

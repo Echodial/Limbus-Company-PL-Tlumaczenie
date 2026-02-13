@@ -1,0 +1,136 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Na pokładzie Mefistofolesa",
+      "model": "카론",
+      "content": "Droga Wolna. Ale Werg, Mefi mógł ich po prostu przejechać."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<…Hę?>"
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<To po co my z nimi walczyliśmy?>"
+    },
+    {
+      "id": 3,
+      "content": "Wyczuwając moją rosnącą frustracje, Wergiliusz zainterweniował."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Uspokój się, Dante."
+    },
+    {
+      "id": 5,
+      "model": "베르길리우스",
+      "content": "Nie mamy racji kazać raczkującemu dziecku biegać."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "Będziesz mieć sporo czasu żeby nauczyć się chodzić zanim każemy ci to robić."
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "No i do tego..."
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Jako kierownik… musisz nauczyć się “kierować” swoim personelem."
+    },
+    {
+      "id": 9,
+      "model": "베르길리우스",
+      "content": "A ja… jako przewodnik, decyduje o naszym celu i jak się do niego dostaniemy."
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Rozumiesz?"
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Nie kłóć się ze mną."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<…Jak mam nie kwestionować decyzji kogoś kogo ja nie znam, a on mnie nie rozumie?>"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 14,
+      "model": "베르길리우스",
+      "content": "Słyszałem tylko tykanie. Pani Faust, co próbowali powiedzieć?"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Nic ważnego."
+    },
+    {
+      "id": 16,
+      "model": "베르길리우스",
+      "content": "Bardzo rozwlekła zgoda. Następnym razem wystarczy zakiwać głową, Dante."
+    },
+    {
+      "id": 17,
+      "model": "카론",
+      "content": "No to Mefi, gaz do dechy. Juhu."
+    },
+    {
+      "id": 18,
+      "model": "베르길리우스",
+      "content": "Jak się czujesz, Charon?"
+    },
+    {
+      "id": 19,
+      "model": "카론",
+      "content": "Ekstremalna. Ekscytacja. Chyba zaczne chodzić po ścianach, zgłasza Charon."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "…Dobrze."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<No, to gdzie jedziemy?>"
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Wergiliusz, Dante pyta się o cel naszej podróży."
+    },
+    {
+      "id": 23,
+      "model": "베르길리우스",
+      "content": "Ehh… Wydaje mi się że już im to powiedziałem."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Ale gdzie *dokładnie* jedziemy?>"
+    },
+    {
+      "id": 25,
+      "content": "Z jego wzdechem, autobus zatrząsł się i zaczął jechać do przodu."
+    },
+    {
+      "id": 26
+    }
+  ]
+}

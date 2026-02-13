@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10306_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Zwij mnie Don Kichote! Jestem Małą Siostrą Środka, oraz wierną podwładną Wielkiego Brata! Miło cię poznać!"
+        },
+        {
+            "id": "lobby_morning_10306_1",
+            "desc": "Morning Greeting",
+            "dlg": "Toż piękny dzień! Czy jesteście świadomi tego gdzie planuje dziś wybrać się Wielki Brat? Zdradźcie mi wszystko co wiecie!" 
+        },
+        {
+            "id": "lobby_noon_10306_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Wielki Brat zaprośił mnie dziś na wspóly obiad!Czy planujecie do nas dołączyć? Do tego jeszcze hojnie zaoferował że weźmie rachunek na siebie!"
+        },
+        {
+            "id": "lobby_night_10306_1",
+            "desc": "Evening Greeting",
+            "dlg": "Jak jeść obiad, to tylko przy muzyce! Jak jem obiad z rodziną to zawsze czuje się jakbym była na burzliwej par-ty!"
+        },
+        {
+            "id": "smalltalk_10306_1",
+            "desc": "Chatter #1",
+            "dlg": "Definiuje prawdziwe zło jako dokuczenie członkowi gangu... Nie, rodziny Środka! A odpłacenie tym kundlom podwójną.. nie, potrójną zemstą! Właśnie tak definiuję uczciwość!"
+        },
+        {
+            "id": "smalltalk_10306_2",
+            "desc": "Chatter #2",
+            "dlg": "Nasz Wielki Brat bardzo dokładnie dba o wygląd swoich włosów. Niektórzy mówią żę uczęszcza do dość... ekskluzywnego salonu fryzjerskiego w jednym z bardziej zamożnych portów."
+        },
+        {
+            "id": "smalltalk_10306_3",
+            "desc": "Chatter #3",
+            "dlg": "Nawet jeśli siłą nie równam się z Wielkim Bratem... ciągle mnie to ciekawi. O ile tak na prawde jest ode mnie silniejszy? O sto razy? A może o tysiąc? Hm Hm!"
+        },
+        {
+            "id": "smalltalk_10306_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Ha Ha! I na co podskakiwałeś do jednego z nas? Teraz nadszedł czas zapłaty!"
+        },
+        {
+            "id": "smalltalk_10306_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Hej ho~! Czytaj uważnie, albowiem to jest Księga Porachunków. Oto misje powierzone nam w celu osiąnięcia sprawiedliwości.\nSpójż, tu nawet widnieje twoje imie. Hmm, pytasz się czy moge je stąd wykreślić? Ależ naturalnie! ... Musiałabym cię tylko zabić ."
+        },
+        {
+            "id": "neglect_10306_1",
+            "desc": "Idle",
+            "dlg": "Utrzymywanie księgi w schludnym stanie jest dla mnie bardzo ważne, albowiem pewniego dnia planuje być Wielką... nie, Starszą Siostrą!"
+        },
+        {
+            "id": "gacksung_10306_1",
+            "desc": "Uptying",
+            "dlg": "Sam Wielki Brat polecił mi te zadanie! Haha, Hej-Ho! W takim razie musze spełnić jego oczekiwania!"
+        },
+        {
+            "id": "formation_10306_1",
+            "desc": "Deployment",
+            "dlg": "A więc mamy tu kundla, który prosi się o łomot?!"
+        },
+        {
+            "id": "battleentry_10306_1",
+            "desc": "Stage Entry",
+            "dlg": "Pozwól mi się tym zająć!"
+        },
+        {
+            "id": "battle_select_10306_1",
+            "desc": "Viewed in Battle",
+            "dlg": "A! Czy wielki brat mnie przywołał?"
+        },
+        {
+            "id": "battle_endcommand_10306_1",
+            "desc": "Commencing Attack",
+            "dlg": "Ha Ha! Do Boju!"
+        },
+        {
+            "id": "battle_enemy_break_10306_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Przygotuj się! Księga wymaga aby twa śmierć była dokonana o czystym umyśle."
+        },
+        {
+            "id": "battle_break_10306_1",
+            "desc": "Staggered",
+            "dlg": "Nie...!"
+        },
+        {
+            "id": "battle_kill_10306_1",
+            "desc": "Enemy Killed",
+            "dlg": "Rachunki zostały wyrównane."
+        },
+        {
+            "id": "battle_dead_10306_1",
+            "desc": "Death",
+            "dlg": "To... jeszcze nie...! Środek...  Zapamięta..!"
+        },
+        {
+            "id": "choice_success_p_10306_2",
+            "desc": "Check Passed",
+            "dlg": "Ha! To było nic."
+        },
+        {
+            "id": "choice_fail_n_10306_1",
+            "desc": "Check Failed",
+            "dlg": "Następnym razem musze to zrobić z większym przekonaniem..."
+        },
+        {
+            "id": "battle_clear_10306_1",
+            "desc": "Victory Cry",
+            "dlg": "I oto wszystkie rachunki zostały wyrównane! Bedzie to kolejny czyn, za który wzniesiemy kielichy przy dzisiejszej kolacji!"
+        },
+        {
+            "id": "battle_clear_ex_10306_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Zobaczmy... I cyk! Cały rządek wykreślony. Wielki Brat będzie wielce uradowany tym, ile pomogłam w tym poszukiwaniu!"
+        },
+        {
+            "id": "battle_defeat_10306_1",
+            "desc": "Defeat Wail",
+            "dlg": "Żebyście nie zapomnieli... Środek pamięta... Środek zapisuje... A zemsta za wasze czyny spadnie na was jak gorąca smoła."
+        }
+    ]
+}

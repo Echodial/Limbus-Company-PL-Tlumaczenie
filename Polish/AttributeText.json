@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "CRIMSON",
+      "name": "Gniew"
+    },
+    {
+      "id": "SCARLET",
+      "name": "Pożądanie"
+    },
+    {
+      "id": "AMBER",
+      "name": "Lenistwo"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "Obżarstwo"
+    },
+    {
+      "id": "AZURE",
+      "name": "Przygnębienie"
+    },
+    {
+      "id": "INDIGO",
+      "name": "Pycha"
+    },
+    {
+      "id": "VIOLET",
+      "name": "Zazdrość"
+    },
+    {
+      "id": "WHITE",
+      "name": "Mad."
+    },
+    {
+      "id": "BLACK",
+      "name": "Angst"
+    }
+  ]
+}

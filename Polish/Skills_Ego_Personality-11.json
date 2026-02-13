@@ -1,0 +1,762 @@
+{
+  "dataList": [
+    {
+      "id": 2110511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Święta",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Nałóż 1 '[AttackDmgUp]' rodzaju Grzechu z najwyższym Rezonansem na 2 Sojuszników z najniższą ilością SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Ulecz 20 SP u 2 Sojuszników z najniższą ilością SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Święta",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Nałóż 1 '[AttackDmgUp]' rodzaju Grzechu z najwyższym Rezonansem na 3 Sojuszników z najniższą ilością SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Ulecz 20 SP u 3 Sojuszników z najniższą ilością SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Święta",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Nałóż 1 '[AttackDmgUp]' rodzaju Grzechu z najwyższym Rezonansem na 4 Sojuszników z najniższą ilością SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Ulecz 20 SP u 4 Sojuszników z najniższą ilością SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Święta",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Ta jednostka traci 10% HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cel traci 10 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż 1 'Kruchość'  rodzaju Grzechu z najwyższym Rezonansem <style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Święta",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Ta jednostka traci 10% HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cel traci 10 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Nałóż 2 'Kruchości' rodzaju Grzechu z najwyższym Rezonansem <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillTail] Zyskaj 1 '[AttackDmgUp]' rodzaju Grzechu z najwyższym Rezonansem <style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Święta",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Ta jednostka traci 10% HP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cel traci 10 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 'Kruchości' rodzaju Grzechu z najwyższym Rezonansem <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkillTail] Zyskaj 1 '[AttackDmgUp]' rodzaju Grzechu z najwyższym Rezonansem <style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Więzy",
+          "abName": "The King in Binds",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans Lenistwa lub Pychy - 2) Wagi Ataku (maks 2)\n[EndSkill] Na końcu następnych trzech tur, włącznie z tą, strać 10 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationCrack]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Więzy",
+          "abName": "The King in Binds",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans Lenistwa lub Pychy - 2) Wagi Ataku (maks 2)\nIlość o którą [VibrationExplosion] podnosi Próg Zachwiania zostaje podniesiona o 50%\n[EndSkill] Na końcu następnych trzech tur, włącznie z tą, strać 9 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationCrack]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Więzy",
+          "abName": "The King in Binds",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans Lenistwa lub Pychy - 2) Wagi Ataku (maks 2)\nIlość o którą [VibrationExplosion] podnosi Próg Zachwiania zostaje podniesiona o 100%\n[EndSkill] Na końcu następnych trzech tur, włącznie z tą, strać 8 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationCrack]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Więzy",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezonans Lenistwa lub Pychy - 2) Wagi Ataku (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationCrack]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Więzy",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezonans Lenistwa lub Pychy - 2) Wagi Ataku (maks 2)\nIlość o którą [VibrationExplosion] podnosi Próg Zachwiania zostaje podniesiona o 50%<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationCrack]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Więzy",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezonans Lenistwa lub Pychy - 2) Wagi Ataku (maks 2)\nIlość o którą [VibrationExplosion] podnosi Próg Zachwiania zostaje podniesiona o 50%<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationCrack]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Szatkowanie Wymiaru",
+          "abName": "Wayward Passenger",
+          "desc": "[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Zyskaj +1 Wagi Ataku\n[BeforeAttack] Jeśli Ilość [Charge] wynosi mniej niż 10, zużyj 15% HP aby zyskać +10 Ilości [Charge] (powyższe obrażenia nie mogą obniżyć HP tej jednostki do 0; wynik zaokrąglony w dól)\n[BeforeAttack] Zużyj Maks 40 Ilości [Charge] oraz zadaj +1% więcej Obrażeń za każdą zużytą w ten sposób Ilość [Charge] (maks 10%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) [DimensionRift] (maks 1)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] oraz 1 [ChargeLoad] na początku następnej tury za każdy [Charge] (maks 1 Ilość tych statusów może być nałożona podczas jednego użycia Umiejętności)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Szatkowanie Wymiaru",
+          "abName": "Wayward Passenger",
+          "desc": "[BeforeAttack] Jeśli najwyższy Rezonans wynosi <style=\"highlight\">3</style>+, Zyskaj +1 Wagi Ataku\n[BeforeAttack] Jeśli Ilość [Charge] wynosi mniej niż 10, zużyj 15% HP aby zyskać +10 Ilości [Charge] (powyższe obrażenia nie mogą obniżyć HP tej jednostki do 0; wynik zaokrąglony w dól)\n[BeforeAttack] Zużyj Maks 40 Ilości [Charge] oraz zadaj +1% więcej Obrażeń za każdą zużytą w ten sposób Ilość [Charge] (maks <style=\"highlight\">20</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) [DimensionRift] (maks <style=\"highlight\">2</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] oraz 1 [ChargeLoad] na początku następnej tury za każdy [Charge] (maks <style=\"highlight\">2</style> Ilości tych statusów może być nałożone podczas jednego użycia Umiejętności)"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Szatkowanie Wymiaru",
+          "abName": "Wayward Passenger",
+          "desc": "[BeforeAttack] Zyskaj <style=\"highlight\">(najwyższy Rezonans - 2)</style> Wagi Ataku <style=\"highlight\">(maks 2)</style>\n[BeforeAttack] Jeśli Ilość [Charge] wynosi mniej niż 10, zużyj <style=\"highlight\">10</style>% HP aby zyskać +10 Ilości [Charge] (powyższe obrażenia nie mogą obniżyć HP tej jednostki do 0; wynik zaokrąglony w dól)\n[BeforeAttack] Zużyj Maks 40 Ilości [Charge] oraz zadaj +1% więcej Obrażeń za każdą zużytą w ten sposób Ilość [Charge] (maks <style=\"highlight\">30</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) [DimensionRift] (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] oraz 1 [ChargeLoad] na początku następnej tury za każdy [Charge] (maks <style=\"highlight\">3</style> Ilości tych statusów może być nałożone podczas jednego użycia Umiejętności)"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Szatkowanie Wymiaru",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Zyskaj +1 Wagi Ataku\n[BeforeAttack] Przy Ilości [Charge] mniejszej niż maksymalna, zużyj (brakująca Ilość [Charge] x 1.5)% HP aby zyskać Maksymalną Ilość [Charge] (maks Ilość [Charge] która może być zdobyta dzięki temu efektowi: 30. powyższe obrażenia nie mogą obniżyć HP tej jednostki do 0; wynik zaokrąglony w dól)\n[BeforeAttack] Zużyj Maks 40 Ilości [Charge] oraz zadaj +2% więcej Obrażeń za każdą zużytą w ten sposób Ilość [Charge] (maks 20%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) [DimensionRift] (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] oraz 1 [ChargeLoad] na początku następnej tury za każdy [Charge] (maks 2 Ilości tych statusów może być nałożone podczas jednego użycia Umiejętności)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Szatkowanie Wymiaru",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Zyskaj +1 Wagi Ataku\n[BeforeAttack] Przy Ilości [Charge] mniejszej niż maksymalna, zużyj (brakująca Ilość [Charge] x <style=\"highlight\">1.2</style>)% HP aby zyskać Maksymalną Ilość [Charge] (maks Ilość [Charge] która może być zdobyta dzięki temu efektowi: 30. powyższe obrażenia nie mogą obniżyć HP tej jednostki do 0; wynik zaokrąglony w dól)\n[BeforeAttack] Zużyj Maks 40 Ilości [Charge] oraz zadaj +2% więcej Obrażeń za każdą zużytą w ten sposób Ilość [Charge] (maks <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) [DimensionRift] (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] oraz 1 [ChargeLoad] na początku następnej tury za każdy [Charge] (maks 2 Ilości tych statusów może być nałożone podczas jednego użycia Umiejętności)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Szatkowanie Wymiaru",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj <style=\"highlight\">(najwyższy Rezonans - 2)</style> Wagi Ataku <style=\"highlight\">(maks 2)</style>\n[BeforeAttack] Przy Ilości [Charge] mniejszej niż maksymalna, zużyj <style=\"highlight\">(missing Ilości [Charge])%</style> HP aby zyskać Maksymalną Ilość [Charge] (maks Ilość [Charge] która może być zdobyta dzięki temu efektowi: 30. powyższe obrażenia nie mogą obniżyć HP tej jednostki do 0; wynik zaokrąglony w dól)\n[BeforeAttack] Zużyj Maks 40 Ilości [Charge] oraz zadaj +2% więcej Obrażeń za każdą zużytą w ten sposób Ilość [Charge] (maks <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) [DimensionRift] (maks <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] oraz 1 [ChargeLoad] na początku następnej tury za każdy [Charge] (maks <style=\"highlight\">3</style> Ilości tych statusów może być nałożone podczas jednego użycia Umiejętności)"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Koszmarny Pocisk",
+          "abName": "Der Freischütz",
+          "desc": "Zadaj +1% Obrażeń za każde 3 [Combustion] na celu (maks 10%)\n[BeforeAttack] Przy 0 [FreischutzShotCount], Zyskaj 1 [FreischutzShotCount].\n- Wartość [FreischutzShotCount] determinuje który pocisk zostanie wystrzelony.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Zyskaj Ilość [FreischutzShotCount] równą najwyższemu Rezonansowi (min. 1, maks 4)\n[EndSkill] Jeśli główny cel został pokonany, Nałóż 2 [DarkFlame] na wszystkich Wrogów z [Combustion]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równe [FreischutzShotCount]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [DarkFlame] równy [FreischutzShotCount] (raz na turę dla każdej jednostki)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Koszmarny Pocisk",
+          "abName": "Der Freischütz",
+          "desc": "Zadaj +<style=\"highlight\">2</style>% Obrażeń za każde 3 [Combustion] na celu (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Przy 0 [FreischutzShotCount], Zyskaj 1 [FreischutzShotCount].\n- Wartość [FreischutzShotCount] determinuje który pocisk zostanie wystrzelony.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Zyskaj Ilość [FreischutzShotCount] równą najwyższemu Rezonansowi (min. 1, maks 4)\n[EndSkill] Jeśli główny cel został pokonany, Nałóż <style=\"highlight\">3</style> [DarkFlame] na wszystkich Wrogów z [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równe [FreischutzShotCount]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [DarkFlame] równy [FreischutzShotCount] (raz na turę dla każdej jednostki)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Koszmarny Pocisk",
+          "abName": "Der Freischütz",
+          "desc": "Zadaj +<style=\"highlight\">3</style>% Obrażeń za każde 3 [Combustion] na celu (maks <style=\"highlight\">30</style>%)\n[BeforeAttack] Przy 0 [FreischutzShotCount], Zyskaj 1 [FreischutzShotCount].\n- Wartość [FreischutzShotCount] determinuje który pocisk zostanie wystrzelony.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Zyskaj Ilość [FreischutzShotCount] równą najwyższemu Rezonansowi (min. 1, maks 4)\n[EndSkill] Jeśli główny cel został pokonany, Nałóż <style=\"highlight\">4</style> [DarkFlame] na wszystkich Wrogów z [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równe [FreischutzShotCount]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [DarkFlame] równy [FreischutzShotCount] (raz na turę dla każdej jednostki)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Koszmarny Pocisk",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nZadaj +1% Obrażeń za każde 3 [Combustion] na celu (maks 10%)\n[BeforeAttack] Przy 0 [FreischutzShotCount], Zyskaj 1 [FreischutzShotCount].\n- Wartość [FreischutzShotCount] determinuje który pocisk zostanie wystrzelony.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Zyskaj Ilość [FreischutzShotCount] równą najwyższemu Rezonansowi (min. 1, maks 4)\n[EndSkill] Jeśli główny cel został pokonany, Nałóż 3 [DarkFlame] na wszystkich Wrogów z [Combustion]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równe [FreischutzShotCount]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [DarkFlame] równy [FreischutzShotCount] (raz na turę dla każdej jednostki)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Koszmarny Pocisk",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nZadaj +<style=\"highlight\">2</style>%Obrażeń za każde 3 [Combustion] na celu (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Przy 0 [FreischutzShotCount], Zyskaj 1 [FreischutzShotCount].\n- Wartość [FreischutzShotCount] determinuje który pocisk zostanie wystrzelony.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Zyskaj Ilość [FreischutzShotCount] równą najwyższemu Rezonansowi (min. 1, maks 4)\n[EndSkill] Jeśli główny cel został pokonany, Nałóż <style=\"highlight\">5</style> [DarkFlame] na wszystkich Wrogów z [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równe [FreischutzShotCount]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +([FreischutzShotCount] / 3) Ilości [Combustion] (zaokrąglone w dół)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [DarkFlame] równy [FreischutzShotCount] (raz na turę dla każdej jednostki)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Koszmarny Pocisk",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nZadaj +<style=\"highlight\">3</style>% Obrażeń za każde 3 [Combustion] na celu (maks <style=\"highlight\">30</style>%)\n[BeforeAttack] Przy 0 [FreischutzShotCount], Zyskaj 1 [FreischutzShotCount].\n- Wartość [FreischutzShotCount] determinuje który pocisk zostanie wystrzelony.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Zyskaj Ilość [FreischutzShotCount] równą najwyższemu Rezonansowi (min. 1, maks 4)\n[EndSkill] Jeśli główny cel został pokonany, Nałóż <style=\"highlight\">7</style> [DarkFlame] na wszystkich Wrogów z [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równe [FreischutzShotCount]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +([FreischutzShotCount] / <style=\"highlight\">2</style>) Ilości [Combustion] (zaokrąglone w dół)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [DarkFlame] równy [FreischutzShotCount] (raz na turę dla każdej jednostki)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ja Wybieram Nożyce. A ty?",
+          "abName": "Zagrasz Ze Mną?",
+          "desc": "Przy Ataku w Ślepy Punkt: Nie aktywuje efektów tej Umiejętności polegających na kondycji [UnBrokenCoinOnSucceedAttack]\n[WinDuel] Zużyj ilość Zasobów E.G.O. Zazdrości równą Rezonansowi Zazdrości, po czym przyznaj jeden Zasób E.G.O. należący do najmniej posiadanej kategorii za każdy zużyty w ten sposób Zasób Zazdrości (maks ilość zużytych zasobów Zazdrości: 4)\n[DefeatDuel] -4 Mocy Finalnej oraz zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 20)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ulecz 2 Sojuszników z najniższym %HP o 6% ich Maks HP (raz na Umiejętność)\n- Ignoruję Sojuszników bez Bazowych Atakujących Umiejętności Zazdrości przy wybieraniu celów do Leczenia (poza tą jednostką)<style=\"highlight\"></style>",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Ulecz HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [NiddleEGO]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ja Wybieram Nożyce. A ty?",
+          "abName": "Zagrasz Ze Mną?",
+          "desc": "Przy Ataku w Ślepy Punkt: Nie aktywuje efektów tej Umiejętności polegających na kondycji [UnBrokenCoinOnSucceedAttack]\n[WinDuel] Zużyj ilość Zasobów E.G.O. Zazdrości równą Rezonansowi Zazdrości, po czym przyznaj jeden Zasób E.G.O. należący do najmniej posiadanej kategorii za każdy zużyty w ten sposób Zasób Zazdrości (maks ilość zużytych zasobów Zazdrości: 5)\n[DefeatDuel] -4 Mocy Finalnej oraz zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 25)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ulecz 2 Sojuszników z najniższym %HP o 8% ich Maks HP (raz na Umiejętność)\n- Ignoruję Sojuszników bez Bazowych Atakujących Umiejętności Zazdrości przy wybieraniu celów do Leczenia (poza tą jednostką)<style=\"highlight\"></style>",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Ulecz HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [NiddleEGO]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ja Wybieram Nożyce. A ty?",
+          "abName": "Zagrasz Ze Mną?",
+          "desc": "Przy Ataku w Ślepy Punkt: Nie aktywuje efektów tej Umiejętności polegających na kondycji [UnBrokenCoinOnSucceedAttack]\n[WinDuel] Zużyj ilość Zasobów E.G.O. Zazdrości równą Rezonansowi Zazdrości, po czym przyznaj jeden Zasób E.G.O. należący do najmniej posiadanej kategorii za każdy zużyty w ten sposób Zasób Zazdrości (maks ilość zużytych zasobów Zazdrości: 6)\n[DefeatDuel] -4 Mocy Finalnej oraz zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 30)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ulecz 2 Sojuszników z najniższym %HP o 10% ich Maks HP (raz na Umiejętność)\n- Ignoruję Sojuszników bez Bazowych Atakujących Umiejętności Zazdrości przy wybieraniu celów do Leczenia (poza tą jednostką)<style=\"highlight\"></style>",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Ulecz HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [NiddleEGO]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ja Wybieram Nożyce. A ty?",
+          "abName": "Zagrasz Ze Mną?",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nPrzy 2+ Rezonansu Zazdrości, +1 Mocy Finalnej\n[WinDuel] +1 Wagi Ataku za każde 2 Rezonansu Zazdrości (maks 2)\n[DefeatDuel] Zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 20)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowego [NiddleEGO] oraz [NailPersonality]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [NiddleEGO]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ja Wybieram Nożyce. A ty?",
+          "abName": "Zagrasz Ze Mną?",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n<style=\"highlight\">+1 Mocy Finalnej za każde 2 Rezonansu Zazdrości (maks 2)</style>\n[WinDuel] +1 Wagi Ataku za każde 2 Rezonansu Zazdrości (maks 2)\n[DefeatDuel] Zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowego [NiddleEGO], <style=\"highlight\">[Curse]</style>, oraz [NailPersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [NiddleEGO]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ja Wybieram Nożyce. A ty?",
+          "abName": "Zagrasz Ze Mną?",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n+1 Mocy Finalnej za każde 2 Rezonansu Zazdrości (maks <style=\"highlight\">3</style>)\n[WinDuel] +1 Wagi Ataku za każde 2 Rezonansu Zazdrości (maks 2)\n[DefeatDuel] Zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowego [NiddleEGO], [Curse], oraz [NailPersonality]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [NiddleEGO]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

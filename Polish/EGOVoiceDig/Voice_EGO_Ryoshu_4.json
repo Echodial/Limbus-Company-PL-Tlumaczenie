@@ -1,0 +1,134 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20401_1",
+      "desc": "E.G.O Activation",
+      "dlg": "S.Z.P.O.N.\n(Sztuka Zajmuje swym Płomieniem ten Obszerny Naród.)"
+    },
+    {
+      "id": "battle_awaken_20401_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Ś.C.I.N.A.\n(Ścierpię dle Ciebie Inferno, moja Najdroższa Arayo)"
+    },
+    {
+      "id": "battle_awaken_20402_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Płomień też może być dziełem sztuki."
+    },
+    {
+      "id": "battle_erosion_20402_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Ognień, który pożera wszystko na swojej drodze…"
+    },
+    {
+      "id": "battle_awaken_20403_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Dobrze, najwyższy czas na przystawkę."
+    },
+    {
+      "id": "battle_erosion_20403_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "A ty zagrasz role przekąski... Heh."
+    },
+    {
+      "id": "battle_awaken_20404_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ja... zawsze miałam cię na oku."
+    },
+    {
+      "id": "battle_erosion_20404_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Wygląda na to że nikt nie przyjdzie ci na ratunek... Hahaha."
+    },
+    {
+      "id": "battle_awaken_20405_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Dalej, otwierać paszcze. Pijcie aż pękniecie, hehehe."
+    },
+    {
+      "id": "battle_awaken_20405_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Dalej, buzie szeroko."
+    },
+    {
+      "id": "battle_erosion_20405_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Zaczeliście nagle czuć się bardzo sennie... mam rację?"
+    },
+    {
+      "id": "battle_awaken_20406_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Tylko ja mogę gonić za tymi falami... Ześle was na dno!"
+    },
+    {
+      "id": "battle_erosion_20406_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Nie wiercić się... i tak przebije was na wylot!"
+    },
+    {
+      "id": "battle_awaken_20407_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Roznieść się. Wkrótce cały świat zobaczy tą plugowość."
+    },
+    {
+      "id": "battle_erosion_20407_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Odrażające...! Pulsuj, pęknij pod naciskiem tej palącej, przeszywającej wszystko Odrazy!"
+    },
+    {
+      "id": "battle_awaken_20408_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Moja nienawiść, moja skrucha... One i tak były na nic.\nOstatecznie nie udało mi się utrzymać niczego."
+    },
+    {
+      "id": "battle_erosion_20408_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Wdech... wydech... a ból ciągle pozostaje..."
+    },
+    {
+      "id": "battle_awaken_20409_1",
+      "desc": "E.G.O Activation",
+      "dlg": "The three severings: Reforge the past a thousandfold to cut it apart, retrace the future a thousandfold to rip it apart, rive the kṣaṇa of circumvolution another thousandfold. Sanzendaisekai (三千大世界)."
+    },
+    {
+      "id": "battle_awaken_20409_2",
+      "desc": "E.G.O Activation",
+      "dlg": "The three severings:"
+    },
+    {
+      "id": "battle_awaken_20409_3",
+      "desc": "E.G.O Activation",
+      "dlg": "Reforge the past a thousandfold to cut it apart,"
+    },
+    {
+      "id": "battle_awaken_20409_4",
+      "desc": "E.G.O Activation",
+      "dlg": "retrace the future a thousandfold to rip it apart,"
+    },
+    {
+      "id": "battle_awaken_20409_5",
+      "desc": "E.G.O Activation",
+      "dlg": "rive the kṣaṇa of circumvolution another thousandfold.\nSanzendaisekai (三千大世界)."
+    },
+    {
+      "id": "battle_erosion_20409_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Destroy the starborn future."
+    },
+    {
+      "id": "battle_erosion_20409_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Dwell in the glorious past."
+    },
+    {
+      "id": "battle_erosion_20409_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Dissever all with Bhadrakalpa's singular strike."
+    },
+    {
+      "id": "battle_erosion_20409_4",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Sanzendaisekai (三千大世界)."
+    }
+  ]
+}

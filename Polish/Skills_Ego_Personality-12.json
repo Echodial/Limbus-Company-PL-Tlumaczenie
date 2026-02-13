@@ -1,0 +1,884 @@
+{
+  "dataList": [
+    {
+      "id": 2120511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ogród Cierni",
+          "abName": "Znak Róż",
+          "desc": "[BeforeAttack] Przy 3+ najwyższego Rezonansu, Waga Ataku +1\n[WhenUse] Przyznaj 1 'Większe Obrażenia od (Tego Typu Grzechu)' i 1 'Większa Moc (Tego Typu Grzechu)' dla (1 + # najwyższego Rezonansu) sojuszników.\n- Jeśli ten Rezon. wynosi 4+, przyznaj 1 dodatkowe 'Większe Obrażenia od (Tego Typu Grzechu)'<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Ulecz 1 sojusznika z najmniejszym procentem HP o 15% HP jego maks HP\n- Ulecz (najwyższy Rezon. - 2) dodatkowych sojuszników (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ogród Cierni",
+          "abName": "Znak Róż",
+          "desc": "[BeforeAttack] Zyskaj (# najwyższego Rezonansu - 2) Wagi Ataku (Maks 2)\n[WhenUse] Przyznaj 1 'Większe Obrażenia od (Tego Typu Grzechu)' i '1 Większa Moc (Tego Typu Grzechu)' dla (2 + # najwyższego Rezonansu) sojuszników.\n- Jeśli ten Rezon. wynosi 4+, przyznaj 1 dodatkowe 'Większe Obrażenia od (Tego Typu Grzechu)'\n- Jeśli ten Rezon. wynosi 5+, przyznaj 1 dodatkowe 'Większa Moc (Tego Typu Grzechu)'<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Ulecz 2 sojuszników z najmniejszym procentem HP o 18% HP ich maks HP\n- Ulecz (najwyższy Rezon. - 2) dodatkowych sojuszników (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ogród Cierni",
+          "abName": "Znak Róż",
+          "desc": "[BeforeAttack] Zyskaj (# najwyższego Rezonansu - 2) Wagi Ataku (Maks 3)\n[WhenUse] Przyznaj 1 'Większe Obrażenia od (Tego Typu Grzechu)' i '1 Większa Moc (Tego Typu Grzechu)' dla (4 + # najwyższego Rezonansu) sojuszników.\n- Jeśli ten Rezon. wynosi 4+, przyznaj 1 dodatkowe 'Większe Obrażenia od (Tego Typu Grzechu)'\n- Jeśli ten Rezon. wynosi 5+, przyznaj 1 dodatkowe 'Większa Moc (Tego Typu Grzechu)'\n- Jeśli to A-Rezon. o wartości 6+, przyznaj powyższe efekty też w następnej turze<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Ulecz 4 sojuszników z najmniejszym procentem HP o 22% HP ich maks HP\n- Ulecz (najwyższy Rezon. - 2) dodatkowych sojuszników (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ogród Cierni",
+          "abName": "Znak Róż",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Waga Ataku +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown]. Nałóż 2 [Binding] na początku następnej tury.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 'Kruchości' i 1 'Mniejszej Mocy' od Typu Grzechu z największą Wartością Rezonansu\n- Jeśli ten Rezon. wynosi 4+, nałóż 1 dodatkowe 'Kruchości przed (Tym Typem Grzechu)'<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ogród Cierni",
+          "abName": "Znak Róż",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezon. - 2) Wagi Ataku (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown]. Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 'Kruchości' i 1 'Mniejszej Mocy' od Typu Grzechu z największą Wartością Rezonansu\n- Jeśli ten Rezon. wynosi 4+, nałóż 1 dodatkowe 'Kruchości przed (Tym Typem Grzechu)'\n- Jeśli ten Rezon. wynosi 5+, nałóż 1 dodatkowe '(Corresponding Sin Affinity) Mniejszej Mocy'<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ogród Cierni",
+          "abName": "Znak Róż",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezon. - 2) Wagi Ataku (maks 3)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown]. Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 'Kruchości' i 1 'Mniejszej Mocy' od Typu Grzechu z największą Wartością Rezonansu\n- Jeśli ten Rezon. wynosi 4+, nałóż 1 dodatkowe 'Kruchości przed (Tym Typem Grzechu)'\n- Jeśli ten Rezon. wynosi 5+, nałóż 1 dodatkowe '(Corresponding Sin Affinity) Mniejszej Mocy'\n- Jeśli to A-Rezon. o wartości 6+, przyznaj powyższe efekty też w następnej turze<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[EndSkill] Ulecz siebie i 2 innych sojuszników z najniższym SP o 10 SP\n- Jeśli cel przetrwa ten atak, zużyj 5 Ilości [Sinking] na celu, po czym ulecz dodatkowe SP (sobie i tym samym sojusznikom co poprzedni efekt) równe Sile [Sinking] na celu (Maks leczenie SP: 20)\n- Jeśli cel zostanie pokonany, nałóż 3 [Sinking] na 2 losowych przeciwników (W Skupionych Potyczkach, losowe Części)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[EndSkill] Ulecz siebie i 2 innych sojuszników z najniższym SP o <style=\"highlight\">12</style> SP\n- Jeśli cel przetrwa ten atak, zużyj 5 Ilości [Sinking] na celu, po czym ulecz dodatkowe SP(sobie i tym samym sojusznikom co poprzedni efekt) równe Sile [Sinking] na celu (Maks leczenie SP: 20)\n- Jeśli cel zostanie pokonany, nałóż 3 [Sinking] i <style=\"highlight\">1 [Curse]</style> na 2 losowych przeciwników (W Skupionych Potyczkach, losowe Części)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[EndSkill] Ulecz siebie i 2 innych sojuszników z najniższym SP o <style=\"highlight\">15</style> SP\n- Jeśli cel przetrwa ten atak, zużyj <style=\"highlight\">3</style> Ilości [Sinking] na celu, po czym ulecz dodatkowe SP(sobie i tym samym sojusznikom co poprzedni efekt) równe Sile [Sinking] na celu (Maks leczenie SP: 20)\n- Jeśli cel zostanie pokonany, nałóż 3 [Sinking] i 1 [Curse] na <style=\"highlight\">3</style> losowych przeciwników (W Skupionych Potyczkach, losowe Części)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AzureTakeDamageUp]. Przy 3+ Rezonanu Przygnębienia, nałóż 1 dodatkowe [AzureTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Curse]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AzureTakeDamageUp]. Nałóż 1 dodatkowe [AzureTakeDamageUp] za każde 3 Rezonanu Przygnębienia (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nJeśli cel ma [Curse], zadaj +50% więcej obrażeń<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AzureTakeDamageUp]. Nałóż 1 dodatkowe [AzureTakeDamageUp] za każde 2 Rezonanu Przygnębienia (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Curse]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "Kiedy ta Zdolność rzuca Monetami, każda moneta celuje w losowy cel.\n- Pierwsza Moneta zawsze celuje w główny cel.\n- Wszystkie efekty 'Przy Trafieniu' i wszystkie obrażenia zadane przez każdą z Monet są nakładane tylko na losowe cele wybrane przez dane Monety.\nGdy ta Zdolność nakłada [SinkingWhite]: (Szansa wylądowania Monety na Orle)% szansy nałożenia Odeszłych. Jeśli ta jednostka nie nałożyła Odeszłych, zamiast tego użyj Żywych. (liczy szansę dla każdej warości [SinkingWhite])<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1~2 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Strać 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 0+ SP, Użyj tą Monetę Ponownie (maks 5 razy na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "Kiedy ta Zdolność rzuca Monetami, każda moneta celuje w losowy cel.\n- Pierwsza Moneta zawsze celuje w główny cel.\n- Wszystkie efekty 'Przy Trafieniu' i wszystkie obrażenia zadane przez każdą z Monet są nakładane tylko na losowe cele wybrane przez dane Monety.\nGdy ta Zdolność nakłada [SinkingWhite]: (Szansa wylądowania Monety na Orle)% szansy nałożenia Odeszłych. Jeśli ta jednostka nie nałożyła Odeszłych, zamiast tego użyj Żywych. (liczy szansę dla każdej warości [SinkingWhite])\n<style=\"highlight\">[EndSkill] Ulecz (# użyć 3 Monety x 2) SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1~2 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Strać 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 0+ SP, Użyj tą Monetę Ponownie (maks 5 razy na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "Kiedy ta Zdolność rzuca Monetami, każda moneta celuje w losowy cel.\n- Pierwsza Moneta zawsze celuje w główny cel.\n- Wszystkie efekty 'Przy Trafieniu' i wszystkie obrażenia zadane przez każdą z Monet są nakładane tylko na losowe cele wybrane przez dane Monety.\nGdy ta Zdolność nakłada [SinkingWhite]: (Szansa wylądowania Monety na Orle)% szansy nałożenia Odeszłych. Jeśli ta jednostka nie nałożyła Odeszłych, zamiast tego użyj Żywych. (liczy szansę dla każdej warości [SinkingWhite])\n[EndSkill] Ulecz <style=\"highlight\">(# użyć 3 Monety x 3)</style> SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1~2 losowe [SinkingWhite]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Strać 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 0+ SP, Użyj tą Monetę Ponownie (maks 5 razy na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nJeśli cel ma mniej niż 0 SP, zadaj więcej obrażeń im dalej jego SP jest od 0 (+1% więcej obrażeń za każde brakujące SP, maks 45%)\nPrzeciwko celom nie posiadającym SP: zadaj +1% więcej obrażeń za każde 2 [Sinking] na celu (maks 45%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [SinkingWhite](Żywi)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [SinkingWhite](Odeszli)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nJeśli cel ma mniej niż 0 SP, zadaj więcej obrażeń im dalej jego SP jest od 0 (+1% więcej obrażeń za każde brakujące SP, maks 45%)\nPrzeciwko celom nie posiadającym SP: zadaj +1% więcej obrażeń za każde 2 [Sinking] na celu (maks 45%)\n<style=\"highlight\">[EnemyKill] Ulecz 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [SinkingWhite](Żywi)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [SinkingWhite](Odeszli)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +3 Ilości [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nJeśli cel ma mniej niż 0 SP, zadaj więcej obrażeń im dalej jego SP jest od 0 (+1% więcej obrażeń za każde brakujące SP, maks 45%)\nPrzeciwko celom nie posiadającym SP: zadaj +1% więcej obrażeń za każde 2 [Sinking] na celu (maks 45%)\n[EnemyKill] Ulecz 5 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [SinkingWhite](Żywi)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [SinkingWhite](Odeszli)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel ma 50%- HP, nałóż Obrażenia od Przygnębienia równe \"Całemu\" [SinkingWhite] na celu\n- \"Całemu\" = sumie zarówno Żywych jak i Odeszłych na celu</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[EndSkill] Przy maks HP, ulecz 10 SP na Końcu Tury i zyskaj 1 [Enhancement] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, w stanie Niskiego Morale, lub Paniki, nałóż 1 [Reduction] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "<style=\"highlight\">Jeśli cel ma mniej niż 0 SP, zadaj +1% więcej obrażeń za każdą wartość SP poniżej 0 (maks 45%)</style>\n[EndSkill] Przy maks HP, ulecz 10 SP na Końcu Tury i zyskaj 1 [Enhancement] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz (2 + najwyższy Rezon.)% brakującego HP na sobie (maks 30% na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, w stanie Niskiego Morale, lub Paniki, nałóż 1 [Reduction] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "Jeśli cel ma mniej niż 0 SP, zadaj +1% więcej obrażeń za każdą wartość SP poniżej 0 (maks 45%)\n[EndSkill] Przy maks HP, ulecz <style=\"highlight\">15</style> SP na Końcu Tury i zyskaj 1 [Enhancement] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz (<style=\"highlight\">3</style> + najwyższy Rezon.)% brakującego HP na sobie (maks 30% na Zdolność)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, w stanie Niskiego Morale, lub Paniki, nałóż 1 [Reduction] <style=\"highlight\">i Kruchości[TabExplain] przed Grzechem o najwyższym Rezonansie</style> na początku następnej tury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Ulecz 10 HP na sobie\n[EndSkill] Przy maks HP, ulecz 10 SP na Końcu Tury i zyskaj 1 [Enhancement] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, w stanie Niskiego Morale, lub Paniki, nałóż 1 [Reduction] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n<style=\"highlight\">Jeśli cel ma mniej niż 0 SP, zadaj +1% więcej obrażeń za każdą wartość SP poniżej 0 (maks 45%)</style>\n[BeforeAttack] Ulecz 10 HP na sobie\n[EndSkill] Przy maks HP, ulecz <style=\"highlight\">15</style> SP na Końcu Tury i zyskaj 1 [Enhancement] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz (2 + najwyższy Rezon.)% brakującego HP (maks 30% na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, w stanie Niskiego Morale, lub Paniki, nałóż 1 [Reduction] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Świąteczny Koszmar",
+          "abName": "Przytulne Łóżko",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\nJeśli cel ma mniej niż 0 SP, zadaj +1% więcej obrażeń za każdą wartość SP poniżej 0 (maks 45%)\n[BeforeAttack] Ulecz 10 HP na sobie\n[EndSkill] Przy maks HP, ulecz <style=\"highlight\">20</style> SP na Końcu Tury i zyskaj 1 [Enhancement] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ulecz (<style=\"highlight\">3</style> + najwyższy Rezon.)% brakującego HP na sobie (maks 30% na Zdolność)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, w stanie Niskiego Morale, lub Paniki, nałóż 1 [Reduction] <style=\"highlight\">i 2 Kruchości[TabExplain] przed Grzechem o najwyższym Rezonansie</style> na początku następnej tury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chwała Pozbawiona Blasku - Napływ",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nTa zdolnośc zużywa o 1 mniej zasobów Gniewu, o 2 mniej Lenistwa i 1 mniej Pychy, kiedy zostanie użyta pierwszy raz w tej walce.\nMając 1+ [MlynarWaiting], aktywuj <noparse>Chwała Pozbawiona Blasku - Żarliwość</noparse> zamiast tej Zdolności\nTa Zdolność nie trafia przeciwnika, nie aktywuje Zdolności Obronnych i nie może być użyta ponownie z powodu zewnętrznych efektów\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndSkill] Ulecz 25 SP\n[EndSkill] Zyskaj 1 [AttackUp] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chwała Pozbawiona Blasku - Napływ",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nTa zdolnośc zużywa o 1 mniej zasobów Gniewu, o 2 mniej Lenistwa i 1 mniej Pychy, kiedy zostanie użyta pierwszy raz w tej walce.\nMając 1+ [MlynarWaiting], aktywuj <noparse>Chwała Pozbawiona Blasku - Żarliwość</noparse> zamiast tej Zdolności\nTa Zdolność nie trafia przeciwnika, nie aktywuje Zdolności Obronnych i nie może być użyta ponownie z powodu zewnętrznych efektów\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndSkill] Ulecz 25 SP\n[EndSkill] Zyskaj <style=\"highlight\">2</style> [AttackUp] na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chwała Pozbawiona Blasku - Napływ",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nTa zdolnośc zużywa o 1 mniej zasobów Gniewu, o 2 mniej Lenistwa i 1 mniej Pychy, kiedy zostanie użyta pierwszy raz w tej walce.\nMając 1+ [MlynarWaiting], aktywuj <noparse>Chwała Pozbawiona Blasku - Żarliwość</noparse> zamiast tej Zdolności\nTa Zdolność nie trafia przeciwnika, nie aktywuje Zdolności Obronnych i nie może być użyta ponownie z powodu zewnętrznych efektów\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndSkill] Ulecz 25 SP\n[EndSkill] Zyskaj 2 [AttackUp] <style=\"highlight\">and 1 [AttackDmgUp]</style> na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120912,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chwała Pozbawiona Blasku - Żarliwość",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nTa Zdolność nie może być użyta ponownie z powodu zewnętrznych efektów\nMając 40 [MlynarWaiting], może się Ścierać\n[WhenUse] Mając 40 [MlynarWaiting], ta jednostka nie moze zostać Zachwiana przez otrzymane obrażenia do zakończenia tej Zdolności i zyskuje +20 Mocy Starcia\n\n[BeforeAttack] Zużyj całe [MlynarWaiting] by zyskać te efekty (wszystkie zaokrąglowe w dół):\n- Za każde (Zużyta wartość / 20), zwraca 1 zasób E.G.O (w danej kolejności: Pycha, po tym Gniew)\n- Za każde (Zużyta wartość / 10), zyskaj +1 Wagi Ataku (maks 4)\n- Za każde (Zużyta wartość / 10), zyskaj [DefenseUp] (raz na turę)\n- Jeżel ta Zdolność zużyła 40 Wartości, 4 Moneta zadaje +50% obrażeń, a ta jednostka zyskuje 2 [Protection] (raz na turę)\n\n[BeforeAttack] Zadaj +5% obrażeń za każde 8 ([Combustion] + [Vibration]) na głównym celu (maks 25%)\n[EndSkill] Ulecz 5 SP za każdy cel, który został Zachwiany lub zabity obrażeniami tej Zdolności (maks 25)\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndBattle] Jeśli ta Zdolność nie zużyła 40 [MlynarWaiting], Żeton Umiejętności najbliżej lewej strony Tablicy otrzymuje +4 [Aggro] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ponownie użyj tą Monetę ((Zużyta wartość [MlynarWaiting] / 10) - 1) razy (maks 3 razy)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli to jest ostatnia Moneta i jeśli cel ma 15+ Siły [Vibration], aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta Moneta została użyta 4 razy, zadaj obrażenia od Lenistwa równe [Vibration] na celu (maks 5)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chwała Pozbawiona Blasku - Żarliwość",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nTa Zdolność nie może być użyta ponownie z powodu zewnętrznych efektów\nMając 40 [MlynarWaiting], może się Ścierać\n[WhenUse] Mając 40 [MlynarWaiting], ta jednostka nie moze zostać Zachwiana przez otrzymane obrażenia do zakończenia tej Zdolności i zyskuje +20 Mocy Starcia\n\n[BeforeAttack] Zużyj całe [MlynarWaiting] by zyskać te efekty (wszystkie zaokrąglowe w dół):\n- Za każde (Zużyta wartość / 20), zwraca 1 zasób E.G.O (w danej kolejności: Pycha, po tym Gniew)\n- Za każde (Zużyta wartość / 10), zyskaj +1 Wagi Ataku (maks 4)\n- Za każde (Zużyta wartość / 10), zyskaj [DefenseUp] (raz na turę)\n- Jeżel ta Zdolność zużyła 40 Wartości, 4 Moneta zadaje +<style=\"highlight\">80</style>% obrażeń, a ta jednostka zyskuje 2 [Protection] (raz na turę)\n\n[BeforeAttack] Zadaj +5% obrażeń za każde 8 ([Combustion] + [Vibration]) na głównym celu (maks 25%)\n[EndSkill] Ulecz 5 SP za każdy cel, który został Zachwiany lub zabity obrażeniami tej Zdolności (maks 25)\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndBattle] Jeśli ta Zdolność nie zużyła 40 [MlynarWaiting], Żeton Umiejętności najbliżej lewej strony Tablicy otrzymuje +4 [Aggro] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ponownie użyj tą Monetę ((Zużyta wartość [MlynarWaiting] / 10) - 1) razy (maks 3 razy)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Jeśli ta Moneta nie Pękła i jeśli jest wymierzona w +3 przeciwników, ostatnia użyta Moneta zadaje +10% obrażeń (w Skupionych Potyczkach, każda Część liczy się jako 1 cel)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli to jest ostatnia Moneta i jeśli cel ma 15+ Siły [Vibration], aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta Moneta została użyta 4 razy, zadaj obrażenia od Lenistwa równe [Vibration] na celu (maks 5)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chwała Pozbawiona Blasku - Żarliwość",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nTa Zdolność nie może być użyta ponownie z powodu zewnętrznych efektów\nMając 40 [MlynarWaiting], może się Ścierać\n[WhenUse] Mając 40 [MlynarWaiting], ta jednostka nie moze zostać Zachwiana przez otrzymane obrażenia do zakończenia tej Zdolności i zyskuje +20 Mocy Starcia\n\n[BeforeAttack] Zużyj całe [MlynarWaiting] by zyskać te efekty (wszystkie zaokrąglowe w dół):\n- Za każde (Zużyta wartość / 20), zwraca 1 zasób E.G.O (w danej kolejności: Pycha, po tym Gniew)\n- Za każde (Zużyta wartość / 10), zyskaj +1 Wagi Ataku (maks 4)\n- Za każde (Zużyta wartość / 10), zyskaj [DefenseUp] (raz na turę)\n- Jeżel ta Zdolność zużyła 40 Wartości, 4 Moneta zadaje +<style=\"highlight\">100</style>% obrażeń, a ta jednostka zyskuje 2 [Protection] (raz na turę)\n\n[BeforeAttack] Zadaj +5% obrażeń za każde 8 ([Combustion] + [Vibration]) na głównym celu (maks 25%)\n[EndSkill] Ulecz 5 SP za każdy cel, który został Zachwiany lub zabity obrażeniami tej Zdolności (maks 25)\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndBattle] Jeśli ta Zdolność nie zużyła 40 [MlynarWaiting], Żeton Umiejętności najbliżej lewej strony Tablicy otrzymuje +4 [Aggro] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ponownie użyj tą Monetę ((Zużyta wartość [MlynarWaiting] / 10) - 1) razy (maks 3 razy)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Jeśli ta Moneta nie Pękła i jeśli jest wymierzona w +3 przeciwników, ostatnia użyta Moneta zadaje +<style=\"highlight\">20</style>% obrażeń (w Skupionych Potyczkach, każda Część liczy się jako 1 cel)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli to jest ostatnia Moneta i jeśli cel ma 15+ Siły [Vibration], aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta Moneta została użyta 4 razy, zadaj obrażenia od Lenistwa równe [Vibration] na celu (maks <style=\"highlight\">10</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chwała Pozbawiona Blasku - Napływ",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[WhenUse] +1 Mocy Bazowej mając 40 [MlynarWaiting]\n\n[BeforeAttack] Zużyj całe [MlynarWaiting] by zyskać te efekty (wszystkie zaokrąglowe w dół):\n- Zyskaj (Zużyta wartość / 10) [DefenseUp] (raz na turę)\n- Jeżel ta Zdolność zużyła 40 Wartości, ostatnia Moneta zadaje +110% obrażeń a ta jednostka zyskuje 2 [Protection] (raz na turę)\n\n[BeforeAttack] Zadaj +3% obrażeń za każde 6 ([Combustion] + [Vibration]) na głównym celu (maks 15%)\n[BeforeAttack] -4 Bazowej Mocy za każdą Pękniętą Monetę (maks -16)\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndBattle] Jeśli ta Zdolność zużyła 40 [MlynarWaiting], Żeton Umiejętności najbliżej lewej strony Tablicy otrzymuje +8 [Aggro] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli cel ma 15+ Siły [Vibration], aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chwała Pozbawiona Blasku - Napływ",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n<style=\"highlight\">Atakując 3+ cele: Jeśli pierwsze 3 Monety uderzą bez Pękania, ostatnia Moneta zadaje +25% obrażeń (raz na Monetę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)</style>\n[WhenUse] Mając 40 [MlynarWaiting], +1 Mocy Bazowej\n\n[BeforeAttack] Zużyj całe [MlynarWaiting] by zyskać te efekty (wszystkie zaokrąglowe w dół):\n- Zyskaj (Zużyta wartość / 10) [DefenseUp] (raz na turę)\n- Jeżel ta Zdolność zużyła 40 Wartości, ostatnia Moneta zadaje +<style=\"highlight\">130</style>% obrażeń a ta jednostka zyskuje 2 [Protection] (raz na turę)\n\n[BeforeAttack] Zadaj +3% obrażeń za każde 6 ([Combustion] + [Vibration]) na głównym celu (maks 15%)\n[BeforeAttack] -4 Bazowej Mocy za każdą Pękniętą Monetę (maks -16)\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndBattle] Jeśli ta Zdolność zużyła 40 [MlynarWaiting], Żeton Umiejętności najbliżej lewej strony Tablicy otrzymuje +8 [Aggro] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli cel ma 15+ Siły [Vibration], aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chwała Pozbawiona Blasku - Napływ",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nAtakując 3+ cele: Jeśli pierwsze 3 Monety uderzą bez Pękania, ostatnia Moneta zadaje +<style=\"highlight\">30</style>% obrażeń (raz na Monetę; w Skupionych Potyczkach, każda Część liczy się jako 1 cel)\n[WhenUse] Mając 40 [MlynarWaiting], +1 Mocy Bazowej\n\n[BeforeAttack] Zużyj całe [MlynarWaiting] by zyskać te efekty (wszystkie zaokrąglowe w dół):\n- Zyskaj (Zużyta wartość / 10) [DefenseUp] (raz na turę)\n- Jeżel ta Zdolność zużyła 40 Wartości, ostatnia Moneta zadaje +<style=\"highlight\">160</style>% obrażeń a ta jednostka zyskuje 2 [Protection] (raz na turę)\n\n[BeforeAttack] Zadaj +3% obrażeń za każde 6 ([Combustion] + [Vibration]) na głównym celu (maks 15%)\n[BeforeAttack] -4 Bazowej Mocy za każdą Pękniętą Monetę (maks -16)\n[EndSkill] Zyskaj 1 [MlynarWaiting]\n[EndBattle] Jeśli ta Zdolność zużyła 40 [MlynarWaiting], Żeton Umiejętności najbliżej lewej strony Tablicy otrzymuje +8 [Aggro] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli cel ma 15+ Siły [Vibration], aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

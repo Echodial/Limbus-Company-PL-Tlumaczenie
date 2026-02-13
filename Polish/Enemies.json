@@ -1,0 +1,2494 @@
+{
+  "dataList": [
+    {
+      "id": 8001,
+      "name": "Jabłko Hebanowej Królowej",
+      "desc": "Core"
+    },
+    {
+      "id": 800101,
+      "name": "Owoc",
+      "desc": "Part"
+    },
+    {
+      "id": 800102,
+      "name": "Lewy Trzon",
+      "desc": "Part"
+    },
+    {
+      "id": 800103,
+      "name": "Prawy Trzon",
+      "desc": "Part"
+    },
+    {
+      "id": 800104,
+      "name": "Korzenie",
+      "desc": "Part"
+    },
+    {
+      "id": 90004,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90005,
+      "name": "Cięty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90006,
+      "name": "Wygłodzony Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90007,
+      "name": "Naczelny Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90008,
+      "name": "Rozpalony Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90009,
+      "name": "Zmieszany Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90010,
+      "name": "Zaniedbany Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90011,
+      "name": "Szemrany Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90012,
+      "name": "Wulgarny Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90013,
+      "name": "Cięty Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90001,
+      "name": "Zahartowany Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90002,
+      "name": "Przybity Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90003,
+      "name": "Rozgoryczony Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90014,
+      "name": "Wspomnienie Pomylonego Żołnierza",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90015,
+      "name": "Wspomnienie Pogrążonego Żołnierza",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90016,
+      "name": "Wspomnienie Pochłoniętego Żołnierza",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91001,
+      "name": "Naczelny Kierownik Starego G Corpu",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 91002,
+      "name": "Wspomnienie Gnijącego Naczelnego Kierownika G Corpu",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 8901,
+      "name": "Peccatulum Gulae",
+      "desc": "Core"
+    },
+    {
+      "id": 8005,
+      "name": "Peccatulum Gulae",
+      "desc": "Core"
+    },
+    {
+      "id": 8006,
+      "name": "Peccatulum Pigritiae",
+      "desc": "Core"
+    },
+    {
+      "id": 8007,
+      "name": "Peccatulum Irae",
+      "desc": "Core"
+    },
+    {
+      "id": 8002,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 80022,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 80023,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 80024,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 8003,
+      "name": "Gliniana Lalka Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 8004,
+      "name": "Płonąca Gliniana Lalka",
+      "desc": "Core"
+    },
+    {
+      "id": 8008,
+      "name": "Złote Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 8009,
+      "name": "Fałszywe Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 8010,
+      "name": "Być Silny? Poważnie?",
+      "desc": "Core"
+    },
+    {
+      "id": 8011,
+      "name": "Zdobyć Moc! Na serio?",
+      "desc": "Core"
+    },
+    {
+      "id": 8012,
+      "name": "Chcesz Dostać Łomot? Boleśnie?",
+      "desc": "Core"
+    },
+    {
+      "id": 8013,
+      "name": "Oczarowany Różowymi Butami",
+      "desc": "Core"
+    },
+    {
+      "id": 8014,
+      "name": "Opętany Różowymi Butami",
+      "desc": "Core"
+    },
+    {
+      "id": 8015,
+      "name": "Tup tup tup? Tupot Wielkich Stóp!",
+      "desc": "Core"
+    },
+    {
+      "id": 8016,
+      "name": "Peccatulum Morositatis",
+      "desc": "Core"
+    },
+    {
+      "id": 8017,
+      "name": "Peccatulum Luxuriae",
+      "desc": "Core"
+    },
+    {
+      "id": 8018,
+      "name": "Peccatulum Superbiae",
+      "desc": "Core"
+    },
+    {
+      "id": 8019,
+      "name": "Wybudzony Ze Snu Sąsiad",
+      "desc": "Core"
+    },
+    {
+      "id": 8020,
+      "name": "Zbudzony Sąsiad",
+      "desc": "Core"
+    },
+    {
+      "id": 8021,
+      "name": "Zamarznięty Niewolnik Górniczy",
+      "desc": "Core"
+    },
+    {
+      "id": 8022,
+      "name": "Lodowaty Niewolnik Górniczy",
+      "desc": "Core"
+    },
+    {
+      "id": 8023,
+      "name": "Baba Jaga",
+      "desc": "Core"
+    },
+    {
+      "id": 8024,
+      "name": "Postępujący Inkwizytor",
+      "desc": "Core"
+    },
+    {
+      "id": 8025,
+      "name": "Czworonoga Bestia",
+      "desc": "Core"
+    },
+    {
+      "id": 8026,
+      "name": "Wszystko Tam Jest Inkwizytora",
+      "desc": "Core"
+    },
+    {
+      "id": 8027,
+      "name": "Czołgający Się Inkwizytor",
+      "desc": "Core"
+    },
+    {
+      "id": 8028,
+      "name": "Wijący Się Inkwizytor",
+      "desc": "Core"
+    },
+    {
+      "id": 8029,
+      "name": "Kromer",
+      "desc": "Core"
+    },
+    {
+      "id": 8030,
+      "name": "Kromer Śniąca O Pełności Ludzkości",
+      "desc": "Core"
+    },
+    {
+      "id": 8031,
+      "name": "Bezgłowy Ichthys",
+      "desc": "Core"
+    },
+    {
+      "id": 8032,
+      "name": "Wilk Z Alei",
+      "desc": "Core"
+    },
+    {
+      "id": 890101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 800501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 800601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 800701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 800201,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 800202,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 800203,
+      "name": "Twarz",
+      "desc": "Part"
+    },
+    {
+      "id": 800301,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 800401,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 800801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 800901,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 800902,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 800903,
+      "name": "Nogi",
+      "desc": "Part"
+    },
+    {
+      "id": 801001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801202,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 801301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801502,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 801601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 801901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802401,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 802402,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 802802,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 802803,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 802901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 803001,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 803002,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 803003,
+      "name": "Paszcza",
+      "desc": "Part"
+    },
+    {
+      "id": 803004,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 803101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 803102,
+      "name": "Prawa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 803103,
+      "name": "Lewa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 803104,
+      "name": "Ogon",
+      "desc": "Part"
+    },
+    {
+      "id": 803201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 803202,
+      "name": "Słup",
+      "desc": "Part"
+    },
+    {
+      "id": 803203,
+      "name": "Osoba",
+      "desc": "Part"
+    },
+    {
+      "id": 803204,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 90017,
+      "name": "Nieokrzesany Członek Tingangów",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90018,
+      "name": "Wypinający Pierś Członek Tingangów",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90019,
+      "name": "Nie Lubiący Fasoli Członek Tingangów",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91003,
+      "name": "Szef Gangu Tingtang",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 90020,
+      "name": "Sztywny Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90021,
+      "name": "Pewny Siebie Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90022,
+      "name": "Spokojny Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90023,
+      "name": "Główny Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90024,
+      "name": "Mariachi Alegre",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90025,
+      "name": "Mariachi Vivaz",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91004,
+      "name": "Aida",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 90026,
+      "name": "Groźny Członek Tieqiu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90027,
+      "name": "Mocny Członek Tieqiu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90028,
+      "name": "Spokojny Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90029,
+      "name": "Cichy Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90030,
+      "name": "Sztywny Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90031,
+      "name": "Solicny Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90032,
+      "name": "Usłuszny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90033,
+      "name": "Uległy Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90034,
+      "name": "Wielbiący Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90035,
+      "name": "Chłostający Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90036,
+      "name": "Dociekliwy Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90037,
+      "name": "Sadystyczny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90038,
+      "name": "Obsesyjny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90039,
+      "name": "Radosny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90040,
+      "name": "Nieustraszony Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91005,
+      "name": "Guido Nieustępliwy",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91006,
+      "name": "Guido Nieustępliwy",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99004,
+      "name": "Wygłodzony Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99005,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99006,
+      "name": "Cięty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99007,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99008,
+      "name": "Cięty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99009,
+      "name": "Wygłodzony Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99010,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99011,
+      "name": "Cięty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99012,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99013,
+      "name": "Cięty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99014,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99015,
+      "name": "Wygłodzony Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99016,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99017,
+      "name": "Wygłodzony Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99018,
+      "name": "Naczelny Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99019,
+      "name": "Głąbowaty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99020,
+      "name": "Wygłodzony Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 99021,
+      "name": "Cięty Chuligan",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90041,
+      "name": "Niewolnik",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 8033,
+      "name": "Wijąca Się Bestia",
+      "desc": "Core"
+    },
+    {
+      "id": 803301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 803302,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 97101,
+      "name": "Szemrany Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97102,
+      "name": "Wulgarny Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97103,
+      "name": "Razor-sharp Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97104,
+      "name": "Zahartowany Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97105,
+      "name": "Downcast Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97106,
+      "name": "Embittered Weteran",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97107,
+      "name": "Wspomnienie Pomylonego Żołnierza",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97108,
+      "name": "Wspomnienie Pogrążonego Żołnierza",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97109,
+      "name": "Wspomnienie Pochłoniętego Żołnierza",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97151,
+      "name": "Naczelny Kierownik Starego G Corpu",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 97152,
+      "name": "Wspomnienie Gnijącego Naczelnego Kierownika G Corpu",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 97201,
+      "name": "Sztywny Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97202,
+      "name": "Pewny Siebie Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97203,
+      "name": "Spokojny Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97204,
+      "name": "Mariachi Alegre",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97205,
+      "name": "Mariachi Vivaz",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97206,
+      "name": "Groźny Członek Tieqiu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97207,
+      "name": "Mocny Członek Tieqiu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97251,
+      "name": "Główny Ochroniarz Kasyna",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97252,
+      "name": "Aida",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 97301,
+      "name": "Usłuszny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97302,
+      "name": "Uległy Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97303,
+      "name": "Wielbiący Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97304,
+      "name": "Chłostający Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97305,
+      "name": "Dociekliwy Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97306,
+      "name": "Sadystyczny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97307,
+      "name": "Obsesyjny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97308,
+      "name": "Radosny Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97309,
+      "name": "Nieustraszony Inkwizytor N Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 97351,
+      "name": "Guido Nieustępliwy",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 8701,
+      "name": "Jabłko Hebanowej Królowej",
+      "desc": "Core"
+    },
+    {
+      "id": 870101,
+      "name": "Owoc",
+      "desc": "Part"
+    },
+    {
+      "id": 870102,
+      "name": "Lewy Trzon",
+      "desc": "Part"
+    },
+    {
+      "id": 870103,
+      "name": "Prawy Trzon",
+      "desc": "Part"
+    },
+    {
+      "id": 870104,
+      "name": "Korzenie",
+      "desc": "Part"
+    },
+    {
+      "id": 8702,
+      "name": "Bezgłowy Ichthys",
+      "desc": "Core"
+    },
+    {
+      "id": 870201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 870202,
+      "name": "Prawa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 870203,
+      "name": "Lewa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 870204,
+      "name": "Ogon",
+      "desc": "Part"
+    },
+    {
+      "id": 8703,
+      "name": "Złote Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 870301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8704,
+      "name": "Fałszywe Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 870401,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 870402,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 870403,
+      "name": "Nogi",
+      "desc": "Part"
+    },
+    {
+      "id": 8705,
+      "name": "Wilk Z Alei",
+      "desc": "Core"
+    },
+    {
+      "id": 870501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 870502,
+      "name": "Słup",
+      "desc": "Part"
+    },
+    {
+      "id": 870503,
+      "name": "Osoba",
+      "desc": "Part"
+    },
+    {
+      "id": 870504,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8706,
+      "name": "Być Silny? Poważnie?",
+      "desc": "Core"
+    },
+    {
+      "id": 870601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8707,
+      "name": "Zdobyć Moc! Na serio?",
+      "desc": "Core"
+    },
+    {
+      "id": 870701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8708,
+      "name": "Chcesz Dostać Łomot? Boleśnie?",
+      "desc": "Core"
+    },
+    {
+      "id": 870801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 870802,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8709,
+      "name": "Oczarowany Różowymi Butami",
+      "desc": "Core"
+    },
+    {
+      "id": 870901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8710,
+      "name": "Opętany Różowymi Butami",
+      "desc": "Core"
+    },
+    {
+      "id": 871001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8711,
+      "name": "Tup tup tup? Tupot Wielkich Stóp!",
+      "desc": "Core"
+    },
+    {
+      "id": 871101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 871102,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8712,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 871201,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 871202,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 871203,
+      "name": "Twarz",
+      "desc": "Part"
+    },
+    {
+      "id": 87122,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 87123,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 87124,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 8713,
+      "name": "Gliniana Lalka Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 871301,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8714,
+      "name": "Płonąca Gliniana Lalka",
+      "desc": "Core"
+    },
+    {
+      "id": 871401,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8721,
+      "name": "Jabłko Hebanowej Królowej",
+      "desc": "Core"
+    },
+    {
+      "id": 872101,
+      "name": "Owoc",
+      "desc": "Part"
+    },
+    {
+      "id": 872102,
+      "name": "Lewy Trzon",
+      "desc": "Part"
+    },
+    {
+      "id": 872103,
+      "name": "Prawy Trzon",
+      "desc": "Part"
+    },
+    {
+      "id": 872104,
+      "name": "Korzenie",
+      "desc": "Part"
+    },
+    {
+      "id": 8722,
+      "name": "Bezgłowy Ichthys",
+      "desc": "Core"
+    },
+    {
+      "id": 872201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 872202,
+      "name": "Prawa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 872203,
+      "name": "Lewa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 872204,
+      "name": "Ogon",
+      "desc": "Part"
+    },
+    {
+      "id": 8723,
+      "name": "Złote Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 872301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8724,
+      "name": "Fałszywe Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 872401,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 872402,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 872403,
+      "name": "Nogi",
+      "desc": "Part"
+    },
+    {
+      "id": 8725,
+      "name": "Wilk Z Alei",
+      "desc": "Core"
+    },
+    {
+      "id": 872501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 872502,
+      "name": "Słup",
+      "desc": "Part"
+    },
+    {
+      "id": 872503,
+      "name": "Osoba",
+      "desc": "Part"
+    },
+    {
+      "id": 872504,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8726,
+      "name": "Być Silny? Poważnie?",
+      "desc": "Core"
+    },
+    {
+      "id": 872601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8727,
+      "name": "Zdobyć Moc! Na serio?",
+      "desc": "Core"
+    },
+    {
+      "id": 872701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8728,
+      "name": "Chcesz Dostać Łomot? Boleśnie?",
+      "desc": "Core"
+    },
+    {
+      "id": 872801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 872802,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8729,
+      "name": "Oczarowany Różowymi Butami",
+      "desc": "Core"
+    },
+    {
+      "id": 872901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8730,
+      "name": "Opętany Różowymi Butami",
+      "desc": "Core"
+    },
+    {
+      "id": 873001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8731,
+      "name": "Tup tup tup? Tupot Wielkich Stóp!",
+      "desc": "Core"
+    },
+    {
+      "id": 873101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 873102,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8732,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 873201,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 873202,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 873203,
+      "name": "Twarz",
+      "desc": "Part"
+    },
+    {
+      "id": 87322,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 87323,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 87324,
+      "name": "Kalendarz Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 8733,
+      "name": "Gliniana Lalka Końca Świata",
+      "desc": "Core"
+    },
+    {
+      "id": 873301,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8734,
+      "name": "Płonąca Gliniana Lalka",
+      "desc": "Core"
+    },
+    {
+      "id": 873401,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 90042,
+      "name": "Zdezorientowany Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90043,
+      "name": "Przytłoczony Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90044,
+      "name": "Skołowany Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90045,
+      "name": "Oszołomiony Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 8034,
+      "name": "Głowokurczak Imeniem Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 803401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8035,
+      "name": "Głowokurczak Imeniem Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 803501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8036,
+      "name": "Głowokurczak Imeniem Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 803601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8037,
+      "name": "Głowokurczak Imeniem Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 803701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8038,
+      "name": "Papa Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 803801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8039,
+      "name": "Papa Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 803901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 803902,
+      "name": "Wiaderko Kurczaka",
+      "desc": "Part"
+    },
+    {
+      "id": 8040,
+      "name": "Doprawiony Papa Bongy",
+      "desc": "Core"
+    },
+    {
+      "id": 804001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 804002,
+      "name": "Wiaderko Kurczaka",
+      "desc": "Part"
+    },
+    {
+      "id": 8041,
+      "name": "Mosiężny Byk - Łzawy",
+      "desc": "Core"
+    },
+    {
+      "id": 804101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 804102,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8042,
+      "name": "Dron Nagrywający K Corpu",
+      "desc": "Core"
+    },
+    {
+      "id": 804201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8043,
+      "name": "Lobotomy E.G.O::Słoneczna Mrzawka - Dongbaek",
+      "desc": "Core"
+    },
+    {
+      "id": 804301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8044,
+      "name": "Dongbaek E.G.O::Lindera",
+      "desc": "Core"
+    },
+    {
+      "id": 804401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8045,
+      "name": "Rażąca Stonoga",
+      "desc": "Core"
+    },
+    {
+      "id": 804501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 804502,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8046,
+      "name": "Dryfujący Lis",
+      "desc": "Core"
+    },
+    {
+      "id": 804601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 804602,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8047,
+      "name": "By Już Nikt Nie Zapłakał",
+      "desc": "Core"
+    },
+    {
+      "id": 804701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 804702,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8048,
+      "name": "Wróżkowy Dźetelmen",
+      "desc": "Core"
+    },
+    {
+      "id": 804801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 804802,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8049,
+      "name": "Dongrang, Zaprzeczający Wszystkiemu",
+      "desc": "Core"
+    },
+    {
+      "id": 8050,
+      "name": "Rozkwitłe E.G.O::Folwark",
+      "desc": "Core"
+    },
+    {
+      "id": 8051,
+      "name": "Wróżkowe Wino",
+      "desc": "Core"
+    },
+    {
+      "id": 805101,
+      "name": "Beczka Wina",
+      "desc": "Part"
+    },
+    {
+      "id": 8052,
+      "name": "Stary Parasol",
+      "desc": "Core"
+    },
+    {
+      "id": 805201,
+      "name": "Parasol",
+      "desc": "Part"
+    },
+    {
+      "id": 8053,
+      "name": "Stary Parasol",
+      "desc": "Core"
+    },
+    {
+      "id": 805301,
+      "name": "Parasol",
+      "desc": "Part"
+    },
+    {
+      "id": 8054,
+      "name": "Bliski Zakwitnięcia Kwiat",
+      "desc": "Core"
+    },
+    {
+      "id": 805401,
+      "name": "Pąk",
+      "desc": "Part"
+    },
+    {
+      "id": 90046,
+      "name": "Dron Nagrywający K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90047,
+      "name": "Niedopracowany Piło-Bot",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90048,
+      "name": "Niedopracowany Wyburzenio-Bot",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90049,
+      "name": "Ukończony Piło-Bot",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90050,
+      "name": "Ukończony Wyburzenio-Bot",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91007,
+      "name": "Porządny Złączono-Bot",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 90051,
+      "name": "Pewny Siebie Fixer Warsztatu Rosespanner",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90052,
+      "name": "Dumny Fixer Warsztatu Rosespanner",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90053,
+      "name": "Drżący Fixer Warsztatu Rosespanner",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91008,
+      "name": "Reprezentant Warsztatu Rosespanner Niko",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 90054,
+      "name": "Zastraszony Personel K Corpu Klasy 1",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90055,
+      "name": "Szantażowany Personel K Corpu Klasy 1",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90056,
+      "name": "Zhakowany Dron Regenarycyjny K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90057,
+      "name": "Zhakowany Dron Regenarycyjny K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90058,
+      "name": "Lobotomy E.G.O::Chlupotanie",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90059,
+      "name": "Lobotomy E.G.O::Czerwona Płachta",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90060,
+      "name": "Lobotomy E.G.O::Chlupotanie",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90061,
+      "name": "Lobotomy E.G.O::Czerwona Płachta",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91009,
+      "name": "Lobotomy E.G.O::Czerwona Płachta - Marile",
+      "desc": "Enemy Boss"
+    },
+    {
+      "id": 90062,
+      "name": "Przebudzone Lobotomy E.G.O::Chlupotanie",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90063,
+      "name": "Przebudzone Lobotomy E.G.O::Czerwona Płachta",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90064,
+      "name": "Ożywiony Ochroniarz K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90065,
+      "name": "Ożywiony Ochroniarz K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90066,
+      "name": "Ożywiony Personel K Corpu Klasy 1",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90067,
+      "name": "Ożywiony Personel K Corpu Klasy 1",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90068,
+      "name": "Ożywiony Personel K Corpu Klasy 3",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90069,
+      "name": "Ożywiony Wzmocniony Personel K Corpu Klasy 3",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90070,
+      "name": "Wyobrażony Komornik Klasy 3 T Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 91010,
+      "name": "Przebudzone Lobotomy E.G.O::Czerwona Płachta - Marile",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90071,
+      "name": "Dron Aresztujący K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90072,
+      "name": "Dron Nagrywający K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90073,
+      "name": "Przerażony Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90074,
+      "name": "Drżący Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90075,
+      "name": "Osłupiały Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 90076,
+      "name": "Bojaźliwy Ochroniarz Punktu Kontrolnego K Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 8055,
+      "name": "Zakwitnięty Kwiat",
+      "desc": "Core"
+    },
+    {
+      "id": 805501,
+      "name": "Pąk",
+      "desc": "Part"
+    },
+    {
+      "id": 80442,
+      "name": "Dongbaek E.G.O::Lindera",
+      "desc": "Core"
+    },
+    {
+      "id": 8056,
+      "name": "Drzewo Próżności",
+      "desc": "Core"
+    },
+    {
+      "id": 805601,
+      "name": "Owoc Próżności",
+      "desc": "Part"
+    },
+    {
+      "id": 8057,
+      "name": "Drzewo Urazy",
+      "desc": "Core"
+    },
+    {
+      "id": 805701,
+      "name": "Uraza",
+      "desc": "Part"
+    },
+    {
+      "id": 8060,
+      "name": "Drzewo Pragnień",
+      "desc": "Core"
+    },
+    {
+      "id": 806001,
+      "name": "Pragnienie",
+      "desc": "Part"
+    },
+    {
+      "id": 804901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8058,
+      "name": "Wróżkowa Latarnia",
+      "desc": "Core"
+    },
+    {
+      "id": 805801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 80492,
+      "name": "Dongrang, Zaprzeczający Wszystkiemu",
+      "desc": "Core"
+    },
+    {
+      "id": 80493,
+      "name": "Dongrang, Zaprzeczający Wszystkiemu",
+      "desc": "Core"
+    },
+    {
+      "id": 8061,
+      "name": "Pochłaniające Drzewo",
+      "desc": "Core"
+    },
+    {
+      "id": 806101,
+      "name": "Drzewo",
+      "desc": "Part"
+    },
+    {
+      "id": 805001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 805802,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 805803,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8059,
+      "name": "Wróżka Dłógonóżka",
+      "desc": "Core"
+    },
+    {
+      "id": 805901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 805902,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8064,
+      "name": "Peccatulum Gulae",
+      "desc": "Core"
+    },
+    {
+      "id": 8065,
+      "name": "Peccatulum Pigritiae",
+      "desc": "Core"
+    },
+    {
+      "id": 8066,
+      "name": "Peccatulum Irae",
+      "desc": "Core"
+    },
+    {
+      "id": 8067,
+      "name": "Peccatulum Morositatis",
+      "desc": "Core"
+    },
+    {
+      "id": 8068,
+      "name": "Peccatulum Luxuriae",
+      "desc": "Core"
+    },
+    {
+      "id": 8069,
+      "name": "Peccatulum Superbiae",
+      "desc": "Core"
+    },
+    {
+      "id": 806401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 806501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 806601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 806701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 806801,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 806901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 805903,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8062,
+      "name": "Wielki Liść",
+      "desc": "Core"
+    },
+    {
+      "id": 806201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8075,
+      "name": "Szlochająca Ropucha",
+      "desc": "Core"
+    },
+    {
+      "id": 807501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 807502,
+      "name": "Lewe Oko",
+      "desc": "Part"
+    },
+    {
+      "id": 807503,
+      "name": "Prawe Oko",
+      "desc": "Part"
+    },
+    {
+      "id": 8076,
+      "name": "kqe-1j-23",
+      "desc": "Core"
+    },
+    {
+      "id": 807601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8077,
+      "name": "Serce Miasta",
+      "desc": "Core"
+    },
+    {
+      "id": 807701,
+      "name": "Serce",
+      "desc": "Part"
+    },
+    {
+      "id": 8078,
+      "name": "Ma Forma Się Opróżnia",
+      "desc": "Core"
+    },
+    {
+      "id": 807801,
+      "name": "Buddha Mūrti",
+      "desc": "Part"
+    },
+    {
+      "id": 807802,
+      "name": "Kamienna Platforma",
+      "desc": "Part"
+    },
+    {
+      "id": 8079,
+      "name": "Zwiedzony Guido",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 807901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8080,
+      "name": "Zwiedzona Aida",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 808001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8081,
+      "name": "Zwiedzony Gnijącegy Naczelnegy Kierownik G Corpu",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 808101,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8082,
+      "name": "Kromer",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 808201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8083,
+      "name": "Kromer Śniąca O Pełności Ludzkości",
+      "desc": "Core"
+    },
+    {
+      "id": 808301,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 808302,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 808303,
+      "name": "Paszcza",
+      "desc": "Part"
+    },
+    {
+      "id": 90082,
+      "name": "K Corpu Class 3 Excision Staff",
+      "desc": "Enemy Unit"
+    },
+    {
+      "id": 8084,
+      "name": "Bezgłowy Ichthys",
+      "desc": "Core"
+    },
+    {
+      "id": 808401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 808402,
+      "name": "Prawa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 808403,
+      "name": "Lewa Noga",
+      "desc": "Part"
+    },
+    {
+      "id": 808404,
+      "name": "Ogon",
+      "desc": "Part"
+    },
+    {
+      "id": 8085,
+      "name": "Wilk Z Alei",
+      "desc": "Core"
+    },
+    {
+      "id": 808501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 808502,
+      "name": "Słup",
+      "desc": "Part"
+    },
+    {
+      "id": 808503,
+      "name": "Osoba",
+      "desc": "Part"
+    },
+    {
+      "id": 808504,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8086,
+      "name": "Rażąca Stonoga",
+      "desc": "Core"
+    },
+    {
+      "id": 808601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 808602,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8087,
+      "name": "Dryfujący Lis",
+      "desc": "Core"
+    },
+    {
+      "id": 808701,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 808702,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8088,
+      "name": "Stary Parasol",
+      "desc": "Core"
+    },
+    {
+      "id": 808801,
+      "name": "Parasol",
+      "desc": "Part"
+    },
+    {
+      "id": 8089,
+      "name": "By Już Nikt Nie Zapłakał",
+      "desc": "Core"
+    },
+    {
+      "id": 808901,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 808902,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8090,
+      "name": "Wróżkowy Dźetelmen",
+      "desc": "Core"
+    },
+    {
+      "id": 809001,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 809002,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8091,
+      "name": "Wróżkowe Wino",
+      "desc": "Core"
+    },
+    {
+      "id": 809101,
+      "name": "Beczka Wina",
+      "desc": "Part"
+    },
+    {
+      "id": 8092,
+      "name": "Wróżka Długonóżka",
+      "desc": "Core"
+    },
+    {
+      "id": 809201,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 809202,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 809203,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8093,
+      "name": "Wielki Liść",
+      "desc": "Core"
+    },
+    {
+      "id": 809301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8094,
+      "name": "Złote Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 8095,
+      "name": "Fałszywe Jabłko",
+      "desc": "Core"
+    },
+    {
+      "id": 809401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 809501,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 809502,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8096,
+      "name": "Mosiężny Byk - Łzawy",
+      "desc": "Core"
+    },
+    {
+      "id": 809601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 809602,
+      "name": "Głowa",
+      "desc": "Part"
+    },
+    {
+      "id": 8263,
+      "name": "Wróżkowa Królowa",
+      "desc": "Core"
+    },
+    {
+      "id": 826301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 826302,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 826303,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8264,
+      "name": "Masa Wróżkowa",
+      "desc": "Core"
+    },
+    {
+      "id": 826401,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 8265,
+      "name": "Wróżkowa Królowa",
+      "desc": "Core"
+    },
+    {
+      "id": 826501,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 826502,
+      "name": "Prawa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 826503,
+      "name": "Lewa Ręka",
+      "desc": "Part"
+    },
+    {
+      "id": 8266,
+      "name": "Masa Wróżkowa",
+      "desc": "Core"
+    },
+    {
+      "id": 826601,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 1058,
+      "name": "Portret Pewnego Dnia",
+      "desc": "Core"
+    },
+    {
+      "id": 1059,
+      "name": "Portret",
+      "desc": "Core"
+    },
+    {
+      "id": 1060,
+      "name": "Portret",
+      "desc": "Core"
+    },
+    {
+      "id": 1061,
+      "name": "Śniąca Elektryczna Owca",
+      "desc": "Core"
+    },
+    {
+      "id": 1062,
+      "name": "Generator",
+      "desc": "Core"
+    },
+    {
+      "id": 1063,
+      "name": "Spętany Król",
+      "desc": ""
+    },
+    {
+      "id": 99022,
+      "name": "Głąbowaty Chuligan",
+      "desc": ""
+    },
+    {
+      "id": 99023,
+      "name": "Cięty Chuligan",
+      "desc": ""
+    },
+    {
+      "id": 99024,
+      "name": "Naczelny Chuligan",
+      "desc": ""
+    },
+    {
+      "id": 99025,
+      "name": "Wygłodzony Chuligan",
+      "desc": ""
+    },
+    {
+      "id": 99026,
+      "name": "Wygłodzony Chuligan",
+      "desc": ""
+    },
+    {
+      "id": 1142,
+      "name": "Peccatulum Gulae",
+      "desc": "Core"
+    },
+    {
+      "id": 1143,
+      "name": "Peccatulum Gulae",
+      "desc": "Core"
+    },
+    {
+      "id": 114301,
+      "name": "Ciało",
+      "desc": "Part"
+    },
+    {
+      "id": 1222,
+      "name": "Der Fluchschütze",
+      "desc": "Core"
+    },
+    {
+      "id": 1174,
+      "name": "Śpiwór Minionego Dnia",
+      "desc": "Core"
+    },
+    {
+      "id": 1175,
+      "name": "Cztery Setki Róż",
+      "desc": "Core"
+    },
+    {
+      "id": 1172,
+      "name": "Naczelny Kierownik Starego G Corpu",
+      "desc": "Core"
+    },
+    {
+      "id": 1173,
+      "name": "Naczelny Kierownik Starego G Corpu",
+      "desc": "Core"
+    }
+  ]
+}

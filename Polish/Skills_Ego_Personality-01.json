@@ -1,0 +1,727 @@
+{
+  "dataList": [
+    {
+      "id": 2010611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[EndSkill] Losowo nałóż (6 + Rezon. Prygnębienia) [Sinking] między celami<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Sinking], nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[EndSkill] Losowo nałóż (6 + Rezon. Prygnębienia) [Sinking] między celami<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Sinking], nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[EndSkill] Losowo nałóż (6 + (<style=\"highlight\">Rezon. Prygnębienia x1.5</style>)) [Sinking] między celami",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Sinking], nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking]. Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Sinking], nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 3+ (Rezon. Prygnębienia), Waga ataku +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking]. Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Sinking], nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Minione Dni",
+          "abName": "Portret Pewnego Dnia",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 3+ (Rezon. Prygnębienia), Waga ataku +1\n[BeforeAttack] Przy 5+ (Rezon. Prygnębienia), dodatkowo Waga ataku +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking]. Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Sinking], nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przeklęty Pocisk",
+          "abName": "Der Fluchschütze",
+          "desc": "Celuje w jednostki z najmniejszą ilością HP (w pierwszej kolejności sojuszników)\n[BeforeAttack] Zyskaj (najwyższy Rezon + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Zyskaj 1 [Breath] za każde [BoseProjektil] (maks 7)\n[EndSkill] Strać wszystkie [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj +8% więcej obrażeń za każde [BoseProjektil] (maks 56%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] Nałóż 2 [Breath] na siebie i 2 losowych sojuszników<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym\n- Jeśli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+2% Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] (maks 14%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Przeklęty Pocisk",
+          "abName": "Der Fluchschütze",
+          "desc": "Celuje w jednostki z najmniejszą ilością HP (w pierwszej kolejności sojuszników)\n[BeforeAttack] Zyskaj (najwyższy Rezon + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Zyskaj 1 [Breath] za każde [BoseProjektil] (maks 7)\n[EndSkill] Strać wszystkie [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj <style=\"highlight\">+10%</style> więcej obrażeń za każde [BoseProjektil] (maks <style=\"highlight\">70%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] Nałóż 3 [Breath] na siebie i 2 losowych sojuszników<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 zasób E.G.O odpowiadający typem do 1 Zdolności zabitego sojusznika</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Zyskaj <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym\n- Jeśli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+5%</style> Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] (maks <style=\"highlight\">35%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przeklęty Pocisk",
+          "abName": "Der Fluchschütze",
+          "desc": "Celuje w jednostki z najmniejszą ilością HP (w pierwszej kolejności sojuszników)\n[BeforeAttack] Zyskaj (najwyższy Rezon + 1) [BoseProjektil] (maks 7)\n<style=\"highlight\">- Jeśli ten Rezon. był Rezonansem Pychy, zamiast tego zyskaj (najwyższy Rezon x 2) [BoseProjektil] (maks 7)</style>\n[BeforeAttack] Zyskaj 1 [Breath] za każde [BoseProjektil] (maks 7)\n[EndSkill] Strać wszystkie [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj <style=\"highlight\">+15%</style> więcej obrażeń za każde [BoseProjektil] (maks <style=\"highlight\">105%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] Nałóż 3 [Breath] na siebie i 2 losowych sojuszników<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 zasobów E.G.O odpowiadających typem do 1 i 2 Zdolności zabitego sojusznika</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Zyskaj <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym\n- Jeśli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+9%</style> Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] (maks <style=\"highlight\">63%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przeklęty Pocisk",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nCeluje w jednostki z najmniejszą ilością HP (w pierwszej kolejności sojuszników)\n[BeforeAttack] Zyskaj (najwyższy Rezon + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Zadaj +2% więcej obrażeń za każde [BoseProjektil] (maks 14%)\n[BeforeAttack] Zyskaj 1 [Breath] za każde [BoseProjektil] (maks 7)\n[EndSkill] Strać wszystkie [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj +10% więcej obrażeń za każde [BoseProjektil] (maks 70%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj +2% więcej obrażeń za każde [Breath] na sobie (maks 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] Nałóż 2 [Breath] na siebie i 3 losowych sojuszników<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] Następna Moneta zadaje +2% więcej obrażeń za każde [BoseProjektil] (maks 14%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] +1 zasobów E.G.O odpowiadających typem do 1 i 2 Zdolności zabitego sojusznika<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym\n- Jeśli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+2% Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] (maks 14%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 3 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Przeklęty Pocisk",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nCeluje w jednostki z najmniejszą ilością HP (w pierwszej kolejności sojuszników)\n[BeforeAttack] Zyskaj (najwyższy Rezon + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Zadaj <style=\"highlight\">+3%</style> więcej obrażeń za każde [BoseProjektil] (maks <style=\"highlight\">21%</style>)\n[BeforeAttack] Zyskaj 1 [Breath] za każde [BoseProjektil] (maks 7)\n[EndSkill] Strać wszystkie [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj <style=\"highlight\">+12%</style> więcej obrażeń za każde [BoseProjektil] (maks <style=\"highlight\">84%</style>)"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj +2% więcej obrażeń za każde [Breath] na sobie (maks 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] Nałóż 3 [Breath] na siebie i <style=\"highlight\">3</style> losowych sojuszników"
+                },
+                {
+                  "desc": "[AllyKill] Następna Moneta zadaje <style=\"highlight\">+5%</style> więcej obrażeń za każde [BoseProjektil] (maks <style=\"highlight\">35%</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 zasobów E.G.O odpowiadających typem do 1, 2 i 3 Zdolności zabitego sojusznika</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Zyskaj <style=\"highlight\">2</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym\n- Jeśli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+3%</style> Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] (maks <style=\"highlight\">21%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przeklęty Pocisk",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nCeluje w jednostki z najmniejszą ilością HP (w pierwszej kolejności sojuszników)\n[BeforeAttack] Zyskaj (najwyższy Rezon + 1) [BoseProjektil] (maks 7)\n<style=\"highlight\">- Jeśli ten Rezon. był Rezonansem Pychy, zamiast tego zyskaj (najwyższy Rezon x 2) [BoseProjektil] (maks 7)</style>\n[BeforeAttack] Zadaj <style=\"highlight\">+4%</style> więcej obrażeń za każde [BoseProjektil] (maks 28%)\n[BeforeAttack] Zyskaj 1 [Breath] za każde [BoseProjektil] (maks 7)\n[EndSkill] Strać wszystkie [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj +15% więcej obrażeń za każde [BoseProjektil] (maks 105%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, zadaj +2% więcej obrażeń za każde [Breath] na sobie (maks 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+30% Obrażeń przy Trafieniu Krytycznym</style>"
+                },
+                {
+                  "desc": "[AllyKill] Nałóż 3 [Breath] na siebie i <style=\"highlight\">4</style> losowych sojuszników"
+                },
+                {
+                  "desc": "[AllyKill] Następna Moneta zadaje <style=\"highlight\">+7%</style> więcej obrażeń za każde [BoseProjektil] (maks <style=\"highlight\">49%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] +1 zasobów E.G.O odpowiadających typem do 1, 2 i 3 Zdolności zabitego sojusznika<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Zyskaj <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym\n- Jeśli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+4% Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] (maks 28%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż <style=\"highlight\">5</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to (([Sinking] on target / 3) (max 5; rounded down)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "<style=\"highlight\">[BeforeAttack] If the main target has 15+ ([Combustion] + [Sinking]), Coin Power +1</style>\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to ([Sinking] on target / 3) (max 5; rounded down)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] If the main target has <style=\"highlight\">10</style>+ ([Combustion] + [Sinking]), Coin Power +1\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to (([Sinking] on target / 3) (max 5; rounded down)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTargets randomly\nOn Coin Hit, gain 5 [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max 40%)<style=\"highlight\"></style>",
+                  "summary": "[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTargets randomly\nOn Coin Hit, gain <style=\"highlight\">4</style> [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max <style=\"highlight\">50</style>%)",
+                  "summary": "[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTargets randomly\nOn Coin Hit, gain <style=\"highlight\">3</style> [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max <style=\"highlight\">60</style>%)",
+                  "summary": "[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

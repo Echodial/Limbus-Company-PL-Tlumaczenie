@@ -1,0 +1,138 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_25_1",
+      "dlg": "- Hm. Na twoim miejscu wycofał bym ich trochę.\n- Hej, kontrakt zobowiązuje nas tylko do dopingu, po co dajesz im rady?"
+    },
+    {
+      "id": "announcer_cheer_25_2",
+      "dlg": "- Misja Rozpoczęta.\n- Czytaj ich wzory i nigdy nie daj się rozproszyć, dobra?\n- A jak już zrobi się gorąco nie spuszczaj palca ze spustu."
+    },
+    {
+      "id": "announcer_specialcheer_25_1",
+      "dlg": "- Odwrót i przegrupowanie mogą nie być najgorszym pomysłem.\n- Na tyłach czysto. Jak chcą się wycofać, nie będzie lepszej okazji.\n- Myśle że ciągle są w grze. Muszą tylko wyciąnąć jakiegoś asa z rękawa..."
+    },
+    {
+      "id": "announcer_specialcheer_25_2",
+      "dlg": "- Hm... Wyglądają na zmęczonych.\n- And so it goes.\n- Not to mention the breach of contract charges."
+    },
+    {
+      "id": "announcer_enemy_break_25_1",
+      "dlg": "- To wasza szansa. Jeden czysty strzał...\n- ...to wszystko czego potrzeba.\n- ...Ludzie, to nie jest nasz kontrakt."
+    },
+    {
+      "id": "announcer_ally_break_25_1",
+      "dlg": "- Jak tak dalej pójdzie to nie przeżyją tej walki.\n- Ciaśniejsza formacja powinna pomóc im stanąć z powrotem na nogi."
+    },
+    {
+      "id": "announcer_killenemy_25_1",
+      "dlg": "- Eliminacja celu potwierdzona.\n- To mi się podoba. Pamiętajcie tylko żeby nie tracić jeszcze skupienia."
+    },
+    {
+      "id": "announcer_ally_dead_25_1",
+      "dlg": "- You're losing your ranks...\n- Well, that's the City for you. Stay on your toes, or you'll be the first in line to the slaughterhouse."
+    },
+    {
+      "id": "announcer_enemy_adv_25_1",
+      "dlg": "- They're still fighting? They should just drop their weapons and—\n- What the hell are you talking about?!\n- You don't just throw away your weapons."
+    },
+    {
+      "id": "announcer_ally_advex_25_1",
+      "dlg": "- I like a good turnabout.\n- Turnabout my ass, we always barely escape from the missions with our lives.\n- We've always won in the end. That's what matters."
+    },
+    {
+      "id": "announcer_danger_25_1",
+      "dlg": "- Remember that one time? When we had just one bullet left between us.\n- And three remaining enemies. Tamaki finished them with a single shot, though.\n- Maybe they'll pull off something similar."
+    },
+    {
+      "id": "announcer_enemy_specialskill_25_1",
+      "dlg": "- Something's going on over there...\n- That one. It's getting ready for something, that's for sure."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_25_1",
+      "dlg": "- Which Workshop is that from? I've never seen anything like—\n- It might not be from a Workshop at all. What if it's a Singularity-based weapon?"
+    },
+    {
+      "id": "announcer_advatk_physical_25_1",
+      "dlg": "- Fire for effect. Very good.\n- Yep. Keep up the pace."
+    },
+    {
+      "id": "announcer_disadvatk_physical_25_1",
+      "dlg": "- What a waste of ammunition...\n- Just how many are they throwing away by shooting at something they can't even penetrate?"
+    },
+    {
+      "id": "announcer_advatk_attr_25_1",
+      "dlg": "- Ooh, that was a good call. \n- It's important to observe your enemies closely rather than firing blindly."
+    },
+    {
+      "id": "announcer_disadvatk_attr_25_1",
+      "dlg": "- Gotta use the right bullet for the right target.\n- Well... I'm sure that's a piece of advice that applies to more than just the bullets. Probably."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_25_1",
+      "dlg": "- They look pretty fired up... Maybe they took something.\n- Yeah, no. This is not a good time for an attack."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_25_1",
+      "dlg": "- Zoom in over here.\n- Hm... They're not doing so good. Time to press the attack."
+    },
+    {
+      "id": "announcer_ally_specialbuff_25_1",
+      "dlg": "- Looking good.\n- At this rate, they might even be able to challenge contracts of a higher difficulty."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_25_1",
+      "dlg": "- I'm going nuts over here... What are they waiting for?\n- Low morale, maybe. Might be a good idea to briefly regroup for now."
+    },
+    {
+      "id": "announcer_enemy_destroy_25_1",
+      "dlg": "- Target parts are blown off.\n- Good. That's one hole plugged."
+    },
+    {
+      "id": "announcer_enemy_destroy_25_2",
+      "dlg": "- Yes! Open fire!\n- Right. Let's not get too excited and take it slow—\n- Take it slow my ass! Can't they just focus fire at the broken part?"
+    },
+    {
+      "id": "announcer_round_takebigdmg_25_1",
+      "dlg": "- I don't know what else they can do against those enemies.\n- Yeah, I don't see a way to close that gap. Looks like they're shit outta luck."
+    },
+    {
+      "id": "announcer_round_takebigdmg_25_2",
+      "dlg": "- Just outta curiosity. What'll you do if I get blasted to near-death by an attack like that?\n- Leave you behind. Not much I can do.\n- ... Okay, I did expect that answer. But still."
+    },
+    {
+      "id": "announcer_round_givebigdmg_25_1",
+      "dlg": "- We really gotta get someone like that on board...\n- We're not at financial liberty to hire more people."
+    },
+    {
+      "id": "announcer_round_givebigdmg_25_2",
+      "dlg": "- That was impressive.\n- A lot of damage coming from one person. That was something else."
+    },
+    {
+      "id": "announcer_multikillenemy_25_1",
+      "dlg": "- Wow, now that's a rare sight~ Damn!\n- This'll be worth looking into later.\n- Mhm. I'll remember this."
+    },
+    {
+      "id": "announcer_special_25_1",
+      "dlg": "The Church guys'll be swarming you soon... Stay sharp and check if your weapons are in good shape!",
+      "imgStr": "Stephan_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_special_25_2",
+      "dlg": "There's no end to them, these weirdos with gears crammed into their heads... Keep your eyes on your ammo count, okay?",
+      "imgStr": "Stephan_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_special_25_3",
+      "dlg": "That's the last one... But something tells me they're dangerous. Don't get complacent.",
+      "imgStr": "Stephan_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_equip_25_1",
+      "dlg": "- It's a simple contract this time. We just sit here, watch a video, and make some commentary.\n- Nice~ Looks like we'll get to save on some bullet expenses.\n- I appreciate opportunities to do some nonviolent work."
+    }
+  ]
+}

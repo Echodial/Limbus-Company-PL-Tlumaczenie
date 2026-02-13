@@ -1,0 +1,529 @@
+{
+  "dataList": [
+    {
+      "id": 20101,
+      "name": "Z Lotu Kruka",
+      "desc": "Yi Sang’s Base E.G.O"
+    },
+    {
+      "id": 20102,
+      "name": "Płomień Czwartej Zapałki",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20103,
+      "name": "Kopiec Życzeń",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20201,
+      "name": "Nadajnik Reprezentacji",
+      "desc": "Faust’s Base E.G.O"
+    },
+    {
+      "id": 20202,
+      "name": "Pochwa z Surowicą",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20203,
+      "name": "Zaklęta Igła",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20301,
+      "name": "La Sangre de Sancho",
+      "desc": "Don Quixote’s Base E.G.O"
+    },
+    {
+      "id": 20302,
+      "name": "Pochwa z Surowicą",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 20401,
+      "name": "Las w Płomieniach",
+      "desc": "Ryōshū’s Base E.G.O"
+    },
+    {
+      "id": 20402,
+      "name": "Płomień Czwartej Zapałki",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20501,
+      "name": "Łańcuchy Obcych",
+      "desc": "Meursault’s Base E.G.O"
+    },
+    {
+      "id": 20502,
+      "name": "Zakręcony Łomot",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20503,
+      "name": "Pogoń",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20601,
+      "name": "Kraina Iluzji",
+      "desc": "Hong Lu’s Base E.G.O"
+    },
+    {
+      "id": 20602,
+      "name": "Różane Pożądanie",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 20701,
+      "name": "Wór na Ciało",
+      "desc": "Heathcliff’s Base E.G.O"
+    },
+    {
+      "id": 20702,
+      "name": "Elektryczny Słup",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 20801,
+      "name": "Chwytoharpun",
+      "desc": "Ishmael’s Base E.G.O"
+    },
+    {
+      "id": 20802,
+      "name": "Różane Pożądanie",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 20803,
+      "name": "Gwiazda Płomiennego Rozkwitu",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 20901,
+      "name": "Rzut Kośćmi Losu",
+      "desc": "Rodion’s Base E.G.O"
+    },
+    {
+      "id": 20902,
+      "name": "Płomień Czwartej Zapałki",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20903,
+      "name": "Oszronione Przebicie",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 21001,
+      "name": "Gałąź Wiedzy",
+      "desc": "Sinclair’s Base E.G.O"
+    },
+    {
+      "id": 21002,
+      "name": "Nadchodzący Dzień",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 21101,
+      "name": "To Páthos Máthos",
+      "desc": "Outis’s Base E.G.O"
+    },
+    {
+      "id": 21102,
+      "name": "Hebanowy Trzon",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 21103,
+      "name": "Ya Śūnyatā Tad Rūpam",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 21201,
+      "name": "Nagle, Pewnego Dnia",
+      "desc": "Gregor’s Base E.G.O"
+    },
+    {
+      "id": 21202,
+      "name": "Legerdemain",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 21203,
+      "name": "Latarnia",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 20303,
+      "name": "Elektryczny Słup",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 20204,
+      "name": "Elektryczny Słup",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20304,
+      "name": "Wieczna Zupa",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 21003,
+      "name": "Wieczna Zupa",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20104,
+      "name": "Szatkowanie Wymiaru",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20603,
+      "name": "Szatkowanie Wymiaru",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 20504,
+      "name": "Czerwona Kapota",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20804,
+      "name": "Czerwona Kapota",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 21104,
+      "name": "Słoneczna Mrzawka",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 21204,
+      "name": "AEDD",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 20703,
+      "name": "AEDD",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 20105,
+      "name": "Słoneczna Mrzawka",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20403,
+      "name": "Czerwone Oczy",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20404,
+      "name": "Czerwone Oczy (Otwarte)",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20405,
+      "name": "Soda",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20604,
+      "name": "Soda",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 21004,
+      "name": "Latarnia",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20704,
+      "name": "Ya Śūnyatā Tad Rūpam",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 20505,
+      "name": "Regret",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20605,
+      "name": "Żrąca Piana",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 20205,
+      "name": "9:2",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20406,
+      "name": "Ślepa Pogoń",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20805,
+      "name": "Ślepa Pogoń",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 20904,
+      "name": "Żrąca Piana",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 21005,
+      "name": "9:2",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20905,
+      "name": "Pogoń",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20705,
+      "name": "Święta",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 21105,
+      "name": "Święta",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 20305,
+      "name": "Kopiec Życzeń",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 21205,
+      "name": "Garden of Thorns",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 21206,
+      "name": "Bygone Days",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 20106,
+      "name": "Bygone Days",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20306,
+      "name": "Electric Screaming",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 20506,
+      "name": "Electric Screaming",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 21106,
+      "name": "Więzy",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 20706,
+      "name": "Więzy",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 20806,
+      "name": "Wingbeat",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 20906,
+      "name": "Zew Krwi",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20606,
+      "name": "Gorycz z Grot",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 21006,
+      "name": "Gorycz z Grot",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20206,
+      "name": "Nieustanność",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20407,
+      "name": "Odraza, Trwoga",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20707,
+      "name": "Fell Bullet",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 21107,
+      "name": "Szatkowanie Wymiaru",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 21207,
+      "name": "Solemn Lament",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 20807,
+      "name": "Bygone Days",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 20207,
+      "name": "Lasso",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20607,
+      "name": "Lasso",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 21007,
+      "name": "Zaklęta Igła",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20907,
+      "name": "Zaklęta Igła",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20507,
+      "name": "Yearning-Mircalla",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20307,
+      "name": "Yearning-Mircalla",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 20107,
+      "name": "Fell Bullet",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20708,
+      "name": "Asymmetrical Inertia",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 20808,
+      "name": "Christmas Nightmare",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 21208,
+      "name": "Christmas Nightmare",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 21108,
+      "name": "Koszmarny Pocisk",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 20408,
+      "name": "Torakalgia",
+      "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 20208,
+      "name": "Torakalgia",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20908,
+      "name": "Proces Pokazowy",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20308,
+      "name": "Red Sheet",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 20809,
+      "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 21008,
+      "name": "Łzy Zbeżczeszczonej Krwi [汚血泣淚]",
+      "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20608,
+      "name": "Łzy Zbeżczeszczonej Krwi [汚血泣淚]",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 20309,
+      "name": "In the Name of Love and Hate",
+      "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 20508,
+      "name": "Crushbound Past",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20209,
+      "name": "Rozkaz :: Załamanie",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20609,
+      "name": "Chciałbym Być Sobą [宁作吾]",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 20810,
+      "name": "Tidal Elegy",
+      "desc": "Ishmael’s E.G.O Gear"
+    },
+    {
+      "id": 21209,
+      "name": "Unbrilliant Glory",
+      "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 20709,
+      "name": "Move-in Reg.",
+      "desc": "Heathcliff’s E.G.O Gear"
+    },
+    {
+      "id": 21109,
+      "name": "I'll Go fer Scissors. How 'Bout You?",
+      "desc": "Outis’s E.G.O Gear"
+    },
+    {
+      "id": 20108,
+      "name": "Great Trichiliocosm [三千大世界]",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20409,
+      "name": "Great Trichiliocosm [三千大世界]",
+      "desc": "Ryōshū’s E.G.O Gear"
+    }
+  ]
+}

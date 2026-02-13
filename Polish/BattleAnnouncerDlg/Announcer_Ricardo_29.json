@@ -1,0 +1,134 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_29_1",
+      "dlg": "Oh, jakie puszyste, jakie mięciutkie... Stary, i to się nazywa dobry dzień! Wszystko zawsze idzie po mojej myśli jak budze się po puszytej stronie łóżka."
+    },
+    {
+      "id": "announcer_cheer_29_2",
+      "dlg": "Ja naprawde nie czaje jak można dać się wpisać do Księgi Porachunków. To nie tak że Środek ma kciuka w dupie jak... cóż, Kciuk. Nie jesteśmi pokręceni jak Wskaz... Naprawde, o co w tym biega?"
+    },
+    {
+      "id": "announcer_specialcheer_29_1",
+      "dlg": "Wszystko tam u was dobrze? Wyglądacie jakby ktoś wam nasrał do owsianki."
+    },
+    {
+      "id": "announcer_specialcheer_29_2",
+      "dlg": "Słuchaj, jak nie możesz, to nie możesz. Przestań się upierać i wycofaj się żeby ktoś starszy mógł się tym zająć."
+    },
+    {
+      "id": "announcer_enemy_break_29_1",
+      "dlg": "W porównaniu z tym co ci zrobimy, te połamane nogi będą wyglądać jak przyjęcie z herbatką."
+    },
+    {
+      "id": "announcer_ally_break_29_1",
+      "dlg": "Kurde, zemdleli. Teraz ich urazy będą wpisane do Księgi... Niedługo ich pomszcze."
+    },
+    {
+      "id": "announcer_killenemy_29_1",
+      "dlg": "Ten grzech był zbyt ciężki aby ich życie starczyło do jego odpłacenia... Dobra chłopcy, zabijamy wszystkich tutaj obecnych! Włącznie z tamtą grupką co trzęsie portkami w rogu!"
+    },
+    {
+      "id": "announcer_ally_dead_29_1",
+      "dlg": "Zaraz dowiedzą się, dlaczego nie zadziera się ze Środkiem! Zapiszcie ich wszystkich, wyryjcie ich podłe mordy w swojej pamięci i zmiażdżcie ich."
+    },
+    {
+      "id": "announcer_enemy_adv_29_1",
+      "dlg": "Środek zawsze pamięta. A ja... zapamiętam każde najmniejsze wykroczenie jakie dziś popełnili... i upewnie się że za nie wszystkie zapłacą!"
+    },
+    {
+      "id": "announcer_ally_adv_29_1",
+      "dlg": "... Ja już tak dłużej nie moge. Zaraz chyba umrę tu z nudów—skończcie z nimi, szybko."
+    },
+    {
+      "id": "announcer_ally_advex_29_1",
+      "dlg": "Środek nigdy nie zapomina... Nie żyjecie przecież w Mieście od wczoraj. Naprawde powinniście bardziej zwracać uwagę na to, pod którym palcem żyjecie. No chyba, że myśleliście że to wszystko to był jeden wielki blef... nie myśleliście tak, prawda?"
+    },
+    {
+      "id": "announcer_danger_29_1",
+      "dlg": "Zająłbym się tym problem dla was, ale... Wielka Siostra wyraźnie prosiła żebym nie interweniował. Jednak... jeśli upadniejcie w tej walce... oni za to zapłacą. Macie na to moje słowo."
+    },
+    {
+      "id": "announcer_enemy_specialskill_29_1",
+      "dlg": "Co jak co, przedstawienie to oni umieją odwalić... tsk. Chłopcy, nakopcie najpierw temu dupkowi!"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_29_1",
+      "dlg": "Co to do cholery było? W życiu czegoś takiego nie widziałem... Miasto naprawde jest pełne dziwactw."
+    },
+    {
+      "id": "announcer_advatk_physical_29_1",
+      "dlg": "Tak jest! O to mi chodzi!"
+    },
+    {
+      "id": "announcer_disadvatk_physical_29_1",
+      "dlg": "Młody... Walka to nie tylko walenie pięściami. Masz przecież jeszcze nogi, nie? Czasami trzeba też dać im kopa."
+    },
+    {
+      "id": "announcer_advatk_attr_29_1",
+      "dlg": "Ten cios który właśnie zadaliście? Absolutnie oślepiający."
+    },
+    {
+      "id": "announcer_disadvatk_attr_29_1",
+      "dlg": "Łamliwy, bez blasku... Młody, bijesz jak rozczochraniec."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_29_1",
+      "dlg": "Ustawa 72, Sekcja 3, Rządek D, Linijka 4 Księgi Zasad Odwetu. Grożenie członkowi Rodziny Środka używając siły nabytej dzięki nieklasyfikowanym oficjalnie procedurom wzmacniającym. Kara: Bicie winnego na śmierć."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_29_1",
+      "dlg": "Co, myśleliście że zasady zemsty Środka są tylko na pokaz? Zrobimy wszystko żeby wyrównać rachunki."
+    },
+    {
+      "id": "announcer_ally_specialbuff_29_1",
+      "dlg": "Haah... wy naprawde jesteście niesamowici, wiecie to? Co wam dało tyle zapału do walki? Ten grill z wieloryba który robimy dziś wieczorem?"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_29_1",
+      "dlg": "Co do... co to za dziwactwo? Wyrzuć to. Chyba wam mówiłem żebyście nie podnosili z podłogi niczego podejżanego, nie?"
+    },
+    {
+      "id": "announcer_enemy_destroy_29_1",
+      "dlg": "Właśnie tak! Spuśćcie im wpierdol!"
+    },
+    {
+      "id": "announcer_enemy_destroy_29_2",
+      "dlg": "Teraz wiesz co dzieje się z ludźmi, którzy wkurwili Środek. Starci. W. Pył."
+    },
+    {
+      "id": "announcer_round_takebigdmg_29_1",
+      "dlg": "Haha! To był naprawde niezły ruch! Widzę że znaleźliście sobie niezłych przeciwników."
+    },
+    {
+      "id": "announcer_round_takebigdmg_29_2",
+      "dlg": "Mam nadzieję że wszyscy możecie jeszcze po tym stać. Przecież musimy im pokazać co dzieje się z tymi, któży zadzierają ze Środkiem!"
+    },
+    {
+      "id": "announcer_round_givebigdmg_29_1",
+      "dlg": "Ooooo tak! Bardzo sprytnie zmieściliście ten odwet w klauzuli Ustawy 13, Sekcji 2. Hah."
+    },
+    {
+      "id": "announcer_round_givebigdmg_29_2",
+      "dlg": "Świetna robota! Teraz tylko szybko z nimi skończcie a dam wam po jednej limitowanej naklejce z Kotkiem na wasze Księgi Porachunków!"
+    },
+    {
+      "id": "announcer_multikillenemy_29_1",
+      "dlg": "Ha ha! O tak. To było zajebiste!"
+    },
+    {
+      "id": "announcer_equip_29_1",
+      "dlg": "Osobiście o wiele bardziej wole sam walczyć, ale... Ja, Ricardo, przyjmuję tą role na prośbę Wielkiej Siostry!"
+    },
+    {
+      "id": "announcer_wait_29_1",
+      "dlg": "Powinienem kiedyś was zabrać do starszyzny ze wschodu. Świetnie by było znowu zobaczyć ich niepowtażalne techniki i przy okazji poddać wam paru testom.",
+      "isHide": true
+    },
+    {
+      "id": "announcer_multikillally_29_1",
+      "dlg": "Szlag… to przypomniało mi o tym skurwysynie. Jakiś czas temu, jeden gość rzucił się jak wściekły kundel na nasz południowy oddział i zaczął mordować naszą starszyznę na prawo i lewo.\nŚrodek ze wszystkich stron Miasta go pamięta—i zemścimy się... nie ważne ile by to nas kosztowało...",
+      "isHide": true
+    }
+  ]
+}

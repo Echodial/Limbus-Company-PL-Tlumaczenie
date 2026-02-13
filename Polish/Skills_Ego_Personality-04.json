@@ -1,0 +1,783 @@
+{
+  "dataList": [
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 3 przypadkowe posiadane zasoby E.G.O<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 3 przypadkowe posiadane zasoby E.G.O; Wszyscy sojusznicy zyskują 3 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 3 przypadkowe posiadane zasoby E.G.O; Wszyscy sojusznicy zyskują 3 SP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Wszyscy sojusznicy zyskują +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">zasób E.G.O Amp</color></link></u>.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Wszyscy sojusznicy zyskują +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">zasób E.G.O Amp</color></link></u>.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Wszyscy sojusznicy zyskują +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">zasób E.G.O Amp</color></link></u>., apply 1 Haste na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ślepa Pogoń",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Zyskaj 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ślepa Pogoń",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Zyskaj 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n[EndSkill] Zyskaj 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdą jednostkę pokonaną przez tą Umiejęność<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ślepa Pogoń",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Zyskaj 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n[EndSkill] Zyskaj 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdą jednostkę pokonaną przez tą Umiejęność<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ślepa Pogoń",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nLosowy Cel\n[BeforeAttack] Zyskaj 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>. Zużyj 2 Ilości [Charge] aby zyskać 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 10)\n[EndSkill] Zyskaj +4 Ilości [Charge] za każdą jednostkę pokonaną przez tą Umiejęność<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ślepa Pogoń",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nLosowy Cel\n[BeforeAttack] Zyskaj 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>. Zużyj 2 Ilości [Charge] aby zyskać 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 10)\n[EndSkill] Zyskaj +4 Ilości [Charge] za każdą jednostkę pokonaną przez tą Umiejęność<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ślepa Pogoń",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nLosowy Cel\n[BeforeAttack] Zyskaj 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>. Zużyj 2 Ilości [Charge] aby zyskać 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 10)\n[EndSkill] Zyskaj +4 Ilości [Charge] za każdą jednostkę pokonaną przez tą Umiejęność<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Przy 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zadaj +30% Krytycznych Obrażeń<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Odraza, Trwoga",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks 2)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] (Maks 7)\n[EndSkill] Strać 10 SP pod koniec dwóch następnych Tur<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Równomiernie rozdziel 10 [Laceration] pomiędzy wszystkimi celami<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Odraza, Trwoga",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks <style=\"highlight\">4</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] (Maks 7)\n[EndSkill] Strać 10 SP pod koniec dwóch następnych Tur",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Równomiernie rozdziel <style=\"highlight\">15</style> [Laceration] pomiędzy wszystkimi celami"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Odraza, Trwoga",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks <style=\"highlight\">6</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] <style=\"highlight\">na początku tej oraz następnej tury</style> (Maks 7)\n<style=\"highlight\">[EndSkill] Jeśli ta Umiejętność była częścią Rezonansu Porządania, zyskaj 1 zasób E.G.O z każdej kategorii do której należą Umiejętności tej jednostki</style>\n[EndSkill] Strać 10 SP pod koniec dwóch następnych Tur",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Równomiernie rozdziel 15 [Laceration] pomiędzy wszystkimi celami<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Odraza, Trwoga",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nLosowy Cel\n[BeforeAttack] Zyskaj 7 [GazePersonality]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Laceration], Zadaj +(suma Skuteczności oraz Ilości [Laceration] na celu)% więcej obrażeń (Maks 20%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż (1 + (Suma najwyższego Rezon. x 1.5)) [Laceration] (Maks 10, wynik zaokrąglony w dół)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Odraza, Trwoga",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nLosowy Cel\n[BeforeAttack] Zyskaj 7 [GazePersonality]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Laceration], Zadaj +(suma Skuteczności oraz Ilości [Laceration] na celu)% więcej obrażeń (Maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">(3 + (Suma najwyższego Rezon. x 2))</style> [Laceration] (Maks <style=\"highlight\">15</style>, wynik zaokrąglony w dół)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">3</style> Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Odraza, Trwoga",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nLosowy Cel\n[BeforeAttack] Zyskaj 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Jeśli ta Umiejętność była częścią Rezonansu Porządania, zyskaj 1 zasób E.G.O z każdej kategorii do której należą Umiejętności tej jednostki</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Laceration], Zadaj +(suma Skuteczności oraz Ilości [Laceration] na celu)% więcej obrażeń (Maks <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">(10 + (Suma najwyższego Rezon. x 2.5))</style> [Laceration] (Maks <style=\"highlight\">25</style>, wynik zaokrąglony w dół)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">5</style> Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 4)\n- Przy 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, zyskaj zamiast tego +(Suma najwyższego Rezon.) Finalnej Mocy (Maks 4)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. / 2) Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 2)\n- Przy 5+ Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, zyskaj zamiast tego +(Suma najwyższego Rezon. / 2) Mocy Monety (Maks 2)\n[TargetKill] Zyskaj 1 [HoldingBreath] na początku następnej tury (2 razy na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [HoldingBreath] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks <style=\"highlight\">6</style>)\n- Przy 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, zyskaj zamiast tego +(Suma najwyższego Rezon.) Finalnej Mocy (Maks <style=\"highlight\">6</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. / 2) Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 2)\n- Przy 5+ Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, zyskaj zamiast tego +(Suma najwyższego Rezon. / 2) Mocy Monety (Maks 2)\n[TargetKill] Zyskaj <style=\"highlight\">2</style> [HoldingBreath] na początku następnej tury (<style=\"highlight\">4</style> razy na turę)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Zadaj +(suma Skuteczności oraz Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>)% więcej obrażeń przy trafieniu Krytycznym (Maks 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [HoldingBreath] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks 6)\n- Przy 15+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, zyskaj zamiast tego +(Suma najwyższego Rezon.) Finalnej Mocy (Maks 6)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. / 2) Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> (Maks <style=\"highlight\">3</style>)\n- Przy 5+ Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, zyskaj zamiast tego +(Suma najwyższego Rezon. / 2) Mocy Monety (Maks <style=\"highlight\">3</style>)\n[TargetKill] Zyskaj 2 [HoldingBreath] na początku następnej tury (<style=\"highlight\">6</style> razy na turę)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +(suma Skuteczności oraz Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>)% więcej obrażeń przy trafieniu Krytycznym (Maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj <style=\"highlight\">4</style> [HoldingBreath] (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% HP aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 2 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +2 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 4 [HoldingBreath] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% HP aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n<style=\"highlight\">- Zyskaj 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdego sojusznika w którego mierzy ta Umiejętność (Maks 2)</style>\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 2 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują <style=\"highlight\">4</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +2 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n<style=\"highlight\">- Odzyskaj połowe SP użytego przez tą Umiejętność</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Zadaj +(suma Skuteczności oraz Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>)% więcej obrażeń przy trafieniu Krytycznym (Maks 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 4 [HoldingBreath] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Torakalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% HP aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n- Zyskaj <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdego sojusznika w którego mierzy ta Umiejętność (Maks <style=\"highlight\">4</style>)\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 3 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +<style=\"highlight\">4</style> Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n<style=\"highlight\">- Odzyskaj całe SP oraz zyskaj po jednym zasobie E.G.O z każdej kategorii którą wymaga ta Umiejętność</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +(suma Skuteczności oraz Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>)% więcej obrażeń przy trafieniu Krytycznym (Maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj <style=\"highlight\">7</style> [HoldingBreath] (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n\n[EndSkill] Gain 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP at Turn End for 3 turns<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Deal +30% Damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)<style=\"highlight\"></style>",
+                  "summary": "[OnStartCoin] Deal more damage based on [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n<style=\"highlight\">[BeforeAttack] Gain +2 [Breath] Count</style>\n\n[EndSkill] Gain 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP at Turn End for 3 turns",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Coin Power +3 for the final Coin (once per Skill)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Deal +1% damage for every 10 ([Combustion] Potency + [Laceration] Potency) on all targets (max 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Coin Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets (max 3)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)\n- When attacking just a single target, the damage modifying effect above is applied at 1.5x its value (in Focused Encounters, a Core and its connected Parts count as a single target)<style=\"highlight\"></style>",
+                  "summary": "<style=\"highlight\">[OnStartCoin] Deal more damage based on [RyoshuEGOPF]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n[BeforeAttack] Gain <style=\"highlight\">+3</style> [Breath] Count\n\n[EndSkill] Gain 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP at Turn End for 3 turns",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin Power <style=\"highlight\">+5</style> for the final Coin (once per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Deal +1% damage for every 10 ([Combustion] Potency + [Laceration] Potency) on all targets <style=\"highlight\">(max 50%)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Coin Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets <style=\"highlight\">(max 5)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed <style=\"highlight\">(max 198%)</style>\n- When attacking just a single target, the damage modifying effect above is applied at <style=\"highlight\">2x</style> its value (in Focused Encounters, a Core and its connected Parts count as a single target)",
+                  "summary": "[OnStartCoin] Deal more damage based on [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Consume a maximum of 20 surplus [Breath] past 20 [Breath] on self, and for every [Breath] consumed, heal 1% of max HP (min 1 HP) and deal +1% damage with this Skill\n[BeforeAttack] Gain +3 [Breath] Count\n[BeforeAttack] At 999 [RyoshuEGOPF], Base Power +1\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n\n[EndSkill] Gain 10 [RyoshuEGOPF]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Deal +30% Damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)<style=\"highlight\"></style>",
+                  "summary": "[OnStartCoin] Deal more damage based on [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Consume a maximum of 20 surplus [Breath] past 20 [Breath] on self, and for every [Breath] consumed, heal 1% of max HP (min 1 HP) and deal +1% damage with this Skill\n[BeforeAttack] Gain +3 [Breath] Count\n[BeforeAttack] At 999 [RyoshuEGOPF], Base Power <style=\"highlight\">+2</style>\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n\n[EndSkill] Gain <style=\"highlight\">20</style> [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Deal +30% damage with the final Coin (once per Skill)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Deal +1% damage for every 10 ([Combustion] Potency + [Laceration] Potency) on all targets (max 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Final Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets (max 3)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)\n<style=\"highlight\">- When attacking just a single target, the damage modifying effect above is applied at 1.5x its value (in Focused Encounters, a Core and its connected Parts count as a single target)</style>",
+                  "summary": "[OnStartCoin] Deal more damage based on [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Consume a maximum of 20 surplus [Breath] past 20 [Breath] on self, and for every [Breath] consumed, heal 1% of max HP (min 1 HP) and deal +1% damage with this Skill\n[BeforeAttack] Gain <style=\"highlight\">+5</style> [Breath] Count\n[BeforeAttack] At 999 [RyoshuEGOPF], Base Power <style=\"highlight\">+3</style>\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n\n[EndSkill] Gain <style=\"highlight\">33</style> [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Deal <style=\"highlight\">+50%</style> damage with the final Coin (once per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Deal +1% damage for every 10 ([Combustion] Potency + [Laceration] Potency) on all targets <style=\"highlight\">(max 50%)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Final Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets <style=\"highlight\">(max 5)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume all [RyoshuEGOPF] on self and deal <style=\"highlight\">+1.25%</style> damage for every 5 [RyoshuEGOPF] consumed <style=\"highlight\">(max 248%)</style>\n- When attacking just a single target, the damage modifying effect above is applied at <style=\"highlight\">2x</style> its value (in Focused Encounters, a Core and its connected Parts count as a single target)",
+                  "summary": "[OnStartCoin] Deal more damage based on [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

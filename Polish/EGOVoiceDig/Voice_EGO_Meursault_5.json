@@ -1,0 +1,79 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20501_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Uścisk tłumu się zacieśnia…"
+    },
+    {
+      "id": "battle_awaken_20502_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Eliminowanie celu zgodnie z dyrektywą."
+    },
+    {
+      "id": "battle_erosion_20502_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Przeszkody zostaną usunięte."
+    },
+    {
+      "id": "battle_awaken_20503_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wzniosę modły o twoją pewną zgubę."
+    },
+    {
+      "id": "battle_erosion_20503_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Na oczach wszystkich, ty… mnie nie obłaskawisz."
+    },
+    {
+      "id": "battle_awaken_20504_1",
+      "desc": "E.G.O Activation",
+      "dlg": "…Stój. Nie ma dla ciebie ucieczki."
+    },
+    {
+      "id": "battle_erosion_20504_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Sam wezmę cię na rogi."
+    },
+    {
+      "id": "battle_awaken_20505_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ten kaftan... nie wystarczy, żeby powtrzymać mój gniew."
+    },
+    {
+      "id": "battle_erosion_20505_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Głowa... zamienia się... w metal... mózg... spłasczony... Kończy się, Zaczyna. KOŃCZY SIĘ, ZACZYNA!"
+    },
+    {
+      "id": "battle_awaken_20506_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ta elektryczność, to wszystko, co mi zostało... Nie mogę...!"
+    },
+    {
+      "id": "battle_erosion_20506_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20507_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Zakwitnij z tej krwi, O piękny kwiecie.\nZ radością wezmę cię na własność!"
+    },
+    {
+      "id": "battle_erosion_20507_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Więcej, Więcej! To nie zaspokoi tego palącego pragnienia...\nRozbić tamy...! Przebić je korzeniami!!!"
+    },
+    {
+      "id": "battle_awaken_20508_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ogranicznik ciśnienia tłoka pary usunięty.\nKalkulacja trajektorii postrzeganego czasu ukończona...\nPrzekształć Zgromadzoną Przeszłość; utrzymaj wartość chwilową... Wystrzel."
+    },
+    {
+      "id": "battle_erosion_20508_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Sprzężaj. Sprzężaj. Zignoruj wsteczny napływ pary... nie można zignorować.\nUszkodzenie przeszłości. Uszkodzenie pamięci.\nUżytkownik pod wpływem wstecznego napłyu czasu, nngh... \nSprzężenie... nie udane..."
+    }
+  ]
+}

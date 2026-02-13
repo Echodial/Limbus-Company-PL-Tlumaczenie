@@ -1,0 +1,125 @@
+{
+    "dataList": [
+        {
+            "id": "get_10409_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Pięć śrub wykopaliskowych za karton fajek? Ciebie chyba pokręciło."
+        },
+        {
+            "id": "lobby_morning_10409_1",
+            "desc": "Morning Greeting",
+            "dlg": "... Tak wcześnie rano a ty już na nogach? Hmm, trudno mi nie docenić twojej pracowitości."
+        },
+        {
+            "id": "lobby_noon_10409_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Kretyni z niecałymi minutami na zegarku zaczynają o tej godzinie czaić się w tylnych uliczkach. Bardzo lubię patrzeć jak kończą im się ostatnie sekundy i zaczynają nagle chodzić jak M.W.S." 
+        },
+        {
+            "id": "lobby_night_10409_1",
+            "desc": "Evening Greeting",
+            "dlg": "Robi się już późno... Ten detektyw zaraz przyniesie mi rekwizyty do mojej ekspozycji. \nMuszę przyznać, że sama myśl o niej mnie ekscytuje."
+        },
+        {
+            "id": "smalltalk_10409_1",
+            "desc": "Chatter #1",
+            "dlg": "Czy nadszedł już czas na D.A.N. oraz T.C.?\nHaah, nie gadałam o tobie... Zegarku." 
+        },
+        {
+            "id": "smalltalk_10409_2",
+            "desc": "Chatter #2",
+            "dlg": "Waluta to jeden wielki P.N.W.\n O wiele uczciwsza jest wymiana przedmiotów o praktycznej wartości.\nLub tworzenie wszystkiego samemu." 
+        },
+        {
+            "id": "smalltalk_10409_3",
+            "desc": "Chatter #3",
+            "dlg": "Można powiedzieć że moje metody naprawiania maszyn są bardziej... analogowe."
+        },
+        {
+            "id": "smalltalk_10409_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Końcówka zapalonej fajki, powoli obracająca się w popiół... Symbolika jeźdźca śmierci, zmieżającego ku finalnemu zajazdowi na ogierze czasu.\nPrzypomina mi o tym bogatym wieprzu z którego wypaliliśmy cały czas. \n Heh, niezła awangarda, nie?"
+        },
+        {
+            "id": "smalltalk_10409_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Ideologia Yurodiviye...? A kogo to.\nZwyczajnie podobają mi się estetyki tego ruchu.\nBarter też mi nie przeszkadza."
+        },
+        {
+            "id": "neglect_10409_1",
+            "desc": "Idle",
+            "dlg": "Komunizm... Bardziej Kogo-to-izm. Pfft."
+        },
+        {
+            "id": "gacksung_10409_1",
+            "desc": "Uptying",
+            "dlg": "Hmph, dobra-nagrywaj ile ci taśma pozwoli. Upewnij się tylko że złapiesz cały pokaz w ramie."
+        },
+        {
+            "id": "formation_10409_1",
+            "desc": "Deployment",
+            "dlg": "Uuu, wygląda jak frajda. Biorę to."
+        },
+        {
+            "id": "battleentry_10409_1",
+            "desc": "Stage Entry",
+            "dlg": "To jest lista C.E.N, czyli lista Celów Ewidentnie Nadzianych."
+        },
+        {
+            "id": "battle_select_10409_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Mam nadzieje że umieją się dobrze bić."
+        },
+        {
+            "id": "battle_endcommand_10409_1",
+            "desc": "Commencing Attack",
+            "dlg": "Zbużmy ich."
+        },
+        {
+            "id": "battle_enemy_break_10409_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Zabieramy burżujskim świniom..."
+        },
+        {
+            "id": "battle_break_10409_1",
+            "desc": "Staggered",
+            "dlg": "Tsk."
+        },
+        {
+            "id": "battle_kill_10409_1",
+            "desc": "Enemy Killed",
+            "dlg": "... i rozdzielamy między wszystkich co zdobędziemy."
+        },
+        {
+            "id": "battle_dead_10409_1",
+            "desc": "Death",
+            "dlg": "A więc tak 'redystrybucja'... Wygląda z pierwszego rzędu... Ha..."
+        },
+        {
+            "id": "choice_success_p_10409_2",
+            "desc": "Check Passed",
+            "dlg": "Podobał się występ? To wyskakiwać z fajek. Paczka od głowy."
+        },
+        {
+            "id": "choice_fail_n_10409_1",
+            "desc": "Check Failed",
+            "dlg": "... Ten nudny akt to nie moje forte."
+        },
+        {
+            "id": "battle_clear_10409_1",
+            "desc": "Victory Cry",
+            "dlg": "Hmm, nawet nie najgorszy sprzęt... Nie zaszkodziłoby mu jednak naoliwienie."
+        },
+        {
+            "id": "battle_clear_ex_10409_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Czysta perfekcja. Jak teraz na to patrze, widze piękno używania amatorskich wynalazków do zgniatania przedstawicieli bezmyślnej klasy rządzącej."
+        },
+        {
+            "id": "battle_defeat_10409_1",
+            "desc": "Defeat Wail",
+            "dlg": "A więc D.A.N.T.C nie poszła zgodnie z planem? Zero Dekonstrukcji Aktualnej Normy, Taktyczny Chaos opanowany...\nCóż, na dłuższą mete nie ma to znaczenia. Moge dorobić czasu tak długo jak w żyłach płynie mi krew." 
+        }    
+    ]
+
+}

@@ -1,0 +1,714 @@
+{
+  "dataList": [
+    {
+      "id": -1,
+      "content": "Episode S0_1"
+    },
+    {
+      "id": 0,
+      "place": "Na pokładzie Mefistofolesa",
+      "model": "카론",
+      "content": "Werg."
+    },
+    {
+      "id": 1,
+      "model": "카론",
+      "content": "Blokada przed nami. Zezwolenie na brum-brum?"
+    },
+    {
+      "id": 2,
+      "content": "Te słowa w końcu zainteresowały mnie na tyle żeby otworzyć oczy."
+    },
+    {
+      "id": 3,
+      "content": "Koniec końców nic nie jest lepszym sposobem na nudę w podróży niż zamknięcie oczu."
+    },
+    {
+      "id": 4,
+      "content": "Z resztą, to nie tak że było cokolwiek innego do roboty na autobusie który jechał niewiadomo gdzie…"
+    },
+    {
+      "id": 5,
+      "content": "Mój brak głowy i wspomnień które w niej były też na pewno nie pomagały."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "……"
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "Dobrze, jedź."
+    },
+    {
+      "id": 8,
+      "model": "카론",
+      "content": "Okejka. Oto nadchodzą turbu-burbulencje."
+    },
+    {
+      "id": 9,
+      "model": "카론",
+      "content": "Drogi płyn do szybek. Werg mówił że dużo kosztował."
+    },
+    {
+      "id": 10,
+      "content": "Płyn bez problemu rozpuścił przylegające do szyby kawałki mięsa, wpuszczając z powrotem do środka naturalne światło."
+    },
+    {
+      "id": 11,
+      "content": "Jednak wszyscy na pokładzie patrzyli przed siebię tym samym letargicznym wzrokiem."
+    },
+    {
+      "id": 12,
+      "content": "Cała scena wydała mi się na dość makabryczną, ale patrząc na reakcje reszty(a raczej ich brak) naszło mnie wrażenie że takie sceny muszą być w Mieście dość częste."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Hej…>"
+    },
+    {
+      "id": 14,
+      "content": "Pomyślałom że ponowne zamknięcie oczu byłoby dość bezsensowne, biorąc pod uwagę że już jestem rozbudzone. Z resztą, złapał właśnie moją uwagę podejżanie brodaty jegomość."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Rob― Pardonsik, Czterooki. Wiesz może gdzie my jedziemy?>"
+    },
+    {
+      "id": 16,
+      "content": "…O wiele bardziej 'unikalna' cecha jego wyglądu sprawiła że prawie wyślizgnęło mi się z moich (retorycznych) ust coś o wiele bardziej nieodpowiedniego."
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "…Prawie nazwałoś mnie 'Robaczkiem', co nie?"
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Jak już mówiłem, mam na imię Gregor."
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Tak samo ja ty masz na imię Dante a nie 'Tykacz'."
+    },
+    {
+      "id": 20,
+      "content": "…Naprawde nie mogłom znaleźć na to dobrej odpowiedzi, więc po prostu lekko kiwnełom głową."
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Ej, Pani Kierman. Gdzie dokładnie się kierujemy?"
+    },
+    {
+      "id": 22,
+      "model": "카론",
+      "content": "Jak już mówiłam, mam na imię Charon."
+    },
+    {
+      "id": 23,
+      "model": "카론",
+      "content": "Tak samo ja ty masz na imię Gregor a nie 'Robaczek'."
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "……"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Tu cie złapała.>"
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "Haha, rzeczywiście."
+    },
+    {
+      "id": 27,
+      "model": "카론",
+      "content": "…Werg powiedział, I tu Charon cytuje:"
+    },
+    {
+      "id": 28,
+      "model": "카론",
+      "content": "“Grzesznicy pojadą do Czwartego Dystryktu.”"
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "content": "Że cooooooo?! Czy moje uszy usłyszały właśnie coś o Czwatym Dystrykcie?!"
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Znany jest on przecież za bycie domem Roślinnej Panny! Jest to miejsce początku historii prawdziwej heroski. Oraz również…"
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "Jasny gwint, a ty tylko pleciesz i pleciesz…"
+    },
+    {
+      "id": 32,
+      "model": "히스클리프",
+      "content": "Nie możesz się łaskawie zamknąć i pozwolić innym nacieszyć się spokojem?"
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Jakże, ja dopiero teraz zaczęłam mówić!"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Powiedziałem żebyś się zamknęła!"
+    },
+    {
+      "id": 35,
+      "model": "이스마엘",
+      "content": "…Sorka, czy ty nie widzisz że to ty jesteś tutaj najgłośnieszy?"
+    },
+    {
+      "id": 36,
+      "model": "히스클리프",
+      "content": "…To że nie możesz umżeć nie oznacza że nie moge sprawić ci naprawde dużo bólu, kapewu? Więc lepiej się nie wtrącaj."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Mówie tylko jak jest a ty od razu próbujesz coś zacząć? Niezły z ciebie prostak."
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "…Ha."
+    },
+    {
+      "id": 39,
+      "content": "Zastanowiłom się przez chwilę."
+    },
+    {
+      "id": 40,
+      "content": "Czy wstąpienie pomiędzy nich byłoby dobrym pomysłem? Czy nadeszłą pora na użycie mojego kierowniczego autorytetu aby zgrabnie zdeeskalować sytuację? Coś z tyłu głowy kazało mi działać."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<Dobra dobra, kochani, nie ma co się dener―>"
+    },
+    {
+      "id": 42,
+      "model": "히스클리프",
+      "content": "Glh…"
+    },
+    {
+      "id": 43,
+      "model": "이스마엘",
+      "content": "Kyhㅡ"
+    },
+    {
+      "id": 44,
+      "model": "료슈",
+      "content": "KAUCJA."
+    },
+    {
+      "id": 45,
+      "model": "료슈",
+      "content": "Krzykliwe awantury uciszone całkowicie jednym atakiem."
+    },
+    {
+      "id": 46,
+      "model": "료슈",
+      "content": "……"
+    },
+    {
+      "id": 47,
+      "model": "돈키호테",
+      "content": "Bezmyślna przemoc nie będzie tolerowana! Niech panuje sprawiedliwość!"
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Aj~ Wiedziałam że tak to się skończy—i jeszcze bryznęło mi trochę na ciuchy. Ludzie, czy wy nie możecie walczyć dalej ode mnie?"
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Chyba wariuje…>"
+    },
+    {
+      "id": 50,
+      "content": "Nie dojechaliśmy jeszcze nawet na miejsce a trójka z nas już wykitowała. I do tego przez fragging."
+    },
+    {
+      "id": 51,
+      "model": "베르길리우스",
+      "content": "Widzę, że nie mogę was nawet na chwilę zostawić samych."
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Wy. Sprzątacie pokład przez następny miesiąc."
+    },
+    {
+      "id": 53,
+      "model": "돈키호테",
+      "content": "Cóż za nieuczciwość! Ja jedynie chciałam wymierzyć sprawiedliwość!"
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "O! Każ im jeszcze zrobić moje pranie. Krew schodzi z ciuchów o wiele trudniej niż wino. Nie wspomnę nawet o cenach pralni chemicznych…"
+    },
+    {
+      "id": 55,
+      "content": "Nikogo specjalnie nie obchodziły martwe ciała naszych przyszłych pokładowych woźnych."
+    },
+    {
+      "id": 56,
+      "content": "Może już przyzwyczaili się do swojej efektywnej nieśmiertelności."
+    },
+    {
+      "id": 57,
+      "content": "Ale ja nawet nie wiem jak mam przywrócić ich do życia"
+    },
+    {
+      "id": 58,
+      "model": "베르길리우스",
+      "content": "Dante, poprosiłbym abyś cofnęło zegar."
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Mam… cofnąć zegar?>"
+    },
+    {
+      "id": 60,
+      "model": "베르길리우스",
+      "content": "…Ehh."
+    },
+    {
+      "id": 61,
+      "model": "베르길리우스",
+      "content": "Czyli to musi oznaczać że próbujesz zrobić zagubiną mine. Wezmę to pod uwagę."
+    },
+    {
+      "id": 62,
+      "model": "베르길리우스",
+      "content": "Pani. Faust."
+    },
+    {
+      "id": 63,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 64,
+      "content": "Wergiliusz kiwnął leniwie w stronę Faust i wskazał na mnię."
+    },
+    {
+      "id": 65,
+      "content": "W odpowiedzi wzdechnęła ona lekko, po czym podeszła do mnię, bardziej z zobwiązania niż faktycznej chęci."
+    },
+    {
+      "id": 66,
+      "model": "파우스트",
+      "content": "Dante, musisz zrobić to samo, co zrobiłoś kiedy pierwszy raz się spotkaliśmy. Nawet jeśli tam była to bardziej instynktowna reakcja."
+    },
+    {
+      "id": 67,
+      "model": "파우스트",
+      "content": "Dobrze, spróbujmy jeszcze raz. Zamknij proszę oczy."
+    },
+    {
+      "id": 68,
+      "content": "Choć nie mam niczego prypominającego oczu, zasłoniłom mój wzrok rękawem."
+    },
+    {
+      "id": 69,
+      "content": "W końcu nie było dobrego powodu nie słuchać Faust w tej sytuacji."
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "Prawda jest taka, że te wrota są wszędzie."
+    },
+    {
+      "id": 71,
+      "model": "파우스트",
+      "content": "Jednak tylko ty możesz je zobaczyć. Ponieważ gwiazdy które miały je oświetlać nigdy nie zabłysły na niebie."
+    },
+    {
+      "id": 72,
+      "content": "Zaraz po tym, poczułom jak kosmyk światła wleciał przed moją tarczę."
+    },
+    {
+      "id": 73,
+      "content": "I w ruchu tak naturalnym jak otwieranie oczu, przyjełom Światło."
+    },
+    {
+      "id": 74,
+      "place": "???",
+      "content": "Pustka."
+    },
+    {
+      "id": 75,
+      "content": "Samotność."
+    },
+    {
+      "id": 76,
+      "content": "Oraz ogromne wrota, które stały przede mną."
+    },
+    {
+      "id": 77,
+      "content": "Nieprzyjemnie się na nie patrzyło."
+    },
+    {
+      "id": 78,
+      "content": "Siarczysty żar i napełnione cierpieniem wrzaski wyciekały z pod ich progu."
+    },
+    {
+      "id": 79,
+      "content": "Słuchanie wydobywających się z za nich bezdennych lamentów i jęków nawet przez chwilę wywoływało u mnię nudności."
+    },
+    {
+      "id": 80,
+      "content": "Pomimo tego podeszłom do wrot, łapiąc za ich kołatki jakby otwieranie tych drzwi było jedynym celem mojego życia."
+    },
+    {
+      "id": 81,
+      "content": "Pomimo ich ogromu, otwieranie ich było zaskakująco łątwe."
+    },
+    {
+      "id": 82,
+      "content": "Pomacałom troche w ciemności. Tysiące, nie, miliony ostatnich słów wydobyły się zza nich."
+    },
+    {
+      "id": 83,
+      "content": "Wyciągnełom do nich moje dłonie i złapałom pare nieznanych rąk."
+    },
+    {
+      "id": 84,
+      "content": "Poczułom jak historia różnorodnych grzechów noszących ich piętna zaczęła wspinać się z mojej ręki na moję ramie."
+    },
+    {
+      "id": 85,
+      "content": "Czy jesteś gotów podzielić ich ból?"
+    },
+    {
+      "id": 86,
+      "content": "Czy było to pytanie? Czy może raczej miało to wywżeć na mnię presję zanim zdecydowałom przedwcześnie ich puścić?"
+    },
+    {
+      "id": 87,
+      "content": "Pociągnęłom z całych sił Grzeszników trzymających się o moje ramię."
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<…RAHHHHGH!>"
+    },
+    {
+      "id": 90,
+      "content": "Był on tak niesamowicie silny że w tym momencie nie marzyłom o niczym poza śmiercią."
+    },
+    {
+      "id": 91,
+      "content": "Nieopisywalne uczucie brutalnego mieszania złamanych kości z rozszarpanym mięsem ciągnęło się w nieskończonność.."
+    },
+    {
+      "id": 92,
+      "content": "Moje nogi nie wytrzymały, i upadłom bezradnie na kolana w kałuży mojej własnej krwi."
+    },
+    {
+      "id": 93,
+      "content": "I wtedy to zobaczyłom."
+    },
+    {
+      "id": 94,
+      "content": "Tafla krwawej kałuży powoli zaczęła się trząść, i powoli zaczęły pojawiać się na niej bąbelki oraz fale."
+    },
+    {
+      "id": 95,
+      "content": "Zaraz po tym, z rozlanej na ziemi krwi zaczęły wyłaniać się trzy przypominające ludzi figury."
+    },
+    {
+      "id": 96,
+      "content": "Po czym pozornie niekończąca się agonia zniknęła jakby jej nigdy wgóle nie było."
+    },
+    {
+      "id": 97,
+      "place": "Aboard Mephistopheles",
+      "model": "히스클리프",
+      "content": "Mmgh…"
+    },
+    {
+      "id": 98,
+      "model": "이스마엘",
+      "content": "…Ugh."
+    },
+    {
+      "id": 99,
+      "content": "Razem z odczyszczeniem krwawych kropli z mojej wizji, powróciłom z powrotem na pokład pełnego markocenia autobusu."
+    },
+    {
+      "id": 100,
+      "model": "료슈",
+      "content": "Keh… Jakie to uczucie, odzyskanie swojej głowy chwilę po tym jak została odcięta? Czy było to ekscytujące?"
+    },
+    {
+      "id": 101,
+      "content": "Od razu po odzyskaniu przytomności, Heathcliff potarł się o szyję, powiedział coś wulgarnego pod nosem, i zaczął iść w stronę Ryōshū."
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Chwila, dopiero co was przywróciłom a ty już chcesz zacząć kolejną bójkę?>"
+    },
+    {
+      "id": 103,
+      "content": "Heathcliff obrócił się i na mnię spojżał. W jego oczach widać było tylko ślepą furię."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "A przywracanie nas nie jest przypadkiem twoją robotą?"
+    },
+    {
+      "id": 105,
+      "model": "히스클리프",
+      "content": "Jak już skończyłoś swoją rolę to zejdź mi z drogi zanim zbiję ci ten durny zegar."
+    },
+    {
+      "id": 106,
+      "model": "싱클레어",
+      "content": "P-Poczekaj proszę chwilę! Dante wygląda jakby naprawde cierpiało, my naprawde powinniśmy ogr―"
+    },
+    {
+      "id": 107,
+      "content": "Jednak zanim mógł on skończyć zdanie, żelazny kij Heathcliffa wgniótł się w bok głowy Sinclaira."
+    },
+    {
+      "id": 108,
+      "model": "싱클레어",
+      "content": "Kurgh…grh…"
+    },
+    {
+      "id": 109,
+      "content": "Niezrozumiałe, wywołujące ciarki bulgoty umierającej osoby doszły do moich uszu."
+    },
+    {
+      "id": 110,
+      "model": "히스클리프",
+      "content": "Następnym razem, Zegarogłowe, tak zrobię z tobą. Rozumiemy się?"
+    },
+    {
+      "id": 111,
+      "model": "이스마엘",
+      "content": "Naprawde jesteś takim hamem na jakiego wyglądasz."
+    },
+    {
+      "id": 112,
+      "model": "히스클리프",
+      "content": "…A tobie jedna śmierć nie wystaczyła?"
+    },
+    {
+      "id": 113,
+      "content": "Heathcliff zacieśnił uścisk na swoim kiju, a Ishmael już gotowała broń do ataku."
+    },
+    {
+      "id": 114,
+      "content": "…Czy naprawde stałom się kierownikiem grupy ludzi, których nie może zatrzymać nawet śmierć?"
+    },
+    {
+      "id": 115,
+      "content": "While I was lost in thought, all tension in the bus suddenly dropped and froze over."
+    },
+    {
+      "id": 116,
+      "model": "베르길리우스",
+      "content": "Ahem, it seems this team’s in serious need of discipline."
+    },
+    {
+      "id": 117,
+      "model": "히스클리프",
+      "content": "…!"
+    },
+    {
+      "id": 118,
+      "model": "이스마엘",
+      "content": "……"
+    },
+    {
+      "id": 119,
+      "content": "The Sinners on a collision course stopped dead in their tracks."
+    },
+    {
+      "id": 120,
+      "content": "A cold pair of red eyes cast their glare between the two."
+    },
+    {
+      "id": 121,
+      "model": "베르길리우스",
+      "content": "Rule number one."
+    },
+    {
+      "id": 122,
+      "model": "베르길리우스",
+      "content": "Do not let me hear weapons clashing inside the bus."
+    },
+    {
+      "id": 123,
+      "model": "베르길리우스",
+      "content": "If any of you break this rule as of now…"
+    },
+    {
+      "id": 124,
+      "model": "베르길리우스",
+      "content": "You’re going to be begging for me to let you die."
+    },
+    {
+      "id": 125,
+      "model": "베르길리우스",
+      "content": "I’m sure you know I’m capable of that and more, right?"
+    },
+    {
+      "id": 126,
+      "content": "Sinclair’s writhing on the floor was the only sound breaking the silence."
+    },
+    {
+      "id": 127,
+      "content": "Heathcliff glowered, but couldn’t bring himself to argue back."
+    },
+    {
+      "id": 128,
+      "model": "베르길리우스",
+      "content": "Dante, I’m sorry about this. I need you to rewind one more time."
+    },
+    {
+      "id": 129,
+      "model": "단테",
+      "content": "<I have to do that again…?>"
+    },
+    {
+      "id": 130,
+      "content": "I’d rather die than have to bear that harrowing pain once more. I waggled my head in dejection."
+    },
+    {
+      "id": 131,
+      "content": "The faint hint of a smile on Vergilius’s face vanishes as his expression shifts."
+    },
+    {
+      "id": 132,
+      "model": "베르길리우스",
+      "content": "…You’d better open up while I’m still feeling generous enough to ask and offer apologies, Manager Dante."
+    },
+    {
+      "id": 133,
+      "model": "베르길리우스",
+      "content": "Oh, in case you’re refusing simply because you don’t want more pain, I can gladly help you with that."
+    },
+    {
+      "id": 134,
+      "model": "베르길리우스",
+      "content": "This degree of pain will feel like nothing by the time I’m done. Surely you’ll be a tougher person afterward, right?"
+    },
+    {
+      "id": 135,
+      "model": "오티스",
+      "content": "Did I hear correctly? I’m pretty sure our manager clearly declined your request."
+    },
+    {
+      "id": 136,
+      "model": "베르길리우스",
+      "content": "You… This is not the time to step in."
+    },
+    {
+      "id": 137,
+      "model": "오티스",
+      "content": "I was informed when I joined the company that the Executive Manager would be my superior, not you."
+    },
+    {
+      "id": 138,
+      "model": "오티스",
+      "content": "I would say that the manager has made themself clear with a shake of the head."
+    },
+    {
+      "id": 139,
+      "model": "베르길리우스",
+      "content": "I see, so their aide has decided to step in, is that it?"
+    },
+    {
+      "id": 140,
+      "model": "베르길리우스",
+      "content": "Then it’s my turn to make clear what I mean."
+    },
+    {
+      "id": 141,
+      "content": "The red hue of his eyes grew deeper, much to my dread."
+    },
+    {
+      "id": 142,
+      "content": "…I don’t really know what I’m meant to do as the manager, or if I even deserve to take this role."
+    },
+    {
+      "id": 143,
+      "content": "But I felt that I should at least stop things here so we don’t get into an even bigger mess."
+    },
+    {
+      "id": 144,
+      "content": "Reviving one should hurt less than reviving twelve at once…"
+    },
+    {
+      "id": 145,
+      "model": "단테",
+      "content": "<Outis… I’ll rewind the clock. It’s okay.>"
+    },
+    {
+      "id": 146,
+      "content": "Vergilius noticed me motioning her to stand down, and withdrew the red glow from his glare as if in mutual understanding."
+    },
+    {
+      "id": 147,
+      "model": "베르길리우스",
+      "content": "Good thinking."
+    },
+    {
+      "id": 148,
+      "model": "오티스",
+      "content": "…As you wish, Manager."
+    },
+    {
+      "id": 149,
+      "content": "Outis seemed to want to add her input, but she promptly backed down and straightened herself out."
+    },
+    {
+      "id": 150,
+      "content": "The red door greeted me again, along with the twisting sensation."
+    },
+    {
+      "id": 151,
+      "content": "I’ve given up trying to describe the throes I go through."
+    },
+    {
+      "id": 152,
+      "content": "Words can’t express it in full, anyway."
+    },
+    {
+      "id": 153,
+      "model": "싱클레어",
+      "content": "…Th, thank you very much…"
+    },
+    {
+      "id": 154,
+      "content": "Sinclair stood up with a pained moan and bowed to me before waddling back to his seat."
+    }
+  ]
+}

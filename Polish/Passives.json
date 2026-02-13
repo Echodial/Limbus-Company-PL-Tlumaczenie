@@ -1,0 +1,2679 @@
+{
+  "dataList": [
+    {
+      "id": 1010101,
+      "name": "Przekazanie Informacji",
+      "desc": "Przyznaj 1 [AttackDmgUp] 2 sojusznikom stojącym na Tablicy obok tej jednostki."
+    },
+    {
+      "id": 1010201,
+      "name": "Dogłębna Analiza",
+      "desc": "Podczas Starcia, przeciwnik ma -2 Mocy Starcia."
+    },
+    {
+      "id": 1010301,
+      "name": "Natchniony",
+      "desc": "Wygrywając starcie, zyskaj +1 Ilości [Breath]."
+    },
+    {
+      "id": 1020101,
+      "name": "Analityczne Oko",
+      "desc": "Zadawaj +10% obrażeń jednostkom z negatywnymi efektami."
+    },
+    {
+      "id": 1020201,
+      "name": "Automatyczne Ładowanie",
+      "desc": "Zyskaj +1 Ilości [Charge] po ataku."
+    },
+    {
+      "id": 1020301,
+      "name": "Wytrwałość",
+      "desc": "Na początku tury, jeśli masz 4+ Ilości [Breath], zyskaj 2 [Agility]."
+    },
+    {
+      "id": 1030101,
+      "name": "Pięknym za Nadobne",
+      "desc": "Zdolności zadają +10% obrażeń po wygranym Starciu."
+    },
+    {
+      "id": 1030201,
+      "name": "Szybkie Doładowanie",
+      "desc": "Na początku fazy walki, zyskaj (Rezon. Przygnębienia / 3) Ilości [Charge]."
+    },
+    {
+      "id": 1030301,
+      "name": "Przygotowanie Mentalne",
+      "desc": "Zyskaj na początku następnej tury (Rezon. Gniewu / 3) [Agility]."
+    },
+    {
+      "id": 1040101,
+      "name": "Nieskrępowana Sztuka",
+      "desc": "Zadawaj i otrzymuj +25% obrażeń."
+    },
+    {
+      "id": 1040201,
+      "name": "R.N.P.",
+      "desc": "Zadawaj +10% obrażeń od Cięcia w tej turze."
+    },
+    {
+      "id": 1040301,
+      "name": "Kokuuntō",
+      "desc": "Zadawaj +10% obrażeń celom z [Laceration]."
+    },
+    {
+      "id": 1050101,
+      "name": "Niezłomność",
+      "desc": "Mając mniej niż 50% HP, zyskaj 1 [Protection] na początku fazy walki."
+    },
+    {
+      "id": 1050201,
+      "name": "Wielka Góra",
+      "desc": "Gdy ta jednostka zostanie zaatakowana, nałóż 1 [Combustion] na losowego przeciwnika.\n(Maks 4 razy)"
+    },
+    {
+      "id": 1050301,
+      "name": "Wytrwały Duch",
+      "desc": "Gdy ta jednostka zostanie zaatakowana, zyskaj +1 Ilości [Charge].\n(Maks 6 razy)"
+    },
+    {
+      "id": 1060101,
+      "name": "Rozrywka",
+      "desc": "Ulecz się o 6 SP na początku następnej tury."
+    },
+    {
+      "id": 1060201,
+      "name": "Hēiyúndào",
+      "desc": "Ostatnia Moneta ostatniej Zdolności w łańcuchu nakłada 3 [Laceration]."
+    },
+    {
+      "id": 1060301,
+      "name": "Wesołość",
+      "desc": "Ulecz (2x Rezon. Obżarstwa) SP na początku następnej tury."
+    },
+    {
+      "id": 1070101,
+      "name": "Uraza",
+      "desc": "Zadawaj +10% obrażeń celom z wyższym Maks HP."
+    },
+    {
+      "id": 1070201,
+      "name": "Oddychaj...",
+      "desc": "Po otrzymaniu obrażeń od ataków w tej turze, zadawaj +10% obrażeń."
+    },
+    {
+      "id": 1070301,
+      "name": "Wypasanie",
+      "desc": "Zyskaj (Rezon. Gniewu) Ilości [Charge] na początku następnej tury.\nMając 5+ Ilości [Charge], zyskaj 1 [Agility] i [Enhancement]."
+    },
+    {
+      "id": 1080101,
+      "name": "Ostatnia Deska Ratunku",
+      "desc": "Mając mniej niż 25% HP, zyskaj +1 Mocy Starcia."
+    },
+    {
+      "id": 1080201,
+      "name": "Skupienie Fal Mózgowych",
+      "desc": "Na początku fazy walki, streać 15 SP.\nZyskaj (Rezon. Przygnębienia / 3) [Enhancement] na początku następnej tury."
+    },
+    {
+      "id": 1080301,
+      "name": "Na Granicy Życia i Śmierci",
+      "desc": "Mając mniej niż 50% HP, zyskaj 1 dodatkowe [Breath] od Zdolności."
+    },
+    {
+      "id": 1080401,
+      "name": "Oko Do Słabości",
+      "desc": "Ataki nakładają 1 [Vibration] po wygranym Starciu."
+    },
+    {
+      "id": 1090101,
+      "name": "Rozcinaj Zło",
+      "desc": "Ataki mają 50% szansy nałożyć 1 [Laceration] ."
+    },
+    {
+      "id": 1090201,
+      "name": "Ostrze Ciemnych Chmur",
+      "desc": "Mając 5+ [Breath], Kontra używa 3 Zdolności."
+    },
+    {
+      "id": 1090301,
+      "name": "Przełamanie Obrony",
+      "desc": "Zadawaj +10% obrażeń przeciwnikom, którzy użyli w tej turze Zdolności Obronnej."
+    },
+    {
+      "id": 1100101,
+      "name": "Hart Ducha",
+      "desc": "Gdy zostanie pokonany sojusznik, zyskaj 1 [Enhancement] na początku następnej tury."
+    },
+    {
+      "id": 1100201,
+      "name": "Pogromca",
+      "desc": "Ostatnia Moneta ostatniej Zdolności w łańcuchu zada +20% obrażeń."
+    },
+    {
+      "id": 1100301,
+      "name": "Twoja Tarcza",
+      "desc": "Na początku fazy walki, przyznaj 2 [Endurance] i 1 [Protection] 2 sojusznikom stojącym na Tablicy obok tej jednostki."
+    },
+    {
+      "id": 1100401,
+      "name": "Júbilo Hedonista",
+      "desc": "Po udanym Uniku, obniż Próg Zachwiania o Moc Zdolności Uniku z szansą równą (5x Rezon. Przygnębienia.)%."
+    },
+    {
+      "id": 1110101,
+      "name": "Egzekucja",
+      "desc": "Jeśli SP celu jest poniżej 0, zadawaj +10% obrażeń."
+    },
+    {
+      "id": 1110201,
+      "name": "Opanowanie",
+      "desc": "Zadawaj +20% obrażeń celom które mają poniżej 25% HP."
+    },
+    {
+      "id": 1110301,
+      "name": "Wzmaganie Morale",
+      "desc": "Na początku następnej tury, przyznaj 2 [Agility] sobie i dwóm sojusznikom stojącym na Tablicy obok tej jednostki w tej turze."
+    },
+    {
+      "id": 1120101,
+      "name": "Wymuszone Przetrwanie",
+      "desc": "Ulecz 5 HP na początku fazy walki."
+    },
+    {
+      "id": 1120201,
+      "name": "Zapał",
+      "desc": "Trzecia i kolejne Monety Zdolności nakładają 1 [Combustion] przy trafieniu."
+    },
+    {
+      "id": 1120301,
+      "name": "Racje Żywnościowe",
+      "desc": "Mając mniej niż 25% HP, ulecz 5% Maks HP po wygraniu Starcia."
+    },
+    {
+      "id": 1010121,
+      "name": "Neutralizacja Informacji",
+      "desc": "Na końcu tury, Ulecz 10 SP jednemu sojusznikowi z najniższym SP, jesli ten utracił w tej turze SP."
+    },
+    {
+      "id": 1010221,
+      "name": "Oko do Obserwacji",
+      "desc": "1 sojusznik z najwyższym Maks HP zyskuje w Starciu +1 Mocy Starcia."
+    },
+    {
+      "id": 1010321,
+      "name": "Złożony Dar",
+      "desc": "1 sojusznik z najwyższym SP zyskuje +1 Ilości [Breath] od Zdolności."
+    },
+    {
+      "id": 1020121,
+      "name": "Dokładna Obserwacja",
+      "desc": "1 sojusznik z najwyższym Maks HP ma 25% szansy nałożyć atakami 2 [AttackDown]."
+    },
+    {
+      "id": 1020221,
+      "name": "Komunikacja Radiowa",
+      "desc": "1 sojusznik z najniższym Maks HP zyskuje +1 Ilości [Charge]."
+    },
+    {
+      "id": 1020321,
+      "name": "Finansowanie",
+      "desc": "1 sojusznik z najniższym Maks HP zyskuje +2 Ostatecznej Mocy Zdolności Obronnych."
+    },
+    {
+      "id": 1030121,
+      "name": "Wsparcie",
+      "desc": "1 sojusznik z najwyższym SP zadaje +10% obrażeń od Dźgania."
+    },
+    {
+      "id": 1030221,
+      "name": "Złamany Duch",
+      "desc": "1 sojusznik z najwyższą Prędkością zyskuje +1 Ostatecznej Mocy dla ich pierwszej Zdeolności."
+    },
+    {
+      "id": 1030321,
+      "name": "Rozciąć na Pół",
+      "desc": "1 sojusznik z najwyższą Prędkością zadaje +10% obrażeń od Cięcia."
+    },
+    {
+      "id": 1040121,
+      "name": "Krzątanina",
+      "desc": "1 sojusznik z najniższym Maks HP zadaje i otrzymuje +20% obrażeń."
+    },
+    {
+      "id": 1040221,
+      "name": "Łamacz Lodów",
+      "desc": "1 sojusznik z najniższym Maks HP nakłada +1 [Burst]."
+    },
+    {
+      "id": 1040321,
+      "name": "Kontrola Potęgą",
+      "desc": "1 sojusznik z najwyższą Prędkością nakłada +1 [Laceration]."
+    },
+    {
+      "id": 1050121,
+      "name": "Ochrona",
+      "desc": "1 sojusznik z najwyższym Maks HP otrzymuje -10% obrażeń od ataków."
+    },
+    {
+      "id": 1050221,
+      "name": "Punkt Tarcia",
+      "desc": "1 sojusznik z najniższą Prędkością nakłada +1 [Combustion]."
+    },
+    {
+      "id": 1050321,
+      "name": "Przemilczenie",
+      "desc": "1 sojusznik z najniższą Prędkością nakłada +1 [Burst]."
+    },
+    {
+      "id": 1060121,
+      "name": "Frywolne Żarciki",
+      "desc": "Na początku fazy walki, sojusznik z najniższym SP leczy się o 6 SP."
+    },
+    {
+      "id": 1060221,
+      "name": "Odwet Syndykatu",
+      "desc": "1 sojusznik z najwyższą Prędkością nakłada +1 [Laceration]."
+    },
+    {
+      "id": 1060321,
+      "name": "Gambit",
+      "desc": "1 sojusznik z najwyższą Ilością SP zadaje +20% obrażeń Monetami, które wylądowały na Orle."
+    },
+    {
+      "id": 1070121,
+      "name": "Na Przekór",
+      "desc": "1 sojusznik z najniższym Maks HP zadaje +10% obrażeń od Uderzenia."
+    },
+    {
+      "id": 1070221,
+      "name": "Zaniedbanie Siebie",
+      "desc": "1 sojusznik z najniższą Ilością HP zadaje i otrzymuje +20% obrażeń."
+    },
+    {
+      "id": 1070321,
+      "name": "Zawziętość",
+      "desc": "1 sojusznik z najwyższą Prędkością zadaje +10% obrażeń od Dźgania."
+    },
+    {
+      "id": 1080121,
+      "name": "Determinacja By Przeżyć",
+      "desc": "1 sojusznik z najniższą Ilością HP i mniej niż 50% Maks HP zyskuje +1 Moc Starcia."
+    },
+    {
+      "id": 1080221,
+      "name": "Nieustępliwość",
+      "desc": "1 sojusznik z najniższym SP zadaje +10% obrażeń od Uderzenia."
+    },
+    {
+      "id": 1080321,
+      "name": "Konflikt",
+      "desc": "1 sojusznik z najniższą Ilością HP zyskuje +2 Ostatecznej Mocy Zdolnośći Kontry."
+    },
+    {
+      "id": 1080421,
+      "name": "Według Instrukcji",
+      "desc": "1 sojusznik z najniższą Prędkością zyskuje +2 Ostatecznej Mocy Zdolnośći Gardy."
+    },
+    {
+      "id": 1090121,
+      "name": "Hazard",
+      "desc": "1 sojusznik z najwyższą Ilością HP zadaje +20% obrażeń Monetami, które wylądowały na Orle."
+    },
+    {
+      "id": 1090221,
+      "name": "Sztuka Ostrza Ciemnej Chmury",
+      "desc": "1 sojusznik z najniższą Prędkością zadaje +10% obrażeń od Cięcia."
+    },
+    {
+      "id": 1090321,
+      "name": "Włamanie",
+      "desc": "1 sojusznik z najwyższą Ilością HP zadaje +20% obrażeń przeciwnikom, którzy użyli w tej turze Zdolności Obronnej."
+    },
+    {
+      "id": 1100121,
+      "name": "Boleść",
+      "desc": "1 sojusznik z najniższym SP zyskuje 1 [Enhancement] po turze, w której umarł inny sojusznik."
+    },
+    {
+      "id": 1100221,
+      "name": "Zakrwawione Dłonie",
+      "desc": "1 sojusznik z najniższą Prędkością zyskuje +1 Ostatecznej Mocy dla jego ostatniej Zdolności."
+    },
+    {
+      "id": 1100321,
+      "name": "Upór",
+      "desc": "1 sojusznik z najniższą Ilością HP otrzymuje -10% obrażeń."
+    },
+    {
+      "id": 1100421,
+      "name": "Jugar con Enemigos",
+      "desc": "1 sojusznik z najwyższą Ilością SP zadaje +10% obrażeń przeciwnikom z niższym SP."
+    },
+    {
+      "id": 1110121,
+      "name": "Nastawienie Militarne",
+      "desc": "1 sojusznik z najwyższą Ilością HP zadaje +30% obrażeń przeciwnikom poniżej 0 SP."
+    },
+    {
+      "id": 1110221,
+      "name": "Dobicie",
+      "desc": "1 sojusznik z najwyższą Ilością SP zadaje +30% obrażeń przeciwnikom poniżej 25% HP."
+    },
+    {
+      "id": 1110321,
+      "name": "Waleczność",
+      "desc": "1 sojusznik z najwyższą Ilością HP zyskuje losowo 1 [Enhancement], 1 [Endurance], lub 1 [Protection] na początku fazy walki."
+    },
+    {
+      "id": 1120121,
+      "name": "Kod Genu G-0",
+      "desc": "Na początku fazy walki, sojusznik z najniższą Ilością HP leczy się o 5 HP."
+    },
+    {
+      "id": 1120221,
+      "name": "Płomienne Serce",
+      "desc": "1 sojusznik z najniższą Prędkością zadaje +30% obrażeń swoimi czwartymi i dalszymi Monetami."
+    },
+    {
+      "id": 1120321,
+      "name": "Kod Genu G-3",
+      "desc": "Sojusznik z najniższą Ilością HP leczy się o 5 HP po wygraniu Starcia."
+    },
+    {
+      "id": 1000101,
+      "name": "Gniew",
+      "desc": "Deal +1 obrażeń mającym attacks after every successful hit w tej turze."
+    },
+    {
+      "id": 1000121,
+      "name": "Gniew",
+      "desc": "Give a random sojusznik dane efekty effect: Deal +1 obrażeń mającym attacks after every successful hit w tej turze."
+    },
+    {
+      "id": 1000201,
+      "name": "Rozpusta",
+      "desc": "Kiedy hit o an attack w tej turze, ulecz 3 HP at a 50% chance."
+    },
+    {
+      "id": 1000221,
+      "name": "Rozpusta",
+      "desc": "Give a random sojusznik dane efekty effect: Kiedy hit o an attack w tej turze, ulecz 3 HP at a 50% chance."
+    },
+    {
+      "id": 1000301,
+      "name": "Zniechęcenie",
+      "desc": "Take 1 less obrażeń w tej turze."
+    },
+    {
+      "id": 1000321,
+      "name": "Zniechęcenie",
+      "desc": "Give a random sojusznik dane efekty effect: Take 1 less obrażeń w tej turze."
+    },
+    {
+      "id": 1000401,
+      "name": "Łakomstwo",
+      "desc": "Ulecz 5 HP na początku fazy walki."
+    },
+    {
+      "id": 1000421,
+      "name": "Łakomstwo",
+      "desc": "Give a random sojusznik dane efekty effect: Ulecz 5 HP na początku fazy walki."
+    },
+    {
+      "id": 1000501,
+      "name": "Smutek",
+      "desc": "Ulecz 5 SP na początku fazy walki."
+    },
+    {
+      "id": 1000521,
+      "name": "Smutek",
+      "desc": "Give a random sojusznik dane efekty effect: Ulecz 5 SP na początku fazy walki."
+    },
+    {
+      "id": 1000601,
+      "name": "Pycha",
+      "desc": "Deal +2 obrażeń after winning a clash."
+    },
+    {
+      "id": 1000621,
+      "name": "Pycha",
+      "desc": "Give a random sojusznik dane efekty effect: Deal +2 obrażeń after winning a clash."
+    },
+    {
+      "id": 1000701,
+      "name": "Zazdrość",
+      "desc": "Kiedy hit o an attack w tej turze, deal 1 obrażeń to the attacker at a 25% chance."
+    },
+    {
+      "id": 1000721,
+      "name": "Zazdrość",
+      "desc": "Give a random sojusznik dane efekty effect: Kiedy hit o an attack w tej turze, deal 1 obrażeń to the attacker at a 25% chance."
+    },
+    {
+      "id": 1050401,
+      "name": "Obsesyjny Młot",
+      "desc": "Mając mniej niż 50% HP, usuń 1 negatywny efekt i zyskaj 1 [Assemble], 1 [Enhancement] i 3 [Protection] na początku fazy walki."
+    },
+    {
+      "id": 1090401,
+      "name": "Radosna Egzekucja",
+      "desc": "Kiedy przeciwnik zostanie pokonany, zyskaj 1 [Agility] i 1 [AttackDmgUp] na początku następnej tury.\nJeśli to ta jednostka pokonała przeciwnika, zyskaj też 1 [Assemble]. (raz na turę)"
+    },
+    {
+      "id": 1050421,
+      "name": "Najwyższy Honor",
+      "desc": "Przyznaj 1 [Enhancement] i 1 [Protection] sojusznikowi z najniższą Ilością HP poniżej 50%.\nJeśli ten sojusznik jest 'Fanatykiem N Corpu', przyznaj też 1 [Assemble]."
+    },
+    {
+      "id": 1090421,
+      "name": "Rosnąca Wiara",
+      "desc": "Kiedy przeciwnik zostanie pokonany, przyznaj 1 [Agility] i 1 [AttackDmgUp] sojusznikowi z najwyższą Ilością SP. (raz na turę)"
+    },
+    {
+      "id": 1020401,
+      "name": "Gwizdy",
+      "desc": "Na początku fazy walki, ulecz 2 sojuszników z najniższym SP o 15 SP.\nJeśli ten sojusznik jest 'Fanatykiem N Corpu', przyznaj też 1 [Assemble]."
+    },
+    {
+      "id": 1020421,
+      "name": "Szapty",
+      "desc": "Na początku fazy walki, ulecz 1 sojusznika z najniższym SP o 15 SP.\nJeśli ten sojusznik jest 'Fanatykiem N Corpu', przyznaj też 1 [Assemble]."
+    },
+    {
+      "id": 1070401,
+      "name": "Cholercia…",
+      "desc": "Kiedy sojusznik zostanie pokonany, strać 10 SP i zyskaj 1 [HitResultUp] na początku następnej tury."
+    },
+    {
+      "id": 1070421,
+      "name": "Intonacja",
+      "desc": "1 sojusznik z najwyższą Prędkością nakłada +1 [NailPersonality]."
+    },
+    {
+      "id": 1110401,
+      "name": "Wykorzystać Słabość",
+      "desc": "Atakując cel typem ataku, na który ten jest “Słaby” lub “Śmiertelny”, zadawaj +10% obrażeń."
+    },
+    {
+      "id": 1110421,
+      "name": "Przekazanie Danych",
+      "desc": "1 sojusznik z najwyższą Prędkością zadaje +10% obrażeń atakując cel typem ataku, na który ten jest “Słaby” lub “Śmiertelny”."
+    },
+    {
+      "id": 1060401,
+      "name": "Rozpalam Się~",
+      "desc": "Mając 30+ SP, nakładaj efektami Zdolności i Monet +1 Ilości [Combustion]."
+    },
+    {
+      "id": 1060421,
+      "name": "Ciepły, Prawda?",
+      "desc": "1 sojusznik z najwyższą Ilością SP nakłada efektami Zdolności i Monet +1 Ilości [Combustion]."
+    },
+    {
+      "id": 1040401,
+      "name": "Coś na Szybko",
+      "desc": "Po pokonaniu Przeciwnika, ulecz Sojusznika z najniższą Ilością HP o 15 HP. (raz na turę)\nJeśli ta jednoska posiada [Thirst], zużyj go aby podnieść uleczone HP o jego Ilość."
+    },
+    {
+      "id": 1040421,
+      "name": "Sztuka Gotowania",
+      "desc": "Po pokonaniu Przeciwnika, ulecz Sojusznika z najniższą Ilością HP o 15 HP. (raz na turę)"
+    },
+    {
+      "id": 1120401,
+      "name": "Wziąłem Placki",
+      "desc": "Ulecz 8 HP na początku fazy walki."
+    },
+    {
+      "id": 1120421,
+      "name": "Pomoc w Kuchni",
+      "desc": "Na początku fazy walki, sojusznik z najniższą Ilością HP leczy się o 5 HP.\nWzmacnia leczenie Zdolności Pasywnej Szefowej Kuchni R.B. Ryōshū ‘Coś na Szybko’ o 5."
+    },
+    {
+      "id": 1100501,
+      "name": "Płomień Szaleństwa",
+      "desc": "Wygrywanie Starć i pokonywanie przeciwników przyznaje o połowę mniej SP."
+    },
+    {
+      "id": 1100521,
+      "name": "Przyparty do Muru",
+      "desc": "1 sojusznik z najniższym SP zadaje +10% obrażeń od Uderzenia.\nJeśli ten sojusznik ma poniżej 0 SP, dodatkowo wzmocnij obrażenia od uderzenia im niżej jest jego SP. (Maks 10%)"
+    },
+    {
+      "id": 1030401,
+      "name": "Łap za Młot!",
+      "desc": "Jeśli cel ma [NailPersonality], nałóż +1 Ilości [Vibration].\nJeśli ta jednostka jest pod wpływem [Assemble]u, nałóż +1 [NailPersonality]."
+    },
+    {
+      "id": 1030421,
+      "name": "Gorliwy Młot",
+      "desc": "1 sojusznik pod wpływem [Assemble]u z najniższym SP zadaje +10% obrażeń."
+    },
+    {
+      "id": 1090501,
+      "name": "No I Fajrancik~",
+      "desc": "Wywołując [VibrationExplosion], zużyj 3 Ilości [Charge] o podnieść Próg Zachwiania o dodatkowe 40%.\nPo tym, zyskaj 1 [Agility] i 1 [HitDamageUp] na początku następnej tury."
+    },
+    {
+      "id": 1090521,
+      "name": "Rezonujący Klucz",
+      "desc": "Kiedy Sojusznik z najniższą Prędkością aktywuje [VibrationExplosion], podnieś Próg Zachwiania o dodatkowe 20%."
+    },
+    {
+      "id": 1050501,
+      "name": "Przewlekłe Zmęczenie",
+      "desc": "Podczas Starcia, jeśli przeciwnik ma 5+ [Vibration] zmniejsz jego Moc Starcia o 1.\nWychodząc ze stanu Zachwiania, ulecz 5% Maks HP."
+    },
+    {
+      "id": 1050521,
+      "name": "Sugerowana Godzina Końca Pracy",
+      "desc": "1 sojusznik z najwyższą Prędkością obniża Moc Starcia przeciwników z którymi się Ściera o 1 jeśli mają [Vibration]."
+    },
+    {
+      "id": 1070501,
+      "name": "Łzawy Deszcz",
+      "desc": "Na początku fazy walki, zużyj 1 Ilości [Sinking] i strać SP równe obecnej Sile [Sinking].\nTuż przed zostaniem zaatakowanym, zyskaj [Protection] równą [Sinking] tej jednostki. (Maks 5 [Protection] na turę)\nKiedy ta jednostka zostanie trafiona, zyskuje 1 [HitDamageUp] na początku następnej tury. (3 na turę)"
+    },
+    {
+      "id": 1070521,
+      "name": "Poszarpana Parasolka",
+      "desc": "1 sojusznik z najniższym SP traci 10 SP kiedy zostanie trafiony atakiem i zyskuje 1 [HitDamageUp] na początku następnej tury. (raz na turę)"
+    },
+    {
+      "id": 1120501,
+      "name": "Odpalona Piła",
+      "desc": "Nakładaj +1 [Burst] celom z [Vibration]"
+    },
+    {
+      "id": 1120521,
+      "name": "Konserwacja Piły",
+      "desc": "1 sojusznik z najniższą Prędkością nakłada +1 [Burst] na cele z [Vibration]"
+    },
+    {
+      "id": 1010401,
+      "name": "Pełny Rozkwit",
+      "desc": "Atakując więcej niż jeden cel naraz, zadaj +30% obrażeń."
+    },
+    {
+      "id": 1010421,
+      "name": "Bryza Niosąca Zapach Kwiatów",
+      "desc": "1 sojusznik z najniższym SP zadaje +10% obrażeń atakując więcej niż jeden cel naraz."
+    },
+    {
+      "id": 1080501,
+      "name": "Napełniający Płyn",
+      "desc": "Jeśli tej jednostce nie uda się zadać podczas tury obrażeń HP Zdolnościami Atakującym, zyskuje Tarczę równą 5% Maks HP na początku następnej tury. (Maks 30)"
+    },
+    {
+      "id": 1080521,
+      "name": "Żrący Śluz",
+      "desc": "Kiedy Sojusznik z najwyższą Prędkością aktywuje [VibrationExplosion], nakłada na cel 2 [Burst]."
+    },
+    {
+      "id": 1060501,
+      "name": "Aktywacja Ampułek Regeneracyjnych",
+      "desc": "Kiedy ta jednostka zostanie trafiona, jeśli ma mniej niż 20% HP, leczy się o 90% Maks HP i zyskuje 1 [KCorpSerum].\nKiedy ten efekt zostanie aktywowany, nakłada na tą jednostkę 1 [Vulnerable] na początku każdej tury na resztę Potyczki. (Raz na potyczkę)"
+    },
+    {
+      "id": 1060521,
+      "name": "Wysokiej Klasy Ampułka",
+      "desc": "Na początku fazy walki, przyznaj 2 [KCorpSerum] 1 sojusznikowi z najniższym procenten HP."
+    },
+    {
+      "id": 1100601,
+      "name": "Odczepiane Talizmany",
+      "desc": "Przy trafieniu, jeśli cel ma [Burst], zyskaj 1 [Talisman]."
+    },
+    {
+      "id": 1100621,
+      "name": "Życzeniowe Talizmany",
+      "desc": "1 z najwyższym obecnym HP nakłada +1 [Burst] Zdolnościami Ofensywnymi i kontrami."
+    },
+    {
+      "id": 1080601,
+      "name": "Rozżarzony Płomień",
+      "desc": "Ta jednostka zadaje +10% obrażeń od Uderzenia za każde 3 Ilości [Combustion] na celu. (Maks 30%)"
+    },
+    {
+      "id": 1080621,
+      "name": "Rozżarzony Płomień",
+      "desc": "1 sojusznik z najniższą Prędkością zadaje +5% obrażeń od Uderzenia za każde 3 Ilości [Combustion] na celu. (Maks 15%)"
+    },
+    {
+      "id": 1050601,
+      "name": "Aktywacja Systemów Ciśnienią Kombinezonu rrR-#4",
+      "desc": "Na końcu tury, zyskaj na początku następnej tury +2 Maks Prędkości (Najwyżej 6) za każde 5 Ilości [Charge]."
+    },
+    {
+      "id": 1050621,
+      "name": "Trening Manewrów",
+      "desc": "Na końcu tury, 1 sojusznik z najwyższym Ilości [Charge] zyskuje na początku następnej tury +1 Maks Prędkości (Najwyżej 3) za każde 5 Ilości [Charge]."
+    },
+    {
+      "id": 1090601,
+      "name": "Oddychanie Obronne",
+      "desc": "Na początku fazy walki, zyskaj 2 Tarczy za każde 1 Ilości [Breath]. (Maks 20)"
+    },
+    {
+      "id": 1090621,
+      "name": "Zlecenie Obrony",
+      "desc": "Na początku fazy walki, 1 sojusznik z najniższym procenten HP zyskuje 1 Tarczy za każde posiadane 1 Ilości [Breath] na początku następnej tury. (Maks 10)"
+    },
+    {
+      "id": 1030501,
+      "name": "Szlachetny Pojedynek",
+      "desc": "Jeśli Prędkość wszystkich sojuszników jest wyższa niż Prędkość wszystkich przeciwników, ta jednostka zadaje więcej obrażeń zależnie od różnicy Prędkości pomiędzy nią a najwolniejszym przeciwnikiem. (+6% za każde 1 wartość różnicy, Maks 30%)"
+    },
+    {
+      "id": 1030521,
+      "name": "Żądanie Pojedynku",
+      "desc": "Jeśli Prędkość wszystkich sojuszników jest wyższa niż Prędkość wszystkich przeciwników, najszybszy sojusznik zadaje więcej obrażeń zależnie od różnicy Prędkości pomiędzy nim a najwolniejszym przeciwnikiem. (+3% za każde 1 wartość różnicy, Maks 15%)"
+    },
+    {
+      "id": 1080701,
+      "name": "Miażdżenie Krabów",
+      "desc": "Przy trafieniu celu z [Vibration], nałóż +1 Ilości [Sinking]"
+    },
+    {
+      "id": 1080721,
+      "name": "Harpun na Kraby",
+      "desc": "Kiedy sojusznik z najniższym Maks HP trafia Monetami, które wylądowały na Orle, nakładają one +1 Ilości [Sinking] przy nakładaniu Ilość [Vibration]."
+    },
+    {
+      "id": 1100701,
+      "name": "Niestablne Ujście Mocy",
+      "desc": "Przy trafieniu Monetami, które wylądowały na Orle przy 10+ Ilości [Vibration] na sobie, nakładaj +1 [Vibration] i Ilości [Vibration] efektami Monet."
+    },
+    {
+      "id": 1100721,
+      "name": "Zmodywfikowane Ujście Mocy",
+      "desc": "1 sojusznik z najwyższą Ilością Maks HP nakłada +1 [Vibration] efektami Monet/Zdolności."
+    },
+    {
+      "id": 1120601,
+      "name": "Tarcza Bojowa",
+      "desc": "Jeśli na początku fazy walki w tą jednostkę celuje więcej niż 1 atak, zyskuje ona 2 [DefenseUp].\nJeśli na początku fazy walki ma 50% lub mniej HP, zyskuje dodatkowe 3 [DefenseUp]."
+    },
+    {
+      "id": 1120621,
+      "name": "Twoja Tarcza",
+      "desc": "Jeśli w 1 sojusznik z najwyższym Maks HP celuje więcej niż 1 atak, zyskuje on 3 [DefenseUp]"
+    },
+    {
+      "id": 1020501,
+      "name": "Ochrona Terenu",
+      "desc": "Na początku fazy walki, przyznaj 2 sojusznikom znajdującym się obok tej jednostki na Tablicy 2 [DefenseUp]."
+    },
+    {
+      "id": 1020511,
+      "name": "Ochrona Terenu",
+      "desc": "Na początku fazy walki, przyznaj 2 sojusznikom znajdującym się obok tej jednostki na Tablicy 2 [DefenseUp].\nJeśli HP tych sojuszników jest poniżej 50%, przyznaj dodatkowe 2 [DefenseUp]"
+    },
+    {
+      "id": 1020521,
+      "name": "Odebrano Zlecenie Obrony",
+      "desc": "Na początku fazy walki, przyznaj 2 [DefenseUp] sojusznikowi z najniższym procenten HP\nJeśli HP celu jest poniżej 50%, przyznaj dodatkowe 2 [DefenseUp]"
+    },
+    {
+      "id": 1040501,
+      "name": "Diabelsko Ostra Klinga Drąca Rzeczywistość W Drobny Mak",
+      "desc": "Po pokonaniu Przeciwnika, zyskaj +2 Ilości [Charge] (3 razy na turę)"
+    },
+    {
+      "id": 1040521,
+      "name": "Ostrze Odbicia Rzeczywistości - Wersja #7",
+      "desc": "Kiedy Sojusznik z najniższym Maks HP pokona Przeciwnika, zyskuje on +2 Ilości [Charge] (raz na turę)"
+    },
+    {
+      "id": 1060601,
+      "name": "Mistrzowskie Porządkowanie",
+      "desc": "Mając 5+ Ilości [Charge] na początku fazy walki, zyskaj 2 [Agility] na początku następnej tury"
+    },
+    {
+      "id": 1060621,
+      "name": "Instrukcja Porządkowania Pociągu",
+      "desc": "Sojusznik z najniższą Prędkością zyskuje 2 [Agility] na początku następnej tury jeśli ma 5+ Ilości [Charge] na początku fazy walki"
+    },
+    {
+      "id": 1070601,
+      "name": "Intuicja Śledcza",
+      "desc": "Atakując cel typem ataku, na który ten jest \"Śmiertelny\" (Odporność>x1.5), nałóż +1 więcej [Burst] efektami Zdolności",
+      "summary": "Atakując cel typem ataku, na który ten jest Śmiertelny, nałóż +1 więcej [Burst]"
+    },
+    {
+      "id": 1070611,
+      "name": "Intuicja Śledcza",
+      "desc": "Atakując cel typem ataku, na który ten jest \"Śmiertelny\" (Odporność>x1.5), nałóż +1 więcej [Burst] efektami Zdolności\n<style=\"highlight\">Jeśli conajmniej 4 żyjących sojuszników, w tym ta jednostka, są Fixerami Stowarzyszenia Seven, nakładaj +1 dodatkowe [Burst]</style>",
+      "summary": "Atakując cel typem ataku, na który ten jest Śmiertelny, nałóż +1 więcej [Burst]\nMając conajmniej 4 sojuszniczch Fixerów Stowarzyszenia Seven, dodatkowe +1 [Burst]"
+    },
+    {
+      "id": 1070621,
+      "name": "Połącz Kropki",
+      "desc": "1 sojusznik z najwyższym Maks HP nakłada +1 więcej [Burst] efektami Zdolności atakując cel typem ataku, na który ten jest \"Śmiertelny\"(Odporność>x1.5)",
+      "summary": "1 sojusznik z najwyższym Maks HP nakłada +1 więcej [Burst] atakując cel typem ataku, na który ten jest Śmiertelny"
+    },
+    {
+      "id": 1070631,
+      "name": "Połącz Kropki",
+      "desc": "1 sojusznik z najwyższym Maks HP nakłada +1 więcej [Burst] efektami Zdolności atakując cel typem ataku, na który ten jest \"Śmiertelny\"(Odporność>x1.5)\n<style=\"highlight\">Jeśli ten sojusznik jest Fixerem Stowarzyszenia Seven, nakładaj +1 dodatkowe [Burst]</style>",
+      "summary": "1 sojusznik z najwyższym Maks HP nakłada +1 więcej [Burst] atakując cel typem ataku, na który ten jest Śmiertelny\nJeśli ten sojusznik jest Fixerem Stowarzyszenia Seven, nakładaj +1 dodatkowe [Burst]"
+    },
+    {
+      "id": 1020601,
+      "name": "Zanim Wystygnie Herbata...",
+      "desc": "Atakując cel typem ataku, na który ten jest \"Słaby\" lub \"Śmiertelny\" (Odporność>x1), zyskaj 1 [Breath] za każde [Burst] na celu przed atakiem (Maks 20 na turę)",
+      "summary": "Atakując cel typem ataku, na który ten jest Słaby lub Śmiertelny, zyskaj 1 [Breath] za każde [Burst] na celu przed atakiem"
+    },
+    {
+      "id": 1020621,
+      "name": "Czas na herbatę Stowarzyszenia Seven",
+      "desc": "1 sojusznik z najwyższą Prędkością zadaje więcej obrażeń zależnie od wartości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u> na celu jeśli ten jest \"Śmiertelny\"(Odporność>x1.5) na używany typ obrażeń \n+1.5% za każde 1 [Burst] (Maks 15%)",
+      "summary": "1 sojusznik z najwyższą Prędkością zadaje więcej obrażeń zależnie od wartości [Burst] na celu atakując cel typem ataku, na który ten jest Śmiertelny"
+    },
+    {
+      "id": 1020631,
+      "name": "Czas na herbatę Stowarzyszenia Seven",
+      "desc": "1 sojusznik z najwyższą Prędkością zadaje więcej obrażeń zależnie od wartości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u> na celu jeśli ten jest <style=\"highlight\">\"Słaby\" lub \"Śmiertelny\"(Odporność>x1)</style> na używany typ obrażeń\n(+1.5% za każde 1 [Burst]; Maks 15%)\n<style=\"highlight\">Jeśli ten sojusznik jest Fixerem Stowarzyszenia Seven, obrażenia zostają jeszcze bardziej zwiększone\n(+0.5% za każde 1 [Burst]; Maks 5%)</style>",
+      "summary": "1 sojusznik z najwyższą Prędkością zadaje więcej obrażeń zależnie od wartości [Burst] na celu atakując cel typem ataku, na który ten jest Słaby lub Śmiertelny\nJeśli ten sojusznik jest Fixerem Stowarzyszenia Seven, obrażenia zostają jeszcze bardziej zwiększone"
+    },
+    {
+      "id": 1010501,
+      "name": "Takimi Czasy...",
+      "desc": "Aktywując [VibrationExplosion] na przeciwniku, nałóż 1 [DefenseDown] za każde 4 podniesienia Progu Zachwiania (Maks 5 na 1 przeciwnika na turę)"
+    },
+    {
+      "id": 1010521,
+      "name": "Robienie Porządku",
+      "desc": "Kiedy Sojusznik z najniższym Maks HP aktywuje [VibrationExplosion] na przeciwniku, nałóż 1 [DefenseDown] za każde 4 podniesienia Progu Zachwiania (Maks 3 na 1 przeciwnika na turę)"
+    },
+    {
+      "id": 1110501,
+      "name": "Jak Do Szklanki Tak Do Walki",
+      "desc": "Aktywując [VibrationExplosion] na przeciwniku, zadaj 30% zwiększenia Progu Zachwiania jako obrażenia od Lenistwa (Maks 20; zaokrąglone w dół)"
+    },
+    {
+      "id": 1110521,
+      "name": "Kij i Marchewka",
+      "desc": "1 sojusznik z najwyższą wartością Ilości [Vibration] zyskuje +1 więcej Ilości [Vibration] od efektów Zdolności"
+    },
+    {
+      "id": 1090701,
+      "name": "Blask Oświecenia",
+      "desc": "Zyskaj <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">[HitDamageUp]</link></u></color> na początku następnej tury zależnie od ilości obrażeń, które ta jednostka otrzymała w tej turze .\n(Obrażenia zadane Tarczy wliczają się do tego efektu. Przyznaje maksymalną wartość kiedy te obrażenia są równe 25% Maks HP na początku tury. Maks [HitDamageUp] przyznawane przez ten efekt: 5)\nJeśli ta jednostka posiada 3 [KnowledgeExplored] na końcu tury, usuń 1 negatywny efekt na sobie"
+    },
+    {
+      "id": 1090721,
+      "name": "Misjonariuszka Wiedzy",
+      "desc": "1 sojusznik z najwyższym Maks HP zyskuje <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">[HitDamageUp]</link></u></color> na początku następnej tury zależnie od ilości obrażeń, które otrzymał w tej turze.\n(Obrażenia zadane Tarczy wliczają się do tego efektu. Przyznaje maksymalną wartość kiedy te obrażenia są równe 15% Maks HP na początku tury. Maks [HitDamageUp] przyznawane przez ten efekt: 3)"
+    },
+    {
+      "id": 1060701,
+      "name": "Sierp",
+      "desc": "Po pokonaniu Przeciwnika, zyskaj 1 [Enhancement] na początku następnej tury (raz na turę)"
+    },
+    {
+      "id": 1060721,
+      "name": "Masowo produkowany Sprzęt Bioniczny",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością pokona przeciwnika który miał <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u>, zyskuje 1 [Enhancement] na początku następnej tury (raz na turę)"
+    },
+    {
+      "id": 1020701,
+      "name": "Wymuszony Żal",
+      "desc": "- Podczas starcia, jeśli cel ma 3+ negatywne efekty, traci 1 Mocy Starcia\n- Póki ta jednostka żyje, przeciwnicy, na których został aktywowany [VibrationExplosion] zyskują 2 [DefenseDown]. (raz na każdego przeciwnika na turę)\n- Obciążenie Umysłu: Mając mniej niż -25 SP na Końcu Tury, zyskaj 2 [Binding] i 1 [HitResultUp] na początku następnej tury"
+    },
+    {
+      "id": 1020711,
+      "name": "Wymuszony Żal",
+      "desc": "- Podczas starcia, cel traci 1 Mocy Starcia za każde 3 typy negatywnych efektów (Maks -2 Mocy Starcia)\n- Póki ta jednostka żyje, przeciwnicy, na których został aktywowany [VibrationExplosion] zyskują 2 [DefenseDown]. (3 razy na każdego przeciwnika na turę)\n- Obciążenie Umysłu: Mając mniej niż -25 SP na Końcu Tury, zyskaj 2 [Binding] i 1 [HitResultUp] na początku następnej tury"
+    },
+    {
+      "id": 1020721,
+      "name": "Praca Represyjna",
+      "desc": "Najwolniejszy sojusznik zmniejsza Moc Starcia przeciwników, z którymi się ściera o 1, jeśli ci mają 3+ negatywne efekty"
+    },
+    {
+      "id": 1010601,
+      "name": "Opróżniony Umysł",
+      "desc": "- Na Końcu Tury, zyskaj na początku następnej tury 1 [Agility] za każde 5 Ilości [Charge] na sobie. (Maks 2)\n- Jeśli Zdolność tej jednostki zużyła Ilość [Charge], przyznaj 3 [ChargeForceField] 1 sojusznikowi z najniższym procenten HP"
+    },
+    {
+      "id": 1010611,
+      "name": "Opróżniony Umysł",
+      "desc": "- Na Końcu Tury, zyskaj na początku następnej tury 1 [Agility] za każde 5 Ilości [Charge] na sobie. (Maks 3)\n- Jeśli Zdolność tej jednostki zużyła Ilość [Charge], przyznaj 3 [ChargeForceField] 1 sojusznikowi z najniższym procenten HP"
+    },
+    {
+      "id": 1010621,
+      "name": "Demonstracja Porządkowania",
+      "desc": "1 sojusznik z najwyższą Ilością [Charge] zadaje więcej obrażeń przeciwko celom które mają <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">[Burst]</color></link></u> zależnie od wartości [Burst] na celu (+1.5% za każde [Burst]. Maks +15% obrażeń)"
+    },
+    {
+      "id": 1120701,
+      "name": "Naboje są Takie Drogie",
+      "desc": "- Trafiając Orłem cel który ma <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u>, zyskaj <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawę Cudzym Kosztem</color></link></u>. (Maks 4)\n- Jeśli ta jednostka Trafi Krytycznie, a nie ma [Bullet], zużyj całą <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawę cudzym Kosztem</color></link></u> i zadaj (5 x zużyta <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawa cudzym Kosztem</color></link></u>)% zadanych obrażeń jako dodatkowe obrażenia."
+    },
+    {
+      "id": 1120702,
+      "name": "Naboje są Takie Drogie",
+      "desc": "<style=\"highlight\">- Zawsze Aktywny Efekt : Ta jednostka zaczyna Potyczkę z 7 [Bullet]</style>\n- Trafiając Orłem cel który ma <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u>, zyskaj <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawę Cudzym Kosztem</color></link></u>. (Maks 4)\n<style=\"highlight\"> Jeśli Moneta, która zużywa [Bullet] trafi, zużyj całą <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawę cudzym Kosztem</color></link></u> i zadaj (25 x zużyta <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawa cudzym Kosztem</color></link></u>)% zadanych obrażeń jako dodatkowe obrażenia.</style>\n- Jeśli ta jednostka Trafi Krytycznie, a nie ma [Bullet], zużyj całą <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawę cudzym Kosztem</color></link></u> i deal dodatkowe (5 x zużyta <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Zabawa cudzym Kosztem</color></link></u>)% zadanych obrażeń jako dodatkowe obrażenia."
+    },
+    {
+      "id": 1120721,
+      "name": "Nowa Dziura Do Oddychania",
+      "desc": "Jeśli 1 sojusznik z najwyższą Ilością <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> pokona przeciwnika, zyskuje 1 [PenetrateDamageUp] na początku następnej tury. (raz na turę)"
+    },
+    {
+      "id": 1040601,
+      "name": "P.N.F.",
+      "desc": "Jeśli ta jednostka posiada 7+ <sprite name=\"Breath\"><color=#0635D8><u><link=\"Breath\">[Breath]</color></link></u> leczy ona na Końcu Tury 8 SP."
+    },
+    {
+      "id": 1040602,
+      "name": "P.N.F.",
+      "desc": "<style=\"highlight\">- Zawsze Aktywny Efekt : Ta jednostka zaczyna Potyczkę z 7 [Bullet]</style>\n- Jeśli ta jednostka posiada 7+ <sprite name=\"Breath\"><color=#0635D8><u><link=\"Breath\">[Breath]</color></link></u> leczy ona na Końcu Tury 8 SP."
+    },
+    {
+      "id": 1040611,
+      "name": "P.N.F.",
+      "desc": "- Zawsze Aktywny Efekt : Ta jednostka zaczyna Potyczkę z 7 [Bullet]\n- Jeśli ta jednostka posiada 7+ <sprite name=\"Breath\"><color=#0635D8><u><link=\"Breath\">[Breath]</color></link></u> leczy ona na Końcu Tury 8 SP.\n<style=\"highlight\">- Jeśli SP tej jednostki jest równe maks, zyskuje ona zamiast tego 1 <sprite name=\"Breath\"><color=#0635D8><u><link=\"Breath\">[Breath]</color></link></u> na początku następnej tury</style>"
+    },
+    {
+      "id": 1040621,
+      "name": "Szczęśliwa Fajka",
+      "desc": "Jeśli Sojusznik z najniższą Ilością [Bullet] wystrzeli swój ostatni [Bullet] używając Monety, zadaj (50% Obrażeń zadanych przez tą Monete) każdemu celowi tej Monety jako Bonusowe Obrażenia. (zaokrąglone w góre)"
+    },
+    {
+      "id": 1040631,
+      "name": "Szczęśliwa Fajka",
+      "desc": "<style=\"highlight\">- Jeśli Sojusznik z najniższą Ilością [Bullet] użyje Umiejętności która wystrzeli [Bullet], zyskuje on 3 [Breath]. (raz na turę; ten efekt nie jest przyznawany Sojusznikom bez [Bullet])</style>\n- Jeśli Sojusznik z najniższą Ilością [Bullet] wystrzeli swój ostatni [Bullet] używając Monety, zadaj (50% Obrażeń zadanych przez tą Monete) każdemu celowi tej Monety jako Bonusowe Obrażenia. (zaokrąglone w góre)"
+    },
+    {
+      "id": 1030601,
+      "name": "Odwetowe Tatuaże",
+      "desc": "- Zyskaj 1 [VioletDamageUp] na początku następnej tury za każdym razem, kiedy przeciwnik uderzy sojusznika (w tym tą jednostkę) 3 razy. (Maks 5)\n- Przyznaj [RetaliationBook] jednostce, która zadała Zdolnościami najwięcej obrażeń sojusznikom.\n- Jeśli główny cel ma Znak Zemsty, +1 Ostatecznej Mocy"
+    },
+    {
+      "id": 1030611,
+      "name": "Odwetowe Tatuaże",
+      "desc": "- Zyskaj 1 [VioletDamageUp] na początku następnej tury za każdym razem, kiedy przeciwnik uderzy sojusznika (w tym tą jednostkę) 3 razy. (Maks 5)\n- Przyznaj [RetaliationBook] jednostce, która zadała Zdolnościami najwięcej obrażeń sojusznikom.\n- Jeśli główny cel ma Znak Zemsty, +1 Mocy Monet"
+    },
+    {
+      "id": 1030621,
+      "name": "Faworyzowanie",
+      "desc": "1 sojusznik z najniższym Maks HP zyskuje 1 [HitDamageUp] na początku następnej tury za każdym razem, kiedy przeciwnik uderzy sojusznika (nie licząc tej jednostki) 6 razy. (Maks 2)"
+    },
+    {
+      "id": 1050701,
+      "name": "Lojalność",
+      "desc": "- Przyznaj [RetaliationBook] jednostce, która zadała Zdolnościami najwięcej obrażeń sojusznikom.\n- Jeśli główny cel ma Znak Zemsty, +1 Ostatecznej Mocy\n- Jeśli w walce jest inny żywy sojusznik ze Środka, ulecz 6 SP na Końcu każdej Tury"
+    },
+    {
+      "id": 1050711,
+      "name": "Lojalność",
+      "desc": "- Przyznaj [RetaliationBook] jednostce, która zadała Zdolnościami najwięcej obrażeń sojusznikom.\n- Jeśli główny cel ma Znak Zemsty, +1 Ostatecznej Mocy\n- Jeśli w walce jest inny żywy sojusznik ze Środka poza tą jednostką, ta jednostka i żywy sojusznik ze Środka z najniższym SP oboje leczą 6 SP na Końcu każdej Tury"
+    },
+    {
+      "id": 1050721,
+      "name": "Wielka, Szczęśliwa Rodzinka",
+      "desc": "1 sojusznik z najniższym SP leczy 10 SP na Końcu Tury jeśli w walce jest inny sojusznik z tej samej grupy  "
+    },
+    {
+      "id": 1070701,
+      "name": "Pocięte Tatuarze",
+      "desc": "Zyskaj 1 [AttackLevelAdder] i 1 [DefenseUp] na początku następnej tury za każdym razem, kiedy sojusznik (w tym ta jednostka) zostanie zaatakowany. (Maks 6)\nTa jednostka zadaje więcej obrażeń, im mniej ma HP.\n- +0.4% obrażeń za każde 1% brakującego HP",
+      "summary": "Zyskaj 1 [AttackLevelAdder] i 1 [DefenseUp] za każdym razem kiedy ta jednostka zostanie zaatakowana. Ta jednostka zadaje więcej obrażeń, im mniej ma HP."
+    },
+    {
+      "id": 1070711,
+      "name": "Pocięte Tatuarze",
+      "desc": "Zyskaj 1 [AttackLevelAdder] i 1 [DefenseUp] na początku następnej tury za każdym razem, kiedy sojusznik (w tym ta jednostka) zostanie zaatakowany. Zyskaj 2 tych efektów jeśli wspomniany sojusznik jest z Pequodu. (Maks 9)\nTa jednostka zadaje więcej obrażeń, im mniej ma HP.\n- +1% obrażeń za każde 1% brakującego HP",
+      "summary": "Zyskaj 1 [AttackLevelAdder] i 1 [DefenseUp] za każdym razem kiedy ta jednostka zostanie zaatakowana. Ta jednostka zadaje więcej obrażeń, im mniej ma HP."
+    },
+    {
+      "id": 1070721,
+      "name": "Desperacja",
+      "desc": "1 sojusznik z najwyższym maks HP zadaje więcej Obrażeń od Dźgania im mniej ma HP\n- +0.15% obrażeń za każde 1% brakującego HP (Maks 15%)",
+      "summary": "1 sojusznik z najwyższym maks HP zadaje więcej Obrażeń od Dźgania im mniej ma HP"
+    },
+    {
+      "id": 1070731,
+      "name": "Desperacja",
+      "desc": "1 sojusznik z najwyższym maks HP zadaje więcej Obrażeń od Dźgania im mniej ma HP\n- +0.3% obrażeń za każde 1% brakującego HP (Maks 30%)",
+      "summary": "1 sojusznik z najwyższym maks HP zadaje więcej Obrażeń od Dźgania im mniej ma HP"
+    },
+    {
+      "id": 1010701,
+      "name": "Harpun Pierwszego Oficera",
+      "desc": "Przy Trafieniu Krytycznym, nałóż 2 więcej Siły [Laceration] używając Zdolności (6 razy na turę)"
+    },
+    {
+      "id": 1010721,
+      "name": "Przebiegłość Pierwszego Oficera",
+      "desc": "Przy Trafieniu Krytycznym, 1 sojusznik z najwyższą Ilością [Breath] nakłada 2 dodatkowe Siły [Laceration] używając Zdolności (6 razy na turę)"
+    },
+    {
+      "id": 1110601,
+      "name": "Przekierowanie",
+      "desc": "Wykonnując Unik zyskaj 1 [Agility] na początku następnej tury (Maks 3)"
+    },
+    {
+      "id": 1110611,
+      "name": "Przekierowanie",
+      "desc": "Wykonnując Unik zyskaj 1 [Agility] na początku następnej tury i obniż Próg Zachwiania tej jednostki o 5 (Maks 3)"
+    },
+    {
+      "id": 1110621,
+      "name": "Porada Mentora",
+      "desc": "Jeśli Prędkość najszybszego sojusznika jest wyższa niż Prędkość wszystkich przeciwników, najszybszy sojusznik zyskuje +1 Mocy Starcia"
+    },
+    {
+      "id": 1110631,
+      "name": "Porada Mentora",
+      "desc": "Jeśli Prędkość najszybszego sojusznika jest wyższa niż Prędkość wszystkich przeciwników, najszybszy sojusznik zyskuje +1 Mocy Starcia\nJeśli ten sojusznik jest Fixerem Stowarzyszenia Cinq, zadaje on +10% Obrażeń od Dźgania"
+    },
+    {
+      "id": 1100801,
+      "name": "Uśpiona Rządza Krwi",
+      "desc": "Koniec Tury: Zyskaj +2 Maks Prędkości na początku następnej tury za każde 5 Ilości [Breath] (Maks 6)"
+    },
+    {
+      "id": 1100811,
+      "name": "Uśpiona Rządza Krwi",
+      "desc": "Koniec Tury: Zyskaj +2 Maks Prędkości na początku następnej tury za każde 5 Ilości [Breath] (Maks 6)\nPoczątek Walki: Jeśli Prędkość wszystkich sojuszników jest wyższa niż Prędkość wszystkich przeciwników, zyskaj 1 [PenetrateDamageUp]"
+    },
+    {
+      "id": 1100821,
+      "name": "Za Wolno",
+      "desc": "Wykonnując Unik, najszybszy sojusznik zyskuje 1 [Agility] na początku następnej tury (Maks 5)"
+    },
+    {
+      "id": 1110701,
+      "name": "Dymiąca Fajka Strzelca",
+      "desc": "Jeśli Poziom Obrony głównego celu jest obecnie obniżony o conajmniej 4, zyskaj ([Combustion] na głównym celu/2) [Breath] Przed Atakiem (Maks 20 na turę)"
+    },
+    {
+      "id": 1110711,
+      "name": "Dymiąca Fajka Strzelca",
+      "desc": "Jeśli Poziom Obrony głównego celu jest obecnie obniżony o conajmniej 4, zyskaj ([Combustion] na głównym celu) [Breath] Przed Atakiem (Maks 20 na turę)"
+    },
+    {
+      "id": 1110721,
+      "name": "Praca Zleceniowa",
+      "desc": "1 sojusznik z najwyższą Ilością SP zadaje +10% obrażeń Zdolnościami E.G.O"
+    },
+    {
+      "id": 1110731,
+      "name": "Praca Zleceniowa",
+      "desc": "1 sojusznik z najwyższą Ilością SP zadaje +10% obrażeń Zdolnościami E.G.O\nJeśli ta Zdolność E.G.O zyżywa 7+ zasobów E.G.O, zwiększ efekt o dodatkowe +5% obrażeń"
+    },
+    {
+      "id": 1030701,
+      "name": "Chrup Chrup",
+      "desc": "Jeśli Żeton Ataku tej jednostki ma [Aggro], +1 Mocy Starcia\nUlecz 4 HP za każdym razem kiedy ta jednostka trafi przeciwnika, który celował w nią podczas Fazy Celowania (Dla Anomalii, Części, które celowały w nią)"
+    },
+    {
+      "id": 1030711,
+      "name": "Chrup Chrup",
+      "desc": "Jeśli Żeton Ataku tej jednostki ma [Aggro], +1 Mocy Starcia\nUlecz 6 HP za każdym razem kiedy ta jednostka trafi przeciwnika, który celował w nią podczas Fazy Celowania (Dla Anomalii, każda Część jest liczona osobno)"
+    },
+    {
+      "id": 1030721,
+      "name": "Światło Latarni",
+      "desc": "Sojusznik z najwyższym [Aggro] na Żetonie Zdolności leczy 2 HP za każdym razem kiedy trafi przeciwnika, który w nią celował (Nie działa na jednostki bez [Aggro])"
+    },
+    {
+      "id": 1030731,
+      "name": "Światło Latarni",
+      "desc": "Sojusznik z najwyższym [Aggro] Żetonie Zdolności leczy 4 HP za każdym razem kiedy trafi przeciwnika, który w nią celował (Nie działa na jednostki bez [Aggro])"
+    },
+    {
+      "id": 1060801,
+      "name": "Spoglądając Przez Klucz",
+      "desc": "Odrzucając Zdolność, zyskaj [AttackDmgUp] równe Poziomowi Odrzuconej Zdolności. (Maks 3 na turę)"
+    },
+    {
+      "id": 1060811,
+      "name": "Spoglądając Przez Klucz",
+      "desc": "Odrzucając Zdolność, zyskaj [AttackDmgUp] równe Poziomowi Odrzuconej Zdolności. (Maks 3 na turę)\nKiedy inni sojusznicy Odrzucają Zdolność i jeśli Poziom Odrzuconej przez nich Zdolności jest wyższy niż Wartość [KnowledgeExplored] tej jednostki, ta jednostka zyskuje +1 [KnowledgeExplored]."
+    },
+    {
+      "id": 1060821,
+      "name": "Oświecenie",
+      "desc": "Po Ataku: Jeśli the cel jest zachwiany lub pokonany przez atak 1 sojusznika z najniższym SP, ten sojusznik leczy 7 SP."
+    },
+    {
+      "id": 1010801,
+      "name": "Rozpaczliwa Wiedza",
+      "desc": "Gdy ta jednostka zostanie zaatakowana, nałóż na atakującego 1 [Sinking] (4 razy maks)"
+    },
+    {
+      "id": 1010811,
+      "name": "Rozpaczliwa Wiedza",
+      "desc": "Gdy ta jednostka zostanie zaatakowana, nałóż na atakującego 1 [Sinking]. Gdy ta jednostka zostanie zaatakowana kiedy ma Tarczę, nałóż na atakującego 1 dodatkowe [Sinking]. (4 razy maks)"
+    },
+    {
+      "id": 1010821,
+      "name": "Przepatrzona Wiedza",
+      "desc": "Kiedy Sojusznik z najwyższą Prędkością Odrzuca Zdolność, zyskaj (3 x poziom Odrzuconej Zdolności)% of the Maks HP jako Tarcza (raz na turę)"
+    },
+    {
+      "id": 1010831,
+      "name": "Przepatrzona Wiedza",
+      "desc": "Kiedy Sojusznik z najwyższą Prędkością Odrzuca Zdolność, zyskaj (5 x poziom Odrzuconej Zdolności)% of the Maks HP jako Tarcza (2 razy na turę)"
+    },
+    {
+      "id": 1080801,
+      "name": "Kapitan Pequodu",
+      "desc": "Po Ataku: jeśli przeciwnik jest pokonany po ataku tej jednostki,\n- zyskaj [HeatedGasHarpoon] na początku następnej tury.\n- 1 inny sojusznik z najniższym SP leczy 7 SP.\n- Jeśli ten sojusznik jest z Pequodu, ulecz dodatkowe 5 SP."
+    },
+    {
+      "id": 1080802,
+      "name": "Czas Na Polowanie",
+      "desc": "Jeśli cel jest <Bytem z Jeziora>, zadawaj mu +10% obrażeń"
+    },
+    {
+      "id": 1080811,
+      "name": "Kapitan Pequodu",
+      "desc": "- Po Ataku: jeśli przeciwnik jest pokonany po ataku tej jednostki,\n<style=\"highlight\">- zyskaj 4 [Breath], +2 Ilości [Breath], po czym zyskaj [OverHeatedGasHarpoon] na początku następnej tury.</style>\n<style=\"highlight\">- 2 innych sojuszników z najniższym SP leczą 7 SP i zyskują 4 [Breath].</style>\n- Jeśli sojusznicy są z Pequodu, ulecz dodatkowe 5 SP, <style=\"highlight\">po czym, raz na turę, przyznaj 1 [PenetrateResultUp] na początku następnej tury.</style>"
+    },
+    {
+      "id": 1080821,
+      "name": "Rozkazy Kapitana",
+      "desc": "1 sojusznik z najwyższym SP zyskuje 2 [Breath] kiedy atak tej jednostki pokona przeciwnika (2 razy na turę)"
+    },
+    {
+      "id": 1080831,
+      "name": "Rozkazy Kapitana",
+      "desc": "Po Ataku: 1 sojusznik z najwyższym SP zyskuje 2 [Breath] i <style=\"highlight\">+2 Ilości [Breath]</style> kiedy atak tej jednostki pokona przeciwnika (2 razy na turę)"
+    },
+    {
+      "id": 1050801,
+      "name": "Miecz Ojczyzny",
+      "desc": "Podczas tej Potyczki, kiedy ta jednostka otrzyma obrażenia, które sprowadziłyby jej HP do 0, zignoruj te obrażenia; przez resztę tury, HP tej jednostki nie może spaść poniżej 1. (Raz na Potyczkę)\n\nKiedy ta jednostka zyskuje Siłę/Ilość [Breath] przez efekty własnych Zdolności lub Monet: przyznaj 2 innym sojusznikom z Rodowodu Ostrza którzy nie mają [Breath] lub mają najmniej Siły [Breath] 1 Siłę [Breath] i +1 Ilości [Breath]\n- Jeśli w tej Potyczce uczestniczy 6 lub więcej sojusznikom z Rodowodu Ostrza, zamiast tego przyznaj 2 Siły [Breath] i +2 Ilości [Breath]"
+    },
+    {
+      "id": 1050811,
+      "name": "Miecz Ojczyzny",
+      "desc": "Podczas tej Potyczki, kiedy ta jednostka otrzyma obrażenia, które sprowadziłyby jej HP do 0, zignoruj te obrażenia; przez resztę tury, HP tej jednostki nie może spaść poniżej 1. (Raz na Potyczkę)\n\nKiedy ta jednostka zyskuje Siłę/Ilość [Breath] przez efekty własnych Zdolności lub Monet: przyznaj 2 innym sojusznikom z Rodowodu Ostrza którzy nie mają [Breath] lub mają najmniej Siły [Breath] 1 Siłę [Breath] i +1 Ilości [Breath]\n- Jeśli w tej Potyczce uczestniczy 6 lub więcej sojusznikom z Rodowodu Ostrza, zamiast tego przyznaj 2 Siły [Breath] i +2 Ilości [Breath]\n\nPoczątek Walki: Przyznaj [SwordPlayOfTheHomeland] wszystkim innym sojusznikom z Rodowodu Ostrza"
+    },
+    {
+      "id": 1050821,
+      "name": "Miecz Ojczyzny",
+      "desc": "Początek Walki: 1 sojusznik z najwyższą Ilością [Breath] zadaje +15% obrażeń Trafieniami Krytycznymi"
+    },
+    {
+      "id": 1020801,
+      "name": "Rozkwit Krwawej Śliwy",
+      "desc": "Przy Trafieniu Krytycznym: Nałóż 1 [RedApricotBlossom]. (3 razy maks)"
+    },
+    {
+      "id": 1020811,
+      "name": "Rozkwit Krwawej Śliwy",
+      "desc": "Przy Trafieniu Krytycznym: Nałóż 1 [RedApricotBlossom]. Jeśli cel ma 10 [RedApricotBlossom], zamiast tego nałóż 1 [DefenseDown] (6 razy maks)"
+    },
+    {
+      "id": 1020821,
+      "name": "Utrzymujące Się Ostrze",
+      "desc": "Kiedy sojusznik ustalony jako pierwszy w ustalaniu zespołu przed walką Trafi Krytycznie Zdolnością Cięcia, nakłada 1 [DefenseDown] (3 razy maks na każdego przeciwnika na turę)"
+    },
+    {
+      "id": 1030801,
+      "name": "Zbiorowy Oddech",
+      "desc": "Kiedy ta jednostka zyskuje Siłę [Breath] przez efekty własnych Zdolności lub Monet: przyznaj 1 Siłę [Breath] 1 sojusznikowi który nie ma [Breath] lub ma najmniej Siły [Breath] (3 razy maks)"
+    },
+    {
+      "id": 1030811,
+      "name": "Zbiorowy Oddech",
+      "desc": "Kiedy ta jednostka zyskuje Siłę [Breath] przez efekty własnych Zdolności lub Monet: przyznaj 1 Siłę [Breath] 1 sojusznikowi który nie ma [Breath] lub ma najmniej Siły [Breath] (5 razy maks)"
+    },
+    {
+      "id": 1030821,
+      "name": "Nocny Spacer",
+      "desc": "1 sojusznik z najniższą Ilością [Breath] zyskuje 1 więcej Siły [Breath] zyskująć Siłę [Breath] przez efekty własnych Zdolności lub Monet. (2 razy maks. ten efekt nie jest przyznawany Sojusznikom bez [Breath])"
+    },
+    {
+      "id": 1030831,
+      "name": "Nocny Spacer",
+      "desc": "1 sojusznik z najniższą Ilością [Breath] zyskuje 2 więcej Siły [Breath] zyskująć Siłę [Breath] przez efekty własnych Zdolności lub Monet. (2 razy maks. ten efekt nie jest przyznawany Sojusznikom bez [Breath])"
+    },
+    {
+      "id": 1120801,
+      "name": "Ostrze Ciemnej Chmury",
+      "desc": "Wygranie Starcia: nałóż 1 [Laceration] (3 razy na turę)"
+    },
+    {
+      "id": 1120821,
+      "name": "Styl Ciemnych Chmur",
+      "desc": "Kiedy 1 sojusznik z najniższą Prędkością trafi przeciwnika z 10+ [Laceration], nakłada 1 [AttackDown] na początku następnej tury (3 razy na turę)"
+    },
+    {
+      "id": 1120831,
+      "name": "Styl Ciemnych Chmur",
+      "desc": "Kiedy 1 sojusznik z najniższą Prędkością trafi przeciwnika z 7+ [Laceration], nakłada 1 [AttackDown] na początku następnej tury (3 razy na turę)"
+    },
+    {
+      "id": 1050802,
+      "name": "Ku Pamięci Poległych",
+      "desc": "Kiedy 3 lub więcej innych sojuszników z Rodowodu Ostrza zostanie pokonanych:\n- Zyskująć Siłę/Ilość [Breath] przez efekty własnych Zdolności lub Monet: zyskaj 1 więcej każdego z nich\n- Kiedy 5 lub więcej innych sojuszników z Rodowodu Ostrza zostanie pokonanych, zamiast tego zyskaj 2 więcej każdego z nich\n- Początek Walki: Przyznaj [SwordPlayOfTheMemorial] na sobie"
+    },
+    {
+      "id": 1090801,
+      "name": "Ognista Pasja",
+      "desc": "Zadaj +5% Obrażeń za każde 6 Nasilenia [Combustion] na celu (Maks 15%)\nNa początku Fazy Walki: jeśli wszyscy Przeciwnicy posiadają 6+ Nasilenia [Combustion], Przyznaj 1 [CrimsonDamageUp] na (najwyższy A-Rezon Gniewu) Sojuszników (efekt jest nakładany w Kolejności Wdrożenia)\n- W Skupionych Potyczkach, ten efekt aktywuje się gdy wszystkie wrogie Części mają na sobie 6+ Nasilenia [Combustion]",
+      "summary": "Zadaj +5% Obrażeń za każde 6 Nasilenia [Combustion] na celu (Maks 15%)\nPrzy pewnych warunkach bazowanych na [Combustion] oraz A-Rezon Gniewu, Przyznaj pewien bonus Sojusznikom"
+    },
+    {
+      "id": 1090811,
+      "name": "Ognista Pasja",
+      "desc": "Zadaj +10% Obrażeń za każde 6 Nasilenia [Combustion] na celu (Maks 30%)\nNa początku Fazy Walki: jeśli wszyscy Przeciwnicy posiadają 6+ Nasilenia [Combustion], Przyznaj 1 [CrimsonDamageUp] na (najwyższy A-Rezon Gniewu) Sojuszników (efekt jest nakładany w Kolejności Wdrożenia)\n- W Skupionych Potyczkach, ten efekt aktywuje się gdy wszystkie wrogie Części mają na sobie 6+ Nasilenia [Combustion]\n- jeśli Sojusznik otrzymujący poniższe efekty jest Fixerem Stoważyszenia Liu, Przyznaj im również 1 [Enhancement]",
+      "summary": "Zadaj +10% Obrażeń za każde 6 Nasilenia [Combustion] na celu (Maks 30%)\nPrzy pewnych warunkach bazowanych na [Combustion] oraz A-Rezon Gniewu, Przyznaj pewien bonus Sojusznikom"
+    },
+    {
+      "id": 1090821,
+      "name": "Pełen Pasji Doping",
+      "desc": "Sojusznik z najniższą Ilością SP zadaje +5% obrażeń od Dźgania za każde 6 Nasilenia [Combustion] na celu przed uderzeniem (Maks 15%)"
+    },
+    {
+      "id": 1040701,
+      "name": "Rozmiecanie Pożaru",
+      "desc": "Kiedy ta jednostka pokona Przeciwnika posiadającego [Combustion], nałóż 4 [Combustion] na przypadkowego Przeciwnika nie posiadającego [Combustion] lub posiadającego najmniej Nasilenia [Combustion]. (raz na turę)\n- W Skupionych Potyczkach, na przypadkową Część",
+      "summary": "Kiedy ta jednostka pokona Przeciwnika posiadającego [Combustion], nałóż 4 [Combustion] na przypadkowego Przeciwnika nie posiadającego [Combustion] lub posiadającego najmniej Nasilenia [Combustion]"
+    },
+    {
+      "id": 1040711,
+      "name": "Rozmiecanie Pożaru",
+      "desc": "Kiedy ta jednostka pokona Przeciwnika posiadającego [Combustion], nałóż 4 [Combustion] na dwóch przypadkowych Przeciwników nie posiadających [Combustion] lub posiadającego najmniej Nasilenia [Combustion]. (2 razy na turę)\n- W Skupionych Potyczkach, na dwie przypadkowe Części",
+      "summary": "Kiedy ta jednostka pokona Przeciwnika posiadającego [Combustion], nałóż 4 [Combustion] na dwóch przypadkowych Przeciwników nie posiadających [Combustion] lub posiadającego najmniej Nasilenia [Combustion]"
+    },
+    {
+      "id": 1040721,
+      "name": "Rozmiecanie Ognia",
+      "desc": "Kiedy Sojusznik z najniższą Prędkością pokona Przeciwnika z [Combustion], nałóż 3 [Combustion] na jednego losowego Przeciwnika (raz na turę)\n- W Skupionych Potyczkach, na przypadkową Część",
+      "summary": "Kiedy Sojusznik z najniższą Prędkością pokona Przeciwnika z [Combustion], nałóż 3 [Combustion] na jednego losowego Przeciwnika"
+    },
+    {
+      "id": 1040731,
+      "name": "Rozmiecanie Ognia",
+      "desc": "Kiedy Sojusznik z najniższą Prędkością pokona Przeciwnika z [Combustion], nałóż 3 [Combustion] na dwóch przypadkowych Przeciwników (raz na turę)\n- W Skupionych Potyczkach, na dwie przypadkowe Części",
+      "summary": "Kiedy Sojusznik z najniższą Prędkością pokona Przeciwnika z [Combustion], nałóż 3 [Combustion] na dwóch przypadkowych Przeciwników"
+    },
+    {
+      "id": 1070801,
+      "name": "Grobowa Cisza",
+      "desc": "+5% zadanych obrażeń za każde 6 Siły [Vibration] na celu (Maks 15%)",
+      "summary": ""
+    },
+    {
+      "id": 1070811,
+      "name": "Grobowa Cisza",
+      "desc": "+10% zadanych obrażeń za każde 6 Siły [Vibration] na celu (Maks 30%)\nDostrajając [Vibration] na [VibrationCollapse] efektami Zdolności tej jednostki, aktywuj [VibrationExplosion] na celu",
+      "summary": ""
+    },
+    {
+      "id": 1070821,
+      "name": "Sprawdzenie Dopełnienia Obowiązku",
+      "desc": "1 sojusznik z najwyższą Prędkością otrzymuje +1 Mocy Starcia dla Zdolności, które nakładają Siłę lub Ilość [Vibration]",
+      "summary": ""
+    },
+    {
+      "id": 1050901,
+      "name": "Kupowanie Czasu",
+      "desc": "+1 Mocy Starcia ścierając się z celami, które mają [Burst]",
+      "summary": "+1 Mocy Starcia ścierając się z celami, które mają [Burst]"
+    },
+    {
+      "id": 1050921,
+      "name": "Moja Odpowiedzialność",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością trafi przeciwnika z 6+ [Burst], nałóż 1 [AttackDown] (3 razy na wroga na turę)",
+      "summary": "Nałóż 1 [AttackDown] Przy Trafieniu przeciwko celom mającym 6+ [Burst]"
+    },
+    {
+      "id": 1050931,
+      "name": "Moja Odpowiedzialność",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością trafi przeciwnika z 3+ [Burst], nałóż 1 [AttackDown] (3 razy na wroga na turę)",
+      "summary": "Nałóż 1 [AttackDown] Przy Trafieniu przeciwko celom mającym 3+ [Burst]"
+    },
+    {
+      "id": 1110801,
+      "name": "The Mistress's Voice...!",
+      "desc": "- Kiedy clashing przeciwko celom mającym mniej niż -25 SP, +1 Mocy Starcia i deal +10% więcej obrażeń\n- Deal +15% więcej obrażeń przeciwko celom mającym [EchoOfMansion]\n- Kiedy winning a Clash without losing a single Coin, ulecz 10 SP. Jeśli ta jednostka is already mając maks Wartość SP, zyskaj 2 [AttackLevelAdder] na początku następnej tury (2 razy na turę)",
+      "summary": "Azyskajst targets mającym low SP, +1 Mocy Starcia i deal +10% więcej obrażeń\nDeal +15% więcej obrażeń jeśli cel ma [EchoOfMansion]\nUlecz SP po Wygramnu Starcia"
+    },
+    {
+      "id": 1110811,
+      "name": "The Mistress's Voice...!",
+      "desc": "- Kiedy clashing przeciwko celom mającym mniej niż 0 SP, +1 Mocy Starcia i deal +20% więcej obrażeń\n- Deal +30% więcej obrażeń przeciwko celom mającym [EchoOfMansion]\n- Kiedy winning a Clash without losing a single Coin, ulecz 10 SP. Jeśli ta jednostka is already mając maks Wartość SP, zyskaj 3 [AttackLevelAdder] na początku następnej tury (2 razy na turę)",
+      "summary": "Azyskajst targets mającym low SP, +1 Mocy Starcia i deal +20% więcej obrażeń\nDeal +30% więcej obrażeń jeśli cel ma [EchoOfMansion]\nUlecz SP po Wygramnu Starcia"
+    },
+    {
+      "id": 1110821,
+      "name": "Butler Training",
+      "desc": "+1 Mocy Starcia 1 sojusznikowi z najwyższą Ilością SP kiedy clashing przeciwko celom mającym mniej niż -25 SP",
+      "summary": "+1 Mocy Starcia kiedy Clashing przeciwko celom mającym mniej niż -25 SP"
+    },
+    {
+      "id": 1110831,
+      "name": "Butler Training",
+      "desc": "+1 Mocy Starcia 1 sojusznikowi z najwyższą Ilością SP kiedy clashing przeciwko celom mającym mniej niż -25 SP",
+      "summary": "+1 Mocy Starcia kiedy Clashing przeciwko celom mającym mniej niż -25 SP"
+    },
+    {
+      "id": 1050911,
+      "name": "Kupowanie Czasu",
+      "desc": "+1 Mocy Starcia przeciwko celom mającym [Burst]\n+2 Mocy Starcia jeśli cel ma 5+ Ilości [Burst]",
+      "summary": ""
+    },
+    {
+      "id": 1020901,
+      "name": "Odpowiedź Lokaja",
+      "desc": "- Wygranie Starcia: nałóż 1 [Sinking] na celu (3 razy na turę)",
+      "summary": "Wygranie Starcia: nałóż 1 [Sinking]"
+    },
+    {
+      "id": 1020911,
+      "name": "Odpowiedź Lokaja",
+      "desc": "- Wygranie Starcia: nałóż 1 [Sinking] na celu (3 razy na turę)\n- Jeśli cel ma [EchoOfMansion], zamiast tego nałóż 3 [Sinking]",
+      "summary": "Wygranie Starcia: nałóż 1 [Sinking]"
+    },
+    {
+      "id": 1020921,
+      "name": "Trening Przygotowawczy",
+      "desc": "Kiedy Sojusznik z najniższym SP trafi przeciwnika z 5+ [Sinking], ten sojusznik leczy 2 SP Przy Trafieniu (4 razy na turę)",
+      "summary": "Warunkowe leczenie SP"
+    },
+    {
+      "id": 1020931,
+      "name": "Trening Przygotowawczy",
+      "desc": "Kiedy Sojusznik z najniższym SP trafi przeciwnika z 5+ [Sinking], ten sojusznik leczy 3 SP Przy Trafieniu (4 razy na turę)",
+      "summary": "Warunkowe leczenie SP"
+    },
+    {
+      "id": 1120901,
+      "name": "Niekończące Się Koszmary",
+      "desc": "- Początek Walki: zyskaj 1 [AttackDmgUp] i 1 [Vulnerable] za każde 5 różnicy SP pomiędzy Początkiem Walki w tej turze a Początkiem Walki w poprzedniej (maks 5)\n- +1% zadanych obrażeń za każdą wartość Siły [Sinking] na celu (maks 20%)",
+      "summary": ""
+    },
+    {
+      "id": 1120911,
+      "name": "Niekończące Się Koszmary",
+      "desc": "- Początek Walki: zyskaj 1 [AttackDmgUp] i 1 [Vulnerable] za każde 5 różnicy SP pomiędzy Początkiem Walki w tej turze a Początkiem Walki w poprzedniej (maks 5)\n- +2% zadanych obrażeń za każdą wartość Siły [Sinking] na celu (maks 40%)",
+      "summary": ""
+    },
+    {
+      "id": 1120921,
+      "name": "Cierpienie",
+      "desc": "Początek Walki: 1 sojusznik z najniższym SP traci 7 SP, po czym zyskuje 1 [AzureDamageUp]",
+      "summary": ""
+    },
+    {
+      "id": 1120931,
+      "name": "Cierpienie",
+      "desc": "Początek Walki: 1 sojusznik z najniższym SP traci 5 SP, po czym zyskuje 1 [AzureDamageUp]",
+      "summary": ""
+    },
+    {
+      "id": 999901,
+      "name": "Czerwony Wzrok",
+      "desc": "Nałóżna przeciwników mających 50% lub więcej HP na Końcu Tury 3 [Binding] na początku następnej tury \nJeśli przeciwnik, który ma użyć Zdolności przeciwko tej jednostce nie ma pełnego HP, nałóż na tą jednostkę 1 [Reduction] za każde 20% pozostałego HP",
+      "summary": ""
+    },
+    {
+      "id": 999902,
+      "name": "Rozgrzany Do Białości Gladius",
+      "desc": "Nałóż 1 [AaCfPcBi] Przy Trafieniu Zdolnością Gladiusa",
+      "summary": ""
+    },
+    {
+      "id": 999903,
+      "name": "Krwawe Łzy",
+      "desc": "Przy Użyciu Zdolności: Otrzymaj 3% maks HP jako stałe obrażenia (te obrażenia nie mogą zabić tej jednostki).\nPo Ataku: ulecz 15% maks HP za każdą zabitą jednostkę",
+      "summary": ""
+    },
+    {
+      "id": 999904,
+      "name": "Bariera Krwi",
+      "desc": "Wszyscy sojusznicy, w tym ta jednostka, zyskują Tarczę w każdej turze.\nHp wszystkich sojuszników, w tym tej jednostkki, nie może spaść poniżej 1 HP podczas tej Potyczki.",
+      "summary": ""
+    },
+    {
+      "id": 999905,
+      "name": "Oczy Przyjaciela Który ████",
+      "desc": "'Czerwony Wzrok' staje się dostępny",
+      "summary": ""
+    },
+    {
+      "id": 999906,
+      "name": "Shin (心)",
+      "desc": "Generuje Mang zależnie od SP",
+      "summary": ""
+    },
+    {
+      "id": 999907,
+      "name": "Mang (望)",
+      "desc": "Zużywa SP o generować Mang. Zwiększa obrażenia zależnie od Mang",
+      "summary": ""
+    },
+    {
+      "id": 1040801,
+      "name": "Wykonywanie Obowiązków Domowych",
+      "desc": "Przy Uderzeniu przeciwko targets with [MarkOfButler], zyskaj 1 [Agility] na początku następnej tury (3 razy na turę)\nTrafiając krytycznie cel [MarkOfButler], usuń [MarkOfButler] na celu; po tym, jeśli Prędkość tej jednostki jest wyższa od tej celu zadaj +5% obrażeń przy trafieniu krytycznym za każde 1 różnicy Prędkości (maks 30%)",
+      "summary": ""
+    },
+    {
+      "id": 1040811,
+      "name": "Wykonywanie Obowiązków Domowych",
+      "desc": "Przy Uderzeniu przeciwko targets with [MarkOfButler], zyskaj +1 Ilości [Breath], oraz zyskaj 1 [Agility] na początku następnej tury (3 razy na turę)\nTrafiając krytycznie cel [MarkOfButler], usuń [MarkOfButler] na celu; po tym, jeśli Prędkość tej jednostki jest wyższa od tej celu zadaj +10% obrażeń przy trafieniu krytycznym za każde 1 różnicy Prędkości (maks 60%)",
+      "summary": ""
+    },
+    {
+      "id": 1040821,
+      "name": "Rozkaz Sprzątania",
+      "desc": "Gdy pierwszy w Kolejności Wdrożenia Sojusznik wygra Starcie, zyskuje on +1 Ilości [Breath] (3 razy na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1040831,
+      "name": "Rozkaz Sprzątania",
+      "desc": "Gdy pierwszy w Kolejności Wdrożenia Sojusznik wygra Starcie, zyskuje on +1 Ilości [Breath] (3 razy na turę) oraz 1 [Agility] na początku następnej tury (raz na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1080901,
+      "name": "Dogłębne Czyszczenie",
+      "desc": "Jeśli ta jednostka Trafi Krytycznie cel wolniejszy od niej, nałóż 1 dodatkową Siłę negatywnych efektów, które nakłada ta Zdolność (3 razy na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1080921,
+      "name": "Lojalna Zwolenniczka",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością zaatakuje cel z [Sinking], zadaje +0.5% obrażeń za każde 1 [Sinking] na celu (maks 10%)",
+      "summary": ""
+    },
+    {
+      "id": 1080931,
+      "name": "Lojalna Zwolenniczka",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością zaatakuje cel z [Sinking], zadaje +1% obrażeń za każde 1 [Sinking] na celu (maks 20%)",
+      "summary": ""
+    },
+    {
+      "id": 1100901,
+      "name": "Broń Warsztatu Stygmy / Passion",
+      "desc": "This unit nakłada +1 więcej Siła [Combustion] mającym its Skills (Activates 6 razy na turę)\nKiedy in a Volatile E.G.O state i at 0+ SP, zyskaj Coin Mocy +(SP/20). Mając 45 SP, zyskaj Coin Mocy +3 zamiast tego.",
+      "summary": "Nałóż +1 więcej Siła [Combustion] mającym Skills\nZyskaj Coin Mocy zależnie od SP"
+    },
+    {
+      "id": 1100911,
+      "name": "Broń Warsztatu Stygmy / Passion",
+      "desc": "This unit nakłada +1 więcej Siła [Combustion] <style=\"highlight\">i Count</style> mającym its Skills (Activates 6 razy na turę)\nKiedy in a Volatile E.G.O state i at 0+ SP, zyskaj Coin Mocy +(SP/20). Mając 45 SP, zyskaj Coin Mocy +3 zamiast tego.",
+      "summary": "Nałóż +1 więcej Siła [Combustion] i Count mającym Skills\nZyskaj Coin Mocy zależnie od SP"
+    },
+    {
+      "id": 1100902,
+      "name": "Unstable Shell of Ego",
+      "desc": "Początek Tury: Mając 40+ SP, zużyj 20 SP to enter the Volatile E.G.O::Waxen Pinion state. (this 'Początek Tury' effect does not aktywuj repeatedly)\n\nJeśli 2+ sojuszników are defeated in a single turn i jeśli tej jednostki SP isn't at -45 na Końcu Tury, reset SP to 20, po czym enter the Volatile E.G.O::Waxen Pinion state. (jeśli both conditions are met at the same time, whichever condition that results in a higher SP goes w effect)\n\nJeśli ta jednostka zostanie Zachwiana przez obrażenia lub podniesiony Próg Zachwiania kiedy entering the Volatile E.G.O state, wyjdź ze stanu Zachwiania. Jeśli z tego Zachwiania nie można naturalnie wyjść, ta jednostka does not enter the Volatile E.G.O state.\n\nZyskaj [UnstableFeeling] while in the Volatile E.G.O state.\n\nPoczątek Tury: Mając 0 lub mniej SP, exit the Volatile E.G.O::Waxen Pinion state.",
+      "summary": " "
+    },
+    {
+      "id": 1100921,
+      "name": "Flaring Brand",
+      "desc": "Kiedy the #1 Sinner to be Deployed Heads Hits, nałóż +1 Ilości [Combustion] (4 razy na turę)",
+      "summary": "On Heads Hit, nałóż +1 Ilości [Combustion]"
+    },
+    {
+      "id": 1010901,
+      "name": "Ocena Dzieła",
+      "desc": "Przy Trafieniu, jeśli cel ma 6+ [Laceration], ulecz 2 SP.\nUlecz 1 dodatkowe SP za każdy rodzaj negatywnego efektu na celu. (maks 3)\nJeśli SP tej jednostki jest w maksymalnej wartości, zyskaj 1 [AttackLevelAdder] na początku następnej tury kiedy ta jednostka leczy SP przez ten efekt.\n(Ta Zdolność Pasywna aktywuje się maks 4 razy na turę)",
+      "summary": "Conditional SP Ulecz Przy Trafieniu. Mając maks SP, zyskaj 1 [AttackLevelAdder] na początku następnej tury"
+    },
+    {
+      "id": 1010911,
+      "name": "Ocena Dzieła",
+      "desc": "Przy Trafieniu, jeśli cel ma <style=\"highlight\">4</style>+ [Laceration], ulecz 2 SP.\nUlecz 1 dodatkowe SP za każdy rodzaj negatywnego efektu na celu. (maks 3)\nJeśli SP tej jednostki jest w maksymalnej wartości, zyskaj <style=\"highlight\">2</style> [AttackLevelAdder] na początku następnej tury kiedy ta jednostka leczy SP przez ten efekt.\n(Ta Zdolność Pasywna aktywuje się maks 4 razy na turę)",
+      "summary": "Conditional SP Ulecz Przy Trafieniu. Mając maks SP, zyskaj 2 [AttackLevelAdder] na początku następnej tury"
+    },
+    {
+      "id": 1010921,
+      "name": "Lekcja Estetyki",
+      "desc": "1 sojusznik z najniższym SP leczy 2 SP Przy Trafieniu za każdy rodzaj negatywnego efektu na celu. (maks 6)\n(Ta Zdolność Pasywna aktywuje się maks 2 razy na turę)",
+      "summary": "Przy Trafieniu, ulecz SP zależnie od liczby negatywnych efektów na celu"
+    },
+    {
+      "id": 1010931,
+      "name": "Lekcja Estetyki",
+      "desc": "1 sojusznik z najniższym SP leczy 2 SP Przy Trafieniu za każdy rodzaj negatywnego efektu na celu. (maks 6)\n<style=\"highlight\">Jeśli cel ma [Laceration], ulecz 3 dodatkowe SP.</style>\n(Ta Zdolność Pasywna aktywuje się maks 2 razy na turę)",
+      "summary": "Przy Trafieniu, ulecz SP zależnie od liczby negatywnych efektów na celu"
+    },
+    {
+      "id": 1110901,
+      "name": "Cała Masa Kropek",
+      "desc": "Początek Walki: Nałóż 2 Siły jednego z danych efektów na 1 przeciwnika z najmniejszą liczbą negatywnych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.\n(W Skupionych Potyczkach, na Część)",
+      "summary": "Początek Walki: Nałóż 2 Siły losowego statusu na 1 przeciwnika"
+    },
+    {
+      "id": 1110911,
+      "name": "Cała Masa Kropek",
+      "desc": "Początek Walki: Nałóż 2 Siły jednego z danych efektów na <style=\"highlight\">2</style> przeciwników z najmniejszą liczbą negatywnych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.\n(W Skupionych Potyczkach, na Części)",
+      "summary": "Początek Walki: Nałóż 2 Siły losowego statusu na 2 przeciwników"
+    },
+    {
+      "id": 1110921,
+      "name": "Wstępny Szkic",
+      "desc": "1 sojusznik z najniższym SP leczy 4 SP kiedy pokona przeciwnika który ma [Laceration].\nUlecz 1 dodatkowe SP za każdy rodzaj negatywnego efektu na celu. (maks 4. raz na turę)",
+      "summary": "Ulecz SP na sobie przy Zabiciu celu przeciwko celom mającym [Laceration]"
+    },
+    {
+      "id": 1110931,
+      "name": "Wstępny Szkic",
+      "desc": "1 sojusznik z najniższym SP leczy 4 SP kiedy pokona przeciwnika który ma [Laceration].\nUlecz 1 dodatkowe SP za każdy rodzaj negatywnego efektu na celu. (maks 4. 3 razy na turę)",
+      "summary": "Ulecz SP na sobie przy Zabiciu celu przeciwko celom mającym [Laceration]"
+    },
+    {
+      "id": 1010902,
+      "name": "Krwawy Puentylizm",
+      "desc": "Ta Tożsamość liczy się tylko jako 'Tożsamość która nakłada [Laceration]'. Umiejętności tej Tożsamości, które losowo nakładają [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] nie liczą się jako Zdolności, które nakładają te Słowa Kluczowe."
+    },
+    {
+      "id": 1110902,
+      "name": "Krwawy Puentylizm",
+      "desc": "Ta Tożsamość liczy się tylko jako 'Tożsamość która nakłada [Laceration]'. Umiejętności tej Tożsamości, które losowo nakładają [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] nie liczą się jako Zdolności, które nakładają te Słowa Kluczowe."
+    },
+    {
+      "id": 1040901,
+      "name": "B.U.",
+      "desc": "- Kiedy Sojusznik Zachwieje Przeciwnika atakiem: zaatakuj wcześniej wspomnianego Przeciwnika używając swojej Pierwszej Umiejętności . (raz na turę)\n- Jeśli wiele Przeciwników zostało zachwianych naraz, wymierz w Przeciwnika z najniższym HP(dla Anomalii, wymierz w Anomalie z najniższym HP; następnie, wymierz w Część z najniższym HP).\n- Gdy ta Pasywka wywołuje użycie Pierwszej Umiejętności; ta jednostka zyskuje +1 dodatkowej Ilości [Vibration] od efektów Monet i aktywuje [VibrationExplosion] przy uderzeniu jej Ostatnią Monetą"
+    },
+    {
+      "id": 1040921,
+      "name": "O.T.",
+      "desc": "Pierwszy w Kolejności Wdrożenia Sojusznik zyskuje +1 Ilości [Vibration] od efektów swoich Umiejętności i Monet (2 razy na turę)"
+    },
+    {
+      "id": 1060901,
+      "name": "Scalająca Wibracje Zakręcona Laska Do Samoobrony (Nieautoryzowany Wynalazek)",
+      "desc": "Koniec Tury: zyskaj [AttackDmgUp] na początku następnej tury równe liczbie razy ile ta jednostka aktywowała [VibrationExplosion] w tej turze (maks 3)"
+    },
+    {
+      "id": 1060921,
+      "name": "Gdybym Był Na Miejscu Sprawcy",
+      "desc": "Kiedy 1# Tożasmość wybrana w kolejności zespołu aktywuje [VibrationExplosion] efektami Zdolności lub Monet, 25% szansy aktywować dodatkowe [VibrationExplosion] (raz na turę)"
+    },
+    {
+      "id": 1030901,
+      "name": "Złoty Czas - Zbieranie",
+      "desc": "Koniec Tury: Jeśli HP tej jednostki jest pomiędzy 10% ~ 20%, natychmiast ulecz 80% maks HP tej jednostki i wyjdź ze stanu Zachwiania. (raz na Potyczkę)\n\nKiedy ta jednostka traci [TimeRentalTwoPersonality], jeden z jej Żetonów Ataku zyskuje +8 [Aggro] na początku następnej tury"
+    },
+    {
+      "id": 1030921,
+      "name": "Pole Zakłócania Fizyki T Corpu",
+      "desc": "Kiedy 1 sojusznik z najniższą Prędkością otrzyma obrażenia od przeciwnika, który ma [Vibration], otrzymuje -10% obrażeń"
+    },
+    {
+      "id": 1090901,
+      "name": "Złoty Czas - Konfrontacja",
+      "desc": "Koniec Tury: Jeśli HP tej jednostki jest pomiędzy 16% ~ 20%, natychmiast ulecz do 60% Maks HP i wyjdź ze stanu Zachwiania. (raz na Potyczkę)\n\nŚcierając się z celem, który ma [TimeSuspend], +2 Mocy Starcia\n -10% obrażeń otrzymywanych od celów, które mają [TimeSuspend]"
+    },
+    {
+      "id": 1090921,
+      "name": "Sztuki Walki T Corpu",
+      "desc": "1 sojusznik z najwyższą Prędkością otrzymuje +1 Mocy Starcia kiedy ściera się z celami mającymi 5+ [Vibration]"
+    },
+    {
+      "id": 1051001,
+      "name": "Sala Lekcyjna",
+      "desc": "Za każdym razem, kiedy inny sojusznik Odrzuca Zdolność, przyznaj 1 [KnowledgeTraining] na tego sojusznika i na siebie (raz na każdą Zdolność, 3 razy na turę)\nKoniec Tury: Na początku następnej tury zyskaj [PenetrateDamageUp] i [HitDamageUp] równe liczbie innych sojuszników którzy Odrzuci Zdolność (maks 3)"
+    },
+    {
+      "id": 1051021,
+      "name": "Sumienna Nauka",
+      "desc": "Kiedy Sojusznik z najwyższym maks HP Odrzuca Zdolność, zyskuje (5 x poziom Odrzuconej Zdolności)% swojego maks HP jako Tarcza (raz na turę)\nJeśli ta jednostka ma [KnowledgeExplored], pomnóż wartość otrzymanej tarczy przez 1.5"
+    },
+    {
+      "id": 1111001,
+      "name": "Overcharge / Cleanup Order",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\nKoniec Tury: Przyznaj 1 [ParryingResultUp] na początku następnej tury to ([Charge]) W Corp. employees, w tym ta jednostka, in reverse Deployment order (maks: 5 sojuszników)"
+    },
+    {
+      "id": 1111021,
+      "name": "Refraction",
+      "desc": "1 sojusznik who posiada the most Ilość [Charge] at Początek Tury: deal +10% więcej obrażeń mającym Skills that zużyła 7+ Ilość [Charge] (raz na turę)"
+    },
+    {
+      "id": 1021001,
+      "name": "Elektroniczna Likwidacja",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\nMając 2+ [Charge], zadawaj +([Charge] x 3)% więcej obrażeń (maks 15%)\n\nPrzy Zabiciu, ta jednostka i 1 sojusznik z najniższą wartością Ilości [Charge] zyskuje Ilość [Charge] równą [Charge] (maks 3, priorytezuje sojuszników, którzy zyskują lub zużywają [Charge])",
+      "summary": "Zyskaj [Charge] za każde 10 zużytej Ilości [Charge]\nMając 2+ [Charge], zadaje więcej obrażeń\nPrzy Zabiciu, ta jednostka i 1 sojusznik zyskują Ilość [Charge]"
+    },
+    {
+      "id": 1021011,
+      "name": "Elektroniczna Likwidacja",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\nMając 2+ [Charge], zadawaj +([Charge] x 3)% więcej obrażeń (maks 15%)\n<style=\"highlight\">- Jeśli cel ma mniej niż 50% HP, zadawaj mu +([Charge] x 5)% dodatkowo zwiększonych obrażeń (maks 25%)</style>\n\nPrzy Zabiciu, ta jednostka i <style=\"highlight\">2 sojuszników</style> z najniższą wartością Ilości [Charge] zyskuje Ilość [Charge] równą <style=\"highlight\">([Charge] + 2)</style> (maks <style=\"highlight\">5</style>, priorytezuje sojuszników, którzy zyskują lub zużywają [Charge])",
+      "summary": "Zyskaj [Charge] za każde 10 zużytej Ilości [Charge]\nMając 2+ [Charge], zadaje więcej obrażeń\nPrzy Zabiciu, ta jednostka i 2 sojuszników zyskuje Ilość [Charge]"
+    },
+    {
+      "id": 1021021,
+      "name": "Rezerwowe Napięcie Likwidacyjne",
+      "desc": "Kiedy Sojusznik z najniższą wartością Ilości [Charge] pokona przeciwnika, zyskuje +2 Ilości [Charge] (raz na turę, priorytezuje sojuszników, którzy zyskują lub zużywają [Charge])"
+    },
+    {
+      "id": 1021031,
+      "name": "Rezerwowe Napięcie Likwidacyjne",
+      "desc": "Kiedy Sojusznik z najniższą wartością Ilości [Charge] pokona przeciwnika, zyskuje +3 Ilości [Charge] (raz na turę, priorytezuje sojuszników, którzy zyskują lub zużywają [Charge])"
+    },
+    {
+      "id": 1070901,
+      "name": "Model Ładujący L37",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\n\nKoniec Tury: Mając 2+ [Charge], zyskaj 1 [Agility] na początku następnej tury",
+      "summary": "Zyskaj [Charge] za każde 10 zużytej Ilości [Charge]"
+    },
+    {
+      "id": 1070911,
+      "name": "Model Ładujący L37",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\nKoniec Tury: Mając 2+ [Charge], zyskaj 1 [Agility] na początku następnej tury\n<style=\"highlight\">Koniec Tury: Mając 3+ [Charge], zyskaj 1 dodatkowe [Agility] i 1 [ParryingResultUp] na początku następnej tury</style>",
+      "summary": "Zyskaj [Charge] za każde 10 zużytej Ilości [Charge]"
+    },
+    {
+      "id": 1070921,
+      "name": "Wmontowanie Modułu Ładującego",
+      "desc": "#1 sojuszniki w zespole: +5 Maks Ilości [Charge]\n(Przy spełnieniu warunków, ten efekt pozostanie aktywny do pocątki następnej tury)"
+    },
+    {
+      "id": 1071002,
+      "name": "Dullahan",
+      "desc": "- Początek Tury: Jeśli ta jednostka posiada [NightPathfinding], dosiada go.\n- Ta jednostka traci 5 SP za każdym razem kiedy dosiada [NightPathfinding]\n- Jeśli 3+ sojuszników zostało pokonanych podczas tej Potyczki, zyskaj [NightPathfinding] na początku następnej tury. (raz na Potyczkę)\n- Jeśli ta jednostka zostanie Zachwiana przez obrażenia lub podniesiony Próg Zachwiania kiedy dosiada [NightPathfinding], wyjdź ze stanu Zachwiania. Jeśli z tego Zachwiania nie można naturalnie wyjść, ta jednostka nie dosiada [NightPathfinding].\n\n- Zyskaj 1 [Coffin] przy zabiciu celu."
+    },
+    {
+      "id": 1071001,
+      "name": "Wołanie Erlkinga",
+      "desc": "- +1% zadanych obrażeń za każde 1 [Sinking] na celu (maks 15%)",
+      "summary": "Zadawaj więcej obrażeń, im więcej [Sinking] ma cel"
+    },
+    {
+      "id": 1071011,
+      "name": "Wołanie Erlkinga",
+      "desc": "- +1% zadanych obrażeń za każde 1 [Sinking] na celu (maks 15%)\n\n<style=\"highlight\">- Kiedy, podczas walki, 1 sojusznik otrzyma obrażenia, które zabiły o go, zużyj 2 [Coffin] o przyznać mu [WildHunt] (raz na turę)\n\n- Przyznaj 2 [AttackDmgUp] na początku następnej tury sojusznikom mającym [WildHunt]\n- Jeśli wspomniany sojusznik jest z Wichrowych Wzgórz lub Rodziny Edgar, przyznaj też 1 [Enhancement] na początku następnej tury</style>",
+      "summary": "Zadawaj więcej obrażeń, im więcej [Sinking] ma cel"
+    },
+    {
+      "id": 1071021,
+      "name": "Bezkresna Lamentacja",
+      "desc": "1 sojusznik z najwyższym SP zadaje +5% więcej obrażeń celom mającym mniej niż 0 SP\nJeśli cel ma mniej niż 0 SP: zwiększ zadawane obrażenia jeszcze bardziej im dalej SP celu jest od 0 (+0.5% więcej obrażeń za każde SP, maks 20%)\nJeśli cel nie ma SP, wspomniany sojusznik nakłada +1 więcej Siły i Ilości [Sinking] efektami swoich Zdolności i Monet (2 razy na turę)",
+      "summary": "Zadawaj więcej obrażeń celom mającym mniej niż 0 SP"
+    },
+    {
+      "id": 1071012,
+      "name": "Wołanie Erlkinga",
+      "desc": "- +1% zadanych obrażeń za każde 1 [Sinking] na celu (maks 15%)\n\n- Kiedy, podczas walki, 1 sojusznik otrzyma obrażenia, które zabiły o go, zużyj 2 [Coffin] o przyznać mu [WildHunt] (<style=\"highlight\">2 razy</style> na turę)\n\n- Przyznaj 2 [AttackDmgUp] na początku następnej tury sojusznikom mającym [WildHunt]\n- Jeśli wspomniany sojusznik jest z Wichrowych Wzgórz lub Rodziny Edgar, przyznaj też 1 [Enhancement] na początku następnej tury",
+      "summary": "Zadawaj więcej obrażeń, im więcej [Sinking] ma cel"
+    },
+    {
+      "id": 1041001,
+      "name": "PajęczaGłowa/TwarzoCzaszka",
+      "desc": "Uderzając Przeciwnika Monetą która zyskuje [RedEyeFirst]:\n- Zadaj +([RedEyeFirst]/2)% więcej Obrażeń\n- Jeśli cel ma [Laceration], zyskaj 1 [RedEyeFirst] (3 razy na turę)\n\nUderzając Przeciwnika Monetą która zyskuje [PenanceFirst]:\n- Zadaj +([PenanceFirst]/2)% więcej Obrażeń\n- Przy 20+ SP, zyskaj 1 [PenanceFirst] (3 razy na turę)",
+      "summary": "Monety które zyskują Czerwone Oczy zadają dodatkowe Obrażenia; jeśli cel posiada [Laceration], zyskaj 1 Czerwone Oczy\nMonety które zyskują Niebiańską Skruchę zadają dodatkowe Obrażenia; Przy 20+ SP, zyskaj 1 Niebiańską Skruchę"
+    },
+    {
+      "id": 1041011,
+      "name": "PajęczaGłowa/TwarzoCzaszka",
+      "desc": "Uderzając Przeciwnika Monetą która zyskuje [RedEyeFirst]:\n- Zadaj +([RedEyeFirst]/2)% więcej Obrażeń\n<style=\"highlight\">- Jeśli ta jednostka jest szybsza od celu o 3 lub więcej, zadaj dodatkowe +([RedEyeFirst]/2)% Obrażeń</style>\n- Jeśli cel ma [Laceration], zyskaj 1 [RedEyeFirst] (3 razy na turę)\n\nUderzając Przeciwnika Monetą która zyskuje [PenanceFirst]:\n- Zadaj +([PenanceFirst]/2)% więcej Obrażeń\n<style=\"highlight\">- Jeśli SP celu jest niższe od SP tej jednostki, zadaj dodatkowe +([PenanceFirst]/2)% Obrażeń(dla celów bez SP: ich SP liczy się jako 0)</style>\n- Przy 20+ SP, zyskaj 1 [PenanceFirst] (3 razy na turę)\n\n<style=\"highlight\">Przy Oberwaniu od Przeciwnika, zyskaj 1 [PenanceFirst] (maks 3)</style>",
+      "summary": "Monety które zyskują Czerwone Oczy zadają dodatkowe Obrażenia; jeśli cel posiada [Laceration], zyskaj 1 Czerwone Oczy\nMonety które zyskują Niebiańską Skruchę zadają dodatkowe Obrażenia; Przy 20+ SP, zyskaj 1 Niebiańską Skruchę\nPrzy Oberwaniu od Przeciwnika, zyskaj 1 Niebiańską Skruchę (maks 3)"
+    },
+    {
+      "id": 1041002,
+      "name": "Asymilacja E.G.O",
+      "desc": "Przy zyskiwaniu Ilości [Charge], zyskaj [RedEyeFirst] lub [PenanceFirst] zamiast tego\n- [RedEyeFirst] i [PenanceFirst] nie działają z systemem Nasilenia [Charge]",
+      "summary": "Przy zyskiwaniu Ilości [Charge], zyskaj Czerwone Oczy lub Niebiańską Skruchę"
+    },
+    {
+      "id": 1041021,
+      "name": "Jak Tamagotchi",
+      "desc": "Na początku Fazy Ataku:\n- 1 sojusznik z najniższym procenten HP leczy 3 HP\n- 1 sojusznik z najniższym SP leczy 3 SP",
+      "summary": "Ulecz HP for 1 sojusznik z najniższym procenten HP, ulecz SP for 1 sojusznik z najniższym SP"
+    },
+    {
+      "id": 1011001,
+      "name": "Ścigany płaczem i wronim krakaniem.",
+      "desc": "Kiedy ta jednostka zyskuje [BulletLament], zyskuje też 2 [Agility] na początku następnej tury (raz na turę)",
+      "summary": "Kiedy ta jednostka zyskuje [Bullet], zyskaj [Agility] na początku następnej tury"
+    },
+    {
+      "id": 1011002,
+      "name": "Na barkach skrzynkę poniesiem śmiertelną.",
+      "desc": "Zaczynaj Potyczkę mając 10 obu [BulletLament]\n\nZużywając [BulletLament], wybierz losowo pomiędzy Tymi, co jeszcz żyją (Siła) i Tymi, co już odeszli (Ilość) za każdż wartość [BulletLament].\n\nNakładając [SinkingWhite], nałóż tą samą ilość of Tych, co jeszcz żyją i Tych, co już odeszli co ta, która została zużyta. Przykład poniżej:\n- Jeśli ta jednostka zużyła X Tych, co jeszcz żyją, nałóż X Tych, co jeszcz żyją\n- Jeśli ta jednostka zużyła Y Tych, co już odeszli, nałóż Y Tych, co już odeszli\n\nJeśli tej jednostce skończą się [BulletLament] w pół użycia Zdolności, anuluj wszystkie kolejne monety i [ReloadLament]\n\nKiedy ta jednostka [ReloadLament]e, lub zyska [BulletLament], zyskaj albo Tych, co jeszcz żyją lub Tych, co już odeszli zależnie od obecnego SP tej jednostki\n- Mając 0 lub więcej SP: 30% szansy zyskać Tych, co jeszcz żyją; 70% szansy zyskać Tych, co już odeszli.\n- Mając mniej niż 0 SP: 70% szansy zyskać Tych, co jeszcz żyją; 30% szansy zyskać Tych, co już odeszli.\n- Szanse są liczone osobno dla każdego zużyego Naboju.",
+      "summary": "Reloads jeśli tej jednostce skończą się [Bullet] w pół użycia Zdolności"
+    },
+    {
+      "id": 1011011,
+      "name": "Ścigany płaczem i wronim krakaniem.",
+      "desc": "Po Ataku: jeśli ta jednostka zabiła cel swoją Zdolnością, [ReloadLament]\nKiedy ta jednostka zyskuje [BulletLament], zyskuje 2 [Agility] na początku następnej tury (raz na turę)",
+      "summary": "Kiedy ta jednostka zyskuje [Bullet], zyskaj [Agility] na początku następnej tury. Przeładowuje przy Zabiciu."
+    },
+    {
+      "id": 1011021,
+      "name": "Jakże Tu Ziemi Oddać Malutkiego",
+      "desc": "Kiedy sojusznik trafi cel używając Zdolności, zamień 2 [Sinking] na celu w 1 [SinkingWhite] (3 razy na turę)",
+      "summary": "Zamienia [Sinking] celu w [SinkingWhite]"
+    },
+    {
+      "id": 1091001,
+      "name": "Prędka Dostawa",
+      "desc": "Na Początku Tury: Jeśli ta jednostka posiada 6+ Prędkości, lub jeśli ta jednostka posiada [Agility], zyskaj Tarczę równą ([DevyatDimensionalSack]/2)% swojego Maks HP (maks 15%)\n\nPo wycofaniu się, Przyznaj 1 [ParryingResultUp] dwóm Sojusznikom na początku następnej tury (w pierwszej kolejności wpływa na jednostki które wkroczyły do walki, później za kolejnością Wdrążenia)",
+      "summary": "Zyskaj Tarczę równą ([DevyatDimensionalSack]/2)% swojego Maks HP\nPo wycofaniu się, Przyznaj 1 [ParryingResultUp] dwóm losowym Sojusznikom"
+    },
+    {
+      "id": 1091011,
+      "name": "Prędka Dostawa",
+      "desc": "Na Początku Tury: Jeśli ta jednostka posiada 6+ Prędkości, lub jeśli ta jednostka posiada [Agility], zyskaj <style=\"highlight\">Tarczę równą ([DevyatDimensionalSack])% swojego Maks HP (maks <style=\"highlight\">20%</style>)\n\nPo wycofaniu się, Przyznaj 1 [ParryingResultUp] dwóm Sojusznikom na początku następnej tury (w pierwszej kolejności wpływa na jednostki które wkroczyły do walki, później za kolejnością Wdrążenia)\n<style=\"highlight\">- Lasts for 1 dodatkowe turn za każde 15 [DevyatDimensionalSack] na sobię (2 more turns maks)</style>",
+      "summary": "Zyskaj Tarczę równą ([DevyatDimensionalSack])% swojego Maks HP\nPo wycofaniu się, Przyznaj 1 [ParryingResultUp] dwóm losowym Sojusznikom"
+    },
+    {
+      "id": 1091002,
+      "name": "Jak mnie z tym wyślecie to na pewno zdąże na czas!",
+      "desc": "<Dla Walk Szeregowych> Jeśli ta jednostka [Retreat]' się, gdy wraca ona do walki, zmniejsza ona wartość [DevyatDimensionalSack] na sobie o połowę (raz na Potyczkę, zaokrąglone w góre)",
+      "summary": "Zmniejsz wartość [DevyatDimensionalSack] na sobie o połowę"
+    },
+    {
+      "id": 1091021,
+      "name": "Niesamowity Kurier",
+      "desc": "Sojusznik z najwyższą Prędkością zyskuje: +1 Mocy Starcia Umiejętnościami które nakłądają Nasilenie lub Ilość [Burst]",
+      "summary": "Umiejętności które nakłądają Nasilenie lub Ilość [Burst] zyskują +1 Mocy Starcia"
+    },
+    {
+      "id": 1081001,
+      "name": "Miecz Tłumiący Wstrząsy",
+      "desc": "Na początku Fazy Walki, zyskaj [DefenseUp] równy Ilości [Vibration] na sobie (maks 5)"
+    },
+    {
+      "id": 1081011,
+      "name": "Miecz Tłumiący Wstrząsy",
+      "desc": "Na początku Fazy Walki, zyskaj [DefenseUp] równy Ilości [Vibration] na sobie (maks 5)\n- Jeśli ta jednostka jest w [DefensiveStance], podwój liczbę [DefenseUp] uzyskanego przez powyższy efekt."
+    },
+    {
+      "id": 1081021,
+      "name": "Ochrona Awaryjna",
+      "desc": "Na początku Fazy Walki, 2 [DefenseUp] sojusznikowi z największą różnicą pomiędzy obecnym HP a jego HP na początku poprzedniej tury."
+    },
+    {
+      "id": 1101001,
+      "name": "Rozpoczęcie Misji Obronnej",
+      "desc": "Na początku Fazy Walki, zyskaj [DefenseUp] równe Ilości [Vibration] na sobię (maks 5)"
+    },
+    {
+      "id": 1101021,
+      "name": "Zlecona Obrona Celu",
+      "desc": "Koniec Tury: Przyznaj 1 [Agility] oraz 3 [DefenseUp] na Sojusznika z najniższym %HP na początku następnej tury"
+    },
+    {
+      "id": 1051101,
+      "name": "Streamowanie Pojedynku",
+      "desc": "Zyskaj 1 [Agility] na początku następnej tury za każde 3 Siły [Breath] na sobie na Końcu Tury (maks 2)\nPrzy Trafieniu bazową Zdolnością: nałóż [ConcentratedAttackMeursault] na początku następnej tury. (raz na Zdolność)",
+      "summary": "Koniec Tury: zyskaj [Agility] zależnie od [Breath] na sobie. Przy Trafieniu bazową Zdolnością, nałóż [ConcentratedAttackMeursault] na początku następnej tury"
+    },
+    {
+      "id": 1051111,
+      "name": "Streamowanie Pojedynku",
+      "desc": "Zyskaj 1 [Agility] na początku następnej tury za każde 3 Siły [Breath] na sobie na Końcu Tury (maks 2)\nPrzy Trafieniu bazową Zdolnością: nałóż [ConcentratedAttackMeursault] na początku następnej tury. (raz na Zdolność)\n<style=\"highlight\">Jeśli ta jednostka zaatakowała Żeton, który miał [ConcentratedAttackMeursault] i pokonała jego właściciela lub zniszczyła Część, ulecz 7 SP</style>",
+      "summary": "Koniec Tury: zyskaj [Agility] zależnie od [Breath] na sobie. Przy Trafieniu bazową Zdolnością, nałóż [ConcentratedAttackMeursault] na początku następnej tury. Heals SP przy Zabiciu celu"
+    },
+    {
+      "id": 1051121,
+      "name": "Jeden Krok Do Przodu",
+      "desc": "Najszybszy sojusznik, po Wygramnu Starcia, zyskuje 1 [Agility] na początku następnej tury (2 razy na turę)",
+      "summary": "Najszybszy sojusznik, po Wygramnu Starcia, zyskuje 1 [Agility] na początku następnej tury"
+    },
+    {
+      "id": 1061001,
+      "name": "Gotowi Czy Nie, Szukam!",
+      "desc": "Jeśli cel jest <Krwiopijcą> lub <Krwiofiarą>, zadaj mu +10% więcej obrażeń\nPrzy użyciu Zdolności, jeśli ta jednostka posiada [Laceration], nałóż 3 [Burst] Przy Trafieniu (raz na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1061011,
+      "name": "Gotowi Czy Nie, Szukam!",
+      "desc": "Jeśli cel jest <Krwiopijcą>, <Krwiofiarą>, lub ma 10+ [Burst], zadaj mu +10% więcej obrażeń\nPrzy użyciu Zdolności, jeśli ta jednostka posiada [Laceration], nałóż 3 [Burst] Przy Trafieniu (2 razy na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1061021,
+      "name": "Podręcznik Polowania na Krwiopijców - Skrzepianie",
+      "desc": "Początek Walki: 1 sojusznik z najwyższą sumą Siły i Ilości [Laceration] traci 2 Ilości [Laceration]\nKiedy 1 sojusznik z najwyższą Prędkością trafi przeciwnika z [Burst], nakłada 1 [DefenseDown] (2 razy na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1111101,
+      "name": "CO TO ZA SZMATY!!!",
+      "desc": "Przy Trafieniu, zadaj +1% więcej obrażeń za każde 10 [BloodDinner_Accumulation] przez tą jednostkę (maks 20%)",
+      "summary": "Deal więcej obrażeń zależnie od cumulative Krwawa Uczta zużyła"
+    },
+    {
+      "id": 1111111,
+      "name": "CO TO ZA SZMATY!!!",
+      "desc": "Ścierając się z [LineCuttingPersonality], +1 Mocy Starcia.\nPrzy Trafiniu, zadaj +1.5% więcej obrażeń za każde 10 [BloodDinner_Accumulation] przez tą jednostkę (maks 30%)\nPrzy Trafiniu, zadaj +0.5% więcej obrażeń za każde [Laceration] na celu (maks 10%)",
+      "summary": "Ścierając się z Celem Szycia, +1 Mocy Starcia"
+    },
+    {
+      "id": 1111102,
+      "name": "Krwawa Uczta",
+      "desc": "Jeśli ta jednostka jest, lub może pojawić się na Polu podczas tej Potyczki, podnieś wartość [BloodDinner] o łączną wartość otrzymanych przez wszyskie jednostki Obrażeń od [Laceration]. \nGdy ta jednostka pojawa się na polu, śpiąca tuż pod nogami krew wypływa na powierzchnię.",
+      "summary": ""
+    },
+    {
+      "id": 1111121,
+      "name": "Techniki Stwardniałej Krwi Don Kichote 8: Nożyce",
+      "desc": "1 sojusznik z najwyższą Prędkością: Jeśli Po Ataku przeciwnik zostanie pokonany, ulecz 10 HP (2 razy na turę) i nakładaj przez następną turę +1 Ilości [Laceration] nakładając Siłę [Laceration] efektami Zdolności lub Monet(3 razy na turę)",
+      "summary": "Jeśli przeciwnik zginie po ataku, ulecz HP"
+    },
+    {
+      "id": 1121001,
+      "name": "Samodestrukcyjne Oddanie",
+      "desc": "Koniec Tury: ulecz sojusznika z najniższym SP ((10 - [WornHeartGreg])/2) SP (nie licząc: siebie i sojuszników w stanie Paniki lub Korozji; zaokrąglone w dół)\nW tej Potyczce, kiedy ta jednostka otrzyma obrażenia, które sprowadziłyby jej HP do 0, zignoruj te obrażenia; przez resztę tury, HP tej jednostki nie może spaść poniżej 1. (raz na Potyczkę)",
+      "summary": ""
+    },
+    {
+      "id": 1121002,
+      "name": "Krwawa Uczta",
+      "desc": "Jeśli ta jednostka jest, lub może pojawić się na Polu podczas tej Potyczki, podnieś wartość [BloodDinner] o łączną wartość otrzymanych przez wszyskie jednostki Obrażeń od [Laceration]. \nGdy ta jednostka pojawa się na polu, śpiąca tuż pod nogami krew wypływa na powierzchnię.",
+      "summary": ""
+    },
+    {
+      "id": 1121011,
+      "name": "Samodestrukcyjne Oddanie",
+      "desc": "Koniec Tury: ulecz sojusznika z najniższym SP (10 - [WornHeartGreg]) SP (nie licząc: siebie i sojuszników w stanie Paniki lub Korozji)\nW tej Potyczce, kiedy ta jednostka otrzyma obrażenia, które sprowadziłyby jej HP do 0, zignoruj te obrażenia; przez resztę tury, HP tej jednostki nie może spaść poniżej 1. (raz na Potyczkę)",
+      "summary": ""
+    },
+    {
+      "id": 1121021,
+      "name": "Techniki Stwardniałej Krwi Don Kichote 6: Bicz",
+      "desc": "1 sojusznik z najniższym procenten HP leczy 3 HP Przy Trafieniu (3 razy na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1121031,
+      "name": "Techniki Stwardniałej Krwi Don Kichote 6: Bicz",
+      "desc": "1 sojusznik z najniższym procenten HP leczy 3 HP Przy Trafieniu (3 razy na turę)\n- Jeśli cel tego sojusznika miał [Laceration], ulecz 3 dodatkowe HP",
+      "summary": ""
+    },
+    {
+      "id": 1091101,
+      "name": "Kolec Strwadniałej, Krwawej Róży",
+      "desc": "Gdy Sojusznik otrzymuje obrażenia od [Laceration] lub kosztuje [BloodDinner], zyskaj 1 [BloomingThornsRodionFirst] (3 razy na turę)\nTa jednostka leczy 20% obrażeń zadanych swoimi bazowymi Umiejętnościami (maks 10 na Umiejętność)",
+      "summary": ""
+    },
+    {
+      "id": 1091102,
+      "name": "Krwawa Uczta",
+      "desc": "Jeśli ta jednostka jest, lub może pojawić się na Polu podczas tej Potyczki, podnieś wartość [BloodDinner] o łączną wartość otrzymanych przez wszyskie jednostki Obrażeń od [Laceration]. \nGdy ta jednostka pojawa się na polu, śpiąca tuż pod nogami krew wypływa na powierzchnię.",
+      "summary": ""
+    },
+    {
+      "id": 1091111,
+      "name": "Kolec Strwadniałej, Krwawej Róży",
+      "desc": "Gdy Sojusznik otrzymuje obrażenia od [Laceration] lub kosztuje [BloodDinner], zyskaj 1 [BloomingThornsRodionFirst] (5 razy na turę)\nTa jednostka leczy 20% obrażeń zadanych swoimi bazowymi Umiejętnościami (maks 10 na Umiejętność)\n- Jeśli HP tej jednostki jest równe maks, ten efekt leczy Sojusznika o najniższym %HP",
+      "summary": ""
+    },
+    {
+      "id": 1091121,
+      "name": "\"Rozkwitnij wraz z tą krwią......\"",
+      "desc": "Jeden Sojusznik z najwyższym Nasileniem [Laceration] na Koniec Tury: obniż Nasilenie [Laceration] na tym Sojuszniku o 6, oraz Przyznaj (wartość o którą Nasilenie [Laceration] zostało obniżone / 2) [BloomingThornsRodionFirst] (zaokrąglone w dół)",
+      "summary": ""
+    },
+    {
+      "id": 1101101,
+      "name": "Proszę dać mi chwilkę...",
+      "desc": "Na Początku Tury: Jeśli ta jednostka posiada 6+ Prędkości, lub jeśli posiada [Agility], Zyskuje Tarczę równą ([DevyatDimensionalSack])% swojego Maks HP (maks 20%)",
+      "summary": ""
+    },
+    {
+      "id": 1101102,
+      "name": "Następnym razem mi się uda...",
+      "desc": "<Dla Walk Szeregowych> Jeśli ta jednostka [Retreat]' się, gdy wraca ona do walki, zmniejsza ona wartość [DevyatDimensionalSack] na sobie o połowę (raz na Potyczkę, zaokrąglone w góre)",
+      "summary": ""
+    },
+    {
+      "id": 1101111,
+      "name": "Proszę dać mi chwilkę...",
+      "desc": "Na Początku Tury: Jeśli ta jednostka posiada 6+ Prędkości, lub jeśli posiada [Agility], Zyskuje Tarczę równą ([DevyatDimensionalSack])% swojego Maks HP (maks 20%)\nPo wycofaniu się, Przyznaj 1 [ParryingResultUp] dwóm Sojusznikom na początku następnej tury (prioritizes Substituted units first, then in Deployment order)\n- Lasts for 1 dodatkowe turn za każde 15 [DevyatDimensionalSackSinclair] (2 more turns maks)",
+      "summary": ""
+    },
+    {
+      "id": 1101121,
+      "name": "Prędki Kurier",
+      "desc": "Gdy Sojusznik z najwyższą Prędkością uderza Przeciwnika posiadającego [Burst], nakłada 1 [DefenseDown] (3 razy na Przeciwnika na turę)",
+      "summary": ""
+    },
+    {
+      "id": 1031001,
+      "name": "Krwawa Uczta",
+      "desc": "Jeśli ta jednostka jest, lub może pojawić się na Polu podczas tej Potyczki, podnieś wartość [BloodDinner] o łączną wartość otrzymanych przez wszyskie jednostki Obrażeń od [Laceration].\nGdy ta jednostka pojawa się na polu, śpiąca tuż pod nogami krew wypływa na powierzchnię.\n\nPrzy konsumpcji [BloodDinner], jeśli na Polu są krewni <La Manchaland[TabExplain]> tej samej generacji co ta jednostka, ta jednostka ma pierszeństwo w ucztowaniu.\n\nPodczas używania 'Techniki Stwardniałej Krwi: Wariant Sancho 6 - Bicz', HP tej jednostki nie może spaść poniżej 1 z powodu obrażeń od [Laceration]"
+    },
+    {
+      "id": 1031002,
+      "name": "Techniki Stwardniałej Krwi: Wariant Sancho",
+      "desc": "Początek Tury: Mając 15+ [BloodArmorPersonalityFirst], jeśli wymiemione dalej jednostki uczestniczą w Potyczce, lub zostały podczas niej pokonane, wzmocnij Zdolność w Żetonie po lewej stronie Tablicy.\nKsiądz La Manchaland [TabExplain] Gregor: Wzmocnij Zdolność 1\nFryzjer La Manchaland[TabExplain] Outis: Wzmocnij Zdolność 2\nTa Jednostka: Wzmocnij Zdolność 3\nKsiężniczka of La Manchaland[TabExplain] Rodion: Wzmocnij Zdolność Obronną[TabExplain]\n\nKiedy inni sojusznicy otrzymują obrażenia od [Laceration] lub kosztują [BloodDinner], zyskaj 2 [BloodArmorPersonalityFirst] na sobie (3 razy na turę)"
+    },
+    {
+      "id": 1031003,
+      "name": "Niosąca Brzemię Krwawych Więzów",
+      "desc": "Podczas Potyczki, jeśli inna sojusznicza jednostka <La Manchalandu[TabExplain]> zostanie pokonana:\n- Zyskuj 1 więcej [BloodArmorPersonalityFirst] przez efekty Bazowych Zdolności tej jednostki\n- Kiedy 3+ inne sojusznicze jednostki z <La Manchalandu[TabExplain]> zostaną pokonane: zyskaj 3 dodatkowe [BloodArmorPersonalityFirst]; na Początku Tury, zyskaj 1 [SadLamanchaland]"
+    },
+    {
+      "id": 1031004,
+      "name": "Armadura de Sangre",
+      "desc": "Po Ataku: jeśli przeciwnik zostanie pokonany, zwiększ [BloodDinner] o 10% maks HP celu (100 na turę; w Skupionych Potyczkach, jeśli zostanie zniszczona Część)\nZyskaj 1 [AttackDmgUp] na początku następnej tury za każde 15% brakującego HP na Końcu Tury (maks 3)\nJeśli sojusznik ma zostać pokonany przez obrażenia od [Laceration], podczas tej tury nie może zostać pokonana przez obrażenia od [Laceration] (raz na Potyczkę na każdego Sojusznika)"
+    },
+    {
+      "id": 1031021,
+      "name": "‘Zaspokójcie swój powstrzymywany głód, ma Rodzino’",
+      "desc": "Początek Walki: 1 sojusznik z najniższą Ilością HP zyskuje 1 [AttackDmgUp] za każde 20% brakującego HP (maks 3)\n- Jeśli wspomniany sojusznik jest <Krwiopijcą>, zyskaj 1 [AttackDmgUp] za każde 15% brakującego HP zamiast tego (maks 3)"
+    },
+    {
+      "id": 1061101,
+      "name": "Skupienie",
+      "desc": "Rzucając Monetą, któa zużywa [Bullet]: nawet jeśli tej jednostce skończyła się [Bullet], atak nie jest anulowany. Efekty Przy Trafieniu tych Monet nie są wtedy aktywowane."
+    },
+    {
+      "id": 1061102,
+      "name": "Taktyczne Wsparcie Ogniowe",
+      "desc": "Jeśli the Fixer Biura Full-Stop Heathcliff jest w stanie [Retreat_FullStop], lub lub siedzi na Rezerwie, wzmocnij Zdolność 2 i dolność 3 Przedstawiciela Biura Full-Stop Hong Lu"
+    },
+    {
+      "id": 1061111,
+      "name": "Taktyczne Wsparcie Ogniowe",
+      "desc": "Jeśli the Fixer Biura Full-Stop Heathcliff jest w stanie [Retreat_FullStop], lub lub siedzi na Rezerwie, wzmocnij Zdolność 2 i dolność 3 Przedstawiciela Biura Full-Stop Hong Lu\n\nPoczątek Walki: mając 20+ Siłę [Breath], zyskaj +1 Ilości [Breath]"
+    },
+    {
+      "id": 1061121,
+      "name": "Ogień Zaporowy",
+      "desc": "Sojusznik z nawyższą ilością [Bullet] zadaje +10% więcej obrażeń Umiejętnościami, które zużywają [Bullet]\n(Nie aktywuje się, kiedy [Bullet] się skończy)"
+    },
+    {
+      "id": 1071101,
+      "name": "Snajper",
+      "desc": "Początek Potczki: zyskaj 3 [PenetrateResultUp]\n\nKoniec Tury: Jeśli tej jednostce skończyła się wszelka [Bullet], aktywuj [Retreat_FullStop] (raz na Potyczkę)\n\nJeśli ta jednostka wkracza do walki, lub wraca po [Retreat_FullStop], zyskaj maks [LogicAtelierAM], 3 [PenetrateResultUp] i [FullReload] (nie licząc [Bullet_LogicAtelier]; raz na Potyczkę)"
+    },
+    {
+      "id": 1071102,
+      "name": "Precyzyjne Celowanie",
+      "desc": "Koniec Tury: zyskaj 1 [Agility] na początku następnej tury za każde 10 [Breath] na sobie (maks 2)\n\nKoniec Tury: jeśli ta jednostka nie zamierza użyć żadnych Zdolności Atakujących (w tym Zdolności E.G.O; nie licząc [CoveringFire]), zyskaj 10 [Breath] i 1 [PenetrateResultUp] na początku następnej tury."
+    },
+    {
+      "id": 1071103,
+      "name": "Snajper",
+      "desc": "Początek Potczki: zyskaj 3 [PenetrateResultUp]\n\n<style=\"highlight\">Kiedy ta jednostka dołącza do walki, zyskuje 1 [Bullet_LogicAtelier] (raz na Potyczkę)</style>\n\nKoniec Tury: Jeśli tej jednostce skończyła się wszelka [Bullet], aktywuj [Retreat_FullStop] (raz na Potyczkę)\n\nJeśli ta jednostka wkracza do walki, lub wraca po [Retreat_FullStop], zyskaj maks [LogicAtelierAM], 3 [PenetrateResultUp] i [FullReload]\n(nie licząc [Bullet_LogicAtelier]; raz na Potyczkę)"
+    },
+    {
+      "id": 1071111,
+      "name": "Precyzyjne Celowanie",
+      "desc": "Koniec Tury: zyskaj 1 [Agility] na początku następnej tury za każde 10 [Breath] na sobie (maks 2)\n\n<style=\"highlight\">Początek Walki: jeśli ta jednostka nie zamierza użyć żadnych Zdolności Atakujących (w tym Zdolności E.G.O), przyznaj 3 [Breath] 1 sojusznikowi z najniższą wartością Siły [Breath]</style>\n\nKoniec Tury: jeśli ta jednostka nie użyła żadnych Zdolności Atakujących (w tym Zdolności E.G.O, nie licząc [CoveringFire]), zyskaj 10 [Breath] i 1 [PenetrateResultUp] na początku następnej tury"
+    },
+    {
+      "id": 1071121,
+      "name": "Patrząc z Dala",
+      "desc": "1 sojusznik z najniższą Ilością [Bullet] zyskuje +2 Ilości [Breath] kiedy używa Zdolności, któa zużywa [Bullet].\n- Jeśli wspomniany sojusznik jest Fixerem Biura Full-Stop, lub jeśli ma mniej niż 5 Ilości [Breath], zyskuje +4 Ilości [Breath] zamiast tego (raz na turę; nie działa na jednostki, które nie używają [Bullet])"
+    },
+    {
+      "id": 1011101,
+      "name": "Odznacza się to w ich wyglądzie, przypominającym bardziej źródłową Anomalię niż robiły to E.G.O poprzedniego L Corpu ",
+      "desc": "Kiedy ta jednostka zginie, nakłada 4 [Burst] i +2 Ilości [Burst] na ostatniego przeciwnika, który ją zaatakował, po czym przyznaje 2 zasoby E.G.O dla 4 grzechów, których posiadasz najmniej\n- Jeśli nikt nie zaatakował tej jednostki, lub jeśli zabił ją sojusznik, nałóż 4 [Burst] i +2 Ilości [Burst] na przeciwnika z najniższym [Burst]"
+    },
+    {
+      "id": 1011111,
+      "name": "Odznacza się to w ich wyglądzie, przypominającym bardziej źródłową Anomalię niż robiły to E.G.O poprzedniego L Corpu ",
+      "desc": "Kiedy ta jednostka zginie, nakłada <style=\"highlight\">5</style> [Burst] i +<style=\"highlight\">3</style> Ilości [Burst] na ostatniego przeciwnika, który ją zaatakował, po czym przyznaje 2 zasoby E.G.O dla 4 grzechów, których posiadasz najmniej\n- Jeśli nikt nie zaatakował tej jednostki, lub jeśli zabił ją sojusznik, nałóż 5 [Burst] i +3 Ilości [Burst] na przeciwnika z najniższym [Burst]\n- Jeśli ta jednostka jest w jest w stanie [GlowingLantern], ten efekt nałoży dwa razy tyle Siły [Burst]"
+    },
+    {
+      "id": 1011121,
+      "name": "Dezintegracja E.G.O jest na swój sposób podobna do rozkładania się kompostu",
+      "desc": "Kiedy Sojusznik z najniższą Ilością HP zginie, przyznaje 2 zasoby E.G.O dla 2 grzechów, których posiadasz najmniej"
+    },
+    {
+      "id": 1021101,
+      "name": "Ognioodporność",
+      "desc": "Obrażenia od [Combustion] nie mogą zachwiać, tej jednostki ani zmniejszyć jej HP poniżej 1."
+    },
+    {
+      "id": 1021111,
+      "name": "Jak Ćmy do Ognia",
+      "desc": "Początek Walki: Mająć 80%+ brakującego HP i mniej niż 30 [Combustion], zyskaj do 30 [Combustion] (raz na Potyczkę)\n\nKoniec Tury: zyskaj 1 [AttackLevelAdder] na początku następnej tury za każde 6 [Combustion] na sobie (maks 5)\n\nKiedy ta jednostka zginie, aktywuj dane efekty:\n- Nałóż 2 [Combustion] na wszystkich przeciwników; nałóż [Combustion] na sobie rozłożone równo pomiędzy wszystkimi przeciwnikami (maks 3 na wroga)\n- Przyznaj 2 zasoby E.G.O dla 2 grzechów, których posiadasz najmniej\n\nJeśli ta jednostka zginęłą przez Zdolność Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】, wzmocnij te efekty:\n- Nałóż 3 [Combustion] na wszystkich przeciwników; nałóż [Combustion] na sobie rozłożone równo pomiędzy wszystkimi przeciwnikami (maks 5 na wroga)\n- Przyznaj 2 zasoby E.G.O dla 2 grzechów, których posiadasz najmniej\n- Jeśli ta jednostka miała 30+ [Combustion], przyznaj 3 [AttackLevelAdder] 1 sojusznikowi który wszedł na pole walki po tej jednostce"
+    },
+    {
+      "id": 1021121,
+      "name": "Resztki Ciepła",
+      "desc": "Kiedy Sojusznik z najniższym SP nakłada [Combustion] efektem Przy Trafieniu Bazowej Zdolności, nakłada 2 dodatkowe [Combustion] (3 razy maks)\n- Jeśli cel tego sojusznika ma 30+ [Combustion], zamiast tego nakłada +1 Ilości [Combustion] (3 razy maks)"
+    },
+    {
+      "id": 1071201,
+      "name": "Ostrze Ciemnej Chmury",
+      "desc": "Jeśli w walce uczesniczy 2+ sojuszniczych członków Klanu Kurokumo, w tym ta jednostka, zyskaj 1 [BlackCloudBlade] (maks 1)\n\n  Zadawaj +10% obrażeń jednostkom, które użyły w tej turze Zdolności Obronnej, lub miały pełne HP zanim zostały zaatakowane\n\nJeśli w tej turze przeciwnik zaatakował Zdolnością innego sojusznika i zadał mu obrażenia: zaatakuj tego przeciwnika Atakiem w Ślepy Punkt używając Zdolności 1 (raz na turę)",
+      "summary": "Zyskaj [BlackCloudBlade]; zadawaj więcej obrażeń przeciwnikom, którzy mają maks HP lub lub użyli Zdolności Obronnej; wyprować kontratak, kiedy sojusznik zostanie zraniony"
+    },
+    {
+      "id": 1071202,
+      "name": "Gotowy Do Walki",
+      "desc": "Kiedy Sojusznik z Klanu Kurokumo zostanie pokonany, zyskaj 1 [SlashResultUp] na resztę potyczki\n\nKiedy 3 lub więcej Sojuszników z Klanu Kurokumo zostanie pokonanych, zyskaj [EngageToBattle] na resztę potyczki"
+    },
+    {
+      "id": 1071211,
+      "name": "Ostrze Ciemnej Chmury",
+      "desc": "Jeśli w walce uczesniczy 2+ sojuszniczych członków Klanu Kurokumo, w tym ta jednostka, zyskaj 1 [BlackCloudBlade] (maks 1)\n\n  Zadawaj +10% obrażeń jednostkom, które użyły w tej turze Zdolności Obronnej, lub miały pełne HP zanim zostały zaatakowane\n\nJeśli w tej turze przeciwnik zaatakował Zdolnością innego sojusznika i zadał mu obrażenia: zaatakuj tego przeciwnika Atakiem w Ślepy Punkt używając Zdolności 1 (raz na turę)\n\n<style=\"highlight\">Jeśli przeciwnik zabił sojusznika, lub jeśli HP wspomnianego sojusznika wynosi mniej niż 25% Maksymalnego po ataku przeciwnika, zamiast tego zaatakuj tego przeciwnika Atakiem w Ślepy Punkt używając <Praw Tylnych Uliczek> (raz na sojusznika; 2 razy na turę; the Zdolność aktywowana przez ten efekt liczy się jako Zdolność  Ofensywna)</style>",
+      "summary": "Zyskaj [BlackCloudBlade]; zadawaj więcej obrażeń przeciwnikom, którzy mają maks HP lub lub użyli Zdolności Obronnej; wyprować kontratak, kiedy sojusznik zostanie zraniony"
+    },
+    {
+      "id": 1071221,
+      "name": "Przebicie",
+      "desc": "1 sojusznik z najwyższą Prędkością zadaje +10% obrażeń jednostkom, które użyły w tej turze Zdolności Obronnej, lub miały pełne HP"
+    },
+    {
+      "id": 1081101,
+      "name": "Zbierające Się Ciemne Chmury",
+      "desc": "Początek Walki: Jeśli w walce uczesniczy 2+ sojuszniczych członków Klanu Kurokumo, w tym ta jednostka, zyskaj 1 [BlackCloudBlade]\n\nPoczątek Walki: Przyznaj 1 [BlackCloud] członkom Klanu Kurokumo znajdującym się na Tablicy obok tej jednostki",
+      "summary": "Zyskaj [BlackCloudBlade]; Przyznaj [BlackCloud] członkom Klanu Kurokumo"
+    },
+    {
+      "id": 1081102,
+      "name": "Gotowa Do Walki",
+      "desc": "Kiedy Sojusznik z Klanu Kurokumo zostanie pokonany, zyskaj 1 [SlashResultUp] na resztę potyczki\n\nKiedy 3 lub więcej Sojuszników z Klanu Kurokumo zostanie pokonanych, zyskaj [EngageToBattle] na resztę potyczki"
+    },
+    {
+      "id": 1081111,
+      "name": "Zbierające Się Ciemne Chmury",
+      "desc": "Początek Walki: Jeśli w walce uczesniczy 2+ sojuszniczych członków Klanu Kurokumo, w tym ta jednostka, zyskaj 1 [BlackCloudBlade]\n\nPoczątek Walki: Przyznaj 1 [BlackCloud] członkom Klanu Kurokumo znajdującym się na Tablicy obok tej jednostki\n<style=\"highlight\">- Przy 4+ Rezonansie Rządzy, przyznaj 1 [BlackCloud] wszystkim innym Sojusznikom z Klanu Kurokumo</style>",
+      "summary": "Zyskaj [BlackCloudBlade]; Przyznaj [BlackCloud] członkom Klanu Kurokumo"
+    },
+    {
+      "id": 1081121,
+      "name": "Ostrze Warsztatu Chmur",
+      "desc": "1 sojusznik z najwyższą Prędkością nakłada +1 więcej Siły lub Ilości [Laceration] Efektami Zdolności i Monet"
+    },
+    {
+      "id": 1011201,
+      "name": "Wewnętrzny Płomień",
+      "desc": "Koniec Tury: ulecz 1 sojusznika z najniższym SP o (5 + najwyższy Rezon.) (maks 10) (nie licząc: siebie i sojuszników w stanie Paniki lub Korozji)\n- Jeśli wspomniany sojusznik posiada Bazowe Zdolności, które nakładają Ilość lub Siłę [Combustion], ulecz 5 dodatkowe SP"
+    },
+    {
+      "id": 1011211,
+      "name": "Wewnętrzny Płomień",
+      "desc": "Koniec Tury: ulecz 1 sojusznika z najniższym SP o (5 + najwyższy Rezon.) (maks 10) (nie licząc: siebie i sojuszników w stanie Paniki lub Korozji)\n- Jeśli wspomniany sojusznik posiada Bazowe Zdolności, które nakładają Ilość lub Siłę [Combustion], ulecz 5 dodatkowe SP\n- Przy 4+ Rezonansie Gniewu, ulecz 1 dodatkowego sojusznika"
+    },
+    {
+      "id": 1011221,
+      "name": "Formacja Obronna Liu",
+      "desc": "2 sojuszników z najniższym SP: jeśli w tej turze stracili SP, ulecz 5 SP na Końcu Tury"
+    },
+    {
+      "id": 1011231,
+      "name": "Formacja Obronna Liu",
+      "desc": "2 sojuszników z najniższym SP: jeśli w tej turze stracili SP, ulecz 5 SP na Końcu Tury\n- Jeśli ci sojusznicy posiadają Bazowe Zdolności, które nakładają Ilość lub Siłę [Combustion], zamiast tego ulecz 5~10 SP"
+    },
+    {
+      "id": 1121102,
+      "name": "Specjalne Paliwo z Warsztatu Dystryktu 12",
+      "desc": "Rozpoczynaj Potyczkę mając 100 [FirePunchFuel]\n- Mając powyżej 50 Wartości, jest ono [FirePunchFuel]\n- Mając 50 lub mniej Wartości, całe [FirePunchFuel] zamienia się w [FirePunchFuelOverheated]"
+    },
+    {
+      "id": 1121101,
+      "name": "Przeżyłem tylko ja...",
+      "desc": "Ta jednostka zadaje +0.2% więcej obrażeń za każde [FirePunchFuel] i [FirePunchFuelOverheated] zużyte przez nią podczas tej Potyczki (maks 40%)\n- Jeśli główny cel jest <Krwiopijcą>, <Krwiofiarą>, lub jeśli suma jego [Combustion] i Ilości [Combustion] wynosi 30+, zamiast tego zadaje +0.3% więcej obrażeń (maks 60%)\n\nMając 1+ [FirePunchFuel] lub [FirePunchFuelOverheated], jeśli ta jednostka Zachwieje lub pokona przeciwników, którzy mają [Combustion], nakłada +2 Ilości [Combustion] na 2 losowych przeciwników, którzy nie mają [Combustion] lub mają najmniej Siły [Combustion] (raz na turę)\n- W Skupionych Potyczkach, Części"
+    },
+    {
+      "id": 1121121,
+      "name": "Mam nadzieję, że są z naszego Biura...",
+      "desc": "1 sojusznik z najwyższą Prędkością: Przy Trafieniu zadaje +5% więcej Obrażeń od Gniewu za każde 6 [Combustion] na celu (maks 20%)"
+    },
+    {
+      "id": 1031101,
+      "name": "Płomienny Pirojadeit",
+      "desc": "Koniec Tury: zyskaj 1 [Agility] na początku następnej tury za każde 5 Siły [Breath] na sobie (maks 2)\n\nNałóż na początku następnej tury [DianxueDonQuixote] na cel (lub Część) w którą trafiła ostatnia Zdolność  Ofensywna (raz na turę)\n\nTrafienia Krytyczne tej jednostki zadają +(Siła [Combustion] na celu)% więcej obrażeń (maks 15%)"
+    },
+    {
+      "id": 1031111,
+      "name": "Płomienny Pirojadeit",
+      "desc": "Koniec Tury: zyskaj 1 [Agility] na początku następnej tury za każde <style=\"highlight\">3</style> Siły [Breath] na sobie (maks 2)\n\nNałóż na początku następnej tury [DianxueDonQuixote] na cel (lub Część) w którą trafiła ostatnia Zdolność  Ofensywna (raz na turę)\n\nTrafienia Krytyczne tej jednostki zadają +(Siła [Combustion] na celu)% więcej obrażeń (maks 15%)\n<style=\"highlight\">- Zwiększ ten limit o 5% za każde 1 [DianxueDonQuixote] na celu</style>"
+    },
+    {
+      "id": 1031121,
+      "name": "Technika Piórkowego Ciosu",
+      "desc": "Gdy 1 sojusznik z najwyższą Prędkością Wygra Starcie z przeciwnikiem mającym [Combustion] lub 'Specjalne [Combustion]', zyskuje 1 [Agility] na początku następnej tury (raz na turę)"
+    },
+    {
+      "id": 1031131,
+      "name": "Technika Piórkowego Ciosu",
+      "desc": "Gdy 1 sojusznik z najwyższą Prędkością Wygra Starcie z przeciwnikiem mającym [Combustion] lub 'Specjalne [Combustion]', zyskuje 1 [Agility] na początku następnej tury (raz na turę)\n<style=\"highlight\">- Jeśli cel ma 20+ Siły [Combustion], zyskaj 1 dodatkowe [Agility]</style>"
+    },
+    {
+      "id": 1041101,
+      "name": "Mutacja Heishou [Mao]",
+      "desc": "Jeśli ta jednostka posiada [LegStrength], zadaje +5% Obrażeń"
+    },
+    {
+      "id": 1041111,
+      "name": "Mutacja Heishou [Mao]",
+      "desc": "Jeśli ta jednostka posiada [LegStrength], zadaje +5% Obrażeń\nJeśli cel posiada [BurstAgility], zadaj +5% Obrażeń"
+    },
+    {
+      "id": 1041121,
+      "name": "Trening Niepełnej Mutacji Heishou",
+      "desc": "Koniec Tury: Sojusznik z najwyższą Prędkością zyskuje 2 [Agility] na początku następnej tury"
+    },
+    {
+      "id": 1111201,
+      "name": "Mutacja Heishou [Mao]",
+      "desc": "Jeśli ta jednostka posiada [LegStrength] oraz cel posiada [BurstAgility], zadaj +5% Obrażeń za każde [LegStrength] (maks 15%)"
+    },
+    {
+      "id": 1111221,
+      "name": "Stado Zajęcy",
+      "desc": "1 sojusznik z najwyższą Prędkością: atakując cel który ma [Burst] zadaje +10% więcej obrażeń\nZyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+    },
+    {
+      "id": 1101201,
+      "name": "The Middle Never Forgets",
+      "desc": "Przy Oberwaniu od Przeciwnika, nałóż 3 [VendettaMark] przeciwko the attacker(lub Part) (raz na turę)\n\nKiedy an other sojusznik is hit o an enemy, nałóż 2 [VendettaMark] przeciwko the attacker(lub Part) (raz na turę na jednostkę)\n\nAfter Attacking Bazowymi Zdolnościami Ofensywnymi lub Counter Skills, zużyj all [VendettaMark] na celu\n- Every time the target consumes [VendettaMark], zyskaj [VengeanceBookSinclair] równą the amount zużyła"
+    },
+    {
+      "id": 1101211,
+      "name": "The Middle Never Forgets",
+      "desc": "Przy Oberwaniu od Przeciwnika, nałóż <style=\"highlight\">5</style> [VendettaMark] przeciwko the attacker(lub Part) (raz na turę)\n\nKiedy an other sojusznik is hit o an enemy, nałóż 2 [VendettaMark] przeciwko the attacker(lub Part) (raz na turę na jednostkę)\n<style=\"highlight\">- Jeśli wspomniany sojusznik jest z the Middle, nałóż 3 dodatkowe [VendettaMark]</style>\n\nAfter Attacking Bazowymi Zdolnościami Ofensywnymi lub Counter Skills, zużyj all [VendettaMark] na celu\n- Every time the target consumes [VendettaMark], zyskaj [VengeanceBookSinclair] równą the amount zużyła"
+    },
+    {
+      "id": 1101221,
+      "name": "We've Got Your Back",
+      "desc": "Początek Walki: 1 sojusznik z najniższą Ilością current procenten HP zyskuje 2 [DefenseUp]"
+    },
+    {
+      "id": 1101231,
+      "name": "We've Got Your Back",
+      "desc": "Początek Walki: 1 sojusznik z najniższą Ilością current procenten HP zyskuje 2 [DefenseUp]\n<style=\"highlight\">- Jeśli wspomniany sojusznik jest z the Middle, zyskaj też 2 [AttackLevelAdder]</style>"
+    },
+    {
+      "id": 1061201,
+      "name": "Poroże Skupiająco-Ładujące Fale Mozgowe",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\n\nMając 2+ [Charge]:\n- Nałóż +1 więcej [Sinking] Bazowymi Zdolnościami Ofensywnymi (nie działa, przy nakładaniu samej Ilości [Sinking] lub przy nakładaniu [Sinking] na siebie)\n- Bazowe Zdolności Ofensywne zadają +([Charge] x 3)% obrażeń (maks 15%)"
+    },
+    {
+      "id": 1061211,
+      "name": "Poroże Skupiająco-Ładujące Fale Mozgowe",
+      "desc": "Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\n\nMając 2+ [Charge]:\n<style=\"highlight\">- Nakładaj +1 więcej [Sinking] Bazowymi Zdolnościami Ofensywnymi za każde 2 [Charge] (maks 2, nie działa, przy nakładaniu samej Ilości [Sinking] Count lub przy nakładaniu [Sinking] na siebie)</style>\n- Bazowe Zdolności Ofensywne zadają +([Charge] x <style=\"highlight\">5</style>)% obrażeń (maks <style=\"highlight\">25%</style>)"
+    },
+    {
+      "id": 1061221,
+      "name": "Wsparcie Naładowanej Dewastacji",
+      "desc": "Kiedy 1 sojusznik z najwyższą Ilością [Charge] używa Bazowej Zdolności Ofensywnej która zyskuje Ilość [Charge], ostatnia Moneta tej Zdolności zada +10% obrażeń"
+    },
+    {
+      "id": 1061231,
+      "name": "Wsparcie Naładowanej Dewastacji",
+      "desc": "Kiedy 1 sojusznik z najwyższą Ilością [Charge] używa Bazowej Zdolności Ofensywnej która zyskuje Ilość [Charge], ostatnia Moneta tej Zdolności zada <style=\"highlight\">+15%</style> obrażeń"
+    },
+    {
+      "id": 1121201,
+      "name": "Mutacja Heishou [Si]",
+      "desc": "Jeśli cel ma [BurstPoison], zadaj mu +5% obrażeń za każdą [SnakeStance] na sobie (maks 15%)\nJeśli ta jednostka zamniejszyła Wartość [BurstPoison] do 0, zyskuje 1 [PenetrateDamageUp] na początku następnej tury (maks 2)"
+    },
+    {
+      "id": 1121221,
+      "name": "Niczym Wąż: Śliski, Giętki i Nieprzewidywalny",
+      "desc": "Jeśli ta jednostka została zabita podczas tej Potyczki: na Początku Walki w każdej turze przyznaj 2 [Breath] jednostce, która wkroczyła do walki zamiast tej jednostki"
+    },
+    {
+      "id": 1091201,
+      "name": "Mutacja Heishou [Si]",
+      "desc": "Jeśli ta jednostka posiada [SnakeStance], zadaje +5% obrażeń\nJeśli cel posiada [BurstPoison], zadaj +5% obrażeń"
+    },
+    {
+      "id": 1091221,
+      "name": "Trucizna Dożylna",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością zadaje przeciwnikowi obrażeia [Burst], nałóż 1 [AttackDown] i 1 [DefenseDown] na początku następnej tury (raz na turę)"
+    },
+    {
+      "id": 1021201,
+      "name": "Mutacja Heishou [Mao] / Wyróżniona Oddziału Mao",
+      "desc": "Jeśli Prędkość tej jednostki jest wyższa niż ta celu, zadawaj +2% więcej obrażeń za każde 1 różnicy Prędkości (maks 10%)\n\nTa jednostka zyskuje 1 [EnhanceZilu] za każdym razem, kiedy sojusznik aktywuje efekt Obrzędu Śmierci (5 razy na turę)\n- Jeśli ta jednostka aktywowała efekt Obrzędu Śmierci, zyskuje 1 dodatkowe [EnhanceZilu]\nKiedy ta jednostka użyje [SupportProtect], zyskuje 5 [EnhanceZilu]",
+      "summary": "Zadawaj więcej obrażeń zależnie od różnicy Prędkości\nAktywując efekt Obrzędu Śmierci lub [SupportProtect], zyskaj [EnhanceZilu]"
+    },
+    {
+      "id": 1021221,
+      "name": "Błyskawiczne Ostrze",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością zadaje obrażeia [Burst], zyskuje 1 [AttackLevelAdder] na początku następnej tury (3 razy na turę)"
+    },
+    {
+      "id": 1021203,
+      "name": "Gwiazda Tianjiu",
+      "desc": "Kiedy Wartość [BurstZilu] spadnie do 0 i się wyczerpie, cel zyskuje [BurstVulnerableZilu]"
+    },
+    {
+      "id": 1081201,
+      "name": "Determinacja w Oddechu i Przełamaniu [破吸自桓]",
+      "desc": "Kiedy ta jednostka pokona cel Bazową Zdolnością Ofensywną, zyskuje [Breath] równe [Burst] na celu (3 na 1 przeciwnika; raz na turę)\n- Jeśli ta jednostka zyskała 3 [Breath] przez powyższy efekt, zyskaj Ilość [Breath] równą Ilości [Burst] na celu (2 na 1 przeciwnika; raz na turę)\n\nPodczas Starcia, jeśli Poziom Ataku tej jednostki jest wyższy niż celu, +1 Mocy Starcia\n\nPodczas Starcia, jeśli Poziom Ataku tej jednostki jest wyższy niż celu, Bazowe Zdolności Ofensywne tej jednostki nakładają +1 więcej Siły i Ilości [Burst] (2 razy na turę)",
+      "summary": "Podczas Starcia, jeśli Poziom Ataku tej jednostki jest wyższy niż celu, +1 Mocy Starcia\nInflict +1 więcej [Burst] Potency i Ilości [Burst] mającym Bazowe Zdolności Ofensywne tej jednostki"
+    },
+    {
+      "id": 1081202,
+      "name": "Manewr Wejściowy [始動]",
+      "desc": "Kiedy ta jednostka się Wycofa: Przyznaj sojusznikom 1 [AttackLevelAdder] na początku następnej tury według ich kolejności w Zespole\n- Działa na liczbie sojuszników równej Wartości [StartXichun] na sobie\n- Jeśli ten efekt wzmocnił jednostkę z \"Rodziny Jia\", zamiast tego przyznaj 2 [AttackLevelAdder] na początku następnej tury\n- Nie działa na sojuszników którzy albo Wrócili do walki, lub zastąpili tą jednostkę\n\nW turze, w której ta jednostka Zastąpiła inną, lub Wróciła do walki, zyskuje [WaitingXichun], po czym na Początku Walki, jako pierwszą użytą w walce Zdolność, używa 'Szkarłatne Uderzenie - Rozpoczęcie [始]' na losowym celu.",
+      "summary": "In the turn ta jednostka entered the battle via Substitution lub Return: at Początek Walki, as the very first Zdolność in the Zdolność order, użyj 'Crimson Strike - Launcher (始)' na losowym celu"
+    },
+    {
+      "id": 1081221,
+      "name": "Resztki Determinacji [餘桓]",
+      "desc": "Jeśli ta jednostka zostanie pokonana podczas Potyczki, przyznaj zastępującej ją jednostce (następnej Rezerwowej jednostce) [CheerUpXichun] na początku następnej tury\n\nW walkach Szeregowych, jeśli ta jednostka jest w Rezerwie, lub Wycofała się, aktywuj dane efekty:\n- Początek Walki: Spośród jednostek, które 1) mają mniej niż 50% HP i 2) użyli Zdolności Obronnej, wybierz tą, która jest najwcześniej w Wyborze Zespołu. Na Końcu Tury, ta jednostka wychodzi ze stanu Zachwiania i from Stagger caused o obrażeń i [RetreatForCommon] (2 razy na Potyczkę)",
+      "summary": "Koniec Tury: Retreat the Tożsamość która, at Początek Walki, posiada 50% lub mniej HP i posiada lub użyli Zdolności Obronnej w tej turze"
+    },
+    {
+      "id": 1101301,
+      "name": "Ammunition Tribute",
+      "desc": "Kiedy the 1 sojusznik Identity mającym the fastest Deployment order among those using [Bullet] finishes their attack, jeśli their current [Bullet] count is fewer than half (zaokrąglone w góre), zużyj [FireBulletPropellant] na sobie równą the total [Bullet] count the affected unit spent i supply them mającym the same amount of [Bullet] as [FireBulletPropellant] ta jednostka just spent. (can zużyj do 3 ammunition) (raz na Potyczkę)\n\n- Jeśli the [Bullet] receiving Identity jest Thumb Identity of a higher rank, supply 1 dodatkowe [Bullet] they użyj\n- Jeśli the [Bullet] receiving Identity posiada separate values for Potency i Count, they will be supplied at random.\n- Jeśli albo Potency lub Count is maxed out, supply whichever is not maxed.",
+      "summary": ""
+    },
+    {
+      "id": 1101311,
+      "name": "Ammunition Tribute",
+      "desc": "Kiedy the 1 sojusznik Identity mającym the fastest Deployment order among those using [Bullet] finishes their attack, jeśli their current [Bullet] count is fewer than half (zaokrąglone w góre), zużyj [FireBulletPropellant] na sobie równą the total [Bullet] count the affected unit spent i supply them mającym the same amount of [Bullet] as [FireBulletPropellant] ta jednostka just spent. <style=\"highlight\">(can zużyj do 5 ammunition)</style> (raz na Potyczkę)\n\n- Jeśli the [Bullet] receiving Identity jest Thumb Identity of a higher rank, supply 1 dodatkowe [Bullet] they użyj\n- Jeśli the [Bullet] receiving Identity posiada separate values for Potency i Count, they will be supplied at random.\n- Jeśli albo Potency lub Count is maxed out, supply whichever is not maxed.",
+      "summary": ""
+    },
+    {
+      "id": 1101312,
+      "name": "Bayonets",
+      "desc": "Zawsze Aktywny Efekt: Zaczynaj Potyczkę z 15 [FireBulletPropellant]\n\nJeśli ta jednostka spent [FireBulletPropellant] mającym Skills lub Passives, zyskaj [AttackDmgUp] równą the amount spent na początku następnej tury (maks 3)\n\nKiedy flipping a Coin która zużywa [FireBulletPropellant]: while not having [FireBulletPropellant] does not cancel tej jednostki attacks, jednak efekty Przy Trafieniu Monet \"nałóż [Combustion]\" i \"nałóż Ilości [Combustion]\" nie aktywują się",
+      "summary": ""
+    },
+    {
+      "id": 1101321,
+      "name": "Reloader",
+      "desc": "Kiedy the 1 sojusznik Identity mającym the fastest Deployment order among those using [Bullet] finishes their attack, jeśli their current [Bullet] count is fewer than half (zaokrąglone w góre), rezyskaj half of the maximum [Bullet] capacity (zaokrąglone w góre; raz na Potyczkę; maks [Bullet] rezyskajed: 5)\n\n- Jeśli the [Bullet] receiving Identity posiada separate values for Potency i Count, they will zyskaj them at random\n- Jeśli albo Potency lub Count of [Bullet] is maxed out, zyskaj whichever is not maxed\n- This effect does not aktywuj jeśli there are no Identities that użyj [Bullet]",
+      "summary": ""
+    },
+    {
+      "id": 1051202,
+      "name": "Chachihu [揷翅虎]",
+      "desc": "Zawsze Aktywny Efekt: Zaczynaj Potyczkę z 12 [BulletPropellantAlly]\n\nRzucając Monetą, która zużywa [BulletPropellantAlly] lub [BulletPropellantSpecialAlly]: jeśli tej jednostce skończyła się ta 'Specjalna [Bullet]', ataki nie są anulowane, jednak efekty Przy Trafieniu Monet \"nałóż [Combustion]\" i \"nałóż Ilość [Combustion]\" nie aktywują się\n\nJeśli ta jednostka po raz pierwszy w tej Potczce użyła Zdolności Obronnej, jeśli zużyła wszystkie swoje [BulletPropellantAlly], lub jeśli jest Zachwiana na Końcu Tury, przeładowuje 8 [BulletPropellantSpecialAlly] i zyskuje 1 [IrritationAlly] (raz na Potyczkę)\n- Jeśli ten efekt aktuwuje się przez Zachhwianie, wyjdź ze stanu Zachwiania (chyba, że to wymuszone Zachwianie)\n- Jeśli tej jednostce zostały [BulletPropellantAlly] zostają one wyrzucone\n- Przy 8+ (suma zużytych [BulletPropellantAlly] i [BulletPropellantSpecialAlly]), zamień [IrritationAlly] w [HugeIrritationAlly]\n\nKiedy ta jednostka użyje Bazowej Zdolności Ofensywnej która zużyje ostatni [BulletPropellantSpecialAlly]...\n- Zyskaj +2 Wagi Ataku przed zaatakowaniem\n- Zyskaj 1 [BeastEyesAlly] na początku następnej tury",
+      "summary": ""
+    },
+    {
+      "id": 1051201,
+      "name": "Ostrze Gwiazdy Tiantui [天退星刀]",
+      "desc": "Kiedy ta jednostka posiada [BulletPropellantAlly]:\n- Mając 1+ [BulletPropellantAlly], zamień wszystkie Monety 'Przecięcia Węzła' w [SuperCoin]\n- Monety, które zużywają [BulletPropellantAlly] zyskują +1 Mocy (efekt jest aktywny tylko tak długo, jak Monety posiadają Naboje)\n\nKiedy ta jednostka posiada [BulletPropellantSpecialAlly]:\n- Mając 1+ [BulletPropellantSpecialAlly], zamień wszystkie Monety Bazowych Zdolności Ofensywnych tej jednostki to [SuperCoin]\n- Mając 0 [BulletPropellantSpecialAlly], zamień wszystkie Monety Bazowych Zdolności Ofensywnych tej jednostki które zużywają 'Specjalne [Bullet]' w [SuperCoin]\n- Monety, które zużywają [BulletPropellantSpecialAlly] zyskują +2 Mocy (efekt jest aktywny tylko tak długo, jak Monety posiadają Naboje)",
+      "summary": ""
+    },
+    {
+      "id": 1051211,
+      "name": "Ostrze Gwiazdy Tiantui [天退星刀]",
+      "desc": "Kiedy ta jednostka posiada [BulletPropellantAlly]:\n- Mając 1+ [BulletPropellantAlly], zamień wszystkie Monety 'Przecięcia Węzła' w [SuperCoin]\n- Monety, które zużywają [BulletPropellantAlly] zyskują +1 Mocy <style=\"highlight\">i zadają +10% obrażeń</style> (efekt jest aktywny tylko tak długo, jak Monety posiadają Naboje)\n\nKiedy ta jednostka posiada [BulletPropellantSpecialAlly]:\n- Mając 1+ [BulletPropellantSpecialAlly], zamień wszystkie Monety Bazowych Zdolności Ofensywnych tej jednostki to [SuperCoin]\n- Mając 0 [BulletPropellantSpecialAlly], zamień wszystkie Monety Bazowych Zdolności Ofensywnych tej jednostki które zużywają 'Specjalne [Bullet]' w [SuperCoin]\n- Monety, które zużywają [BulletPropellantSpecialAlly] zyskują +2 Mocy, <style=\"highlight\">zadają +30% obrażeń i nakładają +2 więcej Siły i Ilości [Combustion] Przy Trafieniu</style> (efekt jest aktywny tylko tak długo, jak Monety posiadają Naboje)",
+      "summary": ""
+    },
+    {
+      "id": 1051221,
+      "name": "Skok Dzikiego Tygrysa",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością używa Zdolności która zużywa [Bullet], jeśli jego Prędkości jest wyższa niż ta celu o 3 lub więcej, zadaje +(różnica Prędkości × 2)% więcej obrażeń (maks 10%).\n(Ten efekt nie działa na jednostki, które w ogóle nie używają [Bullet]. Wciąż będzie jednak działać na te, które używają [Bullet] nawet jeści całą wystrzelą)",
+      "summary": ""
+    },
+    {
+      "id": 1051231,
+      "name": "Skok Dzikiego Tygrysa",
+      "desc": "Kiedy 1 sojusznik z najwyższą Prędkością używa Zdolności która zużywa [Bullet], jeśli jego Prędkości jest wyższa niż ta celu o 3 lub więcej, zadaje +(różnica Prędkości × <style=\"highlight\">3</style>)% więcej obrażeń (maks <style=\"highlight\">15%</style>).\n(Ten efekt nie działa na jednostki, które w ogóle nie używają [Bullet]. Wciąż będzie jednak działać na te, które używają [Bullet] nawet jeści całą wystrzelą)",
+      "summary": ""
+    },
+    {
+      "id": 1011301,
+      "name": "Przeklęty Pocisk",
+      "desc": "Jeśli ta jednostka zabiła atakiem sojusznika, zyskaj [FellBulletPersonality] na początku następnej tury (liczą się do tego 'Korozje E.G.O' i inne ataki skieowane w sojuszników)\nJeśli ta jednostka użyje swojego E.G.O 'Przeklęty Pocisk' i zużyje [BoseProjektil]: na początku następnej tury, zyskaj [BoseProjektil] równe tym, które zostały zużyte w poprzedniej turze."
+    },
+    {
+      "id": 1011302,
+      "name": "Ulatniające Się Wspomnienia",
+      "desc": "Koniec Tury: strać wszystkie [BoseProjektil] na sobie. Na początku następnej tury zyskaj [BoseProjektil] równą straconej ilości."
+    },
+    {
+      "id": 1011321,
+      "name": "Wyznaczony Cel",
+      "desc": "Kiedy sojusznik z najniższą Prędkością zaatakuje sojusznika: Po Ataku, zyska 1 [AttackDmgUp] na początku następnej tury (2 razy na turę)\n- Jeśli zaatakowany sojusznik zostanie zabity przez ten atak, zamiast tego zyska 1 [AttackDmgUp] na całą Potyczkę (maks 2 na Potyczkę na jednostkę)\n- Powyższy efekt może przyznaż do 2 [AttackDmgUp]."
+    },
+    {
+      "id": 1031202,
+      "name": "W Imieniu Miłości Oraz Nienawiści - !UWAGA: PRZEKROCZONO LIMIT SYNCHRONIZACJI E.G.O!",
+      "desc": "Zyskaj 1 [ThePowerOfLoveAndHate] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [ThePowerOfLoveAndHate] podczas tej Potyczki\n\nPoczątek Potyczki: jeśli ta jednostka nie ma [HystericGauge], zyskuje ją\n\nPoczątek Potyczki: jeśli ta jednostka nie ma [ThePowerOfLoveAndHate], zyskuje ją\n\nPoczątek Tury:\n- Jeśli ta jednostka ma 0 lub więcej SP, zyskuje [MagicalGirlAppear] i traci [NoVillain]\n- Jeśli ma mniej niż 0 SP, zyskuje [NoVillain] i traci [MagicalGirlAppear]\n\nSP tej jednostki nie spada poniżej -40 przez efekty straty SP jej Bazowych Zdolności Ofensywnych",
+      "summary": ""
+    },
+    {
+      "id": 1031201,
+      "name": "Magiczne Dziewczę Miłości / Królowa Nienawiści",
+      "desc": "+2% zadawanych obrażeń za każde [ThePowerOfLoveAndHate] (maks 10%)",
+      "summary": ""
+    },
+    {
+      "id": 1031211,
+      "name": "Magiczne Dziewczę Miłości / Królowa Nienawiści",
+      "desc": "+2% zadawanych obrażeń za każde [ThePowerOfLoveAndHate] (maks 10%)\nPoczątek Walki: zyskaj 1 [ArcanaQueenOfHate]",
+      "summary": ""
+    },
+    {
+      "id": 1031221,
+      "name": "Ładowanie Magicznej Mocy",
+      "desc": "Jeśli, wśród sojuszników, którzy zyskują Ilość [Charge] swoimi Bazowymi Zdolościami Ofensywnymi, 1 sojusznik najmniejszą Ilocią [Charge] używa Bazowej Zdolości Ofensywnej którą zyskuje Ilość [Charge], zyskuje dodatkowe +2 Ilości [Charge] (2 razy na turę)\n- Jeśli ma 0 lub więcej SP: ulecz ([Charge] na celu x 2) HP (maks 10; leczy do 20 na turę)\n- Mając mniej niż 0 SP: ulecz ([Charge] na celu) SP (maks 5; leczy do 10 na turę)",
+      "summary": "Zyskaj Ilość [Charge]\n- Depending on tej jednostki SP, Ulecz HP lub SP zależnie od [Charge]"
+    },
+    {
+      "id": 1091302,
+      "name": "The Sword Sharpened mającym Tears - !UWAGA: PRZEKROCZONO LIMIT SYNCHRONIZACJI E.G.O!",
+      "desc": "Początek Tury: at 0 lub higher SP, zyskaj [BlessingAlly]\n- Uses Plus Coin Skills as Base Skills\n\nPoczątek Tury: at mniej niż 0 SP, zyskaj [DespairAlly]\n- Uses Minus Coin Skills as Base Skills\n\nKiedy gaining Ilość [Charge], zyskaj [BlackTearsAlly] zamiast tego\n- [BlackTearsAlly] is unaffected o Siła [Charge]",
+      "summary": "Depending on tej jednostki SP, zyskaj albo [BlessingAlly] lub [DespairAlly]"
+    },
+    {
+      "id": 1091303,
+      "name": "Whispers of the Betrayed Knight",
+      "desc": "This unit's SP does not drop poniżej -40 from dane efekty effects:\n- SP loss effects on tej jednostki Base Skills\n- SP loss effects from allied units' Support Passives\n- SP loss effects from [SwordCutwithTear]\n- SP loss effects from sojusznik death in tej jednostki 'Base factors decreasing Sanity'\n\nIn an Encounter, kiedy ta jednostka takes obrażeń that brings its SP to -45, maintain tej jednostki SP at -44 for that turn (raz na Potyczkę)\n(※ This applies only to SP damages; it does not apply to SP changes lub SP consuming abilities like using Zdolnościami E.G.O)",
+      "summary": "Certain effects cannot reduce tej jednostki SP poniżej -40 \nSP does not drop poniżej -44 (raz na Potyczkę, does not work kiedy ta jednostka consumes its own SP)"
+    },
+    {
+      "id": 1091304,
+      "name": "Break, Tear i Pierce",
+      "desc": "Jeśli ta jednostka posiada [PenetratingSword]: before hitting an enemy mającym a Bazowa Zdolność Ofensywna, zużyj 1 [PenetratingSword] to nałóż 1 [Sinking]\n- Jeśli ta jednostka posiada 2+ [PenetratingSword] before w tej turze's final Bazowa Zdolność Ofensywna's final Coin hits, zużyj all of it zamiast tego to nałóż it as [Sinking]\n\nJeśli ta jednostka posiada 3 [SwordCutwithTear]: before hitting an enemy mającym the final Coin of a Bazowa Zdolność Ofensywna, zużyj all [SwordCutwithTear] to nałóż 3 [Sinking] i +3 [Sinking] Count i deal +50% obrażeń mającym that Coin\n- Jeśli this effect activated, reset to 0 SP Jeśli ta jednostka posiada mniej niż 0 SP na Końcu Tury. (kiedy in Panic lub 'E.G.O Corrosion', recover) po czym ulecz 30 SP",
+      "summary": "Consume [PenetratingSword] to nałóż [Sinking]\n- Mając 3 [PenetratingSword], deal więcej obrażeń; at mniej niż 0 SP, ulecz SP na początku następnej tury"
+    },
+    {
+      "id": 1091301,
+      "name": "Magical Girl of Justice / Knight of Despair",
+      "desc": "Kiedy in [BlessingAlly] state...\n- Take -(SP / 2)% HP obrażeń from attacks (maks 20%)\n\nKiedy in [DespairAlly] state...\n- Deal +(-SP/2)% obrażeń mającym Base Skills (maks 20%)",
+      "summary": "Kiedy in [BlessingAlly] state, take less obrażeń\nKiedy in [DespairAlly] state, deal więcej obrażeń"
+    },
+    {
+      "id": 1091311,
+      "name": "Magical Girl of Justice / Knight of Despair",
+      "desc": "Kiedy in [BlessingAlly] state...\n- Take -(SP / 2)% HP obrażeń from attacks (maks 20%)\n<style=\"highlight\">- Początek Walki: at 3+ [ProtectiveSword], zyskaj 1 [Protection]\n- Początek Walki: at 5 [ProtectiveSword], zyskaj 2 [Protection] i 1 [ParryingResultUp] zamiast tego</style>\n\nKiedy in [DespairAlly] state...\n- Deal +(-SP/2)% obrażeń mającym Base Skills (maks 20%)\n<style=\"highlight\">- Początek Walki: at 3+ [PenetratingSword] zyskaj 1 [AttackDmgUp]\n- Początek Walki: at 5 [PenetratingSword], zyskaj 2 [AttackDmgUp] i 1 [ResultEnhancement] zamiast tego</style>",
+      "summary": "Kiedy in [BlessingAlly] state, take less obrażeń; zyskaj [Protection] i [ParryingResultUp] zależnie od tej jednostki [ProtectiveSword] Wartości\nKiedy in [DespairAlly] state, deal więcej obrażeń; zyskaj [AttackDmgUp] i [ResultEnhancement] zależnie od tej jednostki [PenetratingSword] Wartości"
+    },
+    {
+      "id": 1091321,
+      "name": "For All Those Who Despair...",
+      "desc": "Początek Walki: applies sojusznikom mającym the earliest Deployment order\n\nAt -15 lub mniej SP, +1 Final Mocy to Minus Coin Skills",
+      "summary": ""
+    },
+    {
+      "id": 1091331,
+      "name": "For All Those Who Despair...",
+      "desc": "Początek Walki: applies sojusznikom mającym the earliest Deployment order\n\nAt -15 lub mniej SP, +1 Final Mocy to Minus Coin Skills\n<style=\"highlight\">Mając -30 lub mniej SP, +15% obrażeń i +1 Final Mocy to Minus Coin Skills zamiast tego</style>",
+      "summary": ""
+    },
+    {
+      "id": 1111301,
+      "name": "Złoty Czas - Microcavity",
+      "desc": "Koniec Tury: Jeśli tej jednostki HP is between 10% ~ 20%, natychmiast ulecz 80% maks HP tej jednostki i wyjdź ze stanu Zachwiania. (raz na Potyczkę)\n\nJeśli ta jednostka posiada [TimeRentalTwoPersonality], its Skills zyskaj Final Mocy +1",
+      "summary": "In [TimeRentalTwoPersonality] state, Skills zyskaj Final Mocy +1"
+    },
+    {
+      "id": 1111321,
+      "name": "Expeditious Execution of Official Duties",
+      "desc": "1 sojusznik z najwyższą Prędkością deals +10% obrażeń atakując cel a Staggered target."
+    },
+    {
+      "id": 1061302,
+      "name": "Władca Wszystkich Heishou",
+      "desc": "Kiedy inni sojusznicy Wkraczają lub Wracają do Walki, zyskują 10 SP, po czym na Początku Walki rozkaż jej użyć swojej 1 Zdolności jako Bezpośredi Atak wyprowadzony na losowy cel\n- Jeśli wspomniany sojusznik jest należy do Stada Heishou lub Rodziny Jia, aktywuj dane efekty zamiast tego: ulecz 20 SP, po czym na Początku Walki rozkaż jej użyć swojej bazowej 3 Zdolności jako Bezpośredi Atak wyprowadzony na losowy cel (2 razy na Potyczkę na jednostkę)\n\nPoczątek Potyczki: zyskaj 1 [HeishouSynergy] za każdą jednostkę ze Stada Heishou w Zespole, licząc Jednostki Rezerwowe\n\nKiedy jednostki ze Stada Heishou zostają zabite w Potyczce, ulecz 20 SP i zyskaj 1 [HeishouDeathCount] (aktywuje się nawet jeśli ta jednostk się wycofała)\n\nZadawaj +5% obrażeń za każde 1 [HeishouComboCountHonglu] (maks 55%)",
+      "summary": "Zadawaj więcej obrażeń zależnie od [HeishouComboCountHonglu]"
+    },
+    {
+      "id": 1061301,
+      "name": "Przyjmij Tą Zbeszczeszczoną Krew i Przelej Cudzą Posokę By Osiągnąć Cel.",
+      "desc": "Początek Walki: jeśli ta jednostka nie użyła Zdolności Obronnej i ma przyjąć na siebie Atak w Ślepy Punkt od przeciwnika, przyznaj 1 [HeishouSupportProtect] (najwyższy Rezon. / 3) losowym sojusznikom ze Stada Heishou mającym najmniej Wartości [SupportProtect]. (maks 2 sojuszników; raz na Jednostkę; nie działa na jednostki, które mają zdolności, które przyznają [SupportProtect])\n\nW tej Potyczce, kiedy ta jednostka otrzyma obrażenia, które sprowadziłyby jej HP do 0, zignoruj te obrażenia; przez resztę tury, HP tej jednostki nie może spaść poniżej 1 i zyskuje 1 [CondensedBlood] (raz na Potyczkę)\n\nZdolności tej jednostki zadają +3% obrażeń za każde [CondensedBlood] na sobie\n\nAktywując Zdolność E.G.O 'Łzy[TabExplain] Zbezczeszczonej Krwi[TabExplain] - Zakończenie', zaprzecz efektowi Smierci Po Ataku; zamiast tego, ulecz 60% HP. Od początku następnej tury, zyskaj 1 [AttackDmgUp] na Początku Każdej Tury (raz na Potyczkę)",
+      "summary": "Otrzymując obrażenia, które sprowadziłyby jej HP do 0, zignoruj te obrażenia i zyskaj [CondensedBlood]\nAktywując 'Łzy[TabExplain] Zbezczeszczonej Krwi[TabExplain]', zaprzecz śmierci, ulecz HP i zyskaj [AttackDmgUp]"
+    },
+    {
+      "id": 1061321,
+      "name": "Proszę, pozostaniecie w swych czynach nieuchwytni.",
+      "desc": "Jednostka z najmniejszym HP zadae +(liczba rodzi Obrzędów mierci na celu x 3)% obrażeń (maks 15%)",
+      "summary": ""
+    },
+    {
+      "id": 1101402,
+      "name": "Ptactwo Łowne",
+      "desc": "Aktywując [HeishouCombo], Władca Hongyuan Hong Lu zyskuje dane efekty w ramach [HeishouComboCountHonglu] effect:\n- Kiedy using Zdolności to nałóż [Burst] Potency lub Count, nałóż 1 [Combustion] (3 razy na turę)\n\nCannot be Staggered lub fall poniżej 1 HP przez [Combustion] obrażeń.\n\nZyskaj 3 [ChickenStance] in the same turn it Substitutes lub Returns in."
+    },
+    {
+      "id": 1101401,
+      "name": "Let's Get Battle-drunk",
+      "desc": "Przy Trafieniu against targets mającym 7+ [Burst], (najwyższy Rezon. x 15)% chance to nałóż 1 [Combustion] (4 razy na turę)\n\nCombat End: Jeśli ta jednostka posiada [Combustion], zyskaj 1 [ChickenStance], 1 [CrimsonDamageUp] i 1 [ShamrockDamageUp] at the next Początek Tury\n\nPoczątek Walki: zyskaj 1 [AttackLevelAdder] i [DefenseUp] za każde 20% brakującego HP na sobie (maks 3)"
+    },
+    {
+      "id": 1101421,
+      "name": "Bloodflame Blade [血炎刀]",
+      "desc": "Kiedy an sojusznik z najwyższą Prędkością inflicts [Combustion] lub [Burst] Potency mającym their Skills, nałóż 1 [Combustion] i [Burst] Potency (raz na turę)"
+    },
+    {
+      "id": 1011401,
+      "name": "Obsydianowy Jeździec Nawałnicy [黑風馬脚]",
+      "desc": "Zyskaj 1 [BreakthroughHorse] kiedy kiedy spełnisz jeden z danych warunków:\n- Początek Ataku: kiedy Prędkość tej jednostki jest wyższa niż ta celu o 2 lub więcej\n- Kiedy ta jednostka dwa razy aktywuje [VibrationExplosion] swoimi Zdolnościami (w tym Zdolności E.G.O)\n- Kiedy ta jednostka wygra Starcie mając [LegStrengthHorseYisang]\n※ W jednej turze można zyskać tylko 3 [BreakthroughHorse]; używając Zdolności \"Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy\" nie można zyskać [BreakthroughHorse]"
+    },
+    {
+      "id": 1011411,
+      "name": "Obsydianowy Jeździec Nawałnicy [黑風馬脚]",
+      "desc": "Zyskaj 1 [BreakthroughHorse] kiedy kiedy spełnisz jeden z danych warunków:\n- Początek Ataku: kiedy Prędkość tej jednostki jest wyższa niż ta celu o 2 lub więcej\n- Kiedy ta jednostka dwa razy aktywuje [VibrationExplosion] swoimi Zdolnościami (w tym Zdolności E.G.O)\n- Kiedy ta jednostka wygra Starcie mając [LegStrengthHorseYisang]\n※ W jednej turze można zyskać tylko 3 [BreakthroughHorse]; używając Zdolności \"Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy\" nie można zyskać [BreakthroughHorse]\n\n<style=\"highlight\">Kiedy ta jednostka posiada Tarczę, zyskaj (HP Tarczy / 10) [DefenseUp] (maks 5; zaokrąglone w dół)</style>"
+    },
+    {
+      "id": 1011402,
+      "name": "Lojalność Wierzchowca Podobna Do Psiej [狗馬之心]",
+      "desc": "Kiedy ta jedostka wypełni [HeishouCombo], Władca Honguyanu Hong Lu zyskuje dane efekty w ramach [HeishouComboCountHonglu]:\n- Przy Trafieniu Ostatnią Monetą Bazowej Zdolności, aktywuj [VibrationExplosion] (raz na turę)\n\nJeśli Kandydatka Na Hierarchę Hongyuan Ishmael aktywnie uczestniczy w walce, aktywuj dane efekty:\n- Kiedy Kandydatka Na Hierarchę Hongyuan Ishmael nakłada Siłę lub Ilość [Burst] efektmi swoich Zdolności, ta jednostka zyskuje 3 Siły [Breath] (2 razy na turę; nie licząc Zdolnościami E.G.O)\n- Początek Tury: przyznaj Kandydatce Na Hierarchę Hongyuan Ishmael 1 [Enhancement]. Jeśli Ishmael posiada 10+ Siły [Breath], przyznaj o 1 więcej [Enhancement]\n- Po tym, jak ta jednostka użyje Zdolności \"Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy\", Kandydatka Na Hierarchę Hongyuan Ishmael używa \"Szkarłatna Wiosna\" jako Asysta w Ataku[TabExplain] (raz na turę)"
+    },
+    {
+      "id": 1011403,
+      "name": "Wyniesiony Kawalerzysta",
+      "desc": "Przyznając [BattlefieldHorse], zyskaj 3 [AttackLevelAdder] w tej i następnej turze\n(Jeśli ta jednostka już zyskała [AttackLevelAdder] od tej Zdolności Pasywnej, zyskaj ją tylko w następnej turze)"
+    },
+    {
+      "id": 1011421,
+      "name": "Ten obsydianowy egzoszkielet przeszyje i ochroni me ciało",
+      "desc": "Nałóż dane efekty na 1 sojusznika z najwyższym maks HP\n- Początek Walki: zyskaj (różnica Prędkości tej jednostki pomiędzy tą a poprzednią turą x 2) [DefenseUp] (maks 5; jeśli ta jednoska nie uczestniczyła w walce w poprzedniej turze, do obliczania używana jest jej minimalna Prędkość)\n- Początek Walki: jeśli ta jednoska ma mniej niż 50% HP i jeśli różnica Prędkości pomiędzy tą a poprzednią turą wynosi 3 lub więcej, ulecz 50 HP (raz na Potyczkę)"
+    },
+    {
+      "id": 1041201,
+      "name": "Moja @#$, której ręki nie mogłam utrzymać",
+      "desc": "Przy uderzeniu Przeciwnika, nałóż 1 [GazeRyoshu] (raz na turę na Przeciwnika)\n- Jeśli ta jednostka posiada [GazePersonality], nałóż +1 dodatkowego [GazeRyoshu]\n\nPrzy Oberwaniu od Przeciwnika, nałóż 1 [GazeRyoshu] na agresora (raz na Umiejętność; 3 razy na turę)\n- Jeśli ta jednostka posiada [ContemptPersonality]: bo zostaniu uderzonym przez ostatnią Monetę agresora, nałóż (10% obrażeń zadanych przez wcześniej wsponianą Monetę) Obrażeń od Lenistwa (maks 10 na Umiejętność; maks 30 na turę)\n\nJeśli ta jednostka użyła swoich Bazowych Umiejętności aby zużyć [GazeRyoshu] lub [ContemptRyoshu] na Przeciwniku:\nNa początku następnej tury, zyskaj ((zużyty [GazeRyoshu] na Przeciwniku/2) + (zużyta [ContemptRyoshu] na Przeciwniku x 3)) [GazePersonality] (6 na turę; zaokrąglone w dół)"
+    },
+    {
+      "id": 1041211,
+      "name": "Moja @#$, której ręki nie mogłam utrzymać",
+      "desc": "Przy uderzeniu Przeciwnika, nałóż <style=\"highlight\">2</style> [GazeRyoshu] (raz na turę na Przeciwnika)\n- Jeśli ta jednostka posiada [GazePersonality], nałóż +1 dodatkowego [GazeRyoshu]\n\nPrzy Oberwaniu od Przeciwnika, nałóż 1 [GazeRyoshu] na agresora (raz na Umiejętność; 3 razy na turę)\n- Jeśli ta jednostka posiada [ContemptPersonality]: bo zostaniu uderzonym przez ostatnią Monetę agresora, nałóż (<style=\"highlight\">20</style>% obrażeń zadanych przez wcześniej wsponianą Monetę) Obrażeń od Lenistwa (maks <style=\"highlight\">20</style> na Umiejętność; maks <style=\"highlight\">60</style> na turę)\n\nJeśli ta jednostka użyła swoich Bazowych Umiejętności aby zużyć [GazeRyoshu] lub [ContemptRyoshu] na Przeciwniku:\nNa początku następnej tury, zyskaj ((zużyty [GazeRyoshu] na Przeciwniku/2) + (zużyta [ContemptRyoshu] na Przeciwniku x 3)) [GazePersonality] (6 na turę; zaokrąglone w dół)"
+    },
+    {
+      "id": 1041202,
+      "name": "Dłoń, która nie zezwala na upadek",
+      "desc": "Przy zostaniu Zachwianym, zyskaj 4 [Protection] oraz zyskaj [ContemptPersonality] na początku następnej tury (raz na Potyczkę)\n\nPrzy śmierci tej jednostki, nałóż następujące efekty przeciwko trzem Przeciwnikom posiadającym najwięcej [GazeRyoshu] lub [ContemptRyoshu] (w kolejności malejącej; W Skupionych Potyczkach, Częścom)\n- Nałóż 2 [Binding] na początku następnej tury\n- Nałóż 2 [Laceration] oraz +1 Ilości [Laceration]\n- Nałóż 2 [Vibration] oraz +1 Ilości [Vibration]"
+    },
+    {
+      "id": 1041203,
+      "name": "Pokażmy wszystkim coś bardzo ciekawego",
+      "desc": "Na początku Fazy Walki: Umiejętność N Korp. E.G.O::<noparse>Przeklęty Pocisk</noparse> Yi Sang 'Swój i Wróg, Cel i Pal' zyskuje powyższe efekty:\n- Przed użyciem Umiejętności, jeśli N Korp. E.G.O::<noparse>Odraza</noparse>, Trwoga Ryōshū posiada [ContemptPersonality] oraz może użyć swoich Bazowych Umiejętności, użyj 'Swój i Wróg / We Mnie Wal' mierząc w Ryōshū (raz na turę; Poziom Powiązania Yi Sanga wpływa na efekty Umiejętności 'Swój i Wróg / We Mnie Wal')\n- Przed użyciem Umiejętności, jeśli jej głównym celem nie jest N Korp. E.G.O::<noparse>Odraza</noparse>, Trwoga Ryōshū, oraz jeśli może ona użyć swoich Bazowych Umiejętności, Ryōshū używa swojej Pierwszej Umiejętności mierząc w ślepy punkt głównego celu (raz na turę; [CantIdentify]; Pierwsza Umiejętność zadaje -50% Obrażeń; ta Umiejętność nie może zabić swojego głównego celu)"
+    },
+    {
+      "id": 1041221,
+      "name": "To, co płynie i płacze",
+      "desc": "Kiedy pierwszy w Kolejności Wdrożenia Sojusznik uderzy Przeciwnika swoim atakiem, nałóż 1 [Laceration] (raz na Przeciwnika na turę)\n- jeśli cel posiada [Laceration], nałóż również +1 Ilości [Laceration]\n\nKiedy pierwszy w Kolejności Wdrożenia Sojusznik oberwie od Przeciwnika, nałóż 1 [Vibration] na agresora (3 razy na turę)\n- jeśli agresor posiada [Vibration], nałóż również +1 Ilości [Vibration]",
+      "summary": "Przy Uderzeniu, nałóż [Laceration]; nałóż również Ilość jeśli Przeciwnik ma już na sobie ten efekt\nPrzy byciu uderzonym, nałóż [Vibration]; nałóż również Ilość jeśli Przeciwnik ma już na sobie ten efekt"
+    },
+    {
+      "id": 1021301,
+      "name": "Shi-no-Yumi",
+      "desc": "Mając 4 Wartości [ArrowShiFau]: kiedy ta jednostka zyskuje Siłę [Breath] przez efekty Bazowych Zdolności Ofensywnych, zyskuje dodatkowo +1 Ilości [Breath] (2 razy na Potyczkę; ten limit resetuje się kiedy [ArrowShiFau] spadnie do 3)\nJeśli ta jednostka użyła Zdolności \"Błysk Łuku\" mając 2+ [AimForTheGoal], zyskaj 1 [SlashDamageUp] na początku następnej tury"
+    },
+    {
+      "id": 1021311,
+      "name": "Shi-no-Yumi",
+      "desc": "Mając 4 Wartości [ArrowShiFau]: kiedy ta jednostka zyskuje Siłę [Breath] przez efekty Bazowych Zdolności Ofensywnych, zyskuje dodatkowo +1 Ilości [Breath] (<style=\"highlight\">3</style> razy na Potyczkę; ten limit resetuje się kiedy [ArrowShiFau] spadnie do 3)\nJeśli ta jednostka użyła Zdolności \"Błysk Łuku\" mając 2+ [AimForTheGoal], zyskaj <style=\"highlight\">2</style> [SlashDamageUp] na początku następnej tury"
+    },
+    {
+      "id": 1021302,
+      "name": "Snajper - Łucznictwo",
+      "desc": "Jeśli ta jednostka jest w stanie [SnipingArrowMode], zamień Bazową Zdolność Ofensywną na Żetonie po lewej stronie Tablicy w \"Błysk Łuku\", po czym użyj jej na Początku Walki\n- Jeśli, mając maks Wartość [AimForTheGoal], Zdolność 3 tej jednostki nie jest ani na Tablicy, ani w liście nadchodzących Zdolności, Zdolność Obronna na Żetonie po lewej stronie Tablicy liczy się jako Zdolności 3 i zostanie użyta by aktywować \"Błysk Łuku\"\n\nZyskaj dane efekty zależnie od tego, która Bazowa Zdolność Ofensywna została zamieniona (Grzech Zdolności zostaje przeniesiony od tej zamienionej)\n- Zdolność 1: +1 Mocy Bazowej, +11% zadanych obrażeń\n- Zdolność 2: +1 Mocy Bazowej, +1 Mocy Monet, +22% zadanych obrażeń\n- Zdolność 3: +4 Mocy Bazowej, +4 Mocy Monet, +44% zadanych obrażeń\n\n※ Jeśli Zdolność E.G.O zostałs założona na Początku Walki, remousuńve [SnipingArrowMode] i ta jednostka nie użuje \"Błysku Łuku\""
+    },
+    {
+      "id": 1021321,
+      "name": "Strzał W Dziesiątkę",
+      "desc": "Koniec Tury: przyznaj 1 [PenetrateDamageUp] na początku następnej tury sojusznikowi który nałożył na przeciwników najwięcej Siły [Laceration] efektami Zdolności, w tym Pasywnych i od Zdolności E.G.O; jeśli kilka Jednostek dzielą ze sobą rekord nałożonego [Laceration] w danej turze, wybiera tą, która była wcześniej w wyborze Układu Zespołu. Nie aktywuje się, jeśli nikt nie nałożył Siły [Laceration] w danej turze)"
+    },
+    {
+      "id": 1071301,
+      "name": "Ładowanie Obronne",
+      "desc": "- Zyskaj 1 [Charge] za każdym razem kiedy ta jednostka zużyje 10 łącznej Ilości [Charge] podczas tej Potyczki\n- Początek Tury: Zyskaj [DefenseUp] równą Sile [Charge] na sobie (maks 6)"
+    },
+    {
+      "id": 1071311,
+      "name": "Pancerz Kruszący Przeszkody",
+      "desc": "- Początek Walki: Jeśli ta jednostka posiada mniej niż 50% HP, zyskaj Tarczę równą (Siła [Charge] x 5) (maks 25)\n- Jeśli ta jednostka ma zostać trafiona, przed tym zyskuje Tarczę równą (Siła [Charge] na sobie) (maks 5, 3 razy na turę)\n- Jeśli ta jednostka zyskuje Ilość [Charge] ponad maks Ilość [Charge] przez efekty Zdolności, ta Zdolność zadaje +3% obrażeń za każde Ilość [Charge] przekraczającś maks Ilość [Charge] (maks 15%)"
+    },
+    {
+      "id": 1071321,
+      "name": "Pewnego dnia, ubiorę tą zbroję do Odwołanych Pociągów",
+      "desc": "- Początek Walki: Jeśli jednostka będąca najwcześniej w wyborze kolejności Zespołu zyskuje Ilość [Charge] ponad maks Ilość [Charge] przez efekty Zdolności, zyskuje ona 1 [ChargeForceField] na początku następnej tury za każdą Ilość [Charge] ponad limit (maks 3, w tym Zdolności E.G.O)"
+    },
+    {
+      "id": 1051301,
+      "name": "'We Krwi i w Maskach, Tak Jak Nakazują Więzy Krwi'",
+      "desc": "Początek Walki: Jeśli ta jednostka posiada [BloodArmorMeursault], zyskaj dane efekty zależnie od jej Wartości:\n- Mając 3+ Wartości: zyskaj 1 [AttackLevelAdder] i 1 [DefenseUp]\n- Mając 4+ Wartości: zyskaj 1 [Agility] na początku następnej tury\n\nPrzy Trafiniu przeciwnika z [Laceration]: Jeśli ta jednostka posiada mniej niż 30% HP, ulecz 30% HP (raz na Potyczkę; zaokrąglone w dół)",
+      "summary": "Jeśli warynki zostaną spełnione, ulecz 30% HP"
+    },
+    {
+      "id": 1051311,
+      "name": "'We Krwi i w Maskach, Tak Jak Nakazują Więzy Krwi'",
+      "desc": "Początek Walki: Jeśli ta jednostka posiada [BloodArmorMeursault], zyskaj dane efekty zależnie od jej Wartości:\n- Mając 3+ Wartości: zyskaj <style=\"highlight\">2</style> [AttackLevelAdder] i <style=\"highlight\">2</style> [DefenseUp]\n- Mając 4+ Wartości: zyskaj <style=\"highlight\">2</style> [Agility] na początku następnej tury\n\n<style=\"highlight\">Początek Walki: Jeśli ta jednostka posiada [FocusOnActing], nakłada 1 [ParadeConcentration] Przy Trafieniu przeciwników (2 razy na turę; w tym Zdolności E.G.O)</style>\n\nPrzy Trafiniu przeciwnika z [Laceration]: Jeśli ta jednostka posiada mniej niż 30% HP, ulecz 30% HP (raz na Potyczkę; zaokrąglone w dół)",
+      "summary": "Jeśli warynki zostaną spełnione: nałóż 1 [ParadeConcentration]\nJeśli warynki zostaną spełnione: ulecz 30% HP"
+    },
+    {
+      "id": 1051302,
+      "name": "Krwawa Uczta",
+      "desc": "Jeśli ta jednostka jest, lub może pojawić się na Polu podczas tej Potyczki, podnieś wartość [BloodDinner] o łączną wartość otrzymanych przez wszyskie jednostki Obrażeń od [Laceration]. \nGdy ta jednostka pojawa się na polu, śpiąca tuż pod nogami krew wypływa na powierzchnię."
+    },
+    {
+      "id": 1051303,
+      "name": "Odpowiedzialność Byłego Księcia",
+      "desc": "Początek Tury: aktywuj dane efekty na sojuszników z La Manchaland mającym maks Wartości [BloodArmorMeursault]\n· Zyskaj 1 [FocusOnActing]\n· Kiedy jednostka zostanie Zachwiana przez obrażenia, wyjdź ze stanu Zachwiania, po czym zużyj całą [BloodArmorMeursault] na sobie (raz na Potyczkę na jednostkę; nie działa przeciwko wymuszonemu Zachwianiu)\n\nJeśli Księżniczka La Manchaland Rodion jest na polu walki, ona i Książe La Manchaland Meursault oboje zadają +15% obrażeń swoimi their 3 Zdolność (w tym Wzmocnionymi Zdolnościami)",
+      "summary": "Meursault & Rodion zadają +15% obrażeń swoimi 3 Zdolnościami"
+    },
+    {
+      "id": 1051321,
+      "name": "Przelać Czarę",
+      "desc": "Zwiększ na tą turę ilość zdobywanej [BloodDinner] o 1.5 raza (2 razy na Potyczkę; zaokrąglone w dół)"
+    },
+    {
+      "id": 1081301,
+      "name": "Kantowanie",
+      "desc": "Wyrzucając Reszkę, ulecz 5 SP (raz na turę)\n +10% obrażeń zadanym celom w stanie Niskiego Morale i Paniki",
+      "summary": "Ulecz SP\nZadawaj więcej obrażeń celom z Niskim Morale i Paniką"
+    },
+    {
+      "id": 1081302,
+      "name": "Koi-Koi [こいこい]",
+      "desc": "Początek Tury: jeśli ta jednostka nie ma [HanafudaCombo], zyskaj 0 Siły i 3 Ilości [HanafudaCombo]\n\nPoczątek Tury: jeśli ta jednostka nie ma Koloru w Ręce, zyskuje losowy Kolor ([HanafudaOne], [HanafudaTwo], lub [HanafudaThree]) odpowiadający Bazowej Zdolności Ofensywnej na lewym Żetonie tej jednostki\n\nPoczątek Walki: kiedy ta jednostka używa Bazowej Zdolości Ofensywnej lub an Zdolności E.G.O na lewym Żetonie, aktywuj dane efekty (raz na turę):\n- Na początku następnej tury, zamień używaną Rękę na sobie na taką odpowiadającą Grzechowi użytej Zdolności\n- Jeśli ta Zdolność była albo \"Sakura-sen\" lub Zdolnością E.G.O, zyskaj 1 Siłę [HanafudaCombo]\n- Jeśli Grzech Zdolności pasuje do Koloru Ręki (tym samym  \"formując Rękę\"), aktywuj dane efekty:\n  · Zyskaj 1 Siły [HanafudaCombo]\n  · Jeśli ta jednostka uformowała Rękę kolejno w tej, jak i poprzedniej turze, zyskaj 1 [HanafudaCombo] Potency\n  · Przy Trafieniu tą Zdolnością: aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] celu o 1\n  · 25% szansy zyskać 1 Zasób E.G.O odpowiadający Grzechowi Zdolności\n- Na Końcu tej Zdolności: mając 5 Siły lub 0 Ilości [HanafudaCombo], użyj \"Kōzan\"",
+      "summary": "Kiedy uformujesz Rękę, zyskaj [HanafudaCombo]. Aktywuj Impuls Drżeń."
+    },
+    {
+      "id": 1081321,
+      "name": "Rozdanie",
+      "desc": "Początek Walki: kiedy 1 sojusznik z najniższym SP używa Bazowej Zdolości Ofensywnej i wyrzuci Orła, leczy 5 SP (2 razy na turę; nie licząc sojuszników mających -40 lub mniej SP)",
+      "summary": "Ulecz SP"
+    },
+    {
+      "id": 1121302,
+      "name": "Bezbolesna Łaska",
+      "desc": "Nie licząc ponownego użycia przez efekty zewnętrzne, Zdolność 'Mercé' Capitano Nocnych Szewców Gregora może być użyta do 2 razy na turę",
+      "summary": "Używa 'Mercé'",
+      "undefined": "-"
+    },
+    {
+      "id": 1121301,
+      "name": "Egzekutor Czystki Na Rzecz Famiglie",
+      "desc": "Kiedy ta jednostka pokona przeciwnika lub zniszczy Część, zyskuje 1 [PenetrateResultUp] na początku następnej tury (raz na turę)\n\nKiedy używa Bazowej Zdolności Ofensywnej, jeśli Prędkość tej jednostki jest wyższa niż ta celu, nałóż na cel [Disarming] za każde 2 różnicy Prędkości (maks 1 na turę)\n\nPo tym, jak sojusznik użyje Bazowej Zdolności Ofensywnej, jeśli the przeciwnik(Rdzeń) posiada mniej niż 20% HP, użyj 'Mercé' na celu (raz na turę)",
+      "summary": "Zyskaj [PenetrateResultUp]\nInflict [Disarming]\nUse 'Mercé'",
+      "undefined": "-"
+    },
+    {
+      "id": 1121311,
+      "name": "Egzekutor Czystki Na Rzecz Famiglie",
+      "desc": "Kiedy ta jednostka pokona przeciwnika lub zniszczy Część, zyskuje 2 [PenetrateResultUp] na początku następnej tury (raz na turę)\n\nKiedy używa Bazowej Zdolności Ofensywnej, jeśli Prędkość tej jednostki jest wyższa niż ta celu, nałóż na cel [Disarming] za każde 2 różnicy Prędkości (maks 2 na turę)\n\nPo tym, jak sojusznik użyje Bazowej Zdolności Ofensywnej, jeśli the przeciwnik(Rdzeń) posiada mniej niż 20% HP, użyj 'Mercé' na celu (raz na turę)\n- Jeśl po ataku jest tylko 1 pozostały przeciwnik, ten efekt aktywuje się także kiedy cel jest Zachwiany",
+      "summary": "Zyskaj [PenetrateResultUp]\nInflict [Disarming]\nUse 'Mercé'",
+      "undefined": "-"
+    },
+    {
+      "id": 1121321,
+      "name": "Celuj W Odsłonięty Punkt",
+      "desc": " Kiedy 1 sojusznik z najwyższą Prędkością używa Bazowej Zdolności Ofensywnej, jeśli Prędkość tej jednostki jest wyższa od tej celu, nakłada na cel [Disarming] za każde 3 różnicy Prędkości (maks 2 na turę)",
+      "summary": "Nałóż [Disarming]",
+      "undefined": "-"
+    },
+    {
+      "id": 1071402,
+      "name": "Ptactwo Łowne",
+      "desc": "Kiedy ta jedostka wypełni [HeishouCombo], Władca Honguyanu Hong Lu zyskuje dane efekty w ramach [HeishouComboCountHonglu]:\n- Przy trafieniu Bazowymi Zdolnościami Ofensywnymi tej jednostki: Zadaj 5% zadanych obrażeń od Obżarstwa jako obrażenia od Gniewu\n\nObrażenia od [Combustion] nie mogą Zachwiać tej jednostki, ani zmniejszyć jej HP poniżej 1.\n\nW turze, kiedy ta jednostka wkroczyła do walki lub zastąpiła inną jednoskę, zykuje 3 [ChickenStance] i +3 Ilości [Combustion].",
+      "summary": ""
+    },
+    {
+      "id": 1071401,
+      "name": "Krwawa Nawałnica Ostrzy",
+      "desc": "Początek Walki: zyskaj 1 [AttackLevelAdder] i 1 [DefenseUp] za każde 20% brakującego HP na sobie (maks 3)\n\nZyskaj [ChickenFightlust] jeśli spełniasz jeden z danych warunków: (10 na turę)\n- Zyskaj 3 na Początku Starcia\n- Zyskaj 1 kiedy ta jednostka trafia Bazową Zdolnością Ofensywną, lub jeśli otrzyma obrażenia od [Combustion]\nMając mniej niż 50% HP, zyskuj o 1 więcej [ChickenFightlust]\n- Zyskaj 5 przy Zabiciu celu",
+      "summary": "Zyskaj [ChickenFightlust]"
+    },
+    {
+      "id": 1071403,
+      "name": "Odmowa Śmierci Krwawego Koguta [炎鳥不死戰]",
+      "desc": "Jeśli ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 0, zignoruj te obrażenia, po czym przez resztę tury HP tej jednostki nie może spaść poniżej 1.\nPo tym, na początku następej tury ulecz (20 + [Combustion] na sobie)% HP, i usuń całe [Combustion] na sobie (maks 49%; raz na Potyczkę)",
+      "summary": "Defy death"
+    },
+    {
+      "id": 1071421,
+      "name": "Przyparty Do Rzeki",
+      "desc": "Koniec tury: jeśli sojusznik z najmniejszym procentem HP ma mniej niż 50% HP, zyskuje 1 [ParryingResultUp] na początku następnej tury",
+      "summary": ""
+    },
+    {
+      "id": 1031301,
+      "name": "Wybuchowy Taran",
+      "desc": "+1% zadawanych obrażeń za każde 2 ([Burst] + [Sinking]) na celu (maks 15%)\n- Efektywność i maks wartość tego efektu są podwojone przeciwko celom, które nie posiadają SP\n\nJeśli ta jednostka ma [GrownHorns], ostatnie Monety Bazowych Zdolności zadają +10% obrażeń\n- Atakując Zdolnością Obronną, ostatnia Moneta zada +20% obrażeń zamiast tego\n- Ścierając się przy użyciu Ścierającej się Kontry, +1 Mocy Starcia",
+      "summary": "Deal more obrażeń zależnie od [Burst] i [Sinking] na celu\nJeśli ta jednostka ma [GrownHorns], the last coin of this unit's Base Skills deal more obrażeń"
+    },
+    {
+      "id": 1031311,
+      "name": "Wybuchowy Taran",
+      "desc": "<style=\"highlight\">Zadawaj +(-SP Celu / 3)% więcej obrażeń celom, które mają mniej niż 0 SP (maks 15%, zaokrąglone w dół)</style>\n\n+1% zadawanych obrażeń za każde 2 ([Burst] + [Sinking]) na celu (maks 15%)\n- Efektywność i maks wartość tego efektu są podwojone przeciwko celom, które nie posiadają SP\n\nJeśli ta jednostka ma [GrownHorns], ostatnie Monety Bazowych Zdolności zadają <style=\"highlight\">+15%</style> obrażeń\n- Atakując Zdolnością Obronną, ostatnia Moneta zada <style=\"highlight\">+30%</style> obrażeń zamiast tego\n- Ścierając się przy użyciu Ścierającej się Kontry, <style=\"highlight\">+3</style> Mocy Starcia",
+      "summary": "Deal more obrażeń zależnie od [Burst] i [Sinking] na celu\nJeśli ta jednostka ma [GrownHorns], the last coin of this unit's Base Skills deal more obrażeń"
+    },
+    {
+      "id": 1031321,
+      "name": "Przecinające Ciało Rogi",
+      "desc": "Sojusznik z najwyższą Prędkością nakłada 1 [DefenseDown] Przy trafieniu Bazowymi Zdolnościami Ofensywnymi które atakują przeciwników z 2+ Ilości [Burst] or Ilości [Sinking], (2 razy na turę)",
+      "summary": "Przy trafieniu Bazowymi Zdolnościami Ofensywnymi które atakują przeciwników z [Burst] or [Sinking], nałóż 1 [DefenseDown]"
+    },
+    {
+      "id": 1031302,
+      "name": "Lament Zagubionych Owieczek [亡羊之嘆]",
+      "desc": "Kiedy ta jedostka wypełni [HeishouCombo], Władca Honguyanu Hong Lu zyskuje dane efekty w ramach [HeishouComboCountHonglu]:\n- Nakładając Siłę lub Ilość Pęknięcia używając Zdolności, nakłada też 1 Zrozpaczenie (3 razy na turę)\n\nW turze, kiedy ta jednostka wkroczyła do walki lub zastąpiła inną jednoskę, zyskuje 3 [GrownHorns]",
+      "summary": "Władca Hongyuan Hong Lu zyskuje specjalny efekt"
+    },
+    {
+      "id": 1041301,
+      "name": "Lojalna Wojowniczka",
+      "desc": "Jeśli atak wroga zabije sojusznika, lub sprowadzi jego HP poniżej 25%: Po tym Ataku, Dryftujące Ostrze Hongyuan Ryōshū używa \"Ciosu Wspierającego\" jako Ataku w Ślepy Punkt przeciwko agresorowi (raz na Potyczkę)\n- Władca Hongyuan Hong Lu może aktywować ten efekt 1 dodatkowy raz ponad limit\n\nJeśli Zdolność \"Ej, T.K.D.T.\" zostanie aktywowana przez Zdolność Pasywną 'C.K.T.Ś.W.', zadaje +30% obrażeń przy Trafieniu Krytycznym i leczy 1 sojusznik z najniższym SP o 2~4 SP (raz na turę; nie licząc sojuszników mających -40 lub mniej SP)",
+      "summary": "When an sojusznik is hit by a fatal attack, użyj Skill 3 against the Attacker. Enhance Skill 1 used by the always-active Passive"
+    },
+    {
+      "id": 1041302,
+      "name": "C.K.T.Ś.W.\n(Chciałam Kroczyć z Tobą po Ścieżce Władcy)",
+      "desc": "Kiedy sojusznik trafi wroga Zdolnością: Po tym Ataku, użyj \"Ej, T.K.D.T.\" jako Ataku w Ślepy Punkt na tego przeciwnika (raz na turę)\n\nW turze, kiedy ta jednostka wkroczyła do walki lub zastąpiła inną jednoskę, zyskuje 2 [ProtectStanceRyoshu]\nWykonując Bezpośredi Atak przez Zdolność Pasywną Władcy Hongyuan Hong Lu \"Władca Wszystkich Heishou\", jest traktowana, jakby była ze \"Stada Heishou\" lub \"Rodziny Jia\"",
+      "summary": "Use Skill 1 jako Ataku w Ślepy Punkt against the enemy an sojusznik attacked"
+    },
+    {
+      "id": 1041321,
+      "name": "Włóczęga",
+      "desc": "Początek Walki: Sojusznik będący najwcześniej w wyborze kolejności Zespołu zyskuje 1 Tarczy za każde [Breath] na sobie (maks 10)"
+    },
+    {
+      "id": 1091401,
+      "name": "Radosne Poroże",
+      "desc": "Zyskaj 1 [Charge] za każdym razem, kiedy ta jednostka zużyje 10 cumulative [Charge] Count in this Encounter\n\nWhen using a Base Attack Skill that inflicts [Sinking] Potency, if the main target does not have [Sinking], this unit zyskuje 5 [Sinking] i doubles the amount of Sinking Potency the Skill applies (raz na turę; w Skupionych Potyczkach, Część)",
+      "summary": "If enemy does not have [Sinking], zyskaj [Sinking] i nałóż more [Sinking] Potency"
+    },
+    {
+      "id": 1091411,
+      "name": "Jolly Antlers",
+      "desc": "Zyskaj 1 [Charge] za każdym razem, kiedy ta jednostka zużyje 10 cumulative [Charge] Count in this Encounter\n\nWhen using a Base Attack Skill that inflicts [Sinking] Potency, if the main target does not have [Sinking], this unit zyskuje 5 [Sinking] i doubles the amount of Sinking Potency the Skill applies (raz na turę; w Skupionych Potyczkach, Część)\n\n<style=\"highlight\">Mając less than 35% HP, Base Attack Skills zyskaj Final Power +1</style>",
+      "summary": "If enemy does not have [Sinking], zyskaj [Sinking] i nałóż more [Sinking] Potency\nMając mniej niż 35% HP, Final Power +1"
+    },
+    {
+      "id": 1091421,
+      "name": "Carol of Dying Comrades",
+      "desc": "1 sojusznik z najniższym SP: Skills that consume [Charge] or Unique Charge[TabExplain] i have effects that nałóż [Sinking] against enemies deal +10% obrażeń (except E.G.O Skills)"
+    },
+    {
+      "id": 1111401,
+      "name": "Vanguard Team",
+      "desc": "Deal +5% obrażeń za każde [Protection] na sobie (maks 15%)\n\nPoczątek Walki: zyskaj 2 [TheUdjatOutis]",
+      "summary": ""
+    },
+    {
+      "id": 1111402,
+      "name": "The Scepter of Horus - Replica",
+      "desc": "Początek Tury: If an enemy has any of the Panic type changing effects, zyskaj 1 [TheUdjatOutis]\n\nJeśli ta jednostka ma [TheUdjatOutis], nałóż 1 [SheutFracture] Przy trafieniu Bazowymi Zdolnościami Ofensywnymi (15 na turę)\n\n[Protection] Stack gained from this unit's Base Skills i [TheUdjatOutis] effect is capped at 5 na turę",
+      "summary": ""
+    },
+    {
+      "id": 1111412,
+      "name": "The Scepter of Horus - Replica",
+      "desc": "Początek Tury: If an enemy has any of the Panic type changing effects, zyskaj 1 [TheUdjatOutis]\n\nJeśli ta jednostka ma [TheUdjatOutis], nałóż 1 [SheutFracture] Przy trafieniu Bazowymi Zdolnościami Ofensywnymi (15 na turę)\n<style=\"highlight\">- If [LCA_Bullet] was spent, nałóż additional [SheutFracture] per [LCA_Bullet] spent</style>\n\n[Protection] Stack gained from this unit's Base Skills i [TheUdjatOutis] effect is capped at 5 na turę",
+      "summary": ""
+    },
+    {
+      "id": 1111421,
+      "name": "Eagle Eye",
+      "desc": "Początek Walki: apply 1 [Protection] na początku następnej tury to 1 sojusznik z najniższym HP percentage",
+      "summary": "Zyskaj Protection"
+    },
+    {
+      "id": 1021402,
+      "name": "Nakaz Dostarczony Na Karteczce",
+      "desc": "Początek Tury:\n- Zyskaj [IndexPrescriptFaust_0] / [IndexPrescriptFaust_1] / [IndexPrescriptFaust_2] / [IndexPrescriptFaust_3] zależnie od [BlessingOfIndexPrescriptAlly] na sobie\n- Nałóż [IndexPrescriptTargetToEnemy] na losowego przeciwnika (w Skupionych Potyczkach, Część)\n- Przyznaj [IndexPrescriptTargetMarkToEnemy] Bazowym Zdolościom Ofensywnym na Tablicy tej jednostki (1 na Żeton, maks 2 Zdolności)\n· Mając 6+ [BlessingOfIndexPrescriptAlly], powyższy efekt priorytezuje 3 Zdolność\n- Wszystkie Powyższe Efekty i wypełnienie [IndexPrescript_Base]u nie aktywują się kiedy ta jednostka jest Zachwiana, Unieruchomiona[TabExplain], Spanikowana lub w Korozji E.G.O[TabExplain]",
+      "summary": "Zyskaj Prescript\nInflict 'The Prescript's Target' to random target\nApply 'Mark of the Prescript' on a Base Attack Skill"
+    },
+    {
+      "id": 1021403,
+      "name": "Wola Nakazu",
+      "desc": "Koniec Tury: Jeśli w tej turze został wykonany [IndexPrescript_Base], ulecz 4 SP i zyskaj 1 [BlessingOfIndexPrescriptAlly] (raz na turę)\n- Wykonując [IndexPrescript_Base], jeśli główny cel ma [IndexPrescriptTargetToEnemy], zamiast tego ulecz 8 SP i zyskaj 3 [BlessingOfIndexPrescriptAlly]\n\nKoniec Tury: Jeśli w tej turze [IndexPrescript_Base] nie został wykonany, zyskaj 5 [KarmaOfIndexAlly]\n- Mając 9 [BlessingOfIndexPrescriptAlly], ta jednostka nie zyskuje [KarmaOfIndexAlly]\n- Jeśli ta jednostka próbowała wykonać [IndexPrescript_Base] na Początku Walki, ale podczas fazy walki nie mogła zaatakować celu, nie zyskuje [KarmaOfIndexAlly]",
+      "summary": "Upon executing Prescript, ulecz SP i zyskaj Grace of the Prescript\nUpon failing Prescript, zyskaj Karmic Consequence"
+    },
+    {
+      "id": 1021401,
+      "name": "Ostrze Neofity",
+      "desc": "+2% obrażeń zadawanych Zdolnościami oznaczonymi [IndexPrescriptTargetMarkToEnemy] za każde [BlessingOfIndexPrescriptAlly] na sobie (maks 16%)\n- Mając 9 [BlessingOfIndexPrescriptAlly], zamiast tego zadawaj Bazowymi Zdolnościami +20% obrażeń\n\nTrafiając Bazowymi Zdolnościami [IndexPrescriptTargetToEnemy], zyskaj 1 [Breath] i nałóż 1 [Sinking] (raz na turę)\n- Increase the number of times this effect can trigger na turę by 1 za każde 3 [BlessingOfIndexPrescriptAlly] (maks 2)\n\n- Mając 9 [BlessingOfIndexPrescriptAlly], Base Skills nałóż +1 more [Sinking] Potency i this unit zyskuje +1 more [Breath] Potency",
+      "summary": "Skills marked with Mark of the Prescript deal more obrażeń zależnie od Grace of the Prescript Stack\nOn Hit, zyskaj Poise i nałóż Sinking"
+    },
+    {
+      "id": 1021421,
+      "name": "Tak, jak rzecze Nakaz...",
+      "desc": "Przyznaje efekt jednostkom będącym wcześniej w wyborze kolejności zespołu\n- Priorytezuje jednostki ze Wskazu\n\nPoczątek Walki: Jeśli Zdolność w Żetonie po lewej stronie Tablicy tej jednostki i i inni sojusznicy celują w ten sam Żeton, ta Zdolność zada +5% obrażeń za każdego sojusznika celującego w ten Żeton, nie licząc tej jedostki (maks 15%, aktywuje się, kiedy zarówno ta jednostka i sojusznicy używają Bazowych Zdolności celujących w ten sam żeton jako główny cel)"
+    },
+    {
+      "id": 1031402,
+      "name": "Nakaz Dostarczony Przez Urządzenie",
+      "desc": "Początek Tury:\n- Zyskaj [IndexPrescriptDon_0] / [IndexPrescriptDon_1] / [IndexPrescriptDon_2] / [IndexPrescriptDon_3] zależnie od poziomu [UnlockBuff_Base] na sobie\n- Nałóż [IndexPrescriptTargetToEnemy] na losowego przeciwnika (w Skupionych Potyczkach, Część)\n- Przyznaj [IndexPrescriptTargetMarkToEnemy] Bazowym Zdolościom Ofensywnym na Tablicy tej jednostki (1 na Żeton, maks 2 Zdolności)\n· Mając [UnlockBuffAlly_2]+, powyższy efekt priorytezuje 3 Zdolność\n- Wszystkie Powyższe Efekty i [IndexPrescript_Base_2nd]u nie aktywują się kiedy ta jednostka jest Zachwiana, Unieruchomiona[TabExplain], Spanikowana lub w Korozji E.G.O[TabExplain]\n\nJeśli ta jednostka ma [UnlockBuffAlly_3] na Początku Tury, zyskuje [Blandishment_Shin]",
+      "summary": "Zyskaj Prescript\nInflict The Prescript's Target to random target\nApply Mark of the Prescript on a Base Attack Skill"
+    },
+    {
+      "id": 1031403,
+      "name": "Wola Nakazu",
+      "desc": "Koniec Tury: Jeśli w tej turze został wykonany [IndexPrescript_Base_2nd], ulecz 4 SP i zyskaj 1 [BlessingOfIndexPrescriptAlly] (raz na turę)\n- Wykonując [IndexPrescript_Base_2nd], jeśli główny cel ma [IndexPrescriptTargetToEnemy], zamiast tego ulecz 8 SP i zyskaj 3 [BlessingOfIndexPrescriptAlly]\n\nKoniec Tury: Jeśli w tej turze [IndexPrescript_Base_2nd] nie został wykonany, zyskaj 5 [KarmaOfIndexAlly]\n- Mając [UnlockBuffAlly_3], ta jednostka nie zyskuje [KarmaOfIndexAlly]\n- Jeśli ta jednostka próbowała wykonać [IndexPrescript_Base_2nd] na Początku Walki, ale podczas fazy walki nie mogła zaatakować celu, nie zyskuje [KarmaOfIndexAlly] na Końcu Tury",
+      "summary": "Upon executing Prescript, ulecz SP i zyskaj Grace of the Prescript\nUpon failing Prescript, zyskaj Karmic Consequence"
+    },
+    {
+      "id": 1031404,
+      "name": "Odblokowanie / Rozkwitłe E.G.O::Prokuratura",
+      "desc": "Koniec Tury: Mając 3/6/9 [BlessingOfIndexPrescriptAlly], zyskaj [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3].\n\nJeśli ta jednostka zyskała [UnlockBuffAlly_1], zużywa 15 SP by zmanifestować <noparse>Rozkwitłe</noparse> E.G.O::Prokuratura:\n- Przed zużyciem SP, ulecz SP do 25 i zyskaj [KarmaOfIndexAlly] równe (uleczone SP / 5) (zaokrąglone w górę)\n- Na Początku Tury po powyższym, jeśli ta jednostka ma [UnlockBuff_Base] i powyżej 25 SP, zużywa 15 SP by zmanifestować E.G.O\n\n- Jeśli ta jednostka zostanie Zachwiana podczas manifestowania E.G.O, wychodzi ze stanu Zaghwiania (jeśli z tego Zachwiania nie można naturalnie wyjść, E.G.O nie zostaje zmanifestowane\n- Zyskaj [Blandishment] jeśli ta jednostka zmanifestowała EGO\n\nPoczątek Tury: Mając 0 lub mniej SP, ta jednostka traci swoje <noparse>Rozkwitłe</noparse> E.G.O::Prokuratura"
+    },
+    {
+      "id": 1031401,
+      "name": "Wielki Czarodziejski Bipczyk Zna Me Pragnienie!",
+      "desc": "+2% obrażeń zadawanych Zdolnościami oznaczonymi [IndexPrescriptTargetMarkToEnemy] za każde [BlessingOfIndexPrescriptAlly] na sobie (maks 16%)\n- Mając 9 [BlessingOfIndexPrescriptAlly], zamiast tego zadawaj Bazowymi Zdolnościami +20% obrażeń\n\nTrafiając Bazowymi Zdolnościami [IndexPrescriptTargetToEnemy], ulecz 3 SP (raz na Zdolność; 2 razy na turę)\n- Ulecz dedatkowe SP zależnie od poziomu [UnlockBuff_Base]",
+      "summary": "Skills marked with Mark of the Prescript deal more obrażeń zależnie od Grace of the Prescript Stack\nOn Hit, ulecz SP"
+    },
+    {
+      "id": 1031421,
+      "name": "Także I To Jest Łaską Wielkiego Czarodziejskiego Bipczyka!",
+      "desc": "Początek Walki: Ulecz 15 SP sojusznikowi z najniższym SP\n- Ten efekt działa w pierwszej kolejności na jednostki używające Dodatnich Monet\n- Jeśli ta jednostka jest ze Wskazu, zyskuje też 1 [AttackDmgUp]\n- Ten efekt nie działa na jednostki będące pod wpływen efektów zapobiegających odnowie SP takich jak Korozja E.G.O[TabExplain], Panika, etc."
+    },
+    {
+      "id": 1081401,
+      "name": "Środek Nigdy Nie Zapomina, Wiesz?",
+      "desc": "Koniec Tury: Nałóż [RetaliationBook] na przeciwnika, który zadał najwięcej obrażeń sojusznikom w tej turze\n\nZa każdym razem, kiedy ta jednostka zostanie trafiona przez przeciwnika, zyskuje 2 [ResentmentIshmael] (2 razy na turę)\nKiedy inny sojusznik ze Środka zostanie trafiony przez przeciwnika, zyskaj 1 [ResentmentIshmael] (raz na turę na Jednostkę)\n\nZyskaj 1 [ReinforcedTattooIshmael] za każdym razem, kiedy ta jednostka zużyje 5 [ResentmentIshmael] (2 razy na turę)\n\nPoczątek Walki: Jeśli ta jednostka nie ma [HeatingWireIshmael], i stworzono 3+ Rezonansu Zazdrości, zyskaj 2 [HeatingWireIshmael] na początku następnej tury\nPoczątek Walki: Jeśli ta jednostka ma [HeatingWireIshmael], zyskaj (Rezon. zazdrości. / 3) [HeatingWireIshmael] na Końcu Tury (max 2)"
+    },
+    {
+      "id": 1081411,
+      "name": "Środek Nigdy Nie Zapomina, Wiesz?",
+      "desc": "Koniec Tury: Nałóż [RetaliationBook] na przeciwnika, który zadał najwięcej obrażeń sojusznikom w tej turze\n\nZa każdym razem, kiedy ta jednostka zostanie trafiona przez przeciwnika, zyskuje 2 [ResentmentIshmael] (2 razy na turę)\nKiedy inny sojusznik ze Środka zostanie trafiony przez przeciwnika, zyskaj 1 [ResentmentIshmael] (raz na turę na Jednostkę)\n<style=\"highlight\">- Jeśli ten przeciwnik ma [RetaliationBook], zyskaj 1 więcej [ResentmentIshmael]\n- Początek Walki: Jeśli stowrzono A-Rezon. Zazdrości, podwój wartość zdobywanego [ResentmentIshmael]</style>\n\nZyskaj 1 [ReinforcedTattooIshmael] za każdym razem, kiedy ta jednostka zużyje 5 [ResentmentIshmael] (2 razy na turę)\n\nPoczątek Walki: Jeśli ta jednostka nie ma [HeatingWireIshmael], i stworzono 3+ Rezon. zazdrości., zyskaj 2 [HeatingWireIshmael] na początku następnej tury\nPoczątek Walki: Jeśli ta jednostka ma [HeatingWireIshmael], zyskaj (Rezon. zazdrości. / 3) [HeatingWireIshmael] na Końcu Tury (max 2)"
+    },
+    {
+      "id": 1081402,
+      "name": "Bronie Termiczne",
+      "desc": "Ta jednostka jest uznawana za Tożsamość, która nakłada [Combustion] i [Laceration].\nJeśli ta jednostka ma [HeatingWireIshmael], Zdolności, które nakładają [Laceration] są uznawane za Zdolności, które nakładają zarówno [Combustion] i [Laceration]."
+    },
+    {
+      "id": 1081421,
+      "name": "Hej, wy też lubicie Fixerów?",
+      "desc": "+1 Mocy Starcia dla Bazowych Zdolności Pierwszej w wyborze kolejności zespołu jednostki (raz na turę)\nJeśli stworzono A-Rezon. Zazdrości, ta jednostka zadaje też +10% ibrażeń Bazowymi Zdolnościami",
+      "summary": "+1 Mocy Starcia for Base Attack Skills\nJeśli stworzono A-Rezon. Zazdrości, deal +10% obrażeń with Base Skills"
+    }
+  ]
+}

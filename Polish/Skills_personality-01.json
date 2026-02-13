@@ -1,0 +1,2658 @@
+{
+  "dataList": [
+    {
+      "id": 1010501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Na Spokojnie",
+          "desc": "Zyskaj +3 Ilości [Vibration] jeśli ta zdolność zostanie Odrzucona<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Na Spokojnie",
+          "desc": "Jeśli ta zdolność zostanie Odrzucona, zyskaj +4 Ilości [Vibration]\n[WhenUse] Zyskaj +2 Ilości [Vibration]<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Na Spokojnie",
+          "desc": "Jeśli ta zdolność zostanie Odrzucona, zyskaj +4 Ilości [Vibration]\n[WhenUse] Zyskaj +2 Ilości [Vibration]\nMając 5+ Ilości [Vibration], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ryzykowny Ruch",
+          "desc": "Jeśli ta zdolność zostanie Odrzucona, zyskaj +3 Ilości [Vibration]\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mając 5+ Ilości [Vibration], aktywuj [VibrationExplosion]. Zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ryzykowny Ruch",
+          "desc": "Jeśli ta zdolność zostanie Odrzucona, zyskaj +4 Ilości [Vibration]\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 5+ Ilości [Vibration], aktywuj [VibrationExplosion]. Zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ryzykowny Ruch",
+          "desc": "Jeśli ta zdolność zostanie Odrzucona, zyskaj +4 Ilości [Vibration]\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 5+ Ilości [Vibration], aktywuj [VibrationExplosion]. Zmniejsz Ilość [Vibration] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Zgrzytanie Zębami",
+          "desc": "[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki\n[WhenUse] Zużyj 10 Ilości [Vibration] by zyskać +1 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta Zdolność zużyła Ilość [Vibration], aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 [DefenseDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta Zdolność zużyła Ilość [Vibration], aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zgrzytanie Zębami",
+          "desc": "[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki\n[WhenUse] Zużyj 10 Ilości [Vibration] by zyskać +2 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta Zdolność zużyła Ilość [Vibration], aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta Zdolność zużyła Ilość [Vibration], aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garda",
+          "desc": "[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garda",
+          "desc": "[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Szpara Wymiarowa",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Szpara Wymiarowa",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Szpara Wymiarowa",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Charge]\nMając 10+ Ilości [Charge], Moc Monet +2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cykl Energii",
+          "desc": "[WhenUse] Zyskaj +5 Ilości [Charge]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Cykl Energii",
+          "desc": "[WhenUse] Zyskaj +6 Ilości [Charge]\nMając 10+ Ilości [Charge], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 10+ Ilości [Charge], nałóż 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cykl Energii",
+          "desc": "[WhenUse] Zyskaj +7 Ilości [Charge]\nMając 10+ Ilości [Charge], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 10+ Ilości [Charge], nałóż 3 [Burst] i +2 Ilości [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Wyrwa Wymiarowa",
+          "desc": "[WhenUse] Mając mniej niż 15 Ilości [Charge], zużyj 10 Ilości [Charge] by zyskać +1 Mocy Monet\n[WhenUse] Zużyj 15 Ilości [Charge] by zyskać +2 Moc Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst] za każde 5 Ilości [Charge] zużytego przez tą Zdolność (Maks 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta Zdolność zużyła 15 Ilości [Charge] przy użyciu, nałóż 2 [DimensionRift]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 3 [ChargeForceField]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wyrwa Wymiarowa",
+          "desc": "[WhenUse] Mając mniej niż 15 Ilości [Charge], zużyj 10 Ilości [Charge] by zyskać +1 Moc Monet\n[WhenUse] Zużyj 15 Ilości [Charge] by zyskać +2 Moc Monet\n[BeforeAttack] Jeśli zostało zużyte 15 Ilości [Charge], nałóż +3 Ilości [Burst]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst] za każde 5 Ilości [Charge] zużytego przez tą Zdolność (Maks 9)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta Zdolność zużyła 15 Ilości [Charge] przy użyciu, nałóż 2 [DimensionRift]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 5 [ChargeForceField]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pusty Wymiar",
+          "desc": "Moc Bazowa +1 za każde 5 Ilości [Charge] (Maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pusty Wymiar",
+          "desc": "Moc Bazowa +1 za każde 5 Ilości [Charge] (Maks 2)\n[OnSucceedEvade] Nakładając [Burst] efektami Zdolności po raz pierwszy w następnej turze, nałóż +1 Siły efektu (Maks +3 na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przebijaj Cel",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Przebijaj Cel",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przebijaj Cel",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dźgaj Bezwzględnie",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]\nMając 5+ [Breath], Moc Starcia +2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dźgaj Bezwzględnie",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]\nMając 5+ [Breath], Moc Starcia +2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Użyj tej Monety Ponownie (1 time maks)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dźgaj Bezwzględnie",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]\nMając 5+ [Breath], Moc Starcia +3<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Użyj tej Monety Ponownie (3 razy maks)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Uderzaj Z Zaskoczenia",
+          "desc": "[WhenUse] Zyskaj 5 [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +4 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Uderzaj Z Zaskoczenia",
+          "desc": "[WhenUse] Zyskaj 5 [Breath]\nMając 7+ [Breath], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +6 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Unikaj Ataków",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Unikaj Ataków",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Użyj Głowy",
+          "desc": "Zyskaj ([KnowledgeExplored] x 2% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Obniż Próg Zachwiania tej jednostki o [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Obniż Próg Zachwiania tej jednostki o [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Użyj Głowy",
+          "desc": "Zyskaj ([KnowledgeExplored] x 3% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Obniż Próg Zachwiania tej jednostki o [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Obniż Próg Zachwiania tej jednostki o [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Użyj Głowy",
+          "desc": "Zyskaj ([KnowledgeExplored] x 3% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki\n[WhenUse] Jeśli cel ma 5+ [Sinking], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Obniż Próg Zachwiania tej jednostki o [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Obniż Próg Zachwiania tej jednostki o [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Od Deski Do Deski",
+          "desc": "Zyskaj ([KnowledgeExplored] x 4% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Od Deski Do Deski",
+          "desc": "Zyskaj ([KnowledgeExplored] x 5% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki\n[WhenUse] Daj temu Żetonowi Ataku +2 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Od Deski Do Deski",
+          "desc": "Zyskaj ([KnowledgeExplored] x 6% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki\n[WhenUse] Jeśli cel ma 5+ [Sinking], Moc Monet +1\n[WhenUse] Daj temu Żetonowi Ataku +2 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Doskonalenie Wiedzy",
+          "desc": "Zyskaj ([KnowledgeExplored] x 9% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] Daj temu Żetonowi Ataku +8 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Doskonalenie Wiedzy",
+          "desc": "Zyskaj ([KnowledgeExplored] x 12% of Maks HP) Tarczy jeśli ta zdolność zostanie Odrzucona\n[WhenUse] Daj temu Żetonowi Ataku +10 [Aggro] na początku następnej tury\n[WhenUse] Mając 50%- HP, Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dogłębna Edukacja",
+          "desc": "[WhenUse] Losowo [Discard] 2 Zdolności tej jednostki we wszytskich Żetonach Ataku od najmniejszej do największej\n[WhenUse] Daj temu Żetonowi Ataku +2 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dogłębna Edukacja",
+          "desc": "[WhenUse] Losowo [Discard] 2 Zdolności tej jednostki we wszytskich Żetonach Ataku od najmniejszej do największej\n[WhenUse] Daj temu Żetonowi Ataku +5 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zamalowanie",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż +2 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Zamalowanie",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż +2 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zamalowanie",
+          "desc": "Jeśli cel ma 6+ [Laceration], Moc Starcia +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż +2 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Krwawy Puentylizm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 20% szansy jednorazowo Ponownie Użyć tej Monety. Szansa ta zwiększa się o kolejne 20% za każdy rodzaj negatywnego efektu na celu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Krwawy Puentylizm",
+          "desc": "Jeśli cel ma 6+ [Laceration], Moc Starcia +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 20% szansy jednorazowo Ponownie Użyć tej Monety. Szansa ta zwiększa się o kolejne 20% za każdy rodzaj negatywnego efektu na celu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Krwawy Puentylizm",
+          "desc": "Moc Starcia +1 za każde 3 [Laceration] na celu (maks 2)\nMoc Monet +1 za każde 3 Ilości [Laceration] na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 40% szansy na Ponowne Użycie tej Monety. Szansa ta zwiększa się o kolejne 20% za każdy rodzaj negatywnego efektu na celu (2 razy maks na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Barwienie Posoką",
+          "desc": "Jeśli cel ma 6+ [Laceration], Moc Starcia +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]. Jeśli cel ma 4+ rodzaje negatywnych efeków, nałóż +2 dodatkowe Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]. Jeśli cel ma 4+ rodzaje negatywnych efeków, nałóż 2 dodatkowe [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 Siły jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +15% więcej obrażeń za każdy rodzaj negatywnego efektu na celu (maks 75%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Jeśli cel jest Zachwiany lub Pokonany, nałóż 2 Siły jednego z tych efektów na 1 przeciwnika z najmniejszą liczbą rodzaji negatywnych efeków: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Barwienie Posoką",
+          "desc": "Moc Starcia +1 za każde 3 [Laceration] na celu (maks 2)\nMoc Monet +1 za każde 3 Ilości [Laceration] na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]. Jeśli cel ma 3+ rodzaje negatywnych efeków, nałóż +2 dodatkowe Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]. Jeśli cel ma 3+ rodzaje negatywnych efeków, nałóż 2 dodatkowe [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 Siły jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +25% więcej obrażeń za każdy rodzaj negatywnego efektu na celu (maks 125%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Jeśli cel jest Zachwiany lub Pokonany, nałóż 2 Siły jednego z tych efektów na 2 przeciwników z najmniejszą liczbą rodzaji negatywnych efeków: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Efekt jest wybierany losowo.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zamoczenie w Farbie",
+          "desc": "Jeśli cel ma 6+ [Laceration], Moc Bazowa +5<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zamoczenie w Farbie",
+          "desc": "Moc Bazowa +1 za każde 1 [Laceration] na celu (Maks 10)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Celebracja dla Odeszłych",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Celebracja dla Odeszłych",
+          "desc": "Jeśli suma [Sinking] i obu [SinkingWhite] wynosi 6 lub więcej, Moc Monet +1\n[WinDuel] Nałóż +2 Ilości [Sinking]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Celebracja dla Odeszłych",
+          "desc": "<style=\"highlight\">Mając 10+ [BulletLament], Moc Starcia +1</style>\nJeśli suma [Sinking] i obu [SinkingWhite] wynosi 6 lub więcej, Moc Monet +1\n[WinDuel] Nałóż +2 Ilości [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uroczysty Lament dla Żywych",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 5 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Uroczysty Lament dla Żywych",
+          "desc": "Jeśli suma [Sinking] i obu [SinkingWhite] wynosi 6 lub więcej, Moc Monet +1\n[WinDuel] Nałóż +1 Ilości [Sinking]\n[EndSkill] Zyskaj (najwyższy Rezon.) [BulletLament] (maks 6)\n- Jeśli ten Rezonans był A-Rezonansem, zyskaj (najwyższy Rezon. x 2) [BulletLament] (maks 12)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 5 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Uroczysty Lament dla Żywych",
+          "desc": "Mając 10+ [BulletLament], Moc Starcia +1\n<style=\"highlight\">Moc Monet +1 za każde 6 wartości</style> wartości sumy [Sinking] i obu [SinkingWhite] <style=\"highlight\">(maks 2)</style>\n[WinDuel] Nałóż +1 Ilości [Sinking]\n[EndSkill] Zyskaj (najwyższy Rezon.) [BulletLament] (maks 6)\n- Jeśli ten Rezonans był A-Rezonansem, zyskaj (najwyższy Rezon. x 2) [BulletLament] (maks 12)\n- Jeśli ten Rezonans wynosił 4+ A-Rezonansu, zamiast tego [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 5 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Niechaj biady ci nie zabraknie a twe dni były policzone",
+          "desc": "Moc Bazowa +1 za każde 10 wartości [BulletLament] (maks 2)\n[WinDuel] Nałóż +3 Ilości [Sinking]\n[EndSkill] [ReloadLament]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 6 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj wszystkich [BulletLament] na sobie<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +2% więcej obrażeń za każdego z [BulletLament] zużytych przez tą Zdolność<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe \"Całemu\" [SinkingWhite] na celu\n- \"Całemu\" = sumie zarówno Żywych jak i Odeszłych na celu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Niechaj biady ci nie zabraknie a twe dni były policzone",
+          "desc": "Moc Bazowa +1 za każde <style=\"highlight\">5</style> wartości [BulletLament] <style=\"highlight\">(maks 4)</style>\nMoc Monet +1 za każde 6 wartości wartości sumy [Sinking] i obu [SinkingWhite] (maks 2)\n[WinDuel] Nałóż +3 Ilości [Sinking]\n[EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 6 z [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj wszystkich [BulletLament] na sobie<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [SinkingWhite] równe zużytym [BulletLament]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj +4% więcej obrażeń za każdego z [BulletLament] zużytych przez tą Zdolność<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe \"Całemu\" [SinkingWhite] na celu\n- \"Całemu\" = sumie zarówno Żywych jak i Odeszłych na celu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ZTrumnyWylatujeMotyl",
+          "desc": "[StartBattle] [ReloadLament] (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "ZTrumnyWylatujeMotyl",
+          "desc": "[StartBattle] [ReloadLament] (raz na turę)\n[StartBattle] Zyskaj Tarczę równą (suma obu [SinkingWhite] na wybranym celu)% HP. (maks 20% na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Choć należy wspomnieć, że sprzęt E.G.O jest standardowym ekwipunkiem,",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +2 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst]: ta Zdolność nie nakłada swoimi efektami [Burst]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Choć należy wspomnieć, że sprzęt E.G.O jest standardowym ekwipunkiem,",
+          "desc": "[StartBattle] W razie Przegrania Starcia, zyskaj Ostateczną Moc równą liczbie Zdoloności wymierzonych w tą Jednostkę (maks 2)\n[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst]: ta Zdolność nie nakłada swoimi efektami [Burst]\n[DefeatDuel] Zwiększ Siłę [Burst] nakładaną przez tą Zdolność o +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Choć należy wspomnieć, że sprzęt E.G.O jest standardowym ekwipunkiem,",
+          "desc": "[StartBattle] W razie Przegrania Starcia, zyskaj Ostateczną Moc równą liczbie Zdoloności wymierzonych w tą Jednostkę (maks 3)\n[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst]: ta Zdolność nie nakłada swoimi efektami [Burst]\n[DefeatDuel] Zwiększ Siłę [Burst] nakładaną przez tą Zdolność o +2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "w zestawieniu ze sprzętem E.G.O z L Corpu, zależnie od stopnia dopasowania użykownika do Anomalii,",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +2 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst]: ta Zdolność nie nakłada swoimi efektami Ilości [Burst]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "w zestawieniu ze sprzętem E.G.O z L Corpu, zależnie od stopnia dopasowania użykownika do Anomalii,",
+          "desc": "[StartBattle] W razie Przegrania Starcia, zyskaj Ostateczną Moc równą liczbie Zdoloności wymierzonych w tą Jednostkę (maks 3)\n[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst]: ta Zdolność nie nakłada swoimi efektami Ilości [Burst]\n[DefeatDuel] Zwiększ Ilość [Burst] nakładaną przez tą Zdolność o +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "w zestawieniu ze sprzętem E.G.O z L Corpu, zależnie od stopnia dopasowania użykownika do Anomalii,",
+          "desc": "[StartBattle] <style=\"highlight\">W razie Przegrania Starcia, zyskaj (# Zdoloności wymierzonych w tą Jednostkę x 2) Ostatecznej Mocy (maks 6)</style>\n[WhenUse] Daj temu Żetonowi Ataku +4 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst]: ta Zdolność nie nakłada swoimi efektami Ilości [Burst]\n[DefeatDuel] Zwiększ Ilość [Burst] nakładaną przez tą Zdolność o +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "specyfiki źródła mogą być wykorzystywane z większą elastycznością i efektywnością",
+          "desc": "Zadaj +0.5% więcej obrażeń za każde 1% brakującego HP na sobie\n[StartBattle] Moc Bazowa +1 na Zdolność wymierzoną w tą jednostkę (maks 2)\n[WhenUse] Zyskaj 2 [GlowingLantern] (raz na turę)\n[WhenUse] Daj temu Żetonowi Ataku +6 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami ani Siły, ani Ilości [Burst]; zamiast tego, zyskaj Moc Bazowa +1\n[EndSkill] Ulecz 30 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "specyfiki źródła mogą być wykorzystywane z większą elastycznością i efektywnością",
+          "desc": "Zadaj +0.8% więcej obrażeń za każde 1% brakującego HP na sobie\n[StartBattle] Moc Bazowa +1 na Zdolność wymierzoną w tą jednostkę (maks 3)\n[WhenUse] Zyskaj 3 [GlowingLantern] (raz na turę)\n[WhenUse] Daj temu Żetonowi Ataku +8 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami ani Siły, ani Ilości [Burst]; zamiast tego, zyskaj Moc Bazową +1\n[EndSkill] Ulecz 30 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jednak równocześnie ten sam stopień dopasowania i pokrewieństwa może ostatecznie doprowadzić do swego rodzaju pożarcia użytkownika",
+          "desc": "[StartBattle] Zyskaj 2 [GlowingLantern] (raz na turę)\n[WhenUse] Daj temu Żetonowi Ataku +6 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami Ilości [Burst]; zamiast tego, zyskaj Moc Bazową +3<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Jednak równocześnie ten sam stopień dopasowania i pokrewieństwa może ostatecznie doprowadzić do swego rodzaju pożarcia użytkownika",
+          "desc": "[StartBattle] Zyskaj 3 [GlowingLantern] (raz na turę)\n[WhenUse] Daj temu Żetonowi Ataku +8 [Aggro] na początku następnej tury\n[WhenUse] Jeśli cel ma 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami Ilości [Burst]; zamiast tego, zyskaj Moc Bazową +3<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przeciąć Płomień",
+          "desc": "Jeśli cel ma 6+ [Combustion], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Przeciąć Płomień",
+          "desc": "Jeśli cel ma <style=\"highlight\">3</style>+ [Combustion], Moc Monet +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przeciąć Płomień",
+          "desc": "<style=\"highlight\">Moc Monet +1 za każde 3 [Combustion] na celu (maks 2)</style>\n<style=\"highlight\">Zadaj +10% więcej obrażeń za każde 10 [Combustion] na celu (maks 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Atak Frontalny",
+          "desc": "Jeśli cel ma 6+ [Combustion], Moc Monet +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Combustion], nałóż +2 Ilości [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Atak Frontalny",
+          "desc": "Moc Monet +1 za każde 6 [Combustion] na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +2.5% więcej obrażeń za każde [Combustion] na celu (maks 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Combustion], nałóż +2 Ilości [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Atak Frontalny",
+          "desc": "Moc Monet +1 za każde 6 [Combustion] na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +<style=\"highlight\">5</style>% więcej obrażeń za każde [Combustion] na celu (maks <style=\"highlight\">60</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 6+ [Combustion], nałóż +2 Ilości [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Za Nurtem Miecza",
+          "desc": "Jeśli cel ma 6+ [Combustion], Moc Monet +1\nZadaj +10% więcej obrażeń za każde 6 [Combustion] na celu (maks 30%)\n[EndSkill] Ulecz 10 SP 1 innemu sojusznikowi z najmniejszą liczbą SP\n- Jeśli ten atak zabił cel, lub jeśli cel miał 10+ [Combustion], ulecz jeszcze 1 sojusznika<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +2% więcej obrażeń za każde [Combustion] na celu (maks 60%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Gniewu równe Sile [Combustion] na celu. (maks 30) Zmniejsz Ilość [Combustion] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Za Nurtem Miecza",
+          "desc": "<style=\"highlight\">Moc Monet +1 za każde 6 [Combustion] na celu (maks 2)</style>\nZadaj +10% więcej obrażeń za każde 6 [Combustion] na celu (maks 30%)\n[EndSkill] Ulecz <style=\"highlight\">15</style> SP 1 innemu sojusznikowi z najmniejszą liczbą SP\n- Jeśli ten atak zabił cel, lub jeśli cel miał 10+ [Combustion], ulecz jeszcze 1 sojusznika",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +2% więcej obrażeń za każde [Combustion] na celu (maks 60%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Gniewu równe Sile [Combustion] na celu. (maks 30) Zmniejsz Ilość [Combustion] celu o 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Płomienna Kontra",
+          "desc": "[BeforeHit] Zyskaj Tarczą równą [Combustion] na celu (maks 10, raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]\n- Jeśli ta jednostka ma Tarczę, nałóż 1 dodatkowe [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]\n- Jeśli ta jednostka ma Tarczę, nałóż 1 dodatkowe [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Płomienna Kontra",
+          "desc": "[BeforeHit] Zyskaj Tarczą równą [Combustion] na celu (maks 15, raz na turę)\n[WhenUse] Jeśli cel ma 10+ [Combustion], zadaj +10% więcej obrażeń<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]\n- Jeśli ta jednostka ma Tarczę, nałóż 1 dodatkowe [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Combustion]\n- Jeśli ta jednostka ma Tarczę, nałóż 1 dodatkowe [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przejrzeć Linie Obrony",
+          "desc": "[WhenUse] Zadaj +7% obrażeń za każde [BoseProjektil] na sobie (maks 49%)\n[WhenUse] Zyskaj 1 [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Przejrzeć Linie Obrony",
+          "desc": "[WhenUse] Zadaj +<style=\"highlight\">10</style>% obrażeń za każde [BoseProjektil] na sobie (maks <style=\"highlight\">70</style>%)\n<style=\"highlight\">[WhenUse] Mając 5+ [Breath], Moc Monet +1\n[WhenUse] Mając 3+ Ilości [Breath], Moc Bazowa +1 </style>\n[WhenUse] Zyskaj <style=\"highlight\">+1 Ilości [Breath] i</style> 1 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Nałóż +1 Ilości [Laceration]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Zyskaj 1 [BoseProjektil]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przejrzeć Linie Obrony",
+          "desc": "[WhenUse] Zadaj +<style=\"highlight\">15</style>% obrażeń za każde [BoseProjektil] na sobie (maks <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">Moc Monet +1 za każde 5 [Breath] na sobie (maks 2)</style>\n[WhenUse] <style=\"highlight\">Moc Bazowa +1 za każde 3 Ilości [Breath] na sobie (maks 2)</style>\n[WhenUse] Zyskaj +<style=\"highlight\">2</style> Ilości [Breath] i 1 [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Nałóż +1 Ilości [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Zyskaj 1 [BoseProjektil]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przebić Się",
+          "desc": "[WhenUse] Zadaj +10% obrażeń za każde [BoseProjektil] na sobie (maks 70%)\n[WhenUse] Zyskaj 2 [Breath]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [BoseProjektil]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj 2 [BoseProjektil]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Przebić Się",
+          "desc": "[WhenUse] Zadaj +10% obrażeń za każde [BoseProjektil] na sobie (maks 70%)\n<style=\"highlight\">[WhenUse] Mając 5+ [Breath], Moc Monet +1</style>\n[WhenUse] Zyskaj 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Nałóż 2 [Laceration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [BoseProjektil]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Nałóż 1 [Laceration]</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj 2 [BoseProjektil]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przebić Się",
+          "desc": "[WhenUse] Zadaj +<style=\"highlight\">15</style>% obrażeń za każde [BoseProjektil] na sobie (maks <style=\"highlight\">105</style>%)\n[WhenUse] <style=\"highlight\">Moc Monet +1 za każde 5 [Breath] na sobie (maks 2)</style>\n[WhenUse] Zyskaj 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [BoseProjektil]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj 2 [BoseProjektil]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Swój i Wróg, Cel i Pal",
+          "desc": "[StartBattle] Ta zdolność celuje w jednostkę z najmniejszą liczbą HP\n- Mając 7 [BoseProjektil], w pierwszej kolejności wybiera na główny cel sojuszników\n[StartBattle] Zyskaj +1 Wagi Ataku za każde 3 [BoseProjektil] na sobie (maks 2)\n[WhenUse] Mając 5+ [Breath], Moc Monet +1\n[WhenUse] Mając 3+ Ilości [Breath], Moc Bazowa +1\n[WhenUse] Zyskaj 1 [Breath] za każde [BoseProjektil] na sobie (maks 7)\n[EndSkill] Strać ([BoseProjektil] na sobie x 2) SP (maks 14)\n[EndSkill] Jeśli ta jednostka miała 7 [BoseProjektil] na Początku Walki, Strać je wszystkie\n- Jeśli ta jednostka straciła wszystkie [BoseProjektil], i jeśli zabiła sojusznika, ulecz 20 SP na sobie<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, aktywuj dane efekty:\n- Odporność na Dźganie głównego celu zmienia się dla tego ataku na Zabójczą<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Zadaj +5% obrażeń za każde [BoseProjektil] na sobie (maks 35%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- +2% Obrażeń przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 40%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jendak jeśli główny cel był przeciwnikiem, zadaj obrażenia i głównemu celowi<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jeśli pierwszej Monecie nie udało się zabić sojusznika, 1 losowy cel poboczny otrzymuje obrażenia\n<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Zadaj +15% obrażeń za każde [BoseProjektil] na sobie (maks 105%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jeśli pierwsza Moneta zabiła sojusznika, zamiast tego zadaj +30% obrażeń za każde [BoseProjektil] na sobie (maks 210%)\n<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+2.5% Obrażeń przy Trafieniu Krytycznym za każdą Siłę [Breath] (maks <style=\"highlight\">25%</style>)"
+                },
+                {
+                  "desc": "+7% Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] na sobie (maks 49%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Zadaj +(procent HP, który pierwsza Moneta odebrała głównemu celowi)% obrażeń (maks 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jeśli pierwsza Moneta zabiła sojusznika, zamiast tegp nałóż 3 [Laceration] i +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Swój i Wróg, Cel i Pal",
+          "desc": "[StartBattle] Ta zdolność celuje w jednostkę z najmniejszą liczbą HP\n- Mając 7 [BoseProjektil], w pierwszej kolejności wybiera na główny cel sojuszników\n[StartBattle] Zyskaj +1 Wagi Ataku za każde 3 [BoseProjektil] na sobie (maks 2)\n[WhenUse] <style=\"highlight\">Moc Monet +1 za każde 5 [Breath] na sobie (maks 2)</style>\n[WhenUse] <style=\"highlight\">Moc Bazowa +1 za każde 3 Ilości [Breath] na sobie (maks 2)</style>\n[WhenUse] Zyskaj 1 [Breath] za każde [BoseProjektil] na sobie (maks 7)\n[EndSkill] Strać ([BoseProjektil] na sobie x 2) SP (maks 14)\n[EndSkill] Jeśli ta jednostka miała 7 [BoseProjektil] na Początku Walki, Strać je wszystkie\n- Jeśli ta jednostka straciła wszystkie [BoseProjektil], i jeśli zabiła sojusznika, ulecz 20 SP na sobie",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie głównemu celowi<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jeśli główny cel jest sojusznikiem, aktywuj dane efekty:\n- Odporność na Dźganie głównego celu zmienia się dla tego ataku na Zabójczą<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Zadaj +7% obrażeń za każde [BoseProjektil] na sobie (maks 49%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- +3% Obrażeń przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 60%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Ta Moneta zadaje obrażenia wyłącznie celom pobocznym<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jendak jeśli główny cel był przeciwnikiem, zadaj obrażenia i głównemu celowi<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jeśli pierwszej Monecie nie udało się zabić sojusznika, 1 losowy cel poboczny otrzymuje obrażenia\n<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Zadaj +<style=\"highlight\">20</style>% obrażeń za każde [BoseProjektil] na sobie (maks <style=\"highlight\">140</style>%)"
+                },
+                {
+                  "desc": "- Jeśli pierwsza Moneta zabiła sojusznika, zamiast tego zadaj +<style=\"highlight\">40</style>% obrażeń za każde [BoseProjektil] na sobie (maks <style=\"highlight\">280</style>%)\n"
+                },
+                {
+                  "desc": "+<style=\"highlight\">5</style>% Obrażeń przy Trafieniu Krytycznym za każdą Siłę [Breath] (maks <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "+<style=\"highlight\">10</style>% Obrażeń przy Trafieniu Krytycznym za każde [BoseProjektil] na sobie (maks <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "Zadaj +(procent HP, który pierwsza Moneta odebrała głównemu celowi)% obrażeń (maks 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration]"
+                },
+                {
+                  "desc": "- Jeśli pierwsza Moneta zabiła sojusznika, zamiast tego nałóż <style=\"highlight\">5</style> [Laceration] i +<style=\"highlight\">2</style> Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wsparcie z Linii Frontu",
+          "desc": "[DuelCounter]\n[WhenUse] Moc Monet +1 za każde 2 [Breath] na sobie (maks 2)\n[WhenUse] Zyskaj 2 [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wsparcie z Linii Frontu",
+          "desc": "[DuelCounter]\n[WhenUse] Moc Monet +1 za każde 2 [Breath] na sobie (maks 3)\n[WhenUse] Zyskaj 2 [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zciąć i Stratować",
+          "desc": "[WhenUse] +1 Mocy Monet jeśli cel ma 5+ ([Burst] + [Vibration])<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Zciąć i Stratować",
+          "desc": "<style=\"highlight\"> +1 Mocy Monet jeśli ta jednostka jest szybsza od celu</style>\n[WhenUse] +1 Mocy Monet jeśli cel ma 5+ ([Burst] + [Vibration])",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości [Burst]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zciąć i Stratować",
+          "desc": "+1 Mocy Monet jeśli ta jednostka jest szybsza od celu\n[WhenUse] +1 Mocy Monet jeśli cel ma 5+ ([Burst] + [Vibration])\n<style=\"highlight\">[WinDuel] Nałóż 1 [Binding] na początku następnej tury (2 razy na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cios Sierpowatego Ostrza [月刀擊]",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)\n[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Cios Sierpowatego Ostrza [月刀擊]",
+          "desc": "<style=\"highlight\">+1 Mocy Monet jeśli ta jednostka jest szybsza od celu</style>\n[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)\n[WhenUse] Zyskaj <style=\"highlight\">2</style> [Agility] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel nie ma na sobie Obrzędu Śmierci, Nałóż 1 [ConcussionYisang]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cios Sierpowatego Ostrza [月刀擊]",
+          "desc": "Jeśli ta jednostka jest szybsza od celu:\n- +1 Mocy Monet\n<style=\"highlight\">- jeśli ta jednostka jest szybsza od celu o 2 lub więcej, zadaj +([BreakthroughHorse] na sobie x 20)% obrażeń (maks 100%)</style>\n\n[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)\n[WhenUse] Zyskaj 2 [Agility] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie ma na sobie Obrzędu Śmierci, Nałóż 1 [ConcussionYisang]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel ma Obrzęd Śmierci, Nałóż 3 [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Szarża Naczelnika Kawalerii",
+          "desc": "Jeśli ta jednostka jest szybsza od celu:\n- Ostateczna Moc +1\n- Zadaj +([BreakthroughHorse] na sobie x 10)% obrażeń (maks 40%)\n\nZadaj +(HP Tarczy na sobie x 2)% obrażeń (maks 50%)\n\n[BeforeUse] Mając 5 [BreakthroughHorse], zużyj je całe, by zamiast tej Zdolności aktywować 'Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy'\n[WhenUse] Zyskaj 3 [LegStrengthHorseYisang]\n[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 2+ [LegStrengthHorseYisang], Nałóż 1 [ConcussionYisang]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Szarża Naczelnika Kawalerii",
+          "desc": "Jeśli ta jednostka jest szybsza od celu:\n- Ostateczna Moc +1\n- Zadaj +([BreakthroughHorse] na sobie x <style=\"highlight\">20</style>)% obrażeń (maks <style=\"highlight\">80</style>%)\n\nZadaj +(HP Tarczy na sobie x 2)% obrażeń (maks 50%)\n\n[BeforeUse] Mając 5 [BreakthroughHorse], zużyj je całe, by zamiast tej Zdolności aktywować 'Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy'\n[WhenUse] Zyskaj 3 [LegStrengthHorseYisang]\n[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)\n<style=\"highlight\">[WhenUse] Mając 3+ [BreakthroughHorse], każda Moneta tej zdolności to [SuperCoin]s</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Mając 3+ [BreakthroughHorse], Nałóż 1 dodatkowe [Binding]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 2+ [LegStrengthHorseYisang], Nałóż <style=\"highlight\">2</style> [ConcussionYisang]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rozbieg Przed Szarżą.",
+          "desc": "[CanDuelGuard] \n[StartBattle] Zyskaj 3 [LegStrengthHorseYisang] na początku następnej tury<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rozbieg Przed Szarżą.",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj 3 [LegStrengthHorseYisang] na początku następnej tury\n<style=\"highlight\">[EndBattle] Usuń na sobie 1 losowy negatywny efekt, który może być usunięty (raz na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011405,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy [黑風馬脚月斬]",
+          "desc": "+ 1 Ostatecznej Mocy jeśli ta jednostka jest szybsza od celu\n[WhenUse] Przyznaj wszystkim sojusznikom 1 [BattlefieldHorse] na początku następnej tury (raz na turę)\n[WhenUse] Zyskaj 3 [LegStrengthHorseYisang]\n[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)\n[WinDuel] Jeśli ta jednostka jest szybsza od celu, zadaj +50% obrażeń<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ConcussionYisang]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sierpowaty Ścinacz Głów Obsydianowego Jeźdźca Nawałnicy [黑風馬脚月斬]",
+          "desc": "+ 1 Ostatecznej Mocy jeśli ta jednostka jest szybsza od celu\n[WhenUse] Przyznaj wszystkim sojusznikom 1 [BattlefieldHorse] na początku następnej tury (raz na turę)\n[WhenUse] Zyskaj 3 [LegStrengthHorseYisang]\n[WhenUse] +1 Mocy Monet za każde 5 ([Burst] + [Vibration]) na celu (maks 2)\n[WinDuel] jeśli ta jednostka jest szybsza od celu, zadaj +50% obrażeń\n<style=\"highlight\">[WinDuel] Nałóż 1 [ConcussionYisang] na główny cel</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ConcussionYisang]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
