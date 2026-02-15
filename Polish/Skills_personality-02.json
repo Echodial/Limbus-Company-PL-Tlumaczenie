@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "Ochrona Klientów",
-          "desc": "[WhenUse] Nałóż 2 [DefenseUp] na Sojusznika z najniższym %HP (3 razy na turę)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Nałóż 2 [DefenseUp] na Sojusznika z najniższym %PŻ (3 razy na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "Ochrona Klientów",
-          "desc": "[WhenUse] Nałóż 3 [DefenseUp] na Sojusznika z najniższym %HP (3 razy na turę)\nPrzy 5+ [DefenseUp], Moc Starcia +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Nałóż 3 [DefenseUp] na Sojusznika z najniższym %PŻ (3 razy na turę)\nPrzy 5+ [DefenseUp], Moc Starcia +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "Ochrona Klientów",
-          "desc": "[WhenUse] Nałóż 4 [DefenseUp] na Sojusznika z najniższym %HP (3 razy na turę)\nPrzy 5+ [DefenseUp], Moc Starcia +2<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Nałóż 4 [DefenseUp] na Sojusznika z najniższym %PŻ (3 razy na turę)\nPrzy 5+ [DefenseUp], Moc Starcia +2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -145,13 +145,13 @@
         {
           "level": 3,
           "name": "Przywracanie Porządku",
-          "desc": "Przy 5+ [DefenseUp], +1 Mocy Monety\n[WinDuel] Ulecz 2 HP<style=\"highlight\"></style>",
+          "desc": "Przy 5+ [DefenseUp], +1 Mocy Monety\n[WinDuel] Ulecz 2 PŻ<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Nałóż 1 [Agility] oraz 2 [DefenseUp] na Sojusznika z najniższym %HP na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "Nałóż 1 [Agility] oraz 2 [DefenseUp] na Sojusznika z najniższym %PŻ na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -160,13 +160,13 @@
         {
           "level": 4,
           "name": "Przywracanie Porządku",
-          "desc": "Przy 5+ [DefenseUp], +1 Mocy Monety\n[WinDuel] Ulecz 4 HP<style=\"highlight\"></style>",
+          "desc": "Przy 5+ [DefenseUp], +1 Mocy Monety\n[WinDuel] Ulecz 4 PŻ<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Nałóż 1 [Agility] oraz 2 [DefenseUp] na Sojusznika z najniższym %HP na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "Nałóż 1 [Agility] oraz 2 [DefenseUp] na Sojusznika z najniższym %PŻ na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "Jeśli wspomniany Sojusznik należy do Stoważyszenia Zwei, Nałóż na nich dodaktowe 1 [Agility], 1 [DefenseUp]<style=\"highlight\"></style>"
@@ -282,7 +282,7 @@
         {
           "level": 2,
           "name": "Symfonia Metalowych Ciosów",
-          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej umiejętności\n[WhenUse] Zyskaj +4 Ilości [Vibration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej Umiejętności\n[WhenUse] Zyskaj +4 Ilości [Vibration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -310,7 +310,7 @@
         {
           "level": 4,
           "name": "Symfonia Metalowych Ciosów",
-          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej umiejętności\n[WhenUse] Zyskaj +4 Ilości [Vibration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej Umiejętności\n[WhenUse] Zyskaj +4 Ilości [Vibration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -343,7 +343,7 @@
         {
           "level": 3,
           "name": "Wyładowanie Emocji",
-          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej umiejętności (maks +2)\n[DefeatDuel] Strać 20 SP\nZadaj 3% dodatkowych obrażeń za każdy unikalny negatywny status na przeciwniku (maks 15%)\n[EnemyKill] Zyskaj +2 Ilości [Vibration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej Umiejętności (maks +2)\n[DefeatDuel] Strać 20 SP\nZadaj 3% dodatkowych obrażeń za każdy unikalny negatywny status na przeciwniku (maks 15%)\n[EnemyKill] Zyskaj +2 Ilości [Vibration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -371,7 +371,7 @@
         {
           "level": 4,
           "name": "Wyładowanie Emocji",
-          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej umiejętności (maks +2)\n[DefeatDuel] Strać 20 SP\nZadaj 6% dodatkowych obrażeń za każdy unikalny negatywny status na przeciwniku (maks 30%)\n[EnemyKill] Zyskaj +2 Ilości [Vibration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zużyj 5 Ilości [Vibration] oraz Zyskaj +1 Waga Ataku dla tej Umiejętności (maks +2)\n[DefeatDuel] Strać 20 SP\nZadaj 6% dodatkowych obrażeń za każdy unikalny negatywny status na przeciwniku (maks 30%)\n[EnemyKill] Zyskaj +2 Ilości [Vibration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -872,7 +872,7 @@
         {
           "level": 1,
           "name": "Ładowanie Przeciwnego Prądu",
-          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% HP aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -888,7 +888,7 @@
         {
           "level": 2,
           "name": "Ładowanie Przeciwnego Prądu",
-          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% HP aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -904,7 +904,7 @@
         {
           "level": 4,
           "name": "Ładowanie Przeciwnego Prądu",
-          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% HP aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {},
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "Na Oślep Do Ognia",
-          "desc": "[StartBattle] Zyskaj 7 [Combustion] oraz +1 Ilości [Combustion]\n[BeforeUse] Przy 30+ [Combustion], aktywuj zamiast tego 'Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】’\n[WhenUse] Zadaj +7.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 30%)\n[WhenUse] Przy 10+ ([Combustion] na sobie + [Combustion] na przeciwniku), Moc Bazowa +1\n[WhenUse] Jeśli brakujące HP tej jednostki wynosi 30%+ maks HP, +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zyskaj 7 [Combustion] oraz +1 Ilości [Combustion]\n[BeforeUse] Przy 30+ [Combustion], aktywuj zamiast tego 'Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】’\n[WhenUse] Zadaj +7.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 30%)\n[WhenUse] Przy 10+ ([Combustion] na sobie + [Combustion] na przeciwniku), Moc Bazowa +1\n[WhenUse] Jeśli wartość brakujących PŻ tej jednostki wynosi 30%+ maks wartości PŻ, +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "Na Oślep Do Ognia",
-          "desc": "[StartBattle] Zyskaj 7 [Combustion] oraz +1 Ilości [Combustion]\n[BeforeUse] Przy 30+ [Combustion], aktywuj zamiast tego 'Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】’\n[WhenUse] Zadaj +12.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 50%)\n[WhenUse] Moc Bazowa +1 za każde 10 ([Combustion] na sobie + [Combustion] na przeciwniku) (maks 2)\n[WhenUse] Jeśli brakujące HP tej jednostki wynosi 30%+ maks HP, +1 Mocy Monety (maks 2)<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zyskaj 7 [Combustion] oraz +1 Ilości [Combustion]\n[BeforeUse] Przy 30+ [Combustion], aktywuj zamiast tego 'Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】’\n[WhenUse] Zadaj +12.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 50%)\n[WhenUse] Moc Bazowa +1 za każde 10 ([Combustion] na sobie + [Combustion] na przeciwniku) (maks 2)\n[WhenUse] Jeśli wartość brakujących PŻ tej jednostki wynosi 30%+ maks wartości PŻ, +1 Mocy Monety (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1275,7 +1275,7 @@
         {
           "level": 1,
           "name": "Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】",
-          "desc": "Ta jednostka Umiera po użyciu tej umiejętności.\n- Jeśli HP tej jednostki spadnie do 1 lub niżej podczas używania tej umiejętności, nie spadnie ono niżej aż do jej końca.\n[WhenUse] Zadaj +7.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 30%)\n[WhenUse] Przy 10+ ([Combustion] na sobie + [Combustion] na przeciwniku), Moc Bazowa +1\n[WhenUse] +1 Mocy Monety za każde 30% brakującego HP na sobie (maks 2)\n[BeforeAttack] Waga Ataku +1 za każde 20% brakującego HP na sobie (maks 2)<style=\"highlight\"></style>",
+          "desc": "Ta jednostka Umiera po użyciu tej Umiejętności.\n- Jeśli PŻ tej jednostki spadną do 1 lub niżej podczas używania tej Umiejętności, nie spadną one niżej aż do jej końca.\n[WhenUse] Zadaj +7.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 30%)\n[WhenUse] Przy 10+ ([Combustion] na sobie + [Combustion] na przeciwniku), Moc Bazowa +1\n[WhenUse] +1 Mocy Monety za każde 30% brakujących PŻ na sobie (maks 2)\n[BeforeAttack] Waga Ataku +1 za każde 20% brakujących PŻ na sobie (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1303,7 +1303,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj +10% więcej Obrażeń za każde 20% brakującego HP na sobie (maks 30%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj +10% więcej Obrażeń za każde 20% brakujących PŻ na sobie (maks 30%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】",
-          "desc": "Ta jednostka Umiera po użyciu tej umiejętności.\n- Jeśli HP tej jednostki spadnie do 1 lub niżej podczas używania tej umiejętności, nie spadnie ono niżej aż do jej końca.\n[WhenUse] Zadaj +12.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 50%)\n[WhenUse] Moc Bazowa +1 za każde 10 ([Combustion] na sobie + [Combustion] na przeciwniku) (maks 2)\n[WhenUse] +1 Mocy Monety za każde 30% brakującego HP na sobie (maks 3)\n[BeforeAttack] Waga Ataku +1 za każde 20% brakującego HP na sobie (maks 4)<style=\"highlight\"></style>",
+          "desc": "Ta jednostka Umiera po użyciu tej Umiejętności.\n- Jeśli PŻ tej jednostki spadną do 1 lub niżej podczas używania tej Umiejętności, nie spadną one niżej aż do jej końca.\n[WhenUse] Zadaj +12.5% więcej Obrażeń za każde 5 [Combustion] na sobie (maks 50%)\n[WhenUse] Moc Bazowa +1 za każde 10 ([Combustion] na sobie + [Combustion] na przeciwniku) (maks 2)\n[WhenUse] +1 Mocy Monety za każde 30% brakujących PŻ na sobie (maks 3)\n[BeforeAttack] Waga Ataku +1 za każde 20% brakujących PŻ na sobie (maks 4)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1340,7 +1340,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj +10% więcej Obrażeń za każde 20% brakującego HP na sobie (maks 30%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj +10% więcej Obrażeń za każde 20% brakujących PŻ na sobie (maks 30%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1581,7 +1581,7 @@
         {
           "level": 1,
           "name": "Tak Się Stanie.",
-          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Ataku za każde 10% HP łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks HP podczas aktywacji umiejętności)\n[WhenUse] Zyskaj 3 [LegStrength]<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Ataku za każde 10% PŻ łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks wartości PŻ przy aktywacji Umiejętności)\n[WhenUse] Zyskaj 3 [LegStrength]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1602,7 +1602,7 @@
         {
           "level": 4,
           "name": "Tak Się Stanie.",
-          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Ataku za każde 10% HP łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks HP podczas aktywacji umiejętności)\n[WhenUse] Zyskaj 3 [LegStrength]\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka jest szybsza od celu o 2+ prędkości, zyskaj Moc Bazową na podstawie Różnicy Prędkości (Moc Bazowa +1 za każde 2 Różnicy Prędkości; maks 2)</style>",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Ataku za każde 10% PŻ łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks wartości PŻ przy aktywacji Umiejętności)\n[WhenUse] Zyskaj 3 [LegStrength]\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka jest szybsza od celu o 2+ prędkości, zyskaj Moc Bazową na podstawie Różnicy Prędkości (Moc Bazowa +1 za każde 2 Różnicy Prędkości; maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1722,7 +1722,7 @@
         {
           "level": 1,
           "name": "Prędka Ochrona",
-          "desc": "[CanDuelGuard]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\n[BeforeUse] Przy 10+ [EnhanceZilu], aktywuj zamiast tego 'Technika Wyróżnionej Mao: Rozstąpienie Chmur'\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Obrony za każde 10% HP łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks HP podczas aktywacji umiejętności)\n[WhenUse] Ta jednostka nie może być Zachwiana aż do końca tej umiejętności\n[WhenUse] Zyskaj 2 [Protection] (raz na turę)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\n[BeforeUse] Przy 10+ [EnhanceZilu], aktywuj zamiast tego 'Technika Wyróżnionej Mao: Rozstąpienie Chmur'\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Obrony za każde 10% PŻ łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks wartości PŻ przy aktywacji Umiejętności)\n[WhenUse] Ta jednostka nie może być Zachwiana aż do końca tej Umiejętności\n[WhenUse] Zyskaj 2 [Protection] (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1736,7 +1736,7 @@
         {
           "level": 4,
           "name": "Prędka Ochrona",
-          "desc": "[CanDuelGuard]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\n[BeforeUse] Przy 10+ [EnhanceZilu], aktywuj zamiast tego 'Technika Wyróżnionej Mao: Rozstąpienie Chmur'\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Obrony za każde 10% HP łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks HP podczas aktywacji umiejętności)\n[WhenUse] Ta jednostka nie może być Zachwiana aż do końca tej umiejętności\n[WhenUse] Zyskaj 2 [Protection] (raz na turę)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\n[BeforeUse] Przy 10+ [EnhanceZilu], aktywuj zamiast tego 'Technika Wyróżnionej Mao: Rozstąpienie Chmur'\n[WhenUse] Ta umiejętność zyskuje +1 Poziom Obrony za każde 10% PŻ łącznie stracone przez tą jednostkę w tej walce (maks 6; kalkulowane na podstawie maks wartości PŻ przy aktywacji Umiejętności)\n[WhenUse] Ta jednostka nie może być Zachwiana aż do końca tej Umiejętności\n[WhenUse] Zyskaj 2 [Protection] (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2013,7 +2013,7 @@
         {
           "level": 3,
           "name": "Rozkładanie Łukoklingi [弓刀]",
-          "desc": "<style=\"highlight\">Jeśli ta jedonstka nie posiada [ArrowShiFau], aktywuj zamiast tego \"Unik\" \n\n[StartBattle] Jeśli ta jednostka ma użyć \"Błysk Łuku\", aktywuj zamiast tego \"Unik\"\n[StartBattle] Jeśli jednostka ta posiada [SnipingArrowMode], zyskaj (36 / [AimForTheGoal] na sobie) Tarczy (raz na turę)\n\n[EndBattle] Jeśli jednostka ta posiada [SnipingArrowMode], i nie użyła podczas tej tury żadnych Atakujących Umiejetności, zyskaj 1 [AimForTheGoal] na początku następnej tury (raz na turę)\n[EndBattle] Jeśli ta jedonstka nie posiada [SnipingArrowMode], oraz ma 1+ [ArrowShiFau], zyskaj 1 [SnipingArrowMode] oraz [AimForTheGoal] na początku następnej tury (raz na turę)</style>",
+          "desc": "<style=\"highlight\">Jeśli ta jednostka nie posiada [ArrowShiFau], aktywuj zamiast tego \"Unik\" \n\n[StartBattle] Jeśli ta jednostka ma użyć \"Błysk Łuku\", aktywuj zamiast tego \"Unik\"\n[StartBattle] Jeśli jednostka ta posiada [SnipingArrowMode], zyskaj (36 / [AimForTheGoal] na sobie) Tarczy (raz na turę)\n\n[EndBattle] Jeśli jednostka ta posiada [SnipingArrowMode], i nie użyła podczas tej tury żadnych Atakujących Umiejetności, zyskaj 1 [AimForTheGoal] na początku następnej tury (raz na turę)\n[EndBattle] Jeśli ta jednostka nie posiada [SnipingArrowMode], oraz ma 1+ [ArrowShiFau], zyskaj 1 [SnipingArrowMode] oraz [AimForTheGoal] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2027,7 +2027,7 @@
         {
           "level": 4,
           "name": "Rozkładanie Łukoklingi [弓刀]",
-          "desc": "Jeśli ta jedonstka nie posiada [ArrowShiFau], aktywuj zamiast tego \"Unik\" \n\n[StartBattle] Jeśli ta jednostka ma użyć \"Błysk Łuku\", aktywuj zamiast tego \"Unik\"\n[StartBattle] Jeśli jednostka ta posiada [SnipingArrowMode], zyskaj (<style=\"highlight\">60</style> / [AimForTheGoal] na sobie) Tarczy (raz na turę)\n\n[EndBattle] Jeśli jednostka ta posiada [SnipingArrowMode], i nie użyła podczas tej tury żadnych Atakujących Umiejetności, zyskaj 1 [AimForTheGoal] na początku następnej tury (raz na turę)\n[EndBattle] Jeśli ta jedonstka nie posiada [SnipingArrowMode], oraz ma 1+ [ArrowShiFau], zyskaj 1 [SnipingArrowMode] oraz [AimForTheGoal] na początku następnej tury (raz na turę)",
+          "desc": "Jeśli ta jednostka nie posiada [ArrowShiFau], aktywuj zamiast tego \"Unik\" \n\n[StartBattle] Jeśli ta jednostka ma użyć \"Błysk Łuku\", aktywuj zamiast tego \"Unik\"\n[StartBattle] Jeśli jednostka ta posiada [SnipingArrowMode], zyskaj (<style=\"highlight\">60</style> / [AimForTheGoal] na sobie) Tarczy (raz na turę)\n\n[EndBattle] Jeśli jednostka ta posiada [SnipingArrowMode], i nie użyła podczas tej tury żadnych Atakujących Umiejetności, zyskaj 1 [AimForTheGoal] na początku następnej tury (raz na turę)\n[EndBattle] Jeśli ta jednostka nie posiada [SnipingArrowMode], oraz ma 1+ [ArrowShiFau], zyskaj 1 [SnipingArrowMode] oraz [AimForTheGoal] na początku następnej tury (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -2121,19 +2121,19 @@
         {
           "level": 1,
           "name": "Bezbłędnie, Tak Jak Nakaz Wymaga",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +10% damage\n[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], zadaj +10% Obrażeń\n[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2142,19 +2142,19 @@
         {
           "level": 2,
           "name": "Bezbłędnie, Tak Jak Nakaz Wymaga",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +10% damage\n<style=\"highlight\">At 6+ ([Breath] on self + [Sinking] on target), Coin Power +1</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], zadaj +10% Obrażeń\n<style=\"highlight\">Przy 6+ ([Breath] na sobie + [Sinking] na celu), +1 Mocy Monet</style>\n[WhenUse] Zyskaj +2 Ilości [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2163,22 +2163,22 @@
         {
           "level": 4,
           "name": "Bezbłędnie, Tak Jak Nakaz Wymaga",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Clash Power +1</style> and deal <style=\"highlight\">+20%</style> damage\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">+1 Mocy Starcia</style> oraz zadaj <style=\"highlight\">+20%</style> Obrażeń\n<style=\"highlight\">+1 Mocy Monet za każde 6 ([Breath] na sobie + [Sinking] na celu) (maks 2)</style>\n[WhenUse] Zyskaj +2 Ilości [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [Sinking]</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Nałóż 1 [Sinking]</style>"
                 }
               ]
             }
@@ -2192,12 +2192,12 @@
         {
           "level": 1,
           "name": "Podejmij Się Nakazom, Wypełnij Je Jeden Po Drugim",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], Clash Power +1\n[WhenUse] Gain 3 [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], +1 Mocy Starcia\n[WhenUse] Zyskaj 3 [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2205,7 +2205,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2214,26 +2214,26 @@
         {
           "level": 2,
           "name": "Podejmij Się Nakazom, Wypełnij Je Jeden Po Drugim",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], Clash Power +1\n<style=\"highlight\">At 6+ ([Breath] on self + [Sinking] on target), Coin Power +1</style>\n[WhenUse] Gain 3 [Breath] and <style=\"highlight\">+1 [Breath] Count</style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], +1 Mocy Starcia\n<style=\"highlight\">Przy 6+ ([Breath] na sobie + [Sinking] na celu), +1 Mocy Monet</style>\n[WhenUse] Zyskaj 3 [Breath] oraz <style=\"highlight\">+1 Ilości [Breath]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Sinking]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Sinking]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2242,29 +2242,29 @@
         {
           "level": 4,
           "name": "Podejmij Się Nakazom, Wypełnij Je Jeden Po Drugim",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Final Power +1</style>\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Gain 3 [Breath] and <style=\"highlight\">+2</style> [Breath] Count",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">+1 Mocy Finalnej</style>\n<style=\"highlight\">+1 Mocy Monet za każde 6 ([Breath] na sobie + [Sinking] na celu) (maks 2)</style>\n[WhenUse] Zyskaj 3 [Breath] oraz <style=\"highlight\">+2</style> Ilości [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [Breath]"
+                  "desc": "[OnSucceedAttack] Zyskaj <style=\"highlight\">2</style> [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict +2 [Sinking] Count</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Nałóż +2 Ilości [Sinking]</style>"
                 }
               ]
             }
@@ -2278,32 +2278,32 @@
         {
           "level": 3,
           "name": "Zgodnie z Wolą Nakazu, Zostaniecie Wyeliminowani.",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +20% damage on Critical Hit\nAt 6+ ([Breath] on self + [Sinking] on target), Coin Power +1\n[StartBattle] At 6+ [BlessingOfIndexPrescriptAlly], convert all Coins of this Skill to [SuperCoin]s\n[WhenUse] Gain +3 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], zadaj +20% Obrażeń przy Trafieniu Krytycznym\nPrzy 6+ ([Breath] na sobie + [Sinking] na celu), +1 Mocy Monet\n[StartBattle] Przy 6+ [BlessingOfIndexPrescriptAlly], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] Zyskaj +3 Ilości [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% damage for every [BlessingOfIndexPrescriptAlly] (max 20%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +30% damage instead<style=\"highlight\"></style>"
+                  "desc": "Zadaj +2.5% Obrażeń za każde [BlessingOfIndexPrescriptAlly] (maks 20%)\n- Przy 9 [BlessingOfIndexPrescriptAlly], zadaj zamiast tego +30% Obrażeń<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +2 Ilości [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2312,32 +2312,32 @@
         {
           "level": 4,
           "name": "Zgodnie z Wolą Nakazu, Zostaniecie Wyeliminowani.",
-          "desc": "If this Skill is marked with [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Final Power +1</style> and deal <style=\"highlight\">+30%</style> damage on Critical Hit\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[StartBattle] At 6+ [BlessingOfIndexPrescriptAlly], convert all Coins of this Skill to [SuperCoin]s and <style=\"highlight\">deal +30% damage</style>\n[WhenUse] Gain +3 [Breath] Count\n<style=\"highlight\">- Gain Poise equal to ([BlessingOfIndexPrescriptAlly]/3) (rounded down)</style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">+1 Mocy Finalnej</style> oraz zadaj <style=\"highlight\">+30%</style> Obrażeń przy Trafieniu Krytycznym\n<style=\"highlight\">+1 Mocy Monet za każde 6 ([Breath] na sobie + [Sinking] na celu) (maks 2)</style>\n[StartBattle] Przy 6+ [BlessingOfIndexPrescriptAlly], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s oraz <style=\"highlight\">zadaj +30% Obrażeń</style>\n[WhenUse] Zyskaj +3 Ilości [Breath]\n<style=\"highlight\">- Zyskaj wartość Nasilenia [Breath] równą ([BlessingOfIndexPrescriptAlly]/3) (zaokrąglone w dół)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+5%</style> damage for every [BlessingOfIndexPrescriptAlly] (max <style=\"highlight\">40%</style>)\n- At 9 [BlessingOfIndexPrescriptAlly], deal <style=\"highlight\">+60%</style> damage instead"
+                  "desc": "Zadaj <style=\"highlight\">+5%</style> Obrażeń za każde [BlessingOfIndexPrescriptAlly] (maks <style=\"highlight\">40%</style>)\n- Przy 9 [BlessingOfIndexPrescriptAlly], zadaj zamiast tego <style=\"highlight\">+60%</style> Obrażeń"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Sinking] Count"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości [Sinking]"
                 }
               ]
             }
@@ -2351,20 +2351,20 @@
         {
           "level": 1,
           "name": "Tkanina Przez Nakaz Uszyta i Przez Nakaz Mi Dana",
-          "desc": "Final Power +1 for every 3 [BlessingOfIndexPrescriptAlly] (max 3)\n[StartBattle] Gain Shield equal to 10% of max HP (once per turn)\n- Reduce Shield gained by 1% for every 5 [KarmaOfIndexAlly]; at 50+ [KarmaOfIndexAlly], does not gain Shield\n[WhenUse] Gain 2 [Breath]<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Finalnej za każde 3 [BlessingOfIndexPrescriptAlly] (maks 3)\n[StartBattle] Zyskaj wartość Tarczy równą 10% swojej maksymalnej wartości PŻ (raz na turę)\n- Obniż wartość zdobytej w ten sposób Tarczy o 1% za każde 5 [KarmaOfIndexAlly]; przy 50+ [KarmaOfIndexAlly], ta jednostka nie zyskuje dzięki temu efektowi Tarczy\n[WhenUse] Zyskaj 2 [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2373,20 +2373,20 @@
         {
           "level": 4,
           "name": "Tkanina Przez Nakaz Uszyta i Przez Nakaz Mi Dana",
-          "desc": "Final Power +1 and <style=\"highlight\">deal +10% damage</style> for every 3 [BlessingOfIndexPrescriptAlly] (max 3 and <style=\"highlight\">30%</style>, respectively)\n[StartBattle] Gain Shield equal to <style=\"highlight\">15%</style> of max HP (once per turn)\n- Reduce Shield gained by <style=\"highlight\">1.5%</style> for every 5 [KarmaOfIndexAlly]; at 50+ [KarmaOfIndexAlly], does not gain Shield\n[WhenUse] Gain 2 [Breath]",
+          "desc": "+1 Mocy Finalnej oraz <style=\"highlight\">zadaj +10% Obrażeń</style> za każde 3 [BlessingOfIndexPrescriptAlly] (maks 3 oraz <style=\"highlight\">30%</style>, w tej kolejności)\n[StartBattle] Zyskaj wartość Tarczy równą <style=\"highlight\">15%</style> swojej maksymalnej wartości PŻ (raz na turę)\n- Obniż wartość zdobytej w ten sposób Tarczy o <style=\"highlight\">1.5%</style> za każde 5 [KarmaOfIndexAlly]; przy 50+ [KarmaOfIndexAlly], ta jednostka nie zyskuje dzięki temu efektowi Tarczy\n[WhenUse] Zyskaj 2 [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
