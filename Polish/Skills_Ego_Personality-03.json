@@ -149,12 +149,12 @@
           "level": 1,
           "name": "Elektryczny Wrzask",
           "abName": "Śniąca Elektryczna Owca",
-          "desc": "[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 1)\n[BeforeAttack] Jeśli ta jednostka ma 20+ Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>, Zużyj 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +30% więcej obrażeń<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 1)\n[BeforeAttack] Jeśli ta jednostka ma 20+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Zużyj 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +30% więcej obrażeń<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -164,12 +164,12 @@
           "level": 3,
           "name": "Elektryczny Wrzask",
           "abName": "Śniąca Elektryczna Owca",
-          "desc": "[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 2)\n[BeforeAttack] Zadaj ((Rezon. Zazdrości - 3) x 5)% więcej obrażeń (maks 15%)\n[BeforeAttack] Jeśli ta jednostka ma 20+ Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>, Zużyj 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +35% więcej obrażeń<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 2)\n[BeforeAttack] Zadaj ((Rezon. Zazdrości - 3) x 5)% więcej obrażeń (maks 15%)\n[BeforeAttack] Jeśli ta jednostka ma 20+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Zużyj 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +35% więcej obrażeń<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -179,12 +179,12 @@
           "level": 4,
           "name": "Elektryczny Wrzask",
           "abName": "Śniąca Elektryczna Owca",
-          "desc": "[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 3)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x 10)% więcej obrażeń (maks 30%)\n[BeforeAttack] Jeśli ta jednostka ma 20+ Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>, Zużyj 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +40% więcej obrażeń<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 3)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x 10)% więcej obrażeń (maks 30%)\n[BeforeAttack] Jeśli ta jednostka ma 20+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Zużyj 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +40% więcej obrażeń<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -199,12 +199,12 @@
           "level": 1,
           "name": "Elektryczny Wrzask",
           "abName": "Śniąca Elektryczna Owca",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 1)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x 5)% więcej obrażeń (maks 15%)\n[BeforeAttack] Mając mniej niż 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 1.5% maks HP tej jednostki za każdą brakującą Ilość by podnieść ją do 20\n[BeforeAttack] Zużyj do 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +2.5% więcej obrażeń za każdą zużytą Ilość (maks 50%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks 1)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x 5)% więcej obrażeń (maks 15%)\n[BeforeAttack] Mając mniej niż 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 1.5% maks HP tej jednostki za każdą brakującą Ilość by podnieść ją do 20\n[BeforeAttack] Zużyj do 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +2.5% więcej obrażeń za każdą zużytą Ilość (maks 50%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -214,12 +214,12 @@
           "level": 3,
           "name": "Elektryczny Wrzask",
           "abName": "Śniąca Elektryczna Owca",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks <style=\"highlight\">2</style>)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x <style=\"highlight\">8</style>)% więcej obrażeń (maks <style=\"highlight\">24</style>%)\n[BeforeAttack] Mając mniej niż 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 1.5% maks HP tej jednostki za każdą brakującą Ilość by podnieść ją do 20\n[BeforeAttack] Zużyj do 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +<style=\"highlight\">3.5</style>% więcej obrażeń za każdą zużytą Ilość (maks <style=\"highlight\">70</style>%)",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks <style=\"highlight\">2</style>)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x <style=\"highlight\">8</style>)% więcej obrażeń (maks <style=\"highlight\">24</style>%)\n[BeforeAttack] Mając mniej niż 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 1.5% maks HP tej jednostki za każdą brakującą Ilość by podnieść ją do 20\n[BeforeAttack] Zużyj do 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +<style=\"highlight\">3.5</style>% więcej obrażeń za każdą zużytą Ilość (maks <style=\"highlight\">70</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -229,12 +229,12 @@
           "level": 4,
           "name": "Elektryczny Wrzask",
           "abName": "Śniąca Elektryczna Owca",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x <style=\"highlight\">12</style>)% więcej obrażeń (maks <style=\"highlight\">36</style>%)\n[BeforeAttack] Mając mniej niż 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>, zużyj <style=\"highlight\">1</style>% maks HP tej jednostki za każdą brakującą Ilość by podnieść ją do 20\n[BeforeAttack] Zużyj do 20 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +<style=\"highlight\">5</style>% więcej obrażeń za każdą zużytą Ilość (maks <style=\"highlight\">100</style>%)",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj (Rezon. Zazdrości - 2) Wagi Ataku (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Zadaj +((Rezon. Zazdrości - 3) x <style=\"highlight\">12</style>)% więcej obrażeń (maks <style=\"highlight\">36</style>%)\n[BeforeAttack] Mając mniej niż 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj <style=\"highlight\">1</style>% maks HP tej jednostki za każdą brakującą Ilość by podnieść ją do 20\n[BeforeAttack] Zużyj do 20 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +<style=\"highlight\">5</style>% więcej obrażeń za każdą zużytą Ilość (maks <style=\"highlight\">100</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -290,7 +290,7 @@
                   "desc": "Przy 300+ <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>: zadaj +0.1% więcej obrażeń za każdą jej wartość (maks 30%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000<u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000><u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -341,7 +341,7 @@
                   "desc": "Przy 300+ <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>: zadaj +0.1% więcej obrażeń za każdą jej wartość (maks <style=\"highlight\">40</style>%)"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000<u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000><u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -392,7 +392,7 @@
                   "desc": "Przy 300+ <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>: zadaj +0.1% więcej obrażeń za każdą jej wartość (maks <style=\"highlight\">50</style>%)"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000<u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks <style=\"highlight\">4</style>)"
+                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000><u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks <style=\"highlight\">4</style>)"
                 }
               ]
             }
@@ -425,7 +425,7 @@
                   "desc": "Zadaj +5% więcej obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 25%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000<u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000><u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks 3)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[WinDuelAttack] Ulecz się o 50% zadanych obrażeń HP (maks 10)<style=\"highlight\"></style>"
@@ -456,7 +456,7 @@
                   "desc": "Zadaj +<style=\"highlight\">10</style>% więcej obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks <style=\"highlight\">50</style>%)"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000<u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks <style=\"highlight\">4</style>)"
+                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000><u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks <style=\"highlight\">4</style>)"
                 },
                 {
                   "desc": "[WinDuelAttack] Ulecz się o 50% zadanych obrażeń HP (maks 10)<style=\"highlight\"></style>"
@@ -487,7 +487,7 @@
                   "desc": "Zadaj +<style=\"highlight\">20</style>% więcej obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks <style=\"highlight\">100</style>%)"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000<u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks <style=\"highlight\">5</style>)"
+                  "desc": "[WinDuelAttack] Nałóż <sprite name=\"ThirstyRose\"><color=#e30000><u><link=\"ThirstyRose\">Polidypsyjną Różę</link></u></color> równą najwyższemu A-Rezonansowi Żądzy (maks <style=\"highlight\">5</style>)"
                 },
                 {
                   "desc": "[WinDuelAttack] Ulecz się o 50% zadanych obrażeń HP (maks 10)<style=\"highlight\"></style>"
@@ -510,17 +510,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (4 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000<u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż (4 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000><u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 4) Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 4) Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -535,7 +535,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (4 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000<u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż (4 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000><u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -545,10 +545,10 @@
                   "desc": "<style=\"highlight\">Zadaj +3% obrażeń za każdy [EntangledCurseTalisman] na celu (maks 30%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 4) Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 4) Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -563,7 +563,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (4 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000<u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż (4 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000><u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -573,10 +573,10 @@
                   "desc": "Zadaj +<style=\"highlight\">5</style>% obrażeń za każdy [EntangledCurseTalisman] na celu (maks <style=\"highlight\">50</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">4</style>, zaokrąglone w dół)"
+                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">4</style>, zaokrąglone w dół)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 4) Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 4) Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -596,7 +596,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (6 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000<u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż (6 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000><u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -606,10 +606,10 @@
                   "desc": "Zadaj +5% obrażeń za każdy [EntangledCurseTalisman] na celu (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 3) Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 3) Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -624,7 +624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (6 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000<u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż (6 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000><u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -634,10 +634,10 @@
                   "desc": "Zadaj +<style=\"highlight\">10</style>% obrażeń za każdy [EntangledCurseTalisman] na celu (maks <style=\"highlight\">100</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 3, zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 3) Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 3) Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -652,7 +652,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (6 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000<u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż (6 + Rezon. Obżarstwa) <sprite name=\"EntangledCurseTalisman\"><color=#e30000><u><link=\"EntangledCurseTalisman\">Talizmanu Skrzywionej Klątwy</link></u></color> (maks 10)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -662,10 +662,10 @@
                   "desc": "Zadaj +10% obrażeń za każdy [EntangledCurseTalisman] na celu (maks 100%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">4</style>, zaokrąglone w dół)"
+                  "desc": "[OnSucceedAttack] Nałóż ([EntangledCurseTalisman] na celu / 2) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">4</style>, zaokrąglone w dół)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 3) Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +([EntangledCurseTalisman] na celu / 3) Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2, zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -680,7 +680,7 @@
           "level": 1,
           "name": "W Imieniu Miłości Oraz Nienawiści - Większa Sługa Arkan!!!",
           "abName": "Królowa Nienawiści",
-          "desc": "[BeforeAttack] Przyznaj 1 <sprite name=\"MagicalGirlResponse\"><color=#e30000<u><link=\"MagicalGirlResponse\">Intonację Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / 3)) losowym innym sojusznikom (maks 3 sojuszników)\n\n[BeforeAttack] Zyskaj +([Charge] - 1) Wagi Ataku (maks 3)\n\n[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> na sobie by uleczyć (2 + (Rezon. Zazdrości / 2)) sojuszników z najniższym procentem HP o (zużyta Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>)% HP (maks 5 sojuszników, maks 5%)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"ArcanaQueenOfHate\"><color=#e30000<u><link=\"ArcanaQueenOfHate\">Magiczną Arkanę</link></u></color><style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Przyznaj 1 <sprite name=\"MagicalGirlResponse\"><color=#ffc700><u><link=\"MagicalGirlResponse\">Intonację Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / 3)) losowym innym sojusznikom (maks 3 sojuszników)\n\n[BeforeAttack] Zyskaj +([Charge] - 1) Wagi Ataku (maks 3)\n\n[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie by uleczyć (2 + (Rezon. Zazdrości / 2)) sojuszników z najniższym procentem HP o (zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>)% HP (maks 5 sojuszników, maks 5%)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"ArcanaQueenOfHate\"><color=#e30000><u><link=\"ArcanaQueenOfHate\">Magiczną Arkanę</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -688,7 +688,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (5 na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (5 na turę)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -698,10 +698,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż [VillainMark] na główny cel na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Uznaj główny cel za <sprite name=\"VillainMark\"><color=#e30000><u><link=\"VillainMark\">Złoczyńcę</link></u></color> od początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks 2)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -711,7 +711,7 @@
           "level": 3,
           "name": "W Imieniu Miłości Oraz Nienawiści - Większa Sługa Arkan!!!",
           "abName": "Królowa Nienawiści",
-          "desc": "[BeforeAttack] Przyznaj 1 <sprite name=\"MagicalGirlResponse\"><color=#e30000<u><link=\"MagicalGirlResponse\">Intonację Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / 3)) losowym innym sojusznikom (maks 3 sojuszników)\n<style=\"highlight\">- Jeśli ta jednostka ma [MagicalGirlAppear], zamiast tego przyznaj 2 <sprite name=\"MagicalGirlResponse\"><color=#e30000<u><link=\"MagicalGirlResponse\">Intonacje Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / 3)) losowym innym sojusznikom (maks 3 sojuszników)</style>\n\n[BeforeAttack] Zyskaj +([Charge] - 1) Wagi Ataku (maks <style=\"highlight\">5</style>)\n[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> na sobie by uleczyć (2 + (Rezon. Zazdrości / 2)) sojuszników z najniższym procentem HP o (zużyta Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>)% HP (maks 5 sojuszników, maks <style=\"highlight\">8</style>%)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"ArcanaQueenOfHate\"><color=#e30000<u><link=\"ArcanaQueenOfHate\">Magiczną Arkanę</link></u></color>",
+          "desc": "[BeforeAttack] Przyznaj 1 <sprite name=\"MagicalGirlResponse\"><color=#ffc700><u><link=\"MagicalGirlResponse\">Intonację Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / 3)) losowym innym sojusznikom (maks 3 sojuszników)\n<style=\"highlight\">- Jeśli ta jednostka ma [MagicalGirlAppear], zamiast tego przyznaj 2 <sprite name=\"MagicalGirlResponse\"><color=#ffc700><u><link=\"MagicalGirlResponse\">Intonacje Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / 3)) losowym innym sojusznikom (maks 3 sojuszników)</style>\n\n[BeforeAttack] Zyskaj +([Charge] - 1) Wagi Ataku (maks <style=\"highlight\">5</style>)\n[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie by uleczyć (2 + (Rezon. Zazdrości / 2)) sojuszników z najniższym procentem HP o (zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>)% HP (maks 5 sojuszników, maks <style=\"highlight\">8</style>%)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"ArcanaQueenOfHate\"><color=#e30000><u><link=\"ArcanaQueenOfHate\">Magiczną Arkanę</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -719,7 +719,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (5 na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (5 na turę)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -729,10 +729,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż [VillainMark] na główny cel na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Uznaj główny cel za <sprite name=\"VillainMark\"><color=#e30000><u><link=\"VillainMark\">Złoczyńcę</link></u></color> od początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">3</style>)"
                 }
               ]
             }
@@ -742,7 +742,7 @@
           "level": 4,
           "name": "W Imieniu Miłości Oraz Nienawiści - Większa Sługa Arkan!!!",
           "abName": "Królowa Nienawiści",
-          "desc": "[BeforeAttack] Przyznaj 1 <sprite name=\"MagicalGirlResponse\"><color=#e30000<u><link=\"MagicalGirlResponse\">Intonację Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / <style=\"highlight\">2</style>)) losowym innym sojusznikom (maks <style=\"highlight\">4</style> sojuszników)\n- Jeśli ta jednostka ma [MagicalGirlAppear], zamiast tego przyznaj 2 <sprite name=\"MagicalGirlResponse\"><color=#e30000<u><link=\"MagicalGirlResponse\">Intonacje Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / <style=\"highlight\">2</style>)) losowym innym sojusznikom (maks <style=\"highlight\">4</style> sojuszników)\n\n[BeforeAttack] Zyskaj +([Charge] - 1) Wagi Ataku (maks 5)\n<style=\"highlight\">- Jeśli ta jednostka ma [MagicalGirlAppear], zamiast tego zyskaj +([Charge]) Wagi Ataku (maks 5)</style>\n\n[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> na sobie by uleczyć (2 + (Rezon. Zazdrości / 2)) sojuszników z najniższym procentem HP o (zużyta Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color>)% HP (maks 5 sojuszników, maks <style=\"highlight\">10</style>%)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"ArcanaQueenOfHate\"><color=#e30000<u><link=\"ArcanaQueenOfHate\">Magiczną Arkanę</link></u></color>",
+          "desc": "[BeforeAttack] Przyznaj 1 <sprite name=\"MagicalGirlResponse\"><color=#ffc700><u><link=\"MagicalGirlResponse\">Intonację Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / <style=\"highlight\">2</style>)) losowym innym sojusznikom (maks <style=\"highlight\">4</style> sojuszników)\n- Jeśli ta jednostka ma [MagicalGirlAppear], zamiast tego przyznaj 2 <sprite name=\"MagicalGirlResponse\"><color=#ffc700><u><link=\"MagicalGirlResponse\">Intonacje Magicznej Dziewczyny</link></u></color> (1 + (Rezon. Zazdrości / <style=\"highlight\">2</style>)) losowym innym sojusznikom (maks <style=\"highlight\">4</style> sojuszników)\n\n[BeforeAttack] Zyskaj +([Charge] - 1) Wagi Ataku (maks 5)\n<style=\"highlight\">- Jeśli ta jednostka ma [MagicalGirlAppear], zamiast tego zyskaj +([Charge]) Wagi Ataku (maks 5)</style>\n\n[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie by uleczyć (2 + (Rezon. Zazdrości / 2)) sojuszników z najniższym procentem HP o (zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>)% HP (maks 5 sojuszników, maks <style=\"highlight\">10</style>%)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"ArcanaQueenOfHate\"><color=#e30000><u><link=\"ArcanaQueenOfHate\">Magiczną Arkanę</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -750,7 +750,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">2</style> Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (<style=\"highlight\">10</style> na turę)"
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">2</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (<style=\"highlight\">10</style> na turę)"
                 }
               ]
             },
@@ -760,13 +760,13 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [VillainMark] na główny cel na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Uznaj główny cel za <sprite name=\"VillainMark\"><color=#e30000><u><link=\"VillainMark\">Złoczyńcę</link></u></color> od początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> (maks <style=\"highlight\">4</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Jeśli ta jednostka ma [MagicalGirlAppear], nakłada +1 Ilości <sprite name=\"Burst\"><color=#e30000<u><link=\"Burst\">Pęknięcia</link></u></color></style>"
+                  "desc": "<style=\"highlight\">- Jeśli ta jednostka ma [MagicalGirlAppear], nakłada +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color></style>"
                 }
               ]
             }
@@ -781,7 +781,7 @@
           "level": 1,
           "name": "Zmaksymalizowana Odwrotna Sługa Arkan - Wymazanie Nienawiści",
           "abName": "Królowa Nienawiści",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj +([Charge]) Wagi Ataku (maks 5)\n\n[BeforeAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +1% więcej obrażeń za każdą zużytą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (maks 20%)\n\n[BeforeAttack] Jeśli główny cel ma [VillainMark], zadaj +3% obrażeń za każde [Charge] (maks 15%)\n\n[BeforeAttack] Zadaj +5% obrażeń za każde 3 Rezon. Zazdrości (maks 10%, zaokrąglone w dół)\n\n[BeforeAttack] -12 Mocy Bazowej za każdą Pękniętą Monetę (maks -24)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"HystericGauge\"><color=#e30000<u><link=\"HystericGauge\">Histerii</link></u></color><style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj +([Charge]) Wagi Ataku (maks 5)\n\n[BeforeAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +1% więcej obrażeń za każdą zużytą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks 20%)\n\n[BeforeAttack] Jeśli główny cel ma [VillainMark], zadaj +3% obrażeń za każde [Charge] (maks 15%)\n\n[BeforeAttack] Zadaj +5% obrażeń za każde 3 Rezon. Zazdrości (maks 10%, zaokrąglone w dół)\n\n[BeforeAttack] -12 Mocy Bazowej za każdą Pękniętą Monetę (maks -24)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"HystericGauge\"><color=#e30000><u><link=\"HystericGauge\">Histerii</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -789,7 +789,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (7 razy na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (7 razy na turę)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -799,10 +799,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Nałóż [VillainMark] na główny cel na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Uznaj główny cel za <sprite name=\"VillainMark\"><color=#e30000><u><link=\"VillainMark\">Złoczyńcę</link></u></color> od początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Sinking\"><color=#e30000<u><link=\"Sinking\">Zrozpaczenia</link></u></color> (maks 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> (maks 2)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -812,7 +812,7 @@
           "level": 3,
           "name": "Zmaksymalizowana Odwrotna Sługa Arkan - Wymazanie Nienawiści",
           "abName": "Królowa Nienawiści",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj +([Charge]) Wagi Ataku (maks 5)\n<style=\"highlight\">- Jeśli ta jednostka jest w stanie <sprite name=\"NoVillain\"><color=#e30000<u><link=\"NoVillain\">Odwrotnej transformacji Regresywnej</link></u></color>, zamiast tego zyskaj +([Charge] + 1) Wagi Ataku (maks 5)</style>\n\n[BeforeAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać +<style=\"highlight\">2</style>% więcej obrażeń za każdą zużytą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (maks <style=\"highlight\">40</style>%)\n\n[BeforeAttack] Jeśli główny cel ma [VillainMark], zadaj +<style=\"highlight\">5</style>% obrażeń za każde [Charge] (maks <style=\"highlight\">25</style>%)\n<style=\"highlight\">- Jeśli ta jednostka ma <sprite name=\"HystericGauge\"><color=#e30000<u><link=\"HystericGauge\">Histerię</link></u></color>, zamiast tego zadaj +7% obrażeń za każde [Charge] (maks 35%)</style>\n\n[BeforeAttack] Zadaj +<style=\"highlight\">7</style>% obrażeń za każde 2 Rezon. Zazdrości (maks <style=\"highlight\">21</style>%, zaokrąglone w dół)\n\n[BeforeAttack] -12 Mocy Bazowej za każdą Pękniętą Monetę (maks -24)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"HystericGauge\"><color=#e30000<u><link=\"HystericGauge\">Histerii</link></u></color>",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj +([Charge]) Wagi Ataku (maks 5)\n<style=\"highlight\">- Jeśli ta jednostka jest w stanie <sprite name=\"NoVillain\"><color=#e30000><u><link=\"NoVillain\">Odwrotnej transformacji Regresywnej</link></u></color>, zamiast tego zyskaj +([Charge] + 1) Wagi Ataku (maks 5)</style>\n\n[BeforeAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +<style=\"highlight\">2</style>% więcej obrażeń za każdą zużytą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks <style=\"highlight\">40</style>%)\n\n[BeforeAttack] Jeśli główny cel ma [VillainMark], zadaj +<style=\"highlight\">5</style>% obrażeń za każde [Charge] (maks <style=\"highlight\">25</style>%)\n<style=\"highlight\">- Jeśli ta jednostka ma <sprite name=\"HystericGauge\"><color=#e30000><u><link=\"HystericGauge\">Histerię</link></u></color>, zamiast tego zadaj +7% obrażeń za każde [Charge] (maks 35%)</style>\n\n[BeforeAttack] Zadaj +<style=\"highlight\">7</style>% obrażeń za każde 2 Rezon. Zazdrości (maks <style=\"highlight\">21</style>%, zaokrąglone w dół)\n\n[BeforeAttack] -12 Mocy Bazowej za każdą Pękniętą Monetę (maks -24)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"HystericGauge\"><color=#e30000><u><link=\"HystericGauge\">Histerii</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -820,7 +820,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (<style=\"highlight\">10</style> na turę)"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (<style=\"highlight\">10</style> na turę)"
                 }
               ]
             },
@@ -830,10 +830,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Nałóż [VillainMark] na główny cel na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Uznaj główny cel za <sprite name=\"VillainMark\"><color=#e30000><u><link=\"VillainMark\">Złoczyńcę</link></u></color> od początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Sinking\"><color=#e30000<u><link=\"Sinking\">Zrozpaczenia</link></u></color> (maks <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> (maks <style=\"highlight\">3</style>)"
                 }
               ]
             }
@@ -843,7 +843,7 @@
           "level": 4,
           "name": "Zmaksymalizowana Odwrotna Sługa Arkan - Wymazanie Nienawiści",
           "abName": "Królowa Nienawiści",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj +([Charge]) Wagi Ataku (maks 5)\n- Jeśli ta jednostka jest w stanie <sprite name=\"NoVillain\"><color=#e30000<u><link=\"NoVillain\">Odwrotnej transformacji Regresywnej</link></u></color>, zamiast tego zyskaj +([Charge] + 1) Wagi Ataku (maks 5)\n\n[BeforeAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> by zadać <style=\"highlight\">+2.5%</style> więcej obrażeń za każdą zużytą Ilość <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (maks <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Jeśli główny cel ma [VillainMark], zadaj +5% obrażeń za każde [Charge] (maks 25%)\n- Jeśli ta jednostka ma <sprite name=\"HystericGauge\"><color=#e30000<u><link=\"HystericGauge\">Histerię</link></u></color>, zamiast tego zadaj +<style=\"highlight\">10</style>% obrażeń za każde [Charge] (maks <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Zadaj+<style=\"highlight\">10</style>% obrażeń za każde 2 Rezon. Zazdrości (maks <style=\"highlight\">30</style>%, zaokrąglone w dół)\n\n[BeforeAttack] -12 Mocy Bazowej za każdą Pękniętą Monetę (maks -24)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"HystericGauge\"><color=#e30000<u><link=\"HystericGauge\">Histerii</link></u></color>",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Zyskaj +([Charge]) Wagi Ataku (maks 5)\n- Jeśli ta jednostka jest w stanie <sprite name=\"NoVillain\"><color=#e30000><u><link=\"NoVillain\">Odwrotnej transformacji Regresywnej</link></u></color>, zamiast tego zyskaj +([Charge] + 1) Wagi Ataku (maks 5)\n\n[BeforeAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać <style=\"highlight\">+2.5%</style> więcej obrażeń za każdą zużytą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Jeśli główny cel ma [VillainMark], zadaj +5% obrażeń za każde [Charge] (maks 25%)\n- Jeśli ta jednostka ma <sprite name=\"HystericGauge\"><color=#e30000><u><link=\"HystericGauge\">Histerię</link></u></color>, zamiast tego zadaj +<style=\"highlight\">10</style>% obrażeń za każde [Charge] (maks <style=\"highlight\">50</style>%)\n\n[BeforeAttack] Zadaj+<style=\"highlight\">10</style>% obrażeń za każde 2 Rezon. Zazdrości (maks <style=\"highlight\">30</style>%, zaokrąglone w dół)\n\n[BeforeAttack] -12 Mocy Bazowej za każdą Pękniętą Monetę (maks -24)\n\n[EndSkill] Jeśli ta jednostka to Lobotomy E.G.O::W Imieniu Miłości Oraz Nienawiści Don Kichote, zyskaj 1 <sprite name=\"HystericGauge\"><color=#e30000><u><link=\"HystericGauge\">Histerii</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -851,7 +851,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#e30000><u><link=\"Charge\">Naładowania</link></u></color> (<style=\"highlight\">14</style> na turę)"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (<style=\"highlight\">14</style> na turę)"
                 }
               ]
             },
@@ -861,13 +861,13 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Nałóż [VillainMark] na główny cel na początku następnej tury"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Uznaj główny cel za <sprite name=\"VillainMark\"><color=#e30000><u><link=\"VillainMark\">Złoczyńcę</link></u></color> od początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Sinking\"><color=#e30000<u><link=\"Sinking\">Zrozpaczenia</link></u></color> (maks <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Nałóż ([Charge] - 1) <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> (maks <style=\"highlight\">4</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Jeśli ta jednostka jest w stanie <sprite name=\"NoVillain\"><color=#e30000<u><link=\"NoVillain\">Odwrotnej transformacji Regresywnej</link></u></color>, nakłada +1 Ilości <sprite name=\"Sinking\"><color=#e30000<u><link=\"Sinking\">Zrozpaczenia</link></u></color></style>"
+                  "desc": "<style=\"highlight\">- Jeśli ta jednostka jest w stanie <sprite name=\"NoVillain\"><color=#e30000><u><link=\"NoVillain\">Odwrotnej transformacji Regresywnej</link></u></color>, nakłada +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color></style>"
                 }
               ]
             }
