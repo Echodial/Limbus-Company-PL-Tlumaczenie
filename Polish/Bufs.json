@@ -124,7 +124,7 @@
     {
       "id": "DefenseUp",
       "name": "Większy Poziom Obrony",
-      "desc": "Poziom Obrony +{0} w tej turze.",
+      "desc": "+{0} Poziomu Obrony w tej turze.",
       "summary": "Poziom Obrony +{0}"
     },
     {
@@ -287,7 +287,7 @@
       "summary": "{0} stałych obrażeń"
     },
     {
-      "id": "Sinking",
+      "id": "Zrozpaczenie",
       "name": "Zrozpaczenie",
       "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} stałych obrażeń Psychiki. (Jednostki bez Psychiki otrzymują obrażenia od Przygnębienia.)",
       "summary": "{0} OBR zrozpaczenia"
@@ -355,7 +355,7 @@
     {
       "id": "AttackUp",
       "name": "Większy Poziom Ataku",
-      "desc": "Poziom Ataku +{0} w tej turze.",
+      "desc": "+{0} Poziomu Ataku w tej turze.",
       "summary": "Poziom Ataku +{0}"
     },
     {
@@ -628,7 +628,7 @@
     {
       "id": "Choice_901001",
       "name": "Spreading Flame",
-      "desc": "Mając the start of the next Encounter, allies without Wrath Affinity take 5 Wrath damage"
+      "desc": "Mając the start of the next Encounter, allies without Wrath Affinity otrzymuj 5 Wrath damage"
     },
     {
       "id": "Choice_901007",
@@ -966,7 +966,7 @@
     },
     {
       "id": "GainSinStockAdder",
-      "name": "Więszy Zysk Zasobów E.G.O",
+      "name": "Większy Zysk Zasobów E.G.O",
       "desc": "Zdolości dają +{0} zasobów E.G.O w tej turze.",
       "summary": "+{0} zyskiwanych zasobów E.G.O "
     },
@@ -1076,7 +1076,7 @@
       "id": "ATL_EndureCombustion",
       "name": "Podpalenia Resistance",
       "desc": "When taking damage from Podpalenia, reduce the damage by {0}0% (Maks 10)",
-      "summary": "When taking damage from Podpalenia, take {0}0% less damage"
+      "summary": "When taking damage from Podpalenia, otrzymuj {0}0% less damage"
     },
     {
       "id": "Resonate",
@@ -1885,7 +1885,7 @@
     },
     {
       "id": "Switch_Vibration",
-      "name": "Konwersję Częstotliwości",
+      "name": "Dostrój Częstotliwość",
       "desc": "Zamienia Drżenie lub inne już zamienione Drżenie na celu w inny typ Drżenia.\nWartości Siły i Ilości nie zmieniają się przez konwersję."
     },
     {
@@ -2896,7 +2896,7 @@
     {
       "id": "WOverCharge",
       "name": "Przeładowanie",
-      "desc": "- Maks Wartość : 1\n- Ta jednostka zostaje Unieruchomiona\n- Zmniejsza otrzymywane obrażenia o 10 + (Siła Naładowania na sobie x 5)% (maks 25%)\n- Początek Tury: Przyznaje Naładowaną Barierę równą Sile Naładowania na sobie (maks 5)\n- Koniec Tury: Przyznaje +10 Ilości Naładowania and 2 Większej Mocy Ataku na początku następnej tury i kończy ten efekt\n- Przyznaje Aggro nnajbardziej wysuniętemu na lewo Żetonowi Zdolności równe Sile Naładowania na sobie (maks 5)\n- Kiedy ta jednostka zostanie trafiona, przyznaje +1 Ilości Naładowania i 1 Rozładowania na początku następnej tury (maks 5 na turę)\n- Jeśli ta jednostka jest na Początku Tury w stanie Paniki, Korozji E.G.O lub Zachwiana, traci ten efekt",
+      "desc": "- Maks Wartość : 1\n- Ta jednostka zostaje Unieruchomiona\n- Zmniejsza otrzymywane obrażenia o 10 + (Siła Naładowania na sobie x 5)% (maks 25%)\n- Początek Tury: Przyznaje Naładowaną Barierę równą Sile Naładowania na sobie (maks 5)\n- Koniec Tury: Przyznaje +10 Ilości Naładowania i 2 Większej Mocy Ataku na początku następnej tury i kończy ten efekt\n- Przyznaje Aggro nnajbardziej wysuniętemu na lewo Żetonowi Zdolności równe Sile Naładowania na sobie (maks 5)\n- Kiedy ta jednostka zostanie trafiona, przyznaje +1 Ilości Naładowania i 1 Rozładowania na początku następnej tury (maks 5 na turę)\n- Jeśli ta jednostka jest na Początku Tury w stanie Paniki, Korozji E.G.O lub Zachwiana, traci ten efekt",
       "summary": "Unieruchomienie. Zmniejszenie otrzymanych obrażeń. Aggro i Naładowana Bariera. Ilości Naładowania na początku następnej tury. Rozładowanie i Ilość Naładowania kiedy ta jednostka zostanie trafiona",
       "undefined": "-"
     },
@@ -2917,7 +2917,7 @@
       "id": "ParadeConcentration",
       "name": "Parada La Mancha",
       "desc": "- Maks Wartość: 4\n- +10% obrażeń otrzymywanych od Zdolności Rządzy\n• Jeśli atakujący jest Tożsamością z <La Manchaland> Identity, +20% otrzymywanych obrażeń, bez względu na Grzech Zdolności\n• Przy maks Wartości, -20% obrażeń zadawanych Tożsamościom z <La Manchaland>\n- Wartość spada o 1 albo kiedy ta jednostka zaatakuje Zdolnością, albo kiedy ona zostanie zaatakowana Zdolnością",
-      "summary": "<La Manchaland> Identities take less damage",
+      "summary": "<La Manchaland> Identities otrzymuj less damage",
       "undefined": "-"
     },
     {
@@ -3034,78 +3034,78 @@
     },
     {
       "id": "ProtectStanceRyoshu",
-      "name": "Protector's Stance",
-      "desc": "- Max Stack: 2\n- Take (Stack x 10)% less damage\n- Turn Start: Gain Shield by Poise on self (max 20)\n- Turn End: Gain 3 Poise Potency and +1 Poise Count; this unit's leftmost Skill Slot gains +5 Aggro next turn\n- Turn End: Lose 1 Stack",
-      "summary": "Take less damage",
+      "name": "Postawa Ochrońcy",
+      "desc": "- Maks Wartość: 2\n- -(Wartość x 10)% otrzymywanych obrażeń\n- Początek Tury: Przyznaje Tarczę Równą Tchnieniu na sobie (maks 20)\n- Koniec Tury: Przyznaje 3 Siły Tchnienia i +1 Ilości Tchnienia; Przyznaje +5 Aggro najbardziej wysuniętemu na lewo Żetonowi Zdolności na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
+      "summary": "Zmniejsza otrzymywane obrażenia",
       "undefined": "-"
     },
     {
       "id": "TheUdjatOutis",
-      "name": "The Udjat [Vanguard]",
-      "desc": "- Max Stack: 2\n- Min & Max Speed +3\n- Combat Start: gain 1 Protection\n- Gain the following effects during the Combat Phase (once per Skill, 3 times per turn)\n· When this unit is the main target of an Unopposed Attack Skill, halve the chance for the Skill's first Coin to flip Heads\n· Clash Start: In the first Clash, halve the target's chance to flip Heads for all of its Coins\n· For both of the above effects, if the target uses Minus Coins, halve their chance to flip Tails instead\n- Turn End: Reduce 1 Stack",
+      "name": "Udjat [Przednia Straż]",
+      "desc": "- Maks Wartość: 2\n- +3 Maks & Min Prędkości\n- Początek Walki: przyznaje 1 Ochrony\n- Zyskaj dane efekty podczas Fazy Walki (raz na Zdolność, 3 razy na turę)\n· Jeśli ta jednostka jest celem Bezpośredniego Ataku Zdolnością, zmniejsz o połowę szansę, żeby pierwsza Moneta tej zdolności wyrzuciła Orła\n· Początek Starcia: przy pierwszym Starciu, dla wszystkich monet zmniejsz o połowę szansę, żeby wyrzuciły Orła\n· Dla obu powyższych efektów, jeśli cel używa ujemnych Monet, zamiast tego zmniejsza szansę wyrzucenia Reszki\n- Koniec Tury: Wartość spada o 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlueSand",
-      "name": "Blue Sand",
-      "desc": "- On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units with SP: change their Panic Type to \"Blue Sand\"\n- Units without SP: Min & Max Speed -1\n- Turn End: Reduce 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types\n\n※ Blue Sand Panic Effects\n- Low Morale: Clash Power -1, Min & Max Speed -1\n- Panic: Clash Power -2, Min & Max Speed -1",
+      "name": "Błękitny Piach",
+      "desc": "- Gdy ta jednostka przegra Starcie, przyznaje +1 Ilości Zrozpaczenia (3 razy na turę)\n- Jednostki posiadające SP: zmienia typ paniki na \"Błękitny Piach\"\n- -1 Maks & Min Prędkości SP: -1 Maks & Min Prędkości\n- Koniec Tury: Wartość spada o 1\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n- Nakłada efekt \"\"Jednostek bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki\n\n※ Efekty Paniki Błękitnego Piachu\n- Niskie Morale: -1 Mocy Starcia, -1 Maks & Min Prędkości\n- Panika: -2 Mocy Starcia, -1 Maks & Min Prędkości",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlueSand_Main",
-      "name": "Blue Sand",
-      "desc": "- On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units with SP: change their Panic Type to \"Blue Sand\"\n- Turn End: Reduce 1 Stack",
-      "summary": "On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units with SP: change their Panic Type to \"Blue Sand\"",
+      "name": "Błękitny Piach",
+      "desc": "- Gdy ta jednostka przegra Starcie, przyznaje +1 Ilości Zrozpaczenia (3 razy na turę)\n- Jednostki posiadające SP: zmienia typ paniki na \"Błękitny Piach\"\n- Koniec Tury: Wartość spada o 1",
+      "summary": "Gdy ta jednostka przegra Starcie, przyznaje +1 Ilości Zrozpaczenia (3 razy na turę)\n- Jednostki posiadające SP: zmienia typ paniki na \"Błękitny Piach\"",
       "undefined": "-"
     },
     {
       "id": "BlueSand_Sub",
-      "name": "Blue Sand",
-      "desc": "- On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units without SP: Min & Max Speed -1\n- Turn End: Reduce 1 Stack",
-      "summary": "On Clash Lose, gain +1 Sinking Count (3 times per turn)\n- Units without SP: Min & Max Speed -1",
+      "name": "Błękitny Piach",
+      "desc": "- Gdy ta jednostka przegra Starcie, przyznaje +1 Ilości Zrozpaczenia (3 razy na turę)\n- -1 Maks & Min Prędkości SP: -1 Maks & Min Prędkości\n- Koniec Tury: Wartość spada o 1",
+      "summary": "Gdy ta jednostka przegra Starcie, przyznaje +1 Ilości Zrozpaczenia (3 razy na turę)\n- -1 Maks & Min Prędkości SP: -1 Maks & Min Prędkości",
       "undefined": "-"
     },
     {
       "id": "BlueSand_LowMorale",
-      "name": "Blue Sand",
-      "desc": "- Low Morale\n- Clash Power -1\n- Min & Max Speed -1",
-      "summary": "Clash Power -1 on self",
+      "name": "Błękitny Piach",
+      "desc": "- Niskie Morale\n- -1 Mocy Starcia\n- -1 Maks & Min Prędkości",
+      "summary": "-1 Mocy Starcia",
       "undefined": "-"
     },
     {
       "id": "BlueSand_Panic",
-      "name": "Blue Sand",
-      "desc": "- Panic\n- Clash Power -2\n- Min & Max Speed -1",
-      "summary": "Clash Power -2 on self",
+      "name": "Błękitny Piach",
+      "desc": "- Panika\n- -2 Mocy Starcia\n- -1 Maks & Min Prędkości",
+      "summary": "-2 Mocy Starcia",
       "undefined": "-"
     },
     {
       "id": "SheutFracture",
-      "name": "Sheut Fracture",
-      "desc": "- Max Stack: 10\n- Unique Sinking\n- For every Stack, take +1% more damage from Sloth and Gloom Skills\n- At max Stack, gain 1 Gloom Fragility (once per turn), take Gloom damage equal to Sinking Potency on self(lose 1 Sinking Count), then expires\n- If the unit with this effect dies, transfer half of its Stack to its ally with the highest SP (rounded down)\n- Turn Start: If there are no LCA Identities on the field, expires",
+      "name": "Rozbicie Szut",
+      "desc": "- Maks Wartość: 10\n- Specjalne Zrozpaczenie\n- Za każdą Wartość, +1% otrzymywanych obrażeń od Zdolności Lenistwa i Przygnębienia\n- Przy maks Wartości, przyznaje 1 Kruchości przed Przygnębieniem (raz na turę), zadaje obrażenia od Przygnębienia równe Sile Zrozpaczenia na sobie (zmniejszając Ilość Zrozpaczenia o 1), po czym ten efekt wygasa\n- Jeśli jednostka z tym efektem zostanie pokonana, połowa Wartości tego efektu przenosi się na jej sojusznika z największym SP (zaokrąglone w dół)\n- Początek Tury: Jeśli na polu walki nie ma Jednostek LCA, efekt wygasa",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LCA_Bullet",
-      "name": "LCA Fracture Round",
-      "desc": "- Max Capacity: 16\n- Unique Ammo\n- Spent by certain Skills\n- Some attacks cancel if lacking Ammo",
+      "name": "Nabój Przebijający LCA",
+      "desc": "- Maks Pojemność: 16\n- Specjalna Amunicja\n- Zużywana przez pewne Zdolności\n- Niektóre ataki mogą zostać anulowane, jeśli brakuje im amunicji",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "NiddleEGO",
-      "name": "Needle",
-      "desc": "- Unique Bleed\n- When taking Envy damage, gain +1 Bleed Count and reduce this effect's Stack by 1\n- Turn End: Gain 1 Bleed and reduce this effect's Stack by 1",
-      "summary": "Gain Bleed Count",
+      "name": "Igła",
+      "desc": "- Specjalne Krwawienie\n- Kiedy ta jednostka otrzyma obrażenia od Zazdrości, przyznaje +1 Ilości Krwawienia i zmniejsza Wartość o 1\n- Koniec Tury: Przyznaje 1 Krwawienie i zmniejsza Wartość o 1",
+      "summary": "Zyskaj Bleed Count",
       "undefined": "-"
     },
     {
       "id": "IDMicroChip",
-      "name": "Resident Reg. Microchip",
-      "desc": "- Max Stack: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
+      "name": "Mikrochip Rejestru Mieszkaców",
+      "desc": "- Maks Wartość: 2\n- Ta jednostka otrzymuje +10% obrażeń od Zdolności Gniewu i Zazdrości\n- Gdy ta jednostka przegra Starcie, zyskuje 1 Podpalenie (3 razy na turę)\n- Koniec Tury: Wartość spada o 1",
       "summary": "",
       "undefined": "-"
     },
@@ -3114,6 +3114,83 @@
       "name": "Excision Coin",
       "desc": "- This Coin can destroy Unbreakable Coins in a Clash.\n- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
       "summary": ""
+    },
+    {
+      "id": "ReinforcedTattooIshmael",
+      "name": "Tatuaże Wzmacniające Środka",
+      "desc": "- Maks Wartość: 10\n- +1 Ostatecznej Mocy Bazowych Zdolności za każde 5 Wartości (maks 2)\n- Zdolności Uderzenia i Zazdrości zadają +5% obrażeń za każdą Wartość (maks 50%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ResentmentIshmael",
+      "name": "Środek - Uraza",
+      "desc": "- Maks Wartość: 15\n- Jeśli cel ma Znak Zemsty, zadawaj mu +20% obrażeń",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireIshmael",
+      "name": "Ostrza Termiczne",
+      "desc": "- Maks Wartość: 2\n- Jeśli cel trafiony Bazową Zdolnością ma Podpalenie, ulecz 3 SP (2 razy na turę)\n- Nakładając Krwawienie efektami niektorych Monet nałóż też Podpalenie\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LanternGregBigBird",
+      "name": "Lampa",
+      "desc": "- Maks Wartość: 8\n- Koniec Tury: Zyskaj 1 Spętania na początku następnej tury za każde 2 Wartości (maks 4)\n- Koniec Tury: Przy maks. Wartości, jeśli na polu walki są przeciwnicy, zużyj całą Wartość, by aktywować dane efekty na początku następnej tury:\n• Daj najbardziej wysuniętemu na lewo Żetonowi Ataku tej jednostki +10 Aggro\n• Nałóż 3 Zaślepienia na przeciwnika z najwyższym obecnym HP (rdzenia)",
+      "summary": "Zyskaj Spętania na początku następnej tury",
+      "undefined": "-"
+    },
+    {
+      "id": "ObedienceGregBigBird",
+      "name": "Strażnicy Lasu",
+      "desc": "Aktywuj dane efekty przed atakiem:\n- Dodatnie Monety leczą 4 SP (jeśli ta jednostka ma już maks SP, zamiast tego zyskuje 2 Większe Poziomy Ataku na początku następnej tury)\n- Zdolności z Ujemnymi Monetami tracą 8 SP (ten efekt nie może zmniejszyć SP tej jednostki poniżej -40)\n- Strać ten efekt",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird",
+      "name": "Zaślepienie",
+      "desc": "- Za każde 1 (Zrozpaczenie + Podpalenie), otrzymuj +0.5% obrażeń od Bazowych Zdolności Ofensywnych (maks 10%)\n- Jednostki posiadające SP: zmienia typ paniki na \"Zaślepienie\"\n- Jednostki nie posiadające SP: -2 Poziomy Obrony\n- Koniec Tury: Zmniejsz Wartość o 1\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n- Nakłada efekt \"\"Jednostek bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki\n- Niskie Morale: Koniec Tury: Zyskaj 1 Spętanie i 2 Mniejsze Poziomy Obrony na początku następnej tury\n- Panika: Koniec Tury: Zyskaj 1 Spętanie i 4 Mniejsze Poziomy Obrony na początku następnej tury",
+      "summary": "Za każde 1 (Zrozpaczenie + Podpalenie), otrzymuj +0.5% obrażeń od Bazowych Zdolności Ofensywnych (maks 10%)\nUnits with SP: Change their Panika Type to \"Zaślepienie\"\nUnits without SP: -2 Poziomy Obrony",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Main",
+      "name": "Zaślepienie",
+      "desc": "- Za każde 1 (Zrozpaczenie + Podpalenie), otrzymuj +0.5% obrażeń od Bazowych Zdolności Ofensywnych (maks 10%)\n- Jednostki posiadające SP: zmienia typ paniki na \"Zaślepienie\"\n- Koniec Tury: Zmniejsz Wartość o 1",
+      "summary": "Za każde 1 (Zrozpaczenie + Podpalenie), otrzymuj +0.5% obrażeń od Bazowych Zdolności Ofensywnych (maks 10%)\nChange Panika Type to \"Zaślepienie\"",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Sub",
+      "name": "Zaślepienie",
+      "desc": "- Za każde 1 (Zrozpaczenie + Podpalenie), otrzymuj +0.5% obrażeń od Bazowych Zdolności Ofensywnych (maks 10%)\n- Jednostki nie posiadające SP: -2 Poziomy Obrony\n- Koniec Tury: Zmniejsz Wartość o 1",
+      "summary": "Za każde 1 (Zrozpaczenie + Podpalenie), otrzymuj +0.5% obrażeń od Bazowych Zdolności Ofensywnych (maks 10%)\nDefense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_LowMorale",
+      "name": "Zaślepienie",
+      "desc": "- Niskie Morale\n- Koniec Tury: Zyskaj 1 Spętanie i 2 Mniejsze Poziomy Obrony na początku następnej tury",
+      "summary": "Koniec Tury: Zyskaj 1 Spętania i 2 Mniejsze Poziomy Obrony na początku następnej tury",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Panic",
+      "name": "Zaślepienie",
+      "desc": "- Panika\n- Koniec Tury: Zyskaj 1 Spętanie i 4 Mniejsze Poziomy Obrony na początku następnej tury",
+      "summary": "Koniec Tury: Zyskaj 1 Spętania i 4 Mniejsze Poziomy Obrony na początku następnej tury",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerID",
+      "name": "Ostrze Lazurowego Księżyca",
+      "desc": "- Maks Wartość: 20\n- Początek tury: Zyskaj 2 Tarczy za każdą Wartość\n- +1% obrażeń zadawanych Trafieniem Krytycznym za każdą Wartość",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }
