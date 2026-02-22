@@ -7622,7 +7622,7 @@
 	{
 		"id": "battle_special_10814_4",
 		"desc": "",
-		"dlg": "O? Ty też zostajesz dziś w Domu Pająków? To... czytałeś tą serię 'Tnące Chmóry Ostrze'. Wiesz, tą o której ci mówiłam? Hej, c-czekaj chwile! Nie uciekaj ode mnie jak mówie!"
+		"dlg": "O? Ty też zostajesz dziś w Domu Pająków? To... czytałeś tą serię 'Tnące Chmury Ostrze'. Wiesz, tą o której ci mówiłam? Hej, c-czekaj chwile! Nie uciekaj ode mnie jak mówie!"
 	},
 	{
 		"id": "battle_special_10814_5",
@@ -7722,42 +7722,42 @@
     {
       "id": "battle_s2_11015_1_6",
       "desc": "",
-      "dlg": "Drugie Cięcie."
+      "dlg": "Podwójne Cięcie(二連)."
     },
     {
       "id": "battle_s2_11015_1_6-01",
       "desc": "",
-      "dlg": "Drugie Cięcie."
+      "dlg": "Podwójne Cięcie(二連)."
     },
     {
       "id": "battle_s2_11015_1_6-02",
       "desc": "",
-      "dlg": "Drugie Cięcie."
+      "dlg": "Podwójne Cięcie(二連)."
     },
     {
       "id": "battle_s2_11015_1_7",
       "desc": "",
-      "dlg": "Trzecie, Zdecydowane Cięcie."
+      "dlg": "Potrójne Cięcie(三連), Perfekcyjne Wykonane."
     },
     {
       "id": "battle_s2_11015_1_7-01",
       "desc": "",
-      "dlg": "Trzecie, Zdecydowane Cięcie."
+      "dlg": "Potrójne Cięcie(三連), Perfekcyjne Wykonane."
     },
     {
       "id": "battle_s2_11015_1_7-02",
       "desc": "",
-      "dlg": "Trzecie, Zdecydowane Cięcie."
+      "dlg": "Potrójne Cięcie(三連), Perfekcyjne Wykonane."
     },
     {
       "id": "battle_s3_11015_1_5",
       "desc": "",
-      "dlg": "Aby uciszyć wszystkie dźwięki, włącznie ze swoim oddechem…"
+      "dlg": "Aby uciszyć wszystkie dźwięki, włącznie z swoim oddechem…"
     },
     {
       "id": "battle_s3_11015_1_6",
       "desc": "",	
-      "dlg": "Przetnij natychmiast przez zanikacjące otwarcie w ich defensywie…"
+      "dlg": "Przetnij natychmiast przez zanikające otwarcie w ich defensywie…"
     },
     {
       "id": "battle_s3_11015_1_7",
@@ -7767,7 +7767,143 @@
     {
       "id": "battle_s3_11015_1_8",
       "desc": "",
-      "dlg": "Po czym, gdy opadnie już pył i jucha, doświadcz księżyca w swej pełni."
+      "dlg": "Po czym, gdy opadnie już pył i jucha, doświadcz księżyca w jego pełni."
+    },
+	
+	{
+		"id": "battle_select_10115_1",
+		"desc": "############# House of Spiders Index Nuresfather Yi Sang #################",
+		"dlg": "Wygląda na to... że ciągle jestem \"złapany\"."
+	},
+	{
+		"id": "battle_endcommand_10115_1",
+		"desc": "",
+		"dlg": "Zastanawiam się, jak daleko jesteście gotowi się posunąć?"
+	},
+	{
+		"id": "battle_enemy_break_10115_1",
+		"desc": "",
+		"dlg": "Ten przebłysk żalu w twych oczach... jest naprawde pięknym widokiem."
+	},
+	{
+		"id": "battle_break_10115_1",
+		"desc": "",
+		"dlg": "Haha."
+	},
+	{
+		"id": "battle_kill_10115_1",
+		"desc": "",
+		"dlg": "Ponieważ chwilowy niepokój... zawitał w moim sercu."
+	},
+	{
+		"id": "battle_dead_10115_1",
+		"desc": "",
+		"dlg": "... Jakże... samotne uczucie."
+	},
+	{
+        "id": "battle_s3_10115_1_6",
+        "desc": "",
+        "dlg": "<i><color=#50acff>*beep*</color></i> Hah... Oto nadpływają fale."
+	},
+    {
+        "id": "battle_special_10115_1",
+        "desc": "",
+        "dlg": "Jeden."
+    },
+    {
+        "id": "battle_special_10115_2",
+        "desc": "",
+        "dlg": "Dwa."
+    },
+    {
+        "id": "battle_special_10115_3",
+        "desc": "",
+        "dlg": "Trzy."
+    },
+    {
+        "id": "battle_special_10115_4",
+        "desc": "",
+        "dlg": "Cztery."
+    },
+    {
+        "id": "battle_special_10115_5",
+        "desc": "",
+        "dlg": "Pięć."
+    },
+    {
+        "id": "battle_special_10115_6",
+        "desc": "",
+        "dlg": "Sześć."
+    },
+    {
+        "id": "battle_special_10115_7",
+        "desc": "",
+        "dlg": "Siedem. Jeszcze dwa."
+    },
+    {
+        "id": "battle_special_10115_8",
+        "desc": "",
+        "dlg": "Osiem. Jeszcze jeden."
+    },
+    {
+        "id": "battle_special_10115_9",
+        "desc": "",
+        "dlg": "Dziewięć. Wykonany."
+    },
+    {
+        "id": "battle_special_10115_10",
+        "desc": "",
+        "dlg": "Brodząc w płytkim śnie, nie znając czegoś takiego jak \"ja\". (無我夢中)"
+    },
+    {
+        "id": "battle_special_10115_11",
+        "desc": "",
+        "dlg": "Jakbym był w Narace Avīci oraz Rauravy. (阿鼻叫喚)"
+    },
+    {
+        "id": "battle_special_10115_12",
+        "desc": "",
+        "dlg": "Rozcięci oraz rozdarci, aż sama forma rozpruje się w nil. (支離滅裂)"
+    },
+    {
+        "id": "battle_special_10115_13",
+        "desc": "",
+        "dlg": "Bądźcie lecz radośni, w swych ostatnich chwilach. Albowiem zostaliście wybrani."
+    },
+    {
+        "id": "battle_special_10115_14-1",
+        "desc": "",
+        "dlg": "Haha… Mam szczerą nadzieję że moja droga córka ciągle pamięta tą ranę."
+    },
+    {
+        "id": "battle_special_10115_14-2",
+        "desc": "",
+        "dlg": "Haha… Zastanawiam się czy moja droga córka rozpoznałaby ciągle tą ranę…"
+    },
+    {
+        "id": "battle_special_10115_15-1",
+        "desc": "",
+        "dlg": "Odtworzę wiernie pełne furii serce."
+    },
+    {
+        "id": "battle_special_10115_15-2",
+        "desc": "",
+        "dlg": "Odtwarzanie zakończone."
+    },
+    {
+        "id": "battle_special_10115_16-1",
+        "desc": "",
+        "dlg": "<i><color=#50acff>*piii*</color></i> Wola Hermesa."
+    },
+    {
+        "id": "battle_special_10115_16-2",
+        "desc": "",
+        "dlg": "Trzymając Furie w moim sercu, przez cały ten czas."
+    },
+    {
+        "id": "battle_special_10115_17",
+        "desc": "",
+        "dlg": "Ah… Don Quixote. Doprawdy, jeśli spiszesz się dobrze podczas tej bitwy… Bez wątpienia zasłużysz ode mnie na pochwałę."
     }
- ]
+  ]
 }
