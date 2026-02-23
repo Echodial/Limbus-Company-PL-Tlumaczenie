@@ -1150,10 +1150,38 @@
     },
     {
       "id": 10314,
-      "title": "The Index Proxy - \nEffloresced E.G.O::\nProcuration",
+      "title": "Pośrednik Wskazu - \nRozkwitłe E.G.O::\nProkuracja",
       "name": "Don Quixote",
       "nameWithTitle": "Don Quixote",
       "desc": "Don Quixote's 14th Identity"
+    },
+    {
+      "id": 10814,
+      "title": "Dom Pająków:\nPupil Środka",
+      "name": "Ishmael",
+      "nameWithTitle": "이스마엘",
+      "desc": "Ishmael's 14th Identity"
+    },
+    {
+      "id": 11015,
+      "title": "Dom Pająków:\nPupil Obwodu",
+      "name": "Sinclair",
+      "nameWithTitle": "Sinclair",
+      "desc": "Sinclair’s 15th Identity"
+    },
+    {
+      "id": 11214,
+      "title": "Lobotomy E.G.O::Lampa",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor’s 14th Identity"
+    },
+    {
+      "id": 10115,
+      "title": "Dom Pająków:\nOjczym Wskazu",
+      "name": "Yi Sang",
+      "nameWithTitle": "Yi Sang",
+      "desc": "Yi Sang's 15th Identity"
     }
   ]
 }
