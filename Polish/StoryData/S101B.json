@@ -221,7 +221,7 @@
     {
       "id": 45,
       "model": "료슈",
-      "content": "Krzykliwe awantury uciszone całkowicie jednym atakiem."
+      "content": "Krzykliwe Awantury Uciszone Całkowicie Jednym Atakiem."
     },
     {
       "id": 46,
@@ -302,7 +302,7 @@
     {
       "id": 62,
       "model": "베르길리우스",
-      "content": "Pani. Faust."
+      "content": "Pani Faust."
     },
     {
       "id": 63,
@@ -400,7 +400,7 @@
     },
     {
       "id": 85,
-      "content": "Czy jesteś gotów podzielić ich ból?"
+      "content": "Czy jesteś gotowe podzielić ich ból?"
     },
     {
       "id": 86,
@@ -408,12 +408,16 @@
     },
     {
       "id": 87,
-      "content": "Pociągnęłom z całych sił Grzeszników trzymających się o moje ramię."
+      "content": "Pociągnęłom z całych sił Grzeszników trzymających się za moje ramię."
     },
     {
       "id": 88,
       "model": "단테",
       "content": "<…RAHHHHGH!>"
+    },
+    {
+      "id": 89,
+      "content": "Nagle poczułom niewyobrażalny ból w w mojej szyi oraz głowie."
     },
     {
       "id": 90,
@@ -461,7 +465,7 @@
     {
       "id": 100,
       "model": "료슈",
-      "content": "Keh… Jakie to uczucie, odzyskanie swojej głowy chwilę po tym jak została odcięta? Czy było to ekscytujące?"
+      "content": "Keh… Jakie to uczucie, odzyskanie głowy chwilę po tym jak została odcięta? Powiedzielibyście że to \"ekscytujące\"?"
     },
     {
       "id": 101,
@@ -489,7 +493,7 @@
     {
       "id": 106,
       "model": "싱클레어",
-      "content": "P-Poczekaj proszę chwilę! Dante wygląda jakby naprawde cierpiało, my naprawde powinniśmy ogr―"
+      "content": "P-Prosze, poczekaj chwilę! Dante wygląda jakby naprawde cierpiało, my naprawde powinniśmy ogr―"
     },
     {
       "id": 107,
@@ -529,12 +533,12 @@
     },
     {
       "id": 115,
-      "content": "While I was lost in thought, all tension in the bus suddenly dropped and froze over."
+      "content": "Gdy ja błądziłom w swoich myślach, atmosfera nagle straciła całe napięcie i nabrała dość chłodne uczucie."
     },
     {
       "id": 116,
       "model": "베르길리우스",
-      "content": "Ahem, it seems this team’s in serious need of discipline."
+      "content": "Widzę, że ta zgraja desperacko potrzebuje troche dyscypliny."
     },
     {
       "id": 117,
@@ -548,167 +552,167 @@
     },
     {
       "id": 119,
-      "content": "The Sinners on a collision course stopped dead in their tracks."
+      "content": "Grzesznicy którzy chwile temu pędzili w swoją strone na kursie kolizyjnym nagle staneli dębem."
     },
     {
       "id": 120,
-      "content": "A cold pair of red eyes cast their glare between the two."
+      "content": "Para czerwonych ślepi rzuciła między ich chłodny jak lód spojrzenie."
     },
     {
       "id": 121,
       "model": "베르길리우스",
-      "content": "Rule number one."
+      "content": "Zasada numer jeden."
     },
     {
       "id": 122,
       "model": "베르길리우스",
-      "content": "Do not let me hear weapons clashing inside the bus."
+      "content": "Nie chcę nigdy więcej usłyszeć dzwięku zcierających się broni na pokładzie autobusu."
     },
     {
       "id": 123,
       "model": "베르길리우스",
-      "content": "If any of you break this rule as of now…"
+      "content": "Jeśli którekolwiek z was złamie od teraz tą zasadę…"
     },
     {
       "id": 124,
       "model": "베르길리우스",
-      "content": "You’re going to be begging for me to let you die."
+      "content": "Będzie ono błagać mnie o śmierć."
     },
     {
       "id": 125,
       "model": "베르길리우스",
-      "content": "I’m sure you know I’m capable of that and more, right?"
+      "content": "Jestem pewnien że jesteście świadomi o moich unikalnych talentach w tej dziedzinie, zgadza się?"
     },
     {
       "id": 126,
-      "content": "Sinclair’s writhing on the floor was the only sound breaking the silence."
+      "content": "Dźwięki bezwiednego wicia się po podłodze Sinclaira były jedyną rzeczą walczącą z przytłaczającą ciszą, która nastąpiła po tym pytaniu."
     },
     {
       "id": 127,
-      "content": "Heathcliff glowered, but couldn’t bring himself to argue back."
+      "content": "Heathcliff zmarszczł brwi, ale nie był w stanie wykrzesać w sobie wystarczająco odwagi żeby odszczekać."
     },
     {
       "id": 128,
       "model": "베르길리우스",
-      "content": "Dante, I’m sorry about this. I need you to rewind one more time."
+      "content": "Dante, wybacz mi za to, ale musze cię poprosić żebyś cofneło jeszcze raz zegar."
     },
     {
       "id": 129,
       "model": "단테",
-      "content": "<I have to do that again…?>"
+      "content": "<Znowu musze przez to przechodzić…?>"
     },
     {
       "id": 130,
-      "content": "I’d rather die than have to bear that harrowing pain once more. I waggled my head in dejection."
+      "content": "Wolałobym zginąć niż znowu znieść ten okropny ból. Zamachałom głowom w znaku niezgody."
     },
     {
       "id": 131,
-      "content": "The faint hint of a smile on Vergilius’s face vanishes as his expression shifts."
+      "content": "Na wzrok tego nikły uśmiech na twarzy Wergiliusza szybko znikł, zastąpiony surowym wyrazem twarzy który dopiero co kierował w strone Grzeszników."
     },
     {
       "id": 132,
       "model": "베르길리우스",
-      "content": "…You’d better open up while I’m still feeling generous enough to ask and offer apologies, Manager Dante."
+      "content": "…Kierowniku Dante, szczerze radze ci robić co mówie dopóki póki mam w sobie na tyle szczodrości, żeby oferować przeprosiny."
     },
     {
       "id": 133,
       "model": "베르길리우스",
-      "content": "Oh, in case you’re refusing simply because you don’t want more pain, I can gladly help you with that."
+      "content": "A, i gdybyś myślało że odmowa oszczędzi ci bólu związanego z cofaniem, to mogę szybko naprostować też to nieporozumienie."
     },
     {
       "id": 134,
       "model": "베르길리우스",
-      "content": "This degree of pain will feel like nothing by the time I’m done. Surely you’ll be a tougher person afterward, right?"
+      "content": "W porównaniu z tym, co ci zrobie to będzie nic. Na pewno pomoże ci to znieść ból przyszłych przywróceń, nie sądzisz?"
     },
     {
       "id": 135,
       "model": "오티스",
-      "content": "Did I hear correctly? I’m pretty sure our manager clearly declined your request."
+      "content": "Czy coś źle usłyszałam? Bo wydaje mi się że nasz Kierownik wyraźnie odmówiło na twoją prośbę."
     },
     {
       "id": 136,
       "model": "베르길리우스",
-      "content": "You… This is not the time to step in."
+      "content": "Ty… Teraz nie pora jest się wtrącać."
     },
     {
       "id": 137,
       "model": "오티스",
-      "content": "I was informed when I joined the company that the Executive Manager would be my superior, not you."
+      "content": "Przy dołączeniu do firmy zostałam poinformowana że Kierownik Wykonawczy będzie moim przełożonym, a nie ty."
     },
     {
       "id": 138,
       "model": "오티스",
-      "content": "I would say that the manager has made themself clear with a shake of the head."
+      "content": "Powiedziałabym że wystarczająco wyraźnie odpowiedziało ci machnięciem głową."
     },
     {
       "id": 139,
       "model": "베르길리우스",
-      "content": "I see, so their aide has decided to step in, is that it?"
+      "content": "Widze, że przybył też na ratunek ich mały pomocnik, co?"
     },
     {
       "id": 140,
       "model": "베르길리우스",
-      "content": "Then it’s my turn to make clear what I mean."
+      "content": "A więc widocznie ja też musze wyraźnie się wysłowić."
     },
     {
       "id": 141,
-      "content": "The red hue of his eyes grew deeper, much to my dread."
+      "content": "Ku mojej trwodze, odcień czerwieni jego oczu robił się z każdą chwilą coraz bardziej głęboki."
     },
     {
       "id": 142,
-      "content": "…I don’t really know what I’m meant to do as the manager, or if I even deserve to take this role."
+      "content": "…Nie jestem pewne, co mam teraz zrobić, czy nawet tego, czy zasługuje w ogóle na role Kierownika."
     },
     {
       "id": 143,
-      "content": "But I felt that I should at least stop things here so we don’t get into an even bigger mess."
+      "content": "Ale myśle że powinnom przynajmniej zdeeskalować sytuację, zanim się pogorszy."
     },
     {
       "id": 144,
-      "content": "Reviving one should hurt less than reviving twelve at once…"
+      "content": "Przywrócenie jednej osoby powinno przynajmniej zaboleć mniej niż całej dwunastki na raz…"
     },
     {
       "id": 145,
       "model": "단테",
-      "content": "<Outis… I’ll rewind the clock. It’s okay.>"
+      "content": "<Outis… Wszystko jest w porządku. Cofne zegar.>"
     },
     {
       "id": 146,
-      "content": "Vergilius noticed me motioning her to stand down, and withdrew the red glow from his glare as if in mutual understanding."
+      "content": "Wergiliusz zauważył że każe jej odpuścić, i wycofał w odpowiedzi czerwony blask z swojego wzroku."
     },
     {
       "id": 147,
       "model": "베르길리우스",
-      "content": "Good thinking."
+      "content": "Mądry ruch."
     },
     {
       "id": 148,
       "model": "오티스",
-      "content": "…As you wish, Manager."
+      "content": "…Jak uważasz, Kierowniku."
     },
     {
       "id": 149,
-      "content": "Outis seemed to want to add her input, but she promptly backed down and straightened herself out."
+      "content": "Outis wyraźnie chciała dać jeszcze coś od siebie, ale po chwili wycofała się i wróciła do reszty."
     },
     {
       "id": 150,
-      "content": "The red door greeted me again, along with the twisting sensation."
+      "content": "Znów zawitałom przed czerwonymi wrotami, czując znów to skręcające kiszki uczucie."
     },
     {
       "id": 151,
-      "content": "I’ve given up trying to describe the throes I go through."
+      "content": "Poddałom wszelkie próby opisania boleści, przez które przechodze."
     },
     {
       "id": 152,
-      "content": "Words can’t express it in full, anyway."
+      "content": "Słowa i tak nie są w stanie ich wiernie opisać."
     },
     {
       "id": 153,
       "model": "싱클레어",
-      "content": "…Th, thank you very much…"
+      "content": "…B-Bardzo uprzejmie dziękuje…"
     },
     {
       "id": 154,
-      "content": "Sinclair stood up with a pained moan and bowed to me before waddling back to his seat."
+      "content": "Sinclair wstał na nogi z obolałym stękiem, po czym podreptał spowrotem na swoje miejsce."
     }
   ]
 }
