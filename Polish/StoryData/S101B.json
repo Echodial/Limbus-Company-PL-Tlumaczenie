@@ -29,7 +29,7 @@
     },
     {
       "id": 5,
-      "content": "Mój brak głowy i wspomnień które w niej były też na pewno nie pomagały."
+      "content": "Mój brak głowy oraz wspomnień, które w niej były też na pewno nie pomagały."
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
     },
     {
       "id": 16,
-      "content": "…O wiele bardziej 'unikalna' cecha jego wyglądu sprawiła że prawie wyślizgnęło mi się z moich (retorycznych) ust coś o wiele bardziej nieodpowiedniego."
+      "content": "…O wiele bardziej 'unikalna' cecha jego wyglądu sprawiła, że prawie wyślizgnęło mi się z moich (retorycznych) ust coś o wiele bardziej nieodpowiedniego."
     },
     {
       "id": 17,
@@ -94,7 +94,7 @@
     {
       "id": 19,
       "model": "그레고르",
-      "content": "Tak samo ja ty masz na imię Dante a nie 'Tykacz'."
+      "content": "Tak samo ja ty masz na imię Dante a nie \"Tykacz\"."
     },
     {
       "id": 20,
@@ -113,7 +113,7 @@
     {
       "id": 23,
       "model": "카론",
-      "content": "Tak samo ja ty masz na imię Gregor a nie 'Robaczek'."
+      "content": "Tak samo ja ty masz na imię Gregor a nie \"Robaczek\"."
     },
     {
       "id": 24,
@@ -148,7 +148,7 @@
     {
       "id": 30,
       "model": "돈키호테",
-      "content": "Znany jest on przecież za bycie domem Roślinnej Panny! Jest to miejsce początku historii prawdziwej heroski. Oraz również…"
+      "content": "Znany jest on przecież za bycie domem Roślinnej Panny! Jest to miejsce początku historii autentycznej heroski. No i…"
     },
     {
       "id": 31,
@@ -158,7 +158,7 @@
     {
       "id": 32,
       "model": "히스클리프",
-      "content": "Nie możesz się łaskawie zamknąć i pozwolić innym nacieszyć się spokojem?"
+      "content": "Czy możesz się łaskawie zamknąć i pozwolić innym nacieszyć się spokojem?"
     },
     {
       "id": 33,
@@ -168,12 +168,12 @@
     {
       "id": 34,
       "model": "히스클리프",
-      "content": "Powiedziałem żebyś się zamknęła!"
+      "content": "Powiedziałem, żebyś się zamknęła!"
     },
     {
       "id": 35,
       "model": "이스마엘",
-      "content": "…Sorka, czy ty nie widzisz że to ty jesteś tutaj najgłośnieszy?"
+      "content": "…Sorka, czy ty nie słyszysz że to ty tu robisz najwięcej hałasu?"
     },
     {
       "id": 36,
@@ -269,7 +269,7 @@
     },
     {
       "id": 55,
-      "content": "Nikogo specjalnie nie obchodziły martwe ciała naszych przyszłych pokładowych woźnych."
+      "content": "Nikogo specjalnie nie przejmowały martwe ciała naszych przyszłych pokładowych woźnych."
     },
     {
       "id": 56,
@@ -277,7 +277,7 @@
     },
     {
       "id": 57,
-      "content": "Ale ja nawet nie wiem jak mam przywrócić ich do życia"
+      "content": "Ale ja nawet nie wiem jak dokładnie mam przywrócić ich do życia."
     },
     {
       "id": 58,
@@ -311,16 +311,16 @@
     },
     {
       "id": 64,
-      "content": "Wergiliusz kiwnął leniwie w stronę Faust i wskazał na mnię."
+      "content": "Wergiliusz kiwnął leniwie w stronę Faust i wskazał na mnie."
     },
     {
       "id": 65,
-      "content": "W odpowiedzi wzdechnęła ona lekko, po czym podeszła do mnię, bardziej z zobwiązania niż faktycznej chęci."
+      "content": "W odpowiedzi wzdechnęła ona lekko, po czym podeszła do mnie, bardziej z zobwiązania niż faktycznej chęci."
     },
     {
       "id": 66,
       "model": "파우스트",
-      "content": "Dante, musisz zrobić to samo, co zrobiłoś kiedy pierwszy raz się spotkaliśmy. Nawet jeśli tam była to bardziej instynktowna reakcja."
+      "content": "Dante, musisz zrobić to samo, co zrobiłoś przy naszym pierwszym spotkaniu. Nawet jeśli wtedy było to bliżej instynktownej reakcji."
     },
     {
       "id": 67,
@@ -329,11 +329,11 @@
     },
     {
       "id": 68,
-      "content": "Choć nie mam niczego prypominającego oczu, zasłoniłom mój wzrok rękawem."
+      "content": "Nie posiadam niczego prypominającego oczu, więc zasłoniłom mój wzrok rękawem."
     },
     {
       "id": 69,
-      "content": "W końcu nie było dobrego powodu nie słuchać Faust w tej sytuacji."
+      "content": "W końcu nie mi dobrego powodu nie słuchać Faust w tej sytuacji."
     },
     {
       "id": 70,
@@ -343,7 +343,7 @@
     {
       "id": 71,
       "model": "파우스트",
-      "content": "Jednak tylko ty możesz je zobaczyć. Ponieważ gwiazdy które miały je oświetlać nigdy nie zabłysły na niebie."
+      "content": "Jednak tylko ty możesz je zobaczyć. Ponieważ gwiazdy które miały je oświetlić nigdy nie zabłysły na niebie."
     },
     {
       "id": 72,
@@ -376,27 +376,27 @@
     },
     {
       "id": 79,
-      "content": "Słuchanie wydobywających się z za nich bezdennych lamentów i jęków nawet przez chwilę wywoływało u mnię nudności."
+      "content": "Słuchanie nawet przez chwilę wydobywających się z za nich bezdennych lamentów i jęków wywołało u mnie nudności."
     },
     {
       "id": 80,
-      "content": "Pomimo tego podeszłom do wrot, łapiąc za ich kołatki jakby otwieranie tych drzwi było jedynym celem mojego życia."
+      "content": "Pomimo tego podeszłom do wrot, łapiąc za ich kołatki tak mocno, jakby otworzenie ich było jedyną rzeczą, dla której zostałom stworzone."
     },
     {
       "id": 81,
-      "content": "Pomimo ich ogromu, otwieranie ich było zaskakująco łątwe."
+      "content": "Pomimo ich ogromu, otworzenie ich okazało się zaskakująco łatwe."
     },
     {
       "id": 82,
-      "content": "Pomacałom troche w ciemności. Tysiące, nie, miliony ostatnich słów wydobyły się zza nich."
+      "content": "Zaczęłom macać w ciemności. Zaczęły z niej wybrzmiewać tysiące, nie, miliony ostatnich słów."
     },
     {
       "id": 83,
-      "content": "Wyciągnełom do nich moje dłonie i złapałom pare nieznanych rąk."
+      "content": "Wyciągnełom w ich stronę moje dłonie i złapałom pare nieznajomych mi rąk."
     },
     {
       "id": 84,
-      "content": "Poczułom jak historia różnorodnych grzechów noszących ich piętna zaczęła wspinać się z mojej ręki na moję ramie."
+      "content": "Poczułom jak historia różnorodnych grzechów noszących ich piętna zaczęła wspinać się z mojej ręki na moję ramię."
     },
     {
       "id": 85,
@@ -404,11 +404,11 @@
     },
     {
       "id": 86,
-      "content": "Czy było to pytanie? Czy może raczej miało to wywżeć na mnię presję zanim zdecydowałom przedwcześnie ich puścić?"
+      "content": "Czy było to pytanie o moją zgodę? A może miało to wywżeć na mnie presję abym nie zdecydowało się przedwcześnie ich wypuścić?"
     },
     {
       "id": 87,
-      "content": "Pociągnęłom z całych sił Grzeszników trzymających się za moje ramię."
+      "content": "Mniejsza z tym. Pociągnełom z całych sił za moje ramię, próbując wyciągnąć Grzeszników z za wrot."
     },
     {
       "id": 88,
@@ -417,19 +417,19 @@
     },
     {
       "id": 89,
-      "content": "Nagle poczułom niewyobrażalny ból w w mojej szyi oraz głowie."
+      "content": "Nagle poczułom niewyobrażalny ból roznoszący się z mojej szyi do mojej głowy."
     },
     {
       "id": 90,
-      "content": "Był on tak niesamowicie silny że w tym momencie nie marzyłom o niczym poza śmiercią."
+      "content": "Był on tak niesamowicie silny że w tamtym momencie nie marzyłom o niczym poza śmiercią."
     },
     {
       "id": 91,
-      "content": "Nieopisywalne uczucie brutalnego mieszania złamanych kości z rozszarpanym mięsem ciągnęło się w nieskończonność.."
+      "content": "Nieopisywalne uczucie brutalnego mieszania złamanych kości z rozszarpanym mięsem wydawało ciągnąć się w nieskończonność.."
     },
     {
       "id": 92,
-      "content": "Moje nogi nie wytrzymały, i upadłom bezradnie na kolana w kałuży mojej własnej krwi."
+      "content": "Moje nogi nie wytrzymały, i upadłom bezradnie na kolana w kałużę mojej własnej krwi."
     },
     {
       "id": 93,
@@ -437,15 +437,15 @@
     },
     {
       "id": 94,
-      "content": "Tafla krwawej kałuży powoli zaczęła się trząść, i powoli zaczęły pojawiać się na niej bąbelki oraz fale."
+      "content": "Na tafli otaczającej mnie karmazynowej kałuży zaczęły pojawać się małe fale, a po chwili zaczęły wyjawiać się na niej również bąbelki."
     },
     {
       "id": 95,
-      "content": "Zaraz po tym, z rozlanej na ziemi krwi zaczęły wyłaniać się trzy przypominające ludzi figury."
+      "content": "Zaraz po tym, zaczęły wyłaniać się z niej trzy ludzko wyglądające figury."
     },
     {
       "id": 96,
-      "content": "Po czym pozornie niekończąca się agonia zniknęła jakby jej nigdy wgóle nie było."
+      "content": "A gdy formacja sylwetek dobiegła końca, ta pozornie niekończąca się agonia zniknęła jakby nigdy jej wogóle nie było."
     },
     {
       "id": 97,
@@ -460,7 +460,7 @@
     },
     {
       "id": 99,
-      "content": "Razem z odczyszczeniem krwawych kropli z mojej wizji, powróciłom z powrotem na pokład pełnego markocenia autobusu."
+      "content": "Zaraz po tym jak ztarłom rękawem krwawą rose z mojej wizji, powróciłom z powrotem na pokład pełnego markotu autobusu."
     },
     {
       "id": 100,
@@ -478,7 +478,7 @@
     },
     {
       "id": 103,
-      "content": "Heathcliff obrócił się i na mnię spojżał. W jego oczach widać było tylko ślepą furię."
+      "content": "Heathcliff obrócił się w moją stronę i spojżał w moją tarczę. W jego oczach tańczył płomień ślepej furji."
     },
     {
       "id": 104,
@@ -488,7 +488,7 @@
     {
       "id": 105,
       "model": "히스클리프",
-      "content": "Jak już skończyłoś swoją rolę to zejdź mi z drogi zanim zbiję ci ten durny zegar."
+      "content": "Jak już skończyłoś odgrywać swoją rolę to zejdź mi z drogi zanim zbiję ci ten durny zegar."
     },
     {
       "id": 106,
@@ -506,26 +506,26 @@
     },
     {
       "id": 109,
-      "content": "Niezrozumiałe, wywołujące ciarki bulgoty umierającej osoby doszły do moich uszu."
+      "content": "Niezrozumiałe, jerzące włosy na karku bulgoty zaczęły atakować moje uszy."
     },
     {
       "id": 110,
       "model": "히스클리프",
-      "content": "Następnym razem, Zegarogłowe, tak zrobię z tobą. Rozumiemy się?"
+      "content": "Następnym razem ty tak skończysz. Rozumiemy się, Budzikogłowe?"
     },
     {
       "id": 111,
       "model": "이스마엘",
-      "content": "Naprawde jesteś takim hamem na jakiego wyglądasz."
+      "content": "Jesteś takim hamem, na jakiego wyglądasz."
     },
     {
       "id": 112,
       "model": "히스클리프",
-      "content": "…A tobie jedna śmierć nie wystaczyła?"
+      "content": "…A tobie wykitowanie jeden raz nie staczy?"
     },
     {
       "id": 113,
-      "content": "Heathcliff zacieśnił uścisk na swoim kiju, a Ishmael już gotowała broń do ataku."
+      "content": "Heathcliff zacisnął uścisk na swoim kiju, a Ishmael gotowała już broń do ataku."
     },
     {
       "id": 114,
@@ -533,7 +533,7 @@
     },
     {
       "id": 115,
-      "content": "Gdy ja błądziłom w swoich myślach, atmosfera nagle straciła całe napięcie i nabrała dość chłodne uczucie."
+      "content": "Gdy ja błądziłom w swoich myślach, atmosfera nagle straciła całe napięcie i stała się wręcz chłodna."
     },
     {
       "id": 116,
@@ -556,7 +556,7 @@
     },
     {
       "id": 120,
-      "content": "Para czerwonych ślepi rzuciła między ich chłodny jak lód spojrzenie."
+      "content": "Para czerwonych ślepi rzuciła między ich chłodne jak lód spojrzenie."
     },
     {
       "id": 121,
@@ -581,20 +581,20 @@
     {
       "id": 125,
       "model": "베르길리우스",
-      "content": "Jestem pewnien że jesteście świadomi o moich unikalnych talentach w tej dziedzinie, zgadza się?"
+      "content": "Jestem pewnien że jesteście świadomi moich unikalnych talentów w tej dziedzinie, mam rację?"
     },
     {
       "id": 126,
-      "content": "Dźwięki bezwiednego wicia się po podłodze Sinclaira były jedyną rzeczą walczącą z przytłaczającą ciszą, która nastąpiła po tym pytaniu."
+      "content": "Dźwięki bezwiednego wicia się po podłodze Sinclaira były jedyną rzeczą walczącą z przytłaczającą ciszą, która nastąpiła na pokładzie po tym pytaniu."
     },
     {
       "id": 127,
-      "content": "Heathcliff zmarszczł brwi, ale nie był w stanie wykrzesać w sobie wystarczająco odwagi żeby odszczekać."
+      "content": "Heathcliff zmarszczł brwi, ale nie był w stanie wykrzesać w sobie wystarczająco odwagi, żeby odszczekać."
     },
     {
       "id": 128,
       "model": "베르길리우스",
-      "content": "Dante, wybacz mi za to, ale musze cię poprosić żebyś cofneło jeszcze raz zegar."
+      "content": "Dante, wybacz mi za to, ale musze cię poprosić, żebyś cofneło zegar jeszcze raz."
     },
     {
       "id": 129,
@@ -627,7 +627,7 @@
     {
       "id": 135,
       "model": "오티스",
-      "content": "Czy coś źle usłyszałam? Bo wydaje mi się że nasz Kierownik wyraźnie odmówiło na twoją prośbę."
+      "content": "Czy coś źle zrozumiałam? Bo wydaje mi się że wyraźnie odmówiło twoją prośbę."
     },
     {
       "id": 136,
@@ -647,7 +647,7 @@
     {
       "id": 139,
       "model": "베르길리우스",
-      "content": "Widze, że przybył też na ratunek ich mały pomocnik, co?"
+      "content": "Widze, że przybył na ratunek ich mały pomocnik."
     },
     {
       "id": 140,
