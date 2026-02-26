@@ -9,76 +9,76 @@
     },
     {
       "id": "BlessingOfIndexPrescriptEnemy",
-      "name": "Grace of the Prescript",
-      "desc": "- Offense Level +1 for every 3 Stack\n- Max Stack: 9",
+      "name": "Łaska Nakazu",
+      "desc": "- +1 Poziomu Ataku za każde 3 Wartości\n- Maks Wartość: 9",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescript_Base_2nd",
-      "name": "Prescript",
-      "desc": "Receive Prescript: [Device] under specific conditions",
+      "name": "Nakaz",
+      "desc": "- Otrzymaj 'Nakaz: [Urządzenie]' przy odpowiednich warunkach",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptStudent_0",
-      "name": "Prescript: [Device] I",
-      "desc": "Attack and hit a Prescript's Target.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
+      "name": "Nakaz: [Urządzenie] I",
+      "desc": "Zaatakuj i traf wskazany cel.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka nie ma Odblokowania\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 3",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptStudent_1",
-      "name": "Prescript: [Device] II",
-      "desc": "Hit a Prescript's Target with the Skill equipped in the first Slot, or eliminate a random target.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
+      "name": "Nakaz: [Urządzenie] II",
+      "desc": "Hit a Prescript's Target with the Skill equipped in the first Slot, or eliminate a random target.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - I\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 6",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptStudent_2",
-      "name": "Prescript: [Device] III",
-      "desc": "Stagger or eliminate a random target.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
+      "name": "Nakaz: [Urządzenie] III",
+      "desc": "Stagger or eliminate a random target.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - II\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 9",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptStudent_3",
-      "name": "Prescript: [Device] IV",
-      "desc": "Eliminate all obstacles before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
+      "name": "Nakaz: [Urządzenie] IV",
+      "desc": "Eliminate all obstacles before the next Prescript arrives.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - III",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "UnlockBuff_1",
-      "name": "Unlock - I",
-      "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 15 SP",
+      "name": "Odblokowanie - I",
+      "desc": "- Poziom Ataku +1, Poziom Obrony +1\n- Koniec Walki: Ulecz 15 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_2",
-      "name": "Unlock - II",
-      "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 30 SP",
+      "name": "Odblokowanie - II",
+      "desc": "- Poziom Ataku +2, Poziom Obrony +2\n- Koniec Walki: Ulecz 30 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_3",
-      "name": "Unlock - III",
-      "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 45 SP",
+      "name": "Odblokowanie - III",
+      "desc": "- Poziom Ataku +3, Poziom Obrony +3\n- Koniec Walki: Ulecz 45 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexStudent",
       "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
+      "desc": "- Początek Tury:\n· Gain 1 Poziom Obrony Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Maks Wartość: 100",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
@@ -86,7 +86,7 @@
     {
       "id": "Blandishment_Enemy",
       "name": "Faith Beyond Question",
-      "desc": "- Min & Max Speed +1\n- Offense Level +3, Defense Level +3\n- Gain +1 more Poise Potency from Skills",
+      "desc": "- Min & Maks Prędkość +1\n- Poziom Ataku +3, Poziom Obrony +3\n- Gain +1 more Poise Potency from Skills",
       "summary": "",
       "undefined": "-",
       "flavor": "\"Isn't... Isn't it self-evident? Each word that the beeper grants is unquestionably... b-beyond question.\""
@@ -94,14 +94,14 @@
     {
       "id": "Blandishment_Shin_Enemy",
       "name": "Shin (心) - Sora",
-      "desc": "- Min & Max Speed +1\n- Offense Level +2, Defense Level +2\n- Gain +1 more Poise Potency and Poise Count from Skills\n- Deal +(missing HP percentage + 25)% damage (max 100%)",
+      "desc": "- Min & Maks Prędkość +1\n- Poziom Ataku +2, Poziom Obrony +2\n- Gain +1 more Poise Potency and Poise Count from Skills\n- Deal +(missing HP percentage + 25)% damage (max 100%)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PressureOfPrescript",
       "name": "Onus",
-      "desc": "- Deal +25% damage for every Stack (max 50%)\n- Under Effloresced E.G.O::Procuration state:\n· At 1 Stack, Final Power +1\n· At 2 Stack, Final Power +3 instead\n- Max Stack: 2",
+      "desc": "- Deal +25% damage for every Wartość (max 50%)\n- Under Effloresced E.G.O::Procuration state:\n· At 1 Wartość, Final Power +1\n· At 2 Wartość, Final Power +3 instead\n- Maks Wartość: 2",
       "summary": "",
       "undefined": "-",
       "flavor": "'W-what should I do? What is unquestionable must be carried out unquestionably...'"
@@ -109,7 +109,7 @@
     {
       "id": "PressureOfPrescript_2nd",
       "name": "Extreme Onus",
-      "desc": "- Deal +50% damage for every Stack (max 100%)\n- Under Effloresced E.G.O::Procuration state:\n· At 1 Stack, Final Power +2\n· At 2 Stack, Plus Coin Power +1 and Final Power +3 instead\n- Max Stack: 2\n- When using certain Skills, counts as Onus and is consumed",
+      "desc": "- Deal +50% damage for every Wartość (max 100%)\n- Under Effloresced E.G.O::Procuration state:\n· At 1 Wartość, Final Power +2\n· At 2 Wartość, Plus Coin Power +1 and Final Power +3 instead\n- Maks Wartość: 2\n- When using certain Skills, counts as Onus and is consumed",
       "summary": "",
       "undefined": "-"
     },
@@ -130,14 +130,14 @@
     {
       "id": "YellowHarpoon",
       "name": "The Yellow Harpoon",
-      "desc": "- Turn Start: Gain 4 Haste and 8 Poise\n- Turn End: Gain +3 Poise Count if an enemy has Nested Harpoon",
+      "desc": "- Początek Tury: Gain 4 Haste and 8 Poise\n- Turn End: Gain +3 Poise Count if an enemy has Nested Harpoon",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "YellowHarpoonSin",
       "name": "Shin(心) - The Yellow Harpoon",
-      "desc": "- Base Offense Level +3, Base Defense Level +3\n- Heal 3 SP when attacking target that attacked this unit last turn\n- At 0+ SP, gain Final Power by (SP / 10) (rounded down)",
+      "desc": "- Base Poziom Ataku +3, Base Poziom Obrony +3\n- Ulecz 3 SP when attacking target that attacked this unit last turn\n- At 0+ SP, gain Final Power by (SP / 10) (rounded down)",
       "summary": "",
       "undefined": "-"
     },
@@ -166,7 +166,7 @@
     {
       "id": "CriticalDmgUpVespa",
       "name": "Apic Flashburst Blade Art - Hwando",
-      "desc": "Deal +10% more damage on Critical Hit for every Stack this turn",
+      "desc": "Deal +10% more damage on Critical Hit for every Wartość this turn",
       "summary": "",
       "undefined": "-",
       "flavor": "<color=#fde55d>A swordfighting style originating from the East, suited to those who employ instantaneous bursts of leaping movement that verge on teleportation.\n\nThe boy braved the life-threatening augmentation with a desperate resolve, and his survival proved his worth.</color>"
@@ -174,14 +174,14 @@
     {
       "id": "Vespa_LowMorale",
       "name": "Vexation",
-      "desc": "- Low Morale\n- Gain 1 Pierce Power Up and 1 SP Heal Efficiency Down",
+      "desc": "- Low Morale\n- Gain 1 Pierce Power Up and 1 SP Ulecz Efficiency Down",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Vespa_Panic",
       "name": "Vexation",
-      "desc": "- Panic\n- Gain 2 Pierce Power Up, 1 Pierce DMG Up, and 2 SP Heal Efficiency Down",
+      "desc": "- Panic\n- Gain 2 Pierce Power Up, 1 Pierce DMG Up, and 2 SP Ulecz Efficiency Down",
       "summary": "",
       "undefined": "-"
     },
@@ -202,14 +202,14 @@
     {
       "id": "PhantomIncision",
       "name": "Bladetrail [Afterimage]",
-      "desc": "- Max Stack: 99\n- Turn Start: Gain 1 Fragile for every 10 Stack (max 5)",
+      "desc": "- Maks Wartość: 99\n- Początek Tury: Gain 1 Fragile for every 10 Wartość (max 5)",
       "summary": " ",
       "undefined": "-"
     },
     {
       "id": "PhantomIncisionTotal",
       "name": "Dihui Star's Blade",
-      "desc": "- Total sum of Bladetrail [Afterimage] Stack in this Encounter",
+      "desc": "- Total sum of Bladetrail [Afterimage] Wartość in this Encounter",
       "summary": " ",
       "undefined": "-"
     },
@@ -223,14 +223,14 @@
     {
       "id": "TimeGapAb",
       "name": "Disjunction",
-      "desc": "- Turn Start: The Part gains Shield equal to Stack\n- Reduction in the Shield reduces the Stack as well",
+      "desc": "- Początek Tury: The Part gains Shield equal to Wartość\n- Reduction in the Shield reduces the Wartość as well",
       "summary": " ",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleFour",
       "name": "Fourfold Afterimage Entanglement",
-      "desc": "Stage 4 Afterimage Entanglement\n- Min & Max Speed -2 for this unit\n- On Hit, activate the following effects:\n  · Inflict 1 Poison\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
+      "desc": "Stage 4 Afterimage Entanglement\n- Min & Maks Prędkość -2 for this unit\n- On Hit, activate the following effects:\n  · Inflict 1 Poison\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
       "summary": "Stage 4 Afterimage Entanglement",
       "undefined": "-"
     },
@@ -258,7 +258,7 @@
     {
       "id": "LittleFingerBoss_Shin",
       "name": "Shin (心) - Dihui Star",
-      "desc": "- Max Stack: 3\n- Turn Start: Apply the following effects\n· Gain 5 Poise Potency and +1 Poise Count for every Stack\n· Gain 1 Slash DMG Up for every 15% missing HP on self (max 5)",
+      "desc": "- Maks Wartość: 3\n- Początek Tury: Apply the following effects\n· Gain 5 Poise Potency and +1 Poise Count for every Wartość\n· Gain 1 Slash DMG Up for every 15% missing HP on self (max 5)",
       "summary": " ",
       "undefined": "-"
     },
@@ -299,75 +299,75 @@
     },
     {
       "id": "IndexPrescriptDon_0",
-      "name": "Prescript: [Device] I",
-      "desc": "Use a Skill marked with Mark of the Prescript or hit a target with a marked Skill.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
+      "name": "Nakaz: [Urządzenie] I",
+      "desc": "Użyj Zdolności oznaczonej Znakiem Nakazu lub traf cel oznaczoną Zdolnością.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka nie ma Odblokowania\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 3",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptDon_1",
-      "name": "Prescript: [Device] II",
-      "desc": "Hit a target with a Skill marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
+      "name": "Nakaz: [Urządzenie] II",
+      "desc": "Traf cel Zdolnością oznaczoną Znakiem Nakazu.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - I\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 6",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptDon_2",
-      "name": "Prescript: [Device] III",
-      "desc": "Hit a target with E.G.O Awakening Skill, or, in Effloresced E.G.O::Procuration state, 'Skill 3' marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
+      "name": "Nakaz: [Urządzenie] III",
+      "desc": "Traf cel Zdolnością Przebudzenia E.G.O lub, po zmanifestowaniu Rozkwitłego E.G.O::Prokuratury, '3 Zdolnością' oznaczoną Znakiem Nakazu.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - II\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 9",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "IndexPrescriptDon_3",
-      "name": "Prescript: [Device] IV",
-      "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
+      "name": "Nakaz: [Urządzenie] IV",
+      "desc": "Wyeliminuj wszystkie cele zanim przyjdzie następny Nakaz.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - III",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
       "id": "UnlockBuff_Base",
-      "name": "Unlock",
-      "desc": "- Gain this effect when over certain Grace of the Prescript Stack\n- Effect stage increases based on Grace of the Prescript Stack\n- Max: Stage 3",
+      "name": "Odblokowanie",
+      "desc": "- Zyskaj ten efekt mając konkretne wartości Łaski Nakazu\n- Poziom efektu zależny od tej wartości\n- Maks Poziom 3",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_1",
-      "name": "Unlock - I",
-      "desc": "- Defense Level +1\n- Combat End: Heal 5 SP",
+      "name": "Odblokowanie - I",
+      "desc": "- Poziom Obrony +1\n- Koniec Walki: Ulecz 5 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_2",
-      "name": "Unlock - II",
-      "desc": "- Defense Level +2\n- Combat End: Heal 10 SP",
+      "name": "Odblokowanie - II",
+      "desc": "- Poziom Obrony +2\n- Koniec Walki: Ulecz 10 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_3",
-      "name": "Unlock - III",
-      "desc": "- Defense Level +3\n- Combat End: Heal 15 SP",
+      "name": "Odblokowanie - III",
+      "desc": "- Poziom Obrony +3\n- Koniec Walki: Ulecz 15 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Blandishment",
-      "name": "Faith Beyond Question",
-      "desc": "- Min & Max Speed +1\n- Offense Level +2, Defense Level +2\n- Gain 1 more Poise Potency from Base Skills\n- This unit's SP does not drop below -15 from SP loss effects on this unit's Base Attack Skills\n- Max Stack: 1",
+      "name": "Niepodważalna Wiara",
+      "desc": "- Min & Maks Prędkość +1\n- Poziom Ataku +2, Poziom Obrony +2\n- Bazowe Zdolności przyznają 1 więcej Siły Tchnienia\n- Efekty utraty SP Bazowych Zdolności tej jednostki nie mogą zmniejszyć jej SP poniżej -15\n- Maks Wartość: 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Blandishment_Shin",
-      "name": "Shin (心) - Procuration",
-      "desc": "- Min & Max Speed +2\n- Offense Level +1, Defense Level +1\n- Gain 1 more Poise Potency and Poise Count from Base Skills\n- Deal +(missing HP percentage / 2)% damage with Base Skills (max 40%)\n- Max Stack: 1",
+      "name": "Shin (心) - Prokuratura",
+      "desc": "- Min & Maks Prędkość +2\n- Poziom Ataku +1, Poziom Obrony +1\n- Bazowe Zdolności przyznają 1 więcej Siły i Ilości Tchnienia\n- +(procent brakującego HP / 2)% obrażeń zadawanych Bazowymi Zdolnościami (maks 40%)\n- Maks Wartość: 1",
       "summary": "",
       "undefined": "-"
     }
