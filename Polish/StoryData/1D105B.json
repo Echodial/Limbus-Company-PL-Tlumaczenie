@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Dystrykt 4 - Wnętrze Filii LC",
       "model": "로쟈",
-      "content": "Ah~ That felt real good."
+      "content": "Ah~ Tego mi brakowało."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<I’m dying here…>"
+      "content": "<Umieram tu…>"
     },
     {
       "id": 2,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "What an amazing clock you’ve got~ I haven’t seen that technology anywhere."
+      "title": "Fixer Klasy 8",
+      "content": "Co za ciekawy zegar~ Nigdzie nie widziałam takiej technologii."
     },
     {
       "id": 3,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "That has to be on the level of a S-Singularity… What Wing could be responsible…"
+      "title": "Fixer Klasy 8",
+      "content": "To musi być co najmniej na poziomie O-osobliwości… Które Skrzydło może być za to odpowiedzialne…"
     },
     {
       "id": 4,
-      "content": "Hopkins greedily stared at my head."
+      "content": "Hopkins chciwie patrzył się na moją głowę."
     },
     {
       "id": 5,
-      "content": "I really tried to ignore it, but looking at his stuffed pockets again…"
+      "content": "Starałom się to ignorować, ale myśląc o jego wypchanych kieszeniach…"
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Dante? Why are you clutching your head like that?"
+      "content": "Dante? Dlaczego tak trzymasz swoją głowe?"
     },
     {
       "id": 7,
       "model": "단테",
-      "content": "<I—It’s nothing.>"
+      "content": "<N-nic takiego.>"
     },
     {
       "id": 8,
       "model": "이상",
-      "content": "Miss Faust, can our manager not restore the lives of our guides using the clock’s power?"
+      "content": "Panno Faust, czy nasz kierownik nie może przywrócić mocą zegara naszych przewodników?"
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "The clock will only work for us Sinners."
+      "content": "Zegar działa tylko na nas, Grzeszników."
     },
     {
       "id": 10,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Aw, gee~ I s’pose that’s for the better."
+      "title": "Fixer Klasy 8",
+      "content": "Ojej~ Ale w sumie to pewnie lepiej."
     },
     {
       "id": 11,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Imagine you’re dragged right back to life with a gaping hole in your stomach. Wouldn’t that suck?"
+      "title": "Fixer Klasy 8",
+      "content": "Wyobraźcie sobie być przywróconym do życia z wielgachną dziurą w brzuchu. Niezbyt fajnie, co?"
     },
     {
       "id": 12,
       "model": "아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "Nah, y’know what, you’re lucky if a hole is punched in your gut. You’d be a goner in seconds―"
+      "title": "Fixer Klasy 8",
+      "content": "Nie no, szczerze, to dziura w brzucu to pewnie niezły fart. Zgon w kilka chwil―"
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<Huh…? Wait―!>"
+      "content": "<Huh…? Uważaj―!>"
     },
     {
       "id": 14,
       "model": "쓰러진아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Klasy 8",
       "content": "Ah."
     },
     {
       "id": 15,
-      "content": "A hard tentacle erupts from the wall and penetrates Aya’s abdomen in an instant."
+      "content": "Twarda macka wylatuje zza ściany i natychmiast przeszywa tłów Ayi."
     },
     {
       "id": 16,
       "model": "오티스",
-      "content": "All units, prepare for battle."
+      "content": "Wszystkie oddziały, przygotowac się do walki."
     },
     {
       "id": 17,
       "model": "쓰러진아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "…What’d I tell you?"
+      "title": "Fixer Klasy 8",
+      "content": "…No i co wam mówiłam?"
     },
     {
       "id": 18,
       "model": "쓰러진아야",
       "teller": "Aya",
-      "title": "Grade 8 Fixer",
-      "content": "I’ve always… been a… lucky girl…"
+      "title": "Fixer Klasy 8",
+      "content": "Zawsze… byłam… szczęściarą…"
     },
     {
       "id": 19,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Klasy 8",
       "content": "AYA!!"
     },
     {
       "id": 20,
       "model": "이상",
-      "content": "Her life has departed."
+      "content": "Jej życie dobiegło końca."
     },
     {
       "id": 21,
@@ -129,84 +129,84 @@
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Come, now... You’ll have to keep it together, especially in times like these, yeah?"
+      "content": "No dalej… Musimy trzymać się w garści, zwłaszcza w takich chwilach, co nie?"
     },
     {
       "id": 23,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "B-But…"
+      "title": "Fixer Klasy 8",
+      "content": "A-ale…"
     },
     {
       "id": 24,
       "model": "파우스트",
-      "content": "The attack is under an unusual form. It’s likely that we are facing an Abnormality."
+      "content": "Atak był całkiem nietypowy. Najprawdopodobniej mierzymy się z Anomalią."
     },
     {
       "id": 25,
       "model": "오티스",
-      "content": "Manager. Your command, please."
+      "content": "Kierowniku. Twoje rozkazy, proszę."
     },
     {
       "id": 26,
-      "content": "I felt pity for Yuri; she looked at Aya’s corpse and then back to us with tears. Nevertheless…"
+      "content": "Współczułom Yuri; patrzyła na zwłoki Ayi i z powrotem na nas ze łzami w oczach. Mimo to…"
     },
     {
       "id": 27,
       "model": "단테",
-      "content": "<…Yuri, Hopkins, and Aya. Those three I can’t revive.>"
+      "content": "<…Yuri, Hopkins, i Aya. Ich nie mogę wskrzesić.>"
     },
     {
       "id": 28,
       "model": "단테",
-      "content": "<We have to fight now if we don’t want any more casualties.>"
+      "content": "<Musimy walczyć teraz, jeśli chcemu uniknąć dalszych zgonów.>"
     },
     {
       "id": 29,
       "model": "오티스",
-      "content": "A wise decision, Manager."
+      "content": "Mądra decyzja, Kierowniku."
     },
     {
       "id": 30,
       "model": "홉킨스",
       "teller": "Hopkins",
-      "title": "Grade 8 Fixer",
-      "content": "You can make sense of that ticking…?"
+      "title": "Fixer Klasy 8",
+      "content": "Rozumiesz to tykanie…?"
     },
     {
       "id": 31,
-      "content": "Outis gave Hopkins a fiery glare, but soon reminded herself of her priorities and breathed in to shout."
+      "content": "Outis rzuciła Hopkinsowi ostre spojrzenie, ale szybko przypomniała sobie o naszych priorytetach i wzięła wdech przed zawołaniem."
     },
     {
       "id": 32,
       "model": "오티스",
-      "content": "…It’s the manager’s order, lackeys!"
+      "content": "…Dostaliśmy rozkaz! Wykonać!"
     },
     {
       "id": 33,
       "model": "오티스",
-      "content": "You will surround the enemy in formation. The target is the Uniform ahead!"
+      "content": "Otaczamy wroga w szyku. Cel stoi przed nami!"
     },
     {
       "id": 34,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…Okay."
+      "title": "Fixer Klasy 8",
+      "content": "…Okej."
     },
     {
       "id": 35,
       "model": "그레고르",
-      "content": "To be honest… I’m not sure if you can say that thing has a “form”."
+      "content": "Szczerze mówiąc… Nie jestem pewny czy to cos właściwie ”Stoi”."
     },
     {
       "id": 36,
-      "content": "Slowly encroaching vines, followed by the shadow of a figure that looks to be several times taller than a human."
+      "content": "Powoli zbliżające się pnącza, a za nimi spowita cieniem postać, wyglądająca na kilkukrotnie wyższą od człowieka."
     },
     {
       "id": 37,
-      "content": "It… was approaching, begetting fright unlike any foe we’ve faced up until now."
+      "content": "Każdy kolejny krok wywoływał strach nieporównywalny z niczym, co do tej pory widzieliśmy."
     }
   ]
 }

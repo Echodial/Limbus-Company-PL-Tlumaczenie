@@ -2,96 +2,96 @@
   "dataList": [
     {
       "id": 0,
-      "content": "Perhaps the time this ex-soldier spent off the battlefield was long enough to rust his prowess."
+      "content": "Być może cały ten czas spędzony poza polem walki wystarczył, żeby zdolności bojowe tego byłego żołnierza się zatarły."
     },
     {
       "id": 1,
-      "content": "The head manager who must have defeated countless enemies in his glory days was now nearing his own end."
+      "content": "Naczelny kierownik, który z pewnością pokonał niezliczonych wrogów w swoim okresie świetności miał zginąć tutaj."
     },
     {
       "id": 2,
-      "place": "District 4 - LC Branch Interior",
+      "place": "Dystrykt 4 - Wnętrze Filii LC",
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "You were once well-respected, Gregor…"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Kiedyś cię podziwiali, Gregor…"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "…I never really asked for respect."
+      "content": "…Nigdy nie prosiłem o podziw."
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Don’t proceed any further… Only hell awaits you."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Nie idzcie tam dalej… Czeka was tylko piekło."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "Sorry, but I don’t think I can follow your advice. I ought to be a go-getter if I don’t wanna be fired."
+      "content": "Wybacz, ale raczej nie mogę słuchać twoich porad. Muszę mieć ambicje, inaczej mogą jeszcze mnie zwolnić."
     },
     {
       "id": 6,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Have you abandoned your honor… for some pittance?"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Porzuciłeś swój honor… za jakieś grosze?"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "I sold that away long ago, right with my medal. Landlord couldn’t wait for rent any longer."
+      "content": "Dawno go sprzedałem, razem z odznaką. Czymś musiałem zapłacić czynsz."
     },
     {
       "id": 8,
-      "content": "A bitter smile appeared on the head manager’s face."
+      "content": "Na twarzy naczelnego kierownika pojawił się gorzki uśmiech."
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "You’re… no different from us…"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Niczym… się od nas nie różnisz…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "In the end, we’re…"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Co by nie było, jesteśmy…"
     },
     {
       "id": 11,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Nothing… but disgusting pests…"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Niczym wiecej… niż ochydnymi robalami…"
     },
     {
       "id": 12,
-      "content": "He took a few more shallow breaths, then ceased to move."
+      "content": "Po jeszcze kilku kolejnych płytkich wdechach, konający przed nami były żołnierz przestał się ruszać."
     },
     {
       "id": 13,
       "model": "그레고르",
-      "content": "…Hey, mind if I borrow a cig?"
+      "content": "…Hej, mogę pożyczyć dymka?"
     },
     {
       "id": 14,
       "model": "료슈",
-      "content": "…Just this once."
+      "content": "…Tylko ten jeden raz."
     },
     {
       "id": 15,
-      "content": "Gregor put the borrowed cigarette next to the one he already held in his mouth, then lit it and tossed it on the chest of the deceased commander."
+      "content": "Gregor włożył pożyczonego papierosa obok tego, którego miał już w ustach, zapalił go i rzucił na pierś poległego dowódcy."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Sorry, didn’t wanna share mine with that thing."
+      "content": "Wybacz, nie chciałem dzielić z tym mojego."
     },
     {
       "id": 17,
@@ -100,7 +100,7 @@
     },
     {
       "id": 18,
-      "content": "Ryōshū gave a snort. The smoke from Gregor’s cigarette lingered with the prevailing silence in the air for a short while."
+      "content": "Ryōshū prychnęła pod nosem. Dym z papierosa Gregora pozostał chwilę w powietrzu, mieszając się z panującą w pokoju ciszą."
     }
   ]
 }

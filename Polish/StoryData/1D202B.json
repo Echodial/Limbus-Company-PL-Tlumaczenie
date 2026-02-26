@@ -2,100 +2,100 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "Another veteran appeared in the dark, carrying a depressed aura."
+      "place": "Dystrykt 4 - Wnętrze Filii LC",
+      "content": "W mroku pojawił się kolejny weteran, od którego aż czuć było depresujną aurę."
     },
     {
       "id": 1,
-      "content": "His sparkling old badge seemed to signify a high rank once held."
+      "content": "Jego błyszcząca odznaka sugerowała, że ma on wysoki stopień… albo przynajmniej miał"
     },
     {
       "id": 2,
       "model": "G사부장",
       "teller": "???",
       "title": "???",
-      "content": "…Manager Gregor?"
+      "content": "…Kierownik Gregor?"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "I think I remember that face of yours. But why?"
+      "content": "Wydaje mi się, że pamiętam tą twoją twarz. Tylko skąd?"
     },
     {
       "id": 4,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "…I was the head manager of your team."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "…Byłem naczelnym kierownikiem twojego zespołu."
     },
     {
       "id": 5,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Not only did you desert us, you now have the audacity to take the lives of your old comrades—my subordinates."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Nie dość, że na nas zdezerterowałeś, to jeszcze masz czelność odbierać życie swoich starych pobratyńców - moich podwładnych."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "Look, the war ended a decade ago. But, I guess some folks still haven’t let go of their obsolete ranks, huh?"
+      "content": "Słuchaj, wojna skończyła się całą dekadę temu. Ale widzę, że niektórzy tutaj dalej trzymają się swoich nic już nie znaczących stopni wojskowych, co?"
     },
     {
       "id": 7,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Ended? Nothing has ended."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Skończyła? Nic się wcale nie skończyło."
     },
     {
       "id": 8,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Nothing… has ended… dammit…"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Nic się… kuźwa… nie skończyło…"
     },
     {
       "id": 9,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "The war may have been over for you when you deserted G Corp…"
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Dla ciebie wojna mogła dobiec końca, kiedy zdezerterowałeś z G Corpu…"
     },
     {
       "id": 10,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "But we’re fighting for our lives on the battlefield to this day."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Ale my po dziś dzień walczymy o życie na tym pobojowisku."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "As much as I didn’t want to relate to you this way…"
+      "content": "Po drugiej stronie trawa wcale nie zieleńsza…"
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "I’m not really that different here."
+      "content": "Też nie mam łatwo."
     },
     {
       "id": 13,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "Then you ought to understand, Gregor."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "A więc z pewnością rozumiesz, Gregor."
     },
     {
       "id": 14,
       "model": "G사부장",
-      "teller": "Decrepit G Corp. Head Manager",
-      "title": "G Corp. Remnant",
-      "content": "There is only one verdict that awaits deserters."
+      "teller": "Podupadły Naczelny Kierownik G Corpu",
+      "title": "Niedobitek G Corpu",
+      "content": "Dezerterów czeka tylko jeden wyrok."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "You say that like it means something… But it’s against company policy to carry out summary execution for personal revenge, my Head Manager."
+      "content": "Mówisz, jakby to miało jakiekolwiek znaczenie… Ale zbiorowa egzekucja z pobudek osobistych jest wbrew zasadon naszej firmy, mój Naczelny Kierowniku."
     }
   ]
 }
