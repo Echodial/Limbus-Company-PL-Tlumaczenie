@@ -3191,6 +3191,158 @@
       "desc": "- Maks Wartość: 20\n- Początek tury: Zyskaj 2 Tarczy za każdą Wartość\n- +1% obrażeń zadawanych Trafieniem Krytycznym za każdą Wartość",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptYi_0",
+      "name": "Nakaz: [Urządzenie] I",
+      "desc": "Użyj Zdolności oznaczonej Znakiem Nakazu lub traf cel oznaczoną Zdolnością.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka nie ma Odblokowania\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
+    },
+    {
+      "id": "IndexPrescriptDon_1",
+      "name": "Nakaz: [Urządzenie] II",
+      "desc": "Traf cel Zdolnością oznaczoną Znakiem Nakazu.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - I\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
+    },
+    {
+      "id": "IndexPrescriptDon_2",
+      "name": "Nakaz: [Urządzenie] III",
+      "desc": "Zdobądź Prokuraturę [Hermes]. Powtażaj ten Nakaz, aż Prokuratura [Hermes] osiągnie 9 Wartości\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - II\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
+    },
+    {
+      "id": "IndexPrescriptDon_3",
+      "name": "Nakaz: [Urządzenie] IV",
+      "desc": "Wyeliminuj wszystkie cele zanim przyjdzie następny Nakaz.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
+    },
+    {
+      "id": "StackYisangSpecialSkill",
+      "name": "Prokuratura [Hermes]",
+      "desc": "- Początek Tury: Przy 9 Wartości, Przyznaje dostęp do potężnej Zdolności\n- Na turę można zdobyć do (poziom Odblokowania + 2) Watrości\n- Maks Wartość: 9\n· Jeśli poziom Odblokowania jest poniżej II, maksymalna Wartość tego efektu jest ograniczona do 8",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Shin_IndexFingerYisang",
+      "name": "Shin (心) - Los",
+      "desc": "- +1 Min & Maks Prędkości\n- +1 Siły i Ilości Tchnienia zyskiwanych z Bazowych Zdolności\n- Jeśli SP tej jednostki jest wyższe niż celu, zadaje ona +1% obrażeń za każde 3 różnicy SP (maks 15%; jednostki nie posiadające SP są liczone jakby miały 0 SP)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisangMask",
+      "name": "Zakrywająca Ranę Maska",
+      "desc": "- +2 Poziomu Ataku, -2 Poziomu Obrony\n- -10% obrażeń otrzymywanych od ataków w ślepy punkt",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisang",
+      "name": "Rozżarzona Rana",
+      "desc": "- +3 Poziomu Ataku, -3 Poziomu Obrony\n- -25% obrażeń otrzymywanych od ataków w ślepy punkt\n- Początek Tury: Zyskaj 1 Podpalenia i 1 Krwawienia\n- +15% obrażeń zadawanych Niezłomnymi Monetami Bazowych Zdolności Atakujących",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BlackNightmareYisang",
+      "name": "Oddanie Się Nakazom",
+      "desc": "- +5 Min & Maks Prędkości\n- Przyznaj dane efekty Zdolności 'Furioso-Replika':\n· Przy Trafieniu, Nałóż +1 dodatkowej Siły Zrozpaczenia i zyskuj +1 dodatkowej Siły Tchnienia\n· Przy Trafieniu, Nałóż +3 Ilości Zrozpaczenia (raz na cel)\n· +30% zadanych obrażeń\n- Wygasa na Końcu Tury",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon01Hatchet",
+      "name": "Rąbiąc żebra siekierą...",
+      "desc": "- Ta Moneta zadaje obrażenia od Uderzenia\n- Przy Trafieniu bez Pękania, zyskaj 2 Tchnienia",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon02Stiletto",
+      "name": "Przeszywając płuca sztyletem...",
+      "desc": "- Ta Moneta zadaje obrażenia od Dźgania\n- Przy Trafieniu bez Pękania, Nałóż 2 Zrozpaczenia",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon03Greatsword",
+      "name": "Przedzierając się przez ramię i czaszkę mieczem bękarcim...",
+      "desc": "- Ta Moneta zadaje obrażenia od Cięcia\n- Ta Moneta zadaje +5% obrażeń\n- Przy Trafieniu bez Pękania, zyskaj 1 Większy Poziom Ataku na początku następnej tury (2 razy na turę)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon04Rapier",
+      "name": "Dziurawiąc tors w 10 lub więcej miejscach rapierem...",
+      "desc": "- Ta Moneta zadaje obrażenia od Dźgania\n- Ta Moneta zadaje +5% obrażeń\n- Przy Trafieniu bez Pękania, Nałóż 1 Mniejszy Poziom Obrony na początku następnej tury (2 razy na turę)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon05Sledgehammer",
+      "name": "Rozbijając tył czaszki młotem...",
+      "desc": "- Ta Moneta zadaje obrażenia od Uderzenia\n- Ta Moneta zadaje +5% obrażeń\n- Przy Trafieniu bez Pękania, podnieś Próg Zachwiania celu o 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon06Ultragreatsword",
+      "name": "Przepoławiając ciało wielkim mieczem...",
+      "desc": "- Ta Moneta zadaje obrażenia od Cięcia\n- Ta Moneta zadaje +15% obrażeń\n- Przy Trafieniu bez Pękania, Nałóż 1 Kruchość przed Cięciem do początku następnej tury (2 razy na turę)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon07Lance",
+      "name": "Świdrując 20 calową dziurę lancą...",
+      "desc": "- Ta Moneta zadaje obrażenia od Dźgania\n- Ta Moneta zadaje +15% obrażeń\n- Przy Trafieniu bez Pękania, Nałóż 1 Kruchość przed Dźganiem do początku następnej tury (2 razy na turę)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon08Chain",
+      "name": "Rozdzierając ciało na dziesięć tysięcy kawałków biczem...",
+      "desc": "- Ta Moneta zadaje obrażenia od Uderzenia\n- Ta Moneta zadaje +15% obrażeń\n- Przy Trafieniu bez Pękania, Nałóż 1 Kruchość przed Uderzeniem do początku następnej tury (2 razy na turę)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon09Scythe",
+      "name": "Rozdzierając samą przestrzeń kosą, jak pewna osoba...",
+      "desc": "- Ta Moneta zadaje obrażenia od Cięcia\n- Ta Moneta zadaje +30% obrażeń\n- Przy Trafieniu bez Pękania, gwarantuje Trafienie Krytyczne",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SatisfyingEsteemNeeds",
+      "name": "Potrzeba Zauważenia Zaspokojona",
+      "desc": "- +7.5% obrażeń zadawanych Zdolnościami oznaczonymi Znakiem Nakazu\n- +7.5% obrażeń zadawanych Celom Nakazu",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
     }
   ]
 }
