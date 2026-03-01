@@ -38,11 +38,11 @@
     },
     {
       "id": "CRIMSON",
-      "name": "Crimson"
+      "name": "<color=#9f6a3a>[</color>"
     },
     {
       "id": "SCARLET",
-      "name": "Scarlet"
+      "name": "<color=#9f6a3a>]</color>"
     },
     {
       "id": "AMBER",
@@ -86,11 +86,11 @@
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Trafienie Orłem]"
+      "name": "[Orzeł]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Trafienie Reszką]"
+      "name": "[Reszka]"
     },
     {
       "id": "OnSucceedEvade",
@@ -218,7 +218,7 @@
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[Zabicie Przeciwnika Trafieniem Krytycznym]"
+      "name": "[Zabicie Trafieniem Krytycznym]"
     },
     {
       "id": "DefeatDuelAttack",
@@ -254,19 +254,19 @@
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Ponowne Wykorzystanie - Trafienie]"
+      "name": "[Ponowne Wykorzystanie - Trafienie"
     },
     {
       "id": "CriticalOnSucceedAttackHead",
-      "name": "[Trafienie Krytyczne Orłem]"
+      "name": "[On Crit - Heads Hit]"
     },
     {
       "id": "OnStartCoin",
-      "name": "[Przy Rzucie Monetą]"
+      "name": "[Coin Start]"
     },
     {
       "id": "BeforeBehavior",
-      "name": "[Przed Akcją]"
+      "name": "[Before Action]"
     }
   ]
 }
