@@ -5821,12 +5821,12 @@
     {
       "id": "battle_select_10912_1",
       "desc": "############ Si Branch Rodion Start ############",
-      "dlg": "Wołałeś mnie, milordzie? Pamiętaj, jak chcesz żeby coś było dobrze zrobione to wyślij mnie."
+      "dlg": "Wołałeś mnie, milordzie? Pamiętaj, jak chcesz coś zrobione porządnie, zawsze wyślij mnie."
     },
     {
       "id": "battle_endcommand_10912_1",
       "desc": "",
-      "dlg": "Czas wbić w tą sprawe swoje kły."
+      "dlg": "Czas zatopić w was moje kły."
     },
     {
       "id": "battle_enemy_break_10912_1",
@@ -5836,7 +5836,7 @@
     {
       "id": "battle_kill_10912_1",
       "desc": "",
-      "dlg": "Ale miernota."
+      "dlg": "Co za miernota."
     },
     {
       "id": "battle_break_10912_1",
@@ -5846,17 +5846,17 @@
     {
       "id": "battle_dead_10912_1",
       "desc": "",
-      "dlg": "I po co… to wszystko było…? Ten cały czas… który zmarnowałam… na tym lordzinie…"
+      "dlg": "I po co… to wszystko było…? Ten cały czas… który zmarnowałam… służąc temu lordzinie…"
     },
     {
       "id": "battle_s3_10912_1_3",
       "desc": "",
-      "dlg": "Taki dystans jest dla mnie w zam raz…\nDla ciebie może to być jednak troszke za daleko!"
+      "dlg": "Taki dystans jest dla mnie w zam raz…\nAle dla ciebie to już raczej za daleko!"
     },
     {
       "id": "battle_select_11212_1",
       "desc": "############ Si Branch Gregor Start ############",
-      "dlg": "Mówiłem ci chyba, żebyś uważało na zwiniętego węża."
+      "dlg": "Mówiłem ci chyba, żebyś nie podchodziło do zwiniętego węża."
     },
     {
       "id": "battle_endcommand_11212_1",
@@ -5866,7 +5866,7 @@
     {
       "id": "battle_enemy_break_11212_1",
       "desc": "",
-      "dlg": "Nie spodziewałeś się pewnie tego, co nie?"
+      "dlg": "Co? Tego to się pewnie nie spodziewałeś."
     },
     {
       "id": "battle_kill_11212_1",
@@ -5896,17 +5896,17 @@
     {
       "id": "battle_endcommand_10212_1",
       "desc": "",
-      "dlg": "Daremność tkwi w niemożliwości(不可違也). Nie mogę zostać ograniczona."
+      "dlg": "Daremność tkwi w awykonalności(不可違也). Nie zostane ograniczona."
     },
     {
       "id": "battle_enemy_break_10212_1",
       "desc": "",
-      "dlg": "Daremność."
+      "dlg": "Daremna próba."
     },
     {
       "id": "battle_kill_10212_1",
       "desc": "",
-      "dlg": "A teraz, odnajdź swe własne oświecenie."
+      "dlg": "Czas, abyś odnalazł swoje własne oświecenie."
     },
     {
       "id": "battle_break_10212_1",
@@ -5931,7 +5931,7 @@
     {
       "id": "battle_select_10812_1",
       "desc": "############ Xichun Ishmael Start ############",
-      "dlg": "Błagam, nie rób rabanu jak nie masz nic ważnego do powiedzenia. Wole jak."
+      "dlg": "Błagam, nie zagaduj do mnie jak nie masz nic ważnego do powiedzenia. Wole jak jest cicho."
     },
     {
       "id": "battle_endcommand_10812_1",
@@ -5956,7 +5956,7 @@
     {
       "id": "battle_dead_10812_1",
       "desc": "",
-      "dlg": "Cóż za niezwykle… krótka wiosna…"
+      "dlg": "Co za niezwykle… krótka wiosna…"
     },
     {
       "id": "battle_s3_10812_1_001",
