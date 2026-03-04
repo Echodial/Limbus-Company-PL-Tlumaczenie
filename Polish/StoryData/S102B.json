@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Na pokładzie Mefistofolesa",
       "model": "돈키호테",
-      "content": "Pardon me! I have a question!"
+      "content": "Przepraszam! Posiadam niezwykle ważne pytanie!"
     },
     {
       "id": 1,
-      "content": "Don Quixote suddenly raised her hand."
+      "content": "Don Kichote nagle podniosła ręke."
     },
     {
       "id": 2,
       "model": "베르길리우스",
-      "content": "Shoot."
+      "content": "Wal."
     },
     {
       "id": 3,
       "model": "돈키호테",
-      "content": "Verily, I understood the first rule well! What is the second rule, then?"
+      "content": "Doprawdy, udało mi się zrozumieć pierwszą zasadę! Jednakże... jaka jest druga zasada?"
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "Hah, really… Why are you so eager to learn that?"
+      "content": "Ha, ja nie moge… Czemu tak bardzo chcesz się tego dowiedzieć?"
     },
     {
       "id": 5,
       "model": "베르길리우스",
-      "content": "……"
+      "content": "Hmm…"
     },
     {
       "id": 6,
-      "content": "Vergilius gave a cold stare to Ryōshū, who had just lit her cigarette. She looked back at him with a peculiar face."
+      "content": "Wergiliusz puścił w strone Ryōshū zimne spojrzenie, poczas gdy ona niewzruszona hałasem zapalała dwunastego już dzisiaj papierosa. Odpowiedziała mu robiąc dziwną mine, po czym wróciła do palenia."
     },
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "Rule number two…"
+      "content": "Zasada numer dwa to…"
     },
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "Don’t litter the bus floor with cigarettes. They leave burn marks."
+      "content": "Nie rzucajcie petów na podłoge. Zostawiają ślady."
     },
     {
       "id": 9,
@@ -51,112 +51,112 @@
     },
     {
       "id": 10,
-      "content": "The bus falls silent again."
+      "content": "Na pokładzie znowu zapadła głucha cisza."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Now wait a second, the bus shouldn’t be this quiet. Where’s the engine’s roar?"
+      "content": "Chwila, na pokładzie nie powinno być tak cicho. Gdzie podział się ryk silnika?"
     },
     {
       "id": 12,
       "model": "베르길리우스",
-      "content": "Charon, why aren’t you speeding up?"
+      "content": "Charon, czemu stoimy?"
     },
     {
       "id": 13,
       "model": "카론",
-      "content": "No food. Mephi is hungry."
+      "content": "Nie ma szamki. Mefi robi strajk głodowy."
     },
     {
       "id": 14,
       "model": "베르길리우스",
-      "content": "Good. We could use something to lift the mood."
+      "content": "Dobrze się składa. Przydałoby się coś do poprawienia nastrojów."
     },
     {
       "id": 15,
-      "content": "Are we dropping by a gas station?"
+      "content": "Czy będziemy zatrzymywać się przy stacji benzynowej?"
     },
     {
       "id": 16,
-      "content": "The idea of Vergilius casually plugging a fuel nozzle into the bus like an average driver felt alien."
+      "content": "Nie jestem sobie w stanie wyobrazić Wergiliusza używającego dystrybutora paliwa jak typowy kierowca."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "A car needs fuel to run."
+      "content": "Każdy pojazd potrzebuje paliwa."
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "Charon, try flashing the headlights a bit. Like stage lights."
+      "content": "Charon, pomigaj troche długimi przez chwile. Jak na koncercie."
     },
     {
       "id": 19,
       "model": "카론",
-      "content": "Mhm, it’s dance timey."
+      "content": "Mhm, czas na tańcowanie."
     },
     {
       "id": 20,
       "model": "이스마엘",
-      "content": "Wait, if we do that, we’re effectively asking to be attacked."
+      "content": "Czekaj, przecież robienie tak w takiej okolicy to wręcz proszenie się o kłopoty."
     },
     {
       "id": 21,
       "model": "뫼르소",
-      "content": "That appears to be the intent."
+      "content": "Wygląda na to, że taki rezultat jest przez nich pożądany."
     },
     {
       "id": 22,
       "model": "이스마엘",
-      "content": "…Sorry?"
+      "content": "…Hę?"
     },
     {
       "id": 23,
-      "content": "I could hear someone slam the bus outside."
+      "content": "Usłyszałom, jak ktoś trzasnął czymś w maske Mefistofolesa."
     },
     {
       "id": 24,
-      "teller": "Number-nuts Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "Oi! Leave all ya stuff behind and get off! Y’got 30 seconds! Ten! Nine!"
+      "teller": "Głąbowaty Chuligan",
+      "title": "Tylne Ulice Czwartego Dystryktu",
+      "content": "Ej! Zostawić wszystkie swoje rzeczy na pokładzie i wysiadać! Macie 30 sekund! Dziesięć! Dziewięć!"
     },
     {
       "id": 25,
-      "teller": "Sharp Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "Ey, you skipped twenty of ‘em."
+      "teller": "Cięty Chuligan",
+      "title": "Tylne Ulice Czwartego Dystryktu",
+      "content": "Stary, zgubiłeś tak z 20 sekund."
     },
     {
       "id": 26,
-      "teller": "Number-nuts Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "Er… Uhh… Well say your prayers for the other 20!"
+      "teller": "Głąbowaty Chuligan",
+      "title": "Tylne Ulice Czwartego Dystryktu",
+      "content": "Em… Cóż… Za te pozostałe 20 będziecie musieli mi zapłacić!"
     },
     {
       "id": 27,
       "model": "이스마엘",
-      "content": "Sigh, why am I surrounded by dullards left and right."
+      "content": "Ehh, czemu ja ciągle jestem otoczona przez tępaków."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "…What’d you just say?"
+      "content": "…Coś ty właśnie powiedziała?"
     },
     {
       "id": 29,
       "model": "돈키호테",
-      "content": "How cowardly of them to ambush us! They must be villains without a shadow of a doubt!"
+      "content": "Cóż za tchóżliwe kmiotki, zastawili na nas zasadzkę i jeszcze każą nam zostawić broń! Nie posiadam do tego faktu cienia zwątpienia, za tymi drzwiami czeka nas banda rzezimieszków!"
     },
     {
       "id": 30,
       "model": "베르길리우스",
-      "content": "Alright, everyone off."
+      "content": "Dobra, wszyscy wysiadać."
     },
     {
       "id": 31,
       "model": "베르길리우스",
-      "content": "And one more thing: we want them near death, not dead. Got it?"
+      "content": "A, i jeszcze jedno: nie chcemy ich utłuc na śmierć, tylko bardzo blisko do niej. Zrozumiano?"
     }
   ]
 }
