@@ -512,7 +512,7 @@
     },
     {
       "id": 21109,
-      "name": "I'll Go fer Scissors. How 'Bout You?",
+      "name": "Ja Wybieram Nożyce. A ty??",
       "desc": "Outis’s E.G.O Gear"
     },
     {
@@ -524,6 +524,11 @@
       "id": 20409,
       "name": "Great Trichiliocosm [三千大世界]",
       "desc": "Ryōshū’s E.G.O Gear"
+    },
+    {
+      "id": 21009,
+      "name": "Harmonia",
+      "desc": "Sinclair’s E.G.O Gear"
     }
   ]
 }
