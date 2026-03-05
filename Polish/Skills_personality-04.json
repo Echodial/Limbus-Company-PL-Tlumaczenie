@@ -2546,6 +2546,402 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pif. Paf.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Pif. Paf.",
+          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Vibration] + [Sinking]), +1 Mocy Monet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pif. Paf.",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 6 ([Vibration] + [Sinking]) na celu (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Woń Kwitnąca w Pustce",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Woń Kwitnąca w Pustce",
+          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Vibration] + [Sinking]), +1 Mocy Monet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Woń Kwitnąca w Pustce",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 6 ([Vibration] + [Sinking]) na celu (maks 2)\n[WhenUse] Zadaj +1% obrażeń za każde [AlriuneEGOThey] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Pełny Rozkwit",
+          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Vibration] + [Sinking]), +1 Mocy Monet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pełny Rozkwit",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 6 ([Vibration] + [Sinking]) na celu (maks 2)\n[WhenUse] Zadaj +1% obrażeń za każde [AlriuneEGOThey] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe [Sinking] na celu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "O.S.A.A.",
+          "desc": "[EndBattle] Zyskaj 10 [AlriuneEGOWe] (raz na turę)\n[EndBattle] Zyskaj 2 [Vulnerable] oraz 2 [Enhancement] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "O.S.A.A.",
+          "desc": "[EndBattle] Zyskaj 10 [AlriuneEGOWe] (raz na turę)\n[EndBattle] Zyskaj 2 [Vulnerable] oraz 2 [Enhancement] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bezkresny Strumień Opowieści",
+          "desc": "[CantDuel]\n[WideAreaRampage]\nGdy ta Umiejętność Nakłada [GodokPanicType], jeśli jej cel ma, lub będzie miał na początku następnej tury, na sobie [GodokPanicType], Aktywuj zamiast tego [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [GodokPanicType] na początku następnej tury"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [GodokPanicType] na początku następnej tury"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [GodokPanicType] na początku następnej tury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041406,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Okazały Opad Kwiecistych Kurtyn",
+          "desc": "[CantDuel]\nZewnętrzne efekty nie mogą wywołać powtórnego użycia tej Umiejętności\nZadaj +30% obrażeń za każdą niewykożystaną Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 5 (suma [AlriuneEGOThey] na wszystkich celach) (maks 6)\n\n[EndSkill] Strać całe [AlriuneEGOWe]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe [Sinking] na celu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
