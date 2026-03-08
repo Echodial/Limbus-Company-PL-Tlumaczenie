@@ -1827,7 +1827,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli [Vibration] na celu nie jest w trybie [Switch_Vibration], aktywuj [FusionVibration] w [VibrationEcho]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli [Vibration] na celu nie jest w trybie [Switch_Vibration], aktywuj [FusionVibration] w [VibrationCollapse]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1870,7 +1870,7 @@
                   "desc": "<style=\"highlight\"> Jeśli [Vibration] na celu jest w trybie [Switch_Vibration] lub [FusionVibration], ta Moneta zadaje +48% Obrażeń</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli [Vibration] na celu nie jest w trybie [Switch_Vibration], aktywuj [FusionVibration] w [VibrationEcho]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli [Vibration] na celu nie jest w trybie [Switch_Vibration], aktywuj [FusionVibration] w [VibrationCollapse]<style=\"highlight\"></style>"
                 }
               ]
             }
