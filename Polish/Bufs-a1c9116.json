@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "BurstAgility",
-      "name": "Deathrite【Haste】",
-      "desc": "Base Stack: 3\nWhen getting Rupture triggered by getting hit by an Attack Skill from a target with 10+ Speed, lose 1 Stack and gain +1 Rupture Count\nAt 0 Stack, take Gluttony damage equal to Rupture Potency on self; then, this effect expires\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "name": "Obrzęd Śmierci【Pośpiech】",
+      "desc": "Bazowa Wartość: 3\nKiedy Pęknięcie tej jednostki zostanie aktywowane przez trafienie Zdolności należącej do jednostki, która posiada 10+ Prędkości, Strać 1 Wartość i zyskaj 1 Ilość Pęknięcia\nPrzy 0 Wartości, zadaje obrażenia od Obżarstwa równe Pęknięciu na sobie, po czym ten efekt wygasa\n※ Nie można nałożyć dodatkowej Wartości tego efektu, kiedy ten jest już aktywny",
       "summary": "If conditions are met: inflict Gluttony bonus damage",
       "undefined": "-"
     },
     {
       "id": "LegStrength",
-      "name": "Strider【Mao】",
-      "desc": "Max Stack: 3\nTurn End: gain 5 Haste next turn\nReduced by 1 at Turn End",
+      "name": "Bieg【Mao】",
+      "desc": "Maks Wartość: 3\nKoniec Tury: zyskaj 5 Pośpiechu na początku następnej tury\nWartość spada o 1 na końcu tury",
       "summary": "If conditions are met: inflict Gluttony bonus damage",
       "undefined": "-"
     },

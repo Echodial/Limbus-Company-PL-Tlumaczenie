@@ -2,14 +2,14 @@
   "dataList": [
     {
       "id": "FusionVibration",
-      "name": "Amplitude Entanglement",
-      "desc": "- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor.",
+      "name": "Splątaj Częstotliwość",
+      "desc": "- Łączy efekty typu Drżenia dodanego przez Splecienie Częstotliwości z obecnym już na celu typem Drżenia w Drżenie - Superpozycja.\n- Siła i Ilość nie zmieniają się przez Splecenie.\n- Dostrajanie Częstotliwości Drżenia - Superpozycji liczy się zamiast tego jako Splątanie Częstotliwości.\n- Koniec Tury: zamienia się w zwykłe Drżenie.",
       "summary": ""
     },
     {
       "id": "VibrationNesting",
-      "name": "Tremor - Superposition",
-      "desc": "- Gained through Amplitude Entanglement\n- When triggering Amplitude Conversion, add the effects of the resulting Tremor type to the list of active Tremor effects under Tremor - Superposition.",
+      "name": "Drżenie - Superpozycja",
+      "desc": "- Zyskane przez Splątanie Częstotliwości\n- When triggering Amplitude Conversion, add the effects of the resulting Tremor type to the list of active Tremor effects under Tremor - Superposition.",
       "summary": "",
       "undefined": "-"
     },
