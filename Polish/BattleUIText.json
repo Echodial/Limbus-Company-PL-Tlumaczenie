@@ -582,7 +582,7 @@
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Może być Zniżczona oraz Odcięta"
+      "content": "Może być Zniszczona oraz Odcięta"
     },
     {
       "id": "ab_guidebook_view",
@@ -598,7 +598,7 @@
     },
     {
       "id": "Ahab_NotTarget_Twice",
-      "content": "... Czasami odpowiedź nie jest oczywista."
+      "content": "... Czasem poprawna odpowiedź nie jest oczywista."
     },
     {
       "id": "Ahab_NotTarget_Thrice",
@@ -610,7 +610,7 @@
     },
     {
       "id": "LobotomyStartTypo_Title_1",
-      "content": "The Dawn of Green"
+      "content": "Poranek Zieleni"
     },
     {
       "id": "LobotomyStartTypo_Name_1",
@@ -618,15 +618,15 @@
     },
     {
       "id": "LobotomyStartTypo_Desc_1",
-      "content": "One day, a question crossed through my mind. Where do we come from? We were given life and left in this world against our own volition."
+      "content": "Pewnego dnia, zadałem sobie pytanie. Skąd pochodzimy? Życie zostało nam dane bez naszej zgody."
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_1",
-      "content": "Suppression Status"
+      "content": "Status Stłamszenia"
     },
     {
       "id": "LobotomyClearTypo_Title_1",
-      "content": "The Dawn of Green"
+      "content": "Poranek Zieleni"
     },
     {
       "id": "LobotomyClearTypo_Name_1",
@@ -634,7 +634,7 @@
     },
     {
       "id": "LobotomyClearTypo_Desc_1",
-      "content": "To live was a process full of pain."
+      "content": "Życie było ścieżką pełną bólu."
     },
     {
       "id": "LobotomyEndTypo_Title",
@@ -710,27 +710,27 @@
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
-      "content": "Dawn"
+      "content": "Poranek"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
-      "content": "Noon"
+      "content": "Południe"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
-      "content": "Dusk"
+      "content": "Zmierzch"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
-      "content": "Midnight"
+      "content": "Północ"
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "Qliphoth Meltdown - Level {0}"
+      "content": "Stop Głównego Rdzenia Systemu Qliphoth - Poziom {0}"
     },
     {
       "id": "SinkingWhite_stack",
-      "content": "Ci, Co Jeszcze Zyją"
+      "content": "Ci, Co Jeszcze Żyją"
     },
     {
       "id": "SinkingWhite_turn",
@@ -738,7 +738,7 @@
     },
     {
       "id": "BulletLament_stack",
-      "content": "Ci, Co Jeszcze Zyją(Pocisk)"
+      "content": "Ci, Co Jeszcze Żyją(Pocisk)"
     },
     {
       "id": "BulletLament_turn",
@@ -774,7 +774,7 @@
     },
     {
       "id": "QTE_Notice",
-      "content": "GALOPUJMY PRZED SIEBIĘ, RAZEM!"
+      "content": "GALOPUJMY RAZEM PRZED SIEBIE!"
     },
     {
       "id": "septempeccata_classification",
@@ -854,19 +854,19 @@
     },
     {
       "id": "panic",
-      "content": "Panic"
+      "content": "Panika"
     },
     {
       "id": "UnitInformation_emptySkillList",
-      "content": "No Skills in this category."
+      "content": "Nie posiadasz Umiejętności tej kategorii."
     },
     {
       "id": "retire_forBattlePortraitStateText",
-      "content": "Incapacitated"
+      "content": "Unieruchomiony"
     },
     {
       "id": "KAA1C9ActivateEffect",
-      "content": "Used K Corp. Ampule"
+      "content": "Użyto Ampułki Korp. K"
     }
   ]
 }
