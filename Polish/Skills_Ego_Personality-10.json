@@ -1,5 +1,5 @@
 {
-  "dataList": [
+  "dGdy ta jednostka posiadaaList": [
     {
       "id": 2100411,
       "levelList": [
@@ -193,7 +193,7 @@
           "level": 1,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nPrzypadkowe cele<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 3,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -222,7 +222,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Jeśli cel posiada 10+ [Combustion], Nałóż 1 [ScarletTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Jeśli cel posiada 10+ [Combustion], Nałóż 1 [ScarletOtrzymajDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -232,7 +232,7 @@
           "level": 4,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Jeśli ten Rezonans był Absolutny, zyskuje ona dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Jeśli ten Rezonans był Absolutny, zyskuje ona dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -243,7 +243,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Jeśli cel posiada 10+ [Combustion], Nałóż 2 [ScarletTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Jeśli cel posiada 10+ [Combustion], Nałóż 2 [ScarletOtrzymajDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -329,7 +329,7 @@
           "level": 1,
           "name": "Gorycz z Grot",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Zyskaj +5 [Aggro] na tym Żetonie Umiejętności na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Zyskaj +5 [Aggro] na tym Żetonie Umiejętności na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -353,7 +353,7 @@
           "level": 3,
           "name": "Gorycz z Grot",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n<style=\"highlight\">[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)</style>\n[BeforeAttack] Zyskaj <style=\"highlight\">+10 [Aggro]</style> na tym Żetonie Umiejętności na początku następnej tury",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)</style>\n[BeforeAttack] Zyskaj <style=\"highlight\">+10 [Aggro]</style> na tym Żetonie Umiejętności na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "Gorycz z Grot",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)\n[BeforeAttack] Zyskaj +10 [Aggro] na tym Żetonie Umiejętności na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)\n[BeforeAttack] Zyskaj +10 [Aggro] na tym Żetonie Umiejętności na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -498,7 +498,7 @@
           "level": 1,
           "name": "Zaklęta Igła",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -523,7 +523,7 @@
           "level": 3,
           "name": "Zaklęta Igła",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -551,7 +551,7 @@
           "level": 4,
           "name": "Zaklęta Igła",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -588,9 +588,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tears of the Tarnished Blood",
+          "name": "Łzy Zbeżczeszczonej Krwi",
           "abName": "Yinglong",
-          "desc": "[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj [YesdragonSelf] equal to Gluttony Reson. (maks 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj [YesdragonSelf] równą Rezonansowi Obżarstwa (maks 5)\n[BeforeAttack] Otrzymaj ([YesdragonSelf] na sobie x 2) obrażeń\n- Ta jednostka nie zostaje Zachwiana jeśli zadane w powyższy sposób obrażenia obniżą jej PŻ pod Próg Zachwiania; zamiast tego, Umiejętność ta usuwa wszystkie progi zachwiania znajdujące się powyżej aktualnej wartości PŻ tej jednostki\n[EndSkill] Na końcu następnych 3 tur, włącznie z tą, jednostka ta traci 10 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -605,10 +605,10 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada 30% lub mniej PŻ, lub jeśli ta jednostka posiada 20 [YesdragonSelf], użyj tej monety jeszcze raz (jaz na Umiejętność)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Zużyj całe PŻ na sobie aby zadać +20% obrażeń (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -616,9 +616,9 @@
         },
         {
           "level": 3,
-          "name": "Tears of the Tarnished Blood",
+          "name": "Łzy Zbeżczeszczonej Krwi",
           "abName": "Yinglong",
-          "desc": "<style=\"highlight\">At 6+ [YesdragonSelf], Coin Power +1</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj [YesdragonSelf] equal to Gluttony Reson. (maks 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "<style=\"highlight\">Gdy ta jednostka posiada 6+ [YesdragonSelf], +1 Mocy Monety</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj [YesdragonSelf] równą Rezonansowi Obżarstwa (maks 5)\n[BeforeAttack] Otrzymaj ([YesdragonSelf] na sobie x 2) obrażeń\n- Ta jednostka nie zostaje Zachwiana jeśli zadane w powyższy sposób obrażenia obniżą jej PŻ pod Próg Zachwiania; zamiast tego, Umiejętność ta usuwa wszystkie progi zachwiania znajdujące się powyżej aktualnej wartości PŻ tej jednostki\n[EndSkill] Na końcu następnych 3 tur, włącznie z tą, jednostka ta traci 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -633,10 +633,10 @@
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada 30% lub mniej PŻ, lub jeśli ta jednostka posiada 20 [YesdragonSelf], użyj tej monety jeszcze raz (jaz na Umiejętność)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Zużyj całe PŻ na sobie aby zadać +20% obrażeń (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -644,9 +644,9 @@
         },
         {
           "level": 4,
-          "name": "Tears of the Tarnished Blood",
+          "name": "Łzy Zbeżczeszczonej Krwi",
           "abName": "Yinglong",
-          "desc": "<style=\"highlight\">Coin Power +1 za każdy 6 [YesdragonSelf] on self (maks 3)</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj [YesdragonSelf] equal to Gluttony Reson. (maks 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "<style=\"highlight\">+1 Mocy Monety za każdy 6 [YesdragonSelf] na sobie (maks 3)</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj [YesdragonSelf] równą Rezonansowi Obżarstwa (maks 5)\n[BeforeAttack] Otrzymaj ([YesdragonSelf] na sobie x 2) obrażeń\n- Ta jednostka nie zostaje Zachwiana jeśli zadane w powyższy sposób obrażenia obniżą jej PŻ pod Próg Zachwiania; zamiast tego, Umiejętność ta usuwa wszystkie progi zachwiania znajdujące się powyżej aktualnej wartości PŻ tej jednostki\n[EndSkill] Na końcu następnych 3 tur, włącznie z tą, jednostka ta traci 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -658,16 +658,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\"> Deal +1% damage za każdy 2% missing HP on self (maks 40%)</style>"
+                  "desc": "<style=\"highlight\"> Zadaj +1% obrażeń za każde 2% brakującego PŻ na sobie (maks 40%)</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada 30% lub mniej PŻ, lub jeśli ta jednostka posiada 20 [YesdragonSelf], użyj tej monety jeszcze raz (jaz na Umiejętność)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Zużyj całe PŻ na sobie aby zadać +20% obrażeń (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -680,9 +680,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tears of the Tarnished Blood",
+          "name": "Łzy Zbeżczeszczonej Krwi",
           "abName": "Yinglong",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj (Gluttony Reson. + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj (Rezonans Obżarstwa + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Otrzymaj ([YesdragonSelf] na sobie x 2) obrażeń\nTa jednostka nie zostaje Zachwiana jeśli zadane w powyższy sposób obrażenia obniżą jej PŻ pod Próg Zachwiania; zamiast tego, Umiejętność ta usuwa wszystkie progi zachwiania znajdujące się powyżej aktualnej wartości PŻ tej jednostki<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -697,10 +697,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada 30% lub mniej PŻ, lub jeśli ta jednostka posiada 20 [YesdragonSelf], użyj tej monety jeszcze raz (jaz na Umiejętność)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Zużyj całe PŻ na sobie aby zadać +20% obrażeń (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -708,9 +708,9 @@
         },
         {
           "level": 3,
-          "name": "Tears of the Tarnished Blood",
+          "name": "Łzy Zbeżczeszczonej Krwi",
           "abName": "Yinglong",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n<style=\"highlight\">At 10+ [YesdragonSelf], Base Power +1</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj (Gluttony Reson. + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Gdy ta jednostka posiada 10+ [YesdragonSelf], +1 Mocy Bazowej</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj (Rezonans Obżarstwa + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Otrzymaj ([YesdragonSelf] na sobie x 2) obrażeń\nTa jednostka nie zostaje Zachwiana jeśli zadane w powyższy sposób obrażenia obniżą jej PŻ pod Próg Zachwiania; zamiast tego, Umiejętność ta usuwa wszystkie progi zachwiania znajdujące się powyżej aktualnej wartości PŻ tej jednostki",
           "coinlist": [
             {
               "coindescs": [
@@ -725,10 +725,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada 30% lub mniej PŻ, lub jeśli ta jednostka posiada 20 [YesdragonSelf], użyj tej monety jeszcze raz (jaz na Umiejętność)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Zużyj całe PŻ na sobie aby zadać +20% obrażeń (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -736,9 +736,9 @@
         },
         {
           "level": 4,
-          "name": "Tears of the Tarnished Blood",
+          "name": "Łzy Zbeżczeszczonej Krwi",
           "abName": "Yinglong",
-          "desc": "[CantIdentify]\nPrzypadkowe cele\n<style=\"highlight\">Base Power +1 za każdy 10 [YesdragonSelf] on self (maks 2)</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj (Gluttony Reson. + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">+1 Mocy Bazowej za każde 10 [YesdragonSelf] na sobie (maks 2)</style>\n[StartBattle] Zyskaj [YesdragonNodie]\n[BeforeAttack] Zyskaj (Rezonans Obżarstwa + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Otrzymaj ([YesdragonSelf] na sobie x 2) obrażeń\nTa jednostka nie zostaje Zachwiana jeśli zadane w powyższy sposób obrażenia obniżą jej PŻ pod Próg Zachwiania; zamiast tego, Umiejętność ta usuwa wszystkie progi zachwiania znajdujące się powyżej aktualnej wartości PŻ tej jednostki",
           "coinlist": [
             {
               "coindescs": [
@@ -753,13 +753,284 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\"> Deal +1% damage za każdy 2% missing HP on self (maks 40%)</style>"
+                  "desc": "<style=\"highlight\"> Zadaj +1% obrażeń za każde 2% brakującego PŻ na sobie (maks 40%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada 30% lub mniej PŻ, lub jeśli ta jednostka posiada 20 [YesdragonSelf], użyj tej monety jeszcze raz (jaz na Umiejętność)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Zużyj całe PŻ na sobie aby zadać +20% obrażeń (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harmonia",
+          "abName": "Singing Machine",
+          "desc": "+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks 6)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks 10%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[TargetKill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm] na początku następnej tury (jaz na Umiejętność)\n[EndSkill] Ulecz 8 SP dla (1 + wartość najwyższego Rezonansu) Sojuszników z najniższą ilością SP (może uleczyć maks 4 jednostki)\n[EndSkill] Na końcu następnych 2 tur, włącznie z tą, jednostka ta traci 8 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gdy ta jednostka posiada 10%+ PŻ, otrzymaj 4 ~ 8 obrażeń (raz na Monete)\n- Następnie, Użyj tej Monety Jeszcze Raz (4 razy na Umiejętność)\n- Obrażenia otrzymane w ten sposób nie mogą zachwiać ani obniżyć PŻ tej jednostki poniżej 1",
+                  "summary": "[OnSucceedAttackHead] Po zużyciu odrobiny swojego PŻ, Użyj tej Monety Jeszcze Raz"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Losowy Sojusznik zyskuje 1 [ThatIsRhythm] na początku następnej tury (raz na Monete)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Harmonia",
+          "abName": "Singing Machine",
+          "desc": "+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">8</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">15</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[TargetKill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm] na początku następnej tury (jaz na Umiejętność)\n[EndSkill] Ulecz <style=\"highlight\">10</style> SP dla (1 + wartość najwyższego Rezonansu) Sojuszników z najniższą ilością SP (może uleczyć maks 4 jednostki)\n[EndSkill] Na końcu następnych 2 tur, włącznie z tą, jednostka ta traci 8 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gdy ta jednostka posiada 10%+ PŻ, otrzymaj 4 ~ 8 obrażeń (raz na Monete)\n- Następnie, Użyj tej Monety Jeszcze Raz (4 razy na Umiejętność)\n- Obrażenia otrzymane w ten sposób nie mogą zachwiać ani obniżyć PŻ tej jednostki poniżej 1",
+                  "summary": "[OnSucceedAttackHead] Po zużyciu odrobiny swojego PŻ, Użyj tej Monety Jeszcze Raz"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Losowy Sojusznik zyskuje <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] na początku następnej tury (raz na Monete)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Harmonia",
+          "abName": "Singing Machine",
+          "desc": "+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">10</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">20</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[TargetKill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm] na początku następnej tury (jaz na Umiejętność)\n[EndSkill] Ulecz <style=\"highlight\">12 SP</style> dla (1 + wartość najwyższego Rezonansu) Sojuszników z najniższą ilością SP (może uleczyć maks 4 jednostki)\n[EndSkill] Na końcu następnych 2 tur, włącznie z tą, jednostka ta traci 8 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gdy ta jednostka posiada 10%+ PŻ, otrzymaj 4 ~ 8 obrażeń (raz na Monete)\n- Następnie, Użyj tej Monety Jeszcze Raz (4 razy na Umiejętność)\n- Obrażenia otrzymane w ten sposób nie mogą zachwiać ani obniżyć PŻ tej jednostki poniżej 1",
+                  "summary": "[OnSucceedAttackHead] Po zużyciu odrobiny swojego PŻ, Użyj tej Monety Jeszcze Raz"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Losowy Sojusznik zyskuje 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] na początku następnej tury (raz na Monete)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harmonia",
+          "abName": "Singing Machine",
+          "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks 6)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks 10%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[BeforeAttack] Zyskaj Wage Ataku równą (wartość najwyższego Rezonansu / 2) (maks 2; zaokrąglone w dół)\n[BeforeAttack] -2 Mocy Bazowej za każdą Nadkruszoną Monete (maks -6)\n[EndSkill] Ulecz 10 SP dla 4 Sojuszników z najmniejszą ilością SP\n[EndSkill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] na początku następnej tury\n- Jeśli cel tej Umiejętności został pokonany, aktywuj ten efekt jeszcze raz",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gdy ta jednostka posiada 10%+ PŻ, otrzymaj 10 ~ 20 obrażeń (raz na Monete)\n- Następnie, Użyj tej Monety Jeszcze Raz jeśli suma straconych PŻ jest niższa niż 50 (4 razy na Umiejętność)\n- Obrażenia otrzymane w ten sposób nie mogą zachwiać ani obniżyć PŻ tej jednostki poniżej 1",
+                  "summary": "[OnSucceedAttack] Strać troche PŻ\nUżyj tej Monety Jeszcze Raz jeśli spełniasz pewne warunki"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Losowy Sojusznik zyskuje 1 [ThatIsRhythm] na początku następnej tury (raz na Monete)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Harmonia",
+          "abName": "Singing Machine",
+          "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">8</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">15</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[BeforeAttack] Zyskaj Wage Ataku równą (wartość najwyższego Rezonansu / 2) (maks 2; zaokrąglone w dół)\n[BeforeAttack] -2 Mocy Bazowej za każdą Nadkruszoną Monete (maks -6)\n[EndSkill] Ulecz <style=\"highlight\">12</style> SP dla 4 Sojuszników z najmniejszą ilością SP\n[EndSkill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] na początku następnej tury\n- Jeśli cel tej Umiejętności został pokonany, aktywuj ten efekt jeszcze raz",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gdy ta jednostka posiada 10%+ PŻ, otrzymaj 10 ~ 20 obrażeń (raz na Monete)\n- Następnie, Użyj tej Monety Jeszcze Raz jeśli suma straconych PŻ jest niższa niż 50 (4 razy na Umiejętność)\n- Obrażenia otrzymane w ten sposób nie mogą zachwiać ani obniżyć PŻ tej jednostki poniżej 1",
+                  "summary": "[OnSucceedAttack] Strać troche PŻ\nUżyj tej Monety Jeszcze Raz jeśli spełniasz pewne warunki"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Losowy Sojusznik zyskuje <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] na początku następnej tury (raz na Monete)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Harmonia",
+          "abName": "Singing Machine",
+          "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">10</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">20</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[BeforeAttack] Zyskaj Wage Ataku równą (wartość najwyższego Rezonansu / 2) (maks 2; zaokrąglone w dół)\n[BeforeAttack] -2 Mocy Bazowej za każdą Nadkruszoną Monete (maks -6)\n[EndSkill] Ulecz <style=\"highlight\">15</style> SP dla 4 Sojuszników z najmniejszą ilością SP\n[EndSkill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] na początku następnej tury\n- Jeśli cel tej Umiejętności został pokonany, aktywuj ten efekt jeszcze raz",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gdy ta jednostka posiada 10%+ PŻ, otrzymaj 10 ~ 20 obrażeń (raz na Monete)\n- Następnie, Użyj tej Monety Jeszcze Raz jeśli suma straconych PŻ jest niższa niż 50 (4 razy na Umiejętność)\n- Obrażenia otrzymane w ten sposób nie mogą zachwiać ani obniżyć PŻ tej jednostki poniżej 1",
+                  "summary": "[OnSucceedAttack] Strać troche PŻ\nUżyj tej Monety Jeszcze Raz jeśli spełniasz pewne warunki"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Losowy Sojusznik zyskuje 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] na początku następnej tury (raz na Monete)"
                 }
               ]
             }
