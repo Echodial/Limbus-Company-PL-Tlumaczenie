@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab"
+          "name": "Dźgnięcie"
         }
       ]
     },
@@ -14,8 +14,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keep Down",
-          "desc": "[OnSucceedAttack] Inflict 2 Bind; Heal 5% of Max HP"
+          "name": "Przytrzymanie",
+          "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>; Ulecz 5% Maks HP"
         }
       ]
     },
@@ -24,8 +24,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sneaky Attack",
-          "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
+          "name": "Podstępny Atak",
+          "desc": "[OnSucceedAttack] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Moc Ataku</link></u></color> na początku następnej tury"
         }
       ]
     },
@@ -34,7 +34,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wild Swipe"
+          "name": "Dzikie Cięcie"
         }
       ]
     },
@@ -43,8 +43,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Open Wound",
-          "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+          "name": "Otwarcie Rany",
+          "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszą Moc Ataku</link></u></color> na początku następnej tury"
         }
       ]
     },
@@ -53,8 +53,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spot Vulnerability",
-          "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
+          "name": "Znaleźć Słabość",
+          "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier"
+          "name": "Okrzyk"
         }
       ]
     },
@@ -72,8 +72,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
-          "desc": "[WhenUse] Apply 1 Attack Power Up to a random ally next turn"
+          "name": "Rozkaz Natarcia",
+          "desc": "[WhenUse] Przyznaj losowemu sojusznikowi 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Moc Ataku</link></u></color> na początku następnej tury"
         }
       ]
     },
@@ -82,8 +82,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
-          "desc": "[2xPostLine]\n[WhenUse] Give 2 Defense Power Up to 2 random allies next turn"
+          "name": "Rozkaz Obrony",
+          "desc": "[2xPostLine]\n[WhenUse] Przyznaj 2 losowym sojusznikom 2 <sprite name=\"Endurance\"><color=#ffc700><u><link=\"Endurance\">Większej Mocy Obrony</link></u></color> na początku następnej tury"
         }
       ]
     },
@@ -92,8 +92,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Wave",
-          "desc": "[5xPostLine]\n[OnSucceedAttack] Target loses 20 SP"
+          "name": "Fala Umysłu",
+          "desc": "[5xPostLine]\n[OnSucceedAttack] Cel traci 20 SP"
         }
       ]
     },
@@ -102,7 +102,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clumsy Chop",
+          "name": "Niezdarne Siekanie",
           "desc": "",
           "coinlist": [
             {}
@@ -115,7 +115,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clunky Stab",
+          "name": "Niezgrabne Szturchanie",
           "desc": "",
           "coinlist": [
             {}
@@ -128,7 +128,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weak Blow",
+          "name": "Słaby Cios",
           "desc": "",
           "coinlist": [
             {}
@@ -141,7 +141,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hit",
+          "name": "Uderzenie",
           "desc": "",
           "coinlist": [
             {}
@@ -154,7 +154,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heavy Strike",
+          "name": "Ciężki Cios",
           "desc": "",
           "coinlist": [
             {}
@@ -167,7 +167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Block",
+          "name": "Blok",
           "desc": ""
         }
       ]
@@ -177,7 +177,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Skoszenie",
           "desc": "",
           "coinlist": [
             {}
@@ -190,7 +190,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Kilkukrotny Blok",
           "desc": ""
         }
       ]
@@ -200,7 +200,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Dźganie",
           "desc": "",
           "coinlist": [
             {}
@@ -213,7 +213,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Szybkie Kłucie",
           "desc": "",
           "coinlist": [
             {},
@@ -227,7 +227,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Zamachnięcie",
           "desc": "",
           "coinlist": [
             {}
@@ -240,7 +240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Cięcie",
           "desc": "",
           "coinlist": [
             {}
@@ -253,7 +253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Skoszenie",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -263,7 +263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             }
@@ -276,7 +276,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Kilkukrotny Blok",
           "desc": ""
         }
       ]
@@ -286,7 +286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Dźganie",
           "desc": "",
           "coinlist": [
             {}
@@ -299,7 +299,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Szybkie Kłucie",
           "desc": "",
           "coinlist": [
             {}
@@ -312,7 +312,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Zamachnięcie",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -328,13 +328,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Cięcie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -347,13 +347,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Skoszenie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             }
@@ -366,7 +366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Garda",
           "desc": ""
         }
       ]
@@ -376,7 +376,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Dźganie",
           "desc": "",
           "coinlist": [
             {}
@@ -389,27 +389,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Szybkie Kłucie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -422,7 +422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Zamachnięcie",
           "desc": "",
           "coinlist": [
             {}
@@ -435,13 +435,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Cięcie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -454,13 +454,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Skoszenie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -473,7 +473,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Kilkukrotny Blok",
           "desc": ""
         }
       ]
@@ -483,7 +483,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Dźganie",
           "desc": "",
           "coinlist": [
             {}
@@ -496,27 +496,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Szybkie Kłucie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -529,7 +529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Zamachnięcie",
           "desc": "",
           "coinlist": [
             {}
@@ -542,13 +542,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Cięcie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -561,7 +561,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Kilkukrotny Blok",
           "desc": ""
         }
       ]
@@ -571,7 +571,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier",
+          "name": "Okrzyk",
           "desc": "",
           "coinlist": [
             {}
@@ -584,8 +584,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
-          "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
+          "name": "Rozkaz Obrony",
+          "desc": "[WhenUse] Przyznaj 2 losowym sojusznikom 1 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochronę</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -597,7 +597,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harden",
+          "name": "Utwardzenie",
           "desc": ""
         }
       ]
@@ -607,13 +607,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
+          "name": "Rozkaz Natarcia",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż +5 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -626,20 +626,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier",
+          "name": "Okrzyk",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] Cel traci 5 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] Cel traci 5 SP"
                 }
               ]
             }
@@ -652,13 +652,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
-          "desc": "[WhenUse] Apply 1 Damage Up to 2 random allies next turn",
+          "name": "Rozkaz Natarcia",
+          "desc": "[WhenUse] Przyznaj 2 losowym sojusznikom na początku następnej tury 1 [AttackDmgUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż +5 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -671,13 +671,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Wave",
+          "name": "Fala Umysłu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 15 SP"
+                  "desc": "[OnSucceedAttackHead] Cel traci 15 SP"
                 }
               ]
             }
@@ -690,7 +690,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harden",
+          "name": "Utwardzenie",
           "desc": ""
         }
       ]
@@ -700,13 +700,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
-          "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
+          "name": "Rozkaz Obrony",
+          "desc": "[WhenUse] Przyznaj 2 losowym sojusznikom 1 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochronę</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] Cel traci 5 SP"
                 }
               ]
             }
@@ -719,7 +719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Zamachnięcie",
           "desc": "",
           "coinlist": [
             {}
@@ -732,20 +732,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sneaky Bash",
+          "name": "Walnięcie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             }
@@ -758,8 +758,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
-          "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
+          "name": "Odrobina Szczęścia",
+          "desc": "[StartBattle] Każda Moneta Zdolności w drugim Żetonie tej jednostki wyląduje na Orle",
           "coinlist": [
             {}
           ]
@@ -771,7 +771,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pipe Down",
+          "name": "Cicho Tam",
           "desc": "",
           "coinlist": [
             {}
@@ -784,13 +784,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heavy Swing",
+          "name": "Mocne Zamachnięcie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -798,7 +798,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -811,8 +811,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
-          "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
+          "name": "Odrobina Szczęścia",
+          "desc": "[StartBattle] Każda Moneta Zdolności w drugim Żetonie tej jednostki wyląduje na Orle",
           "coinlist": [
             {}
           ]
@@ -824,7 +824,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve",
+          "name": "Chlaśnięcie",
           "desc": "",
           "coinlist": [
             {}
@@ -837,13 +837,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cunning Stab",
+          "name": "Podstępne Dźganie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -856,8 +856,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
-          "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
+          "name": "Odrobina Szczęścia",
+          "desc": "[StartBattle] Każda Moneta Zdolności w drugim Żetonie tej jednostki wyląduje na Orle",
           "coinlist": [
             {}
           ]
@@ -869,7 +869,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Block",
+          "name": "Blok",
           "desc": "",
           "coinlist": [
             {}
@@ -882,13 +882,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Throat Slit",
+          "name": "Poderżnięcie Gardła",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -901,20 +901,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shank",
-          "desc": "[BeforeAttack] If target has less than 50% HP, use Coin 1 and 2 an additional time",
+          "name": "Kosa Pod Żebro",
+          "desc": "[BeforeAttack] Jeśli cel ma mniej niż 50% HP, użyj pierwszej i drugiej Monety Ponownie",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -927,27 +927,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mutilate",
-          "desc": "[EnemyKill] Use this skill 1 more time",
+          "name": "Rozszarpanie",
+          "desc": "[EnemyKill] Użyj tej Zdolności jeszcze raz",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 damage"
+                  "desc": "[OnSucceedAttackHead] Zadaj 3 Obrażeń"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 damage"
+                  "desc": "[OnSucceedAttackHead] Zadaj 3 Obrażeń"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 damage"
+                  "desc": "[OnSucceedAttackHead] Zadaj 3 Obrażeń"
                 }
               ]
             }
@@ -960,8 +960,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Show You…!",
-          "desc": "[StartBattle] Gain 1 Attack Power Up",
+          "name": "Pokażę Wam…!",
+          "desc": "[StartBattle] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Moc Ataku</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -973,8 +973,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Glinting Wish",
-          "desc": "[StartBattle] All Coins land Heads this turn",
+          "name": "Cała Masa Szczęścia",
+          "desc": "[StartBattle] Podczas tej tury, wszystkie Monety lądują na Orle",
           "coinlist": [
             {}
           ]
@@ -986,7 +986,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Buzz Off!",
+          "name": "Spadaj!",
           "desc": "",
           "coinlist": [
             {}
@@ -999,14 +999,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Intruder Alert!",
+          "name": "Mamy Intruzów!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             }
@@ -1019,13 +1019,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Freeze!",
+          "name": "Stać!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Osłabienia Dodatnich Monet</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1038,20 +1038,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hold It Right There!",
+          "name": "Nie Ruszać Się!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury"
                 }
               ]
             }
@@ -1064,8 +1064,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This’ll Hurt!",
-          "desc": "[WinDuel] Skill Power +1",
+          "name": "To Zaboli!",
+          "desc": "[WinDuel] +1 Mocy Zdolności",
           "coinlist": [
             {}
           ]
@@ -1103,7 +1103,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interloper Spotted",
+          "name": "Intruzi Namierzeni",
           "desc": "",
           "coinlist": [
             {},
@@ -1111,7 +1111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1124,14 +1124,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wary Move",
+          "name": "Ostrożny Ruch",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury"
                 }
               ]
             },
@@ -1145,15 +1145,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wide Arrest",
-          "desc": "[WinDuel] Skill Power +2",
+          "name": "Masowy Areszt",
+          "desc": "[WinDuel] +2 Mocy Zdolności",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1166,7 +1166,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not a Chance",
+          "name": "Nie Ma Szans",
           "desc": "",
           "coinlist": [
             {}
@@ -1185,21 +1185,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] Ulecz 2 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] Ulecz 2 SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] Ulecz 2 SP"
                 }
               ]
             }
@@ -1213,7 +1213,7 @@
         {
           "level": 1,
           "name": "Danza de Paz",
-          "desc": "[WhenUse] Apply 1 Defense Power Up to all allies next turn",
+          "desc": "[WhenUse] Przyznaj wszystkim sojusznikom 2 <sprite name=\"Endurance\"><color=#ffc700><u><link=\"Endurance\">Większej Mocy Obrony</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -1226,14 +1226,14 @@
         {
           "level": 1,
           "name": "Duelo de Baile",
-          "desc": "[WinDuel] Target loses 5 SP",
+          "desc": "[WinDuel] Cel traci 5 SP",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1247,7 +1247,7 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "If target’s SP is below 0, Skill Power +1",
+          "desc": "+1 Mocy Zdolności jeśli SP celu wynosi mniej niż 0",
           "coinlist": [
             {}
           ]
@@ -1260,7 +1260,7 @@
         {
           "level": 1,
           "name": "¡Olé!",
-          "desc": "[OnSucceedEvade] Target loses 5 SP",
+          "desc": "[OnSucceedEvade] Cel traci 5 SP",
           "coinlist": [
             {}
           ]
@@ -1273,7 +1273,7 @@
         {
           "level": 1,
           "name": "Danza de Emoción",
-          "desc": "[WhenUse] Gain 1 Attack Power Up next turn",
+          "desc": "[WhenUse] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Moc Ataku</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -1286,33 +1286,33 @@
         {
           "level": 1,
           "name": "Pasos Pasionales",
-          "desc": "[WhenUse] Heal 5 SP",
+          "desc": "[WhenUse] Ulecz 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath] na początku następnej tury"
                 }
               ]
             }
@@ -1326,12 +1326,12 @@
         {
           "level": 1,
           "name": "¿Eso es todo?",
-          "desc": "[WinDuel] Deal 10 SP damage",
+          "desc": "[WinDuel] Zadaj 10 obrażeń SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> i <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1371,7 +1371,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Defense Power Up next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Endurance\"><color=#ffc700><u><link=\"Endurance\">Większej Mocy Obrony</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1385,12 +1385,12 @@
         {
           "level": 1,
           "name": "Pañata Party~!",
-          "desc": "[WhenUse] If target’s SP is below 0, crit chance increases in proportion to target’s SP",
+          "desc": "[WhenUse] Jeśli SP celu wynosi mniej niż 0, szansa na Trafienie Krytyczne zwiększa się proporcjonalnie do jego minusowego SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Obniż swój Próg Zachwiania o 50% zadanych obrażeń"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 1,
           "name": "¡Excelente!",
-          "desc": "[OnSucceedEvade] Lower user’s Stagger Threshold by 5; Deal 5 SP damage",
+          "desc": "[OnSucceedEvade] Obniż swój Próg Zachwiania o 5; Zadaj 5 obrażeń SP",
           "coinlist": [
             {}
           ]
@@ -1416,20 +1416,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Tear Ya Apart",
-          "desc": "If target’s SP is lower than user’s, Skill Power +1",
+          "name": "Rozwerę Cię Na Strzępy",
+          "desc": "+1 Mocy Zdolności jeśli SP celu jest niższe niż tej jednostki",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1442,13 +1442,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gruesome Welcome",
+          "name": "Krwawe Powitanie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 SP damage"
+                  "desc": "[OnSucceedAttack] Zadaj 15 obrażeń SP"
                 }
               ]
             }
@@ -1461,14 +1461,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Insult Barrage",
-          "desc": "[WinDuel] Heal 10 SP for a random ally",
+          "name": "Nawałnica Obleg",
+          "desc": "[WinDuel] Ulecz losowego sojusznika o 10 SP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Zadaj 5 obrażeń SP"
                 }
               ]
             }
@@ -1481,13 +1481,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ey!",
-          "desc": "[WinDuel] Target loses 15 SP",
+          "name": "Ej!",
+          "desc": "[WinDuel] Cel traci 15 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1500,7 +1500,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What’re Ya Lookin’ At?",
+          "name": "Gdzie Się Gapisz?",
           "desc": "",
           "coinlist": [
             {}
@@ -1513,13 +1513,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Crack Ya Skull",
-          "desc": "If target’s SP is lower than user’s, Skill Power +1",
+          "name": "Rozbiję Ci Czachę",
+          "desc": "+1 Mocy Zdolności jeśli SP celu jest niższe niż tej jednostki",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1532,27 +1532,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raid",
+          "name": "Nalot",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration] na początku następnej tury"
                 }
               ]
             }
@@ -1565,7 +1565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blockade",
+          "name": "Blokada",
           "desc": "",
           "coinlist": [
             {}
@@ -1578,13 +1578,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Neutralize Target",
+          "name": "Neutralizacja Celu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na początku następnej tury"
                 }
               ]
             },
@@ -1592,7 +1592,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -1605,8 +1605,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Activate HP Bullet",
-          "desc": "[WhenUse] Heal 10 HP",
+          "name": "Aktywacja Naboju PŻ",
+          "desc": "[WhenUse] Ulecz 10 HP",
           "coinlist": [
             {}
           ]
@@ -1618,13 +1618,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Takedown",
+          "name": "Powalenie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count next turn"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1637,8 +1637,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shelter",
-          "desc": "[WinDuel] Apply 1 Defense Power Up to 2 random allies next turn",
+          "name": "Schronienie",
+          "desc": "[WinDuel] Przyznaj 2 losowym sojusznikom 2 <sprite name=\"Endurance\"><color=#ffc700><u><link=\"Endurance\">Większej Mocy Obrony</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -1650,13 +1650,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blockade",
+          "name": "Blokada",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -1698,8 +1698,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cover",
-          "desc": "[WinDuel] Apply 2 Protection to a random other ally next turn",
+          "name": "Osłona",
+          "desc": "[WinDuel] Przyznaj losowemu innemu sojusznikowi 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -1711,7 +1711,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Plunge In",
+          "name": "Nabicie",
           "desc": "",
           "coinlist": [
             {},
@@ -1719,7 +1719,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1732,20 +1732,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nail Pin",
+          "name": "Przekłucie Gwoździem",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             }
@@ -1771,14 +1771,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knock",
+          "name": "Odpukać",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze and Defense Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] i <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejszego Poziomu Obrony</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1791,13 +1791,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hammer",
+          "name": "Wbijanie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1810,20 +1810,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Inquisition",
+          "name": "Inkwizycja",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1851,27 +1851,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rough Nailing",
+          "name": "Surowe Przebjanie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] i [Laceration] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] i [Laceration] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] i [Laceration] na początku następnej tury"
                 }
               ]
             }
@@ -1884,14 +1884,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aggressive Preaching",
-          "desc": "[DefeatDuel] Gain 2 Fragile next turn",
+          "name": "Agresywne Kazanie",
+          "desc": "[DefeatDuel] Zyskaj 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1904,13 +1904,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Dare!",
+          "name": "Jak Śmiesz!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             }
@@ -1937,14 +1937,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vigorous Hammering",
+          "name": "Energiczne Wbijanie",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind and 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> i 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1957,13 +1957,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Oppressive Preaching",
-          "desc": "[DefeatDuel] Gain 2 Attack Power Down next turn",
+          "name": "Opresyjne Kazanie",
+          "desc": "[DefeatDuel] Zyskaj 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1976,21 +1976,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Assertive Inquisition",
+          "name": "Staowcza Inkwizycja",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, inflict 10 Bind next turn"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 5+ <sprite name=\"Nail\"><color=#e30000><u><link=\"Nail\">Gwoździ N Corpu</link></u></color>, nałóż 10 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2003,13 +2003,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thrusting Nail",
+          "name": "Pchnięcie Gwoździem",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Nail] na początku następnej tury"
                 }
               ]
             }
@@ -2035,13 +2035,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Congregate",
-          "desc": "[WinDuel] Apply 1 Fanatic to 2 random allies next turn",
+          "name": "Zgromadzenie",
+          "desc": "[WinDuel] Przyznaj 2 losowym sojusznikom 1 [Assemble] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             },
@@ -2055,8 +2055,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hardy Faith",
-          "desc": "[WhenUse] Gain 1 Protection",
+          "name": "Harda Wiara",
+          "desc": "[WhenUse] Zyskaj 1 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochronę</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -2068,13 +2068,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ruling Hammer",
+          "name": "Władczy Młot",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> i 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2106,13 +2106,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unite",
-          "desc": "[WinDuel] Heal 15 SP for 2 allies with the least SP",
+          "name": "Zjednoczenie",
+          "desc": "[WinDuel] Ulecz 2 sojuszników z najniższym SP o 15 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             },
@@ -2126,13 +2126,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ponderous Inquisition",
+          "name": "Namaszczona Inkwizycja",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Nail]"
                 }
               ]
             },
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, inflict 10 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 5+ <sprite name=\"Nail\"><color=#e30000><u><link=\"Nail\">Gwoździ N Corpu</link></u></color>, nałóż 10 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> i <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2153,27 +2153,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spike Drive",
+          "name": "Wbicie Szpica",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Nail] na początku następnej tury"
                 }
               ]
             }
@@ -2186,13 +2186,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drive",
+          "name": "Wbicie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed and 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> i 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             },
@@ -2206,13 +2206,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hammers, Heed Me…!",
-          "desc": "[WinDuel] Apply 1 Fanatic to all allies next turn",
+          "name": "Młoty, Do Mnie…!",
+          "desc": "[WinDuel] Przyznaj wszystkim sojusznikom 1 [Assemble] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 SP for 2 allies with the least SP"
+                  "desc": "[OnSucceedAttack] Ulecz 2 sojuszników z najniższym SP o 10 SP"
                 }
               ]
             }
@@ -2225,20 +2225,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Are Cleansed of Sin",
+          "name": "Oczyszczam Cię z Grzechu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 5+ <sprite name=\"Nail\"><color=#e30000><u><link=\"Nail\">Gwoździ N Corpu</link></u></color>, Zachwiej go"
                 }
               ]
             }
@@ -2251,8 +2251,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalwart Faith",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "name": "Nieugięta Wiara",
+          "desc": "[WhenUse] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -2264,27 +2264,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spike Drive",
-          "desc": "At less than 50% HP, inflict +1 N Corp’s Nails",
+          "name": "Wbicie Szpica",
+          "desc": "Mając mniej niż 50% HP, nakładaj +1 <sprite name=\"Nail\"><color=#e30000><u><link=\"Nail\">Gwoździ N Corpu</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Nail] na początku następnej tury"
                 }
               ]
             }
@@ -2297,13 +2297,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drive",
+          "name": "Wbicie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2316,8 +2316,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Great Task Will Be Done…!",
-          "desc": "[WhenUse] Apply 1 Fanatic to all allies next turn",
+          "name": "To Wielkie Zadanie Zostanie Dokonane…!",
+          "desc": "[WhenUse] Przyznaj wszystkim sojusznikom 1 [Assemble] na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -2329,20 +2329,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Cleansed… of Sin!",
+          "name": "Oczyszczam Cię… z Grzechu!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"Nail\"><color=#e30000><u><link=\"Nail\">Gwoździ N Corpu</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 5+ <sprite name=\"Nail\"><color=#e30000><u><link=\"Nail\">Gwoździ N Corpu</link></u></color>, Zachwiej go"
                 }
               ]
             }
@@ -2355,20 +2355,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Annihilate Heretics",
-          "desc": "If the target has N Corp’s Nails, +100% Damage",
+          "name": "Unicestwić Heretyków",
+          "desc": "Jeśli cel ma [Nail], +100% zadanych obrażeń",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2381,13 +2381,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Foolishness…!",
+          "name": "Niedorzeczność…!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Nail] na początku następnej tury"
                 }
               ]
             }
@@ -2400,7 +2400,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Down",
+          "name": "Powalenie",
           "desc": "",
           "coinlist": [
             {}
@@ -2413,7 +2413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Line of Death",
+          "name": "Granica Śmierci",
           "desc": "",
           "coinlist": [
             {}
@@ -2432,7 +2432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2451,14 +2451,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2471,7 +2471,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Garda",
           "desc": "",
           "coinlist": [
             {}
@@ -2490,7 +2490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2509,14 +2509,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze for each Heads this skill lands"
+                  "desc": "[OnSucceedAttackHead] Nałóż [Paralysis] za każdą Monetę tej Zdolności, która wylądowała na Orle"
                 }
               ]
             }
@@ -2529,7 +2529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Garda",
           "desc": "",
           "coinlist": [
             {}
@@ -2548,7 +2548,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2567,14 +2567,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Down and +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Zmniejsz Poziom Obrony celu o 2 i nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2587,7 +2587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Garda",
           "desc": "",
           "coinlist": [
             {}
@@ -2601,12 +2601,12 @@
         {
           "level": 1,
           "name": "Kigigiik",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "desc": "+1 Mocy Monet jeśli ta jednostka nie otrzymała obrażeń w poprzedniej turze",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -2625,7 +2625,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind and 2 Defense Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] i zmniejsz Poziom Obrony celu o 2 na początku następnej tury"
                 }
               ]
             }
@@ -2639,12 +2639,12 @@
         {
           "level": 1,
           "name": "Kieegikhik",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "desc": "[WhenUse] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -2657,7 +2657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Garda",
           "desc": "",
           "coinlist": [
             {}
@@ -2670,7 +2670,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Nagrywanie Z Bliska",
           "desc": "",
           "coinlist": [
             {}
@@ -2683,7 +2683,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Odwrót; Odwrót;",
           "desc": "",
           "coinlist": [
             {}
@@ -2696,7 +2696,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Nagrywanie Z Bliska",
           "desc": "",
           "coinlist": [
             {}
@@ -2709,7 +2709,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Odwrót; Odwrót;",
           "desc": "",
           "coinlist": [
             {}
@@ -2722,8 +2722,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
-          "desc": "[WhenUse] Target loses 10 SP",
+          "name": "Lampa Błyskowa",
+          "desc": "[WhenUse] Cel traci 10 SP",
           "coinlist": [
             {}
           ]
@@ -2735,13 +2735,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scanning for weakness.",
+          "name": "Szukanie Słabości.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] na początku następnej tury"
                 }
               ]
             }
@@ -2754,13 +2754,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impeding movement.",
+          "name": "Utrudnianie Ruchu.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury"
                 }
               ]
             }
@@ -2773,13 +2773,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cutting up.",
+          "name": "Rozcinanie.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2792,16 +2792,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carving out.",
+          "name": "Przecinanie.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Vulnerable] na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejszego Poziomu Obrony</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2814,13 +2814,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Load... And Fire",
+          "name": "Cel... Pal!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -2833,16 +2833,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing down.",
+          "name": "Przygniecenie.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -2855,20 +2855,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cutting up.",
+          "name": "Rozcinanie.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2881,17 +2881,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carving out.",
+          "name": "Przecinanie.",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejszego Poziomu Obrony</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2904,27 +2904,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sawblade... Slamming down.",
+          "name": "Piła... W Ruch.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2937,8 +2937,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "name": "Aktywacja Trybu Obronnego",
+          "desc": "[WhenUse] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -2950,16 +2950,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Load... And Fire",
+          "name": "Cel... Pal!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -2972,13 +2972,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing down.",
+          "name": "Przygniecenie.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2991,20 +2991,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "CAUTION, CAUTION: Unsteady",
+          "name": "OSTROŻNIE, OSTROŻNIE: Niestabilne",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejszego Poziomu Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -3017,8 +3017,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "name": "Aktywacja Trybu Obronnego",
+          "desc": "[WhenUse] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -3030,16 +3030,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wounding.",
+          "name": "Ranienie.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +5 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3052,13 +3052,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "SPOTTED, SPOTTED: Injury",
-          "desc": "Prioritizes enemies with Rupture",
+          "name": "ZNALEZIONO, ZNALEZIONO: Uszkodzenia",
+          "desc": "W pierwszej kolejności celuje w przeciwników z <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięciem</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to target's Rupture Count"
+                  "desc": "[OnSucceedAttack] Zadaj stałe obrażenia równe Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu"
                 }
               ]
             }
@@ -3071,16 +3071,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Amplify Vibration",
+          "name": "Wzmacnianie Wibracji",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3093,16 +3093,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Breaking down.",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "Burzenie",
+          "desc": "W pierwszej kolejności celuje w przeciwników z <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniem</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -3115,13 +3115,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "WARNING, WARNING: Shaking",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "UWAGA, UWAGA: Trzęsie Się",
+          "desc": "W pierwszej kolejności celuje w przeciwników z <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniem</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3134,13 +3134,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vulnerability Detected",
+          "name": "Wykryto Słabość",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Damage -50%\nStagger target"
+                  "desc": "[OnSucceedAttack] -50% obrażeń\nZachwiej Cel"
                 }
               ]
             }
@@ -3153,8 +3153,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[StartBattle] Gain 3 Protection",
+          "name": "Aktywacja Trybu Obronnego",
+          "desc": "[StartBattle] Zyskaj 3 [Protection]",
           "coinlist": [
             {}
           ]
@@ -3166,16 +3166,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let me return the favor.",
+          "name": "Pozwól Mi Się Odwdzięczyć.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by the number of Coins that hit last turn"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe liczbie trafionych Monet w poprzedniej turze"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -3188,13 +3188,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This'll Throw You Off",
+          "name": "Nie Pozbierasz Się Po Tym",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3207,13 +3207,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Acceleration",
+          "name": "Przyspieszenie Wibracji",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Double target’s Tremor Count"
+                  "desc": "[OnSucceedAttack] Podwój Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu"
                 }
               ]
             }
@@ -3226,20 +3226,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This is It!",
+          "name": "Mamy Was!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -3252,8 +3252,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "name": "Rozgrzanie Silnika",
+          "desc": "[WhenUse] Zyskaj 1 <sprite name=\"VibrationAssimilation\"><color=#ffc700><u><link=\"VibrationAssimilation\">Synchronizację Drżeń</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -3271,7 +3271,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3290,7 +3290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniu</link></u></color> celu"
                 }
               ]
             }
@@ -3309,21 +3309,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -3336,8 +3336,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "name": "Rozgrzanie Silnika",
+          "desc": "[WhenUse] Zyskaj 1 <sprite name=\"VibrationAssimilation\"><color=#ffc700><u><link=\"VibrationAssimilation\">Synchronizację Drżeń</link></u></color> na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -3349,36 +3349,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Friction Escalation",
+          "name": "Wzmocnienie Tarcia",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3391,16 +3391,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Grind You Up!",
+          "name": "Przepiłuję Cię!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3413,7 +3413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quaker Shaker",
+          "name": "Chwiejny Wstrząchacz",
           "desc": "",
           "coinlist": [
             {},
@@ -3421,14 +3421,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Jeśli 1 & 2 Monety wylądowały na Orle, nałóż [Vibration] równe obecnemu <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniu</link></u></color> celu"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by the number of Heads this skill lands"
+                  "desc": "[OnSucceedAttack] Jeśli 1 & 2 Monety wylądowały na Orle, nałóż [Vibration] równe Monetom tej Zdolności, które wylądowały na Orle"
                 }
               ]
             }
@@ -3441,8 +3441,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "name": "Rozgrzanie Silnika",
+          "desc": "[WhenUse] Zyskaj 1 <sprite name=\"VibrationAssimilation\"><color=#ffc700><u><link=\"VibrationAssimilation\">Synchronizację Drżeń</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -3460,13 +3460,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stand Back!",
+          "name": "Nie Zbliżaj Się!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3479,21 +3479,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This'll be Wobbly!",
+          "name": "Będzie Chybotać!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż [Paralysis] równy <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniu</link></u></color> celu na początku następnej tury"
                 }
               ]
             }
@@ -3506,13 +3506,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Turbo Amp",
+          "name": "Turbo Podkręcenie",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniu</link></u></color> celu"
                 }
               ]
             }
@@ -3525,24 +3525,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Trembling Conversion",
+          "name": "Wstrząsająca Zamiana",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniu</link></u></color> celu"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż [Paralysis] równy <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniu</link></u></color> celu na początku następnej tury"
                 }
               ]
             }
@@ -3555,27 +3555,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Compression",
+          "name": "Zacieśnienie Wibracji",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -3588,16 +3588,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Sweep the Stakes",
+          "name": "Czas Coś Zarobić",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10"
+                  "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania o 10"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 20"
+                  "desc": "[OnSucceedAttackHead] Podnieś Próg Zachwiania o 20"
                 }
               ]
             }
@@ -3610,8 +3610,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Final Warmup",
-          "desc": "[StartBattle] Gain 4 Protection\nHeal 15 SP",
+          "name": "Ostatnia Rozgrzewka",
+          "desc": "[StartBattle] Zyskaj 4 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>\nUlecz się o 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -3629,13 +3629,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stop the Intruder",
+          "name": "Zatrzymać Intruzów",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3648,13 +3648,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Entry",
+          "name": "Zakaz Wstępu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3667,14 +3667,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Forbid Entry",
+          "name": "Nie Dopuścić Do Wstępu",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -3687,8 +3687,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cover, Cover!",
-          "desc": "[StartBattle] Heal 5% of Max HP",
+          "name": "Kryć Się, Kryć Się!",
+          "desc": "[StartBattle] Ulecz 5% Maks PŻ",
           "coinlist": [
             {}
           ]
@@ -3700,13 +3700,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pause! Halt!",
+          "name": "Uwaga! Stać!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3719,17 +3719,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stop There, Please!",
+          "name": "Proszę Się Zatrzymać!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -3742,13 +3742,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Arresting!",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "Aresztuję!",
+          "desc": "W pierwszej kolejności celuje w cele z <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżeniem</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -3761,8 +3761,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Taking Cover!",
-          "desc": "[StartBattle] Heal 5% of Max HP",
+          "name": "Kryć Się!",
+          "desc": "[StartBattle] Ulecz 5% Maks PŻ",
           "coinlist": [
             {}
           ]
@@ -3774,8 +3774,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Administering HP Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nHeal by damage number\nDeals no damage",
+          "name": "Wstrzykiwanie Ampułki PŻ",
+          "desc": "[CantDuel][WhenUse] Celuje w Sojuszników\nLeczy zamiast zadawać obrażenia\nNie zadaje obrażeń",
           "coinlist": [
             {
               "coindescs": [
@@ -3793,8 +3793,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Administering Resister Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nGive 1 Protection against a random affinity\nDeals no damage",
+          "name": "Wstrzykiwanie Ampułki Ochronnej",
+          "desc": "[CantDuel][WhenUse] Celuje w Sojuszników\nPrzyznaj 1 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochronę</link></u></color> przed losowym Grzechem\nNie zadaje obrażeń",
           "coinlist": [
             {
               "coindescs": [
@@ -3812,13 +3812,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Firing Decay Ampule",
+          "name": "Wystrzeliwanie Ampułki Rozkładu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Decay Ampule\nInflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"CollapseAmpoule\"><color=#e30000><u><link=\"CollapseAmpoule\">Ampułkę Rozkładu</link></u></color>\nNałóż 1 [Paralysis] na początku następnej tury"
                 }
               ]
             }
@@ -3831,7 +3831,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Initiating evasive maneuver.",
+          "name": "Manewry Wymijające.",
           "desc": "",
           "coinlist": [
             {
@@ -3850,16 +3850,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Discharging Decay Ampule",
+          "name": "Wydzielanie Ampułki Rozkładu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"CollapseAmpoule\"><color=#e30000><u><link=\"CollapseAmpoule\">Ampułki Rozkładu</link></u></color>"
                 }
               ]
             }
@@ -3872,28 +3872,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Exposing weakness.",
+          "name": "Odsłanianie Słabości.",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"CollapseAmpoule\"><color=#e30000><u><link=\"CollapseAmpoule\">Ampułki Rozkładu</link></u></color>"
                 }
               ]
             }
@@ -3906,13 +3906,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Continue engaging.",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Kontynuować Walkę.",
+          "desc": "[CantDuel] Celuje w Sojuszników",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Damage Up next turn"
+                  "desc": "[OnSucceedAttack] Przyznaj 2 [AttackDmgUp] na początku następnej tury"
                 }
               ]
             }
@@ -3925,16 +3925,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do not reserve your strength.",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Nie Hamować Się.",
+          "desc": "[CantDuel] Celuje w Sojuszników",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Przyznaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -3947,7 +3947,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreating.",
+          "name": "Odwrót.",
           "desc": "",
           "coinlist": [
             {}
@@ -3960,13 +3960,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harming Curse",
+          "name": "Krzywdząca Klątwa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3979,20 +3979,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
+          "name": "Mnożąca Się Klątwa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4005,14 +4005,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Opened Wound",
+          "name": "Otwarcie Rany",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4025,7 +4025,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Defensive Talisman",
+          "name": "Obronny Talizman",
           "desc": "",
           "coinlist": [
             {
@@ -4044,13 +4044,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppressing Fluid",
+          "name": "Przygniatający Płyn",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             }
@@ -4063,13 +4063,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Fluid",
+          "name": "Wybuchowy Płyn",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -4082,20 +4082,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wobbling Fluid",
+          "name": "Kołyszący Się Płyn",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -4108,7 +4108,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fluid Guard",
+          "name": "Płynna Garda",
           "desc": "",
           "coinlist": [
             {
@@ -4127,13 +4127,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harming Curse",
-          "desc": "[WhenUse] Gain 1 Entangled Curse Talisman",
+          "name": "Krzywdząca Klątwa",
+          "desc": "[WhenUse] Zyskaj 1 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4146,20 +4146,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
-          "desc": "[WhenUse] Gain 2 Entangled Curse Talisman",
+          "name": "Mnożąca Się Klątwa",
+          "desc": "[WhenUse] Zyskaj 2 <sprite name=\"WrappedCurseTag\"><color=#9f6a3a><u><link=\"WrappedCurseTag\">Talizmany Wiążącej Klątwy</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4172,14 +4172,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraining Curse",
-          "desc": "[WhenUse] Gain 2 Entangled Curse Talisman",
+          "name": "Obezwładniająca Klątwa",
+          "desc": "[WhenUse] Zyskaj 2 <sprite name=\"WrappedCurseTag\"><color=#9f6a3a><u><link=\"WrappedCurseTag\">Talizmany Wiążącej Klątwy</link></u></color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4192,30 +4192,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pronounced Wound",
-          "desc": "[EndBattle] Remove all Entangled Curse Talisman",
+          "name": "Poważna Rana",
+          "desc": "[EndBattle] Usuń wszystkie <sprite name=\"WrappedCurseTag\"><color=#9f6a3a><u><link=\"WrappedCurseTag\">Talizmany Wiążącej Klątwy</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4228,7 +4228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Defensive Talisman",
+          "name": "Obronny Talizman",
           "desc": "",
           "coinlist": [
             {
@@ -4247,13 +4247,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppressing Fluid",
+          "name": "Przygniatający Płyn",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4266,13 +4266,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Fluid",
-          "desc": "[WhenUse] Gain 1 Morale Boost",
+          "name": "Wybuchowy Płyn",
+          "desc": "[WhenUse] Zyskaj 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 }
               ]
             }
@@ -4285,20 +4285,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wobbling Fluid",
-          "desc": "[WhenUse] Gain 1 Morale Boost",
+          "name": "Kołyszący Się Płyn",
+          "desc": "[WhenUse] Zyskaj 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -4311,8 +4311,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fluid Guard",
-          "desc": "[WhenUse] Heal 5% of Max HP\nGain 2 Fragile next turn\n[EndBattle] Remove all Tipsy",
+          "name": "Płynna Garda",
+          "desc": "[WhenUse] Ulecz 5% Maks PŻ\nZyskaj 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury\n[EndBattle] Usuń całe [Tipsiness]",
           "coinlist": [
             {
               "coindescs": [
@@ -4330,13 +4330,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraining Curse",
+          "name": "Obezwładniająca Klątwa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4349,14 +4349,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blunt Curse",
-          "desc": "[WhenUse] Inflict 1 Reattached Curse Talisman",
+          "name": "Uderzająca Klątwa",
+          "desc": "[WhenUse] Nałóż 1 [ReattachedCurseTag]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"HitTakeDamageUp\"><color=#e30000><u><link=\"HitTakeDamageUp\">Kruchości Przed Uderzeniem</link></u></color>"
                 }
               ]
             }
@@ -4369,14 +4369,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multiplying Talismans",
-          "desc": "Targets the enemy with the most Rupture",
+          "name": "Mnożące Się Talizmany",
+          "desc": "Celuje w przeciwników mających najwięcej <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Nałóż [Burst] równe równe liczbie <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color> na celu"
                 }
               ]
             }
@@ -4389,21 +4389,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paralyzing Curse",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman from target",
+          "name": "Paraliżująca Klątwa",
+          "desc": "[EndBattle] Usuń wszystkie <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmany Doczepionej Klątwy</link></u></color> na celu",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Paralyze by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Nałóż [Paralisys] równy liczbie <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color> na celu"
                 }
               ]
             }
@@ -4416,13 +4416,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strangling Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans",
+          "name": "Talizman Duszącej Klątwy",
+          "desc": "Celuje w przeciwnika z największą liczbą <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color>"
                 }
               ]
             }
@@ -4435,20 +4435,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "name": "Talizman Wygasającej Klątwy",
+          "desc": "Celuje w przeciwnika z największą liczbą <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color>\n[EndBattle] Usuń wszystkie <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmany Doczepionej Klątwy</link></u></color> na celu",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmany Doczepionej Klątwy</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Jeśli cel ma 9+ <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color>, nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>\nZadaj stałe obrażenia równe 50% zadanych obrażeń"
                 }
               ]
             }
@@ -4461,8 +4461,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spreading Curse Talisman",
-          "desc": "[WhenUse] Inflict 2 Reattached Curse Talisman",
+          "name": "Talizmaj Roznoszącej Się Klątwy",
+          "desc": "[WhenUse] Nałóż 2 <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmany Doczepionej Klątwy</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -4480,20 +4480,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "name": "Talizman Wygasającej Klątwy",
+          "desc": "Celuje w przeciwnika z największą liczbą <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color>\n[EndBattle] Usuń wszystkie <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmany Doczepionej Klątwy</link></u></color> na celu",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmany Doczepionej Klątwy</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackTail] Jeśli cel ma 9+ <sprite name=\"ReattachedCurseTag\"><color=#9f6a3a><u><link=\"ReattachedCurseTag\">Talizmanów Doczepionej Klątwy</link></u></color>, nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>\nZadaj stałe obrażenia równe 50% zadanych obrażeń"
                 }
               ]
             }
@@ -4506,13 +4506,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suspicious Individuals",
+          "name": "Podejrzane Typy",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4525,13 +4525,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restrain",
+          "name": "Obezwładnić",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4544,28 +4544,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Trespassing",
-          "desc": "Targets the unit with the most HP",
+          "name": "Zablokować Przejście",
+          "desc": "Celuje w jednostkę z największą ilością PŻ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 1 lands Tails, +10% Damage"
+                  "desc": "Jeśli 1 Moneta wylądowała na Reszce, +10% zadanych obrażeń"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 2 lands Tails, +10% Damage"
+                  "desc": "Jeśli 2 Moneta wylądowała na Reszce, +10% zadanych obrażeń"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coins 2 & 3 land Tails, +30% Damage"
+                  "desc": "Jeśli 2 & 3 Monety wylądowały na Reszce, +30% zadanych obrażeń"
                 }
               ]
             }
@@ -4578,16 +4578,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interlocking Moment",
-          "desc": "[WhenUse] Gain +1 Charge Count",
+          "name": "Splatanie Chwil",
+          "desc": "[WhenUse] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Zużyj 2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> to nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -4600,13 +4600,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Siphon Time",
-          "desc": "[WhenUse] Gain +1 Charge Count",
+          "name": "Wyssanie Czasu",
+          "desc": "[WhenUse] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Haste; Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility]; Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4619,23 +4619,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Accelerating Moment",
-          "desc": "[StartBattle] Gain +3 Charge Count\n[WhenUse] At 5+ Charge Count, Clash Power +2\nBecome immobilized next turn",
+          "name": "Chwilowe Przyspieszenie",
+          "desc": "[StartBattle] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>\n[WhenUse] Mając 5+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Clash Power +2\nBecome immobilized na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ Charge Count, spend all Charge Count to deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] Mając 5+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zwiększyć zadawane obrażenia o +10% za każdą zużytą Ilość"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [InterlockingTime]"
                 }
               ]
             }
@@ -4648,8 +4648,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Borrow Time",
-          "desc": "[StartBattle] Gain 3 [TimeRental] and +1 Charge Count",
+          "name": "Pożyczka Czasowa",
+          "desc": "[StartBattle] Zyskaj 3 <sprite name=\"TimeRental\"><color=#9f6a3a><u><link=\"TimeRental\">Pożyczonego Czasu z Odmętów</link></u></color> i +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {}
           ]
@@ -4661,7 +4661,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Nagrywanie Z Bliska",
           "desc": "",
           "coinlist": [
             {}
@@ -4674,7 +4674,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Odwrót; Odwrót;",
           "desc": "",
           "coinlist": [
             {}
@@ -4687,16 +4687,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
+          "name": "Lampa Błyskowa;",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 5 SP"
+                  "desc": "[OnSucceedAttack] Cel traci 5 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] Cel traci 5 SP"
                 }
               ]
             }
@@ -4709,13 +4709,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Arresting.",
+          "name": "Aresztuję.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind and 3 Paralyze next turn."
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> i 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury."
                 }
               ]
             }
@@ -4728,13 +4728,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suspicious Individuals",
+          "name": "Podejrzane Typy",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4747,14 +4747,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restrain",
+          "name": "Obezwładnić",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -4767,28 +4767,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Trespassing",
-          "desc": "Targets the unit with the most HP",
+          "name": "Zablokować Przejście",
+          "desc": "Celuje w jednostkę z największą ilością PŻ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 1 lands Heads, +10% Damage"
+                  "desc": "Jeśli 1 Moneta wylądowała na Reszce, +10% zadanych obrażeń"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 2 lands Heads, +10% Damage"
+                  "desc": "Jeśli 2 Moneta wylądowała na Reszce, +10% zadanych obrażeń"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coins 2 & 3 land Heads, +30% Damage"
+                  "desc": "Jeśli 2 & 3 Monety wylądowały na Reszce, +30% zadanych obrażeń"
                 }
               ]
             }
