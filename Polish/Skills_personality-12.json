@@ -2006,7 +2006,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Nocni Szewcy",
+          "name": "Szewska Pasja",
           "desc": "+10% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (max 40%)\n+50% zadanych obrażeń jeśli (Rdzeń) przeciwnika ma 20%- HP\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (max 2)\n[WinDuel] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -2059,7 +2059,7 @@
         },
         {
           "level": 4,
-          "name": "Nocni Szewcy",
+          "name": "Szewska Pasja",
           "desc": "+<style=\"highlight\">15</style>% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">Jeśli Cel ma Tarczę, +30% zadanych obrażeń (w Skupionych Potyczkach, Rdzeń lub Części)</style>\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +100% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Nałóż 5 [DefenseDown]</style>\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (max <style=\"highlight\">3</style>)\n[WinDuel] <style=\"highlight\">Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion]",
           "coinlist": [
             {
