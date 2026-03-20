@@ -4519,12 +4519,12 @@
       "dlg": "... Będziesz spać, oczekując swego pogrzebu."
     },
     {
-      "id": "battle_kill_10710_1-01",
+      "id": "battle_kill_10710_2",
       "desc": "",
       "dlg": "... Będziesz krzyczeć, choć nic to nie zmieni."
     },
     {
-      "id": "battle_kill_10710_1-02",
+      "id": "battle_kill_10710_3",
       "desc": "",
       "dlg": "... Zostawniesz rozerwany na strzępy, które wiatr wywieje daleko stąd."
     },
@@ -7077,12 +7077,7 @@
     {
         "id": "battle_special_10813_4",
         "desc": "",
-        "dlg": "Żuraw."
-    },
-    {
-        "id": "battle_special_10813_5",
-        "desc": "",
-        "dlg": "Kwiat."
+        "dlg": "Żuraw, Kwiat."
     },
     {
         "id": "battle_special_10813_6",
