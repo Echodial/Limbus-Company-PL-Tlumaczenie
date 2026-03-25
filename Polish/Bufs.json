@@ -639,7 +639,7 @@
     {
       "id": "Choice_901009",
       "name": "Photopia",
-      "desc": "All Ally Units lose 1 Skill Ostatecznej Mocy for the next Encounter",
+      "desc": "All Ally Units strać 1 Skill Ostatecznej Mocy for the next Encounter",
       "summary": "Skill Ostatecznej Mocy -1"
     },
     {
@@ -907,7 +907,7 @@
     {
       "id": "MarkOfHeresy",
       "name": "Spojrzenie",
-      "desc": "+20% otrzynywanych obrażeń od Dźgania i Uderzenia.\nSojusznik, który zabije naznaczoną jednosykę odzyskuje 10 SP; jeśli ten sojusznik jest 'Fanatykiem z N Corpu', nałóż też 1 Fanatyzm w następnej turze.",
+      "desc": "+20% otrzynywanych obrażeń od Dźgania i Uderzenia.\nSojusznik, który zabije naznaczoną jednostkę odzyskuje 10 SP; jeśli ten sojusznik jest 'Fanatykiem z N Corpu', nałóż też 1 Fanatyzm w następnej turze.",
       "summary": "+20% Otrzymywanych obrażeń od Dźgania i Uderzenia"
     },
     {
@@ -961,7 +961,7 @@
     {
       "id": "Thirst",
       "name": "Apetyt",
-      "desc": "+{0}0% leczenia z [Rustle Up].\nZużywane, kiedy Zdolność Pasywna zostanie aktywowana.",
+      "desc": "+{0}0% leczenia od Zdolności Coś na Szybko.\nZużywane, kiedy Zdolność Pasywna zostanie aktywowana.",
       "summary": "Leczenie od [Rustle Up] +{0}0% HP"
     },
     {
@@ -1039,7 +1039,7 @@
     {
       "id": "Exalted",
       "name": "Wzmocnienie Morale",
-      "desc": "Zyskuje {0} Większych Obrażeń na początku każdej tury (Maks 5)\nNie zyskuje tego statusu, jeśli jest w stanie Podpicia",
+      "desc": "Zyskuje {0} Większych Obrażeń na początku każdej tury (Maks 5)\nEfekt nie jest przyznawany jednostkom będącym w stanie Podpicia",
       "summary": "Zyskuje Większe Obrażenia równe Wartości na początku każdej tury; Nie zyskuje statusu w stanie Podpicia"
     },
     {
@@ -1886,13 +1886,13 @@
     {
       "id": "Switch_Vibration",
       "name": "Dostrój Częstotliwość",
-      "desc": "Zamienia Drżenie lub inne już zamienione Drżenie na celu w inny typ Drżenia.\nWartości Siły i Ilości nie zmieniają się przez konwersję."
+      "desc": "Zamienia Drżenie lub inne już zamienione Drżenie na celu w inny typ Drżenia.\nWartości Siły i Ilości nie zmieniają się przez dostrojenie."
     },
     {
       "id": "MarkOfButler",
       "name": "N.N.L.",
       "desc": "Wzmacnia Zdolności Przewodzącego Lokaja Rodziny Edgar Ryoshu przeciwko celom z tym efektem.\nSpada o 1 na Końcu Tury",
-      "summary": " 'To chyba oznacza... 'Następny Na Liście' ~ Lokaj Wichrowych Wzgóż Sinclair\n Hah, M.C.~ Przewodzący Lokaj Rodziny Edgar Ryoshu",
+      "flavor": " 'To chyba oznacza... 'Następny Na Liście' ~ Lokaj Wichrowych Wzgóż Sinclair\n Hah, M.C.~ Przewodzący Lokaj Rodziny Edgar Ryoshu",
       "undefined": "-"
     },
     {
@@ -1939,7 +1939,7 @@
     {
       "id": "ShieldManagerCryingToad",
       "name": "Łzawy Bąbel",
-      "desc": "- Ten efekt liczy się jako 'Zarządzanie Tarczą'.\n- Koniec Tury: Zmniejsz Ilość o 1\n- Ta jednostka nie traci Tarczy na Końcu Tury tak długo, jak ma na sobie efekt Łzawego Bąbla (chyba, że zostanie wyczerpana przez inne źródła)\n- Jeśli tarcza nadana z Łzawego Bąbla pęknie, nałóż na atakującego 4 Siły/Ilości Zrozpaczenia. (Ile z tej wartości '4' będzie Siłą a ile Ilością jest określane losowo)\n- Ta jednostka może zbierać więcej tarczy używając tego efektu. Jednak tak długo, jak Łzawy Bąbel działa, wartość Tarczy nie może przekroczyć 60% Maks HP tej jednostki.",
+      "desc": "- Ten efekt liczy się jako 'Zarządzanie Tarczą'.\n- Koniec Tury: Zmniejsz Ilość o 1\n- Ta jednostka nie traci Tarczy na Końcu Tury tak długo, jak ma na sobie efekt Łzawego Bąbla (chyba, że zostanie wyczerpana przez inne źródła)\n- Jeśli tarcza nadana z Łzawego Bąbla pęknie, nałóż na atakującego 4 Siły/Ilości Zrozpaczenia. (Ile z tej wartości '4' będzie Siłą, a ile Ilością jest określane losowo)\n- Ta jednostka może zbierać więcej tarczy używając tego efektu. Jednak tak długo, jak Łzawy Bąbel działa, wartość Tarczy nie może przekroczyć 60% Maks HP tej jednostki.",
       "summary": ""
     },
     {
@@ -1951,7 +1951,7 @@
     {
       "id": "TimeSuspend",
       "name": "Wstrzymanie Czasu",
-      "desc": "- Ta jednostka nie otrzymuje obrażeń tak długo, jak aktywny jest ten efekt; zamiast tego, wszystkie obrażenia są przechowywane\n- Koniec Walki: Jeśli została tylko 1 Ilość tego efektu, aktywuje on {0} impuls(ów) Drżeń po zadaniu {3} obrażeń od Lenistwa.\n- Koniec Tury: ten efekt zyskuje 1 Wartości i traci 1 Ilości\n- Wstrzymanie Czasu wygaśnie od razu po aktywowaniu Impulsu Drżeń i obrażeń od Lenistwa, jeśli kolejne Wstrzymanie Czasu zostanie nałożone na jednostkę, która już ma na sobie Wstrzymanie Czasu.\n- Przechowane obrażenia: {2}",
+      "desc": "- Ta jednostka nie otrzymuje obrażeń tak długo, jak aktywny jest ten efekt; zamiast tego, wszystkie obrażenia są przechowywane\n- Koniec Walki: Jeśli została tylko 1 Ilość tego efektu, zadaje {3} obrażeń od Lenistwa i aktywuje {0} impuls(ów) Drżeń.\n- Koniec Tury: ten efekt zyskuje 1 Wartości i traci 1 Ilości\n- Wstrzymanie Czasu wygaśnie od razu po aktywowaniu Impulsu Drżeń i obrażeń od Lenistwa, jeśli kolejne Wstrzymanie Czasu zostanie nałożone na jednostkę, która już ma na sobie Wstrzymanie Czasu.\n- Przechowane obrażenia: {2}",
       "summary": ""
     },
     {
@@ -2072,7 +2072,7 @@
     {
       "id": "WanderingFootsteps",
       "name": "Nadchodząca Ruina",
-      "desc": "- Jednostki posiadające SP: Zmień typ Paniki na \"\"Ruinę\"\".\n(Ruina: Kiedy ta jednostka wchodzi w stan Niskiego Morale, zyskuje 3 Zrozpaczenia na Końcu Każdej Tury i traci 1 Mocy Starcia. Kiedy ta jednostka Panikuje, zyskuje 5 Zrozpaczenia i 3 Ilości Zrozpaczenia na Końcu Każdej Tury i traci 2 Mocy Starcia)\n- Jednostki bez SP: -10% szansy na wyrzucenie Orła\n- Wartość spada o 1 na Końcu Tury\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n※ Nakłada efekt \"\"Jednostej bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki.",
+      "desc": "- Jednostki posiadające SP: Zmień typ Paniki na \"\"Ruinę\"\".\n(Ruina: Kiedy ta jednostka wchodzi w stan Niskiego Morale, zyskuje 3 Zrozpaczenia na Końcu Każdej Tury i traci 1 Mocy Starcia. Kiedy ta jednostka Panikuje, zyskuje 5 Zrozpaczenia i 3 Ilości Zrozpaczenia na Końcu Każdej Tury i traci 2 Mocy Starcia)\n- Jednostki bez SP: -10% szansy na wyrzucenie Orła\n- Wartość spada o 1 na Końcu Tury\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n※ Nakłada efekt \"\"Jednostek bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki.",
       "summary": ""
     },
     {
@@ -2125,7 +2125,7 @@
     {
       "id": "DefensiveStance",
       "name": "Postawa Obronna",
-      "desc": "- Maks Wartość: 2\n- Ten efekt nie kumuluje się w Sile; Ponowne nakładaie go zwiększa tylko jego długość.\n- Wartość spada o 1 na Końcu Tury\n- Kiedy jednostka zyska ten efekt, zyskuje na początku następnej tury dane efekty:\n  · Ustawia Prędkość tej jednostki na jej maksymalną wartość\n  · Przyznaje 5 Większego Poziomu Obrony\n  · Każdy z Żetonów Zdolności tej jednostki zyskuje +(10 / # Żetonów tej jednostki) Aggro\n  · Podczas wybierania Zdolności ta jednostka może ściągać na siebie ataki przeciwników bez względu na Prędkość (Tylko w Skupionych Potyczkach)\n  · Wygrywając Starcie, Aktywuj Impuls Drżeń\n  · Nie może być ogłuszona przez obrażenia",
+      "desc": "- Maks Wartość: 2\n- Ten efekt nie kumuluje się w Sile; Ponowne nakładaie go zwiększa tylko jego długość.\n- Wartość spada o 1 na Końcu Tury\n- Kiedy jednostka zyska ten efekt, zyskuje na początku następnej tury dane efekty:\n  · Ustawia Prędkość tej jednostki na jej maksymalną wartość\n  · Przyznaje 5 Większego Poziomu Obrony\n  · Każdy z Żetonów Zdolności tej jednostki zyskuje +(10 / # Żetonów tej jednostki) Aggro\n  · Podczas wybierania Zdolności ta jednostka może ściągać na siebie ataki przeciwników bez względu na Prędkość (Tylko w Skupionych Potyczkach)\n  · Wygrywając Starcie, Aktywuj Impuls Drżeń\n  · Nie może być Zachwiana przez obrażenia",
       "summary": ""
     },
     {
@@ -2137,7 +2137,7 @@
     {
       "id": "SuperCoin",
       "name": "Niezłomna Moneta",
-      "desc": "- Ta moneta nie łamie się po przegrniu Starcia.\n- Jeśli ta moneta wystepuje w Zdolności Atakującej, zaatakuj tą monetą po byciu trafionym.\n- Po przegraniu starcia, ustaw Moc niezłamanej monety na 1",
+      "desc": "- Ta moneta nie łamie się po przegraniu Starcia.\n- Jeśli ta moneta wystepuje w Zdolności Atakującej, zaatakuj tą monetą po byciu trafionym.\n- Po przegraniu starcia, ustaw Moc niezłamanej monety na 1",
       "summary": ""
     },
     {
@@ -2171,7 +2171,7 @@
     {
       "id": "Snare",
       "name": "Lasso",
-      "desc": "- Maks Wartość: 3\n- Koniec Tury: przyznaje Siłę Pęknięcia równą obecnej Prędkości tej jednostki (Maks 5) i przyznaje 1 Spętanie na początku następnej tury\n- Koniec Tury: wartość spada o 1",
+      "desc": "- Maks Wartość: 3\n- Koniec Tury: przyznaje Siłę Pęknięcia równą obecnej Prędkości tej jednostki (Maks 5) i 1 Spętanie na początku następnej tury\n- Koniec Tury: wartość spada o 1",
       "summary": "",
       "undefined": "-"
     },
@@ -2386,7 +2386,7 @@
     {
       "id": "BlackCloud",
       "name": "Ciemna Chmura",
-      "desc": "Maks Wartość: 1\nZamienia wszystkie Monety Bazowych Zdolności tej jednostki w [Unbreakable Coins], sprawia, że obrażenia nie mogą Zachwiać tej jednostki do Końca Tury i nakłada +1 dodatkowych efektów Krwawienia\nPrzegranie Starcia: +3 przyznaje Ostatecznej Mocy\nKoniec Tury: ten efekt wygasa"
+      "desc": "Maks Wartość: 1\nZamienia wszystkie Monety Bazowych Zdolności tej jednostki w Niezłomne Monety, sprawia, że obrażenia nie mogą Zachwiać tej jednostki do Końca Tury i nakłada +1 dodatkowych efektów Krwawienia\nPrzegranie Starcia: +3 przyznaje Ostatecznej Mocy\nKoniec Tury: ten efekt wygasa"
     },
     {
       "id": "BlackCloudBlade",
@@ -2401,12 +2401,12 @@
     {
       "id": "CloudWall",
       "name": "Kłębiasta Ściana",
-      "desc": "Maks Wartość: 1\n +1 Ostatecznej Mocy Zdolności Oboronnej\nTen efekt wygasa na Końcu Tury lub po użyciu danego ataku: 'Prawa Uliczek Bocznych'"
+      "desc": "Maks Wartość: 1\n +1 Ostatecznej Mocy Zdolności Oboronnej\nTen efekt wygasa na Końcu Tury lub po użyciu danego ataku: 'Prawa Tylnych Uliczek'"
     },
     {
       "id": "NebulizerExhale",
       "name": "Inhalator α",
-      "desc": "- Maks Wartość: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Siłę Tchnienia i +1 Ilości Tchnienia"
+      "desc": "- Maks Wartość: 5\n- Ten efekt zostaje na jednostce poprzez Potyczkę\n- Początek Walki: wszyscy sojusznicy, w tym ta jednostka, zyskują 1 Siłę Tchnienia i +1 Ilości Tchnienia"
     },
     {
       "id": "ReleaseBreath",
@@ -2423,7 +2423,7 @@
     {
       "id": "FirePunchFuelOverheated",
       "name": "Przegrzane Paliwo",
-      "desc": "Maks Wartość: 100\nZużywanie Paliwa z Dystryktu 12 w stanie Przegrzanego Paliwa zamiast tego zużywa Przegrzane Paliwo\nZużywanie Przegrzanego Paliwa lczy się jako zużywanie Paliwa z Dystryktu 12\nPrzy ponad 50 Wartości, zamienia się w Paliwo z Dystryktu 12\nZużyte paliwo: {0}",
+      "desc": "Maks Wartość: 100\nZużywanie Paliwa z Dystryktu 12 w stanie Przegrzanego Paliwa zamiast tego zużywa Przegrzane Paliwo\nZużywanie Przegrzanego Paliwa liczy się jako zużywanie Paliwa z Dystryktu 12\nPrzy ponad 50 Wartości, zamienia się w Paliwo z Dystryktu 12\nZużyte paliwo: {0}",
       "summary": "",
       "undefined": "-"
     },
@@ -2472,7 +2472,7 @@
     {
       "id": "ActivatedEgoPassive",
       "name": "Pasywne efekty E.G.O",
-      "desc": "ActAktywneive Pasywne efekty E.G.O",
+      "desc": "Aktywne Pasywne efekty E.G.O",
       "summary": "",
       "undefined": "-"
     },
@@ -3201,7 +3201,7 @@
       "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
-      "id": "IndexPrescriptDon_1",
+      "id": "IndexPrescriptYi_1",
       "name": "Nakaz: [Urządzenie] II",
       "desc": "Traf cel Zdolnością oznaczoną Znakiem Nakazu.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - I\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 6",
       "summary": "",
@@ -3209,7 +3209,7 @@
       "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
-      "id": "IndexPrescriptDon_2",
+      "id": "IndexPrescriptYi_2",
       "name": "Nakaz: [Urządzenie] III",
       "desc": "Zdobądź Prokuraturę [Hermes]. Powtażaj ten Nakaz, aż Prokuratura [Hermes] osiągnie 9 Wartości\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - II\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 9",
       "summary": "",
@@ -3217,7 +3217,7 @@
       "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
-      "id": "IndexPrescriptDon_3",
+      "id": "IndexPrescriptYi_3",
       "name": "Nakaz: [Urządzenie] IV",
       "desc": "Wyeliminuj wszystkie cele zanim przyjdzie następny Nakaz.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - III",
       "summary": "",
@@ -3343,6 +3343,147 @@
       "summary": "",
       "undefined": "-",
       "flavor": ""
+    },
+    {
+      "id": "ThatIsRhythm",
+      "name": "Rytm",
+      "desc": "- Maks Wartość: 5\n- +2% zadawanych obrażeń za każdą Wartość (maks 10%)\n- +1 Pozimu Ataku za każdą Wartość (maks 5)\n- -1  poziomu Obrony za każdą Wartość (maks -5)\n- Koniec Tury: Ten efekt wygasa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeSpore",
+      "name": "Zarodniki",
+      "desc": "- Maks Wartość: 15\n- Koniec Tury: Zyskaj +1 Ilości Podpalenia za każde 5 Wartości\n- Zyskaj 1 Spętanie na początku następnej tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultWorkerBee",
+      "name": "Feromon Lojalnościowy",
+      "desc": "- Maks Wartość: 3\n- Zyskaj dane efekty na początku następnej tury zależnie od Wartości na Końcu Tury:\n1+ Wartość: 1 Ochrona\n2+ Wartość: 1 Pośpiech\n3 Wartość: 1 Większa Moc Starcia",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletLong",
+      "name": "Nabój Zarodnika [Bazowy]",
+      "desc": "- Specjalna Amunicja\n- Maks Wartość: 10\n- Zużywana przez Zdolności\n- NIektóre ataki mogą zostać anulowane jeśli brakuje im amunicji\n- Po wystrzeleniu, nałóż przy trafieniu 2 Zarodniki na cel",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletShort",
+      "name": "Nabój Zarodnika [Śrut]",
+      "desc": "- Specjalna Amunicja\n- Maks Wartość: 6\n- Zużywana przez Zdolności\n- NIektóre ataki mogą zostać anulowane jeśli brakuje im amunicji\n- Po wystrzeleniu, nałóż przy trafieniu 3 Zarodniki na cel",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletReloading",
+      "name": "Przeładuj [Kiełkowanie]",
+      "desc": "- Efekt wpływa na Nabój Zarodnika (Specjalna Amunicja)\n- zużyj ((16 - suma Naboi Zarodnika) / 2) SP (zaokrąglone w dół), zresetuj Wartości obu rodzai Naboi Zarodnika, po czym zyskaj ich Maks Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeGunLong",
+      "name": "Szerszeń [Karabin]",
+      "desc": "Obecny Tryb: Szerszeń [Karabin]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeGunShort",
+      "name": "Szerszeń [Strzelba]",
+      "desc": "Obecny Tryb: Szerszeń [Strzelba]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Zamiast osądzisz jego formę jako karabin, spójrz na wewnętrzną esencję \"Szerszenia.\"\nepoché"
+    },
+    {
+      "id": "BulletGodok",
+      "name": "Nabój - Samotność",
+      "desc": "- Specjalna Amunicja\n- Maks Pojemność: 6\nZużywana przez Zdolności\n\n- Efekty zewnętrznie nie mogą wpływać na liczbę naboi",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlriuneEGOThey",
+      "name": "Mdła Kwiatowa Woń ",
+      "desc": "- Maks Wartość: 30\n- Zyskaj 1 Wartość kiedy ta jednostka otrzyma obrażenia od Zrozpaczenia\n- Będąc trafionym Impulsem Drżeń, nałóż 1~2 Mdłej Kwiatowej Woni na 3 innych losowych sojuszników (dla Anomalii, Część)\n- Przy maks Wartości, zyskaj 2 Drżenia i aktywuj na sobie Impuls Drżeń, po czym otrzymaj obrażenia od Przygnębienia równe Zrozpaczeniu na sobie i strać całą Mdłą Kwiatową Woń . Cannot zyskaj Mdła Kwiatowa Woń for the rest of the turn.\n- Jeśli ta jednostka zostanie pokonana, nałóż połowę pozostałej na tej jednostce Mdłej Kwiatowej Woni losowo rozłożonej na sojusznikow tej jednostki (zaokrąglone w dół)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlriuneEGOWe",
+      "name": "Płatki",
+      "desc": "- Maks Wartość: 30\n- +1 Poziomu Ataku za każde 10 Wartości\n- Podczas jednej tury można zyskać do 15 Płatków",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType",
+      "name": "Samotność",
+      "desc": "- +10% obrażeń otrzymywanych od Zdolności Przygnębienia\n- Jednostki posiadające SP: zmienia typ paniki na \"Samotność\"\n- Jednostki nie posiadające SP: Zyskaj +2 Ilości Zrozpaczenia na Końcu Tury\n\n- Wartość spada o 1 na Końcu Tury\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością.\n※ Nakłada efekt \"\"Jednostek bez SP\"\" dla przeciwników, któzy mają SP, ale nie mogą zmienić swojego typu Paniki",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Godok_Lowmorale",
+      "name": "Samotność",
+      "desc": "- Niskir Morale\n- Koniec Tury: Zyskaj +2 Ilości Zrozpaczenia",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Godok_Panic",
+      "name": "Samotność",
+      "desc": "- Panika\n- Koniec Tury: Zyskaj +3 Ilości Zrozpaczenia",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType_Sub",
+      "name": "Samotność",
+      "desc": "- +10% obrażeń otrzymywanych od Zdolności Przygnębienia\n- Koniec Tury: Zyskaj +2 Ilości Zrozpaczenia\n\n- Wartość spada o 1 na Końcu Tury\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType_Main",
+      "name": "Samotność",
+      "desc": "- +10% obrażeń otrzymywanych od Zdolności Przygnębienia\n- Zmienia typ Paniki na 'Samotność'\n\n- Wartość spada o 1 na Końcu Tury\n- Wartość się nie kumuluje, nałożenie efektu ponownie zamienia obecną wartość nowo nałożoną wartością",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SelfChargeAlly",
+      "name": "Automatyczne Ładowanie",
+      "desc": "- +2 Ostatecznej Mocy\n- Zyskaj Ilość Naładowania równą straconej Wartości\n- Strać Wartość w danych sytuacjach:\n· Koniec Ataku Zdolności, która trafiła tą jednostkę (strać 1 Wartość)\n· Koniec Ataku (strać 3 Wartości)\n· Koniec Tury (strać 5 Wartości)\n- Maks Wartość: 20\n- HP tej jednostki nie może spaść poniżej 1 tak długo, jak ma ona ten efekt",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HighVoltageExoshell",
+      "name": "Egzoszkielet Pod Wysokim Napięciem",
+      "desc": "- Zyskaj (Wartość x 5) Tarczy\n- Kiedy ta jednostka straci (Wartość x 5) Tarczy, strać 1 Wartość\n- Koniec Tury: Zyskaj Ilość Naładowania równą Wartości; zarówno Egzoszkielet Pod Wysokim Napięciem jak i zyskana z niego tarcza wygasają\n- Maks Wartość: 20",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargedSting",
+      "name": "Naładowane Użądlenie",
+      "desc": "- Za każdą Wartość, +4% obrażeń orzymywanych przez Zdolności, które zyskują lub zużywają Ilość Naładowania (w tym 'Specjalne Naładowanie') (maks 20%)\n· Dla Zdolności Zazdrości, efekt jest wzmocniony do +8% obrażeń za każdą Wartość (maks 40%)\n- Maks Wartość: 5\n- Strać 1 Wartość na Końcu Ataku or Końcu Tury Tury po byciu trafionym Zdolnością, która spełnia powyższe warunki aktywacji (nie licząc Bazowych Zdolności Atakujących, które nakładają Naładowane Użądlenie)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaustFlameMothEmber",
+      "name": "Żar",
+      "desc": "- Maks Siła: 3\n- Maks Ilość: 6\n- Jeśli ta jednostka ma Podpalenie, traci 1 Ilość Żaru kiedy zostanie trafiona Zdolnością, która nakłada Siłę Podpalenia, Ilość Podpalenia, lub 'Specjalne Podpalenie' (licząc Zdolności E.G.O)\n\n- Jeśli ta jednostka nie ma Podpalenia, zresetuj Ilość Żaru do 6 kiedy zostanie trafiona (Niezależnie czy dana Zdolność nakłada Podpalenie)\n\n- Kiedy Ilość Żaru wynosi 0, aktywuj dane efekty:\n· ASktywuj Podpalenie na sobie i strać 1 Ilość Podpalenia\n· Strać 1 Siłę Żaru\n· Jeśli tej jednostce zostało 1+ Siły Żaru, zresetuj Ilość Żaru do 6",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }
