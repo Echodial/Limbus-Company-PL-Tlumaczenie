@@ -53,7 +53,7 @@
     {
       "id": "battle_erosion_20206_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Oto. Jesteście zatrzymani. Wasz czas przestał płynąć. I taki pozostanie."
+      "dlg": "Oto. Jesteście zatrzymani. Wasz czas przestał płynąć. I tak pozostanie."
     },
     {
       "id": "battle_awaken_20207_1",
@@ -68,22 +68,57 @@
     {
       "id": "battle_awaken_20208_1",
       "desc": "E.G.O Activation",
-      "dlg": "Czy pamiętacie moment w którym po raz pierwszy napełniliście swoje płuca bez strachu?\nDla mnie... ten moment to teraz."
+      "dlg": "Czy pamiętacie moment w którym pierwszy raz mogliście zachłysnąć się powietrzem?\nDla mnie... ten moment to teraz."
     },
     {
       "id": "battle_erosion_20208_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Weź głęboki wdech... bo będzie on twoim ostatnim."
+      "dlg": "Weź głęboki wdech... będzie on twoim ostatnim."
     },
     {
       "id": "battle_awaken_20209_1",
       "desc": "E.G.O Activation",
-      "dlg": "Podczas tej podróży, w niespokojnych czasach,\nmiej nadzieje na przyszłość. Znajdź swoją własną odpowiedź."
+      "dlg": "Podczas tej podróży, w tych niespokojnych czasach,\nzachowajw nadzieje na świetlistą przyszłość. Znajdź swoją własną odpowiedź."
     },
     {
       "id": "battle_erosion_20209_1",
       "desc": "E.G.O Corrosion",
-      "dlg": "Przyjęto Rozkaz: Załamanie. Przejdź przez pole prochu,\nodkryj prawdziwe znaczenie samotności, i walcz bezustannie o daleką, niepewną przyszłość."
+      "dlg": "Przyjęto Rozkaz: Rozłam. Przejdź przez ekspansy popiołu,\nodkryj prawdziwe znaczenie samotności, i walcz nieustannie o daleką, niepewną przyszłość."
+    },
+    {
+      "id": "battle_awaken_20210_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Choć pewnie nie będe mogła cię doprowadzić do tej obszytej płomieniami mgławicy...\nW moim objęciu możesz stać się przebłyskiem gwieździstego światła."
+    },
+    {
+      "id": "battle_awaken_20210_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Choć pewnie nie będe mogła cię doprowadzić do tej obszytej płomieniami mgławicy..."
+    },
+    {
+      "id": "battle_awaken_20210_3",
+      "desc": "E.G.O Activation",
+      "dlg": "W moim objęciu możesz stać się przebłyskiem gwieździstego światła."
+    },
+    {
+      "id": "battle_erosion_20210_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Poleć ze mną jescze raz, aż dotkniemy w końcu płomiennej mgławicy...!\nWypalmy się razem do cna."
+    },
+    {
+      "id": "battle_erosion_20210_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Poleć ze mną jescze raz,"
+    },
+    {
+      "id": "battle_erosion_20210_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "aż dotkniemy w końcu płomiennej mgławicy...!"
+    },
+    {
+      "id": "battle_erosion_20210_4",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Wypalmy się razem do cna."
     }
   ]
 }
