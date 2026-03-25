@@ -885,6 +885,21 @@
       "desc": "",
       "dlg": "Przynajmniej twoje gardło... będzie łatwo przeciąć."
     },
+	{
+      "id": "6SV-016_1",
+      "desc": "############ Bloodfiend Sasha ############",
+      "dlg": "A niech to..!"
+    },
+	{
+      "id": "6SV-016_1-01",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "A niech to..!"
+    },
+	{
+      "id": "6SV-016_1-02",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "A niech to..!"
+    },
     {
       "id": "special_vergil_bufftarget_atk",
       "desc": "############ Kkomi and Vergilius? - I'll do the AF sinners if they add them back ############",
@@ -7584,6 +7599,21 @@
 		"desc": "Death",
 		"dlg": "Ma... musiu..."
 	},
+  {
+      "id": "battle_s2_10814_1_1-02",
+      "desc": "",
+      "dlg": "Raz."
+  },
+  {
+      "id": "battle_s2_10814_1_2-02",
+      "desc": "",
+      "dlg": "Dwa."
+  },
+  {
+      "id": "battle_s2_10814_1_3",
+      "desc": "",
+      "dlg": "Trzy!"
+  },
 	{
         "id": "battle_s3_10814_1_1",
         "desc": "",
@@ -7994,82 +8024,82 @@
   {
     "id": "battle_select_10414_1",
     "desc": "########## Faint Aroma & Solitude E.G.O Ryoshu ##########",
-    "dlg": "Give me a heads-up if you're gonna use a HP Recovery Bullet on me. Pull that trigger without warning like last time, and I'll slap away your fancy bullet with my scabbard again."
+    "dlg": "Daj znać jeśli chcesz strzelić we mnie nabojem Restoracyjnym PŻ. Jeśli wymierzysz nim we mnię bez ostrzeżenia to nie zawacham się odbić go znowu pochwą mojego ōdachi."
   },
   {
     "id": "battle_endcommand_10414_1",
     "desc": "",
-    "dlg": "Time to burrow deep, F.A., S."
+    "dlg": "Czas zryć im banie, K.W., S."
   },
   {
     "id": "battle_enemy_break_10414_1",
     "desc": "",
-    "dlg": "Let the flowers lull you to sleep..."
+    "dlg": "Pozwól, aby te kwiaty cię uśpiły..."
   },
   {
     "id": "battle_break_10414_1",
     "desc": "",
-    "dlg": "Tsk. I get this sweet smell even in my mouth..."
+    "dlg": "Tsk. Czuje słodki zapach w ustach..."
   },
   {
     "id": "battle_kill_10414_1",
     "desc": "",
-    "dlg": "... Be buried in the dust."
+    "dlg": "... Zostań pogrzebany w pyle."
   },
   {
     "id": "battle_dead_10414_1",
     "desc": "",
-    "dlg": "... Sleepy. Has the time come... for my spring hibernation...?"
+    "dlg": "...stem Śpiąca. Czy przyszedł czas na moją... wiosenną hibernację...?"
   },
   {
     "id": "battle_s3_10414_1_2",
     "desc": "",
-    "dlg": "Go back to where you were born."
+    "dlg": "Wracaj tam, gdzie się narodziłeś."
   },
   {
     "id": "battle_special_10414_1-1",
     "desc": "",
-    "dlg": "Rapid fire!"
+    "dlg": "Prędkie Strzały!"
   },
   {
     "id": "battle_special_10414_1-1-01",
     "desc": "",
-    "dlg": "Rapid fire."
+    "dlg": "Prędkie Strzały."
   },
   {
     "id": "battle_special_10414_1-2",
     "desc": "",
-    "dlg": "Fanning!"
+    "dlg": "Strzały Seryjne!"
   },
   {
     "id": "battle_special_10414_1-2-01",
     "desc": "",
-    "dlg": "Fanning."
+    "dlg": "Strzały Seryjne."
   },
   {
     "id": "battle_special_10414_1-3",
     "desc": "",
-    "dlg": "You've let your guard down."
+    "dlg": "Opuściłeś garde."
   },
   {
     "id": "battle_special_10414_1-4",
     "desc": "",
-    "dlg": "Bang. Bang."
+    "dlg": "Pif. Paf."
   },
   {
     "id": "battle_special_10414_2",
     "desc": "",
-    "dlg": "All that arises must cease (是生滅法). The longer it lasts, the less precious it becomes."
+    "dlg": "Wszystko co powstaje musi kiedyś upaść (是生滅法). A im dłużej wytrwa, tym mniej jest warte."
   },
   {
     "id": "battle_special_10414_3",
     "desc": "",
-    "dlg": "<i>*whistle*</i> Time to shoot."
+    "dlg": "<i>*gwizd*</i> Gotowa do strzału."
   },
   {
     "id": "battle_special_10414_4",
     "desc": "",
-    "dlg": "Go back to the grave... with all that desires to live."
+    "dlg": "Wracaj do grobu... razem ze wszystkim, co chce żyć."
   },
   {
     "id": "battle_select_11215_1",
