@@ -1,5 +1,5 @@
 {
-  "dPrzyaList": [
+  "dataList": [
     {
       "id": 1100701,
       "levelList": [
@@ -29,7 +29,7 @@
         {
           "level": 2,
           "name": "Zawzięta Ofensywa",
-          "desc": "Przy 10+ Ilość [Vibration], Moc Monety +1<style=\"highlight\"></style>",
+          "desc": "Przy 10+ Ilość [Vibration], +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -58,7 +58,7 @@
         {
           "level": 4,
           "name": "Zawzięta Ofensywa",
-          "desc": "Przy 10+ Ilość [Vibration], Moc Monety +1<style=\"highlight\"></style>",
+          "desc": "Przy 10+ Ilość [Vibration], +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Przy 10+ Ilośći [Vibration], zużyj całą Ilość [Vibration] aby nałożyć na przeciwnika taką samą Ilość [Vibration]\n[OnSucceedAttack] Jeśli Ilość [Vibration] na sobię wynosi mniej niż 10, zyskaj 6 [Vibration] oraz Aktywuj [VibrationExplosion] na sobie\nZadaj obrażenia od Udeżenia równe wartości podniesienia progu zachwiania przez [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Przy 10+ Ilości [Vibration], zużyj całą Ilość [Vibration] aby nałożyć na przeciwnika taką samą Ilość [Vibration]\n[OnSucceedAttack] Jeśli Ilość [Vibration] na sobię wynosi mniej niż 10, zyskaj 6 [Vibration] oraz Aktywuj [VibrationExplosion] na sobie\nZadaj obrażenia od Udeżenia równe wartości podniesienia progu zachwiania przez [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -153,7 +153,7 @@
         {
           "level": 4,
           "name": "Wszystko Na Jedną Kartę!",
-          "desc": "Moc Monety +1 za każde 10 Ilość [Vibration] na sobie (Maks 2)<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monety za każde 10 Ilość [Vibration] na sobie (Maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -233,7 +233,7 @@
         {
           "level": 4,
           "name": "Remise",
-          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika o 2 lub więcej, Moc Monety +1\n[WhenUse] Zyskaj +2 Ilość [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika o 2 lub więcej, +1 Mocy Monety\n[WhenUse] Zyskaj +2 Ilość [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -281,7 +281,7 @@
         {
           "level": 2,
           "name": "Starcie",
-          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika o 2 lub więcej, Moc Monety +1\n[WinDuel] Zyskaj +2 Ilość [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika o 2 lub więcej, +1 Mocy Monety\n[WinDuel] Zyskaj +2 Ilość [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -303,7 +303,7 @@
         {
           "level": 4,
           "name": "Starcie",
-          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika, Moc Monety +1 za każde 2 różnicy Prędkości pomiędzy nimi(Maks 2)\n[WinDuel] Zyskaj +2 Ilość [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika, +1 Mocy Monety za każde 2 różnicy Prędkości pomiędzy nimi(Maks 2)\n[WinDuel] Zyskaj +2 Ilość [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -330,7 +330,7 @@
         {
           "level": 3,
           "name": "Contre Attaque",
-          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika o 2 lub więcej, Moc Monety +1\n[WinDuel] Zużyj 10 Ilość [Breath]. Zyskaj [Breath] równą zużytej Ilość [Breath].\n[WinDuel] Jeśli ta jednostka ustanowiła [OneOnOneDuel] z Żetonem Umiejętności przeciwnika, nałóż 1 [Vulnerable] przy uderzeniu (dwa razy na turę)<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika o 2 lub więcej, +1 Mocy Monety\n[WinDuel] Zużyj 10 Ilość [Breath]. Zyskaj [Breath] równą zużytej Ilość [Breath].\n[WinDuel] Jeśli ta jednostka ustanowiła [OneOnOneDuel] z Żetonem Umiejętności przeciwnika, nałóż 1 [Vulnerable] przy uderzeniu (dwa razy na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "Contre Attaque",
-          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika, Moc Monety +1 za każde 2 różnicy Prędkości pomiędzy nimi (Maks 3)\n[WinDuel] Zużyj 10 Ilość [Breath]. Zyskaj [Breath] równe zużytej Ilość [Breath]. Jeśli przeciwnik ma na sobię [DuelDeclaration_Sinclair], zyskaj zamiast tego [Breath] równe (zużytej Ilość [Breath] x 2)\n[WinDuel] Jeśli ta jednostka ustanowiła [OneOnOneDuel] z Żetonem Umiejętności przeciwnika, nałóż 1 [Vulnerable] przy uderzeniu (dwa razy na turę)<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka jest Szybsza od przeciwnika, +1 Mocy Monety za każde 2 różnicy Prędkości pomiędzy nimi (Maks 3)\n[WinDuel] Zużyj 10 Ilość [Breath]. Zyskaj [Breath] równe zużytej Ilość [Breath]. Jeśli przeciwnik ma na sobię [DuelDeclaration_Sinclair], zyskaj zamiast tego [Breath] równe (zużytej Ilość [Breath] x 2)\n[WinDuel] Jeśli ta jednostka ustanowiła [OneOnOneDuel] z Żetonem Umiejętności przeciwnika, nałóż 1 [Vulnerable] przy uderzeniu (dwa razy na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -499,7 +499,7 @@
         {
           "level": 2,
           "name": "Ostrze Zachodu Słońca",
-          "desc": "<style=\"highlight\">Jeśli przeciwnik ma 4+ [Combustion], Moc Starcia +1</style>\n[WhenUse] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP\n[BeforeAttack] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, Waga Ataku +1\n[EndSkill] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP",
+          "desc": "<style=\"highlight\">Jeśli przeciwnik ma 4+ [Combustion], +1 Mocy Starcia</style>\n[WhenUse] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP\n[BeforeAttack] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, Waga Ataku +1\n[EndSkill] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -527,7 +527,7 @@
         {
           "level": 4,
           "name": "Ostrze Zachodu Słońca",
-          "desc": "Jeśli przeciwnik ma 4+ [Combustion], Moc Starcia +1\n[WhenUse] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP\n[BeforeAttack] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, Waga Ataku +1\n<style=\"highlight\">- Jeśli dodatkowo ta jednostka posiada 45 SP, zamiast tego zyskaj Waga Ataku +2</style>\n[EndSkill] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP",
+          "desc": "Jeśli przeciwnik ma 4+ [Combustion], +1 Mocy Starcia\n[WhenUse] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP\n[BeforeAttack] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, Waga Ataku +1\n<style=\"highlight\">- Jeśli dodatkowo ta jednostka posiada 45 SP, zamiast tego zyskaj Waga Ataku +2</style>\n[EndSkill] Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, zużyj 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
         {
           "level": 3,
           "name": "Wypale na Tobie tą Stygmę!",
-          "desc": "Jeśli przeciwnik ma 10+ [Combustion], Moc Monety +1\nJeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, aktywuj 'Rozżarzone Natarcie' w miejscu tej umiejętności\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 10 SP<style=\"highlight\"></style>",
+          "desc": "Jeśli przeciwnik ma 10+ [Combustion], +1 Mocy Monety\nJeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, aktywuj 'Rozżarzone Natarcie' w miejscu tej umiejętności\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 10 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -581,7 +581,7 @@
         {
           "level": 4,
           "name": "Wypale na Tobie tą Stygmę!",
-          "desc": "<style=\"highlight\">Moc Monety +1 za każde 7 [Combustion] na przeciwniku (Maks 2)</style>\nJeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, aktywuj 'Rozżarzone Natarcie' w miejscu tej umiejętności\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 10 SP",
+          "desc": "<style=\"highlight\">+1 Mocy Monety za każde 7 [Combustion] na przeciwniku (Maks 2)</style>\nJeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, aktywuj 'Rozżarzone Natarcie' w miejscu tej umiejętności\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -607,7 +607,7 @@
         {
           "level": 3,
           "name": "Bezsilność",
-          "desc": "Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, Bazowa Moc +1 za każde 2 [Combustion] na przeciwniku (Maks 10)<style=\"highlight\"></style>",
+          "desc": "Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, +1 Mocy Bazowej za każde 2 [Combustion] na przeciwniku (Maks 10)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -621,7 +621,7 @@
         {
           "level": 4,
           "name": "Bezsilność",
-          "desc": "Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, Bazowa Moc +1 za każde 2 [Combustion] na przeciwniku (Maks <style=\"highlight\">20</style>)",
+          "desc": "Jeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, +1 Mocy Bazowej za każde 2 [Combustion] na przeciwniku (Maks <style=\"highlight\">20</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -640,7 +640,7 @@
         {
           "level": 3,
           "name": "Rozżarzone Natarcie",
-          "desc": "Moc Monety +1 za każde 4 (suma Skuteczności [Combustion] na wszystkich wrogach) (Maks 8)\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 30 SP\n Zadaj +5% więcej Obrażeń za każdy Rezonans Gniewu  (Maks 30%)\n[EndSkill] Strać 15 SP<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monety za każde 4 (suma Skuteczności [Combustion] na wszystkich wrogach) (Maks 8)\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 30 SP\n Zadaj +5% więcej Obrażeń za każdy Rezonans Gniewu  (Maks 30%)\n[EndSkill] Strać 15 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -666,7 +666,7 @@
         {
           "level": 4,
           "name": "Rozżarzone Natarcie",
-          "desc": "Moc Monety +<style=\"highlight\">2</style> za każde 4 (suma Skuteczności [Combustion] na wszystkich wrogach) (Maks 8)\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 30 SP\n Zadaj +<style=\"highlight\">10</style>% więcej Obrażeń za każdy Rezonans Gniewu (Maks <style=\"highlight\">60</style>%)\n<style=\"highlight\"> Jeśli Rezonans Gniewu wynosi 4 lub więcej,\n Zamiast tego Zadaj +20% więcej Obrażeń za każdy Rezonans Gniewu  (Maks 120%)</style>\n[EndSkill] Strać 15 SP",
+          "desc": "Mocy Monety +<style=\"highlight\">2</style> za każde 4 (suma Skuteczności [Combustion] na wszystkich wrogach) (Maks 8)\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 30 SP\n Zadaj +<style=\"highlight\">10</style>% więcej Obrażeń za każdy Rezonans Gniewu (Maks <style=\"highlight\">60</style>%)\n<style=\"highlight\"> Jeśli Rezonans Gniewu wynosi 4 lub więcej,\n Zamiast tego Zadaj +20% więcej Obrażeń za każdy Rezonans Gniewu  (Maks 120%)</style>\n[EndSkill] Strać 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "Unieszkodliwianie.",
-          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj <style=\"highlight\">2</style> [DefenseUp]\n<style=\"highlight\">[WhenUse] Jeśli przeciwnik ma 4+ Ilość [Vibration], Moc Starcia +1</style>\n[WinDuel] Zyskaj +2 Ilość [Vibration]",
+          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj <style=\"highlight\">2</style> [DefenseUp]\n<style=\"highlight\">[WhenUse] Jeśli przeciwnik ma 4+ Ilość [Vibration], +1 Mocy Starcia</style>\n[WinDuel] Zyskaj +2 Ilość [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -739,7 +739,7 @@
         {
           "level": 4,
           "name": "Unieszkodliwianie.",
-          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 2 [DefenseUp]\n[WhenUse] Jeśli przeciwnik ma 4+ Ilość [Vibration], Moc Starcia +<style=\"highlight\">2</style>\n[WinDuel] Zyskaj +<style=\"highlight\">3</style> Ilość [Vibration]",
+          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 2 [DefenseUp]\n[WhenUse] Jeśli przeciwnik ma 4+ Ilość [Vibration],+<style=\"highlight\">2</style> Mocy Starcia\n[WinDuel] Zyskaj +<style=\"highlight\">3</style> Ilość [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -780,7 +780,7 @@
         {
           "level": 2,
           "name": "Przygotowanie do Walki",
-          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n<style=\"highlight\">[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks 3)\n[WhenUse] Przy 4+ [DefenseUp], Moc Monety +1</style>\n[WinDuel] Zyskaj +<style=\"highlight\">3</style> Ilość [Vibration]",
+          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n<style=\"highlight\">[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks 3)\n[WhenUse] Przy 4+ [DefenseUp], +1 Mocy Monety</style>\n[WinDuel] Zyskaj +<style=\"highlight\">3</style> Ilość [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -801,7 +801,7 @@
         {
           "level": 4,
           "name": "Przygotowanie do Walki",
-          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks 3)\n[WhenUse] Przy 4+ [DefenseUp], Moc Monety +1\n[WinDuel] Zyskaj +3 Ilość [Vibration]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj +3 [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks 3)\n[WhenUse] Przy 4+ [DefenseUp], +1 Mocy Monety\n[WinDuel] Zyskaj +3 Ilość [Vibration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -827,7 +827,7 @@
         {
           "level": 3,
           "name": "Fechtunek",
-          "desc": "[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks 2)\n[WhenUse] Moc Monety +1 za każde 3 [DefenseUp] na sobie (Maks 2)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks 2)\n[WhenUse] +1 Mocy Monety za każde 3 [DefenseUp] na sobie (Maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -858,7 +858,7 @@
         {
           "level": 4,
           "name": "Fechtunek",
-          "desc": "[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks <style=\"highlight\">4</style>)\n[WhenUse] Moc Monety +1 za każde 3 [DefenseUp] na sobie (Maks <style=\"highlight\">3</style>)",
+          "desc": "[WhenUse] Zyskaj 1 [DefenseUp] za każde 2 Ilość [Vibration] na sobie (Maks <style=\"highlight\">4</style>)\n[WhenUse] +1 Mocy Monety za każde 3 [DefenseUp] na sobie (Maks <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
         {
           "level": 2,
           "name": "Kufer Kurierski - Młot Rozkładu",
-          "desc": "Przy 10+ [DevyatDimensionalSackSinclair], lub jeśli przeciwnik ma 6+ [Burst], Moc Monety +1\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)<style=\"highlight\"></style>",
+          "desc": "Przy 10+ [DevyatDimensionalSackSinclair], lub jeśli przeciwnik ma 6+ [Burst], +1 Mocy Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -969,7 +969,7 @@
         {
           "level": 4,
           "name": "Kufer Kurierski - Młot Rozkładu",
-          "desc": "Moc Monety +1 za każde 10 [DevyatDimensionalSackSinclair] na sobie lub za każde 6 [Burst] na przeciwniku (Maks 2)\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] and 3+ Ilość [Burst], ta umiejętność nie nakłada Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monety za każde 10 [DevyatDimensionalSackSinclair] na sobie lub za każde 6 [Burst] na przeciwniku (Maks 2)\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] and 3+ Ilość [Burst], ta umiejętność nie nakłada Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1023,26 +1023,26 @@
         {
           "level": 2,
           "name": "Kufer Kurierski - Gadżet Wybużeniowy",
-          "desc": "Przy 10+ [DevyatDimensionalSackSinclair], lub jeśli przeciwnik ma 6+ [Burst], Moc Monety +1\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)\n[WhenUse] Przy 20- [DevyatDimensionalSackSinclair], zyskaj 1 [Agility] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "desc": "Przy 10+ [DevyatDimensionalSackSinclair], lub jeśli przeciwnik ma 6+ [Burst], +1 Mocy Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)\n[WhenUse] Przy 20- [DevyatDimensionalSackSinclair], zyskaj 1 [Agility] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Zyskaj 1 [DevyatDimensionalSackSinclair]\n- Jeśli ta Jednostka ma mniej niż 15 [DevyatDimensionalSackSinclair], zyskaj 2 dodatkowe [DevyatDimensionalSackSinclair]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [DevyatDimensionalSackSinclair]\n- Jeśli ta Jednostka ma mniej niż 15 [DevyatDimensionalSackSinclair], zyskaj 2 dodatkowe [DevyatDimensionalSackSinclair]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż 2 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż 3 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +1 Ilość [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1051,26 +1051,26 @@
         {
           "level": 4,
           "name": "Kufer Kurierski - Gadżet Wybużeniowy",
-          "desc": "Moc Monety +1 za każde 10 [DevyatDimensionalSackSinclair] na sobie lub za każde 6 [Burst] na przeciwniku (Maks 2)\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)\n[WhenUse] Przy 30- [DevyatDimensionalSackSinclair], zyskaj 1 [Agility] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monety za każde 10 [DevyatDimensionalSackSinclair] na sobie lub za każde 6 [Burst] na przeciwniku (Maks 2)\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, nakłada ona 2 [DefenseDown] (raz na monetę)\n[WhenUse] Przy 30- [DevyatDimensionalSackSinclair], zyskaj 1 [Agility] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Zyskaj 1 [DevyatDimensionalSackSinclair]\n- Jeśli ta Jednostka ma mniej niż 15 [DevyatDimensionalSackSinclair], zyskaj 2 dodatkowe [DevyatDimensionalSackSinclair]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [DevyatDimensionalSackSinclair]\n- Jeśli ta Jednostka ma mniej niż 15 [DevyatDimensionalSackSinclair], zyskaj 2 dodatkowe [DevyatDimensionalSackSinclair]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż 2 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +<style=\"highlight\">2</style> Ilość [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +<style=\"highlight\">2</style> Ilość [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż 3 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +<style=\"highlight\">2</style> Ilość [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]\n- Przy 15+ [DevyatDimensionalSackSinclair], nałóż +<style=\"highlight\">2</style> Ilość [Burst]"
                 }
               ]
             }
@@ -1084,26 +1084,26 @@
         {
           "level": 3,
           "name": "Połódnico... Ufam Ci!",
-          "desc": "Przy 10+ [DevyatDimensionalSackSinclair], lub jeśli przeciwnik ma 6+ [Burst], Moc Monety +1\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, ostatnia Moneta zyskuje +2 Moc Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst], zadaj +3% więcej Obrażeń za każde [DevyatDimensionalSackSinclair] (Maks 90%)<style=\"highlight\"></style>",
+          "desc": "Przy 10+ [DevyatDimensionalSackSinclair], lub jeśli przeciwnik ma 6+ [Burst], +1 Mocy Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, ostatnia Moneta zyskuje +2 Mocy Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst], zadaj +3% więcej Obrażeń za każde [DevyatDimensionalSackSinclair] (Maks 90%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż +1 Ilość [Burst]\n- Nałóż +1 dodatkowe Ilość [Burst] za każde 10 [DevyatDimensionalSackSinclair] (Maks 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst]\n- Nałóż +1 dodatkowe Ilość [Burst] za każde 10 [DevyatDimensionalSackSinclair] (Maks 2)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż 3 [Burst]\n- Nałóż +1 dodatkowe [Burst] za każde 10 [DevyatDimensionalSackSinclair] (Maks 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]\n- Nałóż +1 dodatkowe [Burst] za każde 10 [DevyatDimensionalSackSinclair] (Maks 2)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Jeśli tej Umiejętności nie udało się podnieść Moc ostatniej Monety, zyskaj 1 [Agility] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli tej Umiejętności nie udało się podnieść Mocy ostatniej Monety, zyskaj 1 [Agility] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1112,26 +1112,26 @@
         {
           "level": 4,
           "name": "Połódnico... Ufam Ci!",
-          "desc": "Moc Monety +1 za każde 10 [DevyatDimensionalSackSinclair] na sobie lub za każde 6 [Burst] na przeciwniku (Maks 2)\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, ostatnia Moneta zyskuje +4 Moc Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst], zadaj +4% więcej Obrażeń za każde [DevyatDimensionalSackSinclair] (Maks 120%)<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monety za każde 10 [DevyatDimensionalSackSinclair] na sobie lub za każde 6 [Burst] na przeciwniku (Maks 2)\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst] oraz 3+ Ilość [Burst], ta umiejętność nie nakłada [Burst] ani Ilość [Burst] efektami aktywującymi się przy Udeżeniu; zamiast tego, ostatnia Moneta zyskuje +4 Mocy Monety\n[WhenUse] Jeśli przeciwnik ma 15+ [Burst], zadaj +4% więcej Obrażeń za każde [DevyatDimensionalSackSinclair] (Maks 120%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż +1 Ilość [Burst]\n- Nałóż +1 dodatkowe Ilość [Burst] za każde 10 [DevyatDimensionalSackSinclair] (Maks <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst]\n- Nałóż +1 dodatkowe Ilość [Burst] za każde 10 [DevyatDimensionalSackSinclair] (Maks <style=\"highlight\">3</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Nałóż 3 [Burst]\n- Nałóż +1 dodatkowe [Burst] za każde <style=\"highlight\">8</style> [DevyatDimensionalSackSinclair] (Maks <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]\n- Nałóż +1 dodatkowe [Burst] za każde <style=\"highlight\">8</style> [DevyatDimensionalSackSinclair] (Maks <style=\"highlight\">4</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedPrzytack] Jeśli tej Umiejętności nie udało się podnieść Moc ostatniej Monety, zyskaj 2 [Agility] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli tej Umiejętności nie udało się podnieść Mocy ostatniej Monety, zyskaj 2 [Agility] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1232,7 +1232,7 @@
         {
           "level": 2,
           "name": "Czy To Ty?!",
-          "desc": "<style=\"highlight\">Jeśli przeciwnik ma 6+ [Laceration], Moc Monety +1</style>\n[WhenUse] Zyskaj +<style=\"highlight\">3</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 5 SP na sobie",
+          "desc": "<style=\"highlight\">Jeśli przeciwnik ma 6+ [Laceration], +1 Mocy Monety</style>\n[WhenUse] Zyskaj +<style=\"highlight\">3</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 5 SP na sobie",
           "coinlist": [
             {
               "coindescs": [
@@ -1253,7 +1253,7 @@
         {
           "level": 4,
           "name": "Czy To Ty?!",
-          "desc": "Jeśli przeciwnik ma 6+ [Laceration], Moc Monety +1\n[WhenUse] Zyskaj +<style=\"highlight\">5</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 5 SP na sobie\n<style=\"highlight\">- Jeśli SP wynosi 45, zyskaj zamiast tego Moc Starcia +1 instead</style>",
+          "desc": "Jeśli przeciwnik ma 6+ [Laceration], +1 Mocy Monety\n[WhenUse] Zyskaj +<style=\"highlight\">5</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[WhenUse] Zyskaj 5 SP na sobie\n<style=\"highlight\">- Jeśli SP wynosi 45, zyskaj zamiast tego +1 Mocy Starcia instead</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1301,7 +1301,7 @@
         {
           "level": 2,
           "name": "Odpłata z Nawiązką",
-          "desc": "<style=\"highlight\">Jeśli przeciwnik ma 6+ [Laceration], Moc Monety +1</style>\n[WhenUse] Zyskaj +<style=\"highlight\">3</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / <style=\"highlight\">2</style>) Poziomu Ofensywy (Maks <style=\"highlight\">3</style>, zaokrąglone w dół)",
+          "desc": "<style=\"highlight\">Jeśli przeciwnik ma 6+ [Laceration], +1 Mocy Monety</style>\n[WhenUse] Zyskaj +<style=\"highlight\">3</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / <style=\"highlight\">2</style>) Poziomu Ofensywy (Maks <style=\"highlight\">3</style>, zaokrąglone w dół)",
           "coinlist": [
             {},
             {
@@ -1323,7 +1323,7 @@
         {
           "level": 4,
           "name": "Odpłata z Nawiązką",
-          "desc": "Jeśli przeciwnik ma 6+ [Laceration], Moc Monety +1\n[WhenUse] Zyskaj +<style=\"highlight\">5</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / 2) Poziomu Ofensywy (Maks 3, zaokrąglone w dół)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Poziomu Ofensywy zyskajed from the above effect</style>",
+          "desc": "Jeśli przeciwnik ma 6+ [Laceration], +1 Mocy Monety\n[WhenUse] Zyskaj +<style=\"highlight\">5</style> [Aggro] na tym Żetonie Umiejętności na początku następnej tury\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / 2) Poziomu Ofensywy (Maks 3, zaokrąglone w dół)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Poziomu Ofensywy zyskajed from the above effect</style>",
           "coinlist": [
             {},
             {
@@ -1350,7 +1350,7 @@
         {
           "level": 3,
           "name": "Wpisać Ich Wszystkich!",
-          "desc": "Zadaj +1% więcej Obrażeń za każde 2 [VengeanceBookSinclair] (Maks 15%)\nJeśli przeciwnik ma 6+ [Laceration], Moc Monety +1\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / 2) Poziomu Ofensywy (Maks 3, zaokrąglone w dół)<style=\"highlight\"></style>",
+          "desc": "Zadaj +1% więcej Obrażeń za każde 2 [VengeanceBookSinclair] (Maks 15%)\nJeśli przeciwnik ma 6+ [Laceration], +1 Mocy Monety\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / 2) Poziomu Ofensywy (Maks 3, zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -1375,7 +1375,7 @@
         {
           "level": 4,
           "name": "Wpisać Ich Wszystkich!",
-          "desc": "Zadaj +1% więcej Obrażeń za każde <style=\"highlight\">1</style> [VengeanceBookSinclair] (Maks <style=\"highlight\">30%</style>)\n<style=\"highlight\">Moc Monety +1 za każde 6 [Laceration] na przeciwniku (Maks 2)</style>\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / 2) Poziomu Ofensywy (Maks 3, zaokrąglone w dół)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Poziomu Ofensywy zyskajed from the above effect</style>",
+          "desc": "Zadaj +1% więcej Obrażeń za każde <style=\"highlight\">1</style> [VengeanceBookSinclair] (Maks <style=\"highlight\">30%</style>)\n<style=\"highlight\">+1 Mocy Monety za każde 6 [Laceration] na przeciwniku (Maks 2)</style>\n[StartBattle] Ta Umiejętność zyskuje (Najwyższy Rezonans / 2) Poziomu Ofensywy (Maks 3, zaokrąglone w dół)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Poziomu Ofensywy zyskajed from the above effect</style>",
           "coinlist": [
             {},
             {
@@ -1473,7 +1473,7 @@
         {
           "level": 2,
           "name": "Stosowne Zachowanie.",
-          "desc": "<style=\"highlight\">[WhenUse] Moc Monety +1 za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Mocy Monety za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1494,7 +1494,7 @@
         {
           "level": 4,
           "name": "Stosowne Zachowanie.",
-          "desc": "[WhenUse] Moc Monety +1 za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n<style=\"highlight\">[WhenUse] Jeśli przeciwnik ma 'Unique [Vibration]' as [Vibration], Moc Starcia +1</style>",
+          "desc": "[WhenUse] +1 Mocy Monety za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n<style=\"highlight\">[WhenUse] Jeśli przeciwnik ma 'Unique [Vibration]' as [Vibration], +1 Mocy Starcia</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1520,7 +1520,7 @@
         {
           "level": 1,
           "name": "Pod Naszym Kciukiem.",
-          "desc": "[WhenUse] Jeśli przeciwnik ma 6+ (suma [Combustion] oraz [Vibration]), Moc Monety +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeśli przeciwnik ma 6+ (suma [Combustion] oraz [Vibration]), +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1544,7 +1544,7 @@
         {
           "level": 2,
           "name": "Pod Naszym Kciukiem.",
-          "desc": "<style=\"highlight\">[WhenUse] Moc Monety +1 za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Mocy Monety za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1571,7 +1571,7 @@
         {
           "level": 4,
           "name": "Pod Naszym Kciukiem.",
-          "desc": "[WhenUse] Moc Monety +1 za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n<style=\"highlight\">[WhenUse] Zadaj +10% Obrażeń za każde 4 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 30%)\n[WhenUse] Jeśli przeciwnik ma 10+ 'Unique [Vibration]', Bazowa Moc +2</style>",
+          "desc": "[WhenUse] +1 Mocy Monety za każde 6 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n<style=\"highlight\">[WhenUse] Zadaj +10% Obrażeń za każde 4 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 30%)\n[WhenUse] Jeśli przeciwnik ma 10+ 'Unique [Vibration]', +2 Mocy Bazowej</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1603,7 +1603,7 @@
         {
           "level": 3,
           "name": "Maksymalna Siła Ciągu",
-          "desc": "[WhenUse] Moc Monety +1 za każde 8 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n[WhenUse] Przy 3+ [FireBulletPropellant], Bazowa Moc +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] +1 Mocy Monety za każde 8 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n[WhenUse] Przy 3+ [FireBulletPropellant], +1 Mocy Bazowej<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1667,7 +1667,7 @@
         {
           "level": 4,
           "name": "Maksymalna Siła Ciągu",
-          "desc": "[WhenUse] Moc Monety +1 za każde 8 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n[WhenUse] Przy 3+ [FireBulletPropellant], <style=\"highlight\">Bazowa Moc +3, zadaj +30% Obrażeń, oraz zmień monety tej umiejętności na [SuperCoin]s</style>",
+          "desc": "[WhenUse] +1 Mocy Monety za każde 8 (suma [Combustion] oraz [Vibration] na przeciwniku) (Maks 2)\n[WhenUse] Przy 3+ [FireBulletPropellant], <style=\"highlight\">+3 Mocy Bazowej, zadaj +30% Obrażeń, oraz zmień monety tej umiejętności na [SuperCoin]s</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1788,7 +1788,7 @@
         {
           "level": 2,
           "name": "O, Niech Woń Płonącej Krwi...",
-          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), Moc Monety +1</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), +1 Mocy Monety</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1816,7 +1816,7 @@
         {
           "level": 4,
           "name": "O, Niech Woń Płonącej Krwi...",
-          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), Moc Monety +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1883,7 +1883,7 @@
         {
           "level": 2,
           "name": "...Rozpali Mój Szał.",
-          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), Moc Monety +1</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), +1 Mocy Monety</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1911,7 +1911,7 @@
         {
           "level": 4,
           "name": "...Rozpali Mój Szał.",
-          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), Moc Monety +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1953,7 +1953,7 @@
         {
           "level": 3,
           "name": "Płomiennokrwista Czystka [血炎亂舞]",
-          "desc": "[WideAreaRampage]\n[StartBattle] Jeśli ta jednostka posiada [ChickenStance], lub jeśli ta jednostka ma mniej niż 50% HP, zmień wszystkie monety w [SuperCoin]\n[WhenUse] Zyskaj 1 [ChickenStance]\n[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), Moc Monety +1\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię<style=\"highlight\"></style>",
+          "desc": "[WideAreaRampage]\n[StartBattle] Jeśli ta jednostka posiada [ChickenStance], lub jeśli ta jednostka ma mniej niż 50% HP, zmień wszystkie monety w [SuperCoin]\n[WhenUse] Zyskaj 1 [ChickenStance]\n[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Burst]), +1 Mocy Monety\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1997,7 +1997,7 @@
         {
           "level": 4,
           "name": "Płomiennokrwista Czystka [血炎亂舞]",
-          "desc": "[WideAreaRampage]\n<style=\"highlight\">Zadaj +1% obrażeń za każde 2% (brakującego procent HP na celu + brakującego procent HP na sobie) (Maks 50%)</style>\n[StartBattle] Jeśli ta jednostka posiada [ChickenStance], lub jeśli ta jednostka ma mniej niż 50% HP, zmień wszystkie monety w [SuperCoin]\n[WhenUse] Zyskaj 1 [ChickenStance]\n<style=\"highlight\">[WhenUse] Moc Monety +1 za każde 6 ([Combustion] + [Burst]) na celu (Maks 2)</style>\n<style=\"highlight\">[WhenUse] Moc Starcia +1 za każde 20% brakującego HP na sobie (Maks 2)</style>\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">Zadaj +1% obrażeń za każde 2% (brakującego procent HP na celu + brakującego procent HP na sobie) (Maks 50%)</style>\n[StartBattle] Jeśli ta jednostka posiada [ChickenStance], lub jeśli ta jednostka ma mniej niż 50% HP, zmień wszystkie monety w [SuperCoin]\n[WhenUse] Zyskaj 1 [ChickenStance]\n<style=\"highlight\">[WhenUse] +1 Mocy Monety za każde 6 ([Combustion] + [Burst]) na celu (Maks 2)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każde 20% brakującego HP na sobie (Maks 2)</style>\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię",
           "coinlist": [
             {
               "coindescs": [
@@ -2052,7 +2052,7 @@
         {
           "level": 1,
           "name": "Zabójcze Szpony Koguta [鷄窮則殺]",
-          "desc": "[DuelCounter]\n[WhenUse] Zyskaj 3 [ChickenStance] na początku następnej tury\n[WhenUse] Jeśli ta jednostka posiada [ChickenStance], Moc Monety +1\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[WhenUse] Zyskaj 3 [ChickenStance] na początku następnej tury\n[WhenUse] Jeśli ta jednostka posiada [ChickenStance], +1 Mocy Monety\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2073,7 +2073,7 @@
         {
           "level": 4,
           "name": "Zabójcze Szpony Koguta [鷄窮則殺]",
-          "desc": "[DuelCounter]\n[WhenUse] Zyskaj 3 [ChickenStance] na początku następnej tury\n<style=\"highlight\">[WhenUse] Jeśli cel posiada 10+ ([Combustion] + [Burst]), Bazowa Moc +1</style>\n[WhenUse] Jeśli ta jednostka posiada [ChickenStance], Moc Monety +1\n<style=\"highlight\">[WhenUse] Ta Umiejętność zadaje +1% obrażeń za każde 3% łącznie straconego HP przez tą jednostkę podczas tej walki (Maks 30%)</style>\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię",
+          "desc": "[DuelCounter]\n[WhenUse] Zyskaj 3 [ChickenStance] na początku następnej tury\n<style=\"highlight\">[WhenUse] Jeśli cel posiada 10+ ([Combustion] + [Burst]), +1 Mocy Bazowej</style>\n[WhenUse] Jeśli ta jednostka posiada [ChickenStance], +1 Mocy Monety\n<style=\"highlight\">[WhenUse] Ta Umiejętność zadaje +1% obrażeń za każde 3% łącznie straconego HP przez tą jednostkę podczas tej walki (Maks 30%)</style>\n[DefeatDuel] Nałóż 2 [Combustion] na cel oraz siebię",
           "coinlist": [
             {
               "coindescs": [
