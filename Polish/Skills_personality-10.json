@@ -1,5 +1,5 @@
 {
-  "dataList": [
+  "dPrzyaList": [
     {
       "id": 1100701,
       "levelList": [
@@ -1738,7 +1738,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Żelazna Obrona",
+          "name": "Żelazna Chroń",
           "desc": "Kiedy ta Jednostka ma Tarczę; Nałóż 1 [Vibration] na Przeciwnika po otrzymanu od niego obrażeń  (3 razy na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {}
@@ -1746,7 +1746,7 @@
         },
         {
           "level": 4,
-          "name": "Żelazna Obrona",
+          "name": "Żelazna Chroń",
           "desc": "Kiedy ta Jednostka ma Tarczę; Nałóż <style=\"highlight\">2</style> [Vibration] na Przeciwnika po otrzymanu od niego obrażeń (<style=\"highlight\">4</style> razy na turę)",
           "coinlist": [
             {}
@@ -2086,6 +2086,301 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Łańcuch Ciosów [連擊]",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Łańcuch Ciosów [連擊]",
+          "desc": "[WhenUse] Zyskaj <style=\"highlight\">+3</style> Ilości [Breath]\n<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Monet</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj <style=\"highlight\">2</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Łańcuch Ciosów [連擊]",
+          "desc": "[WhenUse] Zyskaj +3 Ilości [Breath]\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 [Breath] na sobie (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bezimienne Cięcie [無名斬]",
+          "desc": "[WideAreaRampage]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +10% obrażeń przy Trafieniu Krytycznym"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bezimienne Cięcie [無名斬]",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Bazowej</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +10% obrażeń przy Trafieniu Krytycznym<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Użyj tej Monety jeszcze raz (raz na Umiejętność)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bezimienne Cięcie [無名斬]",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] +1 Mocy Bazowej za każde 6 [Breath] na sobie (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +10% obrażeń przy Trafieniu Krytycznym<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zyskaj +1 Ilości [Breath]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttackHead] Użyj tej Monety jeszcze raz (raz na Umiejętność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttackHead] Przy 10+ [LittleFingerID], Użyj tej Monety kolejny raz (raz na Umiejętność)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Pogromca Upadłych Gwiazd [落星一殺]",
+          "desc": "Zadaj +30% damage za każdą nie użytą Wagę Ataku\n[WhenUse] Przy 20 [LittleFingerID], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] +1 Mocy Monet za każde 4 [Breath] na sobie (maks 3)\n[WhenUse] +1 Mocy Bazowej za każde 4 [LittleFingerID] na sobie (maks 3)\n[WhenUse] Zyskaj 5 [Breath]\n\n[BeforeAttack] +1 Wagi Ataku za każde 10 [LittleFingerID] na sobie (maks 2)\n[EndSkill] Zużyj 7 [LittleFingerID] za każdą Wagę Ataku zyskaną dzięki efektowi tej Umiejętności",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +50% obrażeń przy Trafieniu Krytycznym"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttackHead] Zadaj (25% finalnych obrażeń tej Monety) obrażeń od Cięcia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pogromca Upadłych Gwiazd [落星一殺]",
+          "desc": "Zadaj <style=\"highlight\">+50%</style> damage za każdą nie użytą Wagę Ataku\n[WhenUse] Przy 20 [LittleFingerID], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] +1 Mocy Monet za każde 4 [Breath] na sobie (maks <style=\"highlight\">5</style>)\n[WhenUse] +1 Mocy Bazowej za każde 4 [LittleFingerID] na sobie (maks <style=\"highlight\">5</style>)\n[WhenUse] Zyskaj <style=\"highlight\">7</style> [Breath]\n\n[BeforeAttack] +1 Wagi Ataku za każde 10 [LittleFingerID] na sobie (maks 2)\n[EndSkill] Zużyj <style=\"highlight\">5</style> [LittleFingerID] za każdą Wagę Ataku zyskaną dzięki efektowi tej Umiejętności",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj <style=\"highlight\">+70%</style> obrażeń przy Trafieniu Krytycznym"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">5</style> [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttackHead] Zadaj (25% finalnych obrażeń tej Monety) obrażeń od Cięcia<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chroń [守]",
+          "desc": "[CanDuelGuard]\nNa Początku Tury: Przy 25+ [Breath], zamień tą Umiejętność na 'Zejdź z Drogi'\n\n[StartBattle] Zyskaj 6 [Breath] (raz na turę)\n[StartBattle] Zyskaj +1 Ilości [Breath] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chroń [守]",
+          "desc": "[CanDuelGuard]\nNa Początku Tury: Przy 25+ [Breath], zamień tą Umiejętność na 'Zejdź z Drogi'\n\n[StartBattle] Zyskaj 8 [Breath] (raz na turę)\n[StartBattle] Zyskaj <style=\"highlight\">+2</style> Ilości [Breath] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zejdź z Drogi [回]",
+          "desc": "[StartBattle] Zyskaj Tarczę równą wartości [LittleFingerID] (raz na turę)\n[StartBattle] Zyskaj +4 Ilości [Breath] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zejdź z Drogi [回]",
+          "desc": "[StartBattle] Zyskaj Tarczę równą wartości [LittleFingerID] (raz na turę)\n[StartBattle] Zyskaj +4 Ilości [Breath] (raz na turę)\n<style=\"highlight\">[OnSucceedEvade] Zyskaj 1 [CriticalDamageUp] na początku następnej tury (maks 2 razy na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
                 }
               ]
             }
