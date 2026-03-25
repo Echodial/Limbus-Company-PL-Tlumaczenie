@@ -636,7 +636,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeObrażeńUp] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -670,7 +670,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeObrażeńUp] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1107,7 +1107,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Nałóż 1 [SlashTakeObrażeńUp] (raz na turę)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Nałóż 1 [SlashTakeDamageUp] (raz na turę)</style>"
                 }
               ]
             },
@@ -1134,7 +1134,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 1 [SlashTakeObrażeńUp] (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 [SlashTakeDamageUp] (raz na turę)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">- Jeżeli w walce uczestniczy 6+ sojuszników z Klanu Kurokumo, włączając w to tę jednostke, to zamiast powyższego efektu, nałóż 2 [Vulnerable]</style>"
