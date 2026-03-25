@@ -3117,7 +3117,7 @@
     },
     {
       "id": "ReinforcedTattooIshmael",
-      "name": "Tatuaże Wzmacniające Środka",
+      "name": "Tatuaże Wzmacniające W Stylu Środka",
       "desc": "- Maks Wartość: 10\n- +1 Ostatecznej Mocy Bazowych Zdolności za każde 5 Wartości (maks 2)\n- Zdolności Uderzenia i Zazdrości zadają +5% obrażeń za każdą Wartość (maks 50%)",
       "summary": "",
       "undefined": "-"
@@ -3381,7 +3381,7 @@
     },
     {
       "id": "MeursaultSporeBulletReloading",
-      "name": "Przeładuj [Kiełkowanie]",
+      "name": "Przeładuj [Wyklucie]",
       "desc": "- Efekt wpływa na Nabój Zarodnika (Specjalna Amunicja)\n- zużyj ((16 - suma Naboi Zarodnika) / 2) SP (zaokrąglone w dół), zresetuj Wartości obu rodzai Naboi Zarodnika, po czym zyskaj ich Maks Wartości",
       "summary": "",
       "undefined": "-"

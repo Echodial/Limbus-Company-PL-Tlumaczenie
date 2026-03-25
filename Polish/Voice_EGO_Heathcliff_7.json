@@ -1,0 +1,114 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20701_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ciebie... też wepchnę do tego wora!"
+    },
+    {
+      "id": "battle_awaken_20702_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Dobra, porażę cię aż do spopielenia!"
+    },
+    {
+      "id": "battle_erosion_20702_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": ""
+    },
+    {
+      "id": "battle_awaken_20703_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Kahahaha! Ten prąd dosięgnie cię... aż do samego serca!"
+    },
+    {
+      "id": "battle_erosion_20703_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Teraz moja kolej cię torturować... To co powiemy na odrobinę napięcia?!"
+    },
+    {
+      "id": "battle_awaken_20704_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Raz. Dwa. Ciężar twojej Karmy powraca do ciebie z każdym wstrząsem ziemi."
+    },
+    {
+      "id": "battle_erosion_20704_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Koło samsary obraca się jeden raz. I tak oto przemijasz w mgnieniu oka. Tym właśnie jest istnienie. Tym właśnie jest Ja."
+    },
+    {
+      "id": "battle_awaken_20705_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Hah, będzie z ciebie niezły prezent!"
+    },
+    {
+      "id": "battle_erosion_20705_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "RADOSNE! DZIECIAKI! ZASŁUGUJĄ! NA! PREZENTY!"
+    },
+    {
+      "id": "battle_overdrive_20701_1-1",
+      "desc": "Frenzied E.G.O Activation",
+      "dlg": "Ty... i wszystko, co zmieszało mnie z błotem,\nco zbudowało tą ścianę pomiędzy mną a Cathy..."
+    },
+    {
+      "id": "battle_overdrive_20701_1-2",
+      "desc": "Frenzied E.G.O Activation",
+      "dlg": "Wepchnę to wszystko do tego wora... zaciągne go na samo dno tego piekła..."
+    },
+    {
+      "id": "battle_overdrive_20701_1-3",
+      "desc": "Frenzied E.G.O Activation",
+      "dlg": "... i obiję tak mocno, jak tylko pozwoli mi siła...!"
+    },
+    {
+      "id": "battle_awaken_20706_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Przykuty do tego samotniczego tronu, muszę rządzić bez nikogo u boku..."
+    },
+    {
+      "id": "battle_erosion_20706_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Więziony przez te bandarze... Kiedy zostanę z nich wyzwolony?!!"
+    },
+    {
+      "id": "battle_awaken_20701_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Muszę... zobaczyć Catherine. a wszystko co stanie mi na drodze..."
+    },
+    {
+      "id": "battle_awaken_20701_3",
+      "desc": "E.G.O Activation",
+      "dlg": "Odzyskam cię... Nawet jeśli zapomniał o tobie cały świat."
+    },
+    {
+      "id": "battle_awaken_20707_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wiej jeśli chcesz. Moje rozpryskowe pociski...\n...zamienią twój czerep w fajerwerki gdzie byś się nie ukrył."
+    },
+    {
+      "id": "battle_erosion_20707_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Jeden pocisk nie wystarczy...\nBędę strzelać, póki huk wystrzałów i pióropusze dymu nie zagłuszą wszystkiego co pamiętam...!"
+    },
+    {
+      "id": "battle_awaken_20708_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wcale się nie wywracam—Przechylałem sie tylko w tą stronę, żeby jeszcze mocniej walnąć ich przy powrocie!"
+    },
+    {
+      "id": "battle_erosion_20708_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Mogliście mi pomóc... Zanim do reszty się rozpadłem...!"
+    },
+    {
+      "id": "battle_awaken_20709_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ej, Ej, Ej—hola. Chyba... zapomniałeś wziąć ze sobą pamiątki, co nie?\nNie ruszaj się i... Już ci ją wręczę!"
+    },
+    {
+      "id": "battle_erosion_20709_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Jak oceniłbyś wycieczkę, drogi goś—pacanie?!\nDo widzenia, żegnaj. Żegnaj,\nŻegnajŻegnajŻegnajŻegnaj... Spieprzaj!!"
+    }
+  ]
+}

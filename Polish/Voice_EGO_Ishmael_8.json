@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20801_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Ta kanalia... musi jeszcze jakoś żyć."
+    },
+    {
+      "id": "battle_awaken_20801_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Tak właśnie wyznaczam swoją własną ścieżkę..."
+    },
+    {
+      "id": "battle_special_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Zanoi się na burzliwy rejs. Niech wszyscy się czegoś złapią!"
+    },
+    {
+      "id": "battle_special_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Wyznacz swoją własną drogę. Twoją ścieżkę. To właśnie moje życzenie."
+    },
+    {
+      "id": "battle_awaken_20802_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Zanim błogość mnie pochłonie..."
+    },
+    {
+      "id": "battle_erosion_20802_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Łiiii! Zawiążę... i rozerwę."
+    },
+    {
+      "id": "battle_awaken_20803_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Nawet jeśli nie mogę cię poprowadzić... ogrzeję cię chociaż gorącym uściskiem."
+    },
+    {
+      "id": "battle_erosion_20803_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Rozumiesz już? Szamotam się, mając nadzieję, że świat zostanie razem ze mną spowity w kokonie płomieni..."
+    },
+    {
+      "id": "battle_awaken_20804_1",
+      "desc": "E.G.O Activation",
+      "dlg": "No chodź... Tędy!"
+    },
+    {
+      "id": "battle_erosion_20804_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "To na pewno tutaj... Oh, a może jednak w tamtą stronę?"
+    },
+    {
+      "id": "battle_awaken_20805_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Wszyscy na pokład, cała naprzód, tam, gdzie migają światła.\nFale... spustoszą wszystko na naszej drodze."
+    },
+    {
+      "id": "battle_erosion_20805_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Na dno, na dno! Załogo, opuśćcie pokład i płyńcie ze mną w głębiny. Utońmy razem w otchłani pełnej migoczących świateł!"
+    },
+    {
+      "id": "battle_erosion_20805_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Na dno, na dno! Załogo, opuśćcie pokład i płyńcie ze mną w głębiny. Utońmy razem w otchłani pełnej migoczących świateł!"
+    },
+    {
+      "id": "battle_awaken_20806_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Właśnie tak. Siedź w miejscu i nie ruszaj się. Poszarpane mięso nie jest tak... smaczne."
+    },
+    {
+      "id": "battle_erosion_20806_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "P-podejrzewaliście mnie, prawda...?\nDranie chowające takie plugawe myśli muszą zostać...!"
+    },
+    {
+      "id": "battle_awaken_20807_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Na rozkaz mojego gospodarza... wypraszam cię z tego miejsca."
+    },
+    {
+      "id": "battle_erosion_20807_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Skąd się tu się nagle wziął taki bałagan... Ty! Przestań zostawiać po sobie taki bajzel!"
+    },
+    {
+      "id": "battle_awaken_20808_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Potwór? O czym ty... Pewnie masz zwidy czy coś.\nHaah. ...Nikt tego nie widział, prawda?"
+    },
+    {
+      "id": "battle_erosion_20808_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Ciekawskość to groźna rzecz, wiesz... za dużo, a mrok zje cię na podwieczorek!"
+    },
+    {
+      "id": "battle_awaken_20809_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Niepojęty bezkres. Gdyby twoja wiara. Była silniejsza.\nTrzeba było wyzbyć się z serca tych bzdurnych wątpliwości!"
+    },
+    {
+      "id": "battle_erosion_20809_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Żadnych wątpliwości. Ślepa wiara. Módl sie w ciemności... Módl się z oddaniem."
+    },
+    {
+      "id": "battle_awaken_20810_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Nie odwracaj wzroku, bo te fale... zaniosą cię na nieznane wody!"
+    },
+    {
+      "id": "battle_erosion_20810_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Powstań z długiego mroku, wyrusz na przeraźliwy rejs po swoim morzu!"
+    }
+  ]
+}

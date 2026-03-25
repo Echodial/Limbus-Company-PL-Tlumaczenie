@@ -2,13 +2,13 @@
   "dataList": [
     {
       "id": 90001,
-      "name": "Verminous Body",
-      "desc": "At the end of the turn, heal 5 HP."
+      "name": "Robacze Ciało",
+      "desc": "Ulecz 5 HP na końcu tury."
     },
     {
       "id": 90002,
       "name": "Nutritive Reinforcements",
-      "desc": "After defeating an enemy, heal 20 HP, and gain 5 Defense Power Up next turn."
+      "desc": "po zabiciu wroga, ulecz 20 HP, and zyskaj 5 Większą Moc Obrony na początku następnej tury."
     },
     {
       "id": 90003,
@@ -18,227 +18,227 @@
     {
       "id": 90004,
       "name": "Weak Morale",
-      "desc": "Whenever an ally dies, permanently gain 1 Fragile."
+      "desc": "Whenever an ally dies, permanently zyskaj 1 Fragile."
     },
     {
       "id": 90005,
       "name": "Retribution",
-      "desc": "When HP drops below 50%, gain 5 Attack Power Up next turn."
+      "desc": "Kiedy HP spadnie poniżej 50%, zyskaj 5 Większą Moc Ataku na początku następnej tury."
     },
     {
       "id": 90006,
-      "name": "Mind Wave",
+      "name": "Mind Wave[ta i poprzednie chyba nie są używane, nic nie znalazłam o nich w wiki. unless im wrong to trust it implicitly]",
       "desc": "On hit, target loses 10 SP."
     },
     {
       "id": 9000101,
-      "name": "Injured Augmentation",
-      "desc": "At the start of the turn, if at less than 50% HP, heal 1 HP."
+      "name": "Uszkodzone Wzmocnienia",
+      "desc": "Jeśli na początku tury HP jest mniejsze niż 50%, ulecz 1 HP."
     },
     {
       "id": 9000102,
-      "name": "Augmented Body",
-      "desc": "At the start of the turn, if at less than 50% HP, heal 2 HP."
+      "name": "Wzmocnione Ciało",
+      "desc": "Jeśli na początku tury HP jest mniejsze niż 50%, ulecz 2 HP."
     },
     {
       "id": 9000103,
-      "name": "Corroded Augmentation",
-      "desc": "At the start of the turn, if at less than 50% HP, heal 4 HP."
+      "name": "Skorodowane Wzmocnienia",
+      "desc": "Jeśli na początku tury HP jest mniejsze niż 50%, ulecz 4 HP."
     },
     {
       "id": 9100301,
-      "name": "Big Boss",
-      "desc": "When this unit is defeated, all its allies lose 45 SP."
+      "name": "Wielki Szefo",
+      "desc": "Kiedy ta jednostka zostanie pokonana, wszyscy jej sojusznicy tracą 45 SP."
     },
     {
       "id": 9100302,
-      "name": "Not Me Boys!",
-      "desc": "This unit loses 15 SP whenever an ally is defeated."
+      "name": "Tylko Nie Moi Chłopcy!",
+      "desc": "Ta jednostka traci 15 SP za każdym razem, kiedy umiera sojusznik."
     },
     {
       "id": 9100401,
       "name": "Hora de Fiesta",
-      "desc": "At the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 Attack Power Up and 1 Defense Power Up at turn start."
+      "desc": "Na początku tury ulecz wszystkich sojuszników o 10 SP.\nMając 20+ SP, zyskaj na początku tury 1 Większą Moc Ataku i 1 Większą Moc Obrony."
     },
     {
       "id": 9100402,
       "name": "Se Acabó la Fiesta",
-      "desc": "When this unit is defeated, all its allies lose 45 SP."
+      "desc": "Kiedy ta jednostka zostanie pokonana, wszyscy jej sojusznicy tracą 45 SP."
     },
     {
       "id": 9002801,
-      "name": "HP Bullets",
-      "desc": "At the start of the turn, heal 15 HP.\nAt less than 50% HP, heal 15 additional HP."
+      "name": "Naboje HP",
+      "desc": "Na początku tury ulecz 15 HP.\nMając mniej niż 50% HP, ulecz dodatkowe 15 HP."
     },
     {
       "id": 9003201,
-      "name": "Noble be Thy Sacrifice",
-      "desc": "When an ally is defeated, gain 1 Attack Power Up next turn."
+      "name": "Niech Twa Ofiara Będzie Godna",
+      "desc": "Zyskaj 1 Większą Moc Ataku na początku następnej tury, kiedy umiera sojusznik."
     },
     {
       "id": 9003801,
-      "name": "Joy of Execution",
-      "desc": "After defeating an enemy, gain 2 Damage Up next turn."
+      "name": "Radosna Egzekucja",
+      "desc": "Zyskaj 2 Większe Obrażenia na początku następnej tury po zabiciu wroga."
     },
     {
       "id": 9100501,
-      "name": "Hammer of the One Who Grips",
-      "desc": "At the start of the turn, all allies heal 10 SP.\nWhen this unit is defeated, all its allies lose 45 SP."
+      "name": "Młot Tej, Która Chwyta",
+      "desc": "Na początku tury ulecz wszystkich sojuszników o 10 SP.\nKiedy ta jednostka zostanie pokonana, wszyscy jej sojusznicy tracą 45 SP."
     },
     {
       "id": 9100601,
-      "name": "Persistence",
-      "desc": "When HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn."
+      "name": "Nieustępliwość",
+      "desc": "Kiedy HP spadnie poniżej 50%, usuń na początku następnej tury wszystkie negatywne efekty, i zyskaj na początku każdej tury 4 Fanatyzmu, 1 Większą Moc Ataku, i 1 Większą Moc Obrony."
     },
     {
       "id": 9100502,
-      "name": "Thou Shalt Hammer",
-      "desc": "If this unit is Fanatic, deal +50% damage."
+      "name": "Młotem Gwoździe Wbijaj",
+      "desc": "Jeśli ta jednostka jest Fanatyczna, zadaje +50% obrażeń."
     },
     {
       "id": 9004601,
-      "name": "Mechanical Mentality",
-      "desc": "Sanity is fixed at 0."
+      "name": "Mechaniczna Mentalność",
+      "desc": "Psychika zablokowana na 0."
     },
     {
       "id": 9004602,
-      "name": "Solid Exterior",
-      "desc": "Take half as much damage from <sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">Burn</color></link></u>."
+      "name": "Porządna Obudowa",
+      "desc": "Otrzymuje połowę obrażeń od <sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">Krwawienia</color></link></u> i <sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">Podpalenia</color></link></u>."
     },
     {
       "id": 9004603,
-      "name": "Caution: Unsteady",
-      "desc": "This unit's stagger threshold rises by 50% more when affected by Tremor Burst"
+      "name": "Uwaga: Niestabilne",
+      "desc": "Podniesienie progu zachwiania tej jednostki przez Impuls Drżeń jest o 50% większe"
     },
     {
       "id": 9004604,
-      "name": "Caution: Delicate",
-      "desc": "Take +30% damage from <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Rupture</color></link></u> (Rounded down)"
+      "name": "Uwaga: Delikatne",
+      "desc": "Otrzymuje +30% obrażeń od <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Pęknięcia</color></link></u> (Zaokrąglone w dół)"
     },
     {
       "id": 9004901,
-      "name": "Damageable Disuniter",
-      "desc": "After being staggered, inflict 1 less Rupture and Rupture Count"
+      "name": "Podatny Na Uszkodzenia Rozrywacz",
+      "desc": "Po zostaniu zachwianym, nakłada o 1 mniej Siły i Ilości Pęknięcia"
     },
     {
       "id": 9005001,
-      "name": "Damageable Thumper",
-      "desc": "After being staggered, inflict 1 less Tremor and Tremor Count"
+      "name": "Podatny Na Uszkodzenia Zgniatacz",
+      "desc": "Po zostaniu zachwianym, nakłada o 1 mniej Siły i Ilości Drżenia"
     },
     {
       "id": 9100701,
-      "name": "Overheating Attack Function",
-      "desc": "When staggering a unit with an attack, gain 3 Damage Up next turn."
+      "name": "Funkcja Ataku Przegrzewającego",
+      "desc": "Po zachwianiu jednostki atakiem, zyskaj 3 Większe Obrażenia na początku następnej tury."
     },
     {
       "id": 9100702,
-      "name": "Breakable Disuniter",
-      "desc": "After being staggered, inflict 3 less Rupture and Rupture Count"
+      "name": "Podatny Na Zniszczenie Rozrywacz",
+      "desc": "Po zostaniu zachwianym, nakłada o 3 mniej Siły i Ilości Pęknięcia"
     },
     {
       "id": 9100703,
-      "name": "Breakable Thumper",
-      "desc": "After being staggered, inflict 3 less Tremor and Tremor Count"
+      "name": "Podatny Na Zniszczenie Zgniatacz",
+      "desc": "Po zostaniu zachwianym, nakłada o 3 mniej Siły i Ilości Drżenia"
     },
     {
       "id": 9100801,
-      "name": "Spanner Up",
-      "desc": "Gain Resonant by the number of heads Coins that successfully hit during a turn. (Max 10)"
+      "name": "Klucz W Rękę",
+      "desc": "Zyskaj Rezonans równy liczbie Monet na Orle, którym udało się trafić cel w tej turze. (Maks 10)"
     },
     {
       "id": 9100802,
-      "name": "Rosespanner Workshop Rep",
-      "desc": "Inflict more Tremor by the number of allies that have died this wave"
+      "name": "Reprezentant Warsztatu Rosespanner",
+      "desc": "Nakładaj więcej Drżenia równego liczbie sojuszników, którzy zgineli w tej fali"
     },
     {
       "id": 9100803,
-      "name": "Guess I'm the Last",
-      "desc": "When alone, gain 1 Resonant and 1 Tremor Sync every turn."
+      "name": "No, To Chyba Zostałem Tylko Ja",
+      "desc": "Będąc sam, zyskaj 1 Rezonans i 1 Synchronizację Drżeń na początku każdej tury."
     },
     {
       "id": 9100804,
-      "name": "I've Got No Choice",
-      "desc": "When alone, marks the last unit that attacked this character as a target next turn."
+      "name": "Nie Zostawiacie Mi Wyboru",
+      "desc": "Będąc sam, oznacza jako cel ostatniego wroga, która zaatakowała tą jednostkę na początku następnej tury."
     },
     {
       "id": 9100901,
-      "name": "Entangling Curse Talisman",
-      "desc": "Gain Entangled Curse Talismans by the number of clashes the unit engaged in during a turn."
+      "name": "Talizman Wiążącej Klątwy",
+      "desc": "Zyskaj Talizmany Wiążącej Klątwy równe liczbie starć, w których udział brała ta jednostka w tej turze."
     },
     {
       "id": 9100902,
-      "name": "Strangling Curse Talisman",
-      "desc": "At 10 Entangled Curse Talismans, raise stagger threshold by 10, then remove the status."
+      "name": "Talizman Duszącej Klątwy",
+      "desc": "Mając 10 Talizmanów Wiążącej Klątwy, podnieś próg zachwiania o 10, po czym usuń ten status."
     },
     {
       "id": 9100903,
-      "name": "Multiplying Curse Talisman",
-      "desc": "At 30% or less HP, inflict +1 Reattached Curse Talisman"
+      "name": "Talizman Mnożącej Się Klątwy",
+      "desc": "Mając 30% HP lub mniej, nakładaj +1 Talizman Doczepionej Klątwy"
     },
     {
       "id": 9100904,
-      "name": "Encroaching Curse Talisman",
-      "desc": "At 30% or less HP, if the target has 5+ Reattached Curse Talisman after an attack is finished, inflict 2 Paralyze next turn."
+      "name": "Talizman Nadchodzącej Klątwy",
+      "desc": "Mając 30% HP lub mniej, jeśli cel ma 5+ Talizman Doczepionej Klątwy po ukończeniu ataku, nałóż 2 Paraliżu na początku następnej tury."
     },
     {
       "id": 9006201,
-      "name": "Floods of Sorrow",
-      "desc": "Tails Coins inflict 2 Sinking"
+      "name": "Zatopienie W Żalu",
+      "desc": "Monety, które wylądowały na Reszce nakładają 2 Zrozpaczenia"
     },
     {
       "id": 9006202,
-      "name": "Overflowing Sorrow",
-      "desc": "At the end of the turn, lose 5 SP"
+      "name": "Przepełniający Żal",
+      "desc": "Na początku tury, strać 5 SP"
     },
     {
       "id": 9006101,
-      "name": "Intoxication",
-      "desc": "At 5 Morale Boost, gain 5 Tipsy."
+      "name": "Upojenie",
+      "desc": "Mając 5 Wzmocnienia Morale, zyskaj 5 Podpicia."
     },
     {
       "id": 9006102,
-      "name": "Hangover Cure",
-      "desc": "At 5 Tipsy, uses a defense skill."
+      "name": "Lek Na Kaca",
+      "desc": "Mając 5 Podpicia, używa Zdolności Obronnej."
     },
     {
       "id": 9006801,
-      "name": "Healing Ampule Injection",
-      "desc": "At the start of the turn, heal 20 HP."
+      "name": "Wstrzyknięcie Ampułki Leczącej",
+      "desc": "Na początku tury ulecz 20 HP."
     },
     {
       "id": 9006802,
-      "name": "Emergency Ampule Administration",
-      "desc": "At less than 25% HP, heal up to 40% of Max HP (One-time only)"
+      "name": "Awaryjne Wstrzyknięcie Ampułki Leczącej",
+      "desc": "Mając mniej niż 25% HP, ulecz do 40% Maks HP (Jednorazowo)"
     },
     {
       "id": 9007001,
-      "name": "Golden Time",
-      "desc": "At the end of the turn, if the HP is between 12% and 24%, instantly heal up to 65% of Max HP, and recover from stagger. (One-time only)"
+      "name": "Złoty Czas",
+      "desc": "Przy końcu tury, jeśli wartość HP jest pomiędzy 12% i 24%, natychmiast ulecz do 65% Maks HP i wyjdź ze stanu zachwiania. (Jednorazowo)"
     },
     {
       "id": 9007002,
-      "name": "Time Reversion Retroaction",
-      "desc": "After activating Golden Time, gain 3 Fragile at turn end."
+      "name": "Retroaktywne Cofanie Czasu",
+      "desc": "Po aktywowaniu Złotego Czasu, zyskaj 3 Kruchości na końcu tury."
     },
     {
       "id": 9005401,
-      "name": "Terror Device",
-      "desc": "When an ally attacks another ally, deal 3 SP damage"
+      "name": "Machina Terroru",
+      "desc": "Kiedy sojusznik zaatakuje innego sojusznika, zadaje mu obrażenia 3 SP"
     },
     {
       "id": 9006901,
-      "name": "Healing Ampule Injection",
-      "desc": "At the start of the turn, heal 20 HP."
+      "name": "Wstrzyknięcie Ampułki Leczącej",
+      "desc": "Na początku tury ulecz 20 HP."
     },
     {
       "id": 9006902,
-      "name": "Emergency Ampule Administration",
-      "desc": "At less than 25% HP, heal up to 40% of Max HP (One-time only)"
+      "name": "Awaryjne Wstrzyknięcie Ampułki Leczącej",
+      "desc": "Mając mniej niż 25% HP, ulecz do 40% of Maks HP (Jednorazowo)"
     },
     {
       "id": 9006803,
-      "name": "Emergency Ampule Overdose",
-      "desc": "HP does not drop below 1;\nIf at 60- HP at the start of the turn, enter a powered-up state."
+      "name": "Awaryjne Przedawkowanie Ampułek",
+      "desc": "HP nie spada poniżej 1;\nMając mniej niż 60 HP na początku tury, wchodzi we wzmocniony stan."
     }
   ]
 }

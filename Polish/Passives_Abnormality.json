@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 800101,
-      "name": "An Apple’s Twilight",
-      "desc": "When the Fruit is destroyed, all parts are inflicted with 2 Fragile.\nThe Fruit regenerates after 1 turn.",
-      "summary": "When the Fruit is destroyed, apply 2 Fragile to all parts"
+      "name": "Jabłka Zmierzch",
+      "desc": "Kiedy Owoczostanie zniszczony, wszystkie części dostają 2 Kruchości.\nOwoc regeneruje się po 1 turze.",
+      "summary": "Kiedy Owoczostanie zniszczony, nałóż 2 Kruchości na wszystkie części"
     },
     {
       "id": 800102,
@@ -18,19 +18,19 @@
     },
     {
       "id": 800104,
-      "name": "Entangling Roots",
-      "desc": "At the start of the turn, inflict 1 Bind on all enemies.\nThis lasts until the Roots have been broken.",
-      "summary": "Inflict 1 Bind on all enemies until Roots are broken"
+      "name": "Splątane Korzenie",
+      "desc": "Na początku tury, nałóż 1 Spętania na wszystkich wrogów.\nEfekt trwa, dopóki Korzenie nie zostaną zniszczone.",
+      "summary": "Inflict 1 Spętania na wszystkich wrogów until Roots are broken"
     },
     {
       "id": 800105,
-      "name": "One Sole Root",
-      "desc": "The Roots gain 2 Attack Power Up for each intact Arm."
+      "name": "Jeden Wspólny Korzeń",
+      "desc": "Korzenie otrymują 2 Większej Mocy Ataku za każdą nie uszkodzoną Rękę."
     },
     {
       "id": 800201,
-      "name": "Let the Blood Festival Flow",
-      "desc": "The battle proceeds to the next phase after all the Clay Dolls are defeated."
+      "name": "Niechaj Poleje Się Festiwal Krwi",
+      "desc": "Kiedy wszystkie Gliniane Lalki zostaną pokonane, walka przechodzi do następnej fazy."
     },
     {
       "id": 800202,
@@ -39,13 +39,13 @@
     },
     {
       "id": 800203,
-      "name": "Let the Fire Festival Ignite",
-      "desc": "If both Arms are destroyed or the main body’s HP is brought to 70%, the battle proceeds to the next phase."
+      "name": "Niechaj Zapali Się Festiwal Ognia",
+      "desc": "Jeśli obie Ręce zostaną zniszczone, lub HP głównego ciała spadnie do 70%, walka przechodzi do następnej fazy."
     },
     {
       "id": 800204,
-      "name": "Frenzy",
-      "desc": "During Phase 3\nAt the start of the turn, inflict 3 Burn on all enemies."
+      "name": "Szał",
+      "desc": "Podczas Fazy 3\nNa początku tury, nałóż 3 Podpalenia na wszystkich wrogów."
     },
     {
       "id": 800205,
@@ -54,8 +54,8 @@
     },
     {
       "id": 800206,
-      "name": "Let the Star Festival Fall",
-      "desc": "When HP is brought to 25%, the battle proceeds to the next phase."
+      "name": "Niechaj Zapadnie Festiwal Gwiazd",
+      "desc": "Kiedy HP spadnie do 25%, walka przechodzi do następnej fazy."
     },
     {
       "id": 800207,
@@ -64,13 +64,13 @@
     },
     {
       "id": 800301,
-      "name": "Idolatry",
-      "desc": "Does not die at 0 HP; instead, remains on the stage as an immobile and untargetable unit.\nSuppressed when the Doomsday Calendar is suppressed."
+      "name": "Bałwochwalstwo",
+      "desc": "Nie umiera przy 0 HP; zamiast tego, pozostaje na miejscu jako nieruchoma i niemożliwa do obrania za cel jednostka.\nZostaje unieszkodliwiona razem z Kalendarzem Zagłady."
     },
     {
       "id": 800801,
-      "name": "Cracked Gold",
-      "desc": "Heals HP every turn based on the amount of Golden Sheen."
+      "name": "Pęknięte Złoto",
+      "desc": "Na początku każdej tury leczy HP zależne od ilości Złotej Skórki."
     },
     {
       "id": 800901,
@@ -79,13 +79,13 @@
     },
     {
       "id": 800902,
-      "name": "Frail Core",
-      "desc": "When the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn."
+      "name": "Kruchy Ogryzek",
+      "desc": "Kiedy Głowa zostanie zniszczona, na początku następnej tury nakłada na wszystkie Części Unieruchomienie.\nGłowa regeneruje się po 1 turze."
     },
     {
       "id": 800903,
-      "name": "Rotting Apple",
-      "desc": "After the body is destroyed, all parts are inflicted with 2 Attack Power Down every turn."
+      "name": "Gnijące Jabłko",
+      "desc": "Kiedy Ciało zostanie zniszczone, na początku każdej tury nakłada na wszystkie Części 2 Mniejszej Mocy Ataku."
     },
     {
       "id": 800904,
@@ -94,333 +94,333 @@
     },
     {
       "id": 801001,
-      "name": "Upgrade Factory at Work",
-      "desc": "When this unit is defeated, it revives the next turn and gains 1 Surgery."
+      "name": "Włączona Fabryka Ulepszeń",
+      "desc": "Kiedy ta jednostka zostanie pokonana, odradza się i zsyakuje 1 Operację."
     },
     {
       "id": 801002,
-      "name": "You Must Become Strong",
-      "desc": "At the start of the turn, gain 1 Protection."
+      "name": "Musisz Stać Się Silny",
+      "desc": "Na początku tury, zyskaj 1 Ochrony."
     },
     {
       "id": 801201,
-      "name": "You Must Become Strong",
-      "desc": "At the start of the turn, gain 2 Protection."
+      "name": "Musisz Stać Się Silny",
+      "desc": "Na początku tury, zyskaj 2 Ochrony."
     },
     {
       "id": 801301,
-      "name": "Wavering Desires",
-      "desc": "While Desirous, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior."
+      "name": "Niepewne Pragnienia",
+      "desc": "Będąc w stanie Majaczenia, ta jednostka zyskuje 2 Kruchości i 10 Spętania, otrzymuje 1 żeton zdolności i zmienia zachowanie."
     },
     {
       "id": 801302,
-      "name": "Ensnaring Desires",
-      "desc": "The unit becomes Desirous every time it loses 30% of its HP."
+      "name": "Zniewalające Pragnienia",
+      "desc": "Ta jednostka wchodzi w stan Majaczenia za każdym razem, kiedy traci 30% swojego HP."
     },
     {
       "id": 801904,
-      "name": "Shuddering Terror",
-      "desc": "Gain 1 Protection for every ally that died this wave. (Max 5.)"
+      "name": "Mrożący Terror",
+      "desc": "Zyskaj 1 Ochrony za każdego sojusznika, który zginął w tej turze. (Maks 5.)"
     },
     {
       "id": 802401,
-      "name": "Pulsating Arms",
-      "desc": "At the start of the turn, gain Attack Power Up and Protection by the Count of Instincts."
+      "name": "Pulsujące Ręce",
+      "desc": "Na początku tury, zyskaj Większą Moc Ataku i Ochronę równą Ilości Instynktu."
     },
     {
       "id": 802402,
-      "name": "Damaged Arms",
-      "desc": "Lose 1 Instincts whenever the unit takes damage from attacks."
+      "name": "Uszkodzone Ręce",
+      "desc": "Strać 1 Instynkt kiedy ta jednostka otrzymuje obrażenia od ataków."
     },
     {
       "id": 802403,
-      "name": "Regenerating Shell",
-      "desc": "At the end of the turn, if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gain 1 Instincts."
+      "name": "Regenerująca Się Skorupa",
+      "desc": "Na końcu tury, jeśli ta jednostka nie otrzymała obrażeń od ataków w tej turze, ulecz 5% HP i zyskaj 1 Instynkt."
     },
     {
       "id": 802404,
-      "name": "Frantic Eyes",
-      "desc": "Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 3 or less."
+      "name": "Rozbiegane Oczy",
+      "desc": "Zachowanie jest zależne od Ilości Instynktów.\nUżywa agresywnych zdolności mając +4 Instynktów i przechodzi na defensywę mając 3 lub mniej."
     },
     {
       "id": 802501,
-      "name": "Amplified Aggression",
-      "desc": "When hit by an attack, gain 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy."
+      "name": "Zwiększona Agresja",
+      "desc": "Kiedy ta jednostka zostanie trafiona atakiem, zyskaj 1 Instynkt.\nJeśli na końcu tury ma +4 Instynktów, wchodzi w stan Szału."
     },
     {
       "id": 802502,
-      "name": "Frenzy",
-      "desc": "In the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked."
+      "name": "Szał",
+      "desc": "W stanie Szału, ta jednostka zyskuje 3 Większej Mocy Ataku i 3 Kruchości, zmienia zachowanie i nie zyskuje Instynktów od bycia zaatakowaną."
     },
     {
       "id": 802503,
-      "name": "Shimmering Rage",
-      "desc": "At less than 50% HP, enters Frenzy every turn."
+      "name": "Iskrząca Wściekłość",
+      "desc": "Mając mniej niż 50% HP, wchodzi w stan Szału na początku każdej tury."
     },
     {
       "id": 802701,
-      "name": "Amplified Aggression",
-      "desc": "When hit by an attack, gain 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy."
+      "name": "Zwiększona Agresja",
+      "desc": "Kiedy ta jednostka zostanie trafiona atakiem, zyskaj 1 Instynkt.\nJeśli na końcu tury ma +4 Instynktów, wchodzi w stan Szału."
     },
     {
       "id": 802702,
-      "name": "Frenzy",
-      "desc": "In the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked."
+      "name": "Szał",
+      "desc": "W stanie Szału, ta jednostka zyskuje 3 Większej Mocy Ataku i 3 Kruchości, zmienia zachowanie i nie zyskuje Instynktów od bycia zaatakowaną."
     },
     {
       "id": 802801,
-      "name": "Rotting Skin",
-      "desc": "At the start of the turn, if at less than 50% HP, inflict 3 Poison when attacked."
+      "name": "Gnijąca Skóra",
+      "desc": "Mając mniej niż 50% HP na początku tury, nakładaj 3 Trucizny na atakujące jednostki."
     },
     {
       "id": 802802,
-      "name": "Molt",
-      "desc": "After this part is broken, if the other arm is not broken at the end of the following turn, this part regenerates with the same HP as it."
+      "name": "Zrzucanie Skóry",
+      "desc": "Kiedy ta Część zostanie zniszczona, jeśli druga ręka nie jest zniszczona do końca następnej tury, ta część regeneruje się z takim samym HP jak tamta."
     },
     {
       "id": 802803,
-      "name": "Pained Writhing",
-      "desc": "When both arms are broken, the unit gains 5 Fragile and inflicts 10 Poison on all enemies every turn."
+      "name": "Bolesne Pełzanie",
+      "desc": "Kiedy obie ręce zostaną zniszczone, ta jednostka zyskuje 5 Kruchości i nakłada 10 Trucizny na wszystkich wrogów na początku każdej tury."
     },
     {
       "id": 802804,
-      "name": "Wriggling Instincts",
-      "desc": "Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 0."
+      "name": "Wijący Się Instynkt",
+      "desc": "Zachowanie jest zależne od Ilości Instynktów.\nUżywa agresywnych zdolności mając +4 Instynktów i przechodzi na defensywę mając 0."
     },
     {
       "id": 803302,
-      "name": "Severed Arm",
-      "desc": "When the arm is broken, the unit gains 5 Fragile every turn."
+      "name": "Odcięta Ręka",
+      "desc": "Kiedy Ręka zostanie zniszczona, ta jednostka zyskuje 5 Kruchości na początku każdej tury."
     },
     {
       "id": 802901,
-      "name": "Fearsome Whistles",
-      "desc": "If you have collected less than 3 of A Sign, Sinclair is inflicted with 1 Bind and Paralyze every turn."
+      "name": "Przerażające Gwizdy",
+      "desc": "Jeśli nie udało ci się zebrać co najmniej 3 Znaku, na Sinclaira na początku każdej tury nakładane są 1 Spętania i Paraliżu."
     },
     {
       "id": 802902,
-      "name": "Courage to Triumph Fear",
-      "desc": "If you have collected 3 or more of A Sign, Sinclair gains 1 Attack Power Up and 2 Protection every turn."
+      "name": "Odwaga, By Pokonać Strach",
+      "desc": "Jeśli udało ci się zebrać co najmniej 3 Znaku, Sinclair na początku każdej tury zyskuje 1 Większej Mocy Ataku i 2 Ochrony."
     },
     {
       "id": 802903,
-      "name": "You Must Accept the Pain!",
-      "desc": "At the start of the turn, if the unbroken part has Bleed or Burn, heal 15% of Max HP and gain 3 Attack Power Up.\nThe healing and status effects gained are decreased based on the number of A Sign, down to 0."
+      "name": "Musisz Przyjąć Ten Ból!",
+      "desc": "Na początku tury, Jeśli nie zniszczona Część ma Krwawienie lub Podpalenie, ulecz 15% of Maks HP i zyskaj 3 Większej Mocy Ataku.\nUzyskane leczenie i efekty zostają zmniejszone zależnie od liczby Znaku, aż do 0."
     },
     {
       "id": 802904,
-      "name": "Bliss of Execution",
-      "desc": "After defeating an enemy, gain 2 Haste and 5 Damage Up next turn."
+      "name": "Rozkosz Egzekucji",
+      "desc": "Po pokonaniu przeciwnika, zyskaj 2 Pośpiechu i 5 Większych Obrażeń na początku następnej tury."
     },
     {
       "id": 803001,
-      "name": "Overflowing Ecstasy",
-      "desc": "Starting with Turn 3, becomes Ecstatic every 2 turns."
+      "name": "Przepełniająca Ekstaza",
+      "desc": "Zaczynając od 3 tury, co 2 tury wchodzi w stan Ekstazy."
     },
     {
       "id": 803002,
-      "name": "Blooming Purity",
-      "desc": "If Kromer’s main body is brought to 50% HP, she gains Purity for the remaining turns."
+      "name": "Kwitnąca Czystość",
+      "desc": "Jeśli HP głównego ciała Kromer spadnie do 50% HP, zyskuje ona Czystość na resztę Potyczki."
     },
     {
       "id": 803003,
-      "name": "Flawless Flesh",
-      "desc": "When the arm is broken, the part is inflicted with 2 Attack Power Down."
+      "name": "Doskonałe Ciało",
+      "desc": "Kiedy Ręka zostanie zniszczona, ta Część otrzymuje 2 Mniejszej Mocy Ataku."
     },
     {
       "id": 803101,
-      "name": "Blood Sac",
-      "desc": "Wrath Resistance increases.\nGloom Resistance decreases."
+      "name": "Pochwa Z Krwią",
+      "desc": "Odporność na Gniew zwiększa się.\nOdporność na Przygnębienie spada."
     },
     {
       "id": 803102,
-      "name": "Fluid Sac",
-      "desc": "While the Fluid Sac status is active, the Core heals (20 * Fluid Sac Count) HP."
+      "name": "Pochwa Z Surowicą",
+      "desc": "Będąc w stanie Pochwy Z Surowicą, Rdzeń leczy się o (20 * Ilość Pochwy Z Surowicą) HP."
     },
     {
       "id": 803103,
-      "name": "Boiling Blood",
-      "desc": "If the body is broken while Blood Sac is active, all enemies take 20 fixed damage."
+      "name": "Zagotowana Krew",
+      "desc": "Jeśli Ciało zostanie zniszczone w stanie Pochwy Z Krwią, wszyscy wrogowie otrzymują 20 obrażeń."
     },
     {
       "id": 803201,
-      "name": "Lightning Rod",
-      "desc": "When the Telephone Pole is hit, inflict 2 Shock on the attacker this turn.\nAt 5+ Lightning, all Parts will inflict 3 Shock on the attacker, starting next turn.\n(Lasts until Lightning reaches 0.)\nWhen hit by a Sloth attack, the amount of Shock inflicted is halved. (Rounded up.)"
+      "name": "Piorunochron",
+      "desc": "Kiedy Elektryczny Słup zostanie uderzony, nałóż na atakującego 2 Szoku w tej turze.\nMając 5+ Piorunów, wszystkie Części nakładają 3 Szoku na atakującego, zaczynając od początku następnej tury.\n(Trwa, dopóki Pioruny nie spadną do 0.)\nJeśli atak był od Lenistwa, ilość nałożonego Szoku zostaje zmniejszona o połowę. (Zaokrąglając w górę.)"
     },
     {
       "id": 803202,
-      "name": "Lightning",
-      "desc": "While the telephone pole isn’t broken, gain 1 Lightning after an attack.\nWhenever the telephone pole is hit by an attack, lose 1 Lightning."
+      "name": "Piorun",
+      "desc": "Jeśli Elektryczny Słup nie jest zniszczony, zyskaj 1 Piorun po ataku.\nZa każdym razem, kiedy Elektryczny Słup zostanie trafiony przez atak, strać 1 Piorun."
     },
     {
       "id": 803203,
-      "name": "Breaking Pieces",
-      "desc": "When the telephone pole is Staggered or Broken, lose all Lightning.\nAll attacks of Alleyway Watchdog will then be canceled for the turn."
+      "name": "Łamiące Się Kawałki",
+      "desc": "Kiedy Elektryczny Słup zostanie Zachwiany lub Zniszczony, strać wszystkie Pioruny.\nWszystkie ataki Wilka z Alei w tej turze zostaną anulowane."
     },
     {
       "id": 803401,
-      "name": "Bongy Chicken Struts",
-      "desc": "At the end of the turn, deal 3 SP damage to a random enemy."
+      "name": "Kurczak Bongy Kroczy",
+      "desc": "Na końcu tury, zadaj losowemu przeciwnikowi 3 obrażeń SP."
     },
     {
       "id": 803701,
-      "name": "Bongy Chicken Beefs Up",
-      "desc": "At the end of the turn, apply 2 Damage Up and 2 Protection to all allies next turn."
+      "name": "Kurczak Bongy Się Wzmacnia",
+      "desc": "Na końcu tury, przyznaj wszystkim sojusznikom 2 Większe Obrażenia i 2 Ochrony na początku następnej tury."
     },
     {
       "id": 803901,
-      "name": "Vigorous Volaille",
-      "desc": "At the end of the turn, heal 5 HP for each Raw Chicken in battle."
+      "name": "Energiczny Drób",
+      "desc": "Na końcu tury, ulecz 5 HP za każdego Surowego Kurczaka w walce."
     },
     {
       "id": 803902,
-      "name": "Gloomy Gallus",
-      "desc": "At the end of the turn, deal 5 SP damage to all enemies for each Raw Chicken in battle."
+      "name": "Markotny Kogut",
+      "desc": "Na końcu tury, zadaj 5 SP damage wszystkim przeciwnikom za każdego Surowego Kurczaka w walce."
     },
     {
       "id": 803903,
-      "name": "Fragile Fowl",
-      "desc": "When a Part breaks, gain 1 Fragile every turn for each Raw Chicken that died before the Part was broken."
+      "name": "Delikatne Ptactwo",
+      "desc": "Kiedy ta Część zostanie zniszczona, zyskaj 1 Kruchości na początku każdej tury za każdego Surowego Kurczaka, który zginął przed zniszczeniem tej Części."
     },
     {
       "id": 803904,
-      "name": "Powerful Poussin",
-      "desc": "If the Part isn’t broken, gain 1 Damage Up for each living Raw Chicken."
+      "name": "Moc Pisklęcia",
+      "desc": "Jeśli ta Część nie jest zniszczona, zyskaj 1 Większych Obrażeń za każdego żywego Surowego Kurczaka."
     },
     {
       "id": 804101,
-      "name": "Expanding Sorrow",
-      "desc": "At the end of the turn, if the unit has 3+ Unresolved Sorrow, generates a head next turn and changes behavior."
+      "name": "Rosnąca Żałoba",
+      "desc": "Na końcu tury, jeśli ta jednostka ma 3+ Żalu Bez Ujścia, tworzy początku następnej tury Głowę i zmienia zachowanie."
     },
     {
       "id": 804102,
-      "name": "Inconsolable Sorrow",
-      "desc": "At the end of the turn, if the unit has 3+ Unresolved Sorrow and the head is broken, becomes staggered next turn."
+      "name": "Przytłaczająca Żałoba",
+      "desc": "Na końcu tury, jeśli ta jednostka ma 3+ Żalu Bez Ujścia i Głowa jest zniszczona, zostaje ona zachwiana na początku następnej tury."
     },
     {
       "id": 804103,
-      "name": "Taken by the Horns",
-      "desc": "When the head is staggered, all parts become staggered next turn."
+      "name": "Wzięty Za Rogi",
+      "desc": "Kiedy Głowa zostanie zachwiana, wszystkie inne części też zostają zachwiane na początku następnej tury."
     },
     {
       "id": 804104,
-      "name": "Downed by the Horns",
-      "desc": "When the head is broken, all parts become staggered next turn. Afterwards, all parts have 3 Attack Power Down for the duration of the battle."
+      "name": "Uzieminu Za Rogi",
+      "desc": "Kiedy Głowa zostanie zniszczona, wszystkie inne części zostają zachwiane na początku następnej tury. Po tym, wszystkie Części mają 3 Mniejszej Mocy Ataku na resztę potyczki."
     },
     {
       "id": 804501,
-      "name": "Living Nerves",
-      "desc": "Upon death, all Skills are cancelled for the turn.\nDoubles currently owned Self-charge."
+      "name": "Żywe Nerwy",
+      "desc": "Przy śmierci, wszystkie Zdolności w tej turze zostają anulowane.\nPodwaja obecną liczbę Automatycznego Ładowania."
     },
     {
       "id": 804502,
-      "name": "Motioning Nerves",
-      "desc": "After dying, attack skills spend 1 Self-charge.\nAttacks enemies until Self-charge runs out."
+      "name": "Ruchome Nerwy",
+      "desc": "Po śmierci, zdolności ataku zużywają 1 Automatycznego Ładowania.\nAtakuje wrogów, dopóki nie skończy się Automatyczne Ładowanie."
     },
     {
       "id": 804503,
-      "name": "Undying Persistence",
-      "desc": "Every 5 turns, gains a Shield equal to the head's HP."
+      "name": "Kłębek Nerwów",
+      "desc": "Co 5 tur, zyskuje Tarczę równą HP Głowy."
     },
     {
       "id": 804504,
-      "name": "Terminated Persistence",
-      "desc": "After using 'Coil Up', if the Shield is exhausted, spend Self-charge.\nAll parts become staggered next turn."
+      "name": "Terminacja Ochrony",
+      "desc": "Po użyciu 'Zwijania Się', jeśli tarcza zostanie zniszczona, zużyj całe Automatyczne Ładowanie.\nWszystkie Części zostają zachwiane na początku następnej tury."
     },
     {
       "id": 804601,
-      "name": "Broken Umbrella",
-      "desc": "After the back is broken, gain 3 Fragile every turn. Inflict +2 Rupture."
+      "name": "Złamana Parasolka",
+      "desc": "Kiedy parasole na plecach zostaną zniszczone, zyskaj 3 Kruchości na początku każdej tury. Nakładaj +2 Pęknięcia."
     },
     {
       "id": 804602,
-      "name": "Ragged Umbrella",
-      "desc": "After the head umbrella is broken, gain 5 Offense Level Down every turn. Inflict +2 Sinking."
+      "name": "Poszarpana Parasolka",
+      "desc": "Kiedy parasol pysku zostanie zniszczony, zyskaj 5 Niższego Poziomu Obrony na początku każdej tury. Nakładaj +2 Zrozpaczenia."
     },
     {
       "id": 804603,
-      "name": "Last Struggle",
-      "desc": "At 15% HP, the unit's Speed is fixed at 1, and gains 1 Attack Power Down.\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn."
+      "name": "Ostatnimi Siłami",
+      "desc": "Mając 15% HP, Prędkość tej jednostki zatrzymuje się na 1, i zyskuje ona 1 Mniejszej Mocy Ataku.\nNowo powstałe Stare Parasolki mają o 30% więcej HP. Używa 'Szukającego Czegoś Wycia' na początku każdej tury."
     },
     {
       "id": 804701,
-      "name": "Spreading Ember",
-      "desc": "At the end of the turn, if this unit has Burn, inflict the same amount to all units with Entangled Curse Talisman next turn"
+      "name": "Przenoszenie Iskier",
+      "desc": "Jeśli ta jednostka ma na końcu tury Podpalenie, nakłada na początku następnej tury tą samą jego ilość wszystkim jednostkom z Talizmanem Związanej Klątwy"
     },
     {
       "id": 804702,
-      "name": "Broken Means",
-      "desc": "When the arm is broken, it deals -20% damage"
+      "name": "Zniszczone Narzędzia",
+      "desc": "Po zniszczeniu, Ręka zadaje -20% obrażeń"
     },
     {
       "id": 804801,
-      "name": "Booze Makes You Hicc!",
-      "desc": "After using 'I'll Have This!' on enemies with 5+ Tipsy and successfully landing the attack, become staggered."
+      "name": "Od Piwa Głowa Się Kiwa!",
+      "desc": "Po użyciu 'Skosztuję Tego!' na przeciwnikach z 5+ Podpicia i udanym wykonaniu ataku, ta jednostka zostaje zachwna."
     },
     {
       "id": 804802,
-      "name": "Stimulating Smell, Isn't It?",
-      "desc": "A mysterious smell from within boosts the spirit.\nA random Sinner gains 5 Morale Boost at the start of the wave."
+      "name": "Pobudzający Zapach, Nieprawdaż?",
+      "desc": "Tajemniczy zapach wzmacnia ducha walki.\nLosowy Grzesznik zyskuje 5 Wzmocnienia Morale na początku fali."
     },
     {
       "id": 805201,
-      "name": "Old and Abandoned",
-      "desc": "When this unit is defeated, the Sinner that defeated it gains 2 Haste next turn.\nAll parts of Drifting Fox are inflicted with 2 Bind and 1 Umbrella Splinters."
+      "name": "Stare i Opuszczone",
+      "desc": "Kiedy ta jednostka zostanie pokonana, Grzesznik, który ją pokonał zyskuje 2 Pośpiechu na początku następnej tury.\nNa wszystkie części Dryfującego Lisa zostaje nałożone 2 Spętania i 1 Drzazgi Z Parasolki."
     },
     {
       "id": 804301,
-      "name": "Perilous Mind",
-      "desc": "At the end of each turn, lose 10 SP."
+      "name": "Zatrwożony Umysł",
+      "desc": "Ta jednostka traci 10 SP na początku każdej tury."
     },
     {
       "id": 804302,
-      "name": "Perilous Heart",
-      "desc": "While in low morale, gain 2 Attack Power Up and 3 Bind."
+      "name": "Zatrwożone Serce",
+      "desc": "Będąc w stanie Niskiego Morale, zyskaj 2 Większej Mocy Ataku i 3 Spętania."
     },
     {
       "id": 804303,
-      "name": "Faltering Heart",
-      "desc": "In panic, become staggered."
+      "name": "Chwiejne Serce",
+      "desc": "Będąc w stanie Paniki, Dongbaek zostaje Zachwiana."
     },
     {
       "id": 804304,
-      "name": "Determination",
-      "desc": "When recovering from panic, fully heal SP, and gain 2 Haste and 2 Attack Power Up."
+      "name": "Determinacja",
+      "desc": "Wychodząc ze stanu Paniki, w pełni ulecz SP, i zyskaj 2 Pośpiechu i 2 Większej Mocy Ataku."
     },
     {
       "id": 804305,
       "name": "Lobotomy E.G.O",
-      "desc": "Starts the battle with 1200 Shield HP"
+      "desc": "Zaczyna walkę mając Tarczę z 1200 HP"
     },
     {
       "id": 805301,
-      "name": "Walled Heart",
-      "desc": "Whenever this unit is broken, Dongbaek is inflicted with +5 Sinking Count, and all Sinners lose 2 Sinking Count; all Sinners gain 1 Protection and 2 Attack Power Up next turn."
+      "name": "Serce Za Ścianą",
+      "desc": "Kiedy ta jednostka zostanie zniszczona, nakłada +5 Ilości Zrozpaczenia na Dongbaek i usuwa 2 Ilości Zrozpaczenia u wszystkich Grzeszników; wszyscy Grzesznicy zyskują 1 Ochrony i 2 Większej Mocy Ataku na początku następnej tury."
     },
     {
       "id": 804401,
-      "name": "Into Full Bloom",
-      "desc": "At the start of Turn 5, spawn 4 Soon-to-bloom Flowers with 3 Growing"
+      "name": "Ku Zakwitnięciu",
+      "desc": "Na początku 5 tury, stwórz 4 Bliskie Zakwitnięcia Kwiaty z 3 Wzrostu"
     },
     {
       "id": 804402,
-      "name": "Flowering Mind",
-      "desc": "When HP drops to 50%, proceeds to the next phase. HP does not go below 50% until the phase changes."
+      "name": "Kwiecisty Umysł",
+      "desc": "Kiedy HP spadnie do 50%, przechodzi do następnej fazy. HP nie spada poniżej 50% do czasu zmiany fazy."
     },
     {
       "id": 804403,
-      "name": "Dueling",
-      "desc": "When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gain 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP."
+      "name": "Pojedynek",
+      "desc": "Kiedy HP spadnie do 50%, Dongbaek używa specjalnej zdolności celującej w 1 jednostkę, po czym staje się odporna na Zachwianie i Panikę na 2 następne tury.\nJeśli Yi Sang ma 'Pojecynek', Dongbaek zyskuje 1 Większej Mocy Ataku.\nJeśli Yi Sang wygra pojecynek, wszyscy sojusznicy zyskują 3 Większych Obrażeń na początku następnej tury.\nIf Dongbaek wygra pojecynek, Dongbaek w pełni leczy SP."
     },
     {
       "id": 804404,
-      "name": "Cost of Blooming",
-      "desc": "If 'Magnificent Spring Breeze' loses in a clash, lose 10 SP"
+      "name": "Koszt Rozkwitu",
+      "desc": "Jeśli 'Cudowny Wiosenny Powiew' przegra starcie, Dongbaek traci 10 SP"
     },
     {
       "id": 805401,
-      "name": "Growing Flower",
-      "desc": "Spawns with 1 Growing"
+      "name": "Kiełkujący Kwiat",
+      "desc": "Pojawia się z 1 Wzrostu"
     },
     {
       "id": 804901,
@@ -434,203 +434,198 @@
     },
     {
       "id": 804903,
-      "name": "Self Destruction",
-      "desc": "All skills target indiscriminately. With each skill used, this unit loses 2% of Max HP."
+      "name": "Samozniszczenie",
+      "desc": "Wszystkie zdolności atakują też sojuszników. Z każdą użytą zdolnością, Dongrang traci 2% swojego Maks HP."
     },
     {
       "id": 804904,
-      "name": "Self Salvation",
-      "desc": "HP healing effects heal twice as much."
+      "name": "Samoratowanie",
+      "desc": "Efekty leczące HP są dwa razy silniejsze."
     },
     {
       "id": 805601,
-      "name": "Radiant Vanity",
-      "desc": "While this unit is present, Dongrang gains 1 Protection and 1 Attack Power Up at the start of each turn."
+      "name": "Jaśniejąca Próżność",
+      "desc": "Kiedy ta jednostka jest obecna, Dongrang zyskuje 1 Ochrony i 1 Większej Mocy Ataku na początku każdej tury."
     },
     {
       "id": 805602,
-      "name": "Earnest Accomplishment",
-      "desc": "While this unit has Earnest Accomplishment, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If a Sinner drops this unit's HP to 1, the Sinner heals HP, and this unit gains Empty Honor.\n- If Dongrang defeats this unit, Dongrang heals HP and powers up next turn."
+      "name": "Realne Osiągnięcie",
+      "desc": "Gdy ta jednostka ma na sobie Realne Osiągnięcie, działają dane efekty:\n- Może być pokonane tylko atakami Dongranga.\n- Jeśli Grzesznik obniży HP tej jednostki do 1, ten Grzesznik leczy HP a ta jednostka zyskuje Pusty Honor.\n- Jeśli Dongrang pokona tą jednostkę, leczy on HP i wzmacznia się na początku następnej tury."
     },
     {
       "id": 805603,
-      "name": "Empty Honor",
-      "desc": "While this unit has Empty Honor, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If Dongrang defeats this unit, Dongrang loses HP, gains 1 Emptiness, and is weakened next turn"
+      "name": "Pusty Honor",
+      "desc": "Gdy ta jednostka ma na sobie Pusty Honor, działają dane efekty:\n- Może być pokonane tylko atakami Dongranga.\n- Jeśli Dongrang pokona tą jednostkę, traci on HP, zyskuje 1 Pustość, i zostaje osłabiony na początku następnej tury"
     },
     {
       "id": 805701,
-      "name": "Borne Fruition",
-      "desc": "The unit that defeated this unit heals by 5% of Max HP, and gains 1 Haste and 1 Attack Power Up next turn"
+      "name": "Brzemię Spełnienia",
+      "desc": "Jednostka, która pokonała tą jednostka leczy się o 5% swojego Maks HP, dodatkowo zyskuje 1 Pośpiechu i 1 Większej Mocy Ataku na początku następnej tury"
     },
     {
       "id": 805001,
-      "name": "Toward the Ideal",
-      "desc": "When the HP is brought to 85% and 50% of Max HP, respectively, spawns 2 Trees of Desires and changes behavior."
+      "name": "Ku Ideałowi",
+      "desc": "Kiedy HP spadnie kolejno do 85% i 50% Maks HP, tworzy 2 Drzewa Pragnień i zmienia zachowanie."
     },
     {
       "id": 806001,
-      "name": "Radiant Desire",
-      "desc": "While this unit is present, Dongrang gains 1 Damage Up and 1 Protection at the start of each turn."
+      "name": "Jaśniejąca Pragnienie",
+      "desc": "Kiedy ta jednostka jest obecna, Dongrang zyskuje 1 Większych Obrażeń i 1 Ochrony na początku każdej tury."
     },
     {
       "id": 805004,
-      "name": "Price of Neglect",
-      "desc": "If 'Time of Harvest' loses in a clash, lose 5 SP"
+      "name": "Cena Zaniedbania",
+      "desc": "Jeśli 'Czas Zbioru' przegra starcie, Dongrang traci 5 SP"
     },
     {
       "id": 805005,
-      "name": "Bitter Smile",
-      "desc": "When in panic, gain 2 Protection and reset SP to 0 at the start of the next turn."
+      "name": "Gorzki Uśmiech",
+      "desc": "Będąc w sanie paniki, zyskuje 2 Ochrony i resetuje SP do 0 na początku następnej tury."
     },
     {
       "id": 805006,
-      "name": "Inefficient Judgement",
-      "desc": "When recovering from stagger, gain 1 Attack Power Up."
+      "name": "Chybiony Osąd",
+      "desc": "Wychodząc ze stanu Zachwiania, zyskaj 1 Większą Moc Ataku."
     },
     {
       "id": 805007,
-      "name": "Exhausting Endeavor",
-      "desc": "After using the skill Please Be My Nutrient 3 times, become staggered next turn."
+      "name": "Wycieńczający Czyn",
+      "desc": "Po trzykrotnym użyciu zdolności Proszę, Bądźcie Mym Nawozem, Dongrang zostaje zachwiany na początku następnej tury."
     },
     {
       "id": 805002,
-      "name": "Toward the Ideal",
-      "desc": "When the HP is brought to 85% of Max HP, spawns 2 Trees of Desires and changes behavior."
+      "name": "Ku Ideałowi",
+      "desc": "Kiedy HP spadnie do 85% Maks HP, tworzy 2 Drzewa Pragnień i zmienia zachowanie."
     },
     {
       "id": 805003,
-      "name": "Toward the Ideal",
-      "desc": "When the HP is brought to 50% of Max HP, spawns 2 Trees of Desires and changes behavior."
+      "name": "Ku Ideałowi",
+      "desc": "Kiedy HP spadnie do 50% Maks HP, tworzy 2 Drzewa Pragnień i zmienia zachowanie."
     },
     {
       "id": 805801,
-      "name": "Fairy Lure",
-      "desc": "When the fairy is attacked, only that part loses HP."
+      "name": "Wróżkowa Przynęta [ta i pare nastepnych nieuzyte]",
+      "desc": "Kiedy Wróżka jest atakowana, tylko ta część traci HP."
     },
     {
       "id": 805802,
-      "name": "Exposed Base",
-      "desc": "When the fairy part is broken, the roots can be attacked next turn.\nAll parts gain 1 Attack Power Up, 2 Bind, and 3 Fragile next turn."
+      "name": "Odsłonięta Podstawa",
+      "desc": "Kiedy Wróżka zostanie zniszczona, Korzenie mogą być atakowane podczas następnej tury.\nWszyskie części zyskują 1 Większej Mocy Ataku, 2 Spętania, i 3 Kruchości na początku następnej tury."
     },
     {
       "id": 805803,
-      "name": "Spare Lure",
-      "desc": "The fairy regenerates the turn after the roots are exposed. (One time only)\nAfter the roots are exposed 3 times or destroyed, the unit is enraged."
+      "name": "Zapasowa Przynęta",
+      "desc": "Wróżka regeneruje się . (One time only)\nAfter the roots are exposed 3 times or destroyed, ta jednostka is enraged."
     },
     {
       "id": 805804,
       "name": "Discovered Weakness",
-      "desc": "If the fairy has Tremor, it takes damage by its Potency at the end of the turn. (Max 20)"
+      "desc": "Jeśli the fairy has Tremor, it takes damage by its Potency at the end of the turn. (Maks 20)"
     },
     {
       "id": 805805,
       "name": "Connected Weakness",
-      "desc": "If the part has Burn, it takes more damage based on its Potency. (Max +15%)"
+      "desc": "Jeśli the part has Podpalenia, it takes more damage based on its Potency. (Maks +15%)"
     },
     {
       "id": 805901,
       "name": "Manufactured Respite",
-      "desc": "If the giant clover is present, this unit heals 30 HP at the end of the turn."
+      "desc": "Jeśli the giant clover is present, ta jednostka heals 30 HP at the end of the turn."
     },
     {
       "id": 805902,
-      "name": "Lost Means",
-      "desc": "When the arm is broken, the unit gains 2 Attack Power Down every turn."
+      "name": "Zniszczone Narzędzia",
+      "desc": "Kiedy Ręka zostanie zniszczona, ta jednostka zyskuje 2 Mniejszej Mocy Ataku na początku każdej tury."
     },
     {
       "id": 805903,
-      "name": "Damaged Shade",
-      "desc": "When the head is broken, the unit gains 4 Defense Level Down and 1 Fragile every turn."
+      "name": "Uszkodzony Cień",
+      "desc": "Kiedy Głowa zostanie zniszczona, ta jednostka zyskuje 4 Mniejszego Poziomu Obrony i 1 Kruchości na początku każdej tury."
     },
     {
       "id": 806201,
-      "name": "Contaminating Leaf",
-      "desc": "At the start of the turn, give 1 HP Healing Boost and 1 Attack Power Up to Fairy-Long-Legs."
+      "name": "Zanieczyszczający Liść",
+      "desc": "Na początku tury, daje Wróżce Długonóżce 1 Wzmocnienie Leczenia HP i 1 Większej Mocy Ataku."
     },
     {
       "id": 80620101,
-      "name": "Contaminating Leaf",
-      "desc": "At the start of the turn, give 1 HP Healing Boost and 1 Attack Power Up to Fairy-Long-Legs."
+      "name": "Zanieczyszczający Liść",
+      "desc": "Na początku tury, daje Wróżce Długonóżce 1 Wzmocnienie Leczenia HP i 1 Większej Mocy Ataku."
     },
     {
       "id": 826301,
-      "name": "Momentary Satiation",
-      "desc": "Turn End: If the ally with [PreparedMeat] is at 1 HP, kill the ally; then, all Parts gain 5 [Vulnerable], [Reduction], and [Disarming]."
+      "name": "Chwilowa Satysfakcja",
+      "desc": "Koniec Tury: Jeśli sojusznik z [PreparedMeat] ma 1 HP, zabij tego sojusznika, po czym wszystkie części zyskują 5 [Vulnerable], [Reduction], i [Disarming]."
     },
     {
       "id": 826302,
-      "name": "Ravening Hunger",
-      "desc": "Turn Start: If there are surviving allies at 25%- HP, kill all allies.\nHeal (# of allies killed x 5)% of max Core HP.\nTurn End: If there are no surviving allies, gain 20 [Enhancement] next turn."
+      "name": "Wilczy Apetyt",
+      "desc": "Początek Tury: Jeśli obecni są sojusznicy z mniej niż 25% HP, zabij wszystkich sojuszników.\nUlecz (# zabitych sojuszników x 5)% Maks HP Rdzenia.\nKoniecTury: Jeśli nie ma obecnych sojuszników, zyskaj 20 [Enhancement] na początku następnej tury."
     },
     {
       "id": 826303,
-      "name": "Torn Arm",
-      "desc": "When an Arm is broken, the Body gains 5 Bleed at every Turn Start."
+      "name": "Oderwana Ręka",
+      "desc": "Kiedy Ręka zostanie zniszczona, Ciało zyskuje 5 Krwawienia na początku każdej tury."
     },
     {
       "id": 826304,
-      "name": "Invitation to a Meal",
-      "desc": "Turn End: All Sinners heal 10 SP, and gain +1 E.G.O resource for all Affinities"
+      "name": "Zaproszenie Do Posiłku",
+      "desc": "Koniec Tury: Wszyscy Grzesznicy leczą 10 SP, i zyskują +1 zasobów E.G.O dla wszystkich Grzechów"
     },
     {
       "id": 826501,
-      "name": "Empty Belly",
-      "desc": "Turn End: If the ally with [PreparedMeat] is Staggered, kill the ally."
+      "name": "Burczenie W Brzuchu",
+      "desc": "Koniec Tury: Jeśli sojusznik z [PreparedMeat] jest zachwiany, zabij tego sojusznika."
     },
     {
       "id": 826502,
-      "name": "Bottomless Hunger",
-      "desc": "After defeating an ally, heal 20 Core HP; then, gain 1 [Vulnerable] next turn."
+      "name": "Bezdenny Głód",
+      "desc": "Po pokonaniu sojusznika, ulecz 20 HP Rdzenia, po czym zyskaj 1 [Vulnerable] na początku następnej tury."
     },
     {
       "id": 826503,
-      "name": "Hunger",
-      "desc": "Turn End: If this unit failed to defeat an ally with Prepared Meat, gain 1 [Hunger]. At 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: If this unit defeated an ally with Prepared Meat, lose 1 [Hunger]."
+      "name": "Głód",
+      "desc": "Koniec Tury: Jeśli tej jednostce nie udało się pokonać sojusznika z [PreparedMeat], zyskaj 1 [Hunger]. Mając 75%- HP, zyskaj 2. Mając 50%- HP, zyskaj 3.\nPoczątek tury: Jeśli ta jednostka pokonała sojusznika z [PreparedMeat], traci 1 [Hunger]."
     },
     {
       "id": 826504,
-      "name": "Momentary Satiation",
-      "desc": "Turn End: At 0 [Hunger], gain (allies defeated this turn x 3) [AttackDown] and [DefenseDown]."
+      "name": "Chwilowa Satysfakcja",
+      "desc": "Koniec Tury: Mając 0 [Hunger], zyskuje (# sojuszników pokonanych w tej turze x 3) [AttackDown] i [DefenseDown]."
     },
     {
       "id": 826505,
-      "name": "Ravening Hunger",
-      "desc": "Turn End: At 4 [Hunger], gain a stronger pattern."
+      "name": "Wilczy Apetyt",
+      "desc": "Koniec Tury: Mając 4 [Hunger], zmienia zachowanie na silniejsze."
     },
     {
       "id": 811801,
-      "name": "Returning Past",
-      "desc": "If at 50+ [AccumulatedPastMirror], and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 [AccumulatedPastMirror] at Turn End"
+      "name": "Powracająca Przeszłość",
+      "desc": "Jeśli ta jednostka ma 50+ [AccumulatedPastMirror], i jeśli HP Rdzena jest poniżej 80%, Rdzeń zyskuje 200 HP zużywając przy tym 50 [AccumulatedPastMirror] na końcu tury"
     },
     {
       "id": 811802,
-      "name": "Misplaced Past",
-      "desc": "When the body is broken, spend all Accumulated Past.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting next turn until the end of this encounter."
+      "name": "Zagubiona Przeszłość",
+      "desc": "Kiedy Ciało zostanie zniszczone, zużywa całą Skumulowaną Przeszłość.\nDodatkowo, wszystkie Typy Ataku i Grzechy stają się niefektywne(0.5) przeciwko Ciału zaczynając od początku następnej tury aż do końca tej potyczki."
     },
     {
       "id": 811808,
-      "name": "Metronome",
-      "desc": "If the [AccumulatedPastMirror] is an odd number, gain 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, gain 3 [Protection] and [AttackDmgDown]"
+      "name": "Metronom",
+      "desc": "Jeśli wartość [AccumulatedPastMirror] jest nieparzysta, zyskaj 3 [Vulnerable] i [AttackDmgUp]\nJeśli jest parzysta, zyskaj 3 [Ochrony] i [AttackDmgDown]"
     },
     {
       "id": 826401,
-      "name": "Care",
-      "desc": "Turn Start: Heal 15% of max HP"
+      "name": "Opieka",
+      "desc": "Początek Tury: Ulecz 15% Maks HP"
     },
     {
       "id": 826402,
-      "name": "Keep It Fresh",
-      "desc": "HP does not drop below 1"
+      "name": "Ma Być Swieże",
+      "desc": "HP nie spada poniżej 1"
     },
     {
       "id": 814201,
-      "name": "Dueling",
-      "desc": "When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gain 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP."
-    },
-    {
-      "id": 124501,
-      "name": "The Queen's Defenders",
-      "desc": "When this unit gets attacked, take -70% Skill damage, and transfer that Skill's damage to a random ally.\n(Prioritizes allies with [PreparedMeat]; does not activate if there are no allies; this damage does not kill the affected allies)"
+      "name": "Pojedynek",
+      "desc": "Kiedy HP spadnie do 50%, Dongbaek używa specjalnej zdolności celującej w 1 jednostkę, po czym staje się odporna na Zachwianie i Panikę na 2 następne tury.\nJeśli Yi Sang ma 'Pojecynek', Dongbaek zyskuje 1 Większej Mocy Ataku.\nJeśli Yi Sang wygra pojecynek, wszyscy sojusznicy zyskują 3 Większych Obrażeń na początku następnej tury.\nIf Dongbaek wygra pojecynek, Dongbaek w pełni leczy SP."
     }
   ]
 }

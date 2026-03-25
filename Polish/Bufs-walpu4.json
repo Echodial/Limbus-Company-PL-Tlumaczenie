@@ -3,91 +3,91 @@
     {
       "id": "RedEyeFirst",
       "name": "Czerwone Oczy",
-      "desc": "- Base Skill Coin effects inflict +1 more Bleed\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The amount of additional bleed inflicted by the first line of this buff is equal to the buff enhancement Stage (max 3)",
+      "desc": "- Efekty Monety Bazowych Zdolności nakładają +1 dodatkowego Krwawienia\n- Maks Wartość : 20\n- Specjalne Naładowanie (stała Siła)\n- Używane przez Zdolności dla dodatkowych efektów\n- Przechodzi na kolejny Poziom zależnie od Wartości\n· Poziom 1 (1~7) : Czerwone Oczy\n· Poziom 2 (8~15) : Czerwone Oczy - Pobudzone\n· Poziom 3 (16~20) : Czerwone Oczy - Drapieżne\n- Liczba dodatkowego Krwawienia opisanego w pierwszej linijce tego efektu jest równa jego Poziomowi (maks 3)",
       "summary": ""
     },
     {
       "id": "RedEyeSecond",
       "name": "Czerwone Oczy - Pobudzone",
-      "desc": "- Base Skill Coin effects inflict +2 more Bleed\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The amount of additional bleed inflicted by the first line of this buff is equal to the buff enhancement Stage (max 3)",
+      "desc": "- Efekty Monety Bazowych Zdolności nakładają +2 dodatkowego Krwawienia\n- Maks Wartość : 20\n- Specjalne Naładowanie (stała Siła)\n- Używane przez Zdolności dla dodatkowych efektów\n- Przechodzi na kolejny Poziom zależnie od Wartości\n· Poziom 1 (1~7) : Czerwone Oczy\n· Poziom 2 (8~15) : Czerwone Oczy - Pobudzone\n· Poziom 3 (16~20) : Czerwone Oczy - Drapieżne\n- Liczba dodatkowego Krwawienia opisanego w pierwszej linijce tego efektu jest równa jego Poziomowi (maks 3)",
       "summary": ""
     },
     {
       "id": "RedEyeThird",
       "name": "Czerwone Oczy - Drapieżne",
-      "desc": "- Base Skill Coin effects inflict +3 more Bleed\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The amount of additional bleed inflicted by the first line of this buff is equal to the buff enhancement Stage (max 3)",
+      "desc": "- Efekty Monety Bazowych Zdolności nakładają +3 dodatkowego Krwawienia\n- Maks Wartość : 20\n- Specjalne Naładowanie (stała Siła)\n- Używane przez Zdolności dla dodatkowych efektów\n- Przechodzi na kolejny Poziom zależnie od Wartości\n· Poziom 1 (1~7) : Czerwone Oczy\n· Poziom 2 (8~15) : Czerwone Oczy - Pobudzone\n· Poziom 3 (16~20) : Czerwone Oczy - Drapieżne\n- Liczba dodatkowego Krwawienia opisanego w pierwszej linijce tego efektu jest równa jego Poziomowi (maks 3)",
       "summary": ""
     },
     {
       "id": "PenanceFirst",
       "name": "Niebiańska Skrucha",
-      "desc": "- Heal 2 SP On Hit with Base Skill Coins that gain Penitence\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Turn Start: gain (Penitence)% of max HP as Shield\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The amount of SP healed by the first line of this buff is based on the enhancement Stage (enhancement Stage x 2)",
+      "desc": "- Przy trafieniu Bazowymi Zdolnościami, które zyskują Niebiańską Skruchę, ulecz 2 SP\n- Maks Wartość : 20\n- Specjalne Naładowanie (stała Siła)\n- Początek Tury: Zyskaj Tarczę równą (Niebiańska Skrucha)% Maks HP\n- Używane przez Zdolności dla dodatkowych efektów\n- Przechodzi na kolejny Poziom zależnie od Wartości\n· Poziom 1 (1~7) : Niebiańska Skrucha\n· Poziom 2 (8~15) : Niebiańska Skrucha - Ztłamszona\n· Poziom 3 (16~20) : Niebiańska Skrucha - Wyspowiadana\n- Liczba leczenia SP opisanego w pierwszej linijce tego efektu jest zależna od jego Poziomu (Poziom x 2)",
       "summary": ""
     },
     {
       "id": "PenanceSecond",
       "name": "Niebiańska Skrucha - Ztłamszona",
-      "desc": "- Heal 4 SP On Hit with Base Skill Coins that gain Penitence\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Turn Start: gain (Penitence)% of max HP as Shield\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The amount of SP healed by the first line of this buff is based on the enhancement Stage (enhancement Stage x 2)",
+      "desc": "- Przy trafieniu Bazowymi Zdolnościami, które zyskują Niebiańską Skruchę, ulecz 4 SP\n- Maks Wartość : 20\n- Specjalne Naładowanie (stała Siła)\n- Początek Tury: Zyskaj Tarczę równą (Niebiańska Skrucha)% Maks HP\n- Używane przez Zdolności dla dodatkowych efektów\n- Przechodzi na kolejny Poziom zależnie od Wartości\n· Poziom 1 (1~7) : Niebiańska Skrucha\n· Poziom 2 (8~15) : Niebiańska Skrucha - Ztłamszona\n· Poziom 3 (16~20) : Niebiańska Skrucha - Wyspowiadana\n- Liczba leczenia SP opisanego w pierwszej linijce tego efektu jest zależna od jego Poziomu (Poziom x 2)",
       "summary": ""
     },
     {
       "id": "PenanceThird",
       "name": "Niebiańska Skrucha - Wyspowiadana",
-      "desc": "- Heal 6 SP On Hit with Base Skill Coins that gain Penitence\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Turn Start: gain (Penitence)% of max HP as Shield\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The amount of SP healed by the first line of this buff is based on the enhancement Stage (enhancement Stage x 2)",
+      "desc": "- Przy trafieniu Bazowymi Zdolnościami, które zyskują Niebiańską Skruchę, ulecz 6 SP\n- Maks Wartość : 20\n- Specjalne Naładowanie (stała Siła)\n- Początek Tury: Zyskaj Tarczę równą (Niebiańska Skrucha)% Maks HP\n- Używane przez Zdolności dla dodatkowych efektów\n- Przechodzi na kolejny Poziom zależnie od Wartości\n· Poziom 1 (1~7) : Niebiańska Skrucha\n· Poziom 2 (8~15) : Niebiańska Skrucha - Ztłamszona\n· Poziom 3 (16~20) : Niebiańska Skrucha - Wyspowiadana\n- Liczba leczenia SP opisanego w pierwszej linijce tego efektu jest zależna od jego Poziomu (Poziom x 2)",
       "summary": ""
     },
     {
       "id": "Emptiness",
       "name": "I W Proch Się Obrócisz",
-      "desc": "- Cannot maintain Red Eyes & Penitence\n- When gaining Red Eyes with Base Skill effects, heal self and 1 ally with the lowest HP percentage by (Red Eyes gained)% of this unit's max HP (2 times per turn)\n- When gaining Penitence with Base Skill effects, heal self and 1 ally with the least SP by ((Penitence gained)/2) SP (2 times per turn)\n- Turn End: this effect expires",
+      "desc": "- Nie możesz utrzymać Czerwonych Oczu & Niebiańskiej Skruchy\n- Zyskując Czerwone Oczy efektami Bazowych Zdolności, ulecz siebie i 1 sojusznika z najniższym procentem HP o (zyskane Czerwone Oczy)% maks HP tej jednostki (2 razy na turę)\n- Zyskując Niebiańską Skruchę efektami Bazowych Zdolności, ulecz siebie i 1 sojusznika z najniższym SP o ((zyskana Niebiańska Skrucha)/2) SP (2 razy na turę)\n- Koniec Tury: ten efekt wygasa",
       "summary": ""
     },
     {
       "id": "SinkingWhite",
-      "name": "Butterfly",
-      "desc": "- Unique Sinking\n- Base Value: 0, Max Value: 15\n- When hit, the attacker heals {2} SP.\n- When hit, and if this unit's SP is at less than 0, take {3} Gloom damage.\n- Turn End: Reset The Departed of this effect to 0; gain Sinking equal to The Living(Potency) and convert The Living into The Departed(Count).\n- This effect expires when both The Living and The Departed reach 0.",
+      "name": "Motyle",
+      "desc": "- Specjalne Zrozpaczenie\n- Bazowa Wartość: 0, Maks Wartość: 15\n- Kiedy ta jednostka zostanie trafiona, agresor leczy się o {2} SP.\n- Kiedy ta jednostka zostanie trafiona, a jej SP jest poniżej 0, otrzymuje {3} obrażeń od Przygnębienia.\n- Koniec Tury: Zresetuj Wartość Tych, Co Już Odeszli tego efektu do 0; zyskaj Zrozpaczenie równe Tym, Co Jeszcze Żyją(Sile) i zamień Tych, Co Jeszcze Żyją w Tych, Co Już Odeszli(Ilość).\n- Ten efekt wygasa kiedy zarówno Ci, Co Jeszcze Żyją i Ci, Co Już Odeszli spadną do 0.",
       "summary": ""
     },
     {
       "id": "SinkingBlack",
       "name": "!!!OUDATED EFFECT!!!",
-      "desc": "",
+      "desc": "Make her a member of the midnight crew or something idk",
       "summary": ""
     },
     {
       "id": "BulletLament",
-      "name": "The Living & The Departed",
-      "desc": "- Unique Ammo\n- Potency + Count = Max 20\n- Consumed for certain Skills.\n- When consumed, randomly selected between The Living(Potency) or The Departed(Count).\n- Some attacks cancel if lacking Ammo.",
+      "name": "Ci, Co Jeszcze Żyją & Ci, Co Już Odeszli",
+      "desc": "- Specjalna Amunicja\n- Siła + Ilość = Maks 20\n- Zużywane przez Zdolności.\n- Zużywając ten efekt, zużywani są losowo albo Ci, Co Jeszcze Żyją(Siła) albo Ci, Co Już Odeszli(Ilość).\n- Niektóre ataki zostaną anulowane, jeśli brakuje im amunicji.",
       "summary": ""
     },
     {
       "id": "TrainTeamCaptain",
-      "name": "Training Team Captain",
-      "desc": "Skill Slot +1\nModify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\nTurn Start: heal 15 SP\nIncrease the amount of Burn, Bleed, Rupture, Sinking, or Tremor inflicted by +1 (including 'Unique Status Effects')\nIncrease the amount of Poise or Charge(including 'Unique Charge') gained by +1\nOn Kill, Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities",
+      "name": "Kapitan Zespołu Treningowego",
+      "desc": "+1 Żeton Zdolności\nZmienia pulę Zdolności.: Zyskaj 1 użycie 3 Zdolności, ale strać 1 użycie 1 Zdolności\nPoczątek Tury: ulecz 15 SP\nZwiększ liczbę nakładanych Podpalenia, Krwawienia, Pęknięcia, Zrozpaczenia, czy Drżenia o +1 (licząc 'Specjalne Efekty')\nZwiększ liczbę zyskiwanych Tchnienia i Naładowania(licząc 'Specjalne Naładowanie') o +1\nPo Zabiciu, zyskaj +2 zasoby E.G.O Grzechu Zdolności, która pokonała cel; zyskaj +1 zasobu E.G.O pozostałych Grzechów",
       "summary": ""
     },
     {
       "id": "VioletUnderstand",
-      "name": "Understanding",
-      "desc": "- Deal +5% more damage per Stack\n- Take +5% more damage per Stack\n(max value : 5)",
+      "name": "Zrozumienie",
+      "desc": "- +5% zadawanych obrażeń za każdą Wartość\n- +5% otrzymywanych obrażeń za każdą Wartość\n(maks Wartość : 5)",
       "summary": ""
     },
     {
       "id": "MentalCrack",
-      "name": "Mental Fracture",
-      "desc": "SP Loss Efficiency +1 per Stack (max 5)\nExpires when it reaches 5 Stack, and take 10 SP damage\nLose 1 Stack per turn",
+      "name": "Rozbicie Mentalne",
+      "desc": "+1 Efektywności utraty SP za każdą Wartość (maks 5)\nWygasa po osiągnięciu 5 Wartości, zadając przy tym 10 obrażeń SP\nZmniejsz Wartość o 1 na końcu tury",
       "summary": ""
     },
     {
       "id": "ImpendingCollapse",
-      "name": "Imminent Decay",
-      "desc": "Turn End: Lose 1 Stack\nTurn Start: At 1- Stack, use a special Skill",
+      "name": "Nadchodzący Rozkład",
+      "desc": "Koniec Tury: Zmniejsz Wartość o 1\nPoczątek Tury: Mając 1- Wartości, używa specjalnej Zdolności",
       "summary": ""
     },
     {
       "id": "ReloadLament",
-      "name": "Reload",
-      "desc": "- Consume (30 - (The Living + The Departed))/2 SP. (rounded down)\n- Reset both The Living and The Departed values on self to 0, and gain the max value of their sum based on the probabilities listed in the Passive 'ISeeTheDyingButterfly.'\n- On Reload, gain at least 1 of The Living and The Departed.",
+      "name": "Przeładuj",
+      "desc": "- Zużyj (30 - (Ci, Co Jeszcze Żyją + Ci, Co Już Odeszli))/2 SP. (zaokrąglone w dół)\n- Zresetuj wartości zarówno Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli na sobie do 0, i zyskaj maks wartość ich sumy według prawdopodobieństwa podanego w Zdolności Pasywnej 'Na barkach skrzynkę poniesiem śmiertelną.'\n- Przeładowując zyskaj co najmniej po 1 of Ci, Co Jeszcze Żyją anid Ci, Co Już Odeszli.",
       "summary": ""
     }
   ]
