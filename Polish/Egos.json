@@ -247,7 +247,7 @@
     },
     {
       "id": 20505,
-      "name": "Regret",
+      "name": "Żal",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
@@ -302,27 +302,27 @@
     },
     {
       "id": 21205,
-      "name": "Garden of Thorns",
+      "name": "Ogród Cierni",
       "desc": "Gregor’s E.G.O Gear"
     },
     {
       "id": 21206,
-      "name": "Bygone Days",
+      "name": "Minione Dni",
       "desc": "Gregor’s E.G.O Gear"
     },
     {
       "id": 20106,
-      "name": "Bygone Days",
+      "name": "Minione Dni",
       "desc": "Yi Sang’s E.G.O Gear"
     },
     {
       "id": 20306,
-      "name": "Electric Screaming",
+      "name": "Elektryczny Wrzask",
       "desc": "Don Quixote’s E.G.O Gear"
     },
     {
       "id": 20506,
-      "name": "Electric Screaming",
+      "name": "Elektryczny Wrzask",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "id": 20806,
-      "name": "Wingbeat",
+      "name": "Trzepot Skrzydeł",
       "desc": "Ishmael’s E.G.O Gear"
     },
     {
@@ -367,7 +367,7 @@
     },
     {
       "id": 20707,
-      "name": "Fell Bullet",
+      "name": "Przeklęty Pocisk",
       "desc": "Heathcliff’s E.G.O Gear"
     },
     {
@@ -377,12 +377,12 @@
     },
     {
       "id": 21207,
-      "name": "Solemn Lament",
+      "name": "Uroczysty Lament",
       "desc": "Gregor’s E.G.O Gear"
     },
     {
       "id": 20807,
-      "name": "Bygone Days",
+      "name": "Minione Dni",
       "desc": "Ishmael’s E.G.O Gear"
     },
     {
@@ -407,32 +407,32 @@
     },
     {
       "id": 20507,
-      "name": "Yearning-Mircalla",
+      "name": "Pragnienie - Mircalla",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
       "id": 20307,
-      "name": "Yearning-Mircalla",
+      "name": "Pragnienie - Mircalla",
       "desc": "Don Quixote’s E.G.O Gear"
     },
     {
       "id": 20107,
-      "name": "Fell Bullet",
+      "name": "Przeklęty Pocisk",
       "desc": "Yi Sang’s E.G.O Gear"
     },
     {
       "id": 20708,
-      "name": "Asymmetrical Inertia",
+      "name": "Asymetryczne Wstrzymanie",
       "desc": "Heathcliff’s E.G.O Gear"
     },
     {
       "id": 20808,
-      "name": "Christmas Nightmare",
+      "name": "Świąteczny Koszmar",
       "desc": "Ishmael’s E.G.O Gear"
     },
     {
       "id": 21208,
-      "name": "Christmas Nightmare",
+      "name": "Świąteczny Koszmar",
       "desc": "Gregor’s E.G.O Gear"
     },
     {
@@ -457,12 +457,12 @@
     },
     {
       "id": 20308,
-      "name": "Red Sheet",
+      "name": "Czerwona Płachta",
       "desc": "Don Quixote’s E.G.O Gear"
     },
     {
       "id": 20809,
-      "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+      "name": "Zabójczy Robak o Stu Nogach [蝍蛆殺]",
       "desc": "Ishmael’s E.G.O Gear"
     },
     {
@@ -477,17 +477,17 @@
     },
     {
       "id": 20309,
-      "name": "In the Name of Love and Hate",
+      "name": "W Imieniu Miłości Oraz Nienawiści",
       "desc": "Don Quixote’s E.G.O Gear"
     },
     {
       "id": 20508,
-      "name": "Crushbound Past",
+      "name": "Miażdżąca Przeszłość",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
       "id": 20209,
-      "name": "Rozkaz :: Załamanie",
+      "name": "Rozkaz :: Rozłam",
       "desc": "Faust’s E.G.O Gear"
     },
     {
@@ -497,17 +497,17 @@
     },
     {
       "id": 20810,
-      "name": "Tidal Elegy",
+      "name": "Elegia Fal",
       "desc": "Ishmael’s E.G.O Gear"
     },
     {
       "id": 21209,
-      "name": "Unbrilliant Glory",
+      "name": "Chwała Pozbawiona Blasku",
       "desc": "Gregor’s E.G.O Gear"
     },
     {
       "id": 20709,
-      "name": "Move-in Reg.",
+      "name": "Zameldowanie",
       "desc": "Heathcliff’s E.G.O Gear"
     },
     {
@@ -517,18 +517,23 @@
     },
     {
       "id": 20108,
-      "name": "Great Trichiliocosm [三千大世界]",
+      "name": "Wielki Trychiliokosm [三千大世界]",
       "desc": "Yi Sang’s E.G.O Gear"
     },
     {
       "id": 20409,
-      "name": "Great Trichiliocosm [三千大世界]",
+      "name": "Wielki Trychiliokosm [三千大世界]",
       "desc": "Ryōshū’s E.G.O Gear"
     },
     {
       "id": 21009,
       "name": "Harmonia",
       "desc": "Sinclair’s E.G.O Gear"
+    },
+    {
+      "id": 20210,
+      "name": "Gwiazda Płomiennego Rozkwitu",
+      "desc": "Faust’s E.G.O Gear"
     }
   ]
 }
