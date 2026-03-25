@@ -170,7 +170,7 @@
           "level": 3,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">3.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">35%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n<style=\"highlight\">- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Potency Nałóżed (Maks 5)</style>\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">3.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">35%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n<style=\"highlight\">- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks 5)</style>\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +212,7 @@
           "level": 4,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">50%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe (<style=\"highlight\">2</style> x (Najwyższy Rezonans)) (Maks <style=\"highlight\">10</style>)\n- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Potency Nałóżed (Maks <style=\"highlight\">10</style>)\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">50%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe (<style=\"highlight\">2</style> x (Najwyższy Rezonans)) (Maks <style=\"highlight\">10</style>)\n- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks <style=\"highlight\">10</style>)\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
@@ -262,7 +262,7 @@
           "level": 1,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(1.5 x (Różnica Prędkości))% więcej obrażeń (Maks 12%)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż 3 [Vibration] Potency<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(1.5 x (Różnica Prędkości))% więcej obrażeń (Maks 12%)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż 3 [Vibration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
           "level": 4,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">2.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">20%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks <style=\"highlight\">5</style>)\n- [BeforeAttack] Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, <style=\"highlight\">Nałóż Ilości [Vibration] by [Vibration] Potency Nałóżed (Maks 5)</style>",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli główny Cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">2.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">20%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks <style=\"highlight\">5</style>)\n- [BeforeAttack] Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, <style=\"highlight\">Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks 5)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -850,7 +850,188 @@
                 }
               ]
             }
+          ],
+    {
+      "id": 2021011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gwiazda Płomiennego Rozkwitu",
+          "abName": "Ćma Płomiennego Rozkwitu",
+          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)"
+                }
+              ]
+            }
           ]
+        },
+        {
+          "level": 3,
+          "name": "Gwiazda Płomiennego Rozkwitu",
+          "abName": "Ćma Płomiennego Rozkwitu",
+          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gwiazda Płomiennego Rozkwitu",
+          "abName": "Ćma Płomiennego Rozkwitu",
+          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż Ilość [Combustion] równą (Rezonans Gniewu / 3) (maks 2; zaokrąglone w dół)</style>"
+                },
+                {
+                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gwiazda Płomiennego Rozkwitu",
+          "abName": "Ćma Płomiennego Rozkwitu",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Losowo rozdziel 3 [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Gwiazda Płomiennego Rozkwitu",
+          "abName": "Ćma Płomiennego Rozkwitu",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Losowo rozdziel 3 [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gwiazda Płomiennego Rozkwitu",
+          "abName": "Ćma Płomiennego Rozkwitu",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (<style=\"highlight\">maks 15</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż Ilość [Combustion] równą (Rezonans Gniewu / 3) (maks 2; zaokrąglone w dół)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Losowo rozdziel <style=\"highlight\">6</style> [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
         }
       ]
     }
