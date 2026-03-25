@@ -681,7 +681,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rozkaz :: Załamanie",
+          "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
           "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +1 Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o 15% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP<style=\"highlight\"></style>",
           "coinlist": [
@@ -699,7 +699,7 @@
         },
         {
           "level": 3,
-          "name": "Rozkaz :: Załamanie",
+          "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
           "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">2</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n<style=\"highlight\">- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o 1.5</style>\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o <style=\"highlight\">20</style>% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP",
           "coinlist": [
@@ -717,7 +717,7 @@
         },
         {
           "level": 4,
-          "name": "Rozkaz :: Załamanie",
+          "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
           "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">3</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks <style=\"highlight\">25</style>%)\n- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o <style=\"highlight\">2</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o <style=\"highlight\">30</style>% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz <style=\"highlight\">15</style> SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP",
           "coinlist": [
@@ -740,7 +740,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rozkaz :: Załamanie",
+          "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą HP straconemu przez ten efekt\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
@@ -773,7 +773,7 @@
         },
         {
           "level": 3,
-          "name": "Rozkaz :: Załamanie",
+          "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
           "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli główny cel ma 6+ (sumy Nasilenia [Burst] oraz Ilości [Burst]), +1 Bazowej Mocy</style>\n[BeforeAttack] Przy <style=\"highlight\">3</style>+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą HP straconemu przez ten efekt\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
           "coinlist": [
@@ -809,7 +809,7 @@
         },
         {
           "level": 4,
-          "name": "Rozkaz :: Załamanie",
+          "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
           "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">+1 Bazowej Mocy za każde 6 (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 2)</style>\n<style=\"highlight\">[BeforeAttack] Zyskaj +1 Wagi Ataku za każde 3 najwyższego Rezonansu (maks 2)</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą <style=\"highlight\">(HP stracone przez ten efekt x 2)</style>\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
           "coinlist": [
