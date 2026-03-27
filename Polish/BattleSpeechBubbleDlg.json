@@ -1206,7 +1206,7 @@
     {
       "id": "battle_enemy_break_10402_1",
       "desc": "",
-      "dlg": "Ogarnęłam gdzię ich najbardziej boli."
+      "dlg": "Wiem już gdzie najbardziej ich boli."
     },
     {
       "id": "battle_kill_10402_1",
@@ -1921,7 +1921,7 @@
     {
       "id": "battle_kill_11203_1",
       "desc": "",
-      "dlg": "Następny."
+      "dlg": "Dawać następnego."
     },
     {
       "id": "battle_break_11203_1",
@@ -1941,7 +1941,7 @@
     {
       "id": "battle_enemy_break_10504_1",
       "desc": "",
-      "dlg": "Bezsensowny opór."
+      "dlg": "Bezcelowy opór."
     },
     {
       "id": "battle_kill_10504_1",
@@ -2036,7 +2036,7 @@
     {
       "id": "battle_endcommand_10704_1",
       "desc": "",
-      "dlg": "“O…czyścić.” Czy tak to szło?"
+      "dlg": "“O…czyścić.” Tak to szło?"
     },
     {
       "id": "battle_enemy_break_10704_1",
@@ -2091,12 +2091,12 @@
     {
       "id": "battle_select_11104_1",
       "desc": "############ Seven South Sect6 Outis ############",
-      "dlg": "Czy masz opinię którą chcesz mi przekazać?"
+      "dlg": "Czy masz opinię, którą chcesz mi przekazać?"
     },
     {
       "id": "battle_endcommand_11104_1",
       "desc": "",
-      "dlg": "Pójdę na przód."
+      "dlg": "Stanę na przodzie."
     },
     {
       "id": "battle_enemy_break_11104_1",
@@ -2106,7 +2106,7 @@
     {
       "id": "battle_kill_11104_1",
       "desc": "",
-      "dlg": "I po jednym."
+      "dlg": "I już po jednym."
     },
     {
       "id": "battle_break_11104_1",
@@ -2116,17 +2116,17 @@
     {
       "id": "battle_dead_11104_1",
       "desc": "",
-      "dlg": "Tak jak się obawiałam... Nie jestem stworzona do pracy w polu..."
+      "dlg": "Było tak jak się obawiałam... Widocznie nie byłam stworzona do pracy w polu..."
     },
     {
       "id": "battle_s3_11104_1",
       "desc": "",
-      "dlg": "Tak jak przewidziałam."
+      "dlg": "Zgodnie z przewidzeniami."
     },
     {
       "id": "battle_s3_11104_1-01",
       "desc": "",
-      "dlg": "Tak jak przewidziałam!"
+      "dlg": "Zgodnie z przewidzeniami!"
     },
     {
       "id": "battle_select_10404_1",
@@ -2136,17 +2136,17 @@
     {
       "id": "battle_endcommand_10404_1",
       "desc": "",
-      "dlg": "A jak ty będziesz smakować?"
+      "dlg": "A ty jak będziesz smakować?"
     },
     {
       "id": "battle_enemy_break_10404_1",
       "desc": "",
-      "dlg": "Muszę się upewnić że upuściłam całą krew."
+      "dlg": "Muszę się upewnić, że upuściłam całą krew."
     },
     {
       "id": "battle_kill_10404_1",
       "desc": "",
-      "dlg": "Patrz, naglę wyglądasz bardzo użytecznie."
+      "dlg": "Patrz, nagle wyglądasz bardzo użytecznie."
     },
     {
       "id": "battle_break_10404_1",
@@ -2156,7 +2156,7 @@
     {
       "id": "battle_dead_10404_1",
       "desc": "",
-      "dlg": "Nie myślałam że to ja... Będe głównym składnikiem..."
+      "dlg": "Nie myślałam że to ja... Zostanę głównym składnikiem..."
     },
     {
       "id": "battle_s3_10404_1_1",
@@ -2181,7 +2181,7 @@
     {
       "id": "battle_select_11204_1",
       "desc": "############ R.B. Sous-chef Gregor ############",
-      "dlg": "Jezu, nie strasz mnie tak! Prawię cię uciąłem tasakiem."
+      "dlg": "Jezu, nie strasz mnie tak! Prawię cię ciachnąłem tym tasakiem."
     },
     {
       "id": "battle_endcommand_11204_1",
@@ -2191,7 +2191,7 @@
     {
       "id": "battle_enemy_break_11204_1",
       "desc": "",
-      "dlg": "Ucięcie tu~ Odcięcie tam~"
+      "dlg": "Ucięcie tu~ Nacięcie tam~"
     },
     {
       "id": "battle_kill_11204_1",
@@ -2236,7 +2236,7 @@
     {
       "id": "battle_dead_10304_1",
       "desc": "",
-      "dlg": "Krh... Lecz... Pozostały  jeszcze- niewykonane czyny..."
+      "dlg": "Krh... Lecz... Pozostały jeszcze- niewykonane czyny..."
     },
     {
       "id": "battle_select_11005_1",
@@ -2246,12 +2246,12 @@
     {
       "id": "battle_endcommand_11005_1",
       "desc": "",
-      "dlg": "Do przodu przez ogień."
+      "dlg": "Do przodu przez płomień."
     },
     {
       "id": "battle_enemy_break_11005_1",
       "desc": "",
-      "dlg": "...Bardzo dobrze."
+      "dlg": "...Dobrze."
     },
     {
       "id": "battle_kill_11005_1",
@@ -2306,7 +2306,7 @@
     {
       "id": "battle_break_10505_1",
       "desc": "",
-      "dlg": "*ostry wdech*."
+      "dlg": "*ostry wdech*"
     },
     {
       "id": "battle_dead_10505_1",
@@ -2331,7 +2331,7 @@
     {
       "id": "battle_kill_10905_1",
       "desc": "",
-      "dlg": "Dobra, z tym skończyłam!"
+      "dlg": "Okej, z tym już skończyłam!"
     },
     {
       "id": "battle_break_10905_1",
@@ -2341,7 +2341,7 @@
     {
       "id": "battle_dead_10905_1",
       "desc": "",
-      "dlg": "Gdybym wiedziała że to tak się skończy... To bym wczoraj... zagrała o wyższe stawki."
+      "dlg": "Gdybym wiedziała że to tak się skończy... To bym wczoraj... zagrała o wyższą stawkę."
     },
     {
       "id": "battle_s3_10905_1_2",
@@ -2356,7 +2356,7 @@
     {
       "id": "battle_endcommand_10705_1",
       "desc": "",
-      "dlg": "Ubije cię na miazgę."
+      "dlg": "Ubije was na miazgę."
     },
     {
       "id": "battle_enemy_break_10705_1",
@@ -2386,7 +2386,7 @@
     {
       "id": "battle_select_11205_1",
       "desc": "############ Rosespanner Gregor ############",
-      "dlg": "Co tam, chcesz coś dać do naprawy?"
+      "dlg": "Co tam, chcesz zostawić coś do naprawy?"
     },
     {
       "id": "battle_endcommand_11205_1",
@@ -2401,7 +2401,7 @@
     {
       "id": "battle_kill_11205_1",
       "desc": "",
-      "dlg": "Opłaciło się ją wczoraj naostrzyć."
+      "dlg": "Opłaciło się ją wczoraj ostrzyć."
     },
     {
       "id": "battle_break_11205_1",
@@ -2446,7 +2446,7 @@
     {
       "id": "battle_dead_10104_1",
       "desc": "",
-      "dlg": "Gdy... nadejdzie pora... Będe musiał zwiędnąć..."
+      "dlg": "Gdy... nadejdzie pora... ja też będe musiał zwiędnąć..."
     },
     {
       "id": "battle_s3_10104_1_4",
@@ -2476,7 +2476,7 @@
     {
       "id": "battle_break_10805_1",
       "desc": "",
-      "dlg": "Bwegh..."
+      "dlg": "Bleee..."
     },
     {
       "id": "battle_dead_10805_1",
@@ -2501,7 +2501,7 @@
     {
       "id": "battle_kill_10605_1",
       "desc": "",
-      "dlg": "Widze, że została z was tylko kałuża."
+      "dlg": "No i została z was tylko kałuża."
     },
     {
       "id": "battle_break_10605_1",
@@ -2541,12 +2541,12 @@
     {
       "id": "battle_dead_11006_1",
       "desc": "",
-      "dlg": "Ah... A więc na końcu... przestaje boleć..."
+      "dlg": "Ah... A więc na końcu... przestają boleć..."
     },
     {
       "id": "battle_s3_11006_1_2-03",
       "desc": "",
-      "dlg": "O tak!"
+      "dlg": "Właśnie tak!"
     },
     {
       "id": "battle_select_10806_1",
@@ -2586,12 +2586,12 @@
     {
       "id": "battle_select_10506_1",
       "desc": "############ R Corp. 4th Pack Rhino Meursault ############",
-      "dlg": "Nie jest tu dla ciebie bezpiecznie."
+      "dlg": "Nie jesteś tu bezpieczne."
     },
     {
       "id": "battle_endcommand_10506_1",
       "desc": "",
-      "dlg": "Haah!"
+      "dlg": "Haa!"
     },
     {
       "id": "battle_enemy_break_10506_1",
@@ -2611,7 +2611,7 @@
     {
       "id": "battle_dead_10506_1",
       "desc": "",
-      "dlg": "Ah... czy będe musiał powrórzyć proces selekcji...?"
+      "dlg": "Ah... czy będe musiał powtórzyć proces selekcji...?"
     },
     {
       "id": "battle_s3_10506_1_1",
@@ -7828,7 +7828,7 @@
 	{
         "id": "battle_s3_10115_1_6",
         "desc": "",
-        "dlg": "<i><color=#50acff>*beep*</color></i> Hah... Oto nadpływają fale."
+        "dlg": "<i><color=#50acff>*biiip*</color></i> Hah... I oto nadpływają fale."
 	},
     {
         "id": "battle_special_10115_1",
@@ -7883,7 +7883,7 @@
     {
         "id": "battle_special_10115_11",
         "desc": "",
-        "dlg": "Jakbym był w Narace Avīci oraz Rauravy. (阿鼻叫喚)"
+        "dlg": "Jak Naraka Avīci oraz Rauravy. (阿鼻叫喚)"
     },
     {
         "id": "battle_special_10115_12",
@@ -7918,7 +7918,7 @@
     {
         "id": "battle_special_10115_16-1",
         "desc": "",
-        "dlg": "<i><color=#50acff>*piii*</color></i> Wola Hermesa."
+        "dlg": "<i><color=#50acff>*biiip*</color></i> Wola Hermesa."
     },
     {
         "id": "battle_special_10115_16-2",
@@ -7933,92 +7933,92 @@
   {
     "id": "battle_select_10514_1",
     "desc": "########### Hornet E.G.O Meursault ###########",
-    "dlg": "My weapon was designed for the sole purpose of inflicting bodily harm. If you are in need of Sanity recuperation, please search for a different Agent."
+    "dlg": "Mój oręż został stwożony wyłącznie w celu zadawania fizycznych obrażeń. Jeśl wymagasz wsparcia odnośnie stanu swojego Zdrowia Psychicznego, zalecam abyś znalazło innego Agenta."
   },
   {
     "id": "battle_endcommand_10514_1",
     "desc": "",
-    "dlg": "All that's needed is the will to hit bullseye."
+    "dlg": "Wymaga jedynie woli, aby trafić w cel."
   },
   {
     "id": "battle_enemy_break_10514_1",
     "desc": "",
-    "dlg": "Suppression target is exhibiting signs of fatigue."
+    "dlg": "Cel neutralizacji zaczyna pokazywać oznaki zmęczenia."
   },
   {
     "id": "battle_break_10514_1",
     "desc": "",
-    "dlg": "Agh... Requesting a shot of HP-N Bullet."
+    "dlg": "Agh... Wnoszę prośbę o jeden strzał Pociskiem PŻ-N."
   },
   {
     "id": "battle_kill_10514_1",
     "desc": "",
-    "dlg": "Target neutralized. Moving on to the next suppression target..."
+    "dlg": "Cel zneutralizowany. Przechodzę do neutralizacji następnego celu..."
   },
   {
     "id": "battle_dead_10514_1",
     "desc": "",
-    "dlg": "... I thought I would die by an Execution Bullet... or during Management... but...\nWhat a rare experience to cap it off..."
+    "dlg": "... Myślałem że umrę od Pocisku Egzekucyjnego... lub podczas Zarządzania... ale...\nzamiast tego mam szczęście zakończyć mój żywot tak niecodziennym doświadczeniem..."
   },
   {
     "id": "battle_s3_10514_1_1",
     "desc": "",
-    "dlg": "Dust Spark, Field test successful."
+    "dlg": "Test polowy Iskrzącego Prochu zakończony sukcesem."
   },
   {
     "id": "battle_special_10514_1",
     "desc": "",
-    "dlg": "Reload."
+    "dlg": "Przeładowuję."
   },
   {
     "id": "battle_special_10514_2",
     "desc": "",
-    "dlg": "... Ammo depleted."
+    "dlg": "... Rezerwa amunicji zużyta."
   },
   {
     "id": "battle_special_10514_3",
     "desc": "",
-    "dlg": "... The objective is to defend the colony."
+    "dlg": "... celem jest obrona kolonii."
   },
   {
     "id": "battle_special_10514_4",
     "desc": "",
-    "dlg": "Double fire."
+    "dlg": "Podwójny wystrzał."
   },
   {
     "id": "battle_special_10514_5",
     "desc": "",
-    "dlg": "Aiming is not a necessity."
+    "dlg": "Dokładne celowanie nie jest konieczne."
   },
   {
     "id": "battle_special_10514_6-1",
     "desc": "",
-    "dlg": "Target confirmed."
+    "dlg": "Cel potwierdzony."
   },
   {
     "id": "battle_special_10514_6-2",
     "desc": "",
-    "dlg": "Needle Bullets."
+    "dlg": "Seria Pociskami Żądlącym."
   },
   {
     "id": "battle_special_10514_6-3",
     "desc": "",
-    "dlg": "Trench Shot."
+    "dlg": "Łuska Okopowa."
   },
   {
     "id": "battle_special_10514_6-4",
     "desc": "",
-    "dlg": "Buckshot ammo, Field test successful."
+    "dlg": "Test polowy Dostosowanego Pocisku typu Śrut zakończony sukcesem."
   },
   {
     "id": "battle_special_10514_6-5",
     "desc": "",
-    "dlg": "Incendiary ammo, Field test successful."
+    "dlg": "Test polowy Dostosowanego Pocisku typu Zapalający zakończony sukcesem."
   },
   {
     "id": "battle_special_10514_7",
     "desc": "",
-    "dlg": "Hm, spare ammo recovered."
+    "dlg": "Hm, rezerwowa amunicja została odzyskana."
   },
 
   {
@@ -8079,7 +8079,7 @@
   {
     "id": "battle_special_10414_1-3",
     "desc": "",
-    "dlg": "Opuściłeś garde."
+    "dlg": "Opuściliście garde."
   },
   {
     "id": "battle_special_10414_1-4",
