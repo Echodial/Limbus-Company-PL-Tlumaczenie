@@ -119,7 +119,7 @@
       "id": 24,
       "teller": "Głąbowaty Chuligan",
       "title": "Tylne Ulice Czwartego Dystryktu",
-      "content": "Ej! Zostawić wszystkie swoje rzeczy na pokładzie i wysiadać! Macie 30 sekund! Dziesięć! Dziewięć!"
+      "content": "Ej! Jeśli cenicie swoje życia to zostawcie wszystkie swoje rzeczy na pokładzie i wysiadajcie! Macie 30 sekund! Dziesięć! Dziewięć!"
     },
     {
       "id": 25,
@@ -136,7 +136,7 @@
     {
       "id": 27,
       "model": "이스마엘",
-      "content": "Ehh, czemu ja ciągle jestem otoczona przez tępaków."
+      "content": "Ehh, czemu ja zawsze jestem otoczona przez tępaków."
     },
     {
       "id": 28,
@@ -146,7 +146,7 @@
     {
       "id": 29,
       "model": "돈키호테",
-      "content": "Cóż za tchóżliwe kmiotki, zastawili na nas zasadzkę i jeszcze każą nam zostawić broń! Nie posiadam do tego faktu cienia zwątpienia, za tymi drzwiami czeka nas banda rzezimieszków!"
+      "content": "Cóż za tchóżliwe kmiotki, zastawili na nas zasadzkę i jeszcze każą nam zostawić broń! Nie posiadam do tego faktu cienia zwątpienia, za tymi drzwiami czeka na nas banda rzezimieszków!"
     },
     {
       "id": 30,
@@ -156,7 +156,7 @@
     {
       "id": 31,
       "model": "베르길리우스",
-      "content": "A, i jeszcze jedno: nie chcemy ich utłuc na śmierć, tylko bardzo blisko do niej. Zrozumiano?"
+      "content": "A, i jeszcze jedno: starajcie się nie utłuc ich na śmierć, tylko bardzo blisko niej. Zrozumiano?"
     }
   ]
 }
