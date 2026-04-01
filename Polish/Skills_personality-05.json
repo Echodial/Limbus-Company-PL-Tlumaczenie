@@ -142,7 +142,7 @@
         {
           "level": 3,
           "name": "Zapisywanie",
-          "desc": "Przy 4+ Rezonansie Zazd., Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Przy 4+ Rezonansie Zazd., +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -168,7 +168,7 @@
         {
           "level": 4,
           "name": "Zapisywanie",
-          "desc": "Przy 4+ Rezonansie Zazd., Moc Monet +1\nPrzy 6+ A-Rezonansie Zazd., Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Przy 4+ Rezonansie Zazd., +1 Mocy Monet\nPrzy 6+ A-Rezonansie Zazd., +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -185,7 +185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie [RetaliationBook], Nałóż 2 [VioletTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie [RetaliationBook], Nałóż <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Kruchości Przed Zazdrością</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -220,7 +220,7 @@
         {
           "level": 4,
           "name": "Wielokrotny Odwet",
-          "desc": "Przy 4+ Rezonansie Zazd., Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Przy 4+ Rezonansie Zazd., +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -246,7 +246,7 @@
         {
           "level": 1,
           "name": "Dobycie Miecza",
-          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 2,
           "name": "Dobycie Miecza",
-          "desc": "<style=\"highlight\">[StartBattle] Przyznaj 1 [BladeResultUpTier1] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)\n</style>[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "desc": "<style=\"highlight\">[StartBattle] Przyznaj 1 [BladeResultUpTier1] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)\n</style>[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -288,7 +288,7 @@
         {
           "level": 3,
           "name": "Dobycie Miecza",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Przyznaj 1 [BladeResultUpTier1] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)</color>\n[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Przyznaj 1 [BladeResultUpTier1] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)</color>\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -309,7 +309,7 @@
         {
           "level": 4,
           "name": "Dobycie Miecza",
-          "desc": "<style=\"highlight\">Przy 5+ [Breath], Moc Monet +1</style>\n[StartBattle] Przyznaj 1 [BladeResultUpTier1] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)\n<style=\"highlight\">- Jeśli w drużynie jest co najmniej 6 sojuszników z Rodowodu Ostrza, zamiast tego przyznaj im 2 [BladeResultUpTier1]</style>\n[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "desc": "<style=\"highlight\">Przy 5+ <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, +1 Mocy Monet</style>\n[StartBattle] Przyznaj 1 [BladeResultUpTier1] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)\n<style=\"highlight\">- Jeśli w drużynie jest co najmniej 6 sojuszników z Rodowodu Ostrza, zamiast tego przyznaj im 2 [BladeResultUpTier1]</style>\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -335,12 +335,12 @@
         {
           "level": 1,
           "name": "Akupunktura",
-          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -357,12 +357,12 @@
         {
           "level": 2,
           "name": "Akupunktura",
-          "desc": "<style=\"highlight\">[StartBattle] Przyznaj 1 [BladeResultUpTier2] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)</style>\n[WhenUse] Zyskaj +2 Ilości [Breath]\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury",
+          "desc": "<style=\"highlight\">[StartBattle] Przyznaj 1 [BladeResultUpTier2] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)</style>\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -379,12 +379,12 @@
         {
           "level": 3,
           "name": "Akupunktura",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Przyznaj 1 [BladeResultUpTier2] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)</color>\n[WhenUse] Zyskaj +2 Ilości [Breath]\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Przyznaj 1 [BladeResultUpTier2] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)</color>\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -401,12 +401,12 @@
         {
           "level": 4,
           "name": "Akupunktura",
-          "desc": "<style=\"highlight\">Przy 7+ [Breath], Moc Monet +1</style>\n[StartBattle] Przyznaj 1 [BladeResultUpTier2] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)\n<style=\"highlight\">- Jeśli w drużynie jest co najmniej 6 sojuszników z Rodowodu Ostrza, zamiast tego przyznaj im 2 [BladeResultUpTier2]</style>\n[WhenUse] Zyskaj +3 Ilości [Breath]\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury",
+          "desc": "<style=\"highlight\">Przy 7+ <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, +1 Mocy Monet</style>\n[StartBattle] Przyznaj 1 [BladeResultUpTier2] dla (najwyższy A-Rezon.) innych sojuszników z Rodowodu Ostrza w kolejności zależnej od ich Prędkości (od najwolniejszego do najszybszego, 2 razy maks)\n<style=\"highlight\">- Jeśli w drużynie jest co najmniej 6 sojuszników z Rodowodu Ostrza, zamiast tego przyznaj im 2 [BladeResultUpTier2]</style>\n[WhenUse] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[WinDuel] Zyskaj 1 [SlashResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -428,7 +428,7 @@
         {
           "level": 3,
           "name": "Przegrać Bitwę",
-          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WinDuel] Zyskaj 5 [Breath]\n[DefeatDuel] Po zostaniu trafionym, użyj Zdolności 'Wygrać Wojnę'\n[CriticalActivated] Zadaj +2% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 50%)\n+15% Obrażeń przy Trafieniu Krytycznym\nZadaj +0.5% dodatkowych obrażeń za każdy 1% brakującego HP na sobie (Maks 25%)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WinDuel] Zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[DefeatDuel] Po zostaniu trafionym, użyj Zdolności 'Wygrać Wojnę'\n[CriticalActivated] +2% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 50%)\n+15% Obrażeń przy Trafieniu Krytycznym\nZadaj +0.5% dodatkowych obrażeń za każdy 1% brakującego HP na sobie (Maks 25%)<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -436,7 +436,7 @@
         {
           "level": 4,
           "name": "Przegrać Bitwę",
-          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WinDuel] Zyskaj 5 [Breath]\n[DefeatDuel] Po zostaniu trafionym, użyj Zdolności 'Wygrać Wojnę'\n[CriticalActivated] Zadaj +3% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 75%)\n+30% Obrażeń przy Trafieniu Krytycznym\nZadaj +0.5% dodatkowych obrażeń za każdy 1% brakującego HP na sobie (Maks 25%)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WinDuel] Zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[DefeatDuel] Po zostaniu trafionym, użyj Zdolności 'Wygrać Wojnę'\n[CriticalActivated] +3% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 75%)\n+30% Obrażeń przy Trafieniu Krytycznym\nZadaj +0.5% dodatkowych obrażeń za każdy 1% brakującego HP na sobie (Maks 25%)<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -454,7 +454,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -463,12 +463,12 @@
         {
           "level": 4,
           "name": "Obalenie",
-          "desc": "[WhenUse] Zyskaj 1 [SlashResultUp] na początku następnej tury (1 time maks)\n<style=\"highlight\">Zadaj +0.5% dodatkowych obrażeń za każdy 1% brakującego HP na sobie (Maks 25%)</style>",
+          "desc": "[WhenUse] Zyskaj 1 [SlashResultUp] na początku następnej tury (1 time maks)\n<style=\"highlight\"> +0.5% dodatkowych obrażeń za każdy 1% brakującego HP na sobie (Maks 25%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -482,7 +482,7 @@
         {
           "level": 1,
           "name": "Wygrać Wojnę",
-          "desc": "[BeforeAttack] Przy 10+ [Breath], Waga Ataku +1\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WhenUse] Zadaj +2% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 50%)\n+20% Obrażeń przy Trafieniu Krytycznym\nZadaj +0.5% dodatkowych obrażeń za każde 1% brakującego HP na sobie (Maks 25%)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Przy 10+ <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, +1 Wagi Ataku\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WhenUse] +2% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 50%)\n+20% Obrażeń przy Trafieniu Krytycznym\n +0.5% dodatkowych obrażeń za każde 1% brakującego HP na sobie (Maks 25%)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -490,10 +490,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Paralysis] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "Wygrać Wojnę",
-          "desc": "<style=\"highlight\">[BeforeAttack] Za każde 7 [Breath] na sobie, Waga Ataku +1 (Maks +2)</style>\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WhenUse] Zadaj +2% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 50%)\n+<style=\"highlight\">30</style>% Obrażeń przy Trafieniu Krytycznym\nZadaj +0.5% dodatkowych obrażeń za każde 1% brakującego HP na sobie (Maks 25%)\n<style=\"highlight\">Jeśli ta Zdolność jest wymierzona w tylko jednego przeciwnika, zadaj +100% dodatkowych obrażeń (W Skupionych Potyczkach - jedną Część)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] Za każde 7 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie, +1 Wagi Ataku (Maks +2)</style>\n[WhenUse] Do chwili zakończenia tej Zdolności, ta jednostka nie może zostać Zachwiana od otrzymanych obrażeń\n[WhenUse] +2% dodatkowych obrażeń przy Trafieniu Krytycznym za każdą Siłę Tchnienia na sobie (Maks 50%)\n+<style=\"highlight\">30</style>% Obrażeń przy Trafieniu Krytycznym\n +0.5% dodatkowych obrażeń za każde 1% brakującego HP na sobie (Maks 25%)\n<style=\"highlight\">Jeśli ta Zdolność jest wymierzona w tylko jednego przeciwnika, +100% dodatkowych obrażeń (W Skupionych Potyczkach - jedną Część)</style>",
           "coinlist": [
             {},
             {},
@@ -510,10 +510,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Paralysis] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -532,7 +532,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -541,12 +541,12 @@
         {
           "level": 2,
           "name": "Walnięcie Kijem",
-          "desc": "Jeśli cel ma na sobie 5+ [Burst], Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma na sobie 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -555,12 +555,12 @@
         {
           "level": 4,
           "name": "Walnięcie Kijem",
-          "desc": "Jeśli cel ma na sobie 5+ [Burst], Moc Monet +<style=\"highlight\">2</style>",
+          "desc": "Jeśli cel ma na sobie 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +<style=\"highlight\">2</style> Mocy Monet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -580,10 +580,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ [Burst], Nałóż 2 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -592,16 +592,16 @@
         {
           "level": 2,
           "name": "Łomot",
-          "desc": "[WinDuel] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>",
+          "desc": "[WinDuel] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ [Burst], Nałóż 2 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -610,16 +610,16 @@
         {
           "level": 4,
           "name": "Łomot",
-          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 6+ [Burst], Moc Monet +1</style>\n[WinDuel] Nałóż +2 Ilości [Burst]",
+          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +1 Mocy Monet</style>\n[WinDuel] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 4+ [Burst], Nałóż 2 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 4+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -633,7 +633,7 @@
         {
           "level": 3,
           "name": "Bez Litości",
-          "desc": "[WhenUse] Jeśli cel ma na sobie 6+ [Burst], Moc Monet +1\n[WinDuel] Nałóż 2 [AttackDown]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +1 Mocy Monet\n[WinDuel] Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -641,10 +641,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ [Burst], Nałóż 2 [AttackDown] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -653,7 +653,7 @@
         {
           "level": 4,
           "name": "Bez Litości",
-          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 3+ [Burst], Moc Starcia +1</style>\n[WhenUse] Jeśli cel ma na sobie 6+ [Burst], Moc Monet +1\n[WinDuel] Nałóż 2 [AttackDown]",
+          "desc": "<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +1 Mocy Starcia</style>\n[WhenUse] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +1 Mocy Monet\n[WinDuel] Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color>",
           "coinlist": [
             {},
             {},
@@ -661,10 +661,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ [Burst], Nałóż 2 [AttackDown] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, Nałóż 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -711,13 +711,13 @@
         {
           "level": 1,
           "name": "Oddanie Nauce",
-          "desc": "Zyskaj ([KnowledgeExplored] x 3% of Maks HP) Tarczy jeśli ta Zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 3% Maks HP) Tarczy jeśli ta Zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najwyższego poziomu we wszystkich Żetonach Ataku tej jednostki<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -726,13 +726,13 @@
         {
           "level": 2,
           "name": "Oddanie Nauce",
-          "desc": "Zyskaj ([KnowledgeExplored] x <style=\"highlight\">4%</style> of Maks HP) Tarczy jeśli ta Zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki\n<style=\"highlight\">[WhenUse] Przy 2+ [KnowledgeExplored], Moc Starcia +1\n[WinDuel] Zyskaj 2 [KnowledgeTraining] (raz na turę)</style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x <style=\"highlight\">4%</style> Maks HP) Tarczy jeśli ta Zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki\n<style=\"highlight\">[WhenUse] Przy 2+ <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color>, +1 Mocy Starcia\n[WinDuel] Zyskaj 2 <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycji</link></u></color> (raz na turę)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -741,13 +741,13 @@
         {
           "level": 4,
           "name": "Oddanie Nauce",
-          "desc": "Zyskaj ([KnowledgeExplored] x <style=\"highlight\">5%</style> of Maks HP) Tarczy jeśli ta Zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki\n<style=\"highlight\">[WhenUse] Zyskaj ([KnowledgeExplored] - 1) Moc Starcia (maks 2)</style>\n[WinDuel] Zyskaj 2 [KnowledgeTraining] (raz na turę)",
+          "desc": "Zyskaj ([KnowledgeExplored] x <style=\"highlight\">5%</style> Maks HP) Tarczy jeśli ta Zdolność zostanie Odrzucona\n[WhenUse] [Discard] 1 Zdolność najniższego poziomu we wszystkich Żetonach Ataku tej jednostki\n<style=\"highlight\">[WhenUse] Zyskaj ([KnowledgeExplored] - 1) Mocy Starcia (maks 2)</style>\n[WinDuel] Zyskaj 2 <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycji</link></u></color> (raz na turę)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -761,13 +761,13 @@
         {
           "level": 1,
           "name": "Niech to będzie nauczka",
-          "desc": "[StartBattle] Zyskaj [KnowledgeTraining] równe [KnowledgeExplored] na sobie\n[WhenUse] [Discard] 2 Zdolności tej jednostki z wszystkich  Żetonów Ataku w zwiększającej się kolejności ich poziomu<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Zyskaj <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycję</link></u></color> równą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color> na sobie\n[WhenUse] [Discard] 2 Zdolności tej jednostki z wszystkich  Żetonów Ataku w zwiększającej się kolejności ich poziomu<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż [Sinking] równe <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -776,13 +776,13 @@
         {
           "level": 2,
           "name": "Niech to będzie nauczka",
-          "desc": "<style=\"highlight\">Zadaj +3% dodatkowych obrażeń za każde [KnowledgeExplored] na sobie (maks 9%)</style>\n[StartBattle] Przyznaj [KnowledgeTraining] równe [KnowledgeExplored] na sobie <style=\"highlight\"> dla losowego sojusznika</style> i siebie <style=\"highlight\">(wpływa w pierwszej kolejności na sojuszników którzy mogą [Discard]'ić i mają najmniej [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 Zdolności tej jednostki z wszystkich  Żetonów Ataku w zwiększającej się kolejności ich poziomu\n<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 6+ [Sinking], Moc Monet +1</style>",
+          "desc": "<style=\"highlight\">+3% dodatkowych obrażeń za każdą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzę</link></u></color> na sobie (maks 9%)</style>\n[StartBattle] Przyznaj <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycję</link></u></color> równą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color> na sobie <style=\"highlight\"> dla losowego sojusznika</style> i siebie <style=\"highlight\">(wpływa w pierwszej kolejności na sojuszników którzy mogą <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Odrzucać</link></u></color> Zdolności i mają najmniej <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycji</link></u></color> równą)</style>\n[WhenUse] [Discard] 2 Zdolności tej jednostki z wszystkich  Żetonów Ataku w zwiększającej się kolejności ich poziomu\n<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>, +1 Mocy Monet</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Sinking] równe [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż [Sinking] równe <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -791,7 +791,7 @@
         {
           "level": 4,
           "name": "Niech to będzie nauczka",
-          "desc": "Zadaj <style=\"highlight\">+5%</style> dodatkowych obrażeń za każde [KnowledgeExplored] na sobie (maks <style=\"highlight\">15%</style>)\n[StartBattle] Przyznaj [KnowledgeTraining] równe [KnowledgeExplored] na sobie <style=\"highlight\">dla 2 losowych sojuszników</style> i siebie (wpływa w pierwszej kolejności na sojuszników którzy mogą [Discard]'ić i mają najmniej [KnowledgeTraining])\n[WhenUse] [Discard] 2 Zdolności tej jednostki z wszystkich  Żetonów Ataku w zwiększającej się kolejności ich poziomu\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Sinking] na celu (maks 2)</style>",
+          "desc": "<style=\"highlight\">+5%</style> dodatkowych obrażeń za każdą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzę</link></u></color> na sobie (maks <style=\"highlight\">15%</style>)\n[StartBattle] Przyznaj <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycję</link></u></color> równą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color> na sobie <style=\"highlight\">dla 2 losowych sojuszników</style> i siebie (wpływa w pierwszej kolejności na sojuszników którzy mogą <sprite name=\"Discard\"><color=#9f6a3a><u><link=\"Discard\">Odrzucać</link></u></color> Zdolności i mają najmniej <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycji</link></u></color> równą)\n[WhenUse] [Discard] 2 Zdolności tej jednostki z wszystkich  Żetonów Ataku w zwiększającej się kolejności ich poziomu\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na celu (maks 2)</style>",
           "coinlist": [
             {},
             {
@@ -811,14 +811,14 @@
         {
           "level": 3,
           "name": "Wypalenie Wiedzy",
-          "desc": "Zadaj +3% dodatkowych obrażeń za każde [KnowledgeExplored] na sobie (maks 18%)\n[WhenUse] Jeśli cel ma na sobie 6+ [Sinking], Moc Monet +1\n[BeforeAttack] Zużyj całe [KnowledgeTraining] na sobie, po czym zyskaj połowę tej wartości jako dodatkowa [KnowledgeExplored] (zaokrąglone w dół)\n[EndSkill] Przy 4+ [KnowledgeExplored], zmniejsz wartość do 1 (jeśli ta Zdolność pokona przeciwnika, zamiast tego zmniejsz wartość do 3)<style=\"highlight\"></style>",
+          "desc": "+3% dodatkowych obrażeń za każdą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzę</link></u></color> na sobie (maks 18%)\n[WhenUse] Jeśli cel ma na sobie 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>, +1 Mocy Monet\n[BeforeAttack] Zużyj całą <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycję</link></u></color> na sobie, po czym zyskaj połowę tej wartości jako dodatkowa [KnowledgeExplored] (zaokrąglone w dół)\n[EndSkill] Przy 4+ <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color>, zmniejsz wartość do 1 (jeśli ta Zdolność pokona przeciwnika, zamiast tego zmniejsz wartość do 3)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż na cel Siłę/Ilość [Sinking] równe wartości [KnowledgeExplored] (ile z tego [Sinking] będzie Siłą czy Ilością jest okreslone losowo)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż na cel Siłę/Ilość <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> równe wartości <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color> (ile z tego <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> będzie Siłą czy Ilością jest okreslone losowo)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -827,14 +827,14 @@
         {
           "level": 4,
           "name": "Wypalenie Wiedzy",
-          "desc": "Zadaj <style=\"highlight\">+5%</style> dodatkowych obrażeń za każde [KnowledgeExplored] (maks <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Sinking] na celu (maks 2)</style>\n[BeforeAttack] Zużyj całe [KnowledgeTraining] na sobie by zyskać <style=\"highlight\">tyle samo</style> dodatkowej [KnowledgeExplored]\n[EndSkill] Przy 4+ [KnowledgeExplored], zmniejsz wartość do 1 (jeśli ta Zdolność pokona przeciwnika, zamiast tego zmniejsz wartość do 3 )",
+          "desc": "<style=\"highlight\">+5%</style> dodatkowych obrażeń za każdą <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzę</link></u></color> (maks <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> na celu (maks 2)</style>\n[BeforeAttack] Zużyj całą <sprite name=\"KnowledgeTraining\"><color=#ffc700><u><link=\"KnowledgeTraining\">Erudycję</link></u></color> na sobie by zyskać <style=\"highlight\">tyle samo</style> dodatkowej [KnowledgeExplored]\n[EndSkill] Przy 4+ <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color>, zmniejsz wartość do 1 (jeśli ta Zdolność pokona przeciwnika, zamiast tego zmniejsz wartość do 3 )",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż na cel Siłę/Ilość [Sinking] równe wartości [KnowledgeExplored] (ile z tego [Sinking] będzie Siłą czy Ilością jest okreslone losowo)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż na cel Siłę/Ilość <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> równe wartości <sprite name=\"KnowledgeExplored\"><color=#9f6a3a><u><link=\"KnowledgeExplored\">Wiedzy</link></u></color> (ile z tego <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> będzie Siłą czy Ilością jest okreslone losowo)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -881,12 +881,12 @@
         {
           "level": 1,
           "name": "Allez",
-          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -896,12 +896,12 @@
         {
           "level": 2,
           "name": "Allez",
-          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, Moc Monet +1\n[WhenUse] Jeśli cel ma na sobie 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami Siły [Burst], ale też nie zużywa przy trafieiniu Ilości [Burst]\n[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, +1 Mocy Monet\n[WhenUse] Jeśli cel ma na sobie 15+ Siły i 3+ Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ta Zdolność nie nakłada swoimi efektami Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ale też nie zużywa przy trafieiniu jego Ilości\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -917,12 +917,12 @@
         {
           "level": 4,
           "name": "Allez",
-          "desc": "Jeśli ta jednostka jest szybsza od celu, zyskaj Moc Monet zależną od różnicy Prędkości (Moc Monet +1 za każde 3 różnicy Prędkości; maks 2)\n[WhenUse] Jeśli cel ma na sobie 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami Siły [Burst], ale też nie zużywa przy trafieiniu Ilości [Burst]\n[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka jest szybsza od celu, zyskaj Moc Monet zależną od różnicy Prędkości (+1 Mocy Monet za każde 3 różnicy Prędkości; maks 2)\n[WhenUse] Jeśli cel ma na sobie 15+ Siły i 3+ Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ta Zdolność nie nakłada swoimi efektami Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ale też nie zużywa przy trafieiniu jego Ilości\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -946,26 +946,26 @@
         {
           "level": 1,
           "name": "Fente",
-          "desc": "[WinDuel] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "[WinDuel] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -974,29 +974,29 @@
         {
           "level": 2,
           "name": "Fente",
-          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, Moc Monet +1\n[WhenUse] Jeśli cel ma na sobie 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami Siły ani Ilości [Burst], ale też nie zużywa przy trafieiniu Ilości [Burst]\n[WinDuel] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, +1 Mocy Monet\n[WhenUse] Jeśli cel ma na sobie 15+ Siły i 3+ Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ta Zdolność nie nakłada swoimi efektami Siły ani Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ale też nie zużywa przy trafieiniu jego Ilości\n[WinDuel] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Przy 7+ Prędkości, Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Przy 7+ Prędkości, Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1005,19 +1005,19 @@
         {
           "level": 4,
           "name": "Fente",
-          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, Moc Monet +1\n[WhenUse] Jeśli cel ma na sobie 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie nakłada swoimi efektami Siły ani Ilości [Burst], ale też nie zużywa przy trafieiniu Ilości [Burst]\n[WinDuel] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, +1 Mocy Monet\n[WhenUse] Jeśli cel ma na sobie 15+ Siły i 3+ Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ta Zdolność nie nakłada swoimi efektami Siły ani Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ale też nie zużywa przy trafieiniu jego Ilości\n[WinDuel] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1027,10 +1027,10 @@
                   "desc": "<style=\"highlight\">Jeśli ta jednostka nie nakłada [Burst], +5% Obrażeń przy Trafieniu Krytycznym za każdą Siłę i Ilość [Burst], którą zwykle by nałożyła</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Przy 7+ Prędkości, Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Przy 7+ Prędkości, Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "Salut",
-          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 2 lub więcej, Moc Monet +1\n[WhenUse] Jeśli cel ma na sobie 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie zużywa Ilości [Burst]\n[WinDuel] Zyskaj 5 [Breath]\n- Jeśli cel ma na sobie [ConcentratedAttackMeursault], zyskaj 5 dodatkowe [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli Prędkość tej jednostki jest większa od tej celu o 2 lub więcej, +1 Mocy Monet\n[WhenUse] Jeśli cel ma na sobie 15+ Siły i 3+ Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ta Zdolność nie zużywa Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>\n[WinDuel] Zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n- Jeśli cel ma na sobie [ConcentratedAttackMeursault], zyskaj 5 dodatkowego <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1063,7 +1063,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zadaj +10% dodatkowych obrażeń za każdy [ConcentratedAttackMeursault] na tym Żetonie<style=\"highlight\"></style>"
+                  "desc": "+10% dodatkowych obrażeń za każdy [ConcentratedAttackMeursault] na tym Żetonie<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "+30% Obrażeń przy Trafieniu Krytycznym<style=\"highlight\"></style>"
@@ -1075,7 +1075,7 @@
         {
           "level": 4,
           "name": "Salut",
-          "desc": "<style=\"highlight\">Jeśli ta jednostka jest szybsza od celu, zyskaj Moc Monet zależną od różnicy Prędkości (Moc Monet +1 za każde 2 różnicy Prędkości; maks 3)</style>\n[WhenUse] Jeśli cel ma na sobie 15+ [Burst] i 3+ Ilości [Burst], ta Zdolność nie zużywa Ilości [Burst]\n[WinDuel] Zyskaj 5 [Breath]\n- Jeśli cel ma na sobie [ConcentratedAttackMeursault], zyskaj 5 dodatkowe [Breath]",
+          "desc": "<style=\"highlight\">Jeśli ta jednostka jest szybsza od celu, zyskaj Moc Monet zależną od różnicy Prędkości (+1 Mocy Monet za każde 2 różnicy Prędkości; maks 3)</style>\n[WhenUse] Jeśli cel ma na sobie 15+ Siły i 3+ Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, ta Zdolność nie zużywa Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>\n[WinDuel] Zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n- Jeśli cel ma na sobie [ConcentratedAttackMeursault], zyskaj 5 dodatkowego <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1094,13 +1094,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zadaj <style=\"highlight\">+20%</style> dodatkowych obrażeń za każde [ConcentratedAttackMeursault] na tym Żetonie"
+                  "desc": "<style=\"highlight\">+20%</style> dodatkowych obrażeń za każde [ConcentratedAttackMeursault] na tym Żetonie"
                 },
                 {
                   "desc": "+30% Obrażeń przy Trafieniu Krytycznym<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Zadaj +2% Obrażeń przy Trafieniu Krytycznym za każde [Burst] na celu (maks 30%)</style>"
+                  "desc": "<style=\"highlight\">- +2% Obrażeń przy Trafieniu Krytycznym za każde [Burst] na celu (maks 30%)</style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EndSkill] Jeśli ta Moneta pokonała cel lub zniszczyła Część, jeden raz Użyj tej Zdolności ponownie przeciwko losowemu celowi (Nie aktywuje się przy Ponownym Użyciu)</style>"
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "Défensive",
-          "desc": "[WhenUse] Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, Moc Monet +2<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeśli Prędkość tej jednostki jest większa od tej celu o 3 lub więcej, +2 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1171,7 +1171,7 @@
         {
           "level": 2,
           "name": "Podwójne Cięcie - Wybuch [爆]",
-          "desc": "<style=\"highlight\">Ostateczna Moc +1 za każde 4 (suma [Combustion] i [Vibration] na głównym celu) (maks 2)</style>",
+          "desc": "<style=\"highlight\">+1 Ostatecznej Mocy za każde 4 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu) (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1198,7 +1198,7 @@
         {
           "level": 4,
           "name": "Podwójne Cięcie - Wybuch [爆]",
-          "desc": "Ostateczna Moc +1 za każde 4 (suma [Combustion] i [Vibration] na głównym celu) (maks <style=\"highlight\">3</style>)",
+          "desc": "+1 Ostatecznej Mocy za każde 4 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu) (maks <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,10 +1213,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -1252,10 +1252,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1264,7 +1264,7 @@
         {
           "level": 2,
           "name": "Potrójne Cięcie - Wybuch [爆]",
-          "desc": "<style=\"highlight\">Ostateczna Moc +1 za każde 4 (suma [Combustion] i [Vibration] na głównym celu) (maks 2)</style>",
+          "desc": "<style=\"highlight\">+1 Ostatecznej Mocy za każde 4 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu) (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1292,13 +1292,13 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel ma na sobie 3+ Ilości [Vibration], aktywuj [VibrationExplosion]; po tym zmniejsz Ilość [Vibration] o 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel ma na sobie 3+ Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, aktywuj [VibrationExplosion]; po tym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1</style>"
                 }
               ]
             }
@@ -1307,7 +1307,7 @@
         {
           "level": 4,
           "name": "Potrójne Cięcie - Wybuch [爆]",
-          "desc": "Ostateczna Moc +1 za każde 4 (suma [Combustion] i [Vibration] na głównym celu) (maks <style=\"highlight\">4</style>)",
+          "desc": "+1 Ostatecznej Mocy za każde 4 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu) (maks <style=\"highlight\">4</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -1322,10 +1322,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             },
@@ -1335,13 +1335,13 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+2</style> Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+2</style> Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 3+ Ilości [Vibration], aktywuj [VibrationExplosion]; po tym zmniejsz Ilość [Vibration] o 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma na sobie 3+ Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, aktywuj [VibrationExplosion]; po tym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1355,7 +1355,7 @@
         {
           "level": 3,
           "name": "Przecięcie Węzła [快刀亂麻]",
-          "desc": "Jeśli ta jednostka ma [BulletPropellantSpecialAlly], zamiast tego aktywuj 'Udoskonalona Nawałnica Ostrzy Tygrysobójcy'\n- [BeforeUse] Jeśli ta jednostka nie ma [BulletPropellantSpecialAlly], nie aktywuj tej zdolności\nJeśli główny cel ma na sobie 8+ (suma [Combustion] i [Vibration]), Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Jeśli ta jednostka ma [BulletPropellantSpecialAlly], użyj 'Udoskonalonej Nawałnicy Ostrzy Tygrysobójcy' zamiast tej Zdolności\nJeśli główny cel ma na sobie 8+ (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>), +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1363,10 +1363,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1376,10 +1376,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1392,10 +1392,10 @@
                   "desc": "Jeśli ta jednostka zużyła [BulletPropellantAlly] przez efekt tej Monety, zadaj +20% obrażeń<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość [Vibration] o 1\n- Jeśli został zużyty [BulletPropellantAlly], aktywuj powyższy efekt ponownie<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1\n- Jeśli został zużyty [BulletPropellantAlly], aktywuj powyższy efekt ponownie<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 4,
           "name": "Przecięcie Węzła [快刀亂麻]",
-          "desc": "Jeśli ta jednostka ma [BulletPropellantSpecialAlly], zamiast tego aktywuj 'Udoskonalona Nawałnica Ostrzy Tygrysobójcy' instead\n- [BeforeUse] Jeśli ta jednostka nie ma [BulletPropellantSpecialAlly], nie aktywuj tej zdolności\n<style=\"highlight\">Moc Monet +1 za każde 8 (suma [Combustion] i [Vibration] na głównym celu), (maks 2)</style>",
+          "desc": "Jeśli ta jednostka ma [BulletPropellantSpecialAlly], użyj 'Udoskonalonej Nawałnicy Ostrzy Tygrysobójcy' zamiast tej Zdolności\n<style=\"highlight\">+1 Mocy Monet za każde 8 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu), (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1412,10 +1412,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             },
@@ -1425,10 +1425,10 @@
                   "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             },
@@ -1441,10 +1441,10 @@
                   "desc": "Jeśli ta jednostka zużyła [BulletPropellantAlly] przez efekt tej Monety, zadaj <style=\"highlight\">+50%</style> obrażeń"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość [Vibration] o 1\n- Jeśli został zużyty [BulletPropellantAlly], aktywuj powyższy efekt jeszcze <style=\"highlight\">2</style> razy"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1\n- Jeśli został zużyty [BulletPropellantAlly], aktywuj powyższy efekt jeszcze <style=\"highlight\">2</style> razy"
                 }
               ]
             }
@@ -1458,13 +1458,13 @@
         {
           "level": 1,
           "name": "Rozpalam się.",
-          "desc": "[DuelKontra]\nJeśli główny cel ma na sobie 4+ (suma [Combustion] i [Vibration]), Ostateczna Moc +1\nJeśli wartość [BulletPropellantAlly] (lub [BulletPropellantSpecialAlly]) wynosi 0, Moc Starcia +1<style=\"highlight\"></style>",
+          "desc": "[DuelKontra]\nJeśli główny cel ma na sobie 4+ (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>), +1 Ostatecznej Mocy\nJeśli wartość [BulletPropellantAlly] (lub [BulletPropellantSpecialAlly]) wynosi 0, +1 Mocy Starcia<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration] (2 razy na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (2 razy na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1473,7 +1473,7 @@
         {
           "level": 4,
           "name": "Rozpalam się.",
-          "desc": "[DuelKontra]\n<style=\"highlight\">Ostateczna Moc +1 za każde 4 (suma [Combustion] i [Vibration] na głównym celu) (maks 2)</style>\nJeśli [BulletPropellantAlly] (lub [BulletPropellantSpecialAlly]) is at 0, Moc Starcia <style=\"highlight\">+2</style>",
+          "desc": "[DuelKontra]\n<style=\"highlight\">+1 Ostatecznej Mocy za każde 4 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu) (maks 2)</style>\nJeśli [BulletPropellantAlly] (lub [BulletPropellantSpecialAlly]) wynosi 0, Moc Starcia <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1485,7 +1485,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration] (2 razy na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> (2 razy na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1499,29 +1499,19 @@
         {
           "level": 3,
           "name": "Udoskonalona Nawałnica Ostrzy Tygrysobójcy [超絕猛虎殺擊亂斬]",
-          "desc": "Jeśli główny cel ma 8+ (suma [Combustion] i [Vibration]), Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Jeśli główny cel ma 8+ (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>), +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1531,7 +1521,7 @@
                   "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1541,10 +1531,20 @@
                   "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość [Vibration] o 1\n- Jeśli został zużyty [BulletPropellantSpecialAlly], aktywuj powyższy efekt ponownie<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1\n- Jeśli został zużyty [BulletPropellantSpecialAlly], aktywuj powyższy efekt ponownie<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1553,29 +1553,19 @@
         {
           "level": 4,
           "name": "Udoskonalona Nawałnica Ostrzy Tygrysobójcy [超絕猛虎殺擊亂斬]",
-          "desc": "<style=\"highlight\">Moc Monet +1 za każde 8 (suma [Combustion] i [Vibration] na głównym celu) (maks 2)</style>",
+          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 8 (suma <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> i <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na głównym celu) (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości [Vibration]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             },
@@ -1585,7 +1575,7 @@
                   "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             },
@@ -1595,10 +1585,20 @@
                   "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [Switch_Vibration] w [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zużyj 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość [Vibration] o 1\n- Jeśli został zużyty [BulletPropellantSpecialAlly], aktywuj powyższy efekt jeszcze <style=\"highlight\">2</style> razy"
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; po tym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1\n- Jeśli został zużyty [BulletPropellantSpecialAlly], aktywuj powyższy efekt jeszcze <style=\"highlight\">2</style> razy"
                 }
               ]
             }
@@ -1612,7 +1612,7 @@
         {
           "level": 1,
           "name": "Konduktor Marszu",
-          "desc": "[WhenUse] Na sobie i 1 sojuszniku z najniższym maks HP: skosztuj do 10 [BloodDinner] by przyznać 1 [BloodArmorMeursault] za każde 5 [BloodDinner] skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową [BloodArmorMeursault]\n- Jeśli ta jednostka nie skosztowała [BloodDinner], zyskaj 10 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Skosztuj do 10 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by przyznać sobie i 1 sojusznikoi z najniższym maks HP 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> za każde 5 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1634,7 +1634,7 @@
         {
           "level": 2,
           "name": "Konduktor Marszu",
-          "desc": "[WhenUse] Na sobie i 1 sojuszniku z najniższym maks HP: skosztuj do 10 [BloodDinner] by przyznać 1 [BloodArmorMeursault] za każde 5 [BloodDinner] skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową [BloodArmorMeursault]\n- Jeśli ta jednostka nie skosztowała [BloodDinner], zyskaj 10 [Laceration]\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 4+ [Laceration]</style>",
+          "desc": "[WhenUse] Skosztuj do 10 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by przyznać sobie i 1 sojusznikoi z najniższym maks HP 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> za każde 5 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 4+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1646,7 +1646,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>"
                 }
               ]
             },
@@ -1662,7 +1662,7 @@
         {
           "level": 4,
           "name": "Konduktor Marszu",
-          "desc": "[WhenUse] Na sobie i 1 sojuszniku z najniższym maks HP: skosztuj do 10 [BloodDinner] by przyznać 1 [BloodArmorMeursault] za każde 5 [BloodDinner] skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową [BloodArmorMeursault]\n- Jeśli ta jednostka nie skosztowała [BloodDinner], zyskaj 10 [Laceration]\n[WhenUse] +1 Mocy Monet jeśli cel ma 4+ [Laceration]\n<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy jeśli cel ma 3+ Ilości [Laceration]</style>",
+          "desc": "[WhenUse] Skosztuj do 10 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by przyznać sobie i 1 sojusznikoi z najniższym maks HP 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> za każde 5 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +1 Mocy Monet jeśli cel ma 4+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy jeśli cel ma 3+ Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1674,14 +1674,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -1694,13 +1694,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Odbudowanie Odpowiedzialności",
-          "desc": "[WhenUse] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 10 [BloodDinner] by przyznać 1 [BloodArmorMeursault] za każde 5 [BloodDinner] skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową [BloodArmorMeursault]\n- Jeśli ta jednostka nie skosztowała [BloodDinner], zyskaj 10 [Laceration]<style=\"highlight\"></style>",
+          "name": "Odpowiedzialność Odbudowania",
+          "desc": "[WhenUse] Skosztuj do 10 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by przyznać sobie i 1 sojusznikoi z najwyższym maks HP 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> za każde 5 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1718,23 +1718,23 @@
         },
         {
           "level": 2,
-          "name": "Odbudowanie Odpowiedzialności",
-          "desc": "[WhenUse] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 10 [BloodDinner] by przyznać 1 [BloodArmorMeursault] za każde 5 [BloodDinner] skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową [BloodArmorMeursault]\n- Jeśli ta jednostka nie skosztowała [BloodDinner], zyskaj 10 [Laceration]\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 4 [Laceration] na celu (maks 2)\n[WhenUse] +1 Ostatecznej Mocy jeśli cel ma 3+ Ilości [Laceration]</style>",
+          "name": "Odpowiedzialność Odbudowania",
+          "desc": "[WhenUse] Skosztuj do 10 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by przyznać sobie i 1 sojusznikoi z najwyższym maks HP 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> za każde 5 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[WhenUse] +1 Ostatecznej Mocy jeśli cel ma 3+ Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color></style>"
                 }
               ]
             }
@@ -1742,26 +1742,26 @@
         },
         {
           "level": 4,
-          "name": "Odbudowanie Odpowiedzialności",
-          "desc": "[WhenUse] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 10 [BloodDinner] by przyznać 1 [BloodArmorMeursault] za każde 5 [BloodDinner] skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową [BloodArmorMeursault]\n- Jeśli ta jednostka nie skosztowała [BloodDinner], zyskaj 10 [Laceration]\n[WhenUse] +1 Mocy Monet za każde 4 [Laceration] na celu (maks 2)\n[WhenUse] <style=\"highlight\">+1 Ostatecznej Mocy za każde 3 Ilości [Laceration] na celu (maks 2)</style>\n<style=\"highlight\">[WhenUse] +10% zadanych obrażeń za każdą [BloodArmorMeursault] na sobie (maks 30%)</style>",
+          "name": "Odpowiedzialność Odbudowania",
+          "desc": "[WhenUse] Skosztuj do 10 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by przyznać sobie i 1 sojusznikoi z najwyższym maks HP 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> za każde 5 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> skosztowanej przez tą jednostkę (raz na turę; pomija sojuszników z maks Wartością)\n- Priorytetyzuje sojuszników <La Manchaland> i <Krwiopijca>(Wyższych Krewych)\n- Jeśli efekt zadziała na sojusznika z <La Manchaland>, ta jednostka przyznaje 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +1 Mocy Monet za każde 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[WhenUse] <style=\"highlight\">+1 Ostatecznej Mocy za każde 3 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n<style=\"highlight\">[WhenUse] +10% zadanych obrażeń za każdą <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> na sobie (maks 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości [Burst]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [ScarletTakeDamageUp] na początku następnej tury (2 razy na turę)</style>"
@@ -1778,29 +1778,29 @@
         {
           "level": 3,
           "name": "Przywdziejmy Płaszcze Skrzepniętej Krwi.",
-          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 40% zadanych obrażeń HP (maks 50 na Zdolność)\n[BeforeUse] Mając 5 [BloodArmorMeursault], zamiast tej zdolności użyj \"Uwertura\"\n[WhenUse] +1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)\n[WhenUse] Przyznaj 1 [BloodArmorMeursault] sobie i (najwyższy Rezon.) sojusznikom (2 razy na turę; do 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ [BloodDinner] o dodatkwe 20 (raz na turę)<style=\"highlight\"></style>",
+          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 40% zadanych obrażeń HP (maks 50 na Zdolność)\n[BeforeUse] Mając 5 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroi z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>, zamiast tej zdolności użyj \"Uwertury\"\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[WhenUse] Przyznaj 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> sobie i (najwyższy Rezon.) sojusznikom (2 razy na turę; do 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n[EndSkill] Jeśli cel zostanie pokonany, podnieś <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o dodatkwe 20 (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
@@ -1813,10 +1813,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [ParadeConcentration] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1825,29 +1825,29 @@
         {
           "level": 4,
           "name": "Przywdziejmy Płaszcze Skrzepniętej Krwi.",
-          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 40% zadanych obrażeń HP (maks <style=\"highlight\">80</style> na Zdolność)\n[BeforeUse] Mając 5 [BloodArmorMeursault], zamiast tej zdolności użyj \"Uwertura\"\n[WhenUse] +1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)\n<style=\"highlight\">[WhenUse] +10% zadanych obrażeń za każde 2 Ilości [Laceration] na celu (maks 40%)</style>\n[WhenUse] Przyznaj 1 [BloodArmorMeursault] sobie i (najwyższy Rezon.) sojusznikom (2 razy na turę; do 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n<style=\"highlight\">- Jeśli to był Rezon. Rządzy, przyznaj też 2 [BloodArmorMeursault] 2 sojusznikom z najniższym maks HP</style>\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ [BloodDinner] o dodatkwe 20 (raz na turę)",
+          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 40% zadanych obrażeń HP (maks <style=\"highlight\">80</style> na Zdolność)\n[BeforeUse] Mając 5 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroi z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>, zamiast tej zdolności użyj \"Uwertura\"\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n<style=\"highlight\">[WhenUse] +10% zadanych obrażeń za każde 2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 40%)</style>\n[WhenUse] Przyznaj 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> sobie i (najwyższy Rezon.) sojusznikom (2 razy na turę; do 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n<style=\"highlight\">- Jeśli to był Rezon. Rządzy, przyznaj też 2 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroi z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>2 sojusznikom z najniższym maks HP</style>\n[EndSkill] Jeśli cel zostanie pokonany, podnieś <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o dodatkwe 20 (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
@@ -1860,13 +1860,13 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 2 [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [ParadeConcentration] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1880,7 +1880,7 @@
         {
           "level": 1,
           "name": "Krzepnięcie",
-          "desc": "[DuelCounter]\n[WinDuel] Zyskaj 1 [BloodArmorMeursault] (2 razy na turę)<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[WinDuel] Zyskaj 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> (2 razy na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1901,7 +1901,7 @@
         {
           "level": 4,
           "name": "Krzepnięcie",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[WhenUse] Dwóm sojusznikom, w tym tej jednostce, przyznaj 5 [Laceration] i aktywuje je jeden raz, po czym zmniejsz ich Ilość [Laceration] o 1 (raz na turę; priorytezuje sojuszników z największą Wartością [BloodArmorMeursault]; nie aktuwyje się na Wyższych Krewnych; te obrażenia nie zmniejszają HP sojuszinków poniżej 1)</style>\n[WinDuel] Zyskaj 1 [BloodArmorMeursault] (2 razy na turę)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[WhenUse] Przyznaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> dwóm sojusznikom, w tym tej jednostce i aktywuje je jeden raz, po czym zmniejsz ich Ilość <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> o 1 (raz na turę; priorytezuje sojuszników z największą Wartością <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroi z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>; nie aktuwyje się na Wyższych Krewnych; te obrażenia nie zmniejszają HP sojuszinków poniżej 1)</style>\n[WinDuel] Zyskaj 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> (2 razy na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -1927,22 +1927,22 @@
         {
           "level": 3,
           "name": "Uwertura",
-          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń HP (maks 85 na Zdolność)\n[WhenUse] +2 Mocy Starcia za każde 3 [Laceration] na głownym celu (maks 8)\n[WhenUse] +5% zadanych obrażeń za każde 2 Ilości [Laceration] na głownym celu (maks 20%)\n[WhenUse] Przyznaj 2 [BloodArmorMeursault] dla (najwyższy Rezon.) innych sojuszników (maks 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n[EndSkill] Zużyj całą [BloodArmorMeursault] na sobie\n[EndSkill] Jeśli ta Zdolność pokonała cel, podnieś [BloodDinner] o dodatkowe 10 za każdy cel pokonany tą Zdolnością (raz na turę)<style=\"highlight\"></style>",
+          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń HP (maks 85 na Zdolność)\n[WhenUse] +2 Mocy Starcia za każde 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na głownym celu (maks 8)\n[WhenUse] +5% zadanych obrażeń za każde 2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na głownym celu (maks 20%)\n[WhenUse] Przyznaj 2 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroi z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>dla (najwyższy Rezon.) innych sojuszników (maks 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n[EndSkill] Zużyj całą <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> na sobie\n[EndSkill] Jeśli ta Zdolność pokonała cel, podnieś <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o dodatkowe 10 za każdy cel pokonany tą Zdolnością (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1952,7 +1952,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
@@ -1965,10 +1965,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Zyskaj 1 [BloodArmorMeursault] na początku następnej tury za każdy Zachwiany lub pokonany cel i każdą Zniszczoną Część (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Zyskaj 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> na początku następnej tury za każdy Zachwiany lub pokonany cel i każdą Zniszczoną Część (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1977,22 +1977,22 @@
         {
           "level": 4,
           "name": "Uwertura",
-          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń HP (maks <style=\"highlight\">100</style> na Zdolność)\n[WhenUse] +2 Mocy Starcia za każde 3 [Laceration] na głownym celu (maks 8)\n[WhenUse] +<style=\"highlight\">10</style>% zadanych obrażeń za każde 2 Ilości [Laceration] na głownym celu (maks <style=\"highlight\">40</style>%)\n[WhenUse] Przyznaj 2 [BloodArmorMeursault] dla (najwyższy Rezon.) innych sojuszników (maks 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n<style=\"highlight\">- Jeśli to był Rezon. Rządzy, przyznaj 1 dodatkową [BloodArmorMeursault]</style>\n[EndSkill] Zużyj całą [BloodArmorMeursault] na sobie\n[EndSkill] Jeśli ta Zdolność pokonała cel, podnieś [BloodDinner] o dodatkowe 10 za każdy cel pokonany tą Zdolnością (raz na turę)",
+          "desc": "Przy trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń HP (maks <style=\"highlight\">100</style> na Zdolność)\n[WhenUse] +2 Mocy Starcia za każde 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na głownym celu (maks 8)\n[WhenUse] +<style=\"highlight\">10</style>% zadanych obrażeń za każde 2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na głownym celu (maks <style=\"highlight\">40</style>%)\n[WhenUse] Przyznaj 2 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroi z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>dla (najwyższy Rezon.) innych sojuszników (maks 4 sojuszników; w pierwszej kolejności priorytezuje sojuszników <La Manchaland>, w drugiej <Krwiopijca>(Wyższych Krewych); pomija sojuszników z maks Wartością)\n<style=\"highlight\">- Jeśli to był Rezon. Rządzy, przyznaj 1 dodatkową  <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style></style>\n[EndSkill] Zużyj całą <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> na sobie\n[EndSkill] Jeśli ta Zdolność pokonała cel, podnieś <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o dodatkowe 10 za każdy cel pokonany tą Zdolnością (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2002,7 +2002,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
@@ -2015,16 +2015,372 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- Mając 2+ [FocusOnActing], nałóż też 2 [ParadeConcentration] na 1 z celów (raz na turę)</style>"
+                  "desc": "<style=\"highlight\">- Mając 2+ <sprite name=\"FocusOnActing\"><color=#ffc700><u><link=\"FocusOnActing\">Skupienia na Występie</link></u></color></style>, nałóż też 2 <sprite name=\"ParadeConcentration\"><color=#e30000><u><link=\"ParadeConcentration\">Parady La Mancha</link></u></color></style> na 1 z celów (raz na turę)</style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Zyskaj 1 [BloodArmorMeursault] na początku następnej tury za każdy Zachwiany lub pokonany cel i każdą Zniszczoną Część (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Zyskaj 1 <sprite name=\"BloodArmorMeursault\"><color=#ffc700><u><link=\"BloodArmorMeursault\">Zbroję z Utwardzonej Krwi</link></u></color><style=\"highlight\"></style> na początku następnej tury za każdy Zachwiany lub pokonany cel i każdą Zniszczoną Część (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strzał Ostrzegawczy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Strzał Ostrzegawczy",
+          "desc": "<style=\"highlight\">[BeforeUse] Mając maks liczbę <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboi Zarodnika [CRIMSON]Bazowych[SCARLET]</link></u></color>, nałóż 1 [PenetrateTakeDamageUp] Przy Trafieniu (raz na turę)\n[WhenUse] Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Strzał Ostrzegawczy",
+          "desc": "<style=\"highlight\">+10% obrażeń za każde 5 <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> na celu (maks 30%)</style>\n[BeforeUse] Mając maks liczbę <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboi Zarodnika [CRIMSON]Bazowych[SCARLET]</link></u></color>, nałóż 1 [PenetrateTakeDamageUp] Przy Trafieniu (raz na turę)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dostosowanie E.G.O - Śrut",
+          "desc": "-50% obrażeń zadanym celom pobocznym<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dostosowanie E.G.O - Śrut",
+          "desc": "-50% obrażeń zadanym celom pobocznym\n<style=\"highlight\">+7% zadanych obrażeń za każde 5 <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> na celu (maks 21%)\n[WhenUse] Jeśli główny cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dostosowanie E.G.O - Śrut",
+          "desc": "-50% obrażeń zadanym celom pobocznym\n+<style=\"highlight\">15</style>% obrażeń za każde 5 <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> na celu (maks <style=\"highlight\">45</style>%)\n[WhenUse] Jeśli główny cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka ma [MeursaultWorkerBee], +1 Mocy Starcia\n[WhenUse] Zamień Monety równe Wartości <sprite name=\"MeursaultWorkerBee\"><color=#ffc700><u><link=\"MeursaultWorkerBee\">Feromonu Lojalnościowego</link></u></color></style> w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color></style>, zaczynając od ostatniej Monety\n[EndSkill] Mając 1 lub mniej [MeursaultSporeBulletLong], [MeursaultSporeBulletReloading]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Test Polowy - Proch Zapalny",
+          "desc": "+5% obrażeń za każde 5 <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> na celu (maks 15%)\n[WhenUse] +1 Mocy Monet za każde 6 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na głównym celu (maks 2)\n[EndSkill] [MeursaultSporeBulletReloading]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta trafia tylko jeden cel (Priorytezuje główny cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta trafia tylko jeden cel (Priorytezuje główny cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta trafia tylko jeden cel (Priorytezuje główny cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "-50% obrażeń zadanym celom pobocznym<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "\n[UnBrokenCoinOnSucceedAttack] Jeśli [MeursaultBeeSpore] celu mają maks Wartość, aktywuj dane efekty:\n- Zadaj (Siła <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> x Wartość <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> / 10) obrażeń od Gniewu (zaokrąglone w dół)\n  - Zadanie w ten sposób obrażeń od Gniewu liczy się jako aktywowanie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>\n- Cel traci 1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>\n- [MeursaultBeeSpore] na celu wygasają<style=\"highlight\"></style>\n",
+                  "summary": "Zadaj obrażeń od Gniewu, reduce target's Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> by 1, [MeursaultBeeSpore] na celu wygasają"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> i +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Test Polowy - Proch Zapalny",
+          "desc": "<style=\"highlight\">+50% obrażeń za każdą nadwyżkę Wagi Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, części)</style>\n +<style=\"highlight\">10</style>% obrażeń za każde 5 <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> na celu (maks <style=\"highlight\">30</style>%)\n<style=\"highlight\">[BeforeUse] Mając 2 lub mniej <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboji Zarodnika [CRIMSON]Bazowych[SCARLET]</link></u></color>, zużyj 6 SP by zyskać 3 <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboje Zarodnika [CRIMSON]Bazowe[SCARLET]</link></u></color></style>\n[WhenUse] +1 Mocy Monet za każde 6 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na głównym celu (maks <style=\"highlight\">3)\n[WhenUse] jeśli ta jednostka ma [MeursaultWorkerBee], +1 Mocy Starcia\n[WhenUse] Zamień Monety równe Wartości <sprite name=\"MeursaultWorkerBee\"><color=#ffc700><u><link=\"MeursaultWorkerBee\">Feromonu Lojalnościowego</link></u></color></style> w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color></style>, zaczynając od 3 Monety\n[WhenUse] Mając 3 <sprite name=\"MeursaultWorkerBee\"><color=#ffc700><u><link=\"MeursaultWorkerBee\">Feromonu Lojalnościowego</link></u></color></style>, zyskaj +1 Wagi Ataku</style>\n[EndSkill] [MeursaultSporeBulletReloading]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta trafia tylko jeden cel (Priorytezuje główny cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta trafia tylko jeden cel (Priorytezuje główny cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Ta Moneta trafia tylko jeden cel (Priorytezuje główny cel)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletLong]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel 1 [MeursaultSporeBulletShort]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "-50% obrażeń zadanym celom pobocznym<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">Ta Moneta zadaje +5% obrażeń za każdą Wartość <sprite name=\"MeursaultWorkerBee\"><color=#ffc700><u><link=\"MeursaultWorkerBee\">Feromonu Lojalnościowego</link></u></color></style> na sobie (maks 15%)</style>"
+                },
+                {
+                  "desc": "\n[UnBrokenCoinOnSucceedAttack] Jeśli [MeursaultBeeSpore] celu mają maks Wartość, aktywuj dane efekty:\n- Zadaj (Siła <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> x Wartość <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color> / 10) obrażeń od Gniewu (zaokrąglone w dół)\n  - Zadanie w ten sposób obrażeń od Gniewu liczy się jako aktywowanie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>\n- Cel traci 1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>\n- [MeursaultBeeSpore] na celu wygasają<style=\"highlight\"></style>\n"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> i +<style=\"highlight\">2</style> Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wyklucie Zarodników",
+          "desc": "[StartBattle][MeursaultSporeBulletReloading] (raz na turę)\n[OnSucceedEvade] Ulecz 10 HP (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wyklucie Zarodników",
+          "desc": "[StartBattle] [MeursaultSporeBulletReloading] (raz na turę)\n<style=\"highlight\">[WhenUseEvade] +1 Mocy Monet za każde 6 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na agresorze (maks 3)</style>\n[OnSucceedEvade] Ulecz 10 HP (raz na turę)\n<style=\"highlight\">- jeśli ta jednostka ma [MeursaultWorkerBee], ulecz dodatkowe 5 HP za każdą Wartość</style>",
+          "coinlist": [
+            {}
           ]
         }
       ]
