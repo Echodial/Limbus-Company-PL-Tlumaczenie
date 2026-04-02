@@ -1556,7 +1556,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Mając 30+ <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, zużyj 10 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie by Ponownie Użyc tej Monety (1 time maks)<style=\"highlight\"></style>"
@@ -1579,7 +1579,7 @@
         {
           "level": 3,
           "name": "Przebijająca Ręka Wężostrza",
-          "desc": "[WhenUse] +1 Mocy Monet za każde 8 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 4)\n- Jeśl ta jednostka ma <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężową Rękę</link></u></color>, zamiast tego +1 Mocy Monet za każde 5 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 6)\n[WhenUse] Zyskaj 3 <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężowej Ręki</link></u></color>\n[WinDuel] Jeśli cel ma na sobie 5+ [Burst], zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 8 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 4)\n- Jeśl ta jednostka ma <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężową Rękę</link></u></color>, zamiast tego +1 Mocy Monet za każde 5 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 6)\n[WhenUse] Zyskaj 3 <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężowej Ręki</link></u></color>\n[WinDuel] Jeśli cel ma na sobie 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1605,7 +1605,7 @@
         {
           "level": 4,
           "name": "Przebijająca Ręka Wężostrza",
-          "desc": "[WhenUse] +1 Mocy Monet za każde 8 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 4)\n- Jeśl ta jednostka ma <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężową Rękę</link></u></color>, zamiast tego +1 Mocy Monet za każde 5 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 6)\n[WhenUse] Zyskaj 3 <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężowej Ręki</link></u></color>\n[WinDuel] Jeśli cel ma na sobie 5+ [Burst], zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 8 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 4)\n- Jeśl ta jednostka ma <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężową Rękę</link></u></color>, zamiast tego +1 Mocy Monet za każde 5 (sumy Siły <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie i Siły <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu) (maks 6)\n[WhenUse] Zyskaj 3 <sprite name=\"SnakeStance\"><color=#ffc700><u><link=\"SnakeStance\">Wężowej Ręki</link></u></color>\n[WinDuel] Jeśli cel ma na sobie 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, zyskaj 5 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1720,7 +1720,7 @@
         {
           "level": 4,
           "name": "Przez Szparę",
-          "desc": "<style=\"highlight\">[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>\n[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(max 2)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>\n[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1809,7 +1809,7 @@
         {
           "level": 4,
           "name": "Stiletto Doppio",
-          "desc": "[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(max 2)</style>\n[WinDuel] <style=\"highlight\">Nałóż 1 [Vibration]</style> i aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu o 1",
+          "desc": "[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(maks 2)</style>\n[WinDuel] <style=\"highlight\">Nałóż 1 [Vibration]</style> i aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu o 1",
           "coinlist": [
             {
               "coindescs": [
@@ -1888,7 +1888,7 @@
         {
           "level": 4,
           "name": "Egzekucja",
-          "desc": "[BeforeUse] Jeśli Cel ma <sprite name=\"CriHurtNightStiletto\"><color=#e30000><u><link=\"CriHurtNightStiletto\">Głęboką Ranę</link></u></color>, Użyj 'Nocnych Szewców' zamiast tej Zdolności (raz na turę)\n[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(max 2)</style>\n[WinDuel] <style=\"highlight\">Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu o 1",
+          "desc": "[BeforeUse] Jeśli Cel ma <sprite name=\"CriHurtNightStiletto\"><color=#e30000><u><link=\"CriHurtNightStiletto\">Głęboką Ranę</link></u></color>, Użyj 'Nocnych Szewców' zamiast tej Zdolności (raz na turę)\n[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(maks 2)</style>\n[WinDuel] <style=\"highlight\">Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu o 1",
           "coinlist": [
             {
               "coindescs": [
@@ -1949,7 +1949,7 @@
         {
           "level": 4,
           "name": "Jakoś z tego wyjdziemy",
-          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] Zwiększa ilość razy, które 'Mercé' może być użyte przez efekt 'Egzekutor Czystki Na Rzecz Famiglie' do 2 na turę</style>\n[StartBattle] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)\n[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(max 2)</style>\n[WinDuel] <style=\"highlight\"> Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style>",
+          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] Zwiększa ilość razy, które 'Mercé' może być użyte przez efekt 'Egzekutor Czystki Na Rzecz Famiglie' do 2 na turę</style>\n[StartBattle] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)\n[WhenUse] +1 Mocy Monet <style=\"highlight\">za każde</style> 6 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu <style=\"highlight\">(maks 2)</style>\n[WinDuel] <style=\"highlight\"> Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1968,7 +1968,7 @@
         {
           "level": 2,
           "name": "Mercé",
-          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego HP (Rdzenia) przeciwnika (max 2)\nJeśli (Rdzeń) przeciwnika ma 20%- HP, +80% zadanych obrażeń<style=\"highlight\"></style>",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego HP (Rdzenia) przeciwnika (maks 2)\nJeśli (Rdzeń) przeciwnika ma 20%- HP, +80% zadanych obrażeń<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1982,7 +1982,7 @@
         {
           "level": 4,
           "name": "Mercé",
-          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego HP (Rdzenia) przeciwnika (max <style=\"highlight\">4</style>)\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +120% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego HP (Rdzenia) przeciwnika (maks <style=\"highlight\">4</style>)\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +120% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2006,8 +2006,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Szewska Pasja",
-          "desc": "+10% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (max 40%)\n+50% zadanych obrażeń jeśli (Rdzeń) przeciwnika ma 20%- HP\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (max 2)\n[WinDuel] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>",
+          "name": "Nocni Szewcy",
+          "desc": "+10% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (maks 40%)\n+50% zadanych obrażeń jeśli (Rdzeń) przeciwnika ma 20%- HP\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (maks 2)\n[WinDuel] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2059,8 +2059,8 @@
         },
         {
           "level": 4,
-          "name": "Szewska Pasja",
-          "desc": "+<style=\"highlight\">15</style>% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">Jeśli Cel ma Tarczę, +30% zadanych obrażeń (w Skupionych Potyczkach, Rdzeń lub Części)</style>\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +100% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Nałóż 5 [DefenseDown]</style>\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (max <style=\"highlight\">3</style>)\n[WinDuel] <style=\"highlight\">Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion]",
+          "name": "Nocni Szewcy",
+          "desc": "+<style=\"highlight\">15</style>% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (maks <style=\"highlight\">60</style>%)\n<style=\"highlight\">Jeśli Cel ma Tarczę, +30% zadanych obrażeń (w Skupionych Potyczkach, Rdzeń lub Części)</style>\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +100% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Nałóż 5 [DefenseDown]</style>\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (maks <style=\"highlight\">3</style>)\n[WinDuel] <style=\"highlight\">Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion]",
           "coinlist": [
             {
               "coindescs": [
@@ -2139,7 +2139,7 @@
         {
           "level": 2,
           "name": "Jaskrawe Spojrzenie: Strzał Z Bliska",
-          "desc": "+1 Mocy Monet, jeśli zostanie spełniony któryś z danych warunków\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n[WhenUse] Zyskaj 1 [Binding] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monet, jeśli zostanie spełniony któryś z danych warunków\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n[WhenUse] Zyskaj 1 [Binding] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2160,7 +2160,7 @@
         {
           "level": 4,
           "name": "Jaskrawe Spojrzenie: Strzał Z Bliska",
-          "desc": "+1 Mocy Monet, jeśli zostanie spełniony któryś z danych warunków\n<style=\"highlight\">- Jeśli Prędkość celu jest większa od Prędkości tej jednostki o 3 lub więcej</style>\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 6+ (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)</style>\n[WhenUse] Zyskaj 1 [Binding] na początku następnej tury",
+          "desc": "+1 Mocy Monet, jeśli zostanie spełniony któryś z danych warunków\n<style=\"highlight\">- Jeśli Prędkość celu jest większa od Prędkości tej jednostki o 3 lub więcej</style>\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 6+ (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)</style>\n[WhenUse] Zyskaj 1 [Binding] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -2227,7 +2227,7 @@
         {
           "level": 2,
           "name": "To, Co Widzalne Zniszcz Tym, Co Niewidzialne",
-          "desc": "+2 Mocy Starcia, jeśli zostanie spełniony któryś z danych warunków\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color><style=\"highlight\"></style>",
+          "desc": "+2 Mocy Starcia, jeśli zostanie spełniony któryś z danych warunków\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2268,7 +2268,7 @@
         {
           "level": 4,
           "name": "To, Co Widzalne Zniszcz Tym, Co Niewidzialne",
-          "desc": "+2 Mocy Starcia, jeśli zostanie spełniony któryś z danych warunków\n<style=\"highlight\">- Jeśli Prędkość celu jest większa od Prędkości tej jednostki o 3 lub więcej</style>\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 6+ (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)</style>",
+          "desc": "+2 Mocy Starcia, jeśli zostanie spełniony któryś z danych warunków\n<style=\"highlight\">- Jeśli Prędkość celu jest większa od Prędkości tej jednostki o 3 lub więcej</style>\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 6+ (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2314,7 +2314,7 @@
         {
           "level": 3,
           "name": "Wybawienie Dla Oczarowanych Lampą",
-          "desc": "+1 Mocy Monet i +20% zadanych obrażeń, jeśli zostanie spełniony któryś z danych warunków\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n[WhenUse] Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color> i zyskaj +3 Mocy Starcia<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monet i +20% zadanych obrażeń, jeśli zostanie spełniony któryś z danych warunków\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n[WhenUse] Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color> i zyskaj +3 Mocy Starcia<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2336,11 +2336,11 @@
             {
               "coindescs": [
                 {
-                  "desc": "Jeśli (Rdzeń) celu ma 25% HP lub mniej, lub jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj +60% obrażeń<style=\"highlight\"></style>",
-                  "summary": "Zadaj +60% damage"
+                  "desc": "Jeśli (Rdzeń) celu ma 25% HP lub mniej, lub jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj +60% obrażeń<style=\"highlight\"></style>",
+                  "summary": "Zadaj +60% obrażeń"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj obrażenia od Przygnębienia równe 60% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>",
+                  "desc": "[OnSucceedAttack] Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj obrażenia od Przygnębienia równe 60% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Zadaj (60% ostatecznych obrażeń tej Monety) Gloom damage"
                 }
               ]
@@ -2350,7 +2350,7 @@
         {
           "level": 4,
           "name": "Wybawienie Dla Oczarowanych Lampą",
-          "desc": "+1 Mocy Monet i +40% zadanych obrażeń, jeśli zostanie spełniony któryś z danych warunków\n<style=\"highlight\">- Jeśli Prędkość celu jest większa od Prędkości tej jednostki o 3 lub więcej</style>\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 6+ (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)</style>\n[WhenUse] Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color> i zyskaj +3 Mocy Starcia\n<style=\"highlight\">[EndSkill] Jeśli cel został pokonany, lub ma 3 <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepienia</link></u></color>, zyskaj 1 [PlusCoinValueUp] na początku następnej tury (raz na turę)</style>",
+          "desc": "+1 Mocy Monet i +40% zadanych obrażeń, jeśli zostanie spełniony któryś z danych warunków\n<style=\"highlight\">- Jeśli Prędkość celu jest większa od Prędkości tej jednostki o 3 lub więcej</style>\n- Jeśli Prędkość tej jednostki wynosi 1\n- Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma 6+ (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)</style>\n[WhenUse] Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color> i zyskaj +3 Mocy Starcia\n<style=\"highlight\">[EndSkill] Jeśli cel został pokonany, lub ma 3 <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepienia</link></u></color>, zyskaj 1 [PlusCoinValueUp] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2375,11 +2375,11 @@
             {
               "coindescs": [
                 {
-                  "desc": "Jeśli (Rdzeń) celu ma 25% HP lub mniej, lub jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, deal +60% damage<style=\"highlight\"></style>",
-                  "summary": "Zadaj +60% damage"
+                  "desc": "Jeśli (Rdzeń) celu ma 25% HP lub mniej, lub jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, +60% zadanych obrażeń<style=\"highlight\"></style>",
+                  "summary": "Zadaj +60% obrażeń"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel jest <sprite name=\"DelusionGregBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj obrażenia od Przygnębienia równe 80% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>",
+                  "desc": "[OnSucceedAttack] Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj obrażenia od Przygnębienia równe 80% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Zadaj (80% ostatecznych obrażeń tej Monety) Gloom damage"
                 }
               ]
@@ -2394,7 +2394,7 @@
         {
           "level": 1,
           "name": "Lont Ze Spalonych Piór",
-          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternGregBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia HP równe 1% maks HP (ten efekt nie może mniejsztć HP tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 3) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia HP równe 1% maks HP (ten efekt nie może mniejsztć HP tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 3) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2408,7 +2408,7 @@
         {
           "level": 4,
           "name": "Lont Ze Spalonych Piór",
-          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternGregBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia HP równe 1% maks HP (ten efekt nie może mniejsztć HP tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 2) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia HP równe 1% maks HP (ten efekt nie może mniejsztć HP tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 2) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2417,32 +2417,35 @@
                 }
               ]
             }
-          ],
+          ]
+        }
+      ]
+    },
     {
       "id": 1121501,
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Release",
-          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1",
+          "name": "Porażenie Prądem",
+          "desc": "[WhenUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2450,26 +2453,26 @@
         },
         {
           "level": 2,
-          "name": "Electric Release",
-          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1\n<style=\"highlight\">[WhenUse] At 5+ [Charge] Count, Clash Power +1</style>",
+          "name": "Porażenie Prądem",
+          "desc": "[WhenUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet\n<style=\"highlight\">[WhenUse] Mając 5+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Starcia</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">2</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">2</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2477,26 +2480,26 @@
         },
         {
           "level": 4,
-          "name": "Electric Release",
-          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [Charge] on self (max 30%)</style>\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 5 [Charge] Count on self (max 2)</style>\n<style=\"highlight\">[WhenUse] At less than 10 [Charge], gain +2 [Charge] Count</style>",
+          "name": "Porażenie Prądem",
+          "desc": "<style=\"highlight\">[WhenUse] +6% zadanych obrażeń za każde [Charge] na sobie (maks 30%)</style>\n[WhenUse] Mając 3+<style=\"highlight\">/5+</style> <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1<style=\"highlight\">/+2</style> Mocy Monet\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każde 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie (maks 2)</style>\n<style=\"highlight\">[WhenUse] Mając mniej niż 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2509,33 +2512,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "DC Inversion",
-          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain Base Power +1",
+          "name": "Odwrócenie Prądu Stałego",
+          "desc": "[WhenUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet\n[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Bazowej Mocy<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge]) [Charge] Count (max 3)"
+                  "desc": "[OnSucceedAttack] Zyskaj +([Charge]) Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PhotoElectricity]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [PhotoElectricity]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2543,33 +2546,33 @@
         },
         {
           "level": 2,
-          "name": "DC Inversion",
-          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1\n<style=\"highlight\">- At 3+ [Charge], convert the final Coin into [SuperCoin]</style>\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain Base Power +1",
+          "name": "Odwrócenie Prądu Stałego",
+          "desc": "[WhenUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet\n<style=\"highlight\">- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamień ostatnią Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color></style>\n[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Bazowej Mocy",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">4</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">4</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">([Charge] + 1)</style> [Charge] Count (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">([Charge] + 1)</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks <style=\"highlight\">4</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [PhotoElectricity]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2577,33 +2580,33 @@
         },
         {
           "level": 4,
-          "name": "DC Inversion",
-          "desc": "<style=\"highlight\">[WhenUse] Deal +3% damage for every [Charge] on self (max 15%)</style>\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n- At 3+ [Charge], convert the final Coin into [SuperCoin]\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain Base Power +1",
+          "name": "Odwrócenie Prądu Stałego",
+          "desc": "<style=\"highlight\">[WhenUse] +3% zadanych obrażeń za każde [Charge] na sobie (maks 15%)</style>\n[WhenUse] Mając 3+<style=\"highlight\">/5+</style> <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1<style=\"highlight\">/+2</style> Mocy Monet\n- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamień ostatnią Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>\n[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Bazowej Mocy",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">5</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">5</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Burst] Count"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+2</style> Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">([Charge] + 2)</style> [Charge] Count (max <style=\"highlight\">5</style>)"
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">([Charge] + 2)</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks <style=\"highlight\">5</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhotoElectricity]\n<style=\"highlight\">- At 3+ [Charge], inflict 3 [PhotoElectricity] instead</style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style>\n<style=\"highlight\">- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamiast tego nałóż 3 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style></style>"
                 }
               ]
             }
@@ -2616,13 +2619,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "High-voltage Current Discharge",
-          "desc": "[StartBattle] Gain [HighVoltageExoshell] equal to [Charge] (max 3, once per turn)\n[BeforeUse] At 3+ [Charge], activate as 'Maximum Output - Ultra High-voltage Current Discharge' (once per turn)\n[WhenUse] At 3+ [Charge], Coin Power +1\n- At 3+ [Charge], convert the final Coin into [SuperCoin]\n[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Coin Power +2",
+          "name": "Wyładowanie Wysokonapięciowe",
+          "desc": "[StartBattle] Zyskaj [HighVoltageExoshell] równy <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> (maks 3, raz na turę)\n[BeforeUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, użyj 'Wyładowania Ultrawysokonapięciowego' zamiast tej Zdolności (raz na turę)\n[WhenUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet\n- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamień ostatnią Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>\n[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +2 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2630,13 +2633,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> i +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhotoElectricity]\n- At 3+ [Charge], inflict 3 [PhotoElectricity] instead"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style>\n- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamiast tego nałóż 3 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max 3)\n- At 5+ [Charge], inflict 3 [ChargedSting] this turn and next turn instead (once per turn)"
+                  "desc": "[OnSucceedAttack] Nałóż [ChargedSting] równe <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> na początku następnej tury (maks 3)\n- Mając 5+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamiast tego nałóż 3 <sprite name=\"ChargedSting\"><color=#e30000><u><link=\"ChargedSting\">Naładowanego Użądlenia</link></u></color> w tej i w następnej turze (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2644,33 +2647,33 @@
         },
         {
           "level": 4,
-          "name": "High-voltage Current Discharge",
-          "desc": "[StartBattle] Gain [HighVoltageExoshell] equal to [Charge] (max <style=\"highlight\">5</style>, once per turn)\n[BeforeUse] At 3+ [Charge], activate as 'Maximum Output - Ultra High-voltage Current Discharge' (once per turn)\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n- At 3+ [Charge], convert the final Coin into [SuperCoin]\n[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Coin Power +2",
+          "name": "Wyładowanie Wysokonapięciowe",
+          "desc": "[StartBattle] Zyskaj [HighVoltageExoshell] równy <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> (maks <style=\"highlight\">5</style>, raz na turę)\n[BeforeUse] Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, użyj 'Wyładowania Ultrawysokonapięciowego' zamiast tej Zdolności (raz na turę)\n[WhenUse] Mając 3+<style=\"highlight\">/5+</style> <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1<style=\"highlight\">/+2</style> Mocy Monet\n- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zamień ostatnią Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>\n[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +2 Mocy Monet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +2 [Charge] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> i +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhotoElectricity]\n- At 3+ [Charge], inflict 3 [PhotoElectricity] instead<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style>\n- Mając 3+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, nałóż 3 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style> zamiast tego<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max <style=\"highlight\">5</style>)\n- At 5+ [Charge], inflict <style=\"highlight\">5</style> [ChargedSting] this turn and next turn instead (once per turn)"
+                  "desc": "[OnSucceedAttack] Nałóż [ChargedSting] równe <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> na początku następnej tury (maks <style=\"highlight\">5</style>)\n- Mając 5+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, nałóż <style=\"highlight\">5</style> <sprite name=\"ChargedSting\"><color=#e30000><u><link=\"ChargedSting\">Naładowanego Użądlenia</link></u></color> w tej i w następnej turze zamiast tego (raz na turę)"
                 }
               ]
             }
@@ -2683,16 +2686,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This E.G.O Gift's Defensive Capability is Uniquely Superior",
-          "desc": "[StartBattle] Gain 1 [HighVoltageExoshell] (once per turn)\n[WhenUse] Gain +2 [Charge] Count (2 times per turn)\n[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn",
+          "name": "Właściwości Obronne Tego Daru E.G.O Są Nadwyraz Wysokie",
+          "desc": "[StartBattle] Zyskaj 1 [HighVoltageExoshell] (raz na turę)\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (2 raz na turę)\n[WhenUse] Zyskaj +5 [Aggro] na tym Żetonie Zdolności na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "This E.G.O Gift's Defensive Capability is Uniquely Superior",
-          "desc": "[StartBattle] Gain <style=\"highlight\">2</style> [HighVoltageExoshell] (once per turn)\n<style=\"highlight\">[WhenUse] Gain Coin Power equal to [Charge] on self (max 5)</style>\n[WhenUse] Gain +2 [Charge] Count (2 times per turn)\n[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn",
+          "name": "Właściwości Obronne Tego Daru E.G.O Są Nadwyraz Wysokie",
+          "desc": "[StartBattle] Zyskaj <style=\"highlight\">2</style> <sprite name=\"HighVoltageExoshell\"><color=#ffc700><u><link=\"HighVoltageExoshell\">Egzoszkieletu Pod Wysokim Napięciem</link></u></color> (raz na turę)\n<style=\"highlight\">[WhenUse] Zyskaj Moc Monet równą <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> na sobie (maks 5)</style>\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (2 raz na turę)\n[WhenUse] Zyskaj +5 [Aggro] na tym Żetonie Zdolności na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -2704,39 +2707,39 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Maximum Output - Ultra High-voltage Current Discharge",
-          "desc": "[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Base Power +1 and Coin Power +2",
+          "name": "Maksymalna Moc - Wyładowanie Ultrawysokonapięciowe",
+          "desc": "[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Bazowej Mocy i +2 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [PhotoElectricity]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max 3)\n- At 5+ [Charge], inflict 3 [ChargedSting] this turn and next turn instead (once per turn)"
+                  "desc": "[OnSucceedAttack] Nałóż [ChargedSting] równe <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> na początku następnej tury (maks 3)\n- Mając 5+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, nałóż 3 <sprite name=\"ChargedSting\"><color=#e30000><u><link=\"ChargedSting\">Naładowanego Użądlenia</link></u></color> w tej i w następnej turze zamiast tego (raz na turę)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2744,8 +2747,8 @@
         },
         {
           "level": 4,
-          "name": "Maximum Output - Ultra High-voltage Current Discharge",
-          "desc": "<style=\"highlight\">Deal +50% damage for every excess Atk Weight beyond the number of actual targets (in Focused Encounters, the Part)</style>\n<style=\"highlight\">[WhenUse] At 5+ [Charge], Coin Power +1</style>\n[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Base Power +1 and Coin Power +2\n<style=\"highlight\">- If there are any remaining [Charge] Count, consume up to 10 [Charge] Count to deal +([Charge] Count additionally consumed due to this effect x 1.5)% damage (max 15%)</style>",
+          "name": "Maksymalna Moc - Wyładowanie Ultrawysokonapięciowe",
+          "desc": "<style=\"highlight\">+50% zadanych obrażeń za każdą nadwyżkę Wagi Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, części)</style>\n<style=\"highlight\">[WhenUse] Mając 5+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet</style>\n[WhenUse] Mając 10+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Bazowej Mocy i +2 Mocy Monet\n<style=\"highlight\">- Jeśli po tym została Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj do 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zadać +(Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> dodatkowo zużytego przez ten efekt x 1.5)% obrażeń (maks 15%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2753,7 +2756,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2763,7 +2766,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             },
@@ -2773,17 +2776,14 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [PhotoElectricity]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"PhotoElectricity\"><color=#e30000><u><link=\"PhotoElectricity\">Fotoelektryczności</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max <style=\"highlight\">5</style>)\n- At 5+ [Charge], inflict <style=\"highlight\">5</style> [ChargedSting] this turn and next turn instead (once per turn)"
+                  "desc": "[OnSucceedAttack] Nałóż [ChargedSting] równe <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> na początku następnej tury (maks <style=\"highlight\">5</style>)\n- Mając 5+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, nałóż <style=\"highlight\">5</style> <sprite name=\"ChargedSting\"><color=#e30000><u><link=\"ChargedSting\">Naładowanego Użądlenia</link></u></color> w tej i w następnej turze zamiast tego (raz na turę)"
                 }
               ]
             }
           ]
-        }
-      ]
-    }
         }
       ]
     }
