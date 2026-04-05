@@ -8160,6 +8160,174 @@
     "id": "battle_special_11215_4",
     "desc": "",
     "dlg": "Self-charge, activate."
-  }
+  },
+
+    {
+      "id": "battle_select_10215_1",
+      "desc": "########## The Ring Apprentice Faust #############",
+      "dlg": "Please observe from a distance—it's for viewing only."
+    },
+    {
+      "id": "battle_endcommand_10215_1",
+      "desc": "",
+      "dlg": "A spark of inspiration."
+    },
+    {
+      "id": "battle_enemy_break_10215_1",
+      "desc": "",
+      "dlg": "These blood vessels are sufficiently thick. Not bad at all."
+    },
+    {
+      "id": "battle_break_10215_1",
+      "desc": "",
+      "dlg": "Are you afraid, Fascia?"
+    },
+    {
+      "id": "battle_kill_10215_1",
+      "desc": "",
+      "dlg": "Only now have we become friends."
+    },
+    {
+      "id": "battle_dead_10215_1",
+      "desc": "",
+      "dlg": "Fa... scia..."
+    },
+    {
+      "id": "battle_s2_10215_1_1",
+      "desc": "",
+      "dlg": "I'll take that Corpus Ingredient."
+    },
+    {
+      "id": "battle_s3_10215_1_1",
+      "desc": "",
+      "dlg": "My bones as the frame, my flesh as the stuffing—the art of the exterior."
+    },
+    {
+      "id": "battle_special_10215_1",
+      "desc": "",
+      "dlg": "I suppose I must show you the art of the exterior."
+    },
+    {
+      "id": "battle_special_10215_2",
+      "desc": "",
+      "dlg": "I don't appreciate acts of vandalism."
+    },
+    {
+      "id": "battle_special_10215_3",
+      "desc": "",
+      "dlg": "You always manage to awaken my inspiration."
+    },
+
+
+    {
+      "id": "battle_select_10614_1",
+      "desc": "############# The Ring Nursefather Hong Lu ###############",
+      "dlg": "Shh. Please be silent while viewing an exhibition."
+    },
+    {
+      "id": "battle_endcommand_10614_1",
+      "desc": "",
+      "dlg": "Please, do share your impressions!"
+    },
+    {
+      "id": "battle_enemy_break_10614_1",
+      "desc": "",
+      "dlg": "Have you any last words to impart to the world...?"
+    },
+    {
+      "id": "battle_break_10614_1",
+      "desc": "",
+      "dlg": "Perhaps my... eye for sublimity was lacking..."
+    },
+    {
+      "id": "battle_kill_10614_1",
+      "desc": "",
+      "dlg": "Ah... What a wonderful cry of death."
+    },
+    {
+      "id": "battle_dead_10614_1",
+      "desc": "",
+      "dlg": "It's you... My undertaker..."
+    },
+    {
+      "id": "battle_s3_10614_1_2",
+      "desc": "",
+      "dlg": "Do you hear it? The euphonious harmony of the humerus pair and 24 ribs...! Tibia's Melody!"
+    },
+    {
+      "id": "battle_special_10614_1",
+      "desc": "",
+      "dlg": "To the audience…\nI can't show any more disgraceful behavior."
+    },
+    {
+      "id": "battle_special_10614_1-01",
+      "desc": "",
+      "dlg": "To the audience…\nI can't show any more disgraceful behavior."
+    },
+    {
+      "id": "battle_special_10614_2",
+      "desc": "",
+      "dlg": "Vandalism is prohibited!"
+    },
+    {
+      "id": "battle_special_10614_3",
+      "desc": "",
+      "dlg": "Faust. The time has arrived to exhibit the art of Corporism."
+    },
+    {
+      "id": "battle_special_10614_4",
+      "desc": "",
+      "dlg": "The gallery's closing hour is here..."
+    },
+    {
+      "id": "battle_special_10614_4-01",
+      "desc": "",
+      "dlg": "The gallery's closing hour is here..."
+    },
+    {
+      "id": "battle_special_10614_4-1",
+      "desc": "",
+      "dlg": "Everyone. Good-bye!"
+    },
+    {
+      "id": "battle_special_10614_4-01-1",
+      "desc": "",
+      "dlg": "Everyone. Good-bye!"
+    },
+    {
+      "id": "battle_special_10614_4-02",
+      "desc": "",
+      "dlg": "The gallery's closing hour is here?"
+    },
+    {
+      "id": "battle_special_10614_4-02-1",
+      "desc": "",
+      "dlg": "Everyone! Good-bye."
+    },
+    {
+      "id": "battle_special_10614_4-03",
+      "desc": "",
+      "dlg": "The gallery's closing hour is here?"
+    },
+    {
+      "id": "battle_special_10614_4-03-1",
+      "desc": "",
+      "dlg": "Everyone! Good-bye."
+    },
+    {
+      "id": "battle_special_10614_5",
+      "desc": "",
+      "dlg": "What a shame. I had hoped it would've become an artwork bearing more impressive scars…"
+    },
+    {
+      "id": "battle_special_10614_6",
+      "desc": "",
+      "dlg": "Ah…! How artistic…!"
+    },
+    {
+      "id": "battle_special_10614_7",
+      "desc": "",
+      "dlg": "From there… Please observe…!"
+    }
   ]
 }
