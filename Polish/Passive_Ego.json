@@ -18,7 +18,7 @@
     {
       "id": 2020111,
       "name": "Nuda",
-      "desc": "Gdy ta jednostka doprowadzi do Zachwiania Przeciwnika jednym ze swoich ataków, 1 Sojusznik z najniższą wartością SP otrzymuje +2 [MentalSystemResultIncrease_Typo] na początku następnej tury. (Maks 3 razy na turę)"
+      "desc": "Gdy ta jednostka doprowadzi do Zachwiania Przeciwnika jednym ze swoich ataków, 1 Sojusznik z najniższą wartością SP otrzymuje +2 [MentalSystemResultpodnieś_Typo] na początku następnej tury. (Maks 3 razy na turę)"
     },
     {
       "id": 2020211,
@@ -103,7 +103,7 @@
     {
       "id": 2090111,
       "name": "Odcięcie",
-      "desc": "+1 [MentalSystemResultIncrease_Typo], -1 [MentalSystemResultDecrease_Typo]"
+      "desc": "+1 [MentalSystemResultpodnieś_Typo], -1 [MentalSystemResultDecrease_Typo]"
     },
     {
       "id": 2090211,
@@ -384,7 +384,7 @@
     {
       "id": 2120711,
       "name": "Lament",
-      "desc": "Na końcu tury: jeśli ta jednostka ma na sobie negatywny efekt, zyskaj 1 [Enhancement] na początku następnej tury\nAtakując cele które panikują lub są pod efektem Korozji E.G.O: zadaj +15% Obrażeń",
+      "desc": "Na końcu tury: jeśli ta jednostka ma na sobie negatywny efekt, zyskaj 1 [Enhancement] na początku następnej tury\nAtakując cele które panikują lub są pod efektem Korozji E.G.O: Zadaj +15% Obrażeń",
       "summary": ""
     },
     {
@@ -458,7 +458,7 @@
     {
       "id": 2020811,
       "name": "Wydech",
-      "desc": "Na początku następnej tury po użyciu tej Umiejętności E.G.O; zyskaj 1 [NebulizerExhale] (raz na turę)\n- Wartość tego Efektu podnosi się stopniowo podczas Potyczki\n\nNa początku fazy ataku: zyskaj 1 [NebulizerExhale] za każdym razem kiedy ta jednostka nałoży łącznie 10 Ilości [Breath] na Sojuszników używając efektów [NebulizerExhale]\n\nNa końcu tury: zaczynając od Sojuszników z najniższym %HP, ulecz (najwyższy rezonans) Sojuszników o (Wartość [NebulizerExhale])% ich HP (maks 6)\n- Jeśli leczona jednostka posada 20+ Nasilenia [Breath], zostaje ona uleczona jeszcze raz"
+      "desc": "Na początku następnej tury po użyciu tej Umiejętności E.G.O; zyskaj 1 [NebulizerExhale] (raz na turę)\n- Wartość tego Efektu podnosi się stopniowo podczas Potyczki\n\nNa początku fazy ataku: Zyskaj 1 [NebulizerExhale] za każdym razem kiedy ta jednostka nałoży łącznie 10 Ilości [Breath] na Sojuszników używając efektów [NebulizerExhale]\n\nNa końcu tury: Zaczynając od Sojuszników z najniższym %HP, ulecz (najwyższy rezonans) Sojuszników o (Wartość [NebulizerExhale])% ich HP (maks 6)\n- Jeśli leczona jednostka posada 20+ Nasilenia [Breath], zostaje ona uleczona jeszcze raz"
     },
     {
       "id": 2090811,
@@ -504,8 +504,8 @@
     {
       "id": 2060911,
       "name": "I Tak Się Zaczyna, 'Oda Do Wina'",
-      "desc": "Na końcu tury: z pomiędzy zasobów E.G.O zużytych przy użyciu 'Chciałbym Być Sobą' Hong Lu(Lenistwo, Przygnębienie, Pycha), zyskaj 1 zasób E.G.O najmniej posiadanego Rodzaju Grzechu.\n\nZadaj +1% Obrażeń za każdy stracony lub zużyty [Cianjing] lub [SeniorCianjing] w ciągu tej tury(maks 15%)",
-      "summary": "Na końcu tury: zyskaj zasób E.G.Os\nZadaj więcej Obrażeń na podstawie ilości zużytych/straconych [Cianjing] lub [SeniorCianjing]"
+      "desc": "Na końcu tury: Z pomiędzy zasobów E.G.O zużytych przy użyciu 'Chciałbym Być Sobą' Hong Lu(Lenistwo, Przygnębienie, Pycha), zyskaj 1 zasób E.G.O najmniej posiadanego Rodzaju Grzechu.\n\nZadaj +1% Obrażeń za każdy stracony lub zużyty [Cianjing] lub [SeniorCianjing] w ciągu tej tury(maks 15%)",
+      "summary": "Na końcu tury: Zyskaj zasób E.G.Os\nZadaj więcej Obrażeń na podstawie ilości zużytych/straconych [Cianjing] lub [SeniorCianjing]"
     },
     {
       "id": 2081011,
@@ -530,9 +530,9 @@
     },
     {
       "id": 2010811,
-      "name": "Skyweaving",
-      "desc": "Jeśli cel posiada [ThreeMirrorpartYiSang], nałóż +1 Nasilenia [Combustion] oraz Nasilenia [Sinking] with this unit's Base Attack Skills (up to a total of 8 additional Potency per turn)\nFor every enemy killed due to [Combustion] damage, zyskaj a \"DMG Up\" na początku następnej tury for a random Attack Type (3 per turn; randomized for each instance)",
-      "summary": "nałóżs [Combustion] oraz Nasilenia [Sinking] to enemies with [ThreeMirrorpartYiSang]\nFor every enemy killed by [Combustion] damage, zyskaj DMG Up for a random Attack Type"
+      "name": "Szycie Nieba",
+      "desc": "Jeśli cel posiada [ThreeMirrorpartYiSang], nałóż +1 Nasilenia [Combustion] oraz Nasilenia [Sinking] Umiejętnościami Bazowymi tej jednostki (może nałożyć maks 8 dodatkowego Nasillenia na turę)\nZyskaj [AttackDmgUp] losowego Typu Ataku na początku następnej tury za każdym razem gdy Przeciwnik umierze od obrażeń od [Combustion] (3 razy na turę; każdy zyskany Rodzaj jest losowy)",
+      "summary": "Nałóż dodatkowe [Combustion] oraz Nasilenie [Sinking] na Przeciwników z [ThreeMirrorpartYiSang]\nZyskaj [AttackDmgUp] losowego typu ataku za każdym razem gdy Przeciwnik umiera od obrażeń od [Combustion]"
     },
     {
       "id": 2040911,
@@ -542,8 +542,13 @@
     },
     {
       "id": 2100911,
-      "name": "That... was Indeed a Rhythm",
-      "desc": "Turn Start: zyskaj 2 [ThatIsRhythm]\n\nOn Target Kill: This unit heals 5% HP and 5 SP (once per turn)\n- If target was killed by E.G.O Skill - Harmony, double the amount this effect heals\n\nTurn End: If this unit lost SP this turn, heal (4 + sum of [Combustion] oraz [Laceration] on all enemies / 10) SP (max 10; rounded down)"
+      "name": "To... Rzeczywiście Był Rytm",
+      "desc": "Na Początku Tury: Zyskaj 2 [ThatIsRhythm]\n\nPo Pokonaniu Celu: Ta jednostka leczy 5% PŻ oraz 5 SP (raz na turę)\n- Jeśli cel tej jednostki został Pokonany przez Umiejętność E.G.O - Harmonia, podwój efekt leczący tej Pasywki\n\nNa Koniec Tury: Jeśli ta jednostka straciła SP podczas tej tury, ulecz (4 + suma Nasilenia [Combustion] oraz [Laceration] na wszystkich Przeciwnikach / 10) SP (maks 10; zaokrąglone w dół)"
+    }
+    {
+      "id": 2021011,
+      "name": "Unsnuffed Embers",
+      "desc": "Pasywka ta staje się aktywna od razu po użyciu tej Umiejętności E.G.O\n\nZa każde 10 [Combustion] na sobie, podnieś Nasilenie [Combustion] nakładane na Przeciwników używając Efektów oraz Monet Bazowych Umiejętności tej jednostki o 1 (maks 2, nie działa z 'Unikalnym [Combustion]')\n\nGdy ta jednostka użyje Umiejętności 'Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】' , jednostka ta Nie Umiera po użyciu tej Umiejętności; zamiast tego, leczy ona 40% PŻ oraz zyskuje 2 [HitDamageUp] oraz 1 [CrimsonDamageUp] na początku następnej tury (raz na Potyczkę)"
     }
   ]
 }
