@@ -2278,7 +2278,7 @@
         {
           "level": 3,
           "name": "Zgodnie z Wolą Nakazu, Zostaniecie Wyeliminowani.",
-          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], zadaj +20% Obrażeń przy Trafieniu Krytycznym\nPrzy 6+ ([Breath] na sobie + [Sinking] na celu), +1 Mocy Monet\n[StartBattle] Przy 6+ [BlessingOfIndexPrescriptAlly], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] Zyskaj +3 Ilości [Breath]<style=\"highlight\"></style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], zadaj +20% Obrażeń przy Trafieniu Krytycznym\nPrzy 6+ ([Breath] na sobie + [Sinking] na celu), +1 Mocy Monet\n[StartBattle] Przy 6+ [BlessingOfIndexPrescriptAlly], zamień wszystkie Monety tej Umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +3 Ilości [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2312,7 +2312,7 @@
         {
           "level": 4,
           "name": "Zgodnie z Wolą Nakazu, Zostaniecie Wyeliminowani.",
-          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">+1 Mocy Finalnej</style> oraz zadaj <style=\"highlight\">+30%</style> Obrażeń przy Trafieniu Krytycznym\n<style=\"highlight\">+1 Mocy Monet za każde 6 ([Breath] na sobie + [Sinking] na celu) (maks 2)</style>\n[StartBattle] Przy 6+ [BlessingOfIndexPrescriptAlly], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s oraz <style=\"highlight\">zadaj +30% Obrażeń</style>\n[WhenUse] Zyskaj +3 Ilości [Breath]\n<style=\"highlight\">- Zyskaj wartość Nasilenia [Breath] równą ([BlessingOfIndexPrescriptAlly]/3) (zaokrąglone w dół)</style>",
+          "desc": "Jeśli ta Umiejętność jest naznaczona [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">+1 Mocy Finalnej</style> oraz zadaj <style=\"highlight\">+30%</style> Obrażeń przy Trafieniu Krytycznym\n<style=\"highlight\">+1 Mocy Monet za każde 6 ([Breath] na sobie + [Sinking] na celu) (maks 2)</style>\n[StartBattle] Przy 6+ [BlessingOfIndexPrescriptAlly], zamień wszystkie Monety tej Umiejętności w [SuperCoin] oraz <style=\"highlight\">zadaj +30% Obrażeń</style>\n[WhenUse] Zyskaj +3 Ilości [Breath]\n<style=\"highlight\">- Zyskaj wartość Nasilenia [Breath] równą ([BlessingOfIndexPrescriptAlly]/3) (zaokrąglone w dół)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2387,6 +2387,604 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Porcjowanie - Żebra",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Porcjowanie - Żebra",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Porcjowanie - Żebra",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 3)\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fascia Jest Głodna",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fascia Jest Głodna",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fascia Jest Głodna",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Stłumione Ciało",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +3% obrażeń za każdą zużytą Ilość [ChargeBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Stłumione Ciało",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 3)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +3% obrażeń za każdą zużytą Ilość [ChargeBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przygotowania Do Wystawy",
+          "desc": "[CanDuelGuard]\nUmiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WinDuel] Nałóż +1 Ilości [Laceration] na agresorze (2 razy na turę)\n[WinDuel] Zadaj obrażenia od Przebicia równe Nasileniu [Laceration] na agresorze (maks obrażenia: 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przygotowania Do Wystawy",
+          "desc": "[CanDuelGuard]\nUmiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WinDuel] Nałóż +2 Ilości [Laceration] na agresorze (2 razy na turę)\n[WinDuel] Zadaj obrażenia od Przebicia równe <style=\"highlight\">(Nasilenie [Laceration] na agresorze x 2)</style> (maks obrażenia: <style=\"highlight\">30</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Porcjowanie - Żebra",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Porcjowanie - Żebra",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\nZadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Porcjowanie - Żebra",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\nZadaj +10% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 30%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Czas na przekąske, Fasica",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Czas na przekąske, Fasica",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n<style=\"highlight\">Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Czas na przekąske, Fasica",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Oswobodzenie Stłumionego Ciała",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 2)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt]aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń za każdą zużytą Ilość [ChargeBodyArt]\n-Posiadając 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [SlashDamageUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Oswobodzenie Stłumionego Ciała",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 3)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt]aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń za każdą zużytą Ilość [ChargeBodyArt]\n-Posiadając 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [SlashDamageUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Otwarcie Wystawy",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[OnSucceedEvade] Nałóż 1 [Binding] na agresora na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Otwarcie Wystawy",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[OnSucceedEvade] Nałóż 1 [Binding] na agresora na początku następnej tury (raz na turę)\n[OnSucceedEvade] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wandalizm Surowo Zakazany.",
+          "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)\n[WhenUse] Jeśli cel posiada 6+ [Laceration], +1 Mocy Monet\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wandalizm Surowo Zakazany.",
+          "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
                 }
               ]
             }
