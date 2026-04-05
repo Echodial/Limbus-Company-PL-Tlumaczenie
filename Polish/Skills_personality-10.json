@@ -1738,7 +1738,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Żelazna Chroń",
+          "name": "Żelazna Obrona",
           "desc": "Kiedy ta Jednostka ma Tarczę; Nałóż 1 [Vibration] na Przeciwnika po otrzymanu od niego obrażeń  (3 razy na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {}
@@ -1746,7 +1746,7 @@
         },
         {
           "level": 4,
-          "name": "Żelazna Chroń",
+          "name": "Żelazna Obrona",
           "desc": "Kiedy ta Jednostka ma Tarczę; Nałóż <style=\"highlight\">2</style> [Vibration] na Przeciwnika po otrzymanu od niego obrażeń (<style=\"highlight\">4</style> razy na turę)",
           "coinlist": [
             {}
@@ -2283,7 +2283,7 @@
         {
           "level": 3,
           "name": "Pogromca Upadłych Gwiazd [落星一殺]",
-          "desc": "Zadaj +30% damage za każdą nie użytą Wagę Ataku\n[WhenUse] Przy 20 [LittleFingerID], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] +1 Mocy Monet za każde 4 [Breath] na sobie (maks 3)\n[WhenUse] +1 Mocy Bazowej za każde 4 [LittleFingerID] na sobie (maks 3)\n[WhenUse] Zyskaj 5 [Breath]\n\n[BeforeAttack] +1 Wagi Ataku za każde 10 [LittleFingerID] na sobie (maks 2)\n[EndSkill] Zużyj 7 [LittleFingerID] za każdą Wagę Ataku zyskaną dzięki efektowi tej Umiejętności",
+          "desc": "Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] Przy 20 [LittleFingerID], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] +1 Mocy Monet za każde 4 [Breath] na sobie (maks 3)\n[WhenUse] +1 Mocy Bazowej za każde 4 [LittleFingerID] na sobie (maks 3)\n[WhenUse] Zyskaj 5 [Breath]\n\n[BeforeAttack] +1 Wagi Ataku za każde 10 [LittleFingerID] na sobie (maks 2)\n[EndSkill] Zużyj 7 [LittleFingerID] za każdą Wagę Ataku zyskaną dzięki efektowi tej Umiejętności",
           "coinlist": [
             {
               "coindescs": [
@@ -2303,7 +2303,7 @@
         {
           "level": 4,
           "name": "Pogromca Upadłych Gwiazd [落星一殺]",
-          "desc": "Zadaj <style=\"highlight\">+50%</style> damage za każdą nie użytą Wagę Ataku\n[WhenUse] Przy 20 [LittleFingerID], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] +1 Mocy Monet za każde 4 [Breath] na sobie (maks <style=\"highlight\">5</style>)\n[WhenUse] +1 Mocy Bazowej za każde 4 [LittleFingerID] na sobie (maks <style=\"highlight\">5</style>)\n[WhenUse] Zyskaj <style=\"highlight\">7</style> [Breath]\n\n[BeforeAttack] +1 Wagi Ataku za każde 10 [LittleFingerID] na sobie (maks 2)\n[EndSkill] Zużyj <style=\"highlight\">5</style> [LittleFingerID] za każdą Wagę Ataku zyskaną dzięki efektowi tej Umiejętności",
+          "desc": "Zadaj <style=\"highlight\">+50%</style> obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] Przy 20 [LittleFingerID], zamień wszystkie Monety tej Umiejętności w [SuperCoin]s\n[WhenUse] +1 Mocy Monet za każde 4 [Breath] na sobie (maks <style=\"highlight\">5</style>)\n[WhenUse] +1 Mocy Bazowej za każde 4 [LittleFingerID] na sobie (maks <style=\"highlight\">5</style>)\n[WhenUse] Zyskaj <style=\"highlight\">7</style> [Breath]\n\n[BeforeAttack] +1 Wagi Ataku za każde 10 [LittleFingerID] na sobie (maks 2)\n[EndSkill] Zużyj <style=\"highlight\">5</style> [LittleFingerID] za każdą Wagę Ataku zyskaną dzięki efektowi tej Umiejętności",
           "coinlist": [
             {
               "coindescs": [
