@@ -63,7 +63,7 @@
     {
       "id": "battle_react_10310_12",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as well, I suppose..."
+      "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as Cóż, I suppose..."
     },
     {
       "id": "battle_react_10310_13",
@@ -208,7 +208,7 @@
     {
       "id": "8SV-042",
       "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
-      "dlg": "... Whew. That worked."
+      "dlg": "... Fiu. That worked."
     },
     {
       "id": "8SV-051",
@@ -253,12 +253,12 @@
     {
       "id": "8SV-059",
       "desc": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
-      "dlg": "We have transcended the yoke of life and death...\nThus, Hongyuan shall shine for all eternity as well!"
+      "dlg": "We have transcended the yoke of life and death...\nThus, Hongyuan shall shine for all eternity as Cóż!"
     },
     {
       "id": "8SV-060",
       "desc": "가모턴 시작 : 지고한 불사 흐트러짐",
-      "dlg": "Ahh... What a shameful failure of duties this is..."
+      "dlg": "Ahh... Szkodaful failure of duties this is..."
     },
     {
       "id": "8SV-061",
@@ -7444,7 +7444,7 @@
   {
         "id": "battle_dead_10214_1",
         "desc": "",
-        "dlg": "Czy Nakaz… prowadził mnie do mojej zguby…? Jeśli nie to… czyja wola… mogłaby to być…?"
+        "dlg": "Czy Nakaz… prowadził mnie do mojej zguby…? Jeśli nie to… czyja była ta… wola…?"
   },
   {
         "id": "battle_s3_10214_1_4",
@@ -7474,7 +7474,7 @@
   {
         "id": "battle_special_10214_1",
         "desc": "",
-        "dlg": "Robie wszystko zgodnie z Nakazem."
+        "dlg": "Robię wszystko zgodnie z Nakazem."
   },
   {
         "id": "battle_special_10214_2",
@@ -7511,12 +7511,12 @@
     {
       "id": "battle_enemy_break_10314_1",
       "desc": "Enemy Stagger",
-      "dlg": "Zostałeś wstrząśnięty."
+      "dlg": "Zostałeś... wstrząśnięty."
     },
     {
       "id": "battle_break_10314_1",
       "desc": "Staggered",
-      "dlg": "Ałłłłć... P-po tym na pewno będe mieć siniaka..."
+      "dlg": "Ałłłć... P-po tym na pewno będe mieć siniaka..."
     },
     {
       "id": "battle_kill_10314_1",
@@ -7536,7 +7536,7 @@
 	{
       "id": "battle_special_10314_1",
       "desc": "",
-      "dlg": "Nakaz nie zna czegoś takiego jak niepewność."
+      "dlg": "Nakaz nie zna czegoś takiego, jak niepewność."
     },
 	{
       "id": "battle_special_10314_2",
@@ -7561,7 +7561,7 @@
 	{
       "id": "battle_special_10314_6",
       "desc": "",
-      "dlg": "Egzekucja zakończona."
+      "dlg": "Egzekucja ukończona."
     },
 	  {
       "id": "battle_special_10314_7",
@@ -7572,7 +7572,7 @@
 	{
 		"id": "battle_select_10814_1",
 		"desc": "Viewed in Battle ####### House of Spiders Middle Apperentice Ishmael #######",
-		"dlg": "Ty, widziałoś ten ruch? Ta jedna część, no naprawde, jak oni...\nChyba tak to się robi? Albo—a, wiem! O <i>tak</i>?!"
+		"dlg": "Ty, widziałoś ten ruch? Ten jeden ruch, no naprawde, jak oni to...\nChyba że tak? Albo— a, wiem! O tak!"
 	},
 	{
 		"id": "battle_endcommand_10814_1",
@@ -7637,27 +7637,27 @@
 	{
 		"id": "battle_special_10814_2",
 		"desc": "",
-		"dlg": "Może i nie dorównuje ostrzu Mamy... ale ja też mogę ciąć i smażyć jednocześnie moimi ostrzami. Fajne, nie?"
+		"dlg": "Może i nie dorównuje ostrzu Mamy... ale ja też mogę ciąć i podsmażać jednocześnie. Fajne, nie?"
 	},
 	{
 		"id": "battle_special_10814_3",
 		"desc": "",
-		"dlg": "No to teraz… się wkurwiłam."
+		"dlg": "No to teraz… się wkurzyłam."
 	},
 	{
 		"id": "battle_special_10814_4",
 		"desc": "",
-		"dlg": "O? Ty też zostajesz dziś w Domu Pająków? To... czytałeś tą serię 'Tnące Chmury Ostrze'. Wiesz, tą o której ci mówiłam? Hej, c-czekaj chwile! Nie uciekaj ode mnie jak mówie!"
+		"dlg": "O? Ty też zostajesz dziś w Domu Pająków? To... czytałeś tą serię 'Tnące Chmury Ostrze'. Wiesz, tą o której ci mówiłam? Hej, c-czekaj chwile! Nie odchodź jak coś mówie!"
 	},
 	{
 		"id": "battle_special_10814_5",
 		"desc": "",
-		"dlg": "Tak jak myślałam, Mamusia jest najlepsza~!"
+		"dlg": "Wiedziałam, Mamusia jest najlepsza~!"
 	},
 	{
 		"id": "battle_select_11214_1",
 		"desc": "########## Lamp EGO Gregor ############",
-		"dlg": "Niestety, w moim lesie żyją już tylko trupy. Teraz, jedyna rzeczą którą mogę jeszcze dla nich zrobić… jest uśmiercenie tej bestii."
+		"dlg": "Niestety, w moim lesie leżą już tylko trupy. Jedyne co mogę jeszcze dla nich zrobić… to upolowanie tej bestii."
 	},
 	{
 		"id": "battle_endcommand_11214_1",
@@ -7692,7 +7692,7 @@
 	{
 		"id": "battle_s3_11214_1_6",
 		"desc": "",
-		"dlg": "Widze teraz bardzo wyraźnie… te życia, które muszę uratować!"
+		"dlg": "Widze teraz bardzo wyraźnie… życia, które muszę ocalić!"
 	},
 	{
 		"id": "battle_special_11214_1",
@@ -7732,17 +7732,17 @@
     {
       "id": "battle_s2_11015_1_4",
       "desc": "",
-      "dlg": "Aby kroczyć Ścieżką Ostrza…"
+      "dlg": "Ścieżka ostrza zabezpieczona…"
     },
     {
       "id": "battle_s2_11015_1_4-01",
       "desc": "",
-      "dlg": "Aby kroczyć Ścieżką Ostrza…"
+      "dlg": "Ścieżka ostrza zabezpieczona…"
     },
     {
       "id": "battle_s2_11015_1_4-02",
       "desc": "",
-      "dlg": "Aby kroczyć Ścieżką Ostrza…"
+      "dlg": "Ścieżka ostrza zabezpieczona…"
     },
     {
       "id": "battle_s2_11015_1_6",
@@ -7762,37 +7762,37 @@
     {
       "id": "battle_s2_11015_1_7",
       "desc": "",
-      "dlg": "Potrójne Cięcie(三連), Perfekcyjne Wykonane."
+      "dlg": "Potrójne Cięcie(三連), Perfekcyjnie Wykonane."
     },
     {
       "id": "battle_s2_11015_1_7-01",
       "desc": "",
-      "dlg": "Potrójne Cięcie(三連), Perfekcyjne Wykonane."
+      "dlg": "Potrójne Cięcie(三連), Perfekcyjnie Wykonane."
     },
     {
       "id": "battle_s2_11015_1_7-02",
       "desc": "",
-      "dlg": "Potrójne Cięcie(三連), Perfekcyjne Wykonane."
+      "dlg": "Potrójne Cięcie(三連), Perfekcyjnie Wykonane."
     },
     {
       "id": "battle_s3_11015_1_5",
       "desc": "",
-      "dlg": "Aby uciszyć wszystkie dźwięki, włącznie z swoim oddechem…"
+      "dlg": "Aby uciszyć wszystkie dźwięki, włącznie z moim oddechem…"
     },
     {
       "id": "battle_s3_11015_1_6",
       "desc": "",	
-      "dlg": "Przetnij natychmiast przez zanikające otwarcie w ich defensywie…"
+      "dlg": "Przetne się natychmiast przez zanikające otwarcie w ich gardzie…"
     },
     {
       "id": "battle_s3_11015_1_7",
       "desc": "",
-      "dlg": "i zobacz, jak bezzwłocznie ostrze to rozpłata i przetnie."
+      "dlg": "i zobaczę, jak bezzwłocznie ostrze to rozpłata i przetnie."
     },
     {
       "id": "battle_s3_11015_1_8",
       "desc": "",
-      "dlg": "Po czym, gdy opadnie już pył i jucha, doświadcz księżyca w jego pełni."
+      "dlg": "Po czym, gdy opadnie już pył i jucha, doświadczę księżyca w jego pełni."
     },
 	
 	{
@@ -7878,7 +7878,7 @@
     {
         "id": "battle_special_10115_10",
         "desc": "",
-        "dlg": "Brodząc w płytkim śnie, nie znając czegoś takiego jak \"ja\". (無我夢中)"
+        "dlg": "Brodząc w płytkim śnie, nie znając czegoś takiego, jak \"ja\". (無我夢中)"
     },
     {
         "id": "battle_special_10115_11",
@@ -7888,12 +7888,12 @@
     {
         "id": "battle_special_10115_12",
         "desc": "",
-        "dlg": "Rozcięci oraz rozdarci, aż sama forma rozpruje się w nil. (支離滅裂)"
+        "dlg": "Rozcinam i rozdzieram, aż ich forma rozpruje się w nil. (支離滅裂)"
     },
     {
         "id": "battle_special_10115_13",
         "desc": "",
-        "dlg": "Bądźcie lecz radośni, w swych ostatnich chwilach. Albowiem zostaliście wybrani."
+        "dlg": "Bądźcie radośni w swych ostatnich chwilach. Zostaliście bowiem wybrani."
     },
     {
         "id": "battle_special_10115_14-1",
@@ -7903,7 +7903,7 @@
     {
         "id": "battle_special_10115_14-2",
         "desc": "",
-        "dlg": "Haha… Zastanawiam się czy moja droga córka rozpoznałaby ciągle tą ranę…"
+        "dlg": "Haha… Zastanawiam się czy moja droga córka rozpoznała by ciągle tą ranę…"
     },
     {
         "id": "battle_special_10115_15-1",
@@ -7928,7 +7928,7 @@
     {
         "id": "battle_special_10115_17",
         "desc": "",
-        "dlg": "Ah… Don Quixote. Doprawdy, jeśli spiszesz się dobrze podczas tej bitwy… Bez wątpienia zasłużysz ode mnie na pochwałę."
+        "dlg": "Ah… Don Quixote. Doprawdy, jeśli spiszesz się dobrze podczas tej bitwy… Bez wątpienia zasłużysz ode mnię na pochwałę."
     },
   {
     "id": "battle_select_10514_1",
@@ -8104,17 +8104,17 @@
   {
     "id": "battle_select_11215_1",
     "desc": "################# LCE AEDD Gregor ###############",
-    "dlg": "Experiment is underway. Do practice caution when controlling the variables."
+    "dlg": "Rozpoczynam eksperyment. Pamiętajcie aby zachować ostrożność podczas kontrolowania zmiennych."
   },
   {
     "id": "battle_endcommand_11215_1",
     "desc": "",
-    "dlg": "Let us run a test and trial."
+    "dlg": "Przeprowadźmy test."
   },
   {
     "id": "battle_enemy_break_11215_1",
     "desc": "",
-    "dlg": "Admirable effort. However..."
+    "dlg": "Godna pochwały próba. Jednakże..."
   },
   {
     "id": "battle_break_11215_1",
@@ -8124,68 +8124,68 @@
   {
     "id": "battle_kill_11215_1",
     "desc": "",
-    "dlg": "... Nothing too remarkable."
+    "dlg": "... Wynik nie wykraczający poza przewidywania."
   },
   {
     "id": "battle_dead_11215_1",
     "desc": "",
-    "dlg": "Well... I don't suppose I was all that exceptional either..."
+    "dlg": "Cóż... Wygląda na to że ja też nie wykraczałem poza przewidywania..."
   },
   {
     "id": "battle_s3_11215_1_3",
     "desc": "",
-    "dlg": "Standard-duty battery, temporary discharge!"
+    "dlg": "Standardowa Bateria, krótkotrwałe wyładowanie!"
   },
   {
     "id": "battle_special_11215_1",
     "desc": "",
-    "dlg": "Changing output mode!"
+    "dlg": "Podkręcam moc wyjściową!"
   },
   {
     "id": "battle_special_11215_1-01",
     "desc": "",
-    "dlg": "Whew… it’s been nicely fried."
+    "dlg": "Fiu… ładnie się usmażyło."
   },
   {
     "id": "battle_special_11215_2",
     "desc": "",
-    "dlg": "I'll provide you support."
+    "dlg": "Zapewnie ci wsparcie."
   },
   {
     "id": "battle_special_11215_3",
     "desc": "",
-    "dlg": "Transfer sequence activated."
+    "dlg": "Aktywuję sekwencje transferu."
   },
   {
     "id": "battle_special_11215_4",
     "desc": "",
-    "dlg": "Self-charge, activate."
+    "dlg": "Auto-ładowanie, aktywacja."
   },
 
     {
       "id": "battle_select_10215_1",
       "desc": "########## The Ring Apprentice Faust #############",
-      "dlg": "Please observe from a distance—it's for viewing only."
+      "dlg": "Proszę zachować dystans—ta wystawa jest wyłącznie do oglądania."
     },
     {
       "id": "battle_endcommand_10215_1",
       "desc": "",
-      "dlg": "A spark of inspiration."
+      "dlg": "Iskra inspiracji."
     },
     {
       "id": "battle_enemy_break_10215_1",
       "desc": "",
-      "dlg": "These blood vessels are sufficiently thick. Not bad at all."
+      "dlg": "Te żyły są wystarczająco grube. Nie najgorzej."
     },
     {
       "id": "battle_break_10215_1",
       "desc": "",
-      "dlg": "Are you afraid, Fascia?"
+      "dlg": "Fascia, czyżbyś się bała?"
     },
     {
       "id": "battle_kill_10215_1",
       "desc": "",
-      "dlg": "Only now have we become friends."
+      "dlg": "Dopiero teraz staliśmy się prawdziwymi przyjaciółmi."
     },
     {
       "id": "battle_dead_10215_1",
@@ -8195,139 +8195,142 @@
     {
       "id": "battle_s2_10215_1_1",
       "desc": "",
-      "dlg": "I'll take that Corpus Ingredient."
+      "dlg": "Wezmę ten kawałek ciała."
     },
     {
       "id": "battle_s3_10215_1_1",
       "desc": "",
-      "dlg": "My bones as the frame, my flesh as the stuffing—the art of the exterior."
+      "dlg": "Moje kości jako rama, moje mięso jako obraz—tym właśnie jest sztuka zewnętrza."
     },
     {
       "id": "battle_special_10215_1",
       "desc": "",
-      "dlg": "I suppose I must show you the art of the exterior."
+      "dlg": "Wygląda na to że muszę ci pokazać, czym jest sztuka zewnętrza."
     },
     {
       "id": "battle_special_10215_2",
       "desc": "",
-      "dlg": "I don't appreciate acts of vandalism."
+      "dlg": "Nie zezwalam na akty wandalizmu."
     },
     {
       "id": "battle_special_10215_3",
       "desc": "",
-      "dlg": "You always manage to awaken my inspiration."
+      "dlg": "Zawsze udaje ci się obudzić we mnię inspiracje."
     },
 
 
     {
       "id": "battle_select_10614_1",
       "desc": "############# The Ring Nursefather Hong Lu ###############",
-      "dlg": "Shh. Please be silent while viewing an exhibition."
+      "dlg": "Cii. Proszę zachować ciszę podczas oglądania wystawy."
     },
     {
       "id": "battle_endcommand_10614_1",
       "desc": "",
-      "dlg": "Please, do share your impressions!"
+      "dlg": "Proszę, powiedzcie co myślicie!"
     },
     {
       "id": "battle_enemy_break_10614_1",
       "desc": "",
-      "dlg": "Have you any last words to impart to the world...?"
+      "dlg": "Czy masz ostatnie słowa które chcesz zostawić na tym świecie...?"
     },
     {
       "id": "battle_break_10614_1",
       "desc": "",
-      "dlg": "Perhaps my... eye for sublimity was lacking..."
+      "dlg": "Możliwe że... mam braki w kwestji dostrzegania wybitności..."
     },
     {
       "id": "battle_kill_10614_1",
       "desc": "",
-      "dlg": "Ah... What a wonderful cry of death."
+      "dlg": "Ah... Cóż za piękny odgłos śmierci."
     },
     {
       "id": "battle_dead_10614_1",
-      "desc": "",
-      "dlg": "It's you... My undertaker..."
+      "desc": "Życie to chuj!
+               Życie to Dix!
+               Wszyscy wciąż czekają
+               Na 'Godzinę X'!",
+      "dlg": "A więc to ty... Jesteś moim grabarzem..."
     },
     {
       "id": "battle_s3_10614_1_2",
       "desc": "",
-      "dlg": "Do you hear it? The euphonious harmony of the humerus pair and 24 ribs...! Tibia's Melody!"
+      "dlg": "Czy ją słyszysz? Euforyczna harmonia kości ramiennych oraz 24 żeber...! To właśnie Melodia Piszczela!"
     },
     {
       "id": "battle_special_10614_1",
       "desc": "",
-      "dlg": "To the audience…\nI can't show any more disgraceful behavior."
+      "dlg": "Nie mogę pokazać naszej publiczności…\nWięcej takich niechlubnych zachowań."
     },
     {
       "id": "battle_special_10614_1-01",
       "desc": "",
-      "dlg": "To the audience…\nI can't show any more disgraceful behavior."
+      "dlg": "Nie mogę pokazać naszej publiczności…\nWięcej takich niechlubnych zachowań."
     },
     {
       "id": "battle_special_10614_2",
       "desc": "",
-      "dlg": "Vandalism is prohibited!"
+      "dlg": "Wandalizm jest surowo zakazany!"
     },
     {
       "id": "battle_special_10614_3",
       "desc": "",
-      "dlg": "Faust. The time has arrived to exhibit the art of Corporism."
+      "dlg": "Faust. Nadeszła pora pokazać wszystkim sztukę Korporyzmu."
     },
     {
       "id": "battle_special_10614_4",
       "desc": "",
-      "dlg": "The gallery's closing hour is here..."
+      "dlg": "Nastała godzina zamknięcia..."
     },
     {
       "id": "battle_special_10614_4-01",
       "desc": "",
-      "dlg": "The gallery's closing hour is here..."
+      "dlg": "Nastała godzina zamknięcia..."
     },
     {
       "id": "battle_special_10614_4-1",
       "desc": "",
-      "dlg": "Everyone. Good-bye!"
+      "dlg": "Mam nadzieję że wystawa się podobała. Zapraszamy ponownie!"
     },
     {
       "id": "battle_special_10614_4-01-1",
       "desc": "",
-      "dlg": "Everyone. Good-bye!"
+      "dlg": "Mam nadzieję że wystawa się podobała. Zapraszamy ponownie!"
     },
     {
       "id": "battle_special_10614_4-02",
       "desc": "",
-      "dlg": "The gallery's closing hour is here?"
+      "dlg": "Czyżby nastała godzina zamknięcia?"
     },
     {
       "id": "battle_special_10614_4-02-1",
       "desc": "",
-      "dlg": "Everyone! Good-bye."
+      "dlg": "Mam nadzieję że wystawa się podobała! Zapraszamy ponownie."
     },
     {
       "id": "battle_special_10614_4-03",
       "desc": "",
-      "dlg": "The gallery's closing hour is here?"
+      "dlg": "Czyżby nastała godzina zamknięcia?"
     },
     {
       "id": "battle_special_10614_4-03-1",
       "desc": "",
-      "dlg": "Everyone! Good-bye."
+      "dlg": "Mam nadzieję że wystawa się podobała! Zapraszamy ponownie."
     },
     {
       "id": "battle_special_10614_5",
       "desc": "",
-      "dlg": "What a shame. I had hoped it would've become an artwork bearing more impressive scars…"
+      "dlg": "Szkoda. Miałem nadzieję że stanie się dziełem okazującym bardziej imponujące blizny…"
     },
     {
       "id": "battle_special_10614_6",
       "desc": "",
-      "dlg": "Ah…! How artistic…!"
+      "dlg": "Ah…! Jakże artystycznie…!"
     },
     {
       "id": "battle_special_10614_7",
       "desc": "",
-      "dlg": "From there… Please observe…!"
+      "dlg": "Stąd widzicie ją całą… Proszę obserwować uważnie resztę wystawy…!"
     }
   ]
 }
