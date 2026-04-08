@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "event_judgement_above",
-      "content": "<color=#f8c200>Advantage</color>"
+      "content": "<color=#f8c200>Przewaga</color>"
     },
     {
       "id": "event_judgement_below",
-      "content": "<color=#e30000>Disadvantage</color>"
+      "content": "<color=#e30000>Brak Przewagi</color>"
     },
     {
       "id": "event_select_personality_to_proceed_judgement",

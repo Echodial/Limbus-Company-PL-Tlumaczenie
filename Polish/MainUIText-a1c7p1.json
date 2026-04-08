@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "stage_recommend_level_popup_battle_participant_desc",
-      "content": "The current average level of your deployed Identities is <color=#990000>lower</color> than the recommended level for this Stage.\nStart the Encounter anyway?"
+      "content": "Obecny średni poziom wybranych Tożsamości jest <color=#990000>niższy</color> niż zalecany na ten Etap.\nZacząć Potyczkę mimo to?"
     },
     {
       "id": "stage_recommend_level_popup_formation_desc",
-      "content": "The current average level of Identities in your loadout is <color=#990000>lower</color> than the recommended level for this Stage.\nStart the Encounter anyway?"
+      "content": "Obecny średni poziom Tożsamości w twoim zespole jest <color=#990000>niższy</color> niż zalecany na ten Etap.\nZacząć Potyczkę mimo to?"
     },
     {
       "id": "stage_recommend_level_popup_dungeon_entrance_desc",
-      "content": "The current average level of Identities in your loadout is <color=#990000>lower</color> than the recommended level for this Stage.\nEnter the Dungeon anyway?"
+      "content": "Obecny średni poziom Tożsamości w twoim zespole jest <color=#990000>niższy</color> niż zalecany na ten Etap.\nWejść do Lochu mimo to?"
     },
     {
       "id": "current_average_level_and_recommend_level_format",
-      "content": "Current Avg. Level: {0}\n<color=#f8c200>Recommended Level: {1}</color>"
+      "content": "Obecny Śr. Poziom: {0}\n<color=#f8c200>Zalecany Poziom: {1}</color>"
     },
     {
       "id": "current_average_level_with_additional_val_and_recommend_level_format",
-      "content": "Current Avg. Level: {0} ({1})\n<color=#f8c200>Recommended Level: {2}</color>"
+      "content": "Obecny Śr. Poziom: {0} ({1})\n<color=#f8c200>Zalecany Poziom: {2}</color>"
     },
     {
       "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
-      "content": "<color=#f8c200>Recommended Identity & E.G.O Uptie/Threadspin <color=#990000>Tiers: {0}</color> </color>"
+      "content": "<color=#f8c200>Zalecane Powiązanie/Sprzędzenie Tożsamości & E.G.O <color=#990000>Poziomy: {0}</color> </color>"
     }
   ]
 }

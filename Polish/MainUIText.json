@@ -90,7 +90,7 @@
     },
     {
       "id": "mainui_sinners_passive",
-      "content": "PASSIVES"
+      "content": "ZD. PASYWNW"
     },
     {
       "id": "mainui_sinners_egoresource",
@@ -146,7 +146,7 @@
     },
     {
       "id": "mainui_battleresult_victory",
-      "content": "Zwycięztwo"
+      "content": "Zwycięstwo"
     },
     {
       "id": "mainui_battleresult_defeat",
@@ -198,7 +198,7 @@
     },
     {
       "id": "mainui_mirror_entrance_progressing",
-      "content": "{0} jest już w trakcie."
+      "content": "Jesteś już w {0}."
     },
     {
       "id": "mainui_mirror_entrance_re_entry",
@@ -250,7 +250,7 @@
     },
     {
       "id": "mainui_stats_hp",
-      "content": "HP"
+      "content": "PŻ"
     },
     {
       "id": "mainui_stats_speed",
@@ -274,7 +274,7 @@
     },
     {
       "id": "mainui_simulation",
-      "content": "Simulation"
+      "content": "Symulacja"
     },
     {
       "id": "mainui_untill",
@@ -338,7 +338,7 @@
     },
     {
       "id": "mainui_lobby_illust_acquisition_method",
-      "content": "To Unlock:"
+      "content": "By odblokować:"
     },
     {
       "id": "mainui_networkingerror_content",
@@ -582,7 +582,7 @@
     },
     {
       "id": "mainui_result_of_purchased_twine",
-      "content": "Zdobyti {0} Nici."
+      "content": "Zdobyto {0} Nici."
     },
     {
       "id": "mainui_personality_awaken_completion",
@@ -630,7 +630,7 @@
     },
     {
       "id": "mainui_personality_awaken_level_up_condition",
-      "content": "Uptie Tier {0} Requirements"
+      "content": "Wymagania {0} Poziomu Powiązania"
     },
     {
       "id": "mainui_battle_passsive_addition",
@@ -726,7 +726,7 @@
     },
     {
       "id": "tolerance",
-      "content": "Resist"
+      "content": "Odporność"
     },
     {
       "id": "outstanding_staff",
@@ -1162,11 +1162,11 @@
     },
     {
       "id": "gacha_notice_exclude_ego",
-      "content": "This extraction banner does not include E.G.O."
+      "content": "Ten Baner Ekstrakcji nie posiada E.G.O."
     },
     {
       "id": "gacha_notice_single_season",
-      "content": "The 2★ and 3★ Identities in this extraction banner belong to Season {0}."
+      "content": "Tożsamości 2★ i 3★ tego Baneru Ekstrakcji będą należeć do {0} Sezonu."
     },
     {
       "id": "error_and_return_to_main",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "collection_rate",
-      "content": "test test gdzie to jest"
+      "content": "Jeśli to widzisz to zgłoś gdzies"
     },
     {
       "id": "season_n_personality",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "lack_of_formation_participation",
-      "content": "W tej walco może uczestnczyć, <color=#990000>maksymalnie {0}</color> Grzeszników."
+      "content": "W tej walce może uczestnczyć, <color=#990000>maksymalnie {0}</color> Grzeszników."
     },
     {
       "id": "tutorial_formation_participation_add_title",
@@ -1606,7 +1606,7 @@
     },
     {
       "id": "login_scene_mini_story_warning_spoiler_format",
-      "content": "Ta historia ma miejsce po rozdziale historii {0}. Czy i tak chcesz ją wyświetlić?"
+      "content": "Ta historia ma miejsce po {0} rozdziale historii. Czy i tak chcesz ją wyświetlić?"
     },
     {
       "id": "notice_of_pity_point_already_have_announcer",
@@ -1866,155 +1866,171 @@
     },
     {
       "id": "mainui_settings_battle_speech",
-      "content": "In-combat Dialogue Subtitles"
+      "content": "Napisy Dialogów Podczas Walki"
     },
     {
       "id": "unable_to_upgrade_sync_level_by_main_story_1",
-      "content": "Upties upon\nclearing\nCanto I"
+      "content": "Powiązanie po\nukończeniu\nCanto I"
     },
     {
       "id": "unable_to_upgrade_sync_level_by_main_story_2",
-      "content": "Upties upon\nclearing\nCanto II"
+      "content": "Powiązanie po\nukończeniu\nCanto II"
     },
     {
       "id": "exp_dungeon_opened_desc",
-      "content": "EXP Luxcavation has been unlocked."
+      "content": "Odblokowano Lukskawację EXP."
     },
     {
       "id": "abnormality_tutorial_battle_participate_desc",
-      "content": "Select five Sinners to participate in this Encounter."
+      "content": "Wybierz pięcioro Grzeszników do uczestnictwa w tej Potyczce."
     },
     {
       "id": "thread_dungeon_opened_desc",
-      "content": "Thread Luxcavation has been unlocked."
+      "content": "Odblokowano Lukskawację Nici."
     },
     {
       "id": "mirror_dungeon_opened_desc",
-      "content": "Mirror Dungeon has been unlocked."
+      "content": "Odblokowano Lustrzany Loch."
     },
     {
       "id": "ego_gift_combine_explain_title",
-      "content": "Fusion Recipes"
+      "content": "Przepisy Łączenia"
     },
     {
       "id": "ego_gift_combine_explain_label_keyword",
-      "content": "Keywords"
+      "content": "Słowa Klucze"
     },
     {
       "id": "ego_gift_combine_explain_label_attack_type",
-      "content": "Attack Type"
+      "content": "Typy Ataku"
     },
     {
       "id": "ego_gift_combine_explain_label_etc",
-      "content": "Other"
+      "content": "Inne"
     },
     {
       "id": "ego_gift_combine_explain_button_label",
-      "content": "Recipes"
+      "content": "Przepisy"
     },
     {
       "id": "ego_gift_combine_explain_no_item_list",
-      "content": "No related E.G.O Gift Fusion Recipes."
+      "content": "Brak powiązanych Przepisów Łączenia Darów E.G.O."
     },
     {
       "id": "ego_gift_combine_explain_required_label",
-      "content": "{1} of {0}"
+      "content": "{1} z {0}"
     },
     {
       "id": "attendance_event_s6_desc",
-      "content": "Earn rewards based on your attendance during the Event period. Rewards are automatically claimed when the pop-up window appears.\n\nCollect 14 cumulative attendance checks to receive all rewards."
+      "content": "Zdobywaj Nagrody za obecność podczas Okresu Wydarzenia. Nagrody są zbierane automatycznie, kiedy pojawia się to okienko.\n\nZbierz 14 łącznych pieczątek za obecność, by zdobyć wszystkie nagrody."
     },
     {
       "id": "formation_none_selected_desc",
-      "content": "You haven't Deployed any Sinners.\n\nSelect the Sinners to set the Deployment order."
+      "content": "Nie wybrałoś żadnych Grzeszników.\n\nWybierz ich, by ustalić Kolejność Wdrożenia."
     },
     {
       "id": "ego_gift_category_current_theme",
-      "content": "Theme Pack Exclusive Fusion Gift"
+      "content": "Fuzja Darów ekskluzywnych dla Paczki"
     },
     {
       "id": "mainui_exp_dungeon_10_title",
-      "content": "EXP Luxcavation #8 (Slash)"
+      "content": "Luxkawacja DOŚW  #8 (Cięcie)"
     },
     {
       "id": "mainui_exp_dungeon_10_open_day",
-      "content": "EXP Luxcavation #8 (Slash) opens on MON, TUE, and SUN."
+      "content": "Luxkawacja DOŚW  #8 (Cięcie) Otwarte w PON, WT i NIED."
     },
     {
       "id": "mainui_exp_dungeon_11_title",
-      "content": "EXP Luxcavation #8 (Pierce)"
+      "content": "Luxkawacja DOŚW  #8 (Dźganie)"
     },
     {
       "id": "mainui_exp_dungeon_11_open_day",
-      "content": "EXP Luxcavation #8 (Pierce) opens on WED, THU, and SUN."
+      "content": "Luxkawacja DOŚW  #8 (Dźganie) Otwarte w ŚR, CZW i NIED."
     },
     {
       "id": "mainui_exp_dungeon_12_title",
-      "content": "EXP Luxcavation #8 (Blunt)"
+      "content": "Luxkawacja DOŚW  #8 (Uderzenie)"
     },
     {
       "id": "mainui_exp_dungeon_12_open_day",
-      "content": "EXP Luxcavation #8 (Blunt) opens on FRI, SAT, and SUN."
+      "content": "Luxkawacja DOŚW  #8 (Uderzenie) Otwarte w PT, SOB i NIED."
     },
     {
       "id": "mainui_notice_download_failed",
-      "content": "Could not load notices. Please check your network connection."
+      "content": "Nie udało się załadować powadomień. Proszę sprawdzić połączenie z internetem."
     },
     {
       "id": "mainui_settings_show_importance_level_UI",
-      "content": "Show Battle Hints\n(Gimmick Priority)"
+      "content": "Pokaż Podpowiedzi w Walce\n(Priorytet Specjalnych Mechanik)"
     },
     {
       "id": "mainui_settings_battle_result_announcer",
-      "content": "Wait for Announcer Lines\nto end after Battle"
+      "content": "Poczekaj na tekst Komentatora\nprzed zakończeniem Potyczki"
     },
     {
       "id": "jiaxicun_level",
-      "content": "Hierarch Level"
+      "content": "Poziom Hierarchy"
     },
     {
       "id": "defence_skill_with_index",
-      "content": "Def. {0}"
+      "content": "Obr. {0}"
     },
     {
       "id": "mainui_settings_stage_continue",
-      "content": "Continue"
+      "content": "Kontynuuj"
     },
     {
       "id": "servererror_invalid_battle_version",
-      "content": "Version update available.\nPlease download new resources and try again."
+      "content": "Dostępna jest Aktualizacja.\nProszę pobrać nową treść i spróbować ponownie."
     },
     {
       "id": "gacha_rate_info_intro1_1_announcer_rate",
-      "content": "※ Announcer Extraction rate does not affect 3★ IDs or E.G.O rates. Instead, 2★ and 1★ IDs will have lowered rates to make room for the Announcer."
+      "content": "※ Szansa ekstrakcji Komentatora nie wpływa na szanse Tożsamości 3★ czy E.G.O. Zamiast tego, szanse Tożsamości 2★ i 1★ zostaną zmniejszone, by zrobić miejsce dla Komentatorów."
     },
     {
       "id": "mainui_exp_dungeon_13_title",
-      "content": "EXP Luxcavation #9 (Slash)"
+      "content": "Luxkawacja DOŚW  #9 (Cięcie)"
     },
     {
       "id": "mainui_exp_dungeon_13_open_day",
-      "content": "EXP Luxcavation #9 (Slash) opens on MON, TUE, and SUN."
+      "content": "Luxkawacja DOŚW  #9 (Cięcie) Otwarte w PON, WT i NIED."
     },
     {
       "id": "mainui_exp_dungeon_14_title",
-      "content": "EXP Luxcavation #9 (Pierce)"
+      "content": "Luxkawacja DOŚW  #9 (Dźganie)"
     },
     {
       "id": "mainui_exp_dungeon_14_open_day",
-      "content": "EXP Luxcavation #9 (Pierce) opens on WED, THU, and SUN."
+      "content": "Luxkawacja DOŚW  #9 (Dźganie) Otwarte w ŚR, CZW i NIED."
     },
     {
       "id": "mainui_exp_dungeon_15_title",
-      "content": "EXP Luxcavation #9 (Blunt)"
+      "content": "Luxkawacja DOŚW  #9 (Uderzenie)"
     },
     {
       "id": "mainui_exp_dungeon_15_open_day",
-      "content": "EXP Luxcavation #9 (Blunt) opens on FRI, SAT, and SUN."
+      "content": "Luxkawacja DOŚW  #9 (Uderzenie) Otwarte w PT, SOB i NIED."
     },
     {
       "id": "assistant_level",
-      "content": "Character Level"
+      "content": "Poziom Postaci"
+    },
+    {
+      "id": "mainui_ego_gift_keyword",
+      "content": "Słowo Klucz"
+    },
+    {
+      "id": "mainui_ego_gift_grade",
+      "content": "Poziom"
+    },
+    {
+      "id": "mainui_use_random_piece_package",
+      "content": "Użyj Skrzyni Odłamków Ego"
+    },
+    {
+      "id": "mainui_use_optional_piece_package",
+      "content": "Użyj Nominowanej Skrzyni Odłamków Ego"
     }
   ]
 }

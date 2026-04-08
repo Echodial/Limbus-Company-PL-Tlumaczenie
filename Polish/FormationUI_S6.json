@@ -2,91 +2,91 @@
   "dataList": [
     {
       "id": "formation_ego_resource_detail",
-      "content": "Details"
+      "content": "Szczegóły"
     },
     {
       "id": "formation_deck_code_auto_filled",
-      "content": "Base Identities & E.G.O have been slotted in for Identities or E.G.O that you have not obtained yet."
+      "content": "W miejsce Tożsamości i E.G.O, których nie posiadasz zostaną umieszczone Bazowe Tożsamości & E.G.O."
     },
     {
       "id": "formation_deck_filled_complete",
-      "content": "Team Code Loading Complete"
+      "content": "Zakończono ładowanie kodu zespołu"
     },
     {
       "id": "formation_set_to_default",
-      "content": "Reset this Team loadout?\n\n<size=80%>Resetting this Team loadout will unequip everything save for Base Identities and Base E.G.O.</size>"
+      "content": "Zresetować układ Zespołu?\n\n<size=80%>Wyekswipuje to wszystko, poza Bazowymi Tożsamościami & E.G.O.</size>"
     },
     {
       "id": "formation_unable_to_set_default",
-      "content": "You cannot reset the Base loadout."
+      "content": "Nie można zresetować Bazowego Zespołu."
     },
     {
       "id": "formation_ego_resource_popup_title",
-      "content": "Team E.G.O Resource Overview"
+      "content": "Przegląd Zasobów E.G.O Zespołu"
     },
     {
       "id": "formation_ego_resource_popup_total_used",
-      "content": "E.G.O Resource Expenditure Overview:"
+      "content": "Przegląd Wydatku Zasobów E.G.O:"
     },
     {
       "id": "formation_ego_resource_popup_total_acquirable",
-      "content": "Obtainable E.G.O Resources Overview:"
+      "content": "Przegląd Zysku Zasobów E.G.O:"
     },
     {
       "id": "formation_ego_resource_popup_personality",
-      "content": "Identity Resources"
+      "content": "Zasoby Tożsamości"
     },
     {
       "id": "formation_ego_resource_popup_ego",
-      "content": "E.G.O Resource Expenditure"
+      "content": "Wydatki E.G.O"
     },
     {
       "id": "formation_code_popup_title",
-      "content": "Team Code"
+      "content": "Kod Zespołu"
     },
     {
       "id": "formation_code_popup_desc",
-      "content": "With Team Codes, you can:\n- Copy and share your Team loadouts\n- Paste and load Team loadouts"
+      "content": "Dzięki Kodom Zespołu możesz:\n- Skopiować i dzielić się swoimi zespołami\n- Wkleić i załadować zespoły stworzone przez innych"
     },
     {
       "id": "formation_code_popup_copy",
-      "content": "Copy Team Code"
+      "content": "Skopiuj Kod Zespołu"
     },
     {
       "id": "formation_code_popup_paste",
-      "content": "Load Team Code"
+      "content": "Załaduj Kod Zespołu"
     },
     {
       "id": "formation_code_popup_paste_desc",
-      "content": "Paste the copied Team Code here to equip the Team loadout."
+      "content": "Wklej skopiowany Kod Zespołu, by wykorzystać wybrany Zespół."
     },
     {
       "id": "formation_code_popup_paste_input",
-      "content": "Enter Code"
+      "content": "Wpisz kod"
     },
     {
       "id": "formation_code_popup_copy_success",
-      "content": "Team Code Copied"
+      "content": "Kod Zespołu Skopiowany"
     },
     {
       "id": "formation_side_button_all_personality",
-      "content": "All Identities"
+      "content": "Wszystkie Tożsamości"
     },
     {
       "id": "formation_side_button_all_ego",
-      "content": "All E.G.O"
+      "content": "Wszystkie E.G.O"
     },
     {
       "id": "formation_side_button_friend_support",
-      "content": "Support"
+      "content": "Wsparcie"
     },
     {
       "id": "character_list_title_all_personality",
-      "content": "Identities"
+      "content": "Tożsamości"
     },
     {
       "id": "character_list_title_all_personality_with_character_name",
-      "content": "Identities: {0}"
+      "content": "Tożsamości: {0}"
     },
     {
       "id": "character_list_title_all_ego",
@@ -98,7 +98,7 @@
     },
     {
       "id": "character_list_title_friend_support",
-      "content": "Support Identities: {0}"
+      "content": "Tożsamości Wsparcia: {0}"
     },
     {
       "id": "character_list_collect_rate",
@@ -106,127 +106,147 @@
     },
     {
       "id": "character_list_owned_toggle_label",
-      "content": "Obtained"
+      "content": "Posiadane"
     },
     {
       "id": "character_list_sort_label",
-      "content": "Sort By"
+      "content": "Sortowanie"
     },
     {
       "id": "character_list_friend_support_not_existed",
-      "content": "No Support Identities for this Sinner."
+      "content": "Brak Wspierających Tożsamości dla tego Grzesznika."
     },
     {
       "id": "character_list_friend_support_impossible",
-      "content": "Cannot equip Support Identities for this Sinner."
+      "content": "Nie można używać Tożsamości Wspierających dla tego Grzesznika."
     },
     {
       "id": "view_personality_status_button_label",
-      "content": "Identities"
+      "content": "Tożsamości"
     },
     {
       "id": "formation_ui_announcer",
-      "content": "Announcers"
+      "content": "Komentatorzy"
     },
     {
       "id": "formation_ui_announcer_detail",
-      "content": "Announcer Details"
+      "content": "Szczegóły Komentatora"
     },
     {
       "id": "formation_deck_code_invalid_code",
-      "content": "This Team Code is invalid."
+      "content": "Niepoprawny Kod Zespołu."
     },
     {
       "id": "formation_ego_resource_popup_personality_desc",
-      "content": "Overview of E.G.O Resources obtainable by Identities in your Team loadout & per-Identity overview."
+      "content": "Przegląd Zasobów E.G.O zyskiwanych z Tożsamości w twoim Zespole & szczegóły co do Tożsamości."
     },
     {
       "id": "formation_ego_resource_popup_ego_desc",
-      "content": "E.G.O Resources expenditure for each equipped E.G.O."
+      "content": "Przegląd Zasobów E.G.O zużywanych przez każde używane E.G.O."
     },
     {
       "id": "formation_current_personality",
-      "content": "Selected Identity"
+      "content": "Wybrana Tożsamość"
     },
     {
       "id": "ego_sort_label_rarity",
-      "content": "Rarity"
+      "content": "Rzadkość"
     },
     {
       "id": "ego_filter_label_attack_type",
-      "content": "E.G.O Attack Type"
+      "content": "Typ Ataku E.G.O"
     },
     {
       "id": "ego_filter_label_attribute_type",
-      "content": "E.G.O Affinity"
+      "content": "Grzech E.G.O"
     },
     {
       "id": "personality_filter_label_attack_type",
-      "content": "Skill Attack Type"
+      "content": "Typ Ataku Zdolności"
     },
     {
       "id": "personality_filter_label_attribute_type",
-      "content": "Skill Affinity"
+      "content": "Grzech Zdolności"
     },
     {
       "id": "character_list_personality_not_existed",
-      "content": "No identities matched your filter settings."
+      "content": "Żadne Tożsamości nie pasują do twoich filtrów."
     },
     {
       "id": "character_list_ego_not_existed",
-      "content": "No E.G.O matched your filter settings."
+      "content": "Żadne E.G.O nie pasują do twoich filtrów."
     },
     {
       "id": "filter_condition_speed",
-      "content": "Speed"
+      "content": "Prędkość"
     },
     {
       "id": "filter_condition_defense",
-      "content": "Def. Lv."
+      "content": "Poz. Obr."
     },
     {
       "id": "filter_condition_grade",
-      "content": "Tier {0}"
+      "content": "Poz {0}"
     },
     {
       "id": "ego_sort_label_syncLevel",
-      "content": "T.Spinning"
+      "content": "Przędzenie"
     },
     {
       "id": "ego_sort_label_crimson_resist",
-      "content": "Wrath Res."
+      "content": "Odp. Gniew"
     },
     {
       "id": "ego_sort_label_scarlet_resist",
-      "content": "Lust Res."
+      "content": "Odp. Rządza"
     },
     {
       "id": "ego_sort_label_amber_resist",
-      "content": "Sloth Res."
+      "content": "Odp. Leń."
     },
     {
       "id": "ego_sort_label_shamrock_resist",
-      "content": "Glut. Res."
+      "content": "Odp. Obż."
     },
     {
       "id": "ego_sort_label_azure_resist",
-      "content": "Gloom Res."
+      "content": "Odp. Przyg."
     },
     {
       "id": "ego_sort_label_indigo_resist",
-      "content": "Pride Res."
+      "content": "Odp. Pycha"
     },
     {
       "id": "ego_sort_label_violet_resist",
-      "content": "Envy Res."
+      "content": "Odp. Zaz."
     },
     {
       "id": "personality_info_list_not_owned",
-      "content": "Not Owned"
+      "content": "Nie Posiadane"
     },
     {
       "id": "formation_must_participate_specific_character_with_baton",
-      "content": "{0} cannot enter as a Backup unit. {0} must be an active participant in the battle."
+      "content": "{0} Nie może wejść jako Jednostka Rezerwowa. {0} musi aktywnie uczestniczyć w walce."
+    },
+    {
+      "id": "character_list_skin_not_existed",
+      "content": "Żadna Fasada nie pasuje do twoich filtrów"
+    },
+    {
+      "id": "character_list_title_all_skin",
+      "content": "Fasady"
+    },
+    {
+      "id": "character_list_title_all_skin_with_character_name",
+      "content": "Projekcja Fasady : {0}"
+    },
+    {
+      "id": "mainui_common_skin",
+      "content": "Façades"
+    },
+    {
+      "id": "formation_side_button_skin",
+      "content": "Façades"
     }
   ]
 }

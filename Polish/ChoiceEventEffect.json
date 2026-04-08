@@ -6,7 +6,7 @@
     },
     {
       "id": "Nothing",
-      "content": "<color=#ebcaa2>Nothing happened.</color>"
+      "content": "<color=#ebcaa2>Nic się nie stało.</color>"
     },
     {
       "id": "LevelupPersonality",
@@ -26,299 +26,299 @@
     },
     {
       "id": "GetConfirmedEgogiftOnWinBattle",
-      "content": "<color=#ebcaa2>Win the next battle to gain {reward}!</color>"
+      "content": "<color=#ebcaa2>Wygraj następną walkę, by zyskać {reward}!</color>"
     },
     {
       "id": "StartBattle",
-      "content": "<color=#ff0000>Combat Encounter!</color>"
+      "content": "<color=#ff0000>Potyczka!</color>"
     },
     {
       "id": "StartBattle_Normal",
-      "content": "<color=#ff0000>Regular Encounter!</color>"
+      "content": "<color=#ff0000>Zwykła Potyczka!</color>"
     },
     {
       "id": "StartBattle_Danger",
-      "content": "<color=#ff0000>Risky Encounter!</color>"
+      "content": "<color=#ff0000>Ryzykowna Potyczka!</color>"
     },
     {
       "id": "StartBattle_Abnormality",
-      "content": "<color=#ff0000>Focused Encounter!</color>"
+      "content": "<color=#ff0000>Skupiona Potyczka!</color>"
     },
     {
       "id": "StartBattle_FloorBoss",
-      "content": "<color=#ff0000>Floor Boss Encounter!</color>"
+      "content": "<color=#ff0000>Potyczka z Bossem Piętra!</color>"
     },
     {
       "id": "RecoverHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount} PŻ.</color>"
     },
     {
       "id": "RecoverMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#80c9ff>{amount} SP.</color>"
     },
     {
       "id": "RecoverHpOnlyUntilMax",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed back to</color> <color=#00ff9c>Full HP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały przywrócone do</color> <color=#00ff9c>Pełnego PŻ.</color>"
     },
     {
       "id": "RecoverMpOnlyUntilMax",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed back to</color> <color=#80c9ff>Full SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały przywrócone do</color> <color=#80c9ff>Pełnego SP.</color>"
     },
     {
       "id": "LoseHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP Damage!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymały</color> <color=#e30000>{amount} Obrażeń PŻ!</color>"
     },
     {
       "id": "LoseMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>lost</color> <color=#fe4b48>{amount} SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>straciły</color> <color=#fe4b48>{amount} SP!</color>"
     },
     {
       "id": "RecoverHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP</color> and <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>SP.</color>"
     },
     {
       "id": "RecoverHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP</color> and <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>{amount} SP.</color>"
     },
     {
       "id": "LoseHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP</color> and <color=#fe4b48>SP damage!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymały</color> <color=#e30000>{amount} Obrażeń PŻ</color> i <color=#fe4b48> SP!</color>"
     },
     {
       "id": "LoseHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP</color> and <color=#fe4b48>{amount} SP damage!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymały</color> <color=#e30000>{amount} Obrażeń PŻ</color> i <color=#fe4b48>{amount} Obrażeń SP!</color>"
     },
     {
       "id": "GetConfirmedEgogift",
-      "content": "<color=#ebcaa2>{reward} Earned!</color>"
+      "content": "<color=#ebcaa2>Zdobyto {reward}!</color>"
     },
     {
       "id": "GetBuff_OnStageStart",
-      "content": "<color=#ebcaa2>{target} {conditional} will enter the next combat encounter with {stack} {buffName}.</color>"
+      "content": "<color=#ebcaa2>{target} {conditional} wejdzie do następnej potyczki z {stack} {buffName}.</color>"
     },
     {
       "id": "UnlockHiddenRoute",
-      "content": "<color=#ebcaa2>There’s a new path on the map!</color>"
+      "content": "<color=#ebcaa2>Na Mapie otwarła się nowa ścieżka!</color>"
     },
     {
       "id": "ReduceEnemyWave",
-      "content": "<color=#ebcaa2>Enemy waves reduced by {waveNum} for the next battle.</color>"
+      "content": "<color=#ebcaa2>Liczba fal przeciwników została zmniejszona o {waveNum} w następnej Potyczce.</color>"
     },
     {
       "id": "DestroyEgogift",
-      "content": "<color=#ebcaa2>{reward}</color> <color=#e30000>Expired!</color>"
+      "content": "Oddano <color=#ebcaa2>{reward}</color> <color=#e30000>!</color>"
     },
     {
       "id": "Choice_90103301",
-      "content": "<color=#f8c200>Speed +1</color> <color=#ebcaa2>for this battle.</color>"
+      "content": "<color=#f8c200>+1 Prędkości</color> <color=#ebcaa2>w tej Potyczce.</color>"
     },
     {
       "id": "Choice_901001",
-      "content": "<color=#ebcaa2>At the start of the combat phase,</color> allies without <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#e30000>5 Wrath damage.</color>"
+      "content": "<color=#ebcaa2>Na początku fazy walki,</color> sojusznicy, którzy nie posiadają <color=#a0392b>Zdolności Atakujących od Gniewu</color> <color=#ebcaa2>otrzymują</color> <color=#e30000>5 obrażeń od Gniewu.</color>"
     },
     {
       "id": "Choice_901007",
-      "content": "<color=#ebcaa2>At the start of the turn,</color> </color=#ebcaa2>heal</color> <color=#00ff9c>10 HP</color> and <color=#80c9ff>10 SP.</color> (Up to 3 turns)"
+      "content": "<color=#ebcaa2>Na początku tury,</color> </color=#ebcaa2>ulecz</color> <color=#00ff9c>10 PŻ</color> i <color=#80c9ff>10 SP.</color> (Do 3 tur)"
     },
     {
       "id": "Choice_901009",
-      "content": "<color=#e30000>Skill Final Power -1</color> <color=#ebcaa2>at the start of the combat phase.</color>"
+      "content": "<color=#e30000>-1 Ostatecznej Mocy Zdolności</color> <color=#ebcaa2>at na początku fazy walki.</color>"
     },
     {
       "id": "Choice_901010",
-      "content": "<color=#ebcaa2>At the start of the next battle,</color> <color=#ebcaa2>Ally Units without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>are Staggered.</color> "
+      "content": "<color=#ebcaa2>Na początku następnej potyczki,</color> <color=#ebcaa2>Sojusznicy, którzy nie posiadają</color> <color=#bb521f>Zdolności Atakujących od Rządzy</color> <color=#ebcaa2>zostają Zachwiani.</color> "
     },
     {
       "id": "Choice_901019",
-      "content": "<color=#e30000>Speed -2</color> <color=#ebcaa2>at the start of the combat phase.</color>"
+      "content": "<color=#e30000>-2 Prędkości</color> <color=#ebcaa2>at na początku fazy walki.</color>"
     },
     {
       "id": "Choice_90103402",
-      "content": "<color=#f8c200>Speed +2</color> <color=#ebcaa2>for this battle.</color>"
+      "content": "<color=#f8c200>+2 Prędkości</color> <color=#ebcaa2>w tej Potyczce.</color>"
     },
     {
       "id": "Choice_1030301",
-      "content": "<color=#ebcaa2>At the start of the next battle, All Ally Units</color> <color=#ebcaa2>gain</color> <color=#f8c200>3 Attack Power Up.</color>"
+      "content": "<color=#ebcaa2>Na początku następnej potyczki, Wszyscy Sojusznicy</color> <color=#ebcaa2>zyskują</color> <color=#f8c200>3 Większej Mocy Ataku.</color>"
     },
     {
       "id": "Choice_1030501",
-      "content": "<color=#ff0000>Combat Encounter!</color>\n<color=#ebcaa2>All enemies</color> <color=#ebcaa2>are inflicted with</color> <color=#e30000>5 Attack Power Down!</color>"
+      "content": "<color=#ff0000>Potyczka!</color>\n<color=#ebcaa2>Wszyscy przeciwnicy</color> <color=#ebcaa2>otrzymują</color> <color=#e30000>5 Mniejszej Mocy Ataku!</color>"
     },
     {
       "id": "Choice_1031001",
-      "content": "<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>gains</color> <color=#e30000>3 Damage Down</color> <color=#ebcaa2>for the next 2 battles.</color>"
+      "content": "<color=#ebcaa2>Wybrany Grzesznik</color> <color=#ebcaa2>zyskuje</color> <color=#e30000>3 Mniejsze Obrażenia</color> <color=#ebcaa2>na 2 następne potyczki.</color>"
     },
     {
       "id": "Choice_90100201",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>12 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>8 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#e30000>12 obrażeń PŻ</color> <color=#ebcaa2>i</color> <color=#fe4b48>8 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90100502",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#e30000>15 obrażeń PŻ</color> <color=#ebcaa2>i</color> <color=#fe4b48>12 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101001",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#bb521f>Zdolności Atakujących od Rządzy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101101",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#fe4b48>15 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101701",
-      "content": "<color=#ebcaa2>The Sinner who passed the check takes</color> <color=#fe4b48>5 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który przeszedł test otrzymuje</color> <color=#fe4b48>5 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101702",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>25 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#fe4b48>25 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101801",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#fe4b48>12 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101901",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#fe4b48>10 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102001",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#61822b>Gluttony Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#61822b>Zdolności Atakujących od Obżarstwa</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>5 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102002",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#61822b>Gluttony Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#61822b>Zdolności Atakujących od Obżarstwa</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102201",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>13 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#306471>Zdolności Atakujących od Przygnębienia</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>13 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90103302",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#7d4e94>Zdolności Atakujących od Zazdrości</color> <color=#fe4b48>otrzymują</color> <color=#e30000>15 obrażeń PŻ</color> <color=#ebcaa2>i</color> <color=#fe4b48>15 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90100101",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>16 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#a0392b>Zdolności Atakujących od Gniewu</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>16 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901004",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#a0392b>Zdolności Atakujące od Gniewu</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>15 PŻ.</color>"
     },
     {
       "id": "Choice_90100701",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#bb521f>Zdolności Atakujące od Rządzy</color> </color=#ebcaa2>zostają uleczone o</color> <color=#80c9ff>SP.</color>"
     },
     {
       "id": "Choice_901008",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#bb521f>Zdolności Atakujące od Rządzy</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_90100901",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#bb521f>Zdolności Atakujących od Rządzy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901014",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#e48801>Sloth Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#e48801>Zdolności Atakujących od Lenistwa</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101401",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#e48801>Sloth Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#e48801>Zdolności Atakujących od Lenistwa</color> <color=#fe4b48>otrzymują</color> <color=#fe4b48>12 obrażeń PŻ</color> <color=#ebcaa2>i</color> <color=#fe4b48>12 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101601",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#61822b>Gluttony Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#61822b>Zdolności Atakujące od Obżarstwa</color> </color=#ebcaa2>zostają uleczone o</color> <color=#80c9ff>SP.</color>"
     },
     {
       "id": "Choice_901018",
-      "content": "<color=#ebcaa2>One random Identity without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Jeden losowy sojusznik, który nie posiada</color> <color=#a0392b>Zdolności Atakujących od Gniewu</color> <color=#ebcaa2>otrzymuje</color> <color=#fe4b48>10 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901021",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#306471>Zdolności Atakujących od Przygnębienia</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901023",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>9 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#306471>Zdolności Atakujących od Przygnębienia</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>9 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102301",
-      "content": "<color=#ebcaa2>One random Identity without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Jeden losowy sojusznik, który nie posiada</color> <color=#306471>Zdolności Atakujących od Przygnębienia</color> <color=#ebcaa2>otrzymuje</color> <color=#fe4b48>10 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901024",
-      "content": "<color=#ebcaa2>The Identity with the lowest Sanity who possesses</color> <color=#306471>Gloom Affinity Attack Skill</color> </color=#ebcaa2>fully heals their</color> <color=#f8c200>HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznik z najniższą psychiką, który posiada</color> <color=#306471>Zdolności Atakujące od Przygnębienia</color> </color=#ebcaa2>w pełni leczy swoje</color> <color=#f8c200>PŻ.</color>"
     },
     {
       "id": "Choice_901025",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#306471>Zdolności Atakujących od Przygnębienia</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102501",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>20 HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#306471>Zdolności Atakujące od Przygnębienia</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>20 PŻ.</color>"
     },
     {
       "id": "Choice_901026",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#185188>Zdolności Atakujących od Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102601",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#185188>Zdolności Atakujące od Pychy</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_901027",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#185188>Zdolności Atakujących od Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>25 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102701",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#185188>Zdolności Atakujących od Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>25 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901028",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#185188>Zdolności Atakujących od Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>5 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102801",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#185188>Zdolności Atakujące od Pychy</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_901032",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#7d4e94>Zdolności Atakujących od Zazdrości</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901034",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#7d4e94>Zdolności Atakujących od Zazdrości</color> <color=#fe4b48>otrzymują</color> <color=#e30000>15 obrażeń PŻ</color> <color=#ebcaa2>i</color> <color=#fe4b48>15 obrażeń SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_901035",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy nie posiadają</color> <color=#7d4e94>Zdolności Atakujących od Zazdrości</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>12 obrażeń PŻ</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90103501",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#7d4e94>Zdolności Atakujące od Zazdrości</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_1040301",
-      "content": "<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>has</color> <color=#e30000>10 Rupture</color> <color=#ebcaa2>for 1 turn in the next battle.</color>"
+      "content": "<color=#ebcaa2>Wybrany Grzesznik</color> <color=#ebcaa2>otrzymuje</color> <color=#e30000>10 Pęknięcia</color> <color=#ebcaa2>na 1 turę w następnej Potyczce.</color>"
     },
     {
       "id": "MirrorDungeonAcquireCost",
-      "content": "<color=#ebcaa2>Cost {amount} gained</color>"
+      "content": "<color=#ebcaa2>Zyskujesz {amount} Kosztu</color>"
     },
     {
       "id": "MirrorDungeonLossCost",
-      "content": "<color=#ebcaa2>Cost {amount} lost</color>"
+      "content": "<color=#ebcaa2>Tracisz {amount} Kosztu</color>"
     },
     {
       "id": "Choice_90104001",
-      "content": "<color=#ebcaa2>Start the next battle with</color> <color=#f8c200>+2 E.G.O resources</color> <color=#ebcaa2>of all affinities</color>"
+      "content": "<color=#ebcaa2>Następną potyczkę rozpoczniesz mając</color> <color=#f8c200>+2 zasoby E.G.O</color> <color=#ebcaa2>wszystkich Grzechów</color>"
     },
     {
       "id": "Choice_9010400101",
-      "content": "<color=#ebcaa2>All allies have</color> <color=#f8c200>+2 Skill Final Power</color> <color=#ebcaa2>for the next battle</color>"
+      "content": "<color=#ebcaa2>Wszyscy sojusznicy otrzymują</color> <color=#f8c200>+2 Ostatecznej Mocy Zdolności</color> <color=#ebcaa2>podczas następnej potyczki</color>"
     },
     {
       "id": "Choice_90104002",
-      "content": "<color=#ebcaa2>All allies have</color> <color=#f8c200>+1 Skill Power</color> <color=#ebcaa2>for the next battle</color>"
+      "content": "<color=#ebcaa2>Wszyscy sojusznicy otrzymują</color> <color=#f8c200>+1 Mocy Zdolności</color> <color=#ebcaa2>podczas następnej potyczki</color>"
     },
     {
       "id": "ChangeEventIllust",
@@ -326,115 +326,115 @@
     },
     {
       "id": "Choice_90105801",
-      "content": "All Deployed Identities gain 2 Levels"
+      "content": "Wszystkie Obecne Tożsamości zyskują 2 Poziomy"
     },
     {
       "id": "Choice_90106802",
-      "content": "All Deployed Identities gain 3 Levels"
+      "content": "Wszystkie Obecne Tożsamości zyskują 3 Poziomy"
     },
     {
       "id": "Choice_90107402",
-      "content": "All Deployed Identities gain 2 Levels"
+      "content": "Wszystkie Obecne Tożsamości zyskują 2 Poziomy"
     },
     {
       "id": "Choice_90109101",
-      "content": "All Deployed Identities gain 2 Levels"
+      "content": "Wszystkie Obecne Tożsamości zyskują 2 Poziomy"
     },
     {
       "id": "Choice_90200502",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Grzesznik, który nie przeszedł testu otrzymuje</color> <color=#e30000>15 obrażeń PŻ</color> <color=#ebcaa2>i</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_LoseBattle",
-      "content": "<color=#ff0000>No rewards upon Defeat</color>"
+      "content": "<color=#ff0000>Żadnych nagród przy Porażce</color>"
     },
     {
       "id": "Choice_EGO901001",
-      "content": "Win the battle to gain E.G.O Gifts \"Hellterfly's Dream\" & \"Ardent Flower\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Sen Piekielnej Ćmy\" & \"Płomienny Rozkwit\""
     },
     {
       "id": "Choice_EGO901002",
-      "content": "Win the battle to gain E.G.O Gifts \"Perversion\" & \"Awe\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Perwersja\" & \"Trwoga\""
     },
     {
       "id": "Choice_EGO901009",
-      "content": "Win the battle to gain E.G.O Gifts \"Fiery Dawn\" & \"Melted Paraffin\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Płonące Pióro\" & \"Stopiona Parafina\""
     },
     {
       "id": "Choice_EGO901010",
-      "content": "Win the battle to gain E.G.O Gifts \"Bloody Gadget\" & \"Grandeur\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Krwawy Gadżet\" & \"Majestat\""
     },
     {
       "id": "Choice_EGO901011",
-      "content": "Win the battle to gain E.G.O Gifts \"Sunshower\" & \"Ragged Umbrella\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Słoneczna Mżawka\" & \"Podarty Parasol\""
     },
     {
       "id": "Choice_EGO901013",
-      "content": "Win the battle to gain E.G.O Gifts \"Talisman Bundle\" & \"Old Wooden Doll\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Plik Talizmanów\" & \"Stara Drewniana Lalka\""
     },
     {
       "id": "Choice_EGO901014",
-      "content": "Win the battle to gain E.G.O Gifts \"Rusty Commemorative Coin\" & \"Pain of Stifled Rage\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Zardzewiała Moneta Pamiątkowa\" & \"Ból Zduszonego Gniewu\""
     },
     {
       "id": "Choice_EGO901016",
-      "content": "Win the battle to gain E.G.O Gifts \"Green Spirit\" & \"Sour Liquor Aroma\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Zielony Alkohol\" & \"Kwaśny Trunek\""
     },
     {
       "id": "Choice_EGO901018",
-      "content": "Win the battle to gain E.G.O Gifts \"Crown of Roses\" & \"Respite\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Korona Róż\" & \"Wytchnienie\""
     },
     {
       "id": "Choice_EGO901019",
-      "content": "Win the battle to gain E.G.O Gifts \"Sticky Muck\" & \"Bio-venom Vial\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Lepki Brud\" & \"Fiolka z Bio-trucizną\""
     },
     {
       "id": "Choice_EGO901020",
-      "content": "Win the battle to gain E.G.O Gifts \"White Gossypium\" & \"Tangled Bundle\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Niesplamiona Bawełna\" & \"Splątana Wiązka\""
     },
     {
       "id": "Choice_EGO901021",
-      "content": "Win the battle to gain E.G.O Gifts \"Blue Zippo Lighter\" & \"Patrolling Flashlight\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Niebieska Zapalniczka\" & \"Latarka Patrolowa\""
     },
     {
       "id": "Choice_EGO901024",
-      "content": "Win the battle to gain E.G.O Gifts \"Melted Eyeball\" & \"Venomous Skin\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Stopiona Gałka Oczna\" & \"Jadowita Skóra\""
     },
     {
       "id": "Choice_EGO901031",
-      "content": "Win the battle to gain E.G.O Gifts \"Nixie Divergence\" & \"Clockwork Spring\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Rozbieżny Digitron\" & \"Nakręcana Sprężyna\""
     },
     {
       "id": "Choice_EGO901033",
-      "content": "Win the battle to gain E.G.O Gifts \"Standard-duty Battery\" & \"Uncapped Defibrilator\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Standardowa Bateria\" & \"Defibrylator Bez Limitów\""
     },
     {
       "id": "Choice_EGO901034",
-      "content": "Win the battle to gain E.G.O Gifts \"Pinpoint Logic Circuit\" & \"UPS System\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Precyzjny Układ Logiczny\" & \"System UPS\""
     },
     {
       "id": "Choice_EGO901056",
-      "content": "Win the battle to gain E.G.O Gifts \"Four-leaf Clover\" & \"Emerald Elytra\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Czterolistna Koniczyna\" & \"Szmaragdowe Okrywy\""
     },
     {
       "id": "Choice_EGO901059",
-      "content": "Win the battle to gain E.G.O Gifts \"Midwinter Nightmare\" & \"Eldtree Snare\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Koszmar Nocy Zimowej\" & \"Sidła Starodrzewia\""
     },
     {
       "id": "Choice_EGO901073",
-      "content": "Win the battle to gain E.G.O Gifts \"Endorphin Kit\" & \"Fluorescent Lamp\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Zestaw Endorfin\" & \"Lampa Fluorescencyjna\""
     },
     {
       "id": "Choice_EGO971029",
-      "content": "Win the battle to gain E.G.O Gifts \"E-Type Dimensional Dagger\" & \"Portable Barrier Battery\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"E-Type Dimensional Dagger\" & \"Portable Barrier Battery\""
     },
     {
       "id": "GetImmediateConfirmedEgogifts",
-      "content": "<color=#ebcaa2>{reward} obtained!</color>"
+      "content": "<color=#ebcaa2>Zdobywasz {reward}!</color>"
     },
     {
       "id": "Choice_EGO901101",
-      "content": "Win the battle to gain E.G.O Gifts \"Miniature Telepole\""
+      "content": "Wygraj potyczkę, by zdobyć dary E.G.O \"Miniature Telepole\""
     },
     {
       "id": "Choice_EGO901104",
@@ -442,27 +442,27 @@
     },
     {
       "id": "Choice_EGO971054",
-      "content": "Win the battle to gain E.G.O Gift \"Swishing Fuel Tank\""
+      "content": "Win the battle by zyskać E.G.O Gift \"Swishing Fuel Tank\""
     },
     {
       "id": "GetConfirmedStackableEgogift",
-      "content": "<color=#ebcaa2>E.G.O Gift {stack} {reward} obtained!</color>"
+      "content": "<color=#ebcaa2>Zdobywasz Dar E.G.O {stack} {reward}!</color>"
     },
     {
       "id": "LoseConfirmedStackableEgogift",
-      "content": "<color=#ebcaa2>E.G.O Gift {stack} {reward} lost!</color>"
+      "content": "<color=#ebcaa2>Tracisz Dar E.G.O {stack} {reward}!</color>"
     },
     {
       "id": "LoseMpOnlyUntilMin",
-      "content": "<color=#ebcaa2>Reduce</color> <color=#fe4b48>SP to minimum value for</color> <color=#ebcaa2>{conditions}{targets}</color>"
+      "content": "<color=#ebcaa2>Zmniejsz</color> <color=#fe4b48>SP do minimalnej wartości dla</color> <color=#ebcaa2>{conditions}{targets}</color>"
     },
     {
       "id": "ReviveOutOfBattleAndRecoverHpAll",
-      "content": "Revive all dead Sinners and <color=#ebcaa2>heal</color> any surviving Sinners <color=#00ff9c>to max HP</color>"
+      "content": "Wskrześ martwych Grzeszników i <color=#ebcaa2>ulecz</color> żywych Grzeszników do <color=#00ff9c>to max PŻ</color>"
     },
     {
       "id": "RecoverRatioHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount}% of max HP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount}% of max PŻ.</color>"
     }
   ]
 }

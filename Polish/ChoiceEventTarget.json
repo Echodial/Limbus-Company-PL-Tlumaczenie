@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "Ally",
-      "content": "Przyjazne Jednostki"
+      "content": "Sojusznicy"
     },
     {
       "id": "RandomAlly",
-      "content": "Losowe Przyjazne Jednostki"
+      "content": "Losowi Sojusznicy"
     },
     {
       "id": "EveryAlly",
-      "content": "Wszystkie Przyjazne Jednostki"
+      "content": "Wszyscy Sojusznicy"
     },
     {
       "id": "EveryEnemy",
@@ -18,35 +18,35 @@
     },
     {
       "id": "ChosenPersonality",
-      "content": "Wybrana Osobowość"
+      "content": "Wybrana Tożsamość"
     },
     {
       "id": "HighestHpAlly",
-      "content": "Przyjazne Jednostki z najwyższym HP"
+      "content": "Sojusznicy z najwyższym HP"
     },
     {
       "id": "LowestHpAlly",
-      "content": "Przyjazne Jednostki z najniższym HP"
+      "content": "Sojusznicy z najniższym HP"
     },
     {
       "id": "HighestMpAlly",
-      "content": "Przyjazne Jednostki z najwyższym SP"
+      "content": "Sojusznicy z najwyższym SP"
     },
     {
       "id": "LowestMpAlly",
-      "content": "Przyjazne Jednostki z najniższym SP"
+      "content": "Sojusznicy z najniższym SP"
     },
     {
       "id": "NotFullHpAlly",
-      "content": "Przyjazne Jednostki z niepełnym HP"
+      "content": "Sojusznicy z niepełnym HP"
     },
     {
       "id": "NotAffectedAlly",
-      "content": "Przyjazne Jednostki nietknięte przez poprzedni efekt"
+      "content": "Sojusznicy nietknięci przez poprzedni efekt"
     },
     {
       "id": "LowestHpRatioAlly",
-      "content": "Przyjazne Jednostki z najniższym %HP"
+      "content": "Sojusznicy z najniższym %HP"
     },
     {
       "id": "Every",

@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "select_personality_gacksung_up_ticket",
-      "content": "Wybierz Osobowość którą chcesz Ulepszyć"
+      "content": "Wybierz Tożsamość którą chcesz Ulepszyć"
     },
     {
       "id": "tip_long_click_to_view_personality",
-      "content": "※ Long-press an Osobowość to view more detailed info."
+      "content": "※ Przytrzymaj Tożsamość by wyświetlić szczegółowe informacje."
     },
     {
       "id": "leap_up_confim_main_only_gacksung",
-      "content": "[{0}] Osobowość Uptie Tier will be changed as follows."
+      "content": "Poziom Powiązania Tożsamości [{0}] zmieni się w dany sposób."
     },
     {
       "id": "select_ego_gacksung_up_ticket",
@@ -18,23 +18,23 @@
     },
     {
       "id": "tip_long_click_to_view_ego",
-      "content": "※ Long-press an E.G.O to view more detailed info."
+      "content": "※ Przytrzymaj E.G.O by wyświetlić szczegółowe informacje."
     },
     {
       "id": "ego_leap_up_confim_main_only_gacksung",
-      "content": "[{0}] E.G.O's Threadspinning Tier will be changed as follows."
+      "content": "Poziom Sprzędzenia E.G.O [{0}] zmieni się w dany sposób."
     },
     {
       "id": "all_egos",
-      "content": "All E.G.Os"
+      "content": "Wszystkie E.G.O"
     },
     {
       "id": "leap_up_able_uptie_ego_tier",
-      "content": "Can be Threadspun"
+      "content": "Może być Sprzędzone"
     },
     {
       "id": "ego_gacksung_grade",
-      "content": "Threadspin Tier"
+      "content": "Poziom Sprzędzenia"
     },
     {
       "id": "leap_up_ego_confim_title",
@@ -42,23 +42,23 @@
     },
     {
       "id": "check_default_personality_leap_up",
-      "content": "This is an Osobowość that can be Uptied for free to Tier 3 by progressing through the Main Story.\n\nUptie this Osobowość anyway?"
+      "content": "Tą Tożsamość można ulepszyć do 3 Poziomu Powiązania poprzez przechodzenie Głównej Historii.\n\nPowiązać ją mimo to?"
     },
     {
       "id": "check_default_ego_leap_up",
-      "content": "This is an E.G.O that can be Threadspun for free to Tier 3 by progressing through the Main Story.\n\nUptie this Osobowość anyway?"
+      "content": "To E.G.O można ulepszyć do 3 Poziomu Sprzędzenia poprzez przechodzenie Głównej Historii.\n\nPrząść mimo to?"
     },
     {
       "id": "select_identity_popup_title",
-      "content": "Wybierz Osobowość"
+      "content": "Wybierz Tożsamość"
     },
     {
       "id": "select_identity_popup_title_season_1",
-      "content": "Wybierz Season 1 Osobowość"
+      "content": "Wybierz Tożsamość z 1 Sezonu"
     },
     {
       "id": "select_ego_popup_title_season_1_battlepass",
-      "content": "Wybierz Season 1 Battle Pass E.G.O"
+      "content": "Wybierz E.G.O z Przepustki 1 Sezonu"
     },
     {
       "id": "select_ego_popup_title",

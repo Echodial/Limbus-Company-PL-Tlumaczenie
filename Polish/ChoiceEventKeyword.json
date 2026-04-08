@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "EGO_GIFT",
-      "content": "E.G.O Gift"
+      "content": "Dar E.G.O"
     },
     {
       "id": "OnStageStart",
-      "content": "Upon Stage Entry"
+      "content": "Przy Wejściu do Potyczki"
     },
     {
       "id": "IncludeSkillAttribute",
-      "content": "with the [ATTRIBUTES] Sin Affinity Attack Skill"
+      "content": "którzy posiadają Zdolności Atakujące od [ATTRIBUTES]"
     },
     {
       "id": "NotIncludeSkillAttribute",
-      "content": "without the [ATTRIBUTES] Sin Affinity Attack Skill"
+      "content": "którzy nie posiadają Zdolności Atakujących od [ATTRIBUTES]"
     },
     {
       "id": "NextBattle",
@@ -22,15 +22,15 @@
     },
     {
       "id": "LowestMp",
-      "content": "with the lowest SP"
+      "content": "z najniższym SP"
     },
     {
       "id": "FAILURE",
-      "content": "that failed the Check"
+      "content": "który nie przeszedł testu"
     },
     {
       "id": "SUCCESS",
-      "content": "that passed the Check"
+      "content": "który przeszedł test"
     },
     {
       "id": "ADD",

@@ -182,7 +182,7 @@
     },
     {
       "id": "action_disable",
-      "content": "Uniemobilnieni"
+      "content": "Unieruchomieni"
     },
     {
       "id": "ab_event_select_character",
@@ -242,7 +242,7 @@
     },
     {
       "id": "dungeon_encounter_event",
-      "content": "Ciekawe Zdażenie"
+      "content": "Ciekawe Zdarzenie"
     },
     {
       "id": "dungeon_encounter_save",
@@ -310,7 +310,7 @@
     },
     {
       "id": "crime_state_judgment",
-      "content": "{0} Check"
+      "content": "Test {0}"
     },
     {
       "id": "choice_personality",
@@ -354,7 +354,7 @@
     },
     {
       "id": "action_choice_event_result_example_event",
-      "content": "Ciekawe Zdażenie"
+      "content": "Ciekawe Zdarzenie"
     },
     {
       "id": "action_choice_event_result_example_resume",
@@ -426,7 +426,7 @@
     },
     {
       "id": "dungeon_encounter_type_event",
-      "content": "Ciekawe Zdażenie"
+      "content": "Ciekawe Zdarzenie"
     },
     {
       "id": "dungeon_encounter_type_save",
@@ -478,7 +478,7 @@
     },
     {
       "id": "stack",
-      "content": "Stos"
+      "content": "Wartość"
     },
     {
       "id": "slash_resistance",
@@ -570,7 +570,7 @@
     },
     {
       "id": "EGOSelectUI_resources_lack",
-      "content": "Nie posiadasz wystarczająco zasobów E.G.O.\nUpewnij się że masz odpowiednie rodzaje zasobów.."
+      "content": "Nie posiadasz wystarczająco zasobów E.G.O.\nUpewnij się że masz odpowiednie rodzaje zasobów."
     },
     {
       "id": "EGOSelectUI_DetailInfo",
@@ -582,7 +582,7 @@
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Może być Zniszczona oraz Odcięta"
+      "content": "Może być Zniżczona ani Odcięta"
     },
     {
       "id": "ab_guidebook_view",
@@ -598,7 +598,7 @@
     },
     {
       "id": "Ahab_NotTarget_Twice",
-      "content": "... Czasem poprawna odpowiedź nie jest oczywista."
+      "content": "... Czasami odpowiedź nie jest oczywista."
     },
     {
       "id": "Ahab_NotTarget_Thrice",
@@ -610,7 +610,7 @@
     },
     {
       "id": "LobotomyStartTypo_Title_1",
-      "content": "Poranek Zieleni"
+      "content": "Świt Zieleni"
     },
     {
       "id": "LobotomyStartTypo_Name_1",
@@ -618,15 +618,15 @@
     },
     {
       "id": "LobotomyStartTypo_Desc_1",
-      "content": "Pewnego dnia, zadałem sobie pytanie. Skąd pochodzimy? Życie zostało nam dane bez naszej zgody."
+      "content": "Pewneg dnia, naszło mnie pytanie. Skąd się tu wszyscy wzieliśmy? Zostaliśmy obdarzeni życiem i rzuceni w ten świat wbrew naszej woli."
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_1",
-      "content": "Status Stłamszenia"
+      "content": "Status Unieszkodliwienia"
     },
     {
       "id": "LobotomyClearTypo_Title_1",
-      "content": "Poranek Zieleni"
+      "content": "Świt Zieleni"
     },
     {
       "id": "LobotomyClearTypo_Name_1",
@@ -634,7 +634,7 @@
     },
     {
       "id": "LobotomyClearTypo_Desc_1",
-      "content": "Życie było ścieżką pełną bólu."
+      "content": "Życie jest procesem pełnym cierpienia."
     },
     {
       "id": "LobotomyEndTypo_Title",
@@ -666,7 +666,7 @@
     },
     {
       "id": "vibration_fusion",
-      "content": "Powiązanie Częstotliwości!"
+      "content": "Splątanie Częstotliwości!"
     },
     {
       "id": "BatonPassUIText",
@@ -710,27 +710,27 @@
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
-      "content": "Poranek"
+      "content": "Dawn"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
-      "content": "Południe"
+      "content": "Noon"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
-      "content": "Zmierzch"
+      "content": "Dusk"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
-      "content": "Północ"
+      "content": "Midnight"
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "Stop Głównego Rdzenia Systemu Qliphoth - Poziom {0}"
+      "content": "Qliphoth Meltdown - Level {0}"
     },
     {
       "id": "SinkingWhite_stack",
-      "content": "Ci, Co Jeszcze Żyją"
+      "content": "Ci, Co Jeszcze Zyją"
     },
     {
       "id": "SinkingWhite_turn",
@@ -738,7 +738,7 @@
     },
     {
       "id": "BulletLament_stack",
-      "content": "Ci, Co Jeszcze Żyją(Pocisk)"
+      "content": "Ci, Co Jeszcze Zyją(Pocisk)"
     },
     {
       "id": "BulletLament_turn",
@@ -774,7 +774,7 @@
     },
     {
       "id": "QTE_Notice",
-      "content": "GALOPUJMY RAZEM PRZED SIEBIE!"
+      "content": "GALOPUJMY PRZED SIEBIĘ, RAZEM!"
     },
     {
       "id": "septempeccata_classification",
@@ -854,19 +854,19 @@
     },
     {
       "id": "panic",
-      "content": "Panika"
+      "content": "Panic"
     },
     {
       "id": "UnitInformation_emptySkillList",
-      "content": "Nie posiadasz Umiejętności tej kategorii."
+      "content": "No Skills in this category."
     },
     {
       "id": "retire_forBattlePortraitStateText",
-      "content": "Unieruchomiony"
+      "content": "Incapacitated"
     },
     {
       "id": "KAA1C9ActivateEffect",
-      "content": "Użyto Ampułki Korp. K"
+      "content": "Used K Corp. Ampule"
     }
   ]
 }
