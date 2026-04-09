@@ -50,11 +50,11 @@
     },
     {
       "id": "RecoverHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount} PŻ.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount} PŻ.</color>"
     },
     {
       "id": "RecoverMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#80c9ff>{amount} SP.</color>"
     },
     {
       "id": "RecoverHpOnlyUntilMax",
@@ -74,11 +74,11 @@
     },
     {
       "id": "RecoverHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>SP.</color>"
     },
     {
       "id": "RecoverHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>{amount} SP.</color>"
     },
     {
       "id": "LoseHpMpSameAmount",
@@ -202,15 +202,15 @@
     },
     {
       "id": "Choice_901004",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#a0392b>Zdolności Atakujące od Gniewu</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>15 PŻ.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#a0392b>Zdolności Atakujące od Gniewu</color> <color=#ebcaa2>zostają uleczeni o</color> <color=#f8c200>15 PŻ.</color>"
     },
     {
       "id": "Choice_90100701",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#bb521f>Zdolności Atakujące od Rządzy</color> </color=#ebcaa2>zostają uleczone o</color> <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#bb521f>Zdolności Atakujące od Rządzy</color> </color=#ebcaa2>zostają uleczeni o</color> <color=#80c9ff>SP.</color>"
     },
     {
       "id": "Choice_901008",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#bb521f>Zdolności Atakujące od Rządzy</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#bb521f>Zdolności Atakujące od Rządzy</color> <color=#ebcaa2>zostają uleczeni o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_90100901",
@@ -226,7 +226,7 @@
     },
     {
       "id": "Choice_90101601",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#61822b>Zdolności Atakujące od Obżarstwa</color> </color=#ebcaa2>zostają uleczone o</color> <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#61822b>Zdolności Atakujące od Obżarstwa</color> </color=#ebcaa2>zostają uleczeni o</color> <color=#80c9ff>SP.</color>"
     },
     {
       "id": "Choice_901018",
@@ -254,7 +254,7 @@
     },
     {
       "id": "Choice_90102501",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#306471>Zdolności Atakujące od Przygnębienia</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>20 PŻ.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#306471>Zdolności Atakujące od Przygnębienia</color> <color=#ebcaa2>zostają uleczeni o</color> <color=#f8c200>20 PŻ.</color>"
     },
     {
       "id": "Choice_901026",
@@ -262,7 +262,7 @@
     },
     {
       "id": "Choice_90102601",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#185188>Zdolności Atakujące od Pychy</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#185188>Zdolności Atakujące od Pychy</color> <color=#ebcaa2>zostają uleczeni o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_901027",
@@ -278,7 +278,7 @@
     },
     {
       "id": "Choice_90102801",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#185188>Zdolności Atakujące od Pychy</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#185188>Zdolności Atakujące od Pychy</color> <color=#ebcaa2>zostają uleczeni o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_901032",
@@ -294,7 +294,7 @@
     },
     {
       "id": "Choice_90103501",
-      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#7d4e94>Zdolności Atakujące od Zazdrości</color> <color=#ebcaa2>zostają uleczone o</color> <color=#f8c200>10 PŻ.</color>"
+      "content": "<color=#ebcaa2>Sojusznicy którzy posiadają</color> <color=#7d4e94>Zdolności Atakujące od Zazdrości</color> <color=#ebcaa2>zostają uleczeni o</color> <color=#f8c200>10 PŻ.</color>"
     },
     {
       "id": "Choice_1040301",
@@ -462,7 +462,7 @@
     },
     {
       "id": "RecoverRatioHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały uleczone o</color> <color=#00ff9c>{amount}% of max PŻ.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount}% of max PŻ.</color>"
     }
   ]
 }
