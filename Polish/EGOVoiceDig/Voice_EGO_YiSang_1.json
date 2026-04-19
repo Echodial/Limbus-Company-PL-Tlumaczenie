@@ -79,6 +79,46 @@
       "id": "battle_erosion_20107_2",
       "desc": "E.G.O Corrosion",
       "dlg": "Nie ma nic; żadnych wspomnień, ani potrzeby przypominania ich sobie... strzelać, tylko ciągnąć za spust!"
+    },
+    {
+      "id": "battle_awaken_20108_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Roztrzaskaj teraźniejszość tysiąckroć. Ponownie tysiąckroć roztrzaskaj przyszłości rzucane przez odłamki. I tak, nareszcie, zniszczona przeszłość sama zostanie roztrzaskana, wszystkie elementy wszechświata istniejące w wynku jednego, nieuniknionego okręgu—Trisāhasramahāsāhasra."
+    },
+    {
+      "id": "battle_awaken_20108_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Roztrzaskaj teraźniejszość tysiąckroć (一千)."
+    },
+    {
+      "id": "battle_awaken_20108_3",
+      "desc": "E.G.O Activation",
+      "dlg": "Ponownie tysiąckroć roztrzaskaj przyszłości rzucane przez odłamki (二千)."
+    },
+    {
+      "id": "battle_awaken_20108_4",
+      "desc": "E.G.O Activation",
+      "dlg": "I tak, nareszcie, zniszczona przeszłość sama zostanie roztrzaskana,"
+    },
+    {
+      "id": "battle_awaken_20108_5",
+      "desc": "E.G.O Activation",
+      "dlg": "wszystkie elementy wszechświata istniejące w wynku jednego,\nnieuniknionego okręgu—Trisāhasramahāsāhasra (三千大天)!"
+    },
+    {
+      "id": "battle_erosion_20108_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Niechaj wielorakie światy z pięciu tysiecy\nnayuta asaṃkhyeya zostaną na nowo zabarwione."
+    },
+    {
+      "id": "battle_erosion_20108_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Wewnątrz nich, odwiedzę mnie,\nktóry został rozbity na kalapy,\nktórych niezliczone kalpy przyszłości zostały roztrzaskane."
+    },
+    {
+      "id": "battle_erosion_20108_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Historie mnie samego, rozkruszone na proch, niedługo, nareszcie, zostaną rozwiane... i doznają unicestwienia."
     }
   ]
 }
