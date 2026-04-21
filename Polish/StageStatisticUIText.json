@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "stage_statistic_title",
-      "content": "Clear Statistics"
+      "content": "Statystyki Ukończenia"
     },
     {
       "id": "stage_statistic_popup_no_data",
-      "content": "No clear info found."
+      "content": "Nie znaleziono statystyk ukończenia."
     },
     {
       "id": "formation_code_popup_copy_only_desc",
-      "content": "Team Codes can be copied and pasted to load the Team loadouts."
+      "content": "Kody zespołu można skopoiwać i wkleić w menu zespołu."
     }
   ]
 }
