@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "tutorial_mainui_01_selection",
-      "content": "Creating your Team"
+      "content": "Tworzenie Zespołu"
     },
     {
       "id": "tutorial_mainui_01_selection_page_01_desc_01",
-      "content": "You can configure a Team from your 12 Sinners and their Identities."
+      "content": "Tutaj możesz ułożyć Zespół ze swoich 12 Grzeszników i ich Tożsamości."
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_title_01",
-      "content": "Team (Sinners Window)"
+      "content": "Zespół (Okno Grzeszników)"
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_desc_01",
-      "content": "In 'Sinners' window, selecting a Sinner's Identity portrait will show a list of their Identities. From there, you can choose an Identity to deploy."
+      "content": "W oknie 'Grzeszników', wybieranie portretu Tożsamości Grzesznika pokaże listę jego Tożsamości. Stąd możesz wybrać, która Tożsamość będzie częścią Zespołu."
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_title_01",
-      "content": "Team (Before Battles)"
+      "content": "Zespół (Przed Walką)"
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_desc_01",
-      "content": "Selecting the top part of a Sinner's Identity portrait will show a list of their Identities. From there, you can select an Identity to deploy."
+      "content": "Wybranie górnej części portretu Tożsamości Grzesznika pokaże listę jego Tożsamości. Stąd możesz wybrać, którą Tożsamość poślesz do walki."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_01",
-      "content": "Selecting the bottom part of a Sinner's Identity portrait will deploy that Identity to this battle."
+      "content": "Wybranie dolnej części portretu Tożsamości Grzesznika doda go do Kolejki Wdrożenia."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_02",
-      "content": "This shows the total number of deployable Identities for this battle."
+      "content": "Tutaj pokazana jest liczba Tożsamości, którą można posłać do tej walki."
     },
     {
       "id": "tutorial_mainui_01_selection_page_05_desc_01",
-      "content": "You will not be able to edit your Team in certain battle encounters. In those cases, selecting a Sinner's Identity portrait will deploy that Identity to battle."
+      "content": "You will not be able to edit your Zespół in certain battle encounters. In those cases, selecting a Sinner's Identity portrait will deploy that Identity to battle."
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_title_01",
-      "content": "Team - Identity Details"
+      "content": "Zespół - Identity Details"
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_desc_01",
-      "content": "In all Team menus, you can press and hold on an Identity portrait to view detailed information on that Sinner's currently equipped Identity & E.G.O."
+      "content": "In all Zespół menus, you can press i hold on an Identity portrait to view detailed information on that Sinner's currently equipped Identity & E.G.O."
     },
     {
       "id": "tutorial_mainui_01_selection_page_07_title_01",
@@ -62,7 +62,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_desc_01",
-      "content": "Select from the list of keywords to choose a name for your Team."
+      "content": "Select from the list of keywords to choose a name for your Zespół."
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_desc_02",
@@ -70,27 +70,27 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_09_title_01",
-      "content": "Team Details"
+      "content": "Zespół Details"
     },
     {
       "id": "tutorial_mainui_01_selection_page_09_desc_01",
-      "content": "You can view the following information here: All Identities' Skill Attack Types, Sin Affinities, and equipped E.G.O."
+      "content": "You can view the following information here: All Identities' Skill Attack Types, Sin Affinities, i equipped E.G.O."
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_title_01",
-      "content": "E.G.O Resources"
+      "content": "Zasoby E.G.O"
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_01",
-      "content": "Here, you can view the types and amounts of E.G.O Costs your team can gain in battle."
+      "content": "Here, you can view the types i amounts of E.G.O Costs your team can gain in battle."
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_02",
-      "content": "Select it, and you can view Identities that gain the E.G.O Costs and E.G.O that use them."
+      "content": "Select it, i you can view Identities that gain the E.G.O Costs i E.G.O that use them."
     },
     {
       "id": "tutorial_mainui_02_identityandegolist",
-      "content": "Identity and E.G.O Lists"
+      "content": "Listy Tożsamości i E.G.O"
     },
     {
       "id": "tutorial_mainui_02_identitylist",
@@ -102,19 +102,19 @@
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
-      "content": "Your Sinner’s Identities are shown here. You can check their Grades, Uptie Tiers, Levels, and Factions."
+      "content": "Your Sinner’s Identities are shown here. You can check their Grades, Uptie Tiers, Levels, i Factions."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_02_title_01",
-      "content": "Team Configuration"
+      "content": "Zespół Configuration"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
-      "content": "You can see both the Identities and E.G.O set for the team here. One E.G.O can be registered for each grade."
+      "content": "You can see both the Identities i E.G.O set for the team here. One E.G.O can be registered for each grade."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_03_title_01",
-      "content": "Team Configuration"
+      "content": "Zespół Configuration"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
@@ -122,7 +122,7 @@
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
-      "content": "You can view the E.G.O’s grade, Threadspin Tier, main attribute, and name."
+      "content": "You can view the E.G.O’s grade, Threadspin Tier, main attribute, i name."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_title_01",
@@ -138,31 +138,31 @@
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
-      "content": "Support Identities and E.G.O registered by friends are shown here."
+      "content": "Support Identities i E.G.O registered by friends are shown here."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
-      "content": "You can borrow a friend’s Identity and E.G.O to assist you. Note that you may only have one support Identity on your team at a time."
+      "content": "You can borrow a friend’s Identity i E.G.O to assist you. Note that you may only have one support Identity on your team at a time."
     },
     {
       "id": "tutorial_mainui_03_identityinfo",
-      "content": "Identity Info"
+      "content": "Informacje o Tożsamości"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
-      "content": "Level"
+      "content": "Poziom"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
-      "content": "Levelling up an Identity increases its stats."
+      "content": "Podnoszenie Poziomu Tożsamości zwiększa jej statystyki."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
-      "content": "Uptie Tier"
+      "content": "Powiązanie"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
-      "content": "Higher Uptie tiers will enhance existing Skills or unlock new Skills."
+      "content": "Wyższe Powiązanie wzmocni Zdolności Tożsamości, lub odblokuje nowe."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
@@ -170,267 +170,267 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
-      "content": "The Identity's Max HP, Speed Range, Defense Level and its modifier are displayed here."
+      "content": "Tutaj pokazane są Maks PŻ, Zakres Prękości, Poziom Obrony i jego modyfikator."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
-      "content": "Resistances"
+      "content": "Odporności"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
-      "content": "The Identity's Resistances are displayed here."
+      "content": "Tutaj pokazane są Odporności Tożsamości."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
-      "content": "Identity Summary"
+      "content": "Streszczenie Tożsamości"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
-      "content": "The Identity's equipped E.G.O and unlocked Skills are displayed here."
+      "content": "Tutaj pokazane są wyekwipowane E.G.O Tożsamości, jak i jej odblokowane Zdolności."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
-      "content": "Skills"
+      "content": "Zdolności"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
-      "content": "Each Identity has Skills of various functions. You can view the details about them here."
+      "content": "Każda Tożsamość posiada Zdolności, które pełnią różne funkcje. Tutaj możesz wyświetlić ich detale."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
-      "content": "Identities deployed in battle can activate their Passives. At the start of every turn, Passives will activate when their conditions are met."
+      "content": "Tożsamości wdrożone do walki mogą aktywować swoje Bojowe Zdolności Pasywne. Na początku każdej tury, Bojowe Zdolności Pasywne aktywują się, jeśli tylko zostaną spełnione ich warunki."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
-      "content": "Identities not deployed in battle can activate their Support Passives. At the start of every turn, Support Passives will activate when their conditions are met."
+      "content": "Tożsamości, które nie zostały wdrożone do walki mogą aktywować swoje Wspierające Zdolności Pasywne. Na początku każdej tury, Wspierające Zdolności Pasywne aktywują się, jeśli tylko zostaną spełnione ich warunki."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
-      "content": "Skill Icons"
+      "content": "Ikony Zdolności"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
-      "content": "The color of each Skill Icon corresponds to a Sin Affinity of the same color. These are the following Sin Affinities: Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy."
+      "content": "Kolor Ikony każdej Zdolności odpowiada Grzechowi tego samego koloru. Do Grzechów Należą: Gniew, Rządza, Lenistwo, Obżarstwo, Przygnębienie, Pycha i Zazdrość."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_08_desc_01",
-      "content": "On the bottom of a Skill Icon is its Attack Type. These are the following Attack Types: Slash, Pierce, and Blunt."
+      "content": "Dolna część Ikony pokazuje Typ Ataku. Do Typów Ataku Należą: Cięcie, Dźganie i Uderzenie."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_08_desc_02",
-      "content": "On the left of a Skill Icon is its Base Power."
+      "content": "Po lewej od Ikony pokazana jest Bazowa Moc Zdolności."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_08_desc_03",
-      "content": "On the top of a Skill Icon is its Coin Power. These are the following Coin Power calculations: Plus, Minus, and Multiply."
+      "content": "Na górze Ikony pokazana jest Moc Monet Zdolności. Money mogą być Dodatnie lub Ujemne."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_01",
-      "content": "The number of Coins for this Skill is displayed here."
+      "content": "Tutaj Pokazana jest liczba Monet, które posiada Zdolność."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_02",
-      "content": "This indicates how many copies of the Skill are in the Identity's Skillset."
+      "content": "Tutaj pokazane jest ile kopii tej Zdolności posiada ta Tożsamość."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_03",
-      "content": "The Skill's Offense Level and its modifier are displayed here. The difference in the Attack Skill's Offense Level and the target's Defense Level can greatly affect the amount of damage dealt."
+      "content": "Tutaj pokazane są Poziom Ataku Zdolności, jak i jego modyfikator. Różnica pomiędzy the Poziomem Ataku Zdolności Atakującej a Poziomem Obrony celu ma duży wpływ na zadane obrażenia."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
-      "content": "The Skill's Atk Weight is displayed here. Higher Atk Weight will target more enemies. (e.g. 1 Atk Weight will target 1 enemy, 3 Atk Weight will target 3 enemies)"
+      "content": "Tutaj pokazana jest Waga Ataku Zdolności. Wyższa Waga Ataku oznacza, że Zdolność trafi więcej elów. (np. 1 Waga Ataku trafi 1 cel, 3 Wagi Ataku trafi 3 cele)"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
-      "content": "Skill Effects"
+      "content": "Efekty Zdolności"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_desc_01",
-      "content": "Skills may have effects that activate when the stated conditions are met."
+      "content": "Zdolności mogą mieć różne efekty, które aktywują się przy spełnieniu odpowiednich warunków."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_title_02",
-      "content": "Coin Effects"
+      "content": "Efekty Monet"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_desc_02",
-      "content": "Skills may have effects that activate when the stated Coin conditions(e.g. Heads Hit, Tails Hit) are met. Coin effects will not activate when the conditions aren't met."
+      "content": "Zdolności mogą mieć różne efekty, które aktywują się przy spełnieniu warunków Monet (np. Trafienie Orłem, Trafienie Reszką)."
     },
     {
       "id": "tutorial_mainui_04_egoinfo",
-      "content": "E.G.O Info"
+      "content": "Informacje o E.G.O"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
-      "content": "Threadspin Tier"
+      "content": "Przędzenie"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
-      "content": "Higher Threadspinning Tiers will enhance the E.G.O's Skills and abilities."
+      "content": "Wyższe Sprzędzenie wzmacnia Zdolności E.G.O."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
-      "content": "Resistances"
+      "content": "Odporności"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
-      "content": "The E.G.O's Resistances are displayed here. If an Identity has used an E.G.O Skill, its Resistances will be overwritten by the used E.G.O's Resistances."
+      "content": "Tutaj pokazane są Odporności E.G.O. Jeśli Tożsamość użyła Zdolności E.G.O, jej Odporności zostaną ustawione na te używane przez to E.G.O."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_02",
-      "content": "Sanity Cost"
+      "content": "Koszt Psychiki"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_02",
-      "content": "The amount of SP spent when using this E.G.O Skill is displayed here."
+      "content": "Tutaj pokazana jest ilość SP zużywanego by użyć Zdolności E.G.O."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_03",
-      "content": "E.G.O Resource Cost"
+      "content": "Koszt Zasobów E.G.O"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_03",
-      "content": "E.G.O resources required to use this E.G.O Skill are displayed here."
+      "content": "Tutaj pokazane są zasoby E.G.O potrzebne do użycia Zdolności E.G.O."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_title_01",
-      "content": "E.G.O Skills"
+      "content": "Zdolności E.G.O"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_03_desc_01",
-      "content": "E.G.O Skills have high Base/Coin Power values and potent Skill effects. Details about the E.G.O Skill are displayed here."
+      "content": "Zdolności E.G.O posiadają wysoką Moc Bazową/Monet i potężne efekty. Tutaj pokazane są szczegóły co do Zdolności E.G.O."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_04_desc_01",
-      "content": "If an Identity with a low SP value uses an E.G.O Skill, there is a chance that a much more powerful E.G.O Corrosion Skill will be activated instead. Using E.G.O Corrosion Skills carries a risk, however, as it attacks indiscriminately and may target allies as well."
+      "content": "Jeśli Tożsamość z niską wartością SP użyje Zdolności E.G.O, ma szansę zamiast niej użyć znacznie potężniejszej Zdolności Korozji E.G.O. Korozja E.G.O niesie jednak ze sobą pewne ryzyko, jako że może atakować też sojuszników."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_01",
-      "content": "You can force activate an E.G.O Corrosion Skill by Overclocking, which consumes 1.5 times as many E.G.O Resources and SP as the E.G.O Skill's usual cost. This is called E.G.O Overclock.\nE.G.O Overclock can be activated by pressing and holding the E.G.O Card in the E.G.O Skill selection menu in combat."
+      "content": "Możesz wymusić użycie Zdolności Korozji E.G.O przez Nakręcanie, co zużywa o 1.5 więcej Zasobów E.G.O i SP niż zwykły koszt Zdolności E.G.O. Jest to nazywane Nakręcaniem E.G.O.\nE.G.O można Nakręcić przez przytrzymywanie karty E.G.O Card w menu Zdolności E.G.O podczas walki."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_02",
-      "content": "Stable E.G.O Overclock Skill will be activated if there are enough E.G.O Costs(1.5 times the usual cost) at hand. Stable E.G.O Overclock Skill is able to distinguish allies from foes."
+      "content": "Jeśli posiadasz wymagene koszty E.G.O (1.5 zwykłego kosztu), Nakręcenie E.G.O będzie Stabilne. Stabilne Nakręcone E.G.O jest w stanie rozróżnić swoich od wrogów."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_05_desc_03",
-      "content": "If there aren't enough E.G.O Costs at hand, Unstable E.G.O Overclock Skill will be activated instead. Unstable E.G.O Overclock Skill does not distinguish allies from foes."
+      "content": "Jeśli jednak brakuje ci kosztów, Nakręcenie E.G.O będzie Niestabilne. Niestabilne Nakręcone E.G.O wciąż może atakować sojuszników."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_06_desc_01",
-      "content": "Using an E.G.O Skill will activate the E.G.O's Passive."
+      "content": "Użycie Zdolności E.G.O aktywuje je Zdolność Pasywną."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_07_title_01",
-      "content": "Skill Icons"
+      "content": "Ikony Zdolności"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_07_desc_01",
-      "content": "The color of each Skill Icon corresponds to a Sin Affinity of the same color. These are the following Sin Affinities: Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy."
+      "content": "Kolor Ikony każdej Zdolności odpowiada Grzechowi tego samego koloru. Do Grzechów Należą: Gniew, Rządza, Lenistwo, Obżarstwo, Przygnębienie, Pycha i Zazdrość."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_08_desc_01",
-      "content": "On the bottom of a Skill Icon is its Attack Type. These are the following Attack Types: Slash, Pierce, and Blunt."
+      "content": "Dolna część Ikony pokazuje Typ Ataku. Do Typów Ataku Należą: Cięcie, Dźganie i Uderzenie."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_08_desc_02",
-      "content": "On the left of a Skill Icon is its Base Power."
+      "content": "Po lewej od Ikony pokazana jest Bazowa Moc Zdolności."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_08_desc_03",
-      "content": "On the top of a Skill Icon is its Coin Power. These are the following Coin Power calculations: Plus, Minus, and Multiply."
+      "content": "Na górze Ikony pokazana jest Moc Monet Zdolności. Money mogą być Dodatnie lub Ujemne."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_09_desc_01",
-      "content": "The number of Coins for this Skill is displayed here."
+      "content": "Tutaj Pokazana jest liczba Monet, które posiada Zdolność."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_09_desc_02",
-      "content": "The Skill's Offense Level and its modifier are displayed here. The difference in the Attack Skill's Offense Level and the target's Defense Level can greatly affect the amount of damage dealt."
+      "content": "Tutaj pokazane są Poziom Ataku Zdolności, jak i jego modyfikator. Różnica pomiędzy the Poziomem Ataku Zdolności Atakującej a Poziomem Obrony celu ma duży wpływ na zadane obrażenia."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_09_desc_03",
-      "content": "The Skill's Atk Weight is displayed here. Higher Atk Weight will target more enemies. (e.g. 1 Atk Weight will target 1 enemy, 3 Atk Weight will target 3 enemies)"
+      "content": "Tutaj pokazana jest Waga Ataku Zdolności. Wyższa Waga Ataku oznacza, że Zdolność trafi więcej elów. (np. 1 Waga Ataku trafi 1 cel, 3 Wagi Ataku trafi 3 cele)"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_10_title_01",
-      "content": "Skill Effects"
+      "content": "Efekty Zdolności"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_10_desc_01",
-      "content": "Skills may have effects that activate when the stated conditions are met."
+      "content": "Zdolności mogą mieć różne efekty, które aktywują się przy spełnieniu odpowiednich warunków."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_10_title_02",
-      "content": "Coin Effects"
+      "content": "Efekty Monet"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_10_desc_02",
-      "content": "Skills may have effects that activate when the stated Coin conditions(e.g. Heads Hit, Tails Hit) are met. Coin effects will not activate when the conditions aren't met."
+      "content": "Zdolności mogą mieć różne efekty, które aktywują się przy spełnieniu warunków Monet (np. Trafienie Orłem, Trafienie Reszką)."
     },
     {
       "id": "tutorial_mainui_05_storymain",
-      "content": "The Main Story"
+      "content": "Główna Historia"
     },
     {
       "id": "tutorial_mainui_05_storymain_page_01_title_01",
-      "content": "Canto Select"
+      "content": "Wybór Canto"
     },
     {
       "id": "tutorial_mainui_05_storymain_page_01_desc_01",
-      "content": "You can view past parts of the story here. Select a Canto."
+      "content": "Tutaj możesz wyświetlić przeszłe części historii. Zacznij od wyboru Canto."
     },
     {
       "id": "tutorial_mainui_05_storymain_page_02_title_01",
-      "content": "Story Timeline"
+      "content": "Linia Czasu Historii"
     },
     {
       "id": "tutorial_mainui_05_storymain_page_02_desc_01",
-      "content": "Choose the scene you’d like to view."
+      "content": "Wybierz scenę, którą chcesz wyświetlić."
     },
     {
       "id": "tutorial_mainui_05_storymain_page_03_title_01",
-      "content": "Place in the Story"
+      "content": "Miejsce w Historii"
     },
     {
       "id": "tutorial_mainui_05_storymain_page_03_desc_01",
-      "content": "You can also check what stage the scene originally played in."
+      "content": "Możesz też zobaczyć, w któym etapie oryginalnie odbyła się ta scena."
     },
     {
       "id": "tutorial_mainui_06_storyidentity",
-      "content": "Identity Stories"
+      "content": "Historie Tożsamości"
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_01_title_01",
-      "content": "Selecting a Sinner"
+      "content": "Wybór Grzesznika"
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_01_desc_01",
-      "content": "You can read up on the profiles and stories of your Sinners. Select a Sinner."
+      "content": "Możesz tu przeczytać profile i historie twoich Grzeszników. Zacznij od wyboru Grzesznika."
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_02_title_01",
-      "content": "Selecting Identities"
+      "content": "Wybór Tożsamości"
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_02_desc_01",
-      "content": "You can select from the Sinner’s listed Identities."
+      "content": "Możesz wybrać jedną z wypisanych Tożsamości danego Grzesznika."
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_03_title_01",
-      "content": "Identity Story"
+      "content": "Historia Tożsamości"
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_03_desc_01",
-      "content": "You can read the Identity’s story here."
+      "content": "Tutaj możesz przeczytać historię Tożsamości."
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_04_title_01",
-      "content": "Voice Lines"
+      "content": "Kwestie Głosowe"
     },
     {
       "id": "tutorial_mainui_06_storyidentity_page_04_desc_01",
-      "content": "You can view the Identity’s lines or their story."
+      "content": "Tutaj możesz posłuchać kwestii głosowych Tożsamości."
     },
     {
       "id": "tutorial_mainui_07_storymirror",
@@ -450,7 +450,7 @@
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_01_desc_02",
-      "content": "In the Mirror Worlds, the various Identity stories are categorized in accordance with the reflection they come from. You can check each Mirror World and the factions that appear in it."
+      "content": "In the Mirror Worlds, the various Identity stories are categorized in accordance with the reflection they come from. You can check each Mirror World i the factions that appear in it."
     },
     {
       "id": "tutorial_mainui_07_storymirror_page_02_title_01",
@@ -462,135 +462,135 @@
     },
     {
       "id": "tutorial_mainui_08_stagemain",
-      "content": "Main Stages"
+      "content": "Główne Etapy"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_01_title_01",
-      "content": "Stage"
+      "content": "Etapy"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_01_desc_01",
-      "content": "You choose a stage to enter."
+      "content": "Tu możesz wybrać, do którego etapu chcesz wejść."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_02_desc_01",
-      "content": "After you’ve won the battle, the stage will be marked as cleared."
+      "content": "Po zakończeniu Potyczki, etap zostanie oznaczony jako ukończony."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_02_desc_02",
-      "content": "If you clear the EX Objectives, you’ll earn bonus rewards, and the stage will be marked accordingly."
+      "content": "Jeśli spełnisz Dodatkowe Warunki, zdobędziesz nagrody, a etap zostanie odpowiednio oznaczony."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_03_title_01",
-      "content": "Stage Story"
+      "content": "Historia Etapu"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_03_desc_01",
-      "content": "You can rewatch the story scenes featured in the stage as well."
+      "content": "Możesz tu także obejrzeć ponownie scenę powiązaną z tym Etapem."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_03_title_02",
-      "content": "Stage Description"
+      "content": "Opis Etapu"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_03_desc_02",
-      "content": "You can view the blurb and description for the stage here."
+      "content": "Jest tu też napisany skrócony opis Etapu."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_03_title_03",
-      "content": "Enemy Info"
+      "content": "Informacje o Przeciwnikach"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_03_desc_03",
-      "content": "You can read up on the enemies that appear. Information on certain powerful enemies will only be available after encountering them."
+      "content": "Wraz z pojawianiem się przeciwników, dodawane będą informacje o nich. Niektórzy silniejsi przeciwnicy mogą ujawnić informacje dopiero po tym, jak ich spotkasz."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_04_title_01",
-      "content": "EX Objectives"
+      "content": "Dodatkowe Cele"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_04_desc_01",
-      "content": "EX Objectives are displayed here."
+      "content": "Tutaj pokazane są Dodatkowe Cele."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_04_title_02",
-      "content": "Stage Entry"
+      "content": "Wejście do Etapu"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_04_desc_02",
-      "content": "Entering battle stages costs Enkephalin."
+      "content": "Wejście do walki zużywa Enkefalinę."
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_05_title_01",
-      "content": "Participant Limit"
+      "content": "Limit Uczestnictwa"
     },
     {
       "id": "tutorial_mainui_08_stagemain_page_05_desc_01",
-      "content": "Each stage has a limit to the number of participants."
+      "content": "Każdy Etap posiada maksymalną liczbę Grzeszników, którzy mogą w nim uczestnicyć."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon",
-      "content": "Story Dungeons"
+      "content": "Lochy w Historii"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_01_title_01",
-      "content": "Dungeon Info Tab"
+      "content": "Zakładka Informacji Lochów"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_01_desc_01",
-      "content": "A dungeon awaits at the tail end of each episode. Entering dungeons costs Enkephalin Modules."
+      "content": "Na końcu każdego Canto będzie na ciebie czekać Loch. Wejście do Lochów zużywa Moduły Enkefaliny."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_02_title_01",
-      "content": "Dungeon Exploration"
+      "content": "Eksploracja Lochów"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_02_desc_01",
-      "content": "You proceed by moving to spaces adjacent to your location. You may find encounters with various foes and also events with consequences."
+      "content": "By poruszać się po lochu, przechodzisz na pola sąsiadujące z twoim. Możesz na nich znaleźć potyczki z różnymi wrogami, lub wydarzenia i ich efekty."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_03_title_01",
-      "content": "Sinner Health"
+      "content": "Zdrowie Grzeszników"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_03_desc_01",
-      "content": "The HP, SP, and lost lives of your Sinners will carry over between encounters."
+      "content": "PŻ, SP i stracone życie twoich Grzeszników będzie utrzymywać się pomiędzy potyczkami w Lochu."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_03_title_02",
-      "content": "Checkpoints"
+      "content": "Punkty Kontrolne"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_03_desc_02",
-      "content": "When you reach a checkpoint, your Sinners will be fully healed."
+      "content": "Kiedy dojdziesz do punktu kontrolnego, twoi Grzesznicy zostaną w pełni uleczeni."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_title_01",
-      "content": "E.G.O Gifts"
+      "content": "Dary E.G.O"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_desc_01",
-      "content": "As you explore the dungeon, you may acquire E.G.O Gifts; these items offer powerful effects that last until the end of the exploration."
+      "content": "Podczas eksploracji Lochów możesz zdobyć Dary E.G.O; te przedmioty oferują potężne efekty, które pozostają z tobą do końca eksploracji."
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_title_02",
-      "content": "Descending Floors"
+      "content": "Zchodzenie po Piętrach"
     },
     {
       "id": "tutorial_mainui_09_stagedungeon_page_04_desc_02",
-      "content": "A dungeon consists of multiple floors. You may proceed down after securing the space containing stairs."
+      "content": "Loch składa się z kilku pięter. Możesz przejść niżej po zabezpieczeniu przestrzeni obok schodów."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon",
-      "content": "Mirror Dungeons"
+      "content": "Lustrzane Lochy"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_01_title_01",
-      "content": "Mirror Dungeons List"
+      "content": "Lista Lustrzanych Lochów"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_01_desc_01",
-      "content": "You can choose one of the various Mirror Dungeons to enter. Claiming Mirror Dungeon Rewards costs Enkephalin Modules."
+      "content": "Możesz wybrać jeden z Lustrz. Claiming Mirror Dungeon Rewards costs Enkephalin Modules."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_02_title_01",
@@ -598,7 +598,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_02_desc_01",
-      "content": "You can check the list of E.G.O Gifts that appear in the Mirror Dungeon. Certain E.G.O Gifts need to be unlocked by fulfilling specific conditions."
+      "content": "You can check the list of Dary E.G.O that appear in the Mirror Dungeon. Certain Dary E.G.O need to be unlocked by fulfilling specific conditions."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_03_title_01",
@@ -606,7 +606,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_03_desc_01",
-      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of E.G.O Gifts to help the exploration. Choose one to take with you."
+      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of Dary E.G.O to help the exploration. Choose one to take with you."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_04_title_01",
@@ -622,7 +622,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_05_desc_01",
-      "content": "Select Identities for the Sinners. In Mirror Dungeons, all Identities start at Level 10, and can be powered up as you progress."
+      "content": "Select Identities for the Sinners. In Mirror Dungeons, all Identities start at Level 10, i can be powered up as you progress."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_06_title_01",
@@ -638,15 +638,15 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_07_desc_01",
-      "content": "The layouts and paths in Mirror Dungeons are randomly generated each time you enter. Proceed by moving to one of the adjacent spaces in the next sector, and deal with the encounters and events waiting for you."
+      "content": "The layouts i paths in Mirror Dungeons are randomly generated each time you enter. Proceed by moving to one of the adjacent spaces in the next sector, i deal with the encounters i events waiting for you."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_01",
-      "content": "E.G.O Gifts"
+      "content": "Dary E.G.O"
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_01",
-      "content": "As you explore the dungeon, you may acquire E.G.O Gifts; these items offer powerful effects that last until the end of the exploration."
+      "content": "As you explore the dungeon, you may acquire Dary E.G.O; these items offer powerful effects that last until the end of the exploration."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_title_02",
@@ -654,7 +654,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_08_desc_02",
-      "content": "The HP, SP, and lost lives of your Sinners will carry over between encounters."
+      "content": "The PŻ, SP, i lost lives of your Sinners will carry over between encounters."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_09_title_01",
@@ -670,7 +670,7 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_09_desc_02",
-      "content": "In Mirror Dungeons, Identities power up in steps as you progress. Level up and equip more E.G.O through combat encounters and events."
+      "content": "In Mirror Dungeons, Identities power up in steps as you progress. Level up i equip more E.G.O through combat encounters i events."
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_10_title_01",
@@ -678,303 +678,303 @@
     },
     {
       "id": "tutorial_mainui_10_mirrordungeon_page_10_desc_01",
-      "content": "You’ll be rewarded upon clearing the dungeon, and a bonus will be given for a set number of times each week. The amount of rewards is proportional to the number of spaces cleared."
+      "content": "You’ll be rewarded upon clearing the dungeon, i a bonus will be given for a set number of times each week. The amount of rewards is proportional to the number of spaces cleared."
     },
     {
       "id": "tutorial_mainui_11_extraction",
-      "content": "Extractions"
+      "content": "Ekstrakcja"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_title_01",
-      "content": "Category"
+      "content": "Kategorie"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_desc_01",
-      "content": "You may choose between Standard and Target Extractions."
+      "content": "Możesz wybrać pomiędzy Zwykłą a Docelową Ekstrakcją."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_title_02",
-      "content": "Extraction"
+      "content": "Ekstrakcja"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_desc_02",
-      "content": "You can spend Lunacy to extract Identities or E.G.O."
+      "content": "Możesz wydać Opium by Ekstraktować Tożsamości i E.G.O."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_title_01",
-      "content": "Target Period"
+      "content": "Okres Docelowy"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_desc_01",
-      "content": "You can see how long the limited Extraction banner will last."
+      "content": "Tutaj pokazany jest czas trwania obecnej Docelowej Ekstrakcji."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_title_02",
-      "content": "Featured Target"
+      "content": "Wyróżniony Cel"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_desc_02",
-      "content": "View details on the featured Identity or E.G.O here."
+      "content": "Tutaj możesz zobaczyć szczegóły o wyróżnionej Tożsamości lub E.G.O."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_title_01",
-      "content": "Extraction History"
+      "content": "Historia Ekstrakcji"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_desc_01",
-      "content": "You can view records of your previous Extractions here."
+      "content": "Tutaj możesz wyświetlić historię twoich ekstrakcji."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_title_02",
-      "content": "Rate Info"
+      "content": "Informacje o Szansach"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_desc_02",
-      "content": "You can view the likelihood of the featured Identity or E.G.O being extracted."
+      "content": "Tutaj możesz zobacyć szanse na ekstrakcje wyróżnionych Tożsamości i E.G.O."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_04_title_01",
-      "content": "Egoshards"
+      "content": "Odłamki Ego"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_04_desc_01",
-      "content": "When you get an Identity you already own, you’ll receive Egoshards based on its rarity."
+      "content": "Jeśli dostaniesz Tożsamość którą już posiadasz, zamiast niej otrzymasz Odłamki Ego w liczbie zależnej od jej rzadkości."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine",
-      "content": "Dispenser"
+      "content": "Automat"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
-      "content": "Dispenser Catalogue"
+      "content": "Katalog Automatu"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
-      "content": "You can exchange Egoshards for Identities or E.G.O you don’t yet own."
+      "content": "Tutaj możesz wymienić Odłamki Ego na Tożsamości lub E.G.O, których jeszcze nie posiadasz."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
-      "content": "Dispenser Types"
+      "content": "Kategorie Automatu"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
-      "content": "You can purchase permanently available Identities and E.G.O, as well as those from past seasons."
+      "content": "Tożsamości i E.G.O pochodzące z różnych sezonów, jak i te zawsze dostępne, znajdują się pod swoimi zakładkami w Automacie."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
-      "content": "Choosing Items to Buy"
+      "content": "Wybranie Produktów do Kupienia"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
-      "content": "To buy Identities or E.G.O from here, you will need Egoshards of the Sinner."
+      "content": "By kupić stąd Tożsamości i E.G.O, Potrzebujesz odłamków Ego danego Grzesznika."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
-      "content": "Thread Exchange"
+      "content": "Wymiana Nici"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_01",
-      "content": "Egoshards can also be exchanged for Thread."
+      "content": "Odłamki Ego mogą zostać zamienione w Nici."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_title_02",
-      "content": "Thread"
+      "content": "Nici"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
-      "content": "Thread is used for the Uptying of Identities and Threadspinning of E.G.O."
+      "content": "Nici są używane do Powiązywania Tożsamości i Przędzenia E.G.O."
     },
     {
       "id": "tutorial_mainui_13_userinfo_manager",
-      "content": "Manager Info"
+      "content": "Informacje o Kierowniku"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_01_title_01",
-      "content": "User Info"
+      "content": "Informacje o Użytkowniku"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_01_desc_01",
-      "content": "You can check your user info, list of support characters, and the friend list here."
+      "content": "Tutaj możesz sprawdzićswoje informacje o użytkowniku, listę wspierających tożsamości, i listę znajomych."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_title_01",
-      "content": "User Info"
+      "content": "Informacje o Użytkowniku"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_desc_01",
-      "content": "The User ID (UID) and account level are shown here."
+      "content": "Tutaj pokazane są ID Użytkownika (UID) i poziom konta."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_title_02",
-      "content": "Banner"
+      "content": "Baner"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_desc_02",
-      "content": "You can configure your decorative banners."
+      "content": "Tutaj możesz ustawiać swój dekoracyjny baner."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_03_title_01",
-      "content": "Face of the Company"
+      "content": "Twarz Firmy"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_03_desc_01",
-      "content": "You can choose artwork to display from the Sinners in your possession."
+      "content": "Tutaj możesz wybrać obraz jednej z twoich posiadanych Tożsamości, by go wyświetlać."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_04_title_01",
-      "content": "Art List"
+      "content": "Lista Obrazków"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
-      "content": "You can check the artwork of the Identities and E.G.O you own."
+      "content": "Tutaj możesz obejrzeć posiadane obrazki Tożsamości i E.G.O."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_05_title_01",
-      "content": "Introduction"
+      "content": "Podpis"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_05_desc_01",
-      "content": "Use a combination of given words and phrases to make your introduction."
+      "content": "Możesz użyć kombinacji zdobytych zdań i słów, by sworzyć własny podpis."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_06_title_01",
-      "content": "Making an Intro"
+      "content": "Podpis"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_06_desc_01",
-      "content": "Choose from a given list of phrases and words to make your introduction."
+      "content": "Możesz użyć kombinacji zdobytych zdań i słów, by sworzyć własny podpis."
     },
     {
       "id": "tutorial_mainui_13_userinfo_company",
-      "content": "Company"
+      "content": "Firma"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_07_title_01",
-      "content": "Support Identities"
+      "content": "Wspierające Tożsamości"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
-      "content": "You can assign support Identities and E.G.O to assist others."
+      "content": "Tutaj możesz ustawić listę Wspierających Tożsamości i ich E.G.O, by móc pomóc innym."
     },
     {
       "id": "tutorial_mainui_13_userinfo_friend",
-      "content": "Friends"
+      "content": "Znajomi"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_08_title_01",
-      "content": "Friends List"
+      "content": "Lista Znajomych"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_08_desc_01",
-      "content": "You can check your friends’ IDs, banners, introductions, and log-in times; plus, add users as friends!"
+      "content": "Tutaj możesz sprawdzić Tożsamości, banery, podpisy i ostatnie logowanie znajomych; do tego możesz dodać tu znajomych!"
     },
     {
       "id": "tutorial_mainui_14_battlepass_title",
-      "content": "Battle Pass"
+      "content": "Przepustka Bojowa"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_01_title_01",
-      "content": "Battle Pass Rewards"
+      "content": "Nagrody Przepustki Bojowej"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_01_desc_01",
-      "content": "You can check and redeem level rewards for the free battle pass and the Limbus Pass."
+      "content": "Tutaj możesz sprawdzić i odebrać nagrody z darmowej przepustki, jak i z Przepustki Limbus."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_title_01",
-      "content": "Pass Period and Name"
+      "content": "Imie i Okres Przepustki"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_desc_01",
-      "content": "You can check the title of the battle pass and its period."
+      "content": "Tutaj możesz sprawdzić jak nazywa się obecna przepustka, jak i ile będzie trwać."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_title_02",
-      "content": "Pass Level and Progress"
+      "content": "Poziom i Postęp Przepustki"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_desc_02",
-      "content": "You can check your battle pass level and progress here."
+      "content": "Tutaj możesz sprawdzić swój poziom przepustki."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_03_title_01",
-      "content": "Battle Pass Missions"
+      "content": "Misje Przepustki"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_03_desc_01",
-      "content": "This shows the list of missions that reward you with battle pass progression upon completion. There are daily, weekly, and seasonal missions."
+      "content": "Tutaj pokazane są misje, które wynagradzają cię doświadczeniem przepustki kiedy zostaną wypełnione. Misje są podzielone na Codzienne, Cotygodniowe i Sezonowe."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_04_title_01",
-      "content": "Max Level Rewards"
+      "content": "Nagrody Maks Poziomu"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_04_desc_01",
-      "content": "Once you’ve reached the maximum level for determined rewards on the battle pass, you will be given bonus rewards with each level up. Limbus Pass owners gain additional rewards."
+      "content": "Kiedy osiągniesz Maksymalny Poziom nagród określonych w przepustce, z każdym poziomem będziesz otrzymywać dodatkowe nagrody. Posiadacze Przepustki Limbus będą otrzymywać zwiększone nagorody."
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_title",
-      "content": "EXP Luxcavation"
+      "content": "Lukskawacja DOŚW"
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_page_01_title_01",
-      "content": "List of Luxcavation Sites"
+      "content": "Lista Stref Lukskawacji"
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_page_01_desc_01",
-      "content": "Choose a stage to enter based on the strength of your Sinners. Entering Luxcavation stages costs Enkephalin Modules."
+      "content": "Wybierz Strefę Lukskawacji zależnie od siły twoich Grzeszników. By rozpocząć Lukskawację, potrzebne są Moduły Enkefaliny."
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_page_02_title_01",
-      "content": "Useful Affinities"
+      "content": "Przydatne Typy Obrażeń"
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_page_02_desc_01",
-      "content": "Enemies in EXP Luxcavation have specific resistances. You can check the type and Affinity that will be the most effective for each stage before entering."
+      "content": "Przeciwnicy w Lukskawacji DOŚW posiadają wybrane Odporności. Możesz zobaczyć, co będzie najbardziej efektywne przeciwko przeciwnikom w danej strefie, zanim do niej wejdziesz."
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_page_03_title_01",
-      "content": "EXP Luxcavation Rewards"
+      "content": "Nagrody Lukskawacji DOŚW"
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_page_03_desc_01",
-      "content": "In EXP Luxcavation, you can acquire experience from combat and Identity Training Tickets, and you can earn bonus rewards for a set number of clears each day."
+      "content": "W Lukskawacji DOŚW, możesz zdobyć Bilety Doświadczenia, im trudniejsza strefa, tym więcej zyskasz z nich biletów."
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_title",
-      "content": "Thread Luxcavation"
+      "content": "Lukskawacja Nici"
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_01_title_01",
-      "content": "List of Luxcavation Sites"
+      "content": "Lista Stref Lukskawacji"
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_01_desc_01",
-      "content": "Features different Abnormality battle stages depending on the day of the week. Entering Luxcavation stages costs Enkephalin Modules."
+      "content": "Zależnie od dnia tygodnia, znajdziesz tutaj walki z różnymi Anomaliami. By rozpocząć Lukskawację, potrzebne są Moduły Enkefaliny."
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_02_title_01",
-      "content": "Useful Affinities"
+      "content": "Przydatne Typy Obrażeń"
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_02_desc_01",
-      "content": "Enemies in Thread Luxcavation have specific resistances. You can check the type and Affinity that will be the most effective for each stage before entering."
+      "content": "Przeciwnicy w Lukskawacji Nici posiadają wybrane Odporności. Możesz zobaczyć, co będzie najbardziej efektywne przeciwko przeciwnikom w danej strefie, zanim do niej wejdziesz."
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_03_title_01",
-      "content": "Level Select"
+      "content": "Wybór Poziomu"
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_03_desc_01",
-      "content": "Choose a stage to enter based on the strength of your Sinners."
+      "content": "Wybierz Strefę Lukskawacji zależnie od siły twoich Grzeszników. im trudniejsza strefa, tym więcej zyskasz z niej Nici"
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_04_title_01",
-      "content": "Thread Luxcavation Rewards"
+      "content": "Nagrody Lukskawacji Nici"
     },
     {
       "id": "tutorial_mainui_16_thread_dungeon_page_04_desc_01",
-      "content": "In Thread Luxcavation, you can acquire Thread, and you can earn bonus rewards for a set number of clears each day."
+      "content": "W Lukskawacji Nici, możesz zdobyć Nici, jak i kilka dodatkowych nagród dziennie."
     },
     {
       "id": "tutorial_mainui_17_railway_title",
@@ -998,15 +998,15 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_03_desc_01",
-      "content": "You will choose a number of Identities and E.G.O to begin the expedition with."
+      "content": "You will choose a number of Identities i E.G.O to begin the expedition with."
     },
     {
       "id": "tutorial_mainui_17_railway_page_04_desc_01",
-      "content": "Unlike other combat-based content, the level-ups and tier-ups done to your Identities and E.G.O while an expedition is in progress will not be immediately reflected on your team’s status."
+      "content": "Unlike other combat-based content, the level-ups i tier-ups done to your Identities i E.G.O while an expedition is in progress will not be immediately reflected on your team’s status."
     },
     {
       "id": "tutorial_mainui_17_railway_page_05_desc_01",
-      "content": "You may not change your team in the middle of an expedition. \nIf you wish to modify your setup or reflect upgrades on your Identities and E.G.O, you must start a new expedition."
+      "content": "You may not change your team in the middle of an expedition. \nIf you wish to modify your setup or reflect upgrades on your Identities i E.G.O, you must start a new expedition."
     },
     {
       "id": "tutorial_mainui_17_railway_page_06_title_01",
@@ -1026,11 +1026,11 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_title_01",
-      "content": "Current E.G.O Resources"
+      "content": "Current Zasoby E.G.O"
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_desc_01",
-      "content": "The E.G.O resources held after clearing a stage can be carried over to the next stage."
+      "content": "The Zasoby E.G.O held after clearing a stage can be carried over to the next stage."
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_title_02",
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_08_desc_02",
-      "content": "The HP, SP, and availability of your Identities are shown here."
+      "content": "The PŻ, SP, i availability of your Identities are shown here."
     },
     {
       "id": "tutorial_mainui_17_railway_page_09_title_01",
@@ -1054,7 +1054,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_10_desc_01",
-      "content": "The HP, SP, and availability of your Identities are shown here."
+      "content": "The PŻ, SP, i availability of your Identities are shown here."
     },
     {
       "id": "tutorial_mainui_17_railway_page_11_title_01",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_12_desc_02",
-      "content": "After clearing a stage in the Line for the first time during the event period, the rewards will be sent to the Lost & Found.\nTo gain access to the Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim the rewards you’ve earned at no additional cost."
+      "content": "After clearing a stage in the Line for the first time during the event period, the rewards will be sent to the Lost & Found.\nTo gain access to the Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it i claim the rewards you’ve earned at no additional cost."
     },
     {
       "id": "tutorial_mainui_17_railway_page_13_title_01",
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_14_desc_01",
-      "content": "The Health and Sanity of your Sinners will carry over between stages.\nHowever, after clearing a stage, those who did not participate in the battle will fully recover their HP and SP when entering the next stage.\nAny Sanities above 0 will be maintained in either case."
+      "content": "The Health i Sanity of your Sinners will carry over between stages.\nHowever, after clearing a stage, those who did not participate in the battle will fully recover their PŻ i SP when entering the next stage.\nAny Sanities above 0 will be maintained in either case."
     },
     {
       "id": "tutorial_mainui_17_railway_page_15_title_01",
@@ -1102,7 +1102,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_15_desc_01",
-      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Station will be reset."
+      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses i Zasoby E.G.O reverted to that point, i any progress you've made since that Station will be reset."
     },
     {
       "id": "tutorial_mainui_17_railway_page_16_title_01",
@@ -1130,11 +1130,11 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_02_desc_01",
-      "content": "The duration of the Hell’s Chicken event is shown here. During the event, you can earn [Bongy Plushies] by clearing Stages and Dungeons in the event and Main Story."
+      "content": "The duration of the Hell’s Chicken event is shown here. During the event, you can earn [Bongy Plushies] by clearing Stages i Dungeons in the event i Main Story."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_02_desc_02",
-      "content": "※ Mirror Dungeons, Luxcavation, and the Refraction Railway do not give [Bongy Plushies]."
+      "content": "※ Mirror Dungeons, Lukskawacja, i the Refraction Railway do not give [Bongy Plushies]."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_03_title_01",
@@ -1142,7 +1142,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_03_desc_01",
-      "content": "Hell’s Chicken consists of 8 stages and 2 dungeons.\nSaid stages and dungeons also offer batches of [Bongy Plushies] as a first-time EX Clear bonus."
+      "content": "Hell’s Chicken consists of 8 stages i 2 dungeons.\nSaid stages i dungeons also offer batches of [Bongy Plushies] as a first-time EX Clear bonus."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_03_desc_02",
@@ -1154,7 +1154,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_04_desc_01",
-      "content": "Having Identities and E.G.O from the Hell’s Chicken event on your team increases the amount of [Bongy Plushies] earned from stages and dungeons."
+      "content": "Having Identities i E.G.O from the Hell’s Chicken event on your team increases the amount of [Bongy Plushies] earned from stages i dungeons."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_05_title_01",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_06_desc_01",
-      "content": "You can acquire event reward Identities and E.G.O, as well as various currencies from the [Coupon Trade-in]."
+      "content": "You can acquire event reward Identities i E.G.O, as well as various currencies from the [Coupon Trade-in]."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_06_desc_02",
@@ -1186,15 +1186,15 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_08_title_01",
-      "content": "Selecting E.G.O Gifts"
+      "content": "Selecting Dary E.G.O"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_08_desc_01",
-      "content": "Several E.G.O Gifts from the Mirror Dungeon will appear in the Hell’s Chicken Dungeon.\nThese E.G.O Gifts will assist event Identities and E.G.O to shine in their respective specialties."
+      "content": "Several Dary E.G.O from the Mirror Dungeon will appear in the Hell’s Chicken Dungeon.\nThese Dary E.G.O will assist event Identities i E.G.O to shine in their respective specialties."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_09_title_01",
-      "content": "Event Team Setup"
+      "content": "Event Zespół Setup"
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_09_desc_01",
@@ -1206,7 +1206,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_09_desc_02",
-      "content": "For player convenience, a preset function is being added for the Hell’s Chicken dungeons.\nUsing the preset button, you can quickly load the team setup you last used and make a swift entry."
+      "content": "For player convenience, a preset function is being added for the Hell’s Chicken dungeons.\nUsing the preset button, you can quickly load the team setup you last used i make a swift entry."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_10_title_01",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_10_desc_01",
-      "content": "The layouts and paths in the Hell’s Chicken dungeons are randomly generated each time you enter.\nThese dungeons consist of a single floor, and the final node always features the Hell’s Chicken boss."
+      "content": "The layouts i paths in the Hell’s Chicken dungeons are randomly generated each time you enter.\nThese dungeons consist of a single floor, i the final node always features the Hell’s Chicken boss."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_11_title_01",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_11_desc_01",
-      "content": "There are special encounters and E.G.O Gifts unique to the Hell’s Chicken dungeons.\nThese specialties are marked with a unique icon below the node in the dungeon for easier identification."
+      "content": "There are special encounters i Dary E.G.O unique to the Hell’s Chicken dungeons.\nThese specialties are marked with a unique icon below the node in the dungeon for easier identification."
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_12_title_01",
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "tutorial_mainui_18_hells_chicken_12_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience the Hell’s Chicken combat encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Hell’s Chicken combat encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_manual_1_season_information_title",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_04_desc_01",
-      "content": "Event Identities and E.G.O have [EVENT] marked next to their season tag."
+      "content": "Event Identities i E.G.O have [EVENT] marked next to their season tag."
     },
     {
       "id": "tutorial_manual_1_season_information_05_title_01",
@@ -1274,7 +1274,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_05_desc_01",
-      "content": "Egoshards can be used for the notated period, matching the Season’s duration.\n\nWhen a new Season begins, half of the previous Season’s Egoshards will be carried over, converted and rounded up for the new Season.\n\nThe carryover rates for unconverted Egoshards from multiple seasons past will be halved for each following Season.\n\nThe remaining Egoshards are converted into Thread."
+      "content": "Egoshards can be used for the notated period, matching the Season’s duration.\n\nWhen a new Season begins, half of the previous Season’s Egoshards will be carried over, converted i rounded up for the new Season.\n\nThe carryover rates for unconverted Egoshards from multiple seasons past will be halved for each following Season.\n\nThe remaining Egoshards are converted into Thread."
     },
     {
       "id": "tutorial_manual_1_season_information_06_title_01",
@@ -1282,7 +1282,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_06_desc_01",
-      "content": "Similarly to Egoshards, Egoshard Crates can be used for the notated period, matching the Season’s duration.\n\nWhen a new Season begins, half of the Egoshard Crates (both random & nominable) will be carried over, converted and rounded up for the new Season.\n\nThe carryover rates for unconverted Egoshard Crates from multiple Seasons past will be halved for each following Season.\n\nThe remaining Crates are converted into Thread Crates."
+      "content": "Similarly to Egoshards, Egoshard Crates can be used for the notated period, matching the Season’s duration.\n\nWhen a new Season begins, half of the Egoshard Crates (both random & nominable) will be carried over, converted i rounded up for the new Season.\n\nThe carryover rates for unconverted Egoshard Crates from multiple Seasons past will be halved for each following Season.\n\nThe remaining Crates are converted into Thread Crates."
     },
     {
       "id": "tutorial_manual_1_season_information_07_title_01",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_07_desc_01",
-      "content": "A new Season’s Identities and E.G.O will be added to the list of Extractable items.\nIdentities from previous Seasons remain in the pool, so you can still acquire them from Extraction.\n※ Event Identities & E.G.O from previous Seasons may appear from Sinner Target Extractions. (except reward Identities & E.G.O from the immediately preceding Season)"
+      "content": "A new Season’s Identities i E.G.O will be added to the list of Extractable items.\nIdentities from previous Seasons remain in the pool, so you can still acquire them from Extraction.\n※ Event Identities & E.G.O from previous Seasons may appear from Sinner Target Extractions. (except reward Identities & E.G.O from the immediately preceding Season)"
     },
     {
       "id": "tutorial_manual_1_season_information_08_title_01",
@@ -1298,19 +1298,19 @@
     },
     {
       "id": "tutorial_manual_1_season_information_08_desc_01",
-      "content": "Identities and E.G.O from the new Season will become available at the Dispenser.\nIn addition, you will be able to exchange for Identities and E.G.O from the Battle Passes of past Seasons.\nPlease note that Extraction IDs belonging to the Season immediately before will be inaccessible until 2 Seasons have passed."
+      "content": "Identities i E.G.O from the new Season will become available at the Dispenser.\nIn addition, you will be able to exchange for Identities i E.G.O from the Battle Passes of past Seasons.\nPlease note that Extraction IDs belonging to the Season immediately before will be inaccessible until 2 Seasons have passed."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon",
-      "content": "Mirror Dungeons"
+      "content": "Lustrzane Lochy"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_01",
-      "content": "Mirror Dungeons List"
+      "content": "Lista Lustrzanych Lochów"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_01",
-      "content": "You can choose a Mirror Dungeon from the list to enter.\nOnly one expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first.\nEach Mirror Dungeon (excluding Mirror of the Beginning) has two difficulty modes: Normal and Hard."
+      "content": "Możesz wybrać jeden z Lustrzanych Lochów z listy.\nOnly one expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first.\nEach Mirror Dungeon (excluding Mirror of the Beginning) has two difficulty modes: Normal i Hard."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_02",
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_04",
-      "content": "You can check the list of E.G.O Gifts that appear in Mirror Dungeons.\nThe ones you haven't obtained yet in Mirror Dungeon expeditions will be marked with \"No Data\"."
+      "content": "You can check the list of Dary E.G.O that appear in Mirror Dungeons.\nThe ones you haven't obtained yet in Mirror Dungeon expeditions will be marked with \"No Data\"."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_05",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_05",
-      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of E.G.O Gifts to help the exploration. Choose one to take with you."
+      "content": "When you enter a Mirror Dungeon, you’ll be offered a random selection of Dary E.G.O to help the exploration. Choose one to take with you."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_06",
@@ -1354,11 +1354,11 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_07",
-      "content": "E.G.O Gifts Owned"
+      "content": "Dary E.G.O Owned"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_07",
-      "content": "You can view the E.G.O Gifts you currently have."
+      "content": "You can view the Dary E.G.O you currently have."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_08",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_08",
-      "content": "By using presets, you can load up Identity and E.G.O Teams you have set up in the 'Sinners' window."
+      "content": "By using presets, you can load up Identity i E.G.O Teams you have set up in the 'Sinners' window."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_09",
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_09",
-      "content": "You can view the Cost in your possession here.\nCost is used when purchasing E.G.O Gifts from the shop, or when acquiring new Identities or E.G.O to have on your team at the shop or the rest stop.\nOn Normal difficulty, you are not given any starting Cost, but the initial team setup doesn't require any Cost.\nOn Hard difficulty, you're given a set amount of Cost to build your initial team with."
+      "content": "You can view the Cost in your possession here.\nCost is used when purchasing Dary E.G.O from the shop, or when acquiring new Identities or E.G.O to have on your team at the shop or the rest stop.\nOn Normal difficulty, you are not given any starting Cost, but the initial team setup doesn't require any Cost.\nOn Hard difficulty, you're given a set amount of Cost to build your initial team with."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_10",
@@ -1406,15 +1406,15 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_13",
-      "content": "The layouts and paths in Mirror Dungeons are randomly generated each time you enter.\nProceed by moving to one of the adjacent spaces in the next sector, and deal with the encounters and events waiting for you."
+      "content": "The layouts i paths in Mirror Dungeons are randomly generated each time you enter.\nProceed by moving to one of the adjacent spaces in the next sector, i deal with the encounters i events waiting for you."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_14",
-      "content": "E.G.O Gifts"
+      "content": "Dary E.G.O"
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_14",
-      "content": "As you explore the dungeon, you may acquire E.G.O Gifts.\nThese items offer powerful effects that last until the end of the exploration."
+      "content": "As you explore the dungeon, you may acquire Dary E.G.O.\nThese items offer powerful effects that last until the end of the exploration."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_15",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_15",
-      "content": "The HP, SP, and lost lives of your Sinners will carry over between encounters."
+      "content": "The PŻ, SP, i lost lives of your Sinners will carry over between encounters."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_16",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_16",
-      "content": "Below the combat encounter nodes in Mirror Dungeons, types and affinities effective against the enemies will be shown."
+      "content": "Below the combat encounter nodes in Mirror Dungeons, types i affinities effective against the enemies will be shown."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_17",
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_18",
-      "content": "At Shops, you can purchase E.G.O Gifts, heal allies, recruit Identities or E.G.O, or power up selected allies using the Cost you earned from combat encounters."
+      "content": "At Shops, you can purchase Dary E.G.O, heal allies, recruit Identities or E.G.O, or power up selected allies using the Cost you earned from combat encounters."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_19",
@@ -1454,7 +1454,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_19",
-      "content": "After clearing an expedition, you can spend Enkephalin Modules to claim rewards.\nIf you use the Weekly Bonus Eligibility count, you can earn large amounts of Battle Pass XP and some Lunacy.\nThe amount of rewards depends on the number of nodes cleared."
+      "content": "After clearing an expedition, you can spend Enkephalin Modules to claim rewards.\nIf you use the Weekly Bonus Eligibility count, you can earn large amounts of Battle Pass XP i some Lunacy.\nThe amount of rewards depends on the number of nodes cleared."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_20",
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_20",
-      "content": "Once the Hard difficulty of a Mirror Dungeon is unlocked, the Hard difficulty rewards count will be displayed above.\nOn Hard difficulty, you can earn more Battle Pass XP, but you may only claim the rewards 3 times per week.\nThe Hard difficulty rewards bonus and the weekly bonus apply independently; you can maximize your rewards by applying the weekly bonus to the Hard difficulty rewards."
+      "content": "Once the Hard difficulty of a Mirror Dungeon is unlocked, the Hard difficulty rewards count will be displayed above.\nOn Hard difficulty, you can earn more Battle Pass XP, but you may only claim the rewards 3 times per week.\nThe Hard difficulty rewards bonus i the weekly bonus apply independently; you can Maksimize your rewards by applying the weekly bonus to the Hard difficulty rewards."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_21",
@@ -1470,7 +1470,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_21",
-      "content": "Mirror of Mirrors and the Mirror Dungeons after it have starter buffs you can activate."
+      "content": "Mirror of Mirrors i the Mirror Dungeons after it have starter buffs you can activate."
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_title_22",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "tutorial_mainui_19_mirrordungeon_desc_22",
-      "content": "Starter buffs can be activated using 'Starlight', providing various effects to aid your Mirror Dungeon expedition.\nStarlight can be earned by playing Mirror Dungeons. Reaching further floors rewards more.\nStarter buffs apply to both the Normal and Hard difficulties, but it does not affect other Mirror Dungeons.\nYou cannot use the Starlight from a Mirror Dungeon to activate starter buffs for other Mirror Dungeons."
+      "content": "Starter buffs can be activated using 'Starlight', providing various effects to aid your Mirror Dungeon expedition.\nStarlight can be earned by playing Mirror Dungeons. Reaching further floors rewards more.\nStarter buffs apply to both the Normal i Hard difficulties, but it does not affect other Mirror Dungeons.\nYou cannot use the Starlight from a Mirror Dungeon to activate starter buffs for other Mirror Dungeons."
     },
     {
       "id": "tutorial_mainui_20_umida_title",
@@ -1498,11 +1498,11 @@
     },
     {
       "id": "tutorial_mainui_20_umida_02_desc_01",
-      "content": "The duration of the S.E.A event is shown here. During the event, you can earn [Bus-modifying Scrap] by clearing Stages and Dungeons in the event and Main Story."
+      "content": "The duration of the S.E.A event is shown here. During the event, you can earn [Bus-modifying Scrap] by clearing Stages i Dungeons in the event i Main Story."
     },
     {
       "id": "tutorial_mainui_20_umida_02_desc_02",
-      "content": "※ Mirror Dungeons and Luxcavation do not give [Bus-modifying Scrap]."
+      "content": "※ Mirror Dungeons i Lukskawacja do not give [Bus-modifying Scrap]."
     },
     {
       "id": "tutorial_mainui_20_umida_03_title_01",
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "tutorial_mainui_20_umida_04_desc_01",
-      "content": "Having Identities and E.G.O from S.E.A event on your team increases the amount of [Bus-modifying Scrap] earned from stages and dungeons."
+      "content": "Having Identities i E.G.O from S.E.A event on your team increases the amount of [Bus-modifying Scrap] earned from stages i dungeons."
     },
     {
       "id": "tutorial_mainui_20_umida_05_title_01",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": "tutorial_mainui_20_umida_06_desc_01",
-      "content": "You can acquire event reward Identities and E.G.O, as well as various currencies from the [Scrap Box]."
+      "content": "You can acquire event reward Identities i E.G.O, as well as various currencies from the [Scrap Box]."
     },
     {
       "id": "tutorial_mainui_20_umida_06_desc_02",
@@ -1570,7 +1570,7 @@
     },
     {
       "id": "tutorial_mainui_20_umida_09_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience combat encounters in S.E.A and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience combat encounters in S.E.A i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_01_title_01",
@@ -1582,15 +1582,15 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_02_title_01",
-      "content": "Team"
+      "content": "Zespół"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_02_desc_01",
-      "content": "You will choose a number of Identities and E.G.O to begin the expedition with."
+      "content": "You will choose a number of Identities i E.G.O to begin the expedition with."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_03_desc_01",
-      "content": "You cannot change your loadout while the expedition is in progress. Unlike other combat-based content, the level-ups and tier-ups done to your Identities and E.G.O while an expedition is in progress will not be immediately reflected on your team’s status."
+      "content": "You cannot change your loadout while the expedition is in progress. Unlike other combat-based content, the level-ups i tier-ups done to your Identities i E.G.O while an expedition is in progress will not be immediately reflected on your team’s status."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_04_title_01",
@@ -1610,7 +1610,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_06_title_01",
-      "content": "Team Setup"
+      "content": "Zespół Setup"
     },
     {
       "id": "tutorial_mainui_21_railway2_page_06_desc_01",
@@ -1626,19 +1626,19 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_07_desc_02",
-      "content": "Upon completion, your Identities' HP, SP, Skills in the Dashboard, used Skills, and remaining Skills are saved."
+      "content": "Upon completion, your Identities' PŻ, SP, Skills in the Dashboard, used Skills, i remaining Skills are saved."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_08_desc_01",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Station."
+      "content": "The Zasoby E.G.O held after clearing a Station can be carried over to the next Station."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_08_desc_02",
-      "content": "Your Cycle Count and Total Turns up to this Station are displayed here."
+      "content": "Your Cycle Count i Total Turns up to this Station are displayed here."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_08_desc_03",
-      "content": "The HP, SP, and availability of your Identities are shown here."
+      "content": "The PŻ, SP, i availability of your Identities are shown here."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_09_desc_01",
@@ -1650,11 +1650,11 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_10_desc_01",
-      "content": "Upon forfeiting a Stage, you will be returned to the state immediately before entering this stage.\nIdentities' HP, SP, Speed, Skills in the Dashboard, used Skills, remaining Skills, and enemy Speed at the state immediately before entering the Station will not be changed."
+      "content": "Upon forfeiting a Stage, you will be returned to the state immediately before entering this stage.\nIdentities' PŻ, SP, Speed, Skills in the Dashboard, used Skills, remaining Skills, i enemy Speed at the state immediately before entering the Station will not be changed."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_10_desc_02",
-      "content": "Identities' HP, SP, Speed, Skills in the Dashboard, used Skills, remaining Skills, and enemy Speed at the state immediately before entering the Station will not be changed."
+      "content": "Identities' PŻ, SP, Speed, Skills in the Dashboard, used Skills, remaining Skills, i enemy Speed at the state immediately before entering the Station will not be changed."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_11_desc_01",
@@ -1662,7 +1662,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_11_desc_02",
-      "content": "Should you choose to continue, enemies' current HP will be saved. Their remaining HP percentages will be shown above the Station."
+      "content": "Should you choose to continue, enemies' current PŻ will be saved. Their remaining PŻ percentages will be shown above the Station."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_12_title_01",
@@ -1670,7 +1670,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_12_desc_01",
-      "content": "After clearing all open Stations on the Line, you can return to Station #1(First Stop) and continue the Cycle."
+      "content": "After clearing all open Stations on the Line, you can return to Station #1(First Stop) i continue the Cycle."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_12_desc_02",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_13_desc_01",
-      "content": "At the end of every Cycle, you can choose 1 Ally Buff and 1 Enemy Buff."
+      "content": "At the end of every Cycle, you can choose 1 Ally Buff i 1 Enemy Buff."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_13_desc_02",
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_15_desc_01",
-      "content": "Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset and you can select any Buff you want again."
+      "content": "Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset i you can select any Buff you want again."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_15_desc_03",
@@ -1722,7 +1722,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_18_desc_02",
-      "content": "The ultimate goal of Refraction Railway Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
+      "content": "The ultimate goal of Refraction Railway Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, i selected Buffs will be recorded."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_19_title_01",
@@ -1734,11 +1734,11 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_19_desc_02",
-      "content": "More special banners have harder acquisition conditions.\nUpon acquisition of the banner, your best Cycle Count and Total Turn records will be displayed on them."
+      "content": "More special banners have harder acquisition conditions.\nUpon acquisition of the banner, your best Cycle Count i Total Turn records will be displayed on them."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_19_desc_03",
-      "content": "Upon acquisition of the banner, your best Cycle Count and Total Turn records will be displayed on them."
+      "content": "Upon acquisition of the banner, your best Cycle Count i Total Turn records will be displayed on them."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_title_01",
@@ -1750,7 +1750,7 @@
     },
     {
       "id": "tutorial_mainui_21_railway2_page_20_desc_02",
-      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it i claim rewards you’ve earned at no additional cost."
     },
     {
       "id": "tutorial_mainui_21_railway2_page_21_title_01",
@@ -1782,7 +1782,7 @@
     },
     {
       "id": "tutorial_mainui_22_railway2_page_2_desc_02",
-      "content": "In this process, you will gain 1 Cycle Count, and be asked to select 1 Ally Buff and 1 Enemy Buff that will be applied to the upcoming encounters."
+      "content": "In this process, you will gain 1 Cycle Count, i be asked to select 1 Ally Buff i 1 Enemy Buff that will be applied to the upcoming encounters."
     },
     {
       "id": "tutorial_mainui_22_railway2_page_3_title_01",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "tutorial_mainui_22_railway2_page_3_desc_01",
-      "content": "At the end of every Cycle, you can choose 1 Ally Buff and 1 Enemy Buff."
+      "content": "At the end of every Cycle, you can choose 1 Ally Buff i 1 Enemy Buff."
     },
     {
       "id": "tutorial_mainui_22_railway2_page_3_desc_02",
@@ -1802,7 +1802,7 @@
     },
     {
       "id": "tutorial_mainui_22_railway2_page_5_desc_01",
-      "content": "Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset and you can select any Buff you want again."
+      "content": "Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset i you can select any Buff you want again."
     },
     {
       "id": "tutorial_mainui_22_railway2_page_5_desc_03",
@@ -1826,7 +1826,7 @@
     },
     {
       "id": "tutorial_mainui_23_railway2_page_1_desc_02",
-      "content": "The ultimate goal of Refraction Railway Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, and selected Buffs will be recorded."
+      "content": "The ultimate goal of Refraction Railway Line 2 is to complete the Terminus. Upon completion, your Cycle Count, Total Turns, participating Identities & E.G.O, i selected Buffs will be recorded."
     },
     {
       "id": "tutorial_mainui_railway2_mainTitle",
@@ -1850,7 +1850,7 @@
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_01_desc_02",
-      "content": "Walpurgis Night Target Extractions will have higher Extraction rates for Identities and E.G.O from the currently active Walpurgis Night event."
+      "content": "Walpurgis Night Target Extractions will have higher Extraction rates for Identities i E.G.O from the currently active Walpurgis Night event."
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_02_desc_01",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": "tutorial_walpurgisnacht_extraction_page_04_desc_01",
-      "content": "Once the event period is over, Walpurgis Night Identities and E.G.O will no longer be Extractable."
+      "content": "Once the event period is over, Walpurgis Night Identities i E.G.O will no longer be Extractable."
     },
     {
       "id": "tutorial_walpurgisnacht_vendingmachine",
@@ -1870,11 +1870,11 @@
     },
     {
       "id": "tutorial_walpurgisnacht_vendingmachine_page_01_desc_01",
-      "content": "During the event period, Identities and E.G.O from all previous Walpurgis Night events are available from the Dispenser."
+      "content": "During the event period, Identities i E.G.O from all previous Walpurgis Night events are available from the Dispenser."
     },
     {
       "id": "tutorial_walpurgisnacht_vendingmachine_page_02_desc_01",
-      "content": "Identities and E.G.O from the currently active Walpurgis Night event are not available from the Dispenser."
+      "content": "Identities i E.G.O from the currently active Walpurgis Night event are not available from the Dispenser."
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_title_01",
@@ -1886,7 +1886,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_01_desc_02",
-      "content": "Choose between 'Normal' and 'Hard' difficulties to enter."
+      "content": "Choose between 'Normal' i 'Hard' difficulties to enter."
     },
     {
       "id": "tutorial_mirrordungeon03_page_02_title_01",
@@ -1898,11 +1898,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_02_desc_02",
-      "content": "'Normal' difficulty offers 3 Weekly Bonuses, and 'Hard' difficulty offers 1 Weekly Bonus."
+      "content": "'Normal' difficulty offers 3 Weekly Bonuses, i 'Hard' difficulty offers 1 Weekly Bonus."
     },
     {
       "id": "tutorial_mirrordungeon03_page_02_desc_03",
-      "content": "Clearing the 'Hard' Difficulty Mirror Dungeon will allow you to spend the rest of the Normal Difficulty Weekly Bonuses as well, maximizing the amount of rewards you gain from the Mirror Dungeon."
+      "content": "Clearing the 'Hard' Difficulty Mirror Dungeon will allow you to spend the rest of the Normal Difficulty Weekly Bonuses as well, Maksimizing the amount of rewards you gain from the Mirror Dungeon."
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_title_01",
@@ -1918,7 +1918,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_desc_02",
-      "content": "Collect Starlight from completing Mirror Dungeons and use them to obtain several Starter Buffs that will help you in the Mirror Dungeon."
+      "content": "Collect Starlight from completing Mirror Dungeons i use them to obtain several Starter Buffs that will help you in the Mirror Dungeon."
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_title_03",
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_03_desc_03",
-      "content": "You can view the list of E.G.O Gifts that appear in the Mirror Dungeon. Obtaining an E.G.O Gift in the Mirror Dungeon will add an entry to your E.G.O Gift Compendium."
+      "content": "You can view the list of Dary E.G.O that appear in the Mirror Dungeon. Obtaining an E.G.O Gift in the Mirror Dungeon will add an entry to your E.G.O Gift Compendium."
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_title_01",
@@ -1934,7 +1934,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_01",
-      "content": "In Mirror of the Lake, you can increase your chances of obtaining higher Tier E.G.O Gifts during your Mirror Dungeon run by activating more Starter Buffs."
+      "content": "In Mirror of the Lake, you can increase your chances of obtaining higher Tier Dary E.G.O during your Mirror Dungeon run by activating more Starter Buffs."
     },
     {
       "id": "tutorial_mirrordungeon03_page_04_desc_02",
@@ -1962,11 +1962,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_02",
-      "content": "You can choose as many E.G.O Gifts as it is available to you from the same category."
+      "content": "You can choose as many Dary E.G.O as it is available to you from the same category."
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_03",
-      "content": "E.G.O Gifts provide special effects in the Mirror Dungeon to assist you in your journey."
+      "content": "Dary E.G.O provide special effects in the Mirror Dungeon to assist you in your journey."
     },
     {
       "id": "tutorial_mirrordungeon03_page_05_desc_04",
@@ -1974,7 +1974,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_title_01",
-      "content": "Forming the Team"
+      "content": "Forming the Zespół"
     },
     {
       "id": "tutorial_mirrordungeon03_page_06_desc_01",
@@ -2002,11 +2002,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_07_desc_02",
-      "content": "However, Identities that have been swapped in or out during the Mirror Dungeon run will not spend their Rest Bonuses, and will not provide additional Starlight."
+      "content": "However, Identities that have been swapped in or out during the Mirror Dungeon run will not spend their Rest Bonuses, i will not provide additional Starlight."
     },
     {
       "id": "tutorial_mirrordungeon03_page_07_desc_03",
-      "content": "Identities that did not spend their Rest Bonuses, and Identities that were not swapped in or out will gain 1 Bar of Rest Bonus."
+      "content": "Identities that did not spend their Rest Bonuses, i Identities that were not swapped in or out will gain 1 Bar of Rest Bonus."
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_title_01",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_desc_01",
-      "content": "After finishing up the initial Team setup, press 'Confirm' to enter the Mirror Dungeon."
+      "content": "After finishing up the initial Zespół setup, press 'Confirm' to enter the Mirror Dungeon."
     },
     {
       "id": "tutorial_mirrordungeon03_page_08_desc_02",
@@ -2026,7 +2026,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_desc_01",
-      "content": "The Mirror Dungeon rooms and paths are randomly generated."
+      "content": "The Mirror Dungeon rooms i paths are randomly generated."
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_desc_02",
@@ -2038,15 +2038,15 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_09_desc_03",
-      "content": "You will earn 'Cost' as you proceed through the Mirror Dungeon. 'Cost' you earned can be spent at Shops and Rest Stops."
+      "content": "You will earn 'Cost' as you proceed through the Mirror Dungeon. 'Cost' you earned can be spent at Shops i Rest Stops."
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_01",
-      "content": "E.G.O Gifts"
+      "content": "Dary E.G.O"
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_desc_01",
-      "content": "Acquired E.G.O Gifts are displayed here. E.G.O Gifts are items that offer powerful effects that last until the end of the Dungeon."
+      "content": "Acquired Dary E.G.O are displayed here. Dary E.G.O are items that offer powerful effects that last until the end of the Dungeon."
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_02",
@@ -2054,7 +2054,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page10_desc_02",
-      "content": "Below the combat Encounter nodes in Mirror Dungeons are types and affinities effective against the enemies in each node."
+      "content": "Below the combat Encounter nodes in Mirror Dungeons are types i affinities effective against the enemies in each node."
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_title_03",
@@ -2062,7 +2062,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_10_desc_03",
-      "content": "The HP, SP, and lost lives of your Sinners will carry over between encounters."
+      "content": "The PŻ, SP, i lost lives of your Sinners will carry over between encounters."
     },
     {
       "id": "tutorial_mirrordungeon03_page_11_title_01",
@@ -2070,11 +2070,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_11_desc_01",
-      "content": "At Shops, you can spend your 'Cost' to purchase E.G.O Gifts, heal allies, deploy/swap out additional Identities or power up selected Identities."
+      "content": "At Shops, you can spend your 'Cost' to purchase Dary E.G.O, heal allies, deploy/swap out additional Identities or power up selected Identities."
     },
     {
       "id": "tutorial_mirrordungeon03_page_11_desc_02",
-      "content": "At Shops, you can sell E.G.O Gifts you don't use to obtain 'Cost'."
+      "content": "At Shops, you can sell Dary E.G.O you don't use to obtain 'Cost'."
     },
     {
       "id": "tutorial_mirrordungeon03_page_12_title_01",
@@ -2082,11 +2082,11 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_12_desc_01",
-      "content": "At Rest Stops, you can spend your 'Cost' to heal allies, deploy/swap out additional Identities or enhance E.G.O Gifts."
+      "content": "At Rest Stops, you can spend your 'Cost' to heal allies, deploy/swap out additional Identities or enhance Dary E.G.O."
     },
     {
       "id": "tutorial_mirrordungeon03_page_12_desc_02",
-      "content": "You can Fuse E.G.O Gifts to obtain different E.G.O Gifts."
+      "content": "You can Fuse Dary E.G.O to obtain different Dary E.G.O."
     },
     {
       "id": "tutorial_mirrordungeon03_page_13_title_01",
@@ -2094,7 +2094,7 @@
     },
     {
       "id": "tutorial_mirrordungeon03_page_13_desc_01",
-      "content": "Upon clearing a floor, you will obtain random enemy buffs tied to each E.G.O Gifts."
+      "content": "Upon clearing a floor, you will obtain random enemy buffs tied to each Dary E.G.O."
     },
     {
       "id": "tutorial_mirrordungeon03_page_13_desc_02",
@@ -2130,7 +2130,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_02_desc_01",
-      "content": "The duration of The Miracle in District 20 event is shown here. During the event, you can earn [Trinkets Sack] by clearing Stages and Dungeons in the event and Main Story.\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations."
+      "content": "The duration of The Miracle in District 20 event is shown here. During the event, you can earn [Trinkets Sack] by clearing Stages i Dungeons in the event i Main Story.\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations."
     },
     {
       "id": "tutorial_mainui_24_miracle_03_title_01",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_04_desc_01",
-      "content": "Having E.G.O from the Miracle in District 20 event on your team increases the amount of [Trinkets Sack] earned from stages and dungeons."
+      "content": "Having E.G.O from the Miracle in District 20 event on your team increases the amount of [Trinkets Sack] earned from stages i dungeons."
     },
     {
       "id": "tutorial_mainui_24_miracle_05_title_01",
@@ -2162,7 +2162,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_06_desc_01",
-      "content": "You can acquire event reward Identities and E.G.O, as well as various currencies from the [Gift Exchange]."
+      "content": "You can acquire event reward Identities i E.G.O, as well as various currencies from the [Gift Exchange]."
     },
     {
       "id": "tutorial_mainui_24_miracle_06_desc_02",
@@ -2186,7 +2186,7 @@
     },
     {
       "id": "tutorial_mainui_24_miracle_09_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_mainui_25_walpu2_01_title",
@@ -2206,7 +2206,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_02_desc_01",
-      "content": "The duration of The 2nd Walpurgis Night - The Dawn of Green event is shown here. During the event, complete Missions for Normal and Hard difficulty Dawn of Green Ordeal Encounters and claim their rewards."
+      "content": "The duration of The 2nd Walpurgis Night - The Dawn of Green event is shown here. During the event, complete Missions for Normal i Hard difficulty Dawn of Green Ordeal Encounters i claim their rewards."
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_title_01",
@@ -2214,7 +2214,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_desc_01",
-      "content": "Select the door to begin the Normal difficulty Dawn of Green Ordeal. Dawn of Green Ordeal consumes an Enkephalin Module upon completion. In Normal difficulty, any deployed Identities under Level 40 will be raised to Level 40. However, your Identities' current Uptie Tiers and E.G.O Threadspinning Tiers will be reflected."
+      "content": "Select the door to begin the Normal difficulty Dawn of Green Ordeal. Dawn of Green Ordeal consumes an Enkephalin Module upon completion. In Normal difficulty, any deployed Identities under Level 40 will be raised to Level 40. However, your Identities' current Uptie Tiers i E.G.O Threadspinning Tiers will be reflected."
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_title_02",
@@ -2222,7 +2222,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_03_desc_02",
-      "content": "Clearing the Normal difficulty Dawn of Green Ordeal unlocks the Hard difficulty. In Hard difficulty, your Identities' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected."
+      "content": "Clearing the Normal difficulty Dawn of Green Ordeal unlocks the Hard difficulty. In Hard difficulty, your Identities' current Levels, Uptie Tiers, i E.G.O Threadspinning Tiers will be reflected."
     },
     {
       "id": "tutorial_mainui_25_walpu2_04_title_01",
@@ -2234,11 +2234,11 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_04_title_02",
-      "content": "Control Team Captain Effects"
+      "content": "Control Zespół Captain Effects"
     },
     {
       "id": "tutorial_mainui_25_walpu2_04_desc_02",
-      "content": "The #1 Sinner to be deployed in the Teams menu will be imbued with the 'Control Team Captain' effect. The Sinner with the 'Control Team Captain' effect will gain more Slots, their Skill composition will change, and will gain more beneficial effects."
+      "content": "The #1 Sinner to be deployed in the Teams menu will be imbued with the 'Control Zespół Captain' effect. The Sinner with the 'Control Zespół Captain' effect will gain more Slots, their Skill composition will change, i will gain more beneficial effects."
     },
     {
       "id": "tutorial_mainui_25_walpu2_05_title_01",
@@ -2246,7 +2246,7 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_05_desc_01",
-      "content": "You can enter the [Missions] page, where you can view the list of Missions to be completed during the Encounter and their rewards."
+      "content": "You can enter the [Missions] page, where you can view the list of Missions to be completed during the Encounter i their rewards."
     },
     {
       "id": "tutorial_mainui_25_walpu2_06_desc_01",
@@ -2254,15 +2254,15 @@
     },
     {
       "id": "tutorial_mainui_25_walpu2_06_desc_02",
-      "content": "Normal difficulty and Hard difficulty each has different sets of Missions to complete."
+      "content": "Normal difficulty i Hard difficulty each has different sets of Missions to complete."
     },
     {
       "id": "tutorial_mainui_25_walpu2_06_desc_03",
-      "content": "Complete these Missions and claim various rewards from the [Missions] page."
+      "content": "Complete these Missions i claim various rewards from the [Missions] page."
     },
     {
       "id": "tutorial_mainui_25_walpu2_07_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience the 'The 2nd Walpurgis Night - The Dawn of Green' combat Encounters and view its story anytime at the Driverside and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the 'The 2nd Walpurgis Night - The Dawn of Green' combat Encounters i view its story anytime at the Driverside i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_mainui_railway3_title_01",
@@ -2278,11 +2278,11 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_02_title_01",
-      "content": "Creating your Team"
+      "content": "Tworzenie Zespołu"
     },
     {
       "id": "tutorial_mainui_railway3_page_02_desc_01",
-      "content": "You will choose a number of Identities and E.G.O to begin the expedition with."
+      "content": "You will choose a number of Identities i E.G.O to begin the expedition with."
     },
     {
       "id": "tutorial_mainui_railway3_page_03_title_01",
@@ -2294,7 +2294,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_03_desc_02",
-      "content": "Station #4, #8, and #12 are not combat Encounters. There, you can heal, revive, or change your Team Loadout. "
+      "content": "Station #4, #8, i #12 are not combat Encounters. There, you can heal, revive, or change your Zespół Loadout. "
     },
     {
       "id": "tutorial_mainui_railway3_page_04_desc_01",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_05_title_01",
-      "content": "Team Setup"
+      "content": "Zespół Setup"
     },
     {
       "id": "tutorial_mainui_railway3_page_05_desc_01",
@@ -2326,7 +2326,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_07_desc_01",
-      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon Encounters, their Observation Levels will be reflected in the Refraction Railway and you can view their information as you would in those Dungeons."
+      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon Encounters, their Observation Levels will be reflected in the Refraction Railway i you can view their information as you would in those Dungeons."
     },
     {
       "id": "tutorial_mainui_railway3_page_07_desc_02",
@@ -2338,15 +2338,15 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_08_desc_01",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Station."
+      "content": "The Zasoby E.G.O held after clearing a Station can be carried over to the next Station."
     },
     {
       "id": "tutorial_mainui_railway3_page_08_desc_02",
-      "content": "Total Turns taken to clear the Station and Total Turns taken since the First Stop will be shown above each Station."
+      "content": "Total Turns taken to clear the Station i Total Turns taken since the First Stop will be shown above each Station."
     },
     {
       "id": "tutorial_mainui_railway3_page_08_desc_03",
-      "content": "The HP, SP, and availability of your Identities are shown here."
+      "content": "The PŻ, SP, i availability of your Identities are shown here."
     },
     {
       "id": "tutorial_mainui_railway3_page_09_desc_01",
@@ -2354,7 +2354,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_09_desc_02",
-      "content": "Should you choose to continue, enemies' current HP will be saved. Their remaining HP percentages will be shown above the Station."
+      "content": "Should you choose to continue, enemies' current PŻ will be saved. Their remaining PŻ percentages will be shown above the Station."
     },
     {
       "id": "tutorial_mainui_railway3_page_10_desc_01",
@@ -2366,7 +2366,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_11_desc_01",
-      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Station will be reset."
+      "content": "During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses i Zasoby E.G.O reverted to that point, i any progress you've made since that Station will be reset."
     },
     {
       "id": "tutorial_mainui_railway3_page_12_title_01",
@@ -2374,7 +2374,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_12_desc_01",
-      "content": "Station #4, #8, and #12 are Rest Stations. Reaching those Stations will fully heal all allies and revive dead Identities."
+      "content": "Station #4, #8, i #12 are Rest Stations. Reaching those Stations will fully heal all allies i revive dead Identities."
     },
     {
       "id": "tutorial_mainui_railway3_page_12_desc_02",
@@ -2382,7 +2382,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_12_desc_03",
-      "content": "You can also change your Team Loadout in Rest Stations."
+      "content": "You can also change your Zespół Loadout in Rest Stations."
     },
     {
       "id": "tutorial_mainui_railway3_page_13_desc_01",
@@ -2418,7 +2418,7 @@
     },
     {
       "id": "tutorial_mainui_railway3_page_15_desc_02",
-      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it i claim rewards you’ve earned at no additional cost."
     },
     {
       "id": "tutorial_mainui_railway3_page_16_title_01",
@@ -2450,7 +2450,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_02_desc_01",
-      "content": "The duration of Yield My Flesh to Claim Their Bones event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages and Event Dungeons. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages or Dungeons for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of Yield My Flesh to Claim Their Bones event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages i Event Dungeons. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages or Dungeons for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "tutorial_mainui_26_ycgd_03_title_01",
@@ -2470,7 +2470,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_04_desc_01",
-      "content": "Having Event Identities from the Yield My Flesh to Claim Their Bones event on your team increases the amount of [Bloodied Scabbard] earned from Stages and Dungeons."
+      "content": "Having Event Identities from the Yield My Flesh to Claim Their Bones event on your team increases the amount of [Bloodied Scabbard] earned from Stages i Dungeons."
     },
     {
       "id": "tutorial_mainui_26_ycgd_05_title_01",
@@ -2486,7 +2486,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_06_desc_02",
-      "content": "Here, you can obtain various currencies and the Event Identity."
+      "content": "Here, you can obtain various currencies i the Event Identity."
     },
     {
       "id": "tutorial_mainui_26_ycgd_07_title_01",
@@ -2506,7 +2506,7 @@
     },
     {
       "id": "tutorial_mainui_26_ycgd_09_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_mainui_28_tkt_01_title",
@@ -2526,7 +2526,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_02_desc_01",
-      "content": "The duration of the Timekilling Time event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Timekilling Time event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "tutorial_mainui_28_tkt_03_title_01",
@@ -2534,7 +2534,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_03_desc_01",
-      "content": "Timekilling Time consists of 14 stages, including story stages, and a single dungeon.\n\nEvent Encounters also offer batches of [Pocket Watch] as a first-time Clear bonus."
+      "content": "Timekilling Time consists of 14 stages, including story stages, i a single dungeon.\n\nEvent Encounters also offer batches of [Pocket Watch] as a first-time Clear bonus."
     },
     {
       "id": "tutorial_mainui_28_tkt_04_title_01",
@@ -2542,7 +2542,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_04_desc_01",
-      "content": "Having Identities and E.G.O from Timekilling Time event on your team increases the amount of [Pocket Watch] earned from Stages and Mirror Dungeons."
+      "content": "Having Identities i E.G.O from Timekilling Time event on your team increases the amount of [Pocket Watch] earned from Stages i Mirror Dungeons."
     },
     {
       "id": "tutorial_mainui_28_tkt_05_title_01",
@@ -2554,7 +2554,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_06_desc_01",
-      "content": "You can acquire the event reward Identity and various currencies from [Reward Exchange]."
+      "content": "You can acquire the event reward Identity i various currencies from [Reward Exchange]."
     },
     {
       "id": "tutorial_mainui_28_tkt_06_desc_02",
@@ -2578,7 +2578,7 @@
     },
     {
       "id": "tutorial_mainui_28_tkt_09_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience the Timekilling Time combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Timekilling Time combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_mainui_28_tkt",
@@ -2602,7 +2602,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_02_desc_02",
-      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 45, and Threadspin your E.G.Os to Tier 4."
+      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 45, i Threadspin your E.G.Os to Tier 4."
     },
     {
       "id": "tutorial_mainui_railway4_page_02_desc_03",
@@ -2610,11 +2610,11 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_03_title_01",
-      "content": "Creating your Team"
+      "content": "Tworzenie Zespołu"
     },
     {
       "id": "tutorial_mainui_railway4_page_03_desc_01",
-      "content": "Choose a number of Identities and E.G.O to enter the Railway with."
+      "content": "Choose a number of Identities i E.G.O to enter the Railway with."
     },
     {
       "id": "tutorial_mainui_railway4_page_03_desc_02",
@@ -2622,7 +2622,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_04_title_01",
-      "content": "Line 4: Stations and Sections"
+      "content": "Line 4: Stations i Sections"
     },
     {
       "id": "tutorial_mainui_railway4_page_04_desc_01",
@@ -2654,7 +2654,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_06_desc_02",
-      "content": "Certain Backup units receive additional Entry SP buffs. Minus Coin Identities will receive negative Entry SP buffs."
+      "content": "Certain Jednostki Rezerwowe receive additional Entry SP buffs. Minus Coin Identities will receive negative Entry SP buffs."
     },
     {
       "id": "tutorial_mainui_railway4_page_07_title_01",
@@ -2662,11 +2662,11 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_07_desc_01",
-      "content": "Refraction Railway Line 4 introduces the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
+      "content": "Refraction Railway Line 4 introduces the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Jednostki Rezerwowe will fill their spots in their own Deployment orders."
     },
     {
       "id": "tutorial_mainui_railway4_page_07_desc_02",
-      "content": "You can enter the Section only when you have selected both your Deployment units and the Backup units, six in each category."
+      "content": "You can enter the Section only when you have selected both your Deployment units i the Jednostki Rezerwowe, six in each category."
     },
     {
       "id": "tutorial_mainui_railway4_page_08_title_01",
@@ -2686,7 +2686,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_09_desc_02",
-      "content": "In Line 4, a defeated ally Identity will give E.G.O resources that correspond with the Sin Affinities of the Attack Skills on the defeated Ally. The amount of E.G.O resources given corresponds with the Rank of each Attack Skill. (S1 gives 1, S2 gives 2, S3 gives 3, for example)"
+      "content": "In Line 4, a defeated ally Identity will give Zasoby E.G.O that correspond with the Sin Affinities of the Attack Skills on the defeated Ally. The amount of Zasoby E.G.O given corresponds with the Rank of each Attack Skill. (S1 gives 1, S2 gives 2, S3 gives 3, for example)"
     },
     {
       "id": "tutorial_mainui_railway4_page_10_title_01",
@@ -2694,7 +2694,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_10_desc_01",
-      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+      "content": "When a Deployed unit is defeated, the Jednostki Rezerwowe will fill their spot in the Deployment order."
     },
     {
       "id": "tutorial_mainui_railway4_page_10_desc_02",
@@ -2718,7 +2718,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_12_desc_01",
-      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon or Mirror Dungeon Encounters, their Observation Levels will be reflected in the Refraction Railway, and you can view their information as you would in those Dungeons."
+      "content": "If you have already unlocked the Abnormalities' Observation Levels through the Story Dungeon or Mirror Dungeon Encounters, their Observation Levels will be reflected in the Refraction Railway, i you can view their information as you would in those Dungeons."
     },
     {
       "id": "tutorial_mainui_railway4_page_12_desc_02",
@@ -2730,11 +2730,11 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_13_desc_01",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Section."
+      "content": "The Zasoby E.G.O held after clearing a Station can be carried over to the next Section."
     },
     {
       "id": "tutorial_mainui_railway4_page_13_desc_02",
-      "content": "The HP, SP, and availability of your Identities are shown at the bottom of the screen."
+      "content": "The PŻ, SP, i availability of your Identities are shown at the bottom of the screen."
     },
     {
       "id": "tutorial_mainui_railway4_page_14_title_01",
@@ -2742,15 +2742,15 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_14_desc_01",
-      "content": "Stopping by the Rest Stations, which are located between Sections, will fully heal your Identities and reset their Sp to 0."
+      "content": "Stopping by the Rest Stations, which are located between Sections, will fully heal your Identities i reset their Sp to 0."
     },
     {
       "id": "tutorial_mainui_railway4_page_14_desc_02",
-      "content": "You can also change your Team Loadout in Rest Stations.\n\nIf you are having difficulty clearing a Stage, please note that a different Team may work better against certain enemies."
+      "content": "You can also change your Zespół Loadout in Rest Stations.\n\nIf you are having difficulty clearing a Stage, please note that a different Zespół may work better against certain enemies."
     },
     {
       "id": "tutorial_mainui_railway4_page_15_desc_01",
-      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+      "content": "If all of your allies are defeated, you can choose between returning to the Zespół Loadout menu to change your Deployment orders, i immediately retrying the battle."
     },
     {
       "id": "tutorial_mainui_railway4_page_16_title_01",
@@ -2762,7 +2762,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_16_desc_02",
-      "content": "When you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Stage will be reset."
+      "content": "When you do so, the battle will start with the Sinners’ statuses i Zasoby E.G.O reverted to that point, i any progress you've made since that Stage will be reset."
     },
     {
       "id": "tutorial_mainui_railway4_page_17_title_01",
@@ -2786,7 +2786,7 @@
     },
     {
       "id": "tutorial_mainui_railway4_page_18_desc_02",
-      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it i claim rewards you’ve earned at no additional cost."
     },
     {
       "id": "tutorial_mainui_railway4_page_19_title_01",
@@ -2818,7 +2818,7 @@
     },
     {
       "id": "tutorial_mainui_29_mowe_02_desc_01",
-      "content": "The duration of the Murder on the WARP Express event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Murder on the WARP Express event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "tutorial_mainui_29_mowe_03_title_01",
@@ -2838,7 +2838,7 @@
     },
     {
       "id": "tutorial_mainui_29_mowe_04_desc_01",
-      "content": "Having Event Identities and E.G.O from the Murder on the WARP Express event on your team increases the amount of [Civilian Recov. Pack] earned from Stages and Dungeons."
+      "content": "Having Event Identities i E.G.O from the Murder on the WARP Express event on your team increases the amount of [Civilian Recov. Pack] earned from Stages i Dungeons."
     },
     {
       "id": "tutorial_mainui_29_mowe_05_title_01",
@@ -2854,7 +2854,7 @@
     },
     {
       "id": "tutorial_mainui_29_mowe_06_desc_02",
-      "content": "You can acquire event reward Identities and various currencies from the [Reward Exchange]."
+      "content": "You can acquire event reward Identities i various currencies from the [Reward Exchange]."
     },
     {
       "id": "tutorial_mainui_29_mowe_07_title_01",
@@ -2874,7 +2874,7 @@
     },
     {
       "id": "tutorial_mainui_29_mowe_09_desc_01",
-      "content": "Even after the event fully ends, you will be able to experience the Murder on the WARP Express combat Encounters and view its story at any time at the Driverside and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Murder on the WARP Express combat Encounters i view its story at any time at the Driverside i Theater - [Detour Tales]."
     },
     {
       "id": "tutorial_mainui_01_selection_page_11_title_01",
@@ -2882,15 +2882,15 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_11_desc_01",
-      "content": "In Chain Battles, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a backup unit will substitute in to fill their place.\n\nIn Chain Battles, you cannot lose until all units selected for the Encounter(both participating units and backup units) are defeated."
+      "content": "In Chain Battles, you can deploy 'Jednostki Rezerwowe' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a backup unit will substitute in to fill their place.\n\nIn Chain Battles, you cannot lose until all units selected for the Encounter(both participating units i Jednostki Rezerwowe) are defeated."
     },
     {
       "id": "tutorial_mainui_01_selection_page_12_title_01",
-      "content": "Deploying Backup Units"
+      "content": "Deploying Jednostki Rezerwowe"
     },
     {
       "id": "tutorial_mainui_01_selection_page_12_desc_01",
-      "content": "When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order.\n\nCertain Chain Battles may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders to strategize prior to entering Chain Battles."
+      "content": "When a participating unit is killed, Jednostki Rezerwowe will be substituted into the field in the order of their Deployment.\n\nWhen the Jednostki Rezerwowe substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order.\n\nCertain Chain Battles may give additional buffs for Jednostki Rezerwowe.\n\nPlease experiment with Deployment orders to strategize prior to entering Chain Battles."
     },
     {
       "id": "tutorial_mainui_01_selection_page_13_title_01",
@@ -2906,7 +2906,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_14_desc_01",
-      "content": "In Chain Battles, the indicator that shows the number of Waves shows total number of enemies and the number of defeated enemies instead.\n\nHowever, this indicator does not take into account the extra enemies that are summoned due to certain conditions."
+      "content": "In Chain Battles, the indicator that shows the number of Waves shows total number of enemies i the number of defeated enemies instead.\n\nHowever, this indicator does not take into account the extra enemies that are summoned due to certain conditions."
     },
     {
       "id": "TutoEvent5501_P1_T1",
@@ -2922,7 +2922,7 @@
     },
     {
       "id": "TutoEvent5501_P2_D1",
-      "content": "The duration of Miracle in District 20 BokGak Event is shown here.\n\nDuring the event, you can earn [Trinkets Sack] by clearing Event Stages. You can also earn [Trinkets Sack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of Miracle in District 20 BokGak Event is shown here.\n\nDuring the event, you can earn [Trinkets Sack] by clearing Event Stages. You can also earn [Trinkets Sack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "TutoEvent5501_P3_T1",
@@ -2938,7 +2938,7 @@
     },
     {
       "id": "TutoEvent5501_P4_D1",
-      "content": "Having Event E.G.Os from the Event on your team increases the amount of [Trinkets Sack] earned from Stages and the Mirror Dungeon."
+      "content": "Having Event E.G.Os from the Event on your team increases the amount of [Trinkets Sack] earned from Stages i the Mirror Dungeon."
     },
     {
       "id": "TutoEvent5501_P5_T1",
@@ -2950,7 +2950,7 @@
     },
     {
       "id": "TutoEvent5501_P6_D1",
-      "content": "You can acquire the event reward E.G.O, Announcer, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "You can acquire the event reward E.G.O, Announcer, Ticket Deco, banners, i various currencies from [Reward Exchange] menu."
     },
     {
       "id": "TutoEvent5501_P6_D2",
@@ -2978,11 +2978,11 @@
     },
     {
       "id": "TutoEvent5501_P8_D3",
-      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+      "content": "You can earn first-time clear rewards, EX Clear rewards, i Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
     },
     {
       "id": "TutoEvent5501_P9_D1",
-      "content": "Even after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoEvent7501_P1_T1",
@@ -3002,7 +3002,7 @@
     },
     {
       "id": "TutoEvent7501_P2_D1",
-      "content": "The duration of LCB Regular Check-up event is shown here. During the event, you can earn [Amassed Data] by clearing Stages and Dungeons in the event and Main Story.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations."
+      "content": "The duration of LCB Regular Check-up event is shown here. During the event, you can earn [Amassed Data] by clearing Stages i Dungeons in the event i Main Story.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations."
     },
     {
       "id": "TutoEvent7501_P3_T1",
@@ -3010,7 +3010,7 @@
     },
     {
       "id": "TutoEvent7501_P3_D1",
-      "content": "LCB Regular Check-up event consists of 13 stages, including story stages, and a single dungeon.\n\nEvent Encounters also offer batches of [Amassed Data] as a first-time Clear bonus."
+      "content": "LCB Regular Check-up event consists of 13 stages, including story stages, i a single dungeon.\n\nEvent Encounters also offer batches of [Amassed Data] as a first-time Clear bonus."
     },
     {
       "id": "TutoEvent7501_P3_D2",
@@ -3022,7 +3022,7 @@
     },
     {
       "id": "TutoEvent7501_P4_D1",
-      "content": "Having Event Identities and E.G.O from the LCB Regular Check-up event on your team increases the amount of [Amassed Data] earned from Stages and Dungeons."
+      "content": "Having Event Identities i E.G.O from the LCB Regular Check-up event on your team increases the amount of [Amassed Data] earned from Stages i Dungeons."
     },
     {
       "id": "TutoEvent7501_P5_T1",
@@ -3038,7 +3038,7 @@
     },
     {
       "id": "TutoEvent7501_P6_D1",
-      "content": "You can acquire event reward Identities and various currencies from the [Reward Exchange]."
+      "content": "You can acquire event reward Identities i various currencies from the [Reward Exchange]."
     },
     {
       "id": "TutoEvent7501_P7_T1",
@@ -3066,7 +3066,7 @@
     },
     {
       "id": "TutoEvent7501_P10_D1",
-      "content": "Even after the event fully ends, you will be able to experience the LCB Regular Check-up combat Encounters and view its story at any time at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the LCB Regular Check-up combat Encounters i view its story at any time at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoEvent5502_P1_T1",
@@ -3082,7 +3082,7 @@
     },
     {
       "id": "TutoEvent5502_P2_D1",
-      "content": "The duration of Yield My Flesh to Claim Their Bones BokGak Event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of Yield My Flesh to Claim Their Bones BokGak Event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "TutoEvent5502_P3_T1",
@@ -3090,7 +3090,7 @@
     },
     {
       "id": "TutoEvent5502_P3_D1",
-      "content": "Yield My Flesh to Claim Their Bones BokGak Event consists of 11 stages, including story stages, and a Dungeon.\n\nSaid stages also offer batches of [Bloodied Scabbard] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Stage)"
+      "content": "Yield My Flesh to Claim Their Bones BokGak Event consists of 11 stages, including story stages, i a Dungeon.\n\nSaid stages also offer batches of [Bloodied Scabbard] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Stage)"
     },
     {
       "id": "TutoEvent5502_P4_T1",
@@ -3098,7 +3098,7 @@
     },
     {
       "id": "TutoEvent5502_P4_D1",
-      "content": "Having Event Identities from Event on your team increases the amount of [Bloodied Scabbard] earned from Stages and Dungeons."
+      "content": "Having Event Identities from Event on your team increases the amount of [Bloodied Scabbard] earned from Stages i Dungeons."
     },
     {
       "id": "TutoEvent5502_P5_T1",
@@ -3114,7 +3114,7 @@
     },
     {
       "id": "TutoEvent5502_P6_D2",
-      "content": "You can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "You can acquire the event reward Identity, Ticket Deco, banners, i various currencies from [Reward Exchange] menu."
     },
     {
       "id": "TutoEvent5502_P7_T1",
@@ -3138,11 +3138,11 @@
     },
     {
       "id": "TutoEvent5502_P8_D3",
-      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+      "content": "You can earn first-time clear rewards, EX Clear rewards, i Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
     },
     {
       "id": "TutoEvent5502_P9_D1",
-      "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoRailway5_P1_T1",
@@ -3162,7 +3162,7 @@
     },
     {
       "id": "TutoRailway5_P2_D1",
-      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 50, and Threadspin your E.G.Os to Tier 4."
+      "content": "We recommend that you Uptie your Identities to Tier 4, level them to Level 50, i Threadspin your E.G.Os to Tier 4."
     },
     {
       "id": "TutoRailway5_P2_D2",
@@ -3170,7 +3170,7 @@
     },
     {
       "id": "TutoRailway5_P3_T1",
-      "content": "Line 5: Stations and Sections"
+      "content": "Line 5: Stations i Sections"
     },
     {
       "id": "TutoRailway5_P3_D1",
@@ -3198,11 +3198,11 @@
     },
     {
       "id": "TutoRailway5_P5_D1",
-      "content": "Refraction Railway Line 5 uses the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders."
+      "content": "Refraction Railway Line 5 uses the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Jednostki Rezerwowe will fill their spots in their own Deployment orders."
     },
     {
       "id": "TutoRailway5_P5_D2",
-      "content": "You can enter the Section only when you have selected both your Deployment units and the Backup units, six in each category."
+      "content": "You can enter the Section only when you have selected both your Deployment units i the Jednostki Rezerwowe, six in each category."
     },
     {
       "id": "TutoRailway5_P6_T1",
@@ -3210,19 +3210,19 @@
     },
     {
       "id": "TutoRailway5_P6_D1",
-      "content": "In Line 5, you cannot use the same team to challenge both Section 1 and Section 2.\nEach Section needs a different team of Identities."
+      "content": "In Line 5, you cannot use the same team to challenge both Section 1 i Section 2.\nEach Section needs a different team of Identities."
     },
     {
       "id": "TutoRailway5_P6_D2",
-      "content": "This Identity restriction does not apply to Section 3, however, and you can freely select any Identity to be deployed."
+      "content": "This Identity restriction does not apply to Section 3, however, i you can freely select any Identity to be deployed."
     },
     {
       "id": "TutoRailway5_P7_T1",
-      "content": "Creating your Team"
+      "content": "Tworzenie Zespołu"
     },
     {
       "id": "TutoRailway5_P7_D1",
-      "content": "Choose a number of Identities and E.G.O to enter the Railway with. "
+      "content": "Choose a number of Identities i E.G.O to enter the Railway with. "
     },
     {
       "id": "TutoRailway5_P7_D2",
@@ -3230,7 +3230,7 @@
     },
     {
       "id": "TutoRailway5_P7_D3",
-      "content": "Backup units receive Starting SP buffs, and Backup units further back in the Deployment order receive greater Starting SP buffs.\n\nMinus Coin Identities receive negative Starting SP buffs."
+      "content": "Jednostki Rezerwowe receive Starting SP buffs, i Jednostki Rezerwowe further back in the Deployment order receive greater Starting SP buffs.\n\nMinus Coin Identities receive negative Starting SP buffs."
     },
     {
       "id": "TutoRailway5_P8_T1",
@@ -3246,7 +3246,7 @@
     },
     {
       "id": "TutoRailway5_P9_D1",
-      "content": "Save for the Boss enemy of the final waves of each Section, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, and E.G.O loadout based on this information."
+      "content": "Save for the Boss enemy of the final waves of each Section, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, i E.G.O loadout based on this information."
     },
     {
       "id": "TutoRailway5_P9_D2",
@@ -3262,7 +3262,7 @@
     },
     {
       "id": "TutoRailway5_P10_D1",
-      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+      "content": "When a Deployed unit is defeated, the Jednostki Rezerwowe will fill their spot in the Deployment order."
     },
     {
       "id": "TutoRailway5_P10_D2",
@@ -3274,7 +3274,7 @@
     },
     {
       "id": "TutoRailway5_P11_D1",
-      "content": "In Line 5, when an Identity is killed, they release E.G.O resources based on the ranks and Affinities of their Base Attack Skills. And just like in Chain Encounters, their deaths will not reduce other allies' SP."
+      "content": "In Line 5, when an Identity is killed, they release Zasoby E.G.O based on the ranks i Affinities of their Base Attack Skills. And just like in Chain Encounters, their deaths will not reduce other allies' SP."
     },
     {
       "id": "TutoRailway5_P12_T1",
@@ -3290,7 +3290,7 @@
     },
     {
       "id": "TutoRailway5_P13_D2",
-      "content": "Here, you will be selecting a mix of Buffs and Trials with positive effects for allies and enemies both. Any Buffs and Trials selected here will persist throughout Line 5."
+      "content": "Here, you will be selecting a mix of Buffs i Trials with positive effects for allies i enemies both. Any Buffs i Trials selected here will persist throughout Line 5."
     },
     {
       "id": "TutoRailway5_P14_T1",
@@ -3298,15 +3298,15 @@
     },
     {
       "id": "TutoRailway5_P14_D1",
-      "content": "After clearing each Section, you can view statistics such as the obtained Buffs, Trials, and participating Identities in the Clear Info menu."
+      "content": "After clearing each Section, you can view statistics such as the obtained Buffs, Trials, i participating Identities in the Clear Info menu."
     },
     {
       "id": "TutoRailway5_P15_T1",
-      "content": "The E.G.O resources held after clearing a Section can be carried over to the next Section."
+      "content": "The Zasoby E.G.O held after clearing a Section can be carried over to the next Section."
     },
     {
       "id": "TutoRailway5_P16_T1",
-      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+      "content": "If all of your allies are defeated, you can choose between returning to the Zespół Loadout menu to change your Deployment orders, i immediately retrying the battle."
     },
     {
       "id": "TutoRailway5_P17_T1",
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "TutoRailway5_P17_D2",
-      "content": "When you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Stage will be reset."
+      "content": "When you do so, the battle will start with the Sinners’ statuses i Zasoby E.G.O reverted to that point, i any progress you've made since that Stage will be reset."
     },
     {
       "id": "TutoRailway5_P18_T1",
@@ -3330,7 +3330,7 @@
     },
     {
       "id": "TutoRailway5_P18_D2",
-      "content": "Once you obtain a Banner, the Turn Count of your best record for each Section and total turns will be displayed on it.\nMaking a new best record in total turn count will update the Turn Count on your banner. If there are records with the same number of total turns, it will display the more recent record."
+      "content": "Once you obtain a Banner, the Turn Count of your best record for each Section i total turns will be displayed on it.\nMaking a new best record in total turn count will update the Turn Count on your banner. If there are records with the same number of total turns, it will display the more recent record."
     },
     {
       "id": "TutoRailway5_P19_T1",
@@ -3342,7 +3342,7 @@
     },
     {
       "id": "TutoRailway5_P19_D2",
-      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it i claim rewards you’ve earned at no additional cost."
     },
     {
       "id": "TutoRailway5_P20_T1",
@@ -3374,7 +3374,7 @@
     },
     {
       "id": "TutoEvent7502_P2_D1",
-      "content": "The duration of Nocturnal Sweeping event is shown here. During the event, you can earn [Sweeper Fuel Cylinder] by clearing Stages and Dungeons in the event and Main Story, or the Mirror Dungeon\n\n※ However, [Sweeper Fuel Cylinder] cannot be obtained in Luxcavations and in Mirror Dungeon Parallel Superposition Mode (F6 or higher)."
+      "content": "The duration of Nocturnal Sweeping event is shown here. During the event, you can earn [Sweeper Fuel Cylinder] by clearing Stages i Dungeons in the event i Main Story, or the Mirror Dungeon\n\n※ However, [Sweeper Fuel Cylinder] cannot be obtained in Luxcavations i in Mirror Dungeon Parallel Superposition Mode (F6 or higher)."
     },
     {
       "id": "TutoEvent7502_P3_T1",
@@ -3394,7 +3394,7 @@
     },
     {
       "id": "TutoEvent7502_P4_D1",
-      "content": "Having Event Identities from the Nocturnal Sweeping event on your team increases the amount of [Sweeper Fuel Cylinder] earned from Stages and Dungeons."
+      "content": "Having Event Identities from the Nocturnal Sweeping event on your team increases the amount of [Sweeper Fuel Cylinder] earned from Stages i Dungeons."
     },
     {
       "id": "TutoEvent7502_P5_T1",
@@ -3410,7 +3410,7 @@
     },
     {
       "id": "TutoEvent7502_P6_D2",
-      "content": "You can acquire event reward Identities and various currencies from the [Reward Exchange]."
+      "content": "You can acquire event reward Identities i various currencies from the [Reward Exchange]."
     },
     {
       "id": "TutoEvent7502_P7_T1",
@@ -3430,299 +3430,299 @@
     },
     {
       "id": "TutoEvent7502_P9_D1",
-      "content": " Even after the event fully ends, you will be able to experience the Nocturnal Sweeping combat Encounters and view its story anytime at Drive - [Deviazione] and Theater - [Detour Tales]."
+      "content": " Even after the event fully ends, you will be able to experience the Nocturnal Sweeping combat Encounters i view its story anytime at Drive - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoFormation_P1_T1",
-      "content": "Sinners (Team)"
+      "content": "Grzesznicy (Zespół)"
     },
     {
       "id": "TutoFormation_P1_D1",
-      "content": "You can configure various Teams from your 12 Limbus Company Sinners and their Identities."
+      "content": "Tutaj możesz ułożyć Zespół ze swoich 12 Grzeszników i ich Tożsamości."
     },
     {
       "id": "TutoFormation_P1_T2",
-      "content": "Edit Team"
+      "content": "Edycja Zespołu"
     },
     {
       "id": "TutoFormation_P1_D2",
-      "content": "In 'Sinners' window, selecting a Sinner's Identity portrait will show a list of their Identities and E.G.O. You can change your Team from there."
+      "content": "W oknie 'Grzeszników', wybieranie portretu Tożsamości Grzesznika pokaże listę jego Tożsamości i E.G.O. Stąd możesz zmieniać skład swojego Zespołu."
     },
     {
       "id": "TutoFormation_P1_D3",
-      "content": "Select the \"All Identities\" or \"All E.G.O\" button on the right to view the full list of Identities and E.G.O for all Sinners, making it easier to design your Team loadout."
+      "content": "Wybranie przycisku \"Tożsamości\" lub \"E.G.O\" po prawej stronie ekranu przeniesie cię do pełnej listy Tożsamości i E.G.O wszystkich Grzeszników, ułatwiając budowanie Zespołu."
     },
     {
       "id": "TutoFormation_P2_T1",
-      "content": "Deployment Menu"
+      "content": "Menu Wdrożenia"
     },
     {
       "id": "TutoFormation_P2_D1",
-      "content": "In normal Team loadout menus, clicking anywhere on each Identity's portrait loads into the \"Edit Team\" menu.\nHowever, in battle encounter Team menus, the Identity's portrait will be divided into the following two areas."
+      "content": "W zwykłym menu układu Zespołu, kliknięcie gdziekolwiek na portrecie Tożsamości przenosi cię do menu \"Edycji Zespołu\".\nJednak w Menu Zespołu podczas Potyczki, portret Tożsamości będzie podzielony na dwie części."
     },
     {
       "id": "TutoFormation_P2_D2",
-      "content": "Selecting the upper part of the portrait loads into the \"Edit Team\" menu, where you can view and swap out the Identities and E.G.O of the selected Sinner."
+      "content": "\n\nWybranie górnej części portretu przeniesie cię do menu \"Edycji Zespołu\", gdzie możesz przeglądać i wybierać Tożsamości i E.G.O danego Grzesznika."
     },
     {
       "id": "TutoFormation_P2_D3",
-      "content": "Selecting the lower part of the portrait Deploys the Sinner, which means that the Sinner will be taking part in the battle."
+      "content": "Wybranie dolnej części Wdraża Grzesznika, co oznacza, że będzie brać udział w tej walce."
     },
     {
       "id": "TutoFormation_P2_D4",
-      "content": "This area on the bottom right shows the total number of Deployable Identities for this battle."
+      "content": "To okienko w prawym dolnym rogu pokazuje liczbę Grzeszników, których można Wdrożyć w tej walce."
     },
     {
       "id": "TutoFormation_P2_D5",
-      "content": "You will not be able to edit your Team in certain battle encounters, however.\nIn those cases, selecting anywhere on a Sinner's Identity portrait will deploy that Identity to battle."
+      "content": "W niektórych Potyczkach możesz nie mieć możliwości edytowania swojego Zespołu.\nW tych przypadkach, kliknięcie gdziekolwiek na portrecie Tożsamości wdroży ją do walki."
     },
     {
       "id": "TutoFormation_P2_T2",
-      "content": "Deploying Backup Units"
+      "content": "Wdrażanie Jednostej Rezerwowych"
     },
     {
       "id": "TutoFormation_P2_D6",
-      "content": "In normal battles, you cannot Deploy more Sinners than the \"Participant Limit\" indicated in the bottom right corner."
+      "content": "W zwyczajnych walkach, nie możesz Wdrożyć więcej Grzeszników, niż wynosi \"Limit Uczestnictwa\" pokazany w prawym dolnym rogu."
     },
     {
       "id": "TutoFormation_P2_D7",
-      "content": "However, in Chain Battles, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a Backup Unit will substitute in to fill their place.\n\nIn Chain Battles, the battle will not end in defeat until all units selected for the battle encounter(both participating units and backup units) are defeated."
+      "content": "Jendak w Walkach Szeregowych, możesz wdrożyć 'Jednostki Rezerwowe' w dodatku do uczestniczących jednostek.\n\nJeśli któraś z jednostek zostanie pokonana podczas walki, lub wycofa się z niej, Jednostka Rezerwowa wejdzie na jej miejsce.\n\nW Walkach Szeregowych, Potyczka nie zakończy się porażką, dopóki nie zostaną pokonane wszystkie Jednostki wdrożone do tej walki, zarówno uczestniczące, jak i Rezerwowe."
     },
     {
       "id": "TutoFormation_P2_D8",
-      "content": "When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order."
+      "content": "Kiedy uczestnicząca jednostka zostanie zabita, Jednostki Rezerwowe będą wchodzić do walki według swojej Kolejności Wdrożenia.\n\nKiedy Jednostki Rezerwowe wkraczają do walki, otrzymują z wejściem dodatkowe SP zależnie od wartości ich startowego SP, które jest określane przez Kolejność Wdrożenia."
     },
     {
       "id": "TutoFormation_P2_D9",
-      "content": "Certain Chain Battles may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders and strategize prior to entering Chain Battles to gain an edge."
+      "content": "Niektóre Walki Szeregowe mogą dawać też Jednostkom Rezerwowym dodatkowe wzmocnienia.\n\nEksperymentowanie z Kolejnością Wdrożenia i układanie strategii przed walką może dać ci poważną przewagę."
     },
     {
       "id": "TutoFormation_P2_T3",
-      "content": "Substitution"
+      "content": "Wkraczanie do Walki"
     },
     {
       "id": "TutoFormation_P2_D10",
-      "content": "In Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, a Backup Unit with the earliest Deployment order will replace them.\nThis is called <Substitution> or <Substitute>."
+      "content": "W Walkach Szeregowych, strata SP przez śmierć sojusznika wymieniona w 'Bazowych warunkach podnoszących/obniżających Psychikę' nie aktywuje się.\n\nJeśli sojusznik zostanie pokonany podczas Potyczki, jej miejsce zajmie Jednostka Rezerwowa.\nTen proces jest okerślany jako <Wkraczanie do Walki>."
     },
     {
       "id": "TutoFormation_P2_D11",
-      "content": "When a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.\n\nWhen a Backup unit Substitutes in, its Combat Passive will activate instead of its Support Passive."
+      "content": "Kiedy Wdrożona jednostka zostanie pokonana, zamiast jej Bojowej Zdolności Pasywnej aktywuje się jej Wspierająca Zdolność Pasywna.\n\nKiedy Jednostka Rezerwowa wkroczy do walki, zamiast jej Wspierającej Zdolności Pasywnej aktywuje się jej Bojowa Zdolność Pasywna."
     },
     {
       "id": "TutoFormation_P2_T4",
-      "content": "Enemy Count"
+      "content": "Liczba Przeciwników"
     },
     {
       "id": "TutoFormation_P2_D12",
-      "content": "In Chain Battles, the indicator that shows the number of WAVEs shows total number of enemies and the number of defeated enemies instead."
+      "content": "W Walkach Szeregowych, wskaźnik zwykle pokazujący liczbę FAL zamiast nich pokazuje liczbę pokonanych przeciwników, jak i liczbę wszystkich przeciwników w tej Potyczce."
     },
     {
       "id": "TutoFormation_P2_D13",
-      "content": "However, this indicator does not take into account the extra enemies that are summoned due to certain conditions."
+      "content": "Wskaźnik ten nie bierze jednak pod uwagę dodatkowych przeciwników, którzy mogą być wezwani podczas walki."
     },
     {
       "id": "TutoFormation_P3_T1",
-      "content": "Identity Info"
+      "content": "Informacje o Tożsamości"
     },
     {
       "id": "TutoFormation_P3_D1",
-      "content": "Select and hold an Identity portrait to view the selected Identity's detailed information."
+      "content": "Kliknij i przytrzymaj portret, by wyświetlić detaliczne informacje wybranej Tożsamości."
     },
     {
       "id": "TutoFormation_P3_D2",
-      "content": "In the detailed Identity info menu, you can view more information about the selected Identity and any of its equipped E.G.O."
+      "content": "W menu detalicznych informacji Tożsamości możesz wyświetlić więcej informacji o wybranej Tożsamości i wszystkich jej wyekwipowanych E.G.O"
     },
     {
       "id": "TutoFormation_P4_T1",
-      "content": "Select Announcer"
+      "content": "Wybór Komentatora"
     },
     {
       "id": "TutoFormation_P4_D1",
-      "content": "Select the Announcer button on the left to view the list of Announcers."
+      "content": "Kliknięcie przycisku Komentatora w lewym górnym rogu przeniesie cię do listy Komentatorów."
     },
     {
       "id": "TutoFormation_P4_D2",
-      "content": "Announcers relay information regarding the flow of battle. You can change the equipped Announcer here."
+      "content": "Komentatorzy przekazują informacje odnoszące się do przebiegu walki. Tutaj możesz zmieniać wybranych Komentatorów."
     },
     {
       "id": "TutoFormation_P4_D3",
-      "content": "Select the magnifier icon at the bottom of each Announcer to view their voicelinces for each situation."
+      "content": "Możesz też kliknąć przycisk z lupą pod komentatorem, by wyświetlić jego kwestie na każdą sytuację."
     },
     {
       "id": "TutoFormation_P5_T1",
-      "content": "Team Names"
+      "content": "Nazwy Zespołu"
     },
     {
       "id": "TutoFormation_P5_D1",
-      "content": "Select from the list of keywords to choose a name for your Team loadout."
+      "content": "Wybranie pozycji z listy słów kluczowych stworzy nazwę zespołu."
     },
     {
       "id": "TutoFormation_P5_D2",
-      "content": "You can create up to 20 Teams."
+      "content": "Możesz stworzyć do 20 Zespołów."
     },
     {
       "id": "TutoFormation_P6_T1",
-      "content": "Team Details"
+      "content": "Detale Zespółu"
     },
     {
       "id": "TutoFormation_P6_D1",
-      "content": "Select the detailed info button here to view the following information: All Identities' Skill Attack Types, Sin Affinities, and equipped E.G.O."
+      "content": "Kliknięcie przycisku detalicznych informacji pokarze dane informacje: Typy Ataku i Grzechy Zdolności Grzeszników i ich wyekwipowane E.G.O."
     },
     {
       "id": "TutoFormation_P6_T2",
-      "content": "E.G.O Resources"
+      "content": "Zasoby E.G.O"
     },
     {
       "id": "TutoFormation_P6_D2",
-      "content": "On the right panel, you can access the general overview for the types and amounts of E.G.O Resources your current Team can gain in battle."
+      "content": "Panel po prawej pokazuje generalny przegląd Zasobów E.G.O, które twój zespół może zyskać i zużyć podczas walki."
     },
     {
       "id": "TutoFormation_P6_D3",
-      "content": "Select the right panel to view the Identities that gain the selected E.G.O Resources and E.G.O that use them."
+      "content": "Kliknięcie panelu otwiera okno pokazujące szczegółowe informacje o zyskiwaniu Zasobów E.G.O przez Tożsamości i zużywania ich przez E.G.O."
     },
     {
       "id": "TutoFormation_P7_T1",
-      "content": "Team Codes"
+      "content": "Kody Zespółu"
     },
     {
       "id": "TutoFormation_P7_D1",
-      "content": "You can copy and share the Team Code, or paste it here to load a Team loadout."
+      "content": "Możesz skopiować Kod Zespołu i się nim podzielić, lub wkleić czyjś kod by załadować ten układ Zespółu."
     },
     {
       "id": "TutoFormation_P7_T2",
-      "content": "Delete Team Loadout"
+      "content": "Usuń Układ Zespołu"
     },
     {
       "id": "TutoFormation_P7_D2",
-      "content": "Reset the currently selected Team."
+      "content": "Zreseotwać wybrany Zespół?."
     },
     {
       "id": "TutoFormation_P7_T3",
-      "content": "Support"
+      "content": "Wsparcie"
     },
     {
       "id": "TutoFormation_P7_D3",
-      "content": "You can select the Support Identities that your Friends have registered here."
+      "content": "Tutaj możesz wybrać Wspierające Tożsamości, które zarejestrowali twoi znajomi."
     },
     {
       "id": "TutoFormation_P8_T1",
-      "content": "Copy Code"
+      "content": "Skopiuj Kod"
     },
     {
       "id": "TutoFormation_P8_D1",
-      "content": "Copy the Team Code for the currently selected Team loadout."
+      "content": "Skopiuj Kod obecnego układu Zespołu."
     },
     {
       "id": "TutoFormation_P8_T2",
-      "content": "Paste Code"
+      "content": "Wklej Kod"
     },
     {
       "id": "TutoFormation_P8_D2",
-      "content": "Paste the copied Team Code here to equip the Team loadout."
+      "content": "Wklej skopiowany Kod Zespołu, by go załadować."
     },
     {
       "id": "TutoIDList_P1_T1",
-      "content": "Identity List"
+      "content": "Lista Tożsamości"
     },
     {
       "id": "TutoIDList_P1_D1",
-      "content": "The selected Sinner’s Identities are shown here.\n\nYou can check their Rarity, Uptie Tier, Level, and Faction here."
+      "content": "Tutaj pokazane są Tożsamości wybranego Grzesznika.\n\nMożesz sprawdzić ich Rzadkość, poziom Powiązania, Poziom, i przynależność do grup."
     },
     {
       "id": "TutoIDList_P2_T1",
-      "content": "Selecting Sinners"
+      "content": "Wybieranie Grzeszników"
     },
     {
       "id": "TutoIDList_P2_D1",
-      "content": "Select the \"ALL\" button to view the list of Identities for all Sinners at once."
+      "content": "Kliknij przycisk \"WSZYSTKIE\", by wyświetlić listę Tożsamości wszytskich Grzeszników na raz."
     },
     {
       "id": "TutoIDList_P2_D2",
-      "content": "The Identities that are in your current Team will be visible.\n\nSelect a Sinner's portrait to view their list of Identities."
+      "content": "Widoczne będą Tożsamości należące do twojego Zespołu.\n\nKliknij portret Grzesznika, by wyświetlić jego Tożsamości."
     },
     {
       "id": "TutoIDList_P2_D3",
-      "content": "Toggle between Identities and E.G.O tabs here."
+      "content": "Tutaj możesz przerzucać się między zakładkami Tożsamości i E.G.O."
     },
     {
       "id": "TutoIDList_P3_T1",
-      "content": "Toggle Details"
+      "content": "Zmiana Zakładek Detali"
     },
     {
       "id": "TutoIDList_P3_D1",
-      "content": "The Identities' Skill Attack Types, Sin Affinities, stat values, and Resistances can be viewed here."
+      "content": "Tutaj pokazane są Typy Ataku, Grzechy Zdolności, statystyki i Odporności Grzeszników."
     },
     {
       "id": "TutoIDList_P3_D2",
-      "content": "※ This button is deactivated when viewing the list of E.G.O."
+      "content": "※ Ten przycisk nie działa podczas wyświetlania E.G.O."
     },
     {
       "id": "TutoIDList_P4_T1",
-      "content": "E.G.O List"
+      "content": "Lista E.G.O"
     },
     {
       "id": "TutoIDList_P4_D1",
-      "content": "The selected Sinner's E.G.O are shown here.\n\nYou can check their Rarity, Threadspinning Tier, their primary Affinity, and name here."
+      "content": "Tutaj pokazane są E.G.O wybranego Grzesznika.\n\nMożesz sprawdzić ich Rzadkość, poziom Przędzenia, Grzech i imię."
     },
     {
       "id": "TutoIDList_P5_D1",
-      "content": "Select the \"ALL\" button to view the list of E.G.O for all Sinners at once."
+      "content": "Kliknij przycisk \"WSZYSTKIE\", by wyświetlić listę E.G.O wszytskich Grzeszników na raz."
     },
     {
       "id": "TutoIDList_P5_D2",
-      "content": "Select a Sinner's portrait to view the full list of their E.G.O."
+      "content": "Kliknij portret Grzesznika, by pokazać pełną listę jego E.G.O."
     },
     {
       "id": "TutoIDList_P6_T1",
-      "content": "Team Loadout Configuration"
+      "content": "Konfiguracja Układu Zespółu"
     },
     {
       "id": "TutoIDList_P6_D1",
-      "content": "You can see the equipped Identity and E.G.O for the selected Sinner. Only one E.G.O can be equipped from each grade."
+      "content": "Tutaj pokazane są wyekwipowana Tożsamość i E.G.O wybranego Grzesznika. Na każdy poziom mocy może być wybrane tylko jedno E.G.O."
     },
     {
       "id": "TutoIDList_P6_D2",
-      "content": "Selecting this button brings you to the list of Identities or E.G.O that can be equipped on the slot."
+      "content": "Kliknięcie tego przycisku przeniesie cię do listy Tożsamości i E.G.O, które można wyekwipować na tej pozycji."
     },
     {
       "id": "TutoIDList_P7_T1",
-      "content": "Sorting"
+      "content": "Sortowanie"
     },
     {
       "id": "TutoIDList_P7_D1",
-      "content": "Sort the Identities and E.G.O by the following categories."
+      "content": "Możesz sortować Tożsamości i E.G.O według danych kategorii."
     },
     {
       "id": "TutoIDList_P7_T2",
-      "content": "Filters"
+      "content": "Filtry"
     },
     {
       "id": "TutoIDList_P7_D2",
-      "content": "Use these keyword filters to search for specific Identities and E.G.O that fit your criteria."
+      "content": "Dzięki tym słowom kluczom możesz filtrować Tożsamości i E.G.O, by łatwiej znaleźć to, czego szukasz."
     },
     {
       "id": "TutoIDList_P8_T1",
-      "content": "Visibility Toggle"
+      "content": "Widoczność"
     },
     {
       "id": "TutoIDList_P8_D1",
-      "content": "Selecting the \"Obtained\" option will show only the list of obtained Identities and E.G.O."
+      "content": "Wybranie opcji \"Posiadane\" pokaże tylko te Tożsamości i E.G.O, które posiadasz (duh)."
     },
     {
       "id": "TutoIDList_P8_D2",
-      "content": "Selecting \"ALL\" option will show the full list of Identities and E.G.O, obtained or not."
+      "content": "Wybranie opcji \"WSZYSTKIE\" pokaże pełną listę Tożsamości i E.G.O, bez względu czy je posiadasz, czy nie."
     },
     {
       "id": "TutoIDList_P9_T1",
-      "content": "Support List"
+      "content": "Lista Wsparcia"
     },
     {
       "id": "TutoIDList_P9_D1",
-      "content": "View the list of Support Identities registered by your friends here."
+      "content": "Tutaj pokazane są Wspierające Tożsamości które zarejestrowali twoi znajomi."
     },
     {
       "id": "TutoIDList_P9_D2",
-      "content": "Select them to borrow your friends' Identities and E.G.O for battles. However, please note that you cannot have more than 1 Support Identity in a single Team loadout."
+      "content": "Możesz je wybrać, by pożyczyć Tożsamości i E.G.O Znajomych do walki. Proszę, pamiętaj jendak, że w każdym zespole możesz używać tylko jednej Wspierającej Tożsamości."
     },
     {
       "id": "TutoEvent6511_P1_T1",
@@ -3738,7 +3738,7 @@
     },
     {
       "id": "TutoEvent6511_P2_D1",
-      "content": "The duration of the Timekilling Time BokGak event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Timekilling Time BokGak event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "TutoEvent6511_P3_T1",
@@ -3746,7 +3746,7 @@
     },
     {
       "id": "TutoEvent6511_P3_D1",
-      "content": "Timekilling Time BokGak consists of 14 stages, including story stages, and a single dungeon. Event Encounters also offer batches of [Pocket Watch] as a first-time Clear bonus."
+      "content": "Timekilling Time BokGak consists of 14 stages, including story stages, i a single dungeon. Event Encounters also offer batches of [Pocket Watch] as a first-time Clear bonus."
     },
     {
       "id": "TutoEvent6511_P4_T1",
@@ -3754,7 +3754,7 @@
     },
     {
       "id": "TutoEvent6511_P4_D1",
-      "content": "Having Identities and E.G.O from Timekilling Time event on your team increases the amount of [Pocket Watch] earned from Stages and Mirror Dungeons."
+      "content": "Having Identities i E.G.O from Timekilling Time event on your team increases the amount of [Pocket Watch] earned from Stages i Mirror Dungeons."
     },
     {
       "id": "TutoEvent6511_P5_T1",
@@ -3766,7 +3766,7 @@
     },
     {
       "id": "TutoEvent6511_P6_D1",
-      "content": "You can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "You can acquire the event reward Identity, Ticket Deco, banners, i various currencies from [Reward Exchange] menu."
     },
     {
       "id": "TutoEvent6511_P6_D2",
@@ -3794,11 +3794,11 @@
     },
     {
       "id": "TutoEvent6511_P8_D3",
-      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+      "content": "You can earn first-time clear rewards, EX Clear rewards, i Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
     },
     {
       "id": "TutoEvent6511_P9_D1",
-      "content": "Even after the event fully ends, you will be able to experience the Timekilling Time combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Timekilling Time combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoEvent8501_Title",
@@ -3818,7 +3818,7 @@
     },
     {
       "id": "TutoEvent8501_P2_D1",
-      "content": "The duration of Spring Cultivation Event is shown here.\n\nDuring the event, you can earn [Intro to Zhi, Yong, Ren] by clearing Event Stages. You can also earn [Intro to Zhi, Yong, Ren] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Intro to Zhi, Yong, Ren] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of Spring Cultivation Event is shown here.\n\nDuring the event, you can earn [Intro to Zhi, Yong, Ren] by clearing Event Stages. You can also earn [Intro to Zhi, Yong, Ren] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Intro to Zhi, Yong, Ren] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "TutoEvent8501_P3_T1",
@@ -3834,7 +3834,7 @@
     },
     {
       "id": "TutoEvent8501_P4_D1",
-      "content": "Having Bonus Identities on your team increases the amount of [Intro to Zhi, Yong, Ren] earned from Stages and Mirror Dungeons."
+      "content": "Having Bonus Identities on your team increases the amount of [Intro to Zhi, Yong, Ren] earned from Stages i Mirror Dungeons."
     },
     {
       "id": "TutoEvent8501_P5_T1",
@@ -3842,7 +3842,7 @@
     },
     {
       "id": "TutoEvent8501_P5_D1",
-      "content": "You can enter the [Achievements] page, where you can view the list of Missions to be completed during the Cultivation and their rewards."
+      "content": "You can enter the [Achievements] page, where you can view the list of Missions to be completed during the Cultivation i their rewards."
     },
     {
       "id": "TutoEvent8501_P6_D1",
@@ -3850,7 +3850,7 @@
     },
     {
       "id": "TutoEvent8501_P6_D2",
-      "content": "Complete these Missions and claim [Intro to Zhi, Yong, Ren] from the [Achievements] page."
+      "content": "Complete these Missions i claim [Intro to Zhi, Yong, Ren] from the [Achievements] page."
     },
     {
       "id": "TutoEvent8501_P7_T1",
@@ -3866,7 +3866,7 @@
     },
     {
       "id": "TutoEvent8501_P8_D2",
-      "content": "You can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "You can acquire the event reward Identity, Ticket Deco, banners, i various currencies from [Reward Exchange] menu."
     },
     {
       "id": "TutoEvent8501_P9_T1",
@@ -3886,7 +3886,7 @@
     },
     {
       "id": "TutoEvent8501_P11_D1",
-      "content": "Even after the event fully ends, you will be able to experience the Spring Cultivation combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Spring Cultivation combat Encounters i view its story anytime at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoMinigame8501_P1_T1",
@@ -3894,7 +3894,7 @@
     },
     {
       "id": "TutoMinigame8501_P1_D1",
-      "content": "The goal in this game mode is to raise the main stats \"Zhi, Yong, and Ren\" as high as possible over the course of 30 [Class] days."
+      "content": "The goal in this game mode is to raise the main stats \"Zhi, Yong, i Ren\" as high as possible over the course of 30 [Class] days."
     },
     {
       "id": "TutoMinigame8501_P2_T1",
@@ -3910,7 +3910,7 @@
     },
     {
       "id": "TutoMinigame8501_P2_D2",
-      "content": "Each Class specializes in raising different Stats, and some Classes might even raise or lower the students' Morale values."
+      "content": "Each Class specializes in raising different Stats, i some Classes might even raise or lower the students' Morale values."
     },
     {
       "id": "TutoMinigame8501_P3_T1",
@@ -3942,7 +3942,7 @@
     },
     {
       "id": "TutoMinigame8501_P5_D1",
-      "content": "View all discovered Combos and undiscovered combos in the [Combo List] page."
+      "content": "View all discovered Combos i undiscovered combos in the [Combo List] page."
     },
     {
       "id": "TutoMinigame8501_P6_T1",
@@ -3966,7 +3966,7 @@
     },
     {
       "id": "TutoMinigame8501_P8_D1",
-      "content": "Taking a Class gives \"EXP\". Once a Class EXP has been maxed out, the Class will be upgraded to the next level.\nTaking higher-level Classes will yield more Stat increases. Please note that Classes cannot be upgraded beyond \"Master\"."
+      "content": "Taking a Class gives \"DOŚW\". Once a Class DOŚW has been Maksed out, the Class will be upgraded to the next level.\nTaking higher-level Classes will yield more Stat increases. Please note that Classes cannot be upgraded beyond \"Master\"."
     },
     {
       "id": "TutoMinigame8501_P9_T1",
@@ -3974,7 +3974,7 @@
     },
     {
       "id": "TutoMinigame8501_P9_D1",
-      "content": "Raising Zhi, Yong, or Ren stats beyond a specific level, or upgrading a Class to a certain level will enhance the students' combat prowess. These enhancements are applied separately for Jia Xichun and Sinclair."
+      "content": "Raising Zhi, Yong, or Ren stats beyond a specific level, or upgrading a Class to a certain level will enhance the students' combat prowess. These enhancements are applied separately for Jia Xichun i Sinclair."
     },
     {
       "id": "TutoMinigame8501_P10_T1",
@@ -4014,7 +4014,7 @@
     },
     {
       "id": "TutoEvent8502_P1_D2",
-      "content": "Please note that this story takes place after Intervallo VI - Spring Cultivation, and may contain spoilers up to that point in the story."
+      "content": "Please note that this story takes place after Intervallo VI - Spring Cultivation, i may contain spoilers up to that point in the story."
     },
     {
       "id": "TutoEvent8502_P2_T1",
@@ -4022,11 +4022,11 @@
     },
     {
       "id": "TutoEvent8502_P2_D1",
-      "content": "The duration of the Pilgrimage of Compassion event is shown here.\n\nDuring the event, you can earn [Sea Terror Sample] by clearing Event Stages. You can also earn [Sea Terror Sample] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Sea Terror Sample] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Pilgrimage of Compassion event is shown here.\n\nDuring the event, you can earn [Sea Terror Sample] by clearing Event Stages. You can also earn [Sea Terror Sample] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Sea Terror Sample] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "TutoEvent8502_P2_D2",
-      "content": "Pilgrimage of Compassion is a limited content that is accessible only during the Event period. Please note that, once the Event period is over, its story, stage progression, and combat content will no longer be accessible."
+      "content": "Pilgrimage of Compassion is a limited content that is accessible only during the Event period. Please note that, once the Event period is over, its story, stage progression, i combat content will no longer be accessible."
     },
     {
       "id": "TutoEvent8502_P3_T1",
@@ -4042,7 +4042,7 @@
     },
     {
       "id": "TutoEvent8502_P4_D1",
-      "content": "Having E.G.O from the event on your team increases the amount of [Sea Terror Sample] earned from Stages and Mirror Dungeons."
+      "content": "Having E.G.O from the event on your team increases the amount of [Sea Terror Sample] earned from Stages i Mirror Dungeons."
     },
     {
       "id": "TutoEvent8502_P5_T1",
@@ -4054,7 +4054,7 @@
     },
     {
       "id": "TutoEvent8502_P6_D1",
-      "content": "You can acquire the event reward E.G.O, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "You can acquire the event reward E.G.O, Ticket Deco, banners, i various currencies from [Reward Exchange] menu."
     },
     {
       "id": "TutoEvent8502_P6_D2",
@@ -4066,11 +4066,11 @@
     },
     {
       "id": "TutoEvent8502_P7_D1",
-      "content": "In Normal difficulty, if your Identities' Levels and Uptie Tiers, and E.G.O's Threadspinning Tiers are too low, they will be leveled up as follows:"
+      "content": "In Normal difficulty, if your Identities' Levels i Uptie Tiers, i E.G.O's Threadspinning Tiers are too low, they will be leveled up as follows:"
     },
     {
       "id": "TutoEvent8502_P7_D2",
-      "content": "※ Identity levels rise to Level 55, Identity Uptie Tiers rise to Tier 4, and E.G.O Threadspinning Tiers rise to Tier 4"
+      "content": "※ Identity levels rise to Level 55, Identity Uptie Tiers rise to Tier 4, i E.G.O Threadspinning Tiers rise to Tier 4"
     },
     {
       "id": "TutoEvent8502_P8_D1",
@@ -4098,11 +4098,11 @@
     },
     {
       "id": "TutoEvent8502_P10_D3",
-      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+      "content": "You can earn first-time clear rewards, EX Clear rewards, i Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
     },
     {
       "id": "TutoEvent8502_P10_D4",
-      "content": "Clearing a Hard difficulty stage automatically clears the Normal difficulty Stage as well. Clearing the Normal difficulty Stage by clearing the Hard difficulty Stage will yield Normal Difficulty Extra Conditions Fulfilled Reward(Lunacy) and first-time event currency rewards as well. \n※ However, this does not apply to Account EXP, Identity EXP, or repeat event currency rewards."
+      "content": "Clearing a Hard difficulty stage automatically clears the Normal difficulty Stage as well. Clearing the Normal difficulty Stage by clearing the Hard difficulty Stage will yield Normal Difficulty Extra Conditions Fulfilled Reward(Lunacy) i first-time event currency rewards as well. \n※ However, this does not apply to Account DOŚW, Identity DOŚW, or repeat event currency rewards."
     },
     {
       "id": "TutoEvent8502_P11_T1",
@@ -4114,11 +4114,11 @@
     },
     {
       "id": "TutoEvent8502_P12_D1",
-      "content": "During the event period, you will be able to experience the Pilgrimage of Compassion combat Encounters and view its story anytime at the Drive - [Deviazione] and Theater - [Detour Tales]."
+      "content": "During the event period, you will be able to experience the Pilgrimage of Compassion combat Encounters i view its story anytime at the Drive - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoEvent8502_P12_D2",
-      "content": "※ Once the event period(2025/9/25 12:00 ~ 10/23 06:00 (KST)) is over, Pilgrimage of Compassion combat Encounters and story will be removed from the Drive & Theater menus."
+      "content": "※ Once the event period(2025/9/25 12:00 ~ 10/23 06:00 (KST)) is over, Pilgrimage of Compassion combat Encounters i story will be removed from the Drive & Theater menus."
     },
     {
       "id": "TutoEvent6512_Title",
@@ -4138,7 +4138,7 @@
     },
     {
       "id": "TutoEvent6512_P2_D1",
-      "content": "The duration of the Murder on the WARP Express BokGak event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations and Refraction Railways."
+      "content": "The duration of the Murder on the WARP Express BokGak event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations i Refraction Railways."
     },
     {
       "id": "TutoEvent6512_P3_T1",
@@ -4154,7 +4154,7 @@
     },
     {
       "id": "TutoEvent6512_P4_D1",
-      "content": "Having Identities and E.G.O from Murder on the WARP Express BokGak event on your team increases the amount of [Civilian Recov. Pack] earned from Stages and Mirror Dungeons."
+      "content": "Having Identities i E.G.O from Murder on the WARP Express BokGak event on your team increases the amount of [Civilian Recov. Pack] earned from Stages i Mirror Dungeons."
     },
     {
       "id": "TutoEvent6512_P5_T1",
@@ -4170,7 +4170,7 @@
     },
     {
       "id": "TutoEvent6512_P6_D2",
-      "content": "You can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "You can acquire the event reward Identity, Ticket Deco, banners, i various currencies from [Reward Exchange] menu."
     },
     {
       "id": "TutoEvent6512_P7_T1",
@@ -4194,11 +4194,11 @@
     },
     {
       "id": "TutoEvent6512_P8_D3",
-      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+      "content": "You can earn first-time clear rewards, EX Clear rewards, i Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
     },
     {
       "id": "TutoEvent6512_P9_D1",
-      "content": "Even after the event fully ends, you will be able to experience the Murder on the WARP Express combat Encounters and view its story at any time at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Even after the event fully ends, you will be able to experience the Murder on the WARP Express combat Encounters i view its story at any time at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     },
     {
       "id": "TutoRailway1BokGak_P1_T1",
@@ -4246,7 +4246,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P4_D1",
-      "content": "In Line 1, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, and E.G.O loadout based on this information."
+      "content": "In Line 1, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, i E.G.O loadout based on this information."
     },
     {
       "id": "TutoRailway1BokGak_P4_D2",
@@ -4258,15 +4258,15 @@
     },
     {
       "id": "TutoRailway1BokGak_P5_T1",
-      "content": "Team Loadout"
+      "content": "Zespół Loadout"
     },
     {
       "id": "TutoRailway1BokGak_P5_D1",
-      "content": "Choose a number of Identities and E.G.O to enter the Railway with."
+      "content": "Choose a number of Identities i E.G.O to enter the Railway with."
     },
     {
       "id": "TutoRailway1BokGak_P5_D2",
-      "content": "At every station, your Team loadout can be changed, and your Sinners' HP will be fully healed. Their SP, however, will carry over from the previous Station."
+      "content": "At every station, your Zespół loadout can be changed, i your Sinners' PŻ will be fully healed. Their SP, however, will carry over from the previous Station."
     },
     {
       "id": "TutoRailway1BokGak_P5_D3",
@@ -4274,7 +4274,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P5_D4",
-      "content": "\nBackup Units receive Starting SP buffs, and Backup Units further back in the Deployment order receive greater Starting SP buffs."
+      "content": "\nJednostki Rezerwowe receive Starting SP buffs, i Jednostki Rezerwowe further back in the Deployment order receive greater Starting SP buffs."
     },
     {
       "id": "TutoRailway1BokGak_P5_D5",
@@ -4290,11 +4290,11 @@
     },
     {
       "id": "TutoRailway1BokGak_P6_D2",
-      "content": "In Chain Battles, when a Deployed unit is defeated, the Backup Units will fill their spot according to the Deployment order."
+      "content": "In Chain Battles, when a Deployed unit is defeated, the Jednostki Rezerwowe will fill their spot according to the Deployment order."
     },
     {
       "id": "TutoRailway1BokGak_P6_D3",
-      "content": "You can enter the Station only when you have selected both your Deployment and Backup units: 5 and 7 units, respectively."
+      "content": "You can enter the Station only when you have selected both your Deployment i Jednostki Rezerwowe: 5 i 7 units, respectively."
     },
     {
       "id": "TutoRailway1BokGak_P7_T1",
@@ -4314,7 +4314,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P8_D1",
-      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+      "content": "When a Deployed unit is defeated, the Jednostki Rezerwowe will fill their spot in the Deployment order."
     },
     {
       "id": "TutoRailway1BokGak_P8_D2",
@@ -4330,7 +4330,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P9_D1",
-      "content": "In Line 1, when an Identity is killed, they release E.G.O resources based on the ranks and Affinities of their Base Attack Skills. And just like in Chain Battles, their deaths will not reduce other allies' SP."
+      "content": "In Line 1, when an Identity is killed, they release Zasoby E.G.O based on the ranks i Affinities of their Base Attack Skills. And just like in Chain Battles, their deaths will not reduce other allies' SP."
     },
     {
       "id": "TutoRailway1BokGak_P10_T1",
@@ -4338,15 +4338,15 @@
     },
     {
       "id": "TutoRailway1BokGak_P10_D1",
-      "content": "After clearing each Station, you can view statistics such as Clear Turns, Total Turns, and participating Identities in the Clear Info menu."
+      "content": "After clearing each Station, you can view statistics such as Clear Turns, Total Turns, i participating Identities in the Clear Info menu."
     },
     {
       "id": "TutoRailway1BokGak_P11_D1",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Station."
+      "content": "The Zasoby E.G.O held after clearing a Station can be carried over to the next Station."
     },
     {
       "id": "TutoRailway1BokGak_P12_D1",
-      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+      "content": "If all of your allies are defeated, you can choose between returning to the Zespół Loadout menu to change your Deployment orders, i immediately retrying the battle."
     },
     {
       "id": "TutoRailway1BokGak_P13_T1",
@@ -4358,7 +4358,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P13_D2",
-      "content": "When you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Stage will be reset."
+      "content": "When you do so, the battle will start with the Sinners’ statuses i Zasoby E.G.O reverted to that point, i any progress you've made since that Stage will be reset."
     },
     {
       "id": "TutoRailway1BokGak_P14_T1",
@@ -4382,7 +4382,159 @@
     },
     {
       "id": "TutoRailway1BokGak_P15_D3",
-      "content": "Afterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+      "content": "Afterward, you may freely access it i claim rewards you’ve earned at no additional cost."
+    },
+    {
+      "id": "TutoUIReplacement_P1_T1",
+      "content": "Zmiana Wyglądu UI"
+    },
+    {
+      "id": "TutoUIReplacement_P1_D1",
+      "content": "Ten przycisk otwiera menu zmiany wyglądu interfejsu."
+    },
+    {
+      "id": "TutoUIReplacement_P2_T1",
+      "content": "Tryby UI"
+    },
+    {
+      "id": "TutoUIReplacement_P2_D1",
+      "content": "Tutaj możesz zmieniać tryb pomiędzy \"Zwykłym\" i \"Ciemnym\"."
+    },
+    {
+      "id": "TutoUIReplacement_P2_T2",
+      "content": "Skiny UI"
+    },
+    {
+      "id": "TutoUIReplacement_P2_D2",
+      "content": "\"Skiny UI\" są funkcją, któa zostanie dodana w przyszłej aktualizacji. Będą w niej dostępne kosmetyczne skiny UI o różnych motywach."
+    },
+    {
+      "id": "TutoUIReplacement_P3_T1",
+      "content": "Wybrany przegląd UI"
+    },
+    {
+      "id": "TutoUIReplacement_P3_D1",
+      "content": "Ten przycisk pozwala ci obejrzeć obecnie wybrany Tryb i/lub Skin UI."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_15_title_01",
+      "content": "Projekcja Fasady"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_15_desc_01",
+      "content": "Tutaj pokazana jest lista Fasad wybranego Grzesznika."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_16_title_01",
+      "content": "Szycie Projekcji"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_16_desc_01",
+      "content": "Ten przycisk pozwala uszyć (stworzyć) zdobyte fasady."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_17_title_01",
+      "content": "Szycie Projekcji"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_17_desc_01",
+      "content": "Fasady można uszyć przy użyciu odłamków Ego i Nici. Użycie Odłamków Ego pasującego Grzesznika oferuje niższy koszt operacji."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_18_title_01",
+      "content": "Projekcja Fasady"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_18_desc_01",
+      "content": "Wszyscy Grzesznicy, na których nałożona jest Projekcja będą oznaczeni ikoną \"Projekcji Fasady\"."
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_19_title_01",
+      "content": "Projekcja Fasady"
+    },
+    {
+      "id": "tutorial_mainui_01_selection_page_19_desc_01",
+      "content": "Tożsamości noszące Fasadę można też ustawić jako Tożsamości Wspierające w menu \"Firmy\"."
+    },
+    {
+      "id": "TutoEvent7512_Title",
+      "content": "LCB Regular Check-up BokGak"
+    },
+    {
+      "id": "TutoEvent7512_P1_T1",
+      "content": "Accessing the Event"
+    },
+    {
+      "id": "TutoEvent7512_P1_D1",
+      "content": "Select the Event banner from either the Window or the Drive menu to enter the [LCB Regular Check-up BokGak Event] menu."
+    },
+    {
+      "id": "TutoEvent7512_P2_T1",
+      "content": "Event Period"
+    },
+    {
+      "id": "TutoEvent7512_P2_D1",
+      "content": "The duration of the LCB Regular Check-up BokGak event is shown here.\n\n\nDuring the event, you can earn [Amassed Data] by clearing Event Stages. You can also earn [Amassed Data] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations i Refraction Railways."
+    },
+    {
+      "id": "TutoEvent7512_P3_T1",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "TutoEvent7512_P3_D1",
+      "content": "LCB Regular Check-up BokGak consists of 12 stages, including story stages, i a single dungeon. Event Encounters also offer batches of [Amassed Data] as a first-time Clear bonus."
+    },
+    {
+      "id": "TutoEvent7512_P4_T1",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "TutoEvent7512_P4_D1",
+      "content": "Having Identities i E.G.O from the LCB Regular Check-up BokGak event on your team increases the amount of [Amassed Data] earned from Stages i Mirror Dungeons."
+    },
+    {
+      "id": "TutoEvent7512_P5_T1",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "TutoEvent7512_P5_D1",
+      "content": "You can redeem various rewards from the [Reward Exchange] based on the number of [Amassed Data] you have."
+    },
+    {
+      "id": "TutoEvent7512_P6_D1",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "TutoEvent7512_P6_D2",
+      "content": "You can acquire the event reward Identity, Announcer, Ticket Deco, Banners, i various currencies from the [Reward Exchange] menu."
+    },
+    {
+      "id": "TutoEvent7512_P7_T1",
+      "content": "Classified Data"
+    },
+    {
+      "id": "TutoEvent7512_P7_D1",
+      "content": "Rarely, you may obtain [Classified Data] from clearing Encounters. [Classified Data] is automatically converted to 20 [Amassed Data] upon acquisition."
+    },
+    {
+      "id": "TutoEvent7512_P8_T1",
+      "content": "Hard Difficulty"
+    },
+    {
+      "id": "TutoEvent7512_P8_D1",
+      "content": "LCB Regular Check-up Hard Difficulty will be unlocked during the Event period. The Hard Difficulty is unlocked upon clearing the Main Story Stage 8-33."
+    },
+    {
+      "id": "TutoEvent7512_P8_D2",
+      "content": "Hard Difficulty rewards more Event currencies than the Normal Difficulty does."
+    },
+    {
+      "id": "TutoEvent7512_P8_D3",
+      "content": "You can earn first-time clear rewards, EX Clear rewards, i Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+    },
+    {
+      "id": "TutoEvent7512_P9_D1",
+      "content": "Even after the event fully ends, you will be able to experience the LCB Regular Check-up combat Encounters i view its story at any time at the Driverside - [Deviazione] i Theater - [Detour Tales]."
     }
   ]
 }

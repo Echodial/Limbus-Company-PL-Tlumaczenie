@@ -2,35 +2,35 @@
   "dataList": [
     {
       "id": "MAINSTORY",
-      "content": "Main Story"
+      "content": "Główna Historia"
     },
     {
       "id": "PERSONALITYSTORY",
-      "content": "Identity Archive"
+      "content": "Archiwum Tożsamości"
     },
     {
       "id": "NOTE_OF_DANTE",
-      "content": "Dante’s Notes"
+      "content": "Notatki Dante"
     },
     {
       "id": "EPISODE",
-      "content": "Ep. {0}"
+      "content": "Odc. {0}"
     },
     {
       "id": "PAGE",
-      "content": "Pg. {0}"
+      "content": "Str. {0}"
     },
     {
       "id": "PROGRESS",
-      "content": "Progress"
+      "content": "Postęp"
     },
     {
       "id": "Before",
-      "content": "Pre-battle"
+      "content": "Przed Walką"
     },
     {
       "id": "After",
-      "content": "Post-battle"
+      "content": "Po Walce"
     },
     {
       "id": "None",
@@ -38,51 +38,51 @@
     },
     {
       "id": "ENTER",
-      "content": "Enter"
+      "content": "Wejdź"
     },
     {
       "id": "CLOSE",
-      "content": "Close"
+      "content": "Zamknij"
     },
     {
       "id": "MIRRORWOLDS",
-      "content": "Mirror Worlds"
+      "content": "Lustrzane Światy"
     },
     {
       "id": "STORY",
-      "content": "Story"
+      "content": "Historia"
     },
     {
       "id": "SECURITY_MATERIAL",
-      "content": "Classified Logs"
+      "content": "Zapiski Zastrzeżone"
     },
     {
       "id": "SPEECH",
-      "content": "Dialogue"
+      "content": "Dialog"
     },
     {
       "id": "OPEN_CONDITION",
-      "content": "To Unlock: "
+      "content": "By Odblokować: "
     },
     {
       "id": "DEEP_ANALYSIS",
-      "content": "In-depth: "
+      "content": "Dogłębna Analiza: "
     },
     {
       "id": "DATA_DOWNLOAD",
-      "content": "Data Download"
+      "content": "Pobieranie Danych"
     },
     {
       "id": "DATA_DOWNLOAD_DESC",
-      "content": "Play sound files for voiced dialogue?\nAdditional data will be downloaded."
+      "content": "Odtworzyć pliki dźwiękowe dla dialogów z głosem?\nZostaną pobrae dodatkowe pliki."
     },
     {
       "id": "DATA_DOWNLOAD_NO",
-      "content": "Unvoiced\n(0.00 MB)"
+      "content": "Bez głosu\n(0.00 MB)"
     },
     {
       "id": "DATA_DOWNLOAD_YES",
-      "content": "Voiced\n({0} MB)"
+      "content": "Z głosem\n({0} MB)"
     },
     {
       "id": "CV_1",
@@ -146,7 +146,7 @@
     },
     {
       "id": "DetailStoryDungeon",
-      "content": "Within Story Dungeon"
+      "content": "Wewnątrz Lochu "
     },
     {
       "id": "NeedsPersonality",
@@ -154,7 +154,7 @@
     },
     {
       "id": "NeedsPersonalityButton",
-      "content": "View Requirements"
+      "content": "Pokaż Wymagania"
     },
     {
       "id": "MainStoryOpenCondition_101",
@@ -174,23 +174,23 @@
     },
     {
       "id": "OTHERSTORY",
-      "content": "Detour Tales"
+      "content": "Historyjki Objazdowe"
     },
     {
       "id": "DanteNote_Record",
-      "content": "Record"
+      "content": "Zapis"
     },
     {
       "id": "DanteNote_Time",
-      "content": "Time"
+      "content": "Czas"
     },
     {
       "id": "DanteNote_Update",
-      "content": "Update"
+      "content": "Aktualizacja"
     },
     {
       "id": "DanteNote_Main",
-      "content": "I’m not sure where to even start.\nI guess it’s only natural, given that I can’t tell how much I forgot to begin with.\nMaybe I’ll start by making notes whenever I run into things I don’t remember."
+      "content": "Nie jestem pewne, gdzie w ogóle zacząć.\nNiby ma sens, parząc na to, że nie wiem nawet ile zapomniałom\nMoże zacznę od robienia notatek jak tylko natknę się na coś, czego nie pamiętam."
     },
     {
       "id": "MINI",
@@ -286,7 +286,7 @@
     },
     {
       "id": "PersoanlityStory_After",
-      "content": "(The After)"
+      "content": "(Po)"
     },
     {
       "id": "OtherStoryOpenCondition_9018",
@@ -314,19 +314,19 @@
     },
     {
       "id": "personality_voice_section_before_clear_chapter_format",
-      "content": "Pre\nCanto {0}"
+      "content": "Przed\nCanto {0}"
     },
     {
       "id": "personality_voice_section_after_clear_chapter_format",
-      "content": "Post\nCanto {0}"
+      "content": "Po\nCanto {0}"
     },
     {
       "id": "OtherStoryOpenCondition_9020",
-      "content": "Clear 8-33"
+      "content": "Przejdź 8-33"
     },
     {
       "id": "Inter",
-      "content": "Battle In Progress"
+      "content": "Walka trwa"
     },
     {
       "id": "ChapterTitleConfig_Arknights",
@@ -334,15 +334,19 @@
     },
     {
       "id": "OtherStoryOpenCondition_9119",
-      "content": "Clear 8.5-1"
+      "content": "Przejdź 8.5-1"
     },
     {
       "id": "OtherStoryOpenCondition_9120",
-      "content": "Clear LC-PC-1"
+      "content": "Przejdź LC-PC-1"
     },
     {
       "id": "MainStoryOpenCondition_109",
-      "content": "Clear 9-1"
+      "content": "Przejdź 9-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9021",
+      "content": "Przejdź 8 Noc Walpurgii (Łatwą)"
     }
   ]
 }

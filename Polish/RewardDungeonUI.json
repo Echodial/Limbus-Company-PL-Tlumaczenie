@@ -2,87 +2,87 @@
   "dataList": [
     {
       "id": "enter_exp_dungeon",
-      "content": "EXP Luxcavation"
+      "content": "Lukskawacja DOŚW"
     },
     {
       "id": "enter_mirror_dungeon",
-      "content": "Mirror Dungeons"
+      "content": "Lustrzany Loch"
     },
     {
       "id": "enter_thread_dungeon",
-      "content": "Thread Luxcavation"
+      "content": "Lukskawacja Nici"
     },
     {
       "id": "enter_count",
-      "content": "Entries"
+      "content": "Wejścia"
     },
     {
       "id": "remain_time",
-      "content": "Time Left"
+      "content": "Pozostały Czas"
     },
     {
       "id": "open_at_day_of_the_week",
-      "content": "Opens {0}"
+      "content": "Otwarte w {0}"
     },
     {
       "id": "recommended_level",
-      "content": "Difficulty"
+      "content": "Poziom Trudności"
     },
     {
       "id": "equal_or_more",
-      "content": "or above"
+      "content": "lub wyższy"
     },
     {
       "id": "valid_attack_type",
-      "content": "Useful Types"
+      "content": "Przydatne Typy Ataku"
     },
     {
       "id": "exp_dungeon_index",
-      "content": "EXP Luxcavation #{0}"
+      "content": "Lukskawacja DOŚW #{0}"
     },
     {
       "id": "Monday",
-      "content": "MON"
+      "content": "PON"
     },
     {
       "id": "Tuesday",
-      "content": "TUE"
+      "content": "WT"
     },
     {
       "id": "Wednesday",
-      "content": "WED"
+      "content": "ŚR"
     },
     {
       "id": "Thursday",
-      "content": "THU"
+      "content": "CZW"
     },
     {
       "id": "Friday",
-      "content": "FRI"
+      "content": "PT"
     },
     {
       "id": "Saturday",
-      "content": "SAT"
+      "content": "SB"
     },
     {
       "id": "Sunday",
-      "content": "SUN"
+      "content": "ND"
     },
     {
       "id": "select_level",
-      "content": "Level Select"
+      "content": "Wybór Poziomu"
     },
     {
       "id": "require_clear_story_stage",
-      "content": "Clear Main Story {0}-{1}"
+      "content": "Przejdź Poziom {0}-{1}"
     },
     {
       "id": "daily_bonus_count",
-      "content": "Daily Bonuses"
+      "content": "Codzienne Bonusy"
     },
     {
       "id": "reward_dungeon_exp",
-      "content": "EXP"
+      "content": "DOŚW"
     },
     {
       "id": "reward_dungeon_thread",

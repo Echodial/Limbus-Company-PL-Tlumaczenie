@@ -2,18 +2,18 @@
   "dataList": [
     {
       "id": 90101,
-      "desc": "- Targeting for all Skills will be reset.\n- Effects activated at Turn Start will not be updated.",
-      "rawDesc": "Halve the Speed of all enemies."
+      "desc": "- Cele wszystkich Zdolności zostaną Zresetowane.\n- Efekty aktywujące się na pocątku tury nie zostaną ukatualnione.",
+      "rawDesc": "Zmniejsza prędkość wszystkich przeciwników o połowę."
     },
     {
       "id": 80101,
-      "desc": "- Resets any slotted E.G.O Skills for all characters, and targeting for all Skills will be reset.",
-      "rawDesc": "Slot in a single E.G.O Skill without consuming any E.G.O resources."
+      "desc": "- Wszystkie wybrane Zdolności E.G.O zostaną anulowane, a cele wszystkich Zdolności zostaną Zresetowane.",
+      "rawDesc": "Pozwala użyć jednej Zdolności E.G.O bez zużywania zasobów E.G.O."
     },
     {
       "id": 70101,
-      "desc": "- For 3 turns, set all units' Offense and Defense Levels to the average of all units' values.",
-      "rawDesc": "Set all units' Offense and Defense Levels to the average of all units' values."
+      "desc": "- Przez 2 tury, poziomy Ataku i Obrony wszystkich jednostek będą uśrednione.",
+      "rawDesc": "Ustawia poziomy Ataku i Obrony wszystkich jednostek na średnią wartość każdego z uczestników."
     }
   ]
 }
