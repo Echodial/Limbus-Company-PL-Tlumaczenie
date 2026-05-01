@@ -392,28 +392,95 @@
 	{
       "id": "9SV-BAT8-BR4-1",
       "desc": "####### Thumb Nursefather Valencina #############",
-      "dlg": "Spierdalaj!"
+      "dlg": "Wypierdalaj!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-01",
       "desc": "",
-      "dlg": "Spierdalaj!"
+      "dlg": "Wypierdalaj!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-02",
       "desc": "",
-      "dlg": "Spierdalaj!"
+      "dlg": "Wypierdalaj!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-03",
       "desc": "",
-      "dlg": "Spierdalaj!"
+      "dlg": "Wypierdalaj!"
     },
 	{
       "id": "9SV-BAT8-BR4-1-04",
       "desc": "",
-      "dlg": "Spierdalaj!"
+      "dlg": "Wypierdalaj!"
     },
+	  {	
+    "id": "7SV-022",
+    "desc": "##### Ricardo Bokgak ####",
+    "dlg": "Koniec gierek."
+  },
+  {	
+    "id": "7SV-023-1",
+    "desc": "",
+    "dlg": "Koniec..."
+  },
+  {	
+    "id": "7SV-023-2",
+    "desc": "",
+    "dlg": "... testów!"
+  },
+  {	
+    "id": "7SV-024-2",
+    "desc": "",
+    "dlg": "Przynoszę wam wasze..."
+  },
+  {	  
+    "id": "7SV-024-3",
+    "desc": "",
+    "dlg": "... obiecane cierpienie!!"
+  },
+  {	
+    "id": "7SV-025",
+    "desc": "",
+    "dlg": "Zostawcie tyły mnie."
+  },
+  {	
+    "id": "7SV-025-01",
+    "desc": "",
+    "dlg": "Zostawcie tyły... mnie."
+  },
+
+  {	
+    "id": "7SV-026",
+    "desc": "####### Werner Bokgak #####",
+    "dlg": "Przepraszam... Starszy Bracie..!"
+  },
+
+  {	
+    "id": "7SV-028_3",
+    "desc": "",
+    "dlg": "Zgniotę was!"
+  },
+  {	
+    "id": "7SV-029_1",
+    "desc": "",
+    "dlg": "Zemsta...!"
+  },
+  {	
+    "id": "7SV-029_2",
+    "desc": "",
+    "dlg": "... czeka...!"
+  },
+  {	
+    "id": "7SV-029_3",
+    "desc": "",
+    "dlg": "... was wszystkich!!"
+  },
+  {	
+    "id": "7SV-030",
+    "desc": "",
+    "dlg": "... Zemsta..."
+  },
     {
       "desc": "#################################### Polskie Tłumaczenie Limbusa (Podstawka kodu i nieprzetłumaczonych linijek zrobiona przez LIMBUS COMPANY SPEECH BUBBLE FAN TRANSLATION)!!!!!!!! #########################################################"
     },
@@ -8328,6 +8395,235 @@
       "id": "battle_special_10614_7",
       "desc": "",
       "dlg": "Skoro jesteś już na swoim miejscu… Proszę, obserwuj uważnie resztę wystawy…!"
+    },
+
+    {
+      "id": "battle_select_10515_1",
+      "desc": "####### The Ring Fauvist Student Meursault #######",
+      "dlg": "Ciągnięcie ogara za smycz, gdy jego ofiara jest tuż przed nim jest—!"
+    },
+    {
+      "id": "battle_endcommand_10515_1",
+      "desc": "",
+      "dlg": "C'est Sauvage!"
+    },
+    {
+      "id": "battle_enemy_break_10515_1",
+      "desc": "",
+      "dlg": "Gdy już opanuje pracę nad psim materiałem,"
+    },
+    {
+      "id": "battle_break_10515_1",
+      "desc": "",
+      "dlg": "Ngh, ale co z zadaniem—"
+    },
+    {
+      "id": "battle_kill_10515_1",
+      "desc": "",
+      "dlg": "chiałbym popracować nad tobą w ramach następnego projektu."
+    },
+    {
+      "id": "battle_dead_10515_1",
+      "desc": "",
+      "dlg": "The fetor of death... was myself as the artwork... all along."
+    },
+    {
+      "id": "battle_s3_10515_1_2",
+      "desc": "",
+      "dlg": "Wchodząc głębiej w naturę dzikości..."
+    },
+    {
+      "id": "battle_special_10515_1",
+      "desc": "",
+      "dlg": "... z akcentem zwierzęcej intensywności."
+    },  
+    {
+      "id": "battle_special_10515_2",
+      "desc": "",
+      "dlg": "!!!... Haaaah..."
+    },
+    {
+      "id": "battle_special_10515_3",
+      "desc": "",
+      "dlg": "Hmm. Blizny po pazurach...\n nawet ci pasują."
+    },
+    {
+      "id": "battle_special_10515_4",
+      "desc": "",
+      "dlg": "Dziękuje ci za inspirację."
+    },
+    
+    
+    {
+        "id": "battle_select_10915_1",
+        "desc": "####### The Ring Fauvist Docent Rodion #######",
+        "dlg": "Ostrożnie. Rozbierasz moje arcydzieło wzrokiem."
+    },
+    {
+        "id": "battle_endcommand_10915_1",
+        "desc": "",
+        "dlg": "Paleta nieziemskich kolorów."
+    },
+    {
+        "id": "battle_enemy_break_10915_1",
+        "desc": "",
+        "dlg": "Coś nie tak? Czyżby moje pazury utknęły ci pod skórą?"
+    },
+    {
+        "id": "battle_break_10915_1",
+        "desc": "",
+        "dlg": "Hmm. Ten materiał ma ostrzejsze kły niż myślałam."
+    },
+    {
+        "id": "battle_kill_10915_1",
+        "desc": "",
+        "dlg": "Adieu."
+    },
+    {
+        "id": "battle_dead_10915_1",
+        "desc": "",
+        "dlg": "Hah... Nie planowałam... tak wcześnie... dawać mojej sztuce pośmiertną nadwyżkę."
+    },
+    {
+      "id": "battle_s3_10915_1_1",
+      "desc": "",
+      "dlg": "Niedokończoną sztukę..."
+    },
+    {
+      "id": "battle_s3_10915_1_5",
+      "desc": "",
+      "dlg": "... można poprawić tylko biorąc z niej kęsa!"
+    },
+    {
+      "id": "battle_special_10915_1_1",
+      "desc": "",
+      "dlg": "Ułożenie. Nerwów!"
+    },
+    {
+      "id": "battle_special_10915_1_2",
+      "desc": "",
+      "dlg": "<i>Ahahahahahaha!</i>"
+    },
+    {
+      "id": "battle_special_10915_1_3",
+      "desc": "",
+      "dlg": "Z zawzięciem!"
+    },
+    {
+      "id": "battle_special_10915_2_1",
+      "desc": "",
+      "dlg": "Czy powinnam rzucić okiem?"
+    },
+    {
+      "id": "battle_special_10915_2_2",
+      "desc": "",
+      "dlg": "Intensywność pozostawia trochę do życzenia...?"
+    },
+    {
+      "id": "battle_special_10915_2_3",
+      "desc": "",
+      "dlg": "Nieźle, nieźle..."
+    },
+    {
+      "id": "battle_special_10915_3",
+      "desc": "",
+      "dlg": "Moja najcenniejsza robótka...\nPokażę ją specjalnie dla ciebię!"
+    },
+    {
+      "id": "battle_special_10915_4",
+      "desc": "",
+      "dlg": "Impasto."
+    },
+    {
+      "id": "battle_special_10915_5",
+      "desc": "",
+      "dlg": "Okej~ To wszystko co chciałam powiedzieć."
+    },
+
+    {
+      "id": "battle_select_10715_1",
+      "desc": "############ Ricardo The Middle Big Brother Heathcliff ##############",
+      "dlg": "Hmm... I jak? Teraz wyglądają mięciutko, co nie?"
+    },
+    {
+      "id": "battle_endcommand_10715_1",
+      "desc": "",
+      "dlg": "Z drogi śledzie, Starszy Brat jedzie!"
+    },
+    {
+      "id": "battle_enemy_break_10715_1",
+      "desc": "",
+      "dlg": "Nieprzytomny, co? Dobra—tą linijkę można już skreślić."
+    },
+    {
+      "id": "battle_break_10715_1",
+      "desc": "",
+      "dlg": "Tch... *pluje*"
+    },
+    {
+      "id": "battle_kill_10715_1",
+      "desc": "",
+      "dlg": "Ej, na nogi! Nie mów mi, że nie masz w sobię jeszcze 11 śmierci!"
+    },
+    {
+      "id": "battle_dead_10715_1",
+      "desc": "",
+      "dlg": "Gah... nawet jak tu padne... to zemsta Wielkiego Brata was dopadnie...!"
+    },
+    {
+      "id": "battle_s3_10715_1_5",
+      "desc": "",
+      "dlg": "Przynosze wam wasze obiecane cierpienie!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-01",
+      "desc": "",
+      "dlg": "Przynosze wam wasze obiecane cierpienie!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-02",
+      "desc": "",
+      "dlg": "Przynosze wam wasze obiecane cierpienie!"
+    },
+    {
+      "id": "battle_special_10715_1_1",
+      "desc": "",
+      "dlg": "Koniec gierek."
+    },
+    {
+      "id": "battle_special_10715_1_2",
+      "desc": "",
+      "dlg": "Dalej, podkręćcie muze na maksa!"
+    },
+    {
+      "id": "battle_special_10715_2_1",
+      "desc": "",
+      "dlg": "Complete and total..."
+    },
+    {
+      "id": "battle_special_10715_2_2",
+      "desc": "",
+      "dlg": "Extermination!"
+    },
+    {
+      "id": "battle_special_10715_3_1",
+      "desc": "",
+      "dlg": "Tch. you little half-pint..."
+    },
+    {
+      "id": "battle_special_10715_3_2",
+      "desc": "",
+      "dlg": "Get the hell outta my sight!"
+    },
+    {
+      "id": "battle_special_10715_3_3",
+      "desc": "",
+      "dlg": "Stop me if you can!"
+    },
+    {
+      "id": "battle_special_10715_4",
+      "desc": "",
+      "dlg": "The punishment for all involved parties and bystanders at the site of your crimes... shall be complete and total extermination."
     }
   ]
 }
