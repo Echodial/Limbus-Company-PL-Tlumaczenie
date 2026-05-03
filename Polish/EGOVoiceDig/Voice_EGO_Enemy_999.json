@@ -3,62 +3,62 @@
     {
       "id": "battle_8099_s4_1-02",
       "desc": "Skill Activation",
-      "dlg": "Enough games."
+      "dlg": "Koniec gierek."
     },
     {
       "id": "battle_8099_s2_2-01",
       "desc": "Skill Activation",
-      "dlg": "Complete and total..."
+      "dlg": "Kompletna i absolutna..."
     },
     {
       "id": "battle_8099_s2_2-02",
       "desc": "Skill Activation",
-      "dlg": "Extermination!"
+      "dlg": "Eksterminacja!"
     },
     {
       "id": "battle_ak_8105_1-02",
       "desc": "Skill Activation",
-      "dlg": "I am the Captain of this Lake... of the City...\nI shall seize this beast's heart and sever the evil from its roots!"
+      "dlg": "Ja jestem Kapitanem tego Jeziora... tego Miasta...\nI to ja zatrzymam serce tej bestii oraz wyrwę całe zło tego świata z korzeniami!"
     },
     {
       "id": "battle_selection1_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Yes... Break my heart open and impale my skull, Ishmael!"
+      "dlg": "Tak jest Ishmael... Zgnieć moje serce oraz przebij moją czaszkę!"
     },
     {
       "id": "battle_selection2_8105_1",
       "desc": "Skill Activation",
-      "dlg": "Once an Ahab... shall be Ahab evermore...!"
+      "dlg": "Kto raz był Ahabem... Ahabem na zawsze pozostanie...!"
     },
     {
       "id": "battle_sacrifice_8106_1",
       "desc": "Phase Start",
-      "dlg": "Now, carve yourself in my stead!"
+      "dlg": "Rozkazuję wam, krójcie się dla mnię!"
     },
     {
       "id": "battle_sacrifice_8106_2",
       "desc": "Phase Start",
-      "dlg": "The time is finally upon us, my dear crew!"
+      "dlg": "Nadeszła w końcu ta chwila, moja droga załogo!"
     },
     {
       "id": "battle_order_attack_8106",
       "desc": "Assist Attack",
-      "dlg": "Cover me!"
+      "dlg": "Chrońcie mnie!"
     },
     {
       "id": "battle_order_defence_8106",
       "desc": "Assist Defense",
-      "dlg": "Defend me now!"
+      "dlg": "Brońcie mnie!"
     },
     {
       "id": "battle_entry_10001_1",
       "desc": "Skill Activation",
-      "dlg": "When you lose sight of your path,\nwhen you no longer know which road to take..."
+      "dlg": "Gdy tracisz z oczu ścieżkę i\nnie wiesz w którą stronę masz iść..."
     },
     {
       "id": "battle_entry_10001_2",
       "desc": "Skill Activation",
-      "dlg": "The guide shall show you the way,"
+      "dlg": "Przewodnik pokażę ci drogę,"
     },
     {
       "id": "battle_entry_10001_3",
@@ -68,7 +68,7 @@
     {
       "id": "battle_8173_phaseclear_2",
       "desc": "",
-      "dlg": "How revolting."
+      "dlg": "How revolting."w
     },
     {
       "id": "battle_8173_phaseclear_3",
@@ -128,52 +128,52 @@
     {
       "id": "7SV-016",
       "desc": "",
-      "dlg": "You can stop galloping onward, now."
+      "dlg": "Możesz już przestać galopować."
     },
     {
       "id": "7SV-017",
       "desc": "",
-      "dlg": "What adventure could you possibly embark on, with such frail souls?"
+      "dlg": "Powiedzcie mi, na jaką podróż wy chcecie wyruszyć z tak wątłymi duszami?"
     },
     {
       "id": "S703V-1312",
       "desc": "",
-      "dlg": "My name... is Quixote!"
+      "dlg": "Moje imię... to Quixote!"
     },
     {
       "id": "S703V-1313",
       "desc": "",
-      "dlg": "I, Don Quixote, declare upon my honor: this lance shall end that hollow, juvenile dream!"
+      "dlg": "Ja, Don Quixote, oświadczam na mój honor: ta lanca zakończy twój pusty, dziecięcy sen!"
     },
     {
       "id": "S703V-1314",
       "desc": "",
-      "dlg": "My name is Sancho!"
+      "dlg": "Moję imię to Sancho!"
     },
     {
       "id": "S703V-1314-1",
       "desc": "",
-      "dlg": "And I, Sancho, declare upon my honor: this lance shall end that festering, slothful dream!"
+      "dlg": "I ja, Sancho, oświadczam na mój honor: ta lanca zakończy twój przekwitnięty, leniwy sen!"
     },
     {
       "id": "7SV-104-01",
       "desc": "",
-      "dlg": "No matter how impossible it may be..."
+      "dlg": "Nie ważne, jak bardzo niemożliwy się wydaje..."
     },
     {
       "id": "7SV-104-02",
       "desc": "",
-      "dlg": "Until I reach that dream..."
+      "dlg": "Aż stanie stanie się on rzeczywistością..."
     },
     {
       "id": "7SV-104-03",
       "desc": "",
-      "dlg": "I'll keep pushing to the—"
+      "dlg": "Będe pchać aż do samego—"
     },
     {
       "id": "7SV-104-04",
       "desc": "",
-      "dlg": "Nay... I shall gallop ever-onward, unbroken, unrelenting to the end!!"
+      "dlg": "Nie... Będe galopować w przód, niezłamana oraz nieustępliwa aż do samego końca!!"
     }
   ]
 }
