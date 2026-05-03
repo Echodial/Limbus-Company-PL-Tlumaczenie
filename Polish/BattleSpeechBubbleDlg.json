@@ -63,32 +63,32 @@
     {
       "id": "battle_react_10310_12",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as Cóż, I suppose..."
+      "dlg": "Śmiesz podnosić swoje ostrze na wyższego krewnego?\nCzeka cię kara za parcie na przeciw prądowi krwi. \n... Tak samo jak i mnie..."
     },
     {
       "id": "battle_react_10310_13",
       "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "Those wounds... the Priest of this world\nmust be just as haunted by guilt."
+      "dlg": "Te rany... Księdza tego świata również\nmusiała dręczyć wina."
     },
     {
       "id": "battle_1137_FirstKill",
       "desc": "말풍선 특수 대사_가치우_첫킬",
-      "dlg": "I expect you to fight to your deaths in this\ncrucial struggle, reversible as they may be."
+      "dlg": "Oczekuję, że będziecie walczyć do swojego ostatniego tchu\nw tym decydującym starciu, nawet jeśli może on być wam przywrócony."
     },
     {
       "id": "8SV-015",
       "desc": "가치우사용 시 대사 ",
-      "dlg": "Odgrzeb to."
+      "dlg": "Odgrzeb je."
     },
     {
       "id": "8SV-016",
       "desc": "가치우홍루 강제 타겟팅 1",
-      "dlg": "It must lie there still, shrouded it may be."
+      "dlg": "Muszą ciągle tam być, nie ważne jak głęboko."
     },
     {
       "id": "8SV-017",
       "desc": "가치우홍루 강제 타겟팅 2",
-      "dlg": "Czy to ciągle ma być zagrzebane?"
+      "dlg": "Czy ciągle chcesz, aby były zagrzebane?"
     },
     {
       "id": "8SV-018",
@@ -98,22 +98,22 @@
     {
       "id": "8SV-019",
       "desc": "가치우홍루 강제 타겟팅 합 승리",
-      "dlg": "The mass of pain within your heart... is difficult to untangle."
+      "dlg": "Supeł bólu tkwiący w twoim sercu... nie jest łatwy do rozplątania."
     },
     {
       "id": "8SV-020",
       "desc": "가치우광역기 사용시",
-      "dlg": "Is it your companions who hold your tongue?\nThen... perhaps they must be shaken afore\nyou are to speak your truth."
+      "dlg": "Czy obecność twoich towarzyszy sprawia, że ciągle dusisz w sobie swoje zdanie?\nW takim razie... może muszę zostać wstrząśnięci\nzanim w końcu powiesz, co naprawdę myślisz."
     },
     {
       "id": "8SV-021",
       "desc": "가치우광역기  합 패배 후 다음턴",
-      "dlg": "Do not fear the futility. There will be time for that once you have spoken your mind."
+      "dlg": "Nie lękaj się daremności. Przyjdzie jeszcze na to pora po tym, jak powiesz co naprawdę myślisz."
     },
     {
       "id": "8SV-022",
       "desc": "가치우대상 처치시",
-      "dlg": "Odpocznij... aż zegar znów się cofnie."
+      "dlg": "A teraz spocznij... aż zegar znów się cofnie."
     },
     {
       "id": "8SV-023",
@@ -208,7 +208,7 @@
     {
       "id": "8SV-042",
       "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
-      "dlg": "... Fiu. That worked."
+      "dlg": "... Fiu. Zadziałało."
     },
     {
       "id": "8SV-051",
@@ -353,12 +353,12 @@
     {
       "id": "9SV-BAT7-00-01",
       "desc": "",
-      "dlg": "Demonstration complete."
+      "dlg": "Demonstracja zakończona."
     },
 	{
       "id": "9SV-BAT7-00",
       "desc": "1Might actually be this ID",
-      "dlg": "Demonstration complete."
+      "dlg": "Demonstracja zakończona."
     },
 	{
       "id": "9SV-BAT7-00-02",
@@ -8593,37 +8593,37 @@
     {
       "id": "battle_special_10715_1_2",
       "desc": "",
-      "dlg": "Dalej, podkręćcie muze na maksa!"
+      "dlg": "Dalej, podkręćcie muzę na maksa!"
     },
     {
       "id": "battle_special_10715_2_1",
       "desc": "",
-      "dlg": "Complete and total..."
+      "dlg": "Kompletna i absolutna..."
     },
     {
       "id": "battle_special_10715_2_2",
       "desc": "",
-      "dlg": "Extermination!"
+      "dlg": "Eksterminacja!"
     },
     {
       "id": "battle_special_10715_3_1",
       "desc": "",
-      "dlg": "Tch. you little half-pint..."
+      "dlg": "Tch. Ty kurduplu..."
     },
     {
       "id": "battle_special_10715_3_2",
       "desc": "",
-      "dlg": "Get the hell outta my sight!"
+      "dlg": "Zejdź mi... z oczu!"
     },
     {
       "id": "battle_special_10715_3_3",
       "desc": "",
-      "dlg": "Stop me if you can!"
+      "dlg": "Tylko spróbujcie mnie zatrzymać!"
     },
     {
       "id": "battle_special_10715_4",
       "desc": "",
-      "dlg": "The punishment for all involved parties and bystanders at the site of your crimes... shall be complete and total extermination."
+	      "dlg": "Karą dla wszystkich powiązanych stron oraz świadków zbrodni... będzie kompletna i absolutna eksterminacja."
     }
   ]
 }
