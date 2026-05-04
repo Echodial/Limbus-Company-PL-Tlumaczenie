@@ -8462,7 +8462,7 @@
     {
         "id": "battle_endcommand_10915_1",
         "desc": "",
-        "dlg": "Paleta nieziemskich kolorów."
+        "dlg": "Zademonstruje wam paletę kolorów nie z tego świata."
     },
     {
         "id": "battle_enemy_break_10915_1",
@@ -8487,7 +8487,7 @@
     {
       "id": "battle_s3_10915_1_1",
       "desc": "",
-      "dlg": "Niedokończoną sztukę..."
+      "dlg": "Niedopieszczoną sztukę..."
     },
     {
       "id": "battle_s3_10915_1_5",
@@ -8537,7 +8537,7 @@
     {
       "id": "battle_special_10915_5",
       "desc": "",
-      "dlg": "Okej~ To wszystko co chciałam powiedzieć."
+      "dlg": "Okej~ To wszystko co miałam do powiedzenia ."
     },
 
     {
@@ -8563,12 +8563,12 @@
     {
       "id": "battle_kill_10715_1",
       "desc": "",
-      "dlg": "Ej, na nogi! Nie mów mi, że nie masz w sobię jeszcze 11 śmierci!"
+      "dlg": "Co jest... na nogi! Nie mów mi, że nie masz w sobię jeszcze 11 śmierci!"
     },
     {
       "id": "battle_dead_10715_1",
       "desc": "",
-      "dlg": "Gah... nawet jak tu padne... to zemsta Wielkiego Brata was dopadnie...!"
+      "dlg": "Gah... nawet jeśli tu padne... zemsta Wielkiego Brata was dopadnie...!"
     },
     {
       "id": "battle_s3_10715_1_5",
