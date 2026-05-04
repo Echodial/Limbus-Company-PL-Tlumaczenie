@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "danteAbility_UIPopup_Title",
-      "content": "Select Sapling of Light Ability"
+      "content": "Wybierz Zdolność Sadzonki Światła"
     },
     {
       "id": "danteAbility_UIPopup_Remain",
-      "content": "Remaining Activations"
+      "content": "Pozostałe Aktywacje"
     },
     {
       "id": "dnateAbiltiy_Unlock_GoldenBranch_Resonance",
-      "content": "Golden Bough Resonance"
+      "content": "Rezonans Złotych Gałązek"
     },
     {
       "id": "tutorial_battle_danteAbility_title",
-      "content": "Sapling of Light Ability"
+      "content": "Zdolność Sadzonki Światła"
     },
     {
       "id": "tutorial_battle_danteAbility_01_desc_01",
-      "content": "Select the Sapling of Light ability button on the top right."
+      "content": "Wybierz przycisk Zdolności Sadzonki Światła w prawym górnym rogu."
     },
     {
       "id": "tutorial_battle_danteAbility_02_desc_01",
-      "content": "Select the ability to use."
+      "content": "Wybierz, którą Zdolność chcesz użyć."
     },
     {
       "id": "tutorial_battle_danteAbility_03_desc_01",
-      "content": "Press the confirmation button to activate the Sapling of Light ability.\nSapling of Light can be used as long as there are remaining Activations.\nRemaining Activations are reset every day."
+      "content": "Przycisk zatwierdzenia aktywuje Zdolność Sadzonki Światła.\nSadzonka Światła może być używana tak długo, jak długo masz pozostałe aktywacje.\nPozostałe aktywacje resetują się każdego dnia."
     },
     {
       "id": "ui_activated",
-      "content": "Activate"
+      "content": "Aktywuj"
     },
     {
       "id": "IsUnavailableDanteAbility_TitleText",
-      "content": "Cannot use this Sapling of Light ability."
+      "content": "Nie można użyć tej Zdolności."
     },
     {
       "id": "IsUnavailableDanteAbility_DescText_IsActivatedAbility",
-      "content": "Already used this Sapling of Light ability today."
+      "content": "Ta Zdolność została już dzisiaj zużyta."
     },
     {
       "id": "IsUnavailableDanteAbility_DescText_RemainingCountIsZero",
-      "content": "No remaining activations for today."
+      "content": "Dzisiejsze aktywacje zostały wyczerpane."
     }
   ]
 }
