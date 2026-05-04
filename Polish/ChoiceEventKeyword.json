@@ -10,11 +10,11 @@
     },
     {
       "id": "IncludeSkillAttribute",
-      "content": "którzy posiadają Zdolności Atakujące od [ATTRIBUTES]"
+      "content": "który posiada Zdolności Atakujące od [ATTRIBUTES]"
     },
     {
       "id": "NotIncludeSkillAttribute",
-      "content": "którzy nie posiadają Zdolności Atakujących od [ATTRIBUTES]"
+      "content": "który nie posiada Zdolności Atakujących od [ATTRIBUTES]"
     },
     {
       "id": "NextBattle",
