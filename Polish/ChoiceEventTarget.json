@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Ally",
-      "content": "Sojusznicy"
+      "content": "Każdy Sojuzsznik"
     },
     {
       "id": "RandomAlly",
@@ -10,11 +10,11 @@
     },
     {
       "id": "EveryAlly",
-      "content": "Wszyscy Sojusznicy"
+      "content": "Każdy Sojuzsznik"
     },
     {
       "id": "EveryEnemy",
-      "content": "Wszyscy Przeciwnicy"
+      "content": "Każdy Przeciwnik"
     },
     {
       "id": "ChosenPersonality",
@@ -22,19 +22,19 @@
     },
     {
       "id": "HighestHpAlly",
-      "content": "Sojusznicy z najwyższym HP"
+      "content": "Sojusznik z najwyższym HP"
     },
     {
       "id": "LowestHpAlly",
-      "content": "Sojusznicy z najniższym HP"
+      "content": "Sojusznik z najniższym HP"
     },
     {
       "id": "HighestMpAlly",
-      "content": "Sojusznicy z najwyższym SP"
+      "content": "Sojusznik z najwyższym SP"
     },
     {
       "id": "LowestMpAlly",
-      "content": "Sojusznicy z najniższym SP"
+      "content": "Sojusznik z najniższym SP"
     },
     {
       "id": "NotFullHpAlly",
@@ -42,15 +42,15 @@
     },
     {
       "id": "NotAffectedAlly",
-      "content": "Sojusznicy nietknięci przez poprzedni efekt"
+      "content": "Każdy Sojuzsznik nietknięty przez poprzedni efekt"
     },
     {
       "id": "LowestHpRatioAlly",
-      "content": "Sojusznicy z najniższym %HP"
+      "content": "Sojusznik z najniższym %HP"
     },
     {
       "id": "Every",
-      "content": "Wszyscy"
+      "content": "Każdy"
     }
   ]
 }
