@@ -50,43 +50,43 @@
     },
     {
       "id": "RecoverHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount} PŻ.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>leczy się o</color> <color=#00ff9c>{amount} PŻ.</color>"
     },
     {
       "id": "RecoverMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>leczy się o</color> <color=#80c9ff>{amount} SP.</color>"
     },
     {
       "id": "RecoverHpOnlyUntilMax",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały przywrócone do</color> <color=#00ff9c>Pełnego PŻ.</color>"
+      "content": "<color=#ebcaa2>PŻ</color ><color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały przywrócone do</color> <color=#00ff9c>Pełnej Wartości.</color>"
     },
     {
       "id": "RecoverMpOnlyUntilMax",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostały przywrócone do</color> <color=#80c9ff>Pełnego SP.</color>"
+      "content": "<color=#ebcaa2>SP</color> <color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostało przywrócone do</color> <color=#80c9ff>Pełnej Wartości.</color>"
     },
     {
       "id": "LoseHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymały</color> <color=#e30000>{amount} Obrażeń PŻ!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymuje</color> <color=#e30000>{amount} Obrażeń PŻ!</color>"
     },
     {
       "id": "LoseMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>straciły</color> <color=#fe4b48>{amount} SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>traci</color> <color=#fe4b48>{amount} SP!</color>"
     },
     {
       "id": "RecoverHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>leczy się o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>SP.</color>"
     },
     {
       "id": "RecoverHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>leczy się o</color> <color=#00ff9c>{amount} PŻ</color> i <color=#80c9ff>{amount} SP.</color>"
     },
     {
       "id": "LoseHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymały</color> <color=#e30000>{amount} Obrażeń PŻ</color> i <color=#fe4b48> SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymuje</color> <color=#e30000>{amount} Obrażeń PŻ</color> i <color=#fe4b48> SP!</color>"
     },
     {
       "id": "LoseHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymały</color> <color=#e30000>{amount} Obrażeń PŻ</color> i <color=#fe4b48>{amount} Obrażeń SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>otrzymuje</color> <color=#e30000>{amount} Obrażeń PŻ</color> i <color=#fe4b48>{amount} Obrażeń SP!</color>"
     },
     {
       "id": "GetConfirmedEgogift",
@@ -102,7 +102,7 @@
     },
     {
       "id": "ReduceEnemyWave",
-      "content": "<color=#ebcaa2>Liczba fal przeciwników została zmniejszona o {waveNum} w następnej Potyczce.</color>"
+      "content": "<color=#ebcaa2>Liczba fal następnej Potyczki przeciwników została zmniejszona o {waveNum}.</color>"
     },
     {
       "id": "DestroyEgogift",
@@ -122,7 +122,7 @@
     },
     {
       "id": "Choice_901009",
-      "content": "<color=#e30000>-1 Ostatecznej Mocy Zdolności</color> <color=#ebcaa2>at na początku fazy walki.</color>"
+      "content": "<color=#e30000>-1 Ostatecznej Mocy Zdolności</color> <color=#ebcaa2> na początku fazy walki.</color>"
     },
     {
       "id": "Choice_901010",
@@ -458,11 +458,11 @@
     },
     {
       "id": "ReviveOutOfBattleAndRecoverHpAll",
-      "content": "Wskrześ martwych Grzeszników i <color=#ebcaa2>ulecz</color> żywych Grzeszników do <color=#00ff9c>to max PŻ</color>"
+      "content": "Wskrześ martwych Grzeszników i <color=#ebcaa2>ulecz</color> żywych Grzeszników do <color=#00ff9c>maks PŻ</color>"
     },
     {
       "id": "RecoverRatioHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>zostali uleczeni o</color> <color=#00ff9c>{amount}% of max PŻ.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>leczy się o</color> <color=#00ff9c>{amount}% swojego maks PŻ.</color>"
     }
   ]
 }
