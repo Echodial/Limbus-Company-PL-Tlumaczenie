@@ -33,7 +33,7 @@
     {
       "id": 6,
       "model": "로쟈",
-      "content": "H-Hej, nie możesz mi trochę odpuścić? No plose?"
+      "content": "H-Hej, nie możesz mi trochę odpuścić? Pliz?"
     },
     {
       "id": 7,
@@ -76,15 +76,15 @@
     },
     {
       "id": 15,
-      "content": "Nad nami widzę zachmurzone niebo."
+      "content": "Nad nami rozpościera się zachmurzone niebo."
     },
     {
       "id": 16,
-      "content": "Ze wszystkich stron dochodzą krzyki i jęki.."
+      "content": "Dochodzące ze wszystkich stron krzyki i jęki splatają się w okropną kakofonię.."
     },
     {
       "id": 17,
-      "content": "I z tego nieba, strzały z broni i artyleria tworzą okropną kakofonię."
+      "content": "Rozdzierające uszy wybuchy artylerii i okrzyki wojenne wypełniają powietrze."
     },
     {
       "id": 18,
@@ -93,7 +93,7 @@
     },
     {
       "id": 19,
-      "place": "Midst of the Smoke War",
+      "place": "Środek Wojny Smogowej",
       "model": "오티스",
       "content": "Na polu bitwy… W samym jego środku."
     },
@@ -105,7 +105,7 @@
     {
       "id": 21,
       "model": "히스클리프",
-      "content": "Co my do cholery jasnej robimy na wojnie?! To jakaś pułapka czy coś?"
+      "content": "Co my do cholery jasnej robimy na wojnie?! Aktywowaliśmy jakaś pułapkę czy coś?"
     },
     {
       "id": 22,
@@ -158,12 +158,12 @@
     {
       "id": 32,
       "model": "오티스",
-      "content": "Sądząc po jaskrawych kolorach uczestniczących grup…"
+      "content": "Sądząc po jaskrawych kolorach flag uczestniczących grup…"
     },
     {
       "id": 33,
       "model": "오티스",
-      "content": "Powiedziałabym, że jesteśmy na conajmniej 70 dniu Wojny Smogowej…"
+      "content": "Powiedziałabym, że jesteśmy w conajmniej 70 dniu Wojny Smogowej…"
     },
     {
       "id": 34,
@@ -172,7 +172,7 @@
     },
     {
       "id": 35,
-      "content": "Nagle, ktoś pociągnął za koszulę Hethcliffa."
+      "content": "Nagle, ktoś podszedł do nas od tyłu i pociągnął za koszulę Hethcliffa."
     },
     {
       "id": 36,
@@ -199,7 +199,7 @@
     },
     {
       "id": 40,
-      "content": "Gdy tylko zabandarzowany mężczyzna obaczył Gregora, stanął na baczność i mu salutował."
+      "content": "Gdy tylko zabandarzowany mężczyzna zobaczył Gregora, stanął na baczność i mu zasalutował."
     },
     {
       "id": 41,
@@ -253,13 +253,13 @@
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Err, bo widzisz, o-ona jest świeżo zatrudniona, niedawno miała robioną operację, i… Dalej się do wszystkiego przyzwyczaja. Oczywiście za to spotka ją akcja dyscyplinarna."
+      "content": "Err, bo widzisz, o-ona jest świeżo zatrudniona, niedawno miała robioną operację, i… Dalej nie ustało jej delirium. Jeszcze z nią o tym pogadam."
     },
     {
       "id": 51,
       "teller": "Tomah",
       "title": "Wspomnienie Żołnierza",
-      "content": "Ah, rozumiem… Nasza korporacja musi być całkiem zdesperowana, posyłając do walki byle kogo, jeszcze bez treningu."
+      "content": "Ah, rozumiem… Nasza korporacja musi być całkiem zdesperowana, posyłając do walki tak szybko po operacji."
     },
     {
       "id": 52,
