@@ -2,55 +2,55 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Central Front in the Smoke War",
+      "place": "Centralny Front Wojny Smogowej",
       "model": "그레고르",
-      "content": "Still in a battlefield…"
+      "content": "Wciąż na polu walki…"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…It’s the same place as before. Though, something about it is different."
+      "title": "Fixer Klasy 8",
+      "content": "…To samo miejsce, co wcześniej. Chociaż… coś się zmieniło."
     },
     {
       "id": 2,
-      "content": "There was a strong tug at Heathcliff’s coat from behind."
+      "content": "Nagle, ktoś pociągnął z tyłu za koszulę Hethcliffa."
     },
     {
       "id": 3,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Are you out of your minds? Get to shelter, now! You’ll age rapidly if exposed to that bomb’s blast."
+      "title": "Wspomnienie Żołnierza",
+      "content": "Oszaleliście? Musicie czym prędzej się schronić! Jeśli dacie się złapać w zasięg rażenia tej bomby, natychmiasy zdziadziejecie!"
     },
     {
       "id": 4,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "The Nest next to ours turned into a nursing home—they can’t even walk without sticks!"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Gniazdo obok naszego zamieniło się w dom starców—nawet nie mogą chodzić bez lasek!"
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Hold on, isn’t he the same guy we just…"
+      "content": "Chwila moment, czy to nie z nim…"
     },
     {
       "id": 6,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "It’s not a problem, because Manager Gregor is with us!"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Ale nie ma się o co martwić, bo Menedżer Gregor jest z nami!"
     },
     {
       "id": 7,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "He doesn’t suffer side effects like the rest of us, and he can regenerate his arm, too!"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Jego nie imają się efekty uboczne tak jak nas i jeszcze do tego może się regenerować!"
     },
     {
       "id": 8,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "He was operated on by none other than Hermann, our most skilled director."
+      "title": "Wspomnienie Żołnierza",
+      "content": "W końcu jego operację wykonywała sama Hermann, nasza najbardziej uzdolniona administratorka."
     },
     {
       "id": 9,
@@ -60,152 +60,152 @@
     {
       "id": 10,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "A hero shouldn’t be on the rearguard. I’ll give you a ride!"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Taki bohater nie powinien zostawać w tyłach. Podrzucę was!"
     },
     {
       "id": 11,
       "model": "로쟈",
-      "content": "Wh-What the hell? Get away from me!"
+      "content": "C-co? Ej, zabieraj się od nas!"
     },
     {
       "id": 12,
-      "content": "Four pairs of wings emerged from his back, clicking and twitching."
+      "content": "Z pleców żołnierza wyłoniły się dwie pary skrzydeł, drgając i wydając klikające odgłosy."
     },
     {
       "id": 13,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Why are you running? You should raise G Corp’s banner and take the lead on the frontlines!"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Dlaczego uciekasz? Powinieneś wznieść flagę G Corpu i przejąć dowodzenie na froncie!"
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "I…"
+      "content": "Ja…"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "I never wanted any of this… Not the procedure, nor the war…"
+      "content": "Nigdy tego nie chciałem… Ani operacji, ani wojny…"
     },
     {
       "id": 16,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Take the lead… Take… T…"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Przejmij dowodzenie… Przejmij… Prze…"
     },
     {
       "id": 17,
-      "content": "Tomah’s mouth opens unnaturally, and a pair of long antennae begin to grow from his face."
+      "content": "Jego usta rozdzierają się, a przez jego skórę przebijają się długie czułki."
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Yeek… We gotta fight them again? My stomach is gonna turn…"
+      "content": "Łeee… Będziemy z nim walczyć? Zaraz puszczę pawia…"
     },
     {
       "id": 19,
       "model": "오티스",
-      "content": "What is that display of weakness? Do you wish to be punished for insubordination?"
+      "content": "Co to za tchórzostwo? Chcesz zostać ukarana za niesubordynację?"
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<…I think we should run here?>"
+      "content": "<…Myślę, że powinniśmy uciekać?>"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "An excellent plan, Manager. You know when to strike and when to withdraw."
+      "content": "Wspaniały plan, Kierowniku. Wiesz kiedy należy uderzyć, a kiedy się wycofać."
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…The hell is her deal?"
+      "content": "…A tej o co chodzi?"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "content": "…Retreat is not an option."
+      "content": "…Odwrót nie będzie możliwy."
     },
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "I don’t get it. I heard every employee under the corporation had modifications, but it can’t have been this foul."
+      "content": "Nie rozumiem. Słyszałam, że wszyscy pracownicy G corpu byli modyfikowani, ale przecież nie mogło być aż tak źle."
     },
     {
       "id": 25,
       "model": "파우스트",
-      "content": "What we see here may differ from actual accounts."
+      "content": "To, co widzimy może różnić się od rzeczywistych wydarzeń."
     },
     {
       "id": 26,
       "model": "파우스트",
-      "content": "The path was opened by Gregor’s feelings rather than his memories."
+      "content": "Naszą drogę określa jego serce, nie wspomnienia."
     },
     {
       "id": 27,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…This is how he felt in his heart about his own allies."
+      "title": "Fixer Klasy 8",
+      "content": "…Tak w głębi serca widział własnych sojuszników."
     },
     {
       "id": 28,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Did all the employees in your Wing… receive the augmentation procedure?"
+      "title": "Fixer Klasy 8",
+      "content": "Wszyscy członkowie twojego Skrzydła przechodzili operacje wzmonienia?"
     },
     {
       "id": 29,
       "model": "그레고르",
-      "content": "…Most did."
+      "content": "…Większość."
     },
     {
       "id": 30,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Was it done with their consent? That’s so…"
+      "title": "Fixer Klasy 8",
+      "content": "Za ich zgodą? To takie…"
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "Did the people in L Corp. consent to offering themselves up to Abnormalities?"
+      "content": "Czy ludzie z L Corpu wyrażali zgodę na rzucenie ich na pożarcie Anomaliom?"
     },
     {
       "id": 32,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That’s… I heard that was written on the contract."
+      "title": "Fixer Klasy 8",
+      "content": "To… Słyszałam, że było o tym napisane gdzieś w kontrakcie."
     },
     {
       "id": 33,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "We were never properly informed, though… They said such routine procedures should be skipped for efficient management…"
+      "title": "Fixer Klasy 8",
+      "content": "Choć nigdy nam tego porządnie nie wyjaśnili… Powiedzieli, że dla efektywnego zarządzania najlepiej pominąć część papierkowej roboty…"
     },
     {
       "id": 34,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "That we should face the fear."
+      "title": "Fixer Klasy 8",
+      "content": "Że powinniśmy Zmierzyć się ze strachem."
     },
     {
       "id": 35,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "In the end… anyone who joined the corporation agreed to it, knowingly or not."
+      "title": "Fixer Klasy 8",
+      "content": "Czyli… Każdy, kto dołączył do korporacji zgodził się na to, czy o tym wiedział, czy nie."
     },
     {
       "id": 36,
       "model": "그레고르",
-      "content": "…Can guess how it went for us, then."
+      "content": "…To możesz sobie wyobrazić, jak było u nas."
     }
   ]
 }
