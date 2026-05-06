@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Central Front in the Smoke War",
+      "place": "Centralny Front Wojny Smogowej",
       "model": "그레고르",
-      "content": "What’s the delay, Yuri?"
+      "content": "Coś nie tak, Yuri?"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "G-Give me a second, please. The gas mask fell off my bag…"
+      "title": "Fixer Klasy 8",
+      "content": "D-daj mi moment. Maska gazowa wypadła mi z torby…"
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "I don’t see it serving any practical purpose now. You’re only weighing yourself down."
+      "content": "Teraz nie ma już żadnego praktycznego użytku. Tylko się obciążasz."
     },
     {
       "id": 3,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I mean, it’s… Aya’s memento."
+      "title": "Fixer Klasy 8",
+      "content": "Znaczy… To pamiątka po Ayi."
     },
     {
       "id": 4,
       "model": "오티스",
-      "content": "You indulge in the most pointless activity in the world, and you aren’t even from N Corp."
+      "content": "Oddajesz się najbardziej bezsensownej aktywności na świaecie, a nie jesteś nawet z N Corpu"
     },
     {
       "id": 5,
@@ -38,79 +38,79 @@
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Tie it the other way."
+      "content": "Zawiąż w drugą stronę."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Sorry?"
+      "title": "Fixer Klasy 8",
+      "content": "Co?"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "The knot. It’ll come loose again if you tie it that way."
+      "content": "Węzeł. Jeśli tak go zawiążesz, znowu się rozplącze."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "There’s a sailor’s knot I learned on the boat. I’ll teach you how to do it back on the bus."
+      "content": "Na morzu nauczyłqam się takiego jednego węzła żeglarskiego. Pokarzę ci, kiedy wrucimy do autobusu."
     },
     {
       "id": 10,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Oh… Thank you."
+      "title": "Fixer Klasy 8",
+      "content": "Oh… Dziękuję."
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "What now. Since when were you so friendly?"
+      "content": "A to co? Od kiedy się tak dogadujecie?"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "Yuri~ Y’know what? Why don’t you join our company while you’re at it?"
+      "content": "Hej, Yuri~ Wiesz co? Może dołączysz do nas w tej firmy, pracowałabyś z nami?"
     },
     {
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "M-Me?"
+      "title": "Fixer Klasy 8",
+      "content": "J-ja"
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "That’s…"
+      "content": "To…"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "I know, I know. We need to get the okay from Vergilius or his superiors and all that. But a little suggestion doesn’t hurt."
+      "content": "No wiem, wiem. Musielibyśmy dostać zgodę od Wergiluisza  czy kto tam jest nad nim i w ogóle. Ale nie zaszkodzi poddać pomysł."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "Hm… I wonder."
+      "content": "Hm… Ciekawe."
     },
     {
       "id": 17,
       "model": "로쟈",
-      "content": "Plus, pink hair makes a perfect mascot to represent us. C’mon, won’t you give it some thought? Please?"
+      "content": "Plus, z takimi różowymi włosami była by z niej świetna maskotka. Pomyślisz chociaż o tym? Proszę?"
     },
     {
       "id": 18,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "A—A mascot…? Huhu."
+      "title": "Fixer Klasy 8",
+      "content": "Ż-że maskotka…? Huhu."
     },
     {
       "id": 19,
-      "content": "Yuri made a smile for the first time, albeit faintly."
+      "content": "Po raz pierwszy na tej wyprawie, Yuri uśmiechnęła się, nawet jeśli tylko na chwilę."
     }
   ]
 }
