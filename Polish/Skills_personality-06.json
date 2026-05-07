@@ -1,5 +1,5 @@
 {
-  "dataList": [
+  "dPrzyaList": [
     {
       "id": 1060601,
       "levelList": [
@@ -959,7 +959,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [TakeHpHealReduce] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [TakeHpUleczReduce] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -986,7 +986,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [TakeHpHealReduce] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [TakeHpUleczReduce] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "Awaryjne Środki Skrzepiające",
-          "desc": "[StartBattle] Strać 2 Skuteczność [Laceration] na sobie (3 razy na turę. Jeśli Skuteczność [Laceration] spadnie do zera lub mniej, [Laceration] znika)<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Strać 2 Skuteczność [Laceration] na sobie (3 razy na turę. Jeśli Skuteczność [Laceration] spadnie do zera lub mniej, [Laceration] Znika)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1342,7 +1342,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [PenetrateTakeobrażeńUp]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1388,7 +1388,7 @@
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Binding] na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [PenetrateTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [PenetrateTakeobrażeńUp]"
                 }
               ]
             }
@@ -1571,7 +1571,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [PenetrateTakeDamageUp]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [PenetrateTakeobrażeńUp]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1630,7 +1630,7 @@
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Binding] na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [PenetrateTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [PenetrateTakeobrażeńUp]"
                 }
               ]
             },
@@ -2166,7 +2166,7 @@
         {
           "level": 4,
           "name": "Absolutny Rozcinacz Ambicji Zbeżczeszczonej Krwi [汚血絕志竟成]",
-          "desc": "<style=\"highlight\">[StartBattle] Nałóż 1 [ShamrockDamageUp] na wszystkich sojuszników któży mają nałożone w Żetonach Umiejętności Obżarstwa (raz na turę)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Monety za każde 6 ([Burst] na celu + [Breath] na sobie) (maks 2)</style>\n[WhenUse] Zyskaj 3 [Breath]",
+          "desc": "<style=\"highlight\">[StartBattle] Nałóż 1 [ShamrockobrażeńUp] na wszystkich sojuszników któży mają nałożone w Żetonach Umiejętności Obżarstwa (raz na turę)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Monety za każde 6 ([Burst] na celu + [Breath] na sobie) (maks 2)</style>\n[WhenUse] Zyskaj 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -2226,10 +2226,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDown] za każde 2 rodzaje negatywnych efektów na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDown] Za każde 2 rodzaje negatywnych efektów na celu (maks 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [DefenseDown] za każdy rodzaj Obrzędu Śmierci na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [DefenseDown] Za każdy rodzaj Obrzędu Śmierci na celu (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2246,10 +2246,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDown] za każde 2 rodzaje negatywnych efektów na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDown] Za każde 2 rodzaje negatywnych efektów na celu (maks 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [DefenseDown] za każdy rodzaj Obrzędu Śmierci na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [DefenseDown] Za każdy rodzaj Obrzędu Śmierci na celu (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2355,7 +2355,7 @@
         {
           "level": 1,
           "name": "Samotne Stanowisko: Poświęcenie Dla Ogrodu [孑孑單身, 捨生取园]",
-          "desc": "Zadaj +10% Obrażeń za każde [HeishouDeathCount] na sobie\nZadaj +1% Obrażeń za każde 1% (brakujące %HP na celu + brakujące %HP na sobie) (maks 50%)\n[WhenUse] Przy 3+ [HeishouDeathCount], zyskaj +1 Wagi Ataku\n[WhenUse] At 6+ ([Burst] na celu + [Breath] na sobie), +1 Mocy Monety\n[WhenUse] Zadaj +5% Obrażeń za każde [HeishouComboCountHonglu]<style=\"highlight\"></style>",
+          "desc": "Zadaj +10% Obrażeń za każde [HeishouDeathCount] na sobie\nZadaj +1% Obrażeń za każde 1% (brakujące %HP na celu + brakujące %HP na sobie) (maks 50%)\n[WhenUse] Przy 3+ [HeishouDeathCount], zyskaj +1 Wagi Ataku\n[WhenUse] Przy 6+ ([Burst] na celu + [Breath] na sobie), +1 Mocy Monety\n[WhenUse] Zadaj +5% Obrażeń za każde [HeishouComboCountHonglu]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2440,6 +2440,594 @@
               "coindescs": [
                 {
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sekcja",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Sekcja",
+          "desc": "Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 20%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sekcja",
+          "desc": "Zadaj +<style=\"highlight\">10</style>% obrażeń za każdy negatywny efekt na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zbieranie Składnika - Zakrwawiony Obiekt",
+          "desc": "[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać następujące efekty:\n- +1 Mocy Starcia\n- Zamień finalną Monetę tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill against the target (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Zbieranie Składnika - Zakrwawiony Obiekt",
+          "desc": "<style=\"highlight\">Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 20%)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać następujące efekty:\n- +1 Mocy Starcia\n- Zamień finalną Monetę tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill against the target (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zbieranie Składnika - Zakrwawiony Obiekt",
+          "desc": "Zadaj +<style=\"highlight\">10</style>% obrażeń za każdy negatywny efekt na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać następujące efekty:\n- +1 Mocy Starcia\n- Zamień finalną Monetę tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill against the target (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Melodia Tibii - Sekcjowanie Niesekcjowanych Przez Sekcjowanych",
+          "desc": "[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 2)\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] oraz Zyskaj następujące efekty:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń każdą zużytą Ilość [ChargeBodyArt]\n- Przy 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [SlashobrażeńUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Melodia Tibii - Sekcjowanie Niesekcjowanych Przez Sekcjowanych",
+          "desc": "[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks <style=\"highlight\">3</style>)\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] oraz Zyskaj następujące efekty:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń każdą zużytą Ilość [ChargeBodyArt]\n- Przy 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [SlashobrażeńUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kurowanie Wystawy",
+          "desc": "[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[OnSucceedEvade] Nałóż 1 [Binding] na agresora na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kurowanie Wystawy",
+          "desc": "[StartBattle] Zyskaj 1 [SupportProtect] (raz na turę)\n[OnSucceedEvade] Nałóż 1 [Binding] na agresora na początku następnej tury (raz na turę)\n[OnSucceedEvade] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061405,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "Oh, Jak My Kochamy Ciało i Krew",
+          "desc": "[CantIdentify]\n[CantDuel]\nTa Umiejętność posiada następujące atrybuty:\n- Nie aktywuje Umiejętności Defensywnych\n- Zewnętrzne efekty nie mogą wywołać Jej ponownego użycia\n- Nie uderza\n[WhenUse] Nałóż 4 [AttackUp] na cel",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Oh, Jak My Kochamy Ciało i Krew",
+          "desc": "[CantIdentify]\n[CantDuel]\nTa Umiejętność posiada następujące atrybuty:\n- Nie aktywuje Umiejętności Defensywnych\n- Zewnętrzne efekty nie mogą wywołać Jej ponownego użycia\n- Nie uderza\n[WhenUse] Nałóż 6 [AttackUp] na cel",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061406,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Godzina Zamknięcia - Pierwsza Sztuka Wystawy: Twoje Kości i Ciało Jako Siedzenia Mojej Wystawy",
+          "desc": "[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n- Gdy ten cel mierzy w tylko jeden cel, zadaj +100% obrażeń\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] oraz Zyskaj następujące efekty:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń każdą zużytą Ilość [ChargeBodyArt]\n- Przy 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n[EndSkill] Wszystkie Osobowości z fakcji Pierścienia leczą 10 pp i zyskują [MelodyBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [SlashobrażeńUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [LivingSpecimenPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Godzina Zamknięcia - Pierwsza Sztuka Wystawy: Twoje Kości i Ciało Jako Siedzenia Mojej Wystawy",
+          "desc": "[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n- Gdy ten cel mierzy w tylko jeden cel, zadaj +100% obrażeń\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] oraz Zyskaj następujące efekty:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń każdą zużytą Ilość [ChargeBodyArt]\n- Przy 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n[EndSkill] Wszystkie Osobowości z fakcji Pierścienia leczą 10 pp i zyskują [MelodyBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AttackDmgDown] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [SlashobrażeńUp] na początku następnej tury (raz na turę)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [LivingSpecimenPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Błagam, Nie Zniżajmy się do Wandalizmu",
+          "desc": "[DuelCounter]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +5% obrażeń za każdy negatywny efekt na celu (maks 20%)\n[WhenUse] Jeśli cel posiada 6+ [Laceration], +1 Mocy Monet\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać następujące efekty:\n- +1 Mocy Starcia\n- Zamień finalną Monetę tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Błagam, Nie Zniżajmy się do Wandalizmu",
+          "desc": "[DuelCounter]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy negatywny efekt na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)</style>\n[WhenUse] Przy 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać następujące efekty:\n- +1 Mocy Starcia\n- Zamień finalną Monetę tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa",
+          "desc": "[CantDuel]\nTa Umiejętność nie aktywuje wrogich Umiejętności Defensywnych\n[WhenUse] Zużyj 4 Ilości [ChargeBodyArt]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zadaj 5 obrażeń PP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz 5 PP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [LivingSpecimenPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa",
+          "desc": "[CantDuel]\nTa Umiejętność nie aktywuje wrogich Umiejętności Defensywnych\n[WhenUse] Zużyj 4 Ilości [ChargeBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +5% obrażeń za każdy negatywny efekt na celu (maks 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj 5 obrażeń PP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz 5 PP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [LivingSpecimenPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa",
+          "desc": "[CantDuel]\nTa Umiejętność nie aktywuje wrogich Umiejętności Defensywnych\n[WhenUse] Zużyj 4 Ilości [ChargeBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +<style=\"highlight\">10</style>% obrażeń za każdy negatywny efekt na celu (maks <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj 5 obrażeń PP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ulecz 5 PP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [LivingSpecimenPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
