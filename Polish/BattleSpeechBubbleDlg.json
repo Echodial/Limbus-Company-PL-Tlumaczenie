@@ -481,6 +481,73 @@
     "desc": "",
     "dlg": "... Zemsta..."
   },
+	   {	
+    "id": "7SV-BV-022",
+    "desc": "##### Ricardo Bokgak ####",
+    "dlg": "Koniec gierek."
+  },
+  {	
+    "id": "7SV-BV-023-1",
+    "desc": "",
+    "dlg": "Koniec..."
+  },
+  {	
+    "id": "7SV-BV-023-2",
+    "desc": "",
+    "dlg": "... testów!"
+  },
+  {	
+    "id": "7SV-BV-024-2",
+    "desc": "",
+    "dlg": "Przynoszę wam wasze..."
+  },
+  {	  
+    "id": "7SV-BV-024-3",
+    "desc": "",
+    "dlg": "... obiecane cierpienie!!"
+  },
+  {	
+    "id": "7SV-BV-025",
+    "desc": "",
+    "dlg": "Zostawcie tyły mnie."
+  },
+  {	
+    "id": "7SV-BV-025-01",
+    "desc": "",
+    "dlg": "Zostawcie tyły... mnie."
+  },
+
+  {	
+    "id": "7SV-BV-026",
+    "desc": "####### Werner Bokgak #####",
+    "dlg": "Przepraszam... Starszy Bracie..!"
+  },
+
+  {	
+    "id": "7SV-BV-028_3",
+    "desc": "",
+    "dlg": "Zgniotę was!"
+  },
+  {	
+    "id": "7SV-BV-029_1",
+    "desc": "",
+    "dlg": "Zemsta...!"
+  },
+  {	
+    "id": "7SV-BV-029_2",
+    "desc": "",
+    "dlg": "... czeka...!"
+  },
+  {	
+    "id": "7SV-BV-029_3",
+    "desc": "",
+    "dlg": "... was wszystkich!!"
+  },
+  {	
+    "id": "7SV-BV-030",
+    "desc": "",
+    "dlg": "... Zemsta..."
+  },
     {
       "desc": "#################################### Polskie Tłumaczenie Limbusa (Podstawka kodu i nieprzetłumaczonych linijek zrobiona przez LIMBUS COMPANY SPEECH BUBBLE FAN TRANSLATION)!!!!!!!! #########################################################"
     },
@@ -790,7 +857,7 @@
     {
       "id": "7SV-060",
       "desc": "",
-      "dlg": "Twe sny też! Się skończą..."
+      "dlg": "Twe sny! Też! Się skończą..."
     },
     {
       "id": "7SV-065",
