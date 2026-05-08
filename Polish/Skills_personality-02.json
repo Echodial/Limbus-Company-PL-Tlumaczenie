@@ -2956,7 +2956,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wandalizm Surowo Zakazany.",
+          "name": "Wandalizm Jest Surowo Zakazany.",
           "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)\n[WhenUse] Jeśli cel posiada 6+ [Laceration], +1 Mocy Monet\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
@@ -2971,7 +2971,7 @@
         },
         {
           "level": 4,
-          "name": "Wandalizm Surowo Zakazany.",
+          "name": "Wandalizm Jest Surowo Zakazany.",
           "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
