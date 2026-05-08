@@ -3,53 +3,53 @@
     {
       "id": 0,
       "model": "그레고르",
-      "content": "The war was over."
+      "content": "Wojna się skończyła."
     },
     {
       "id": 1,
       "model": "그레고르",
-      "content": "Yet my doppelgänger was still holding a silly pose with a confident look on his face."
+      "content": "A jednak mój doppelgänger wciąż stał w głupiej pozie, spoglądając pewnie przed siebie."
     },
     {
       "id": 2,
       "model": "그레고르",
-      "content": "Hmm, that’s not the kind of face I’d make."
+      "content": "Hmm, nie taką minę bym zrobił."
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "Though… gotta give it to ‘em for making the hair on my arm look as grotesque as it is real. Whose job was this?"
+      "content": "Chociaż… trza im przyznać, zdecydowanie uchwycili groteskowość włosków na mojej ręce, prawie jak prawdziwe. Kto to rysował?"
     },
     {
       "id": 4,
       "model": "그레고르",
-      "content": "I’ve grown fond of humor."
+      "content": "Przekonałem się do poczucia humoru."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "Being consumed by the nightmare for so long must’ve made me crave liveliness."
+      "content": "Po całym tym czasie krążenia w koszmarze musiałem zacząć potrzebować odrobiny uśmiechu."
     },
     {
       "id": 6,
-      "teller": "Disgruntled Citizen",
-      "title": "Reminisced Person",
-      "content": "Those scum from G Corp. should all be sent to the gallows."
+      "teller": "Niezadowolony Obywatel",
+      "title": "Wspomnienie Osoby",
+      "content": "Wszystkich tych gnojów z G Corpu powinni posłać na stryczek, co do jednego."
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "Someone murmurs, spitting on the floor."
+      "content": "Ktoś pomrukuje pod nosem i spluwa na podłogę."
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "I could tell what they were speaking towards without even looking."
+      "content": "Nawet nie musiałem patrzeć w tamtym kierunku, żeby wiedzieć o czym i o kim była mowa."
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "Knowing that…"
+      "content": "I sama ta wiedza…"
     },
     {
       "id": 10,
@@ -59,102 +59,102 @@
     {
       "id": 11,
       "model": "그레고르",
-      "content": "I felt nauseous."
+      "content": "Przyprawiała mnie o mdłości."
     },
     {
       "id": 12,
-      "teller": "Kind Citizen",
-      "title": "Reminisced Person",
-      "content": "Sir, are you alright?"
+      "teller": "Uprzejma Obywatelka",
+      "title": "Wspomnienie Osoby",
+      "content": "Proszę Pana, wszystko w porządku?"
     },
     {
       "id": 13,
-      "place": "Central Front in the Smoke War",
+      "place": "Centralny Front Wojny Smogowej",
       "model": "로쟈",
-      "content": "Hey, you okay, babe? You don’t look so well."
+      "content": "Hej, wszystko w porządku, Greg? Jakoś pobladłeś."
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "I was… just in the subway?"
+      "content": "Byłem… przed chwilą w metrze?"
     },
     {
       "id": 15,
       "model": "히스클리프",
-      "content": "The hell are you blathering about?"
+      "content": "O czym ty pierdzielisz?"
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "Greg, we’re still on the battlefield."
+      "content": "Greg, dalej jesteśmy na polu walki."
     },
     {
       "id": 17,
-      "content": "Gregor groped his pockets with stumbling hands looking for a cigarette out of habit, but soon stopped."
+      "content": "Gregor z przyzwyczajenia poklepał się po kieszeniach, szukając papierosa, ale po chwili zamarł."
     },
     {
       "id": 18,
-      "content": "It dawned on him as it did me."
+      "content": "Zorientował się, tak samo jak i ja."
     },
     {
       "id": 19,
-      "content": "All the Sinners seemed to have realized it now."
+      "content": "Wszyscy Grzesznicy wiedzieli już co się stanie."
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<Tomah is going to grab us and give a warning any second now…>"
+      "content": "<Tomah już za chwilę przyjdzie do nas z ostrzeżeniem…>"
     },
     {
       "id": 21,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "Are you—"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Czy wy—"
     },
     {
       "id": 22,
       "model": "로쟈",
-      "content": "Look, Tomah, I’m starting to get sick of your pickup line, so I’ll say it once: We’re not out of our minds, and the aging bomb ain’t gonna hit us."
+      "content": "Słuchaj, Tomah, zaczynam mieć dość tego tekstu, więc powiem raz: przed niczym nie musimy się kryć, ta wasza dziado-bomba nie spadnie."
     },
     {
       "id": 23,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "…No."
+      "title": "Wspomnienie Żołnierza",
+      "content": "…Nie."
     },
     {
       "id": 24,
-      "content": "Instead of elaborating, he points up."
+      "content": "Zamiast wyjaśnić o czym mówi, Tomah wskazał tylko w górę."
     },
     {
       "id": 25,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "I need help."
+      "title": "Wspomnienie Żołnierza",
+      "content": "Potrzebuję pomocy."
     },
     {
       "id": 26,
       "teller": "Tomah",
-      "title": "Reminisced Soldier",
-      "content": "I don’t want to die—"
+      "title": "Wspomnienie Żołnierza",
+      "content": "Nie chcę umiera—"
     },
     {
       "id": 27,
-      "content": "Tomah was crushed to a pulp right before our eyes."
+      "content": "Tomah został rozgnieciony na naszych oczach."
     },
     {
       "id": 28,
-      "content": "There’s only one thing to say in a situation like this."
+      "content": "W takiej sytuacji można powiedzieć tylko jedno."
     },
     {
       "id": 29,
       "model": "단테",
-      "content": "<R—Run!>"
+      "content": "<W-w nogi!>"
     },
     {
       "id": 30,
       "model": "오티스",
-      "content": "All troops! Retreat!"
+      "content": "Oddział, odwrót!"
     },
     {
       "id": 31,
