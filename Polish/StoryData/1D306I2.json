@@ -2,48 +2,48 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Interior",
-      "content": "The mass of maggots falls apart in a hail of silent screams."
+      "place": "Dystrykt 4 - Wnętrze Filii LC",
+      "content": "Wydając z siebie tysiące cichych krzyków, masa larw rozpada się."
     },
     {
       "id": 1,
-      "content": "Beyond that, I see a wave of radiant golden light."
+      "content": "A zaa niej dobiega jaśniejące złote światło."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<Is that… the Golden Bough?>"
+      "content": "<Czy to… Złota Gałązka?>"
     },
     {
       "id": 3,
-      "content": "Just as I begin to approach it, the apple begins to tremble."
+      "content": "Gdy tylko zaczęłom do niej podchodzić, jabłko zaczęło się trząść."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from… Limbus Company?"
+      "title": "Fixer Klasy 8",
+      "content": "Przepraszam… To wy jesteście z… Limbus Company?"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<Yuri? You’re okay?>"
+      "content": "<Yuri? Wszystko w porządku?>"
     },
     {
       "id": 6,
-      "content": "Even though I had clearly seen it devour her, I couldn’t stop myself from asking."
+      "content": "Nawet, jeśli wyraźnie widzoałom jak została pożarta, nie mogłom się powstrzymać przed zapytaniem."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…When we go back to the bus, can I—Charon how to…?"
+      "title": "Fixer Klasy 8",
+      "content": "…Kiedy wrócimy na autobus, czy mogę—Charon jak…?"
     },
     {
       "id": 8,
-      "content": "Then I saw a glimpse of the pink locks of hair that Rodya took a liking to."
+      "content": "Nagle zobaczyłom te czerwone włosy, które Rodya tak bardzo polubiła."
     }
   ]
 }
