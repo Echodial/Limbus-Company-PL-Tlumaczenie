@@ -158,40 +158,40 @@
     },
     {
       "id": 31,
-      "content": "We muster up everything we can to run, but the airborne hand is ever persistent and shows no signs of letting up."
+      "content": "Biegliśmy ile sił w nogach, jednak spadające z nieba dłonie nie odstępowały nas o krok."
     },
     {
       "id": 32,
       "model": "히스클리프",
-      "content": "We’re all going to get turned into pancakes! Got any bright ideas, smart one?"
+      "content": "Zaraz nasz wszystkich rozpłaszczy! Masz jakiś pomysł, mądralińska?"
     },
     {
       "id": 33,
       "model": "파우스트",
-      "content": "…I’m listening. There are too many variables to consider in the fathoms of the ego, I can’t be hasty with my judgement…"
+      "content": "…Wciąż obserwuję teren. W odmętach ego działa zbyt wiele wymagających uwagi czynników, nie mogę pochopnie wyciągać wniosków…"
     },
     {
       "id": 34,
       "model": "돈키호테",
-      "content": "There is no cause for hesitation! A true hero succumbs to no hardships!"
+      "content": "Nie ma to nad czym kwerendować! Prawdziwi bohaterzy nie lękają się przeciwności losu!"
     },
     {
       "id": 35,
       "model": "로쟈",
-      "content": "Uhm… I don’t think I wanna recover a flattened body."
+      "content": "Uhm… Raczej nie chciałabym leczyć się na rozpłaszczone ciało."
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "Oh! Sorry, Dante~ Didn’t mean it that way!"
+      "content": "Oh! Sorka, Dante~ Nie chodziło mi o nic takiego!"
     },
     {
       "id": 37,
-      "content": "It was tempting to say something back to her…"
+      "content": "Chciałom już ją skarcić…"
     },
     {
       "id": 38,
-      "content": "But I figured now was the time to keep my mouth shut so everyone could focus on running."
+      "content": "Ale uznałom, że to raczej czas trzymać zegar na kłódkę, żeby wszyscy mogli skupić się na uciekaniu."
     },
     {
       "id": 39,
@@ -200,35 +200,35 @@
     {
       "id": 40,
       "model": "히스클리프",
-      "content": "Still thinking, are you? Eh?! Well, are you, Ms. “Knows It All”?!"
+      "content": "Dalej się tam zastanawiasz? Co?! Myślisz czy nie, Pani “Faust wie Wszystko”?!"
     },
     {
       "id": 41,
       "model": "파우스트",
-      "content": "If you’re asking for an immediate solution, then yes, I’ve yet to come up with one."
+      "content": "Jeśli pytasz o natychmiastowe rozwiązanie, to nie, jeszcze żadnego nie wymyśliłam."
     },
     {
       "id": 42,
       "model": "파우스트",
-      "content": "The only thing I can say for certain is that our objective is not nearby. Dante would have responded strongly otherwise."
+      "content": "Jedyne, czego jestem w tej chwili pewna, to że nasz cel nie jest blisko. W innym razie Dante wyraźnie by zareagowało."
     },
     {
       "id": 43,
       "model": "단테",
-      "content": "<Me?>"
+      "content": "<Ja?>"
     },
     {
       "id": 44,
       "model": "히스클리프",
-      "content": "Are you joking? That’s all you’ve got?"
+      "content": "Jaja sobie robisz? To wszystko co masz?"
     },
     {
       "id": 45,
-      "content": "Heathcliff furrowed his brows, ready to snap at the unhelpful savant…"
+      "content": "Heathcliff zmarszczył brwi, gotowy już wygarnąć niezbvyt pomocnej sawantki…"
     },
     {
       "id": 46,
-      "content": "But a sudden close shave with the massive palm made him focus his energy on his legs rather than his mouth."
+      "content": "Jednak po bliskim otarciu z ogromną dłonią zaczął tylko bez słowa przyspieszać."
     },
     {
       "id": 47
@@ -237,131 +237,131 @@
       "id": 48,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
+      "title": "Fixer Klasy 8",
       "content": "…Gregor?"
     },
     {
       "id": 49,
       "model": "히스클리프",
-      "content": "Whoa, hey, what? Why the hold up?"
+      "content": "Whoa, hej, co jest? Co tam zwalniasz?"
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "…I think I see now."
+      "content": "…Chyba już rozumiem."
     },
     {
       "id": 51,
       "model": "그레고르",
-      "content": "If this world is a product of my mind…"
+      "content": "Jeśli ten świat powstał z mojego umysłu…"
     },
     {
       "id": 52,
-      "content": "Gregor took a breather, then looked up at the sky."
+      "content": "Gregor odetchnął, po czym spojrzał w niebo."
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "We shouldn’t run away from that hand."
+      "content": "Nie powinniśmy uciekać przed tą ręką."
     },
     {
       "id": 54,
       "model": "히스클리프",
-      "content": "…Did you finally get the crackers or what?"
+      "content": "…Kompletnie padło ci na mózg, czy co?"
     },
     {
       "id": 55,
       "model": "파우스트",
-      "content": "Gregor, are you sure?"
+      "content": "Jesteś pewny, Gregor?"
     },
     {
       "id": 56,
       "model": "그레고르",
-      "content": "My own free will never played much of a role in my life."
+      "content": "Moje życie nigdy nie należało do mnie."
     },
     {
       "id": 57,
       "model": "그레고르",
-      "content": "It only makes sense that resisting is meaningless in this reflection of my mind."
+      "content": "Miałoby to sens, że w wizji mojego umysłu opór jest daremny ."
     },
     {
       "id": 58,
       "model": "그레고르",
-      "content": "In that case… letting the inevitable happen might be the answer."
+      "content": "A jeśli to prawda… Pozwolenie, by stało się nieuniknione może być naszą odpowiedzią."
     },
     {
       "id": 59,
       "model": "히스클리프",
-      "content": "…Are you all serious?"
+      "content": "…Wy tak na poważnie?"
     },
     {
       "id": 60,
       "model": "이스마엘",
-      "content": "It’s not like there’s any other way. We’re all exhausted."
+      "content": "Nie, żebyśmy mieli inną opcję. Wszyscy jesteśmy wykończeni."
     },
     {
       "id": 61,
       "model": "그레고르",
-      "content": "Besides… Look at that… paint on its nails."
+      "content": "Zresztą… Patrzcie na te… wzory na paznokciach."
     },
     {
       "id": 62,
       "model": "그레고르",
-      "content": "You don’t see that kind of polish just anywhere."
+      "content": "Takiego lakieru nie widzi się byle gdzie."
     },
     {
       "id": 63,
       "model": "그레고르",
-      "content": "If that hand belongs to who I think it does, she will not stop chasing us."
+      "content": "Jeśli ta ręka należy do kogo myślę, ona nie przestanie nas gonić."
     },
     {
       "id": 64,
       "model": "그레고르",
-      "content": "Faust… You said this is a path in my heart, right?"
+      "content": "Faust… Mówiłaś, że to jest ściażka do mojego serca, co nie?"
     },
     {
       "id": 65,
       "model": "그레고르",
-      "content": "Then I can tell you this for sure:"
+      "content": "W takim razie jedno mogę powiedzieć na pewno:"
     },
     {
       "id": 66,
       "model": "그레고르",
-      "content": "It’s about to hit a dead end."
+      "content": "Zapędzi nas w kozi róg."
     },
     {
       "id": 67,
       "model": "그레고르",
-      "content": "Be it the nightmare or the road… I never once strayed from that woman’s control."
+      "content": "Czy to koszmar, czy ścieżka… Nigdy nie mogłem uciec spod kontroli tej kobiety."
     },
     {
       "id": 68,
-      "content": "Who is Gregor talking about, and what does he mean by a nightmare?"
+      "content": "O kim mówi Gregor, o co chodzi z tym koszmarem?"
     },
     {
       "id": 69,
-      "content": "As much as I wanted to ask him…"
+      "content": "Nawet, jeśli chciałom go o to zapytać…"
     },
     {
       "id": 70,
       "model": "히스클리프",
-      "content": "Sigh, might as well."
+      "content": "Ehhh, Dobra."
     },
     {
       "id": 71,
-      "content": "Soon enough, the giant hand cast its shadow over us, descending."
+      "content": "Po chwili, ogromna ręką rzuciła na nas cień i zaczeła ku nam opadać."
     },
     {
       "id": 72,
-      "content": "Just before it reached us, it stopped to hold us in its grasp."
+      "content": "I gdy już miała nas zgnieść, zatrzymała się tuż nad nami i złapała nas wszystkich."
     },
     {
       "id": 73,
-      "content": "Everything went dark."
+      "content": "Otoczyła nas ciemność."
     },
     {
       "id": 74,
-      "content": "I felt a disorienting nausea of being lifted into the sky."
+      "content": "Czułom w żołądku, jak byłom unoszone wysoko w niebo."
     },
     {
       "id": 75,
@@ -370,11 +370,11 @@
     },
     {
       "id": 76,
-      "content": "While everyone else was suffering from it, Faust and I were the only ones standing straight."
+      "content": "Tylko ja i Faust mogliśmy ustać na nogach, kiedy pozostałych zbierały zawroty głowy."
     },
     {
       "id": 77,
-      "content": "I noticed that the battlefield had changed into somewhere familiar."
+      "content": "Znaleźliśmy się na innym polu walki, zdecydowanie bardziej nam znajomym."
     }
   ]
 }
