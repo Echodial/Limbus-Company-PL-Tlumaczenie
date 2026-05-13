@@ -155,100 +155,100 @@
     {
       "id": 30,
       "model": "이상",
-      "content": "Is such a frivolous use of English not prone to blurring the original meaning?"
+      "content": "Czy takie swobodne podejście do języka Polskiego nie jest skłonne do zamazywania zamierzonego znaczenia?"
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "That’s what I’m sayi―"
+      "content": "No właśnie mów―"
     },
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "Huh, you seem to be talking a lot more than usual, Yi Sang?"
+      "content": "Huh, wydaje mi się, czy jesteś bardzoejgadatliwy niż zwykle, Yi Sang?"
     },
     {
       "id": 33,
       "model": "이상",
-      "content": "Does that reflect strangely?"
+      "content": "Czy to coś dziwnego?"
     },
     {
       "id": 34,
       "model": "파우스트",
-      "content": "He was never really the quiet sort."
+      "content": "Yi Sang nigdy nie był cichym typem."
     },
     {
       "id": 35,
       "model": "파우스트",
-      "content": "He only had a… shift recently."
+      "content": "Jedynie ostatnio… coś się wydarzyło."
     },
     {
       "id": 36,
       "model": "오티스",
-      "content": "It’s not a bad thing to have more lackeys with keen eyes."
+      "content": "Zawsze dobrze mieć więcej osób z bystrym okiem."
     },
     {
       "id": 37,
       "model": "오티스",
-      "content": "I’d like you to keep that up. Let us march."
+      "content": "Tak trzymać. Oddział, wymarsz!"
     },
     {
       "id": 38,
       "model": "이상",
-      "content": "You make yourself look like the captain here. I dare say that role belongs to the manager."
+      "content": "Zachowujesz się, jakbyś była tu kapitanem. Ośmielę się swtwierdzić, że ta rola należy prędzej do naszego Kierownika."
     },
     {
       "id": 39,
       "model": "오티스",
-      "content": "…Please forgive my insolence, Manager."
+      "content": "…Proszę wybaczyć moją bezczelność, Kierowniku."
     },
     {
       "id": 40,
-      "content": "Frowning as though she were caught off-guard, Outis bows to me as she apologizes."
+      "content": "Outis pochyliła przede mną głowę z kwaśną miną, wyraźnie speszona sytuacją."
     },
     {
       "id": 41,
       "model": "단테",
-      "content": "<N-No, it’s nothing. Let’s head down.>"
+      "content": "<Nie-nie, to nic takiego. Może po prostu już chodźmy.>"
     },
     {
       "id": 42,
-      "content": "Most of the corpses’ body parts were morphed in bizarre ways."
+      "content": "Większość zwłok które mijaliśmy były dziwnie przemienione."
     },
     {
       "id": 43,
-      "content": "One had pairs of wings protruding through their intestines, and another had horribly twisted antennae hanging down."
+      "content": "Z wnętrzności jednego wystawały skrzydła, inna miała okropnie wykręcone czułki."
     },
     {
       "id": 44,
       "model": "유리",
       "teller": "Yuri",
       "title": "Fixer Klasy 8",
-      "content": "These look kinda similar to the thugs we ran into just before, don’t they?"
+      "content": "Wyglądają podobnie do tych bandytów, których widzieliśmy wcześniej, co nie?"
     },
     {
       "id": 45,
       "model": "이스마엘",
-      "content": "You mean those bug-headed people?"
+      "content": "Masz na myśli tamtych z głowami robaków?"
     },
     {
       "id": 46,
       "model": "오티스",
-      "content": "Quiet, I’m seeing Uniform Tangos ahead."
+      "content": "Cicho, widzę przed nami November Charlie."
     },
     {
       "id": 47,
-      "content": "As Outis noted, multiple figures could be seen down the corridor."
+      "content": "Tak, jak wspomniała Outis, w korytarzu przed nami widać było kilka sylwetek."
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "(Uni…form? What’s all that?)"
+      "content": "(Nowember… co? O czym ona gada?)"
     },
     {
       "id": 49,
       "model": "그레고르",
-      "content": "(Unidentified targets… Possibly hostile.)"
+      "content": "(Nieznane Cele… Prawdopodobnie wrogo nastawione.)"
     },
     {
       "id": 50,
@@ -257,191 +257,191 @@
     },
     {
       "id": 51,
-      "content": "I’m sure one idea crossed all of our minds:"
+      "content": "Wszyscy mieliśmy ten sam pomysł co do tego, na co wskazywała Outis:"
     },
     {
       "id": 52,
-      "content": "The enigmatic ‘Abnormalities’ that might be roaming this facility, as Faust mentioned."
+      "content": "Te tajemnicze ‘Anomalie’ które, jak to wspominała Faust, kiedyś się tu znajdowały."
     },
     {
       "id": 53,
-      "content": "That might be what those shadowy figures are."
+      "content": "Możliwe, że to właśnie tym są te cieniste figury."
     },
     {
       "id": 54,
       "model": "오티스",
-      "content": "…We have no choice but to face them."
+      "content": "…Nie mamy innego wyboru, niż się z nimi zmierzyć."
     },
     {
       "id": 55,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Hey! Who goes there?!"
+      "teller": "Szemrany Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Hej! Kto idzie?!"
     },
     {
       "id": 56,
-      "content": "Instead, what we faced was people."
+      "content": "Zamiast nich, spotkaliśmy zwykłych ludzi."
     },
     {
       "id": 57,
-      "content": "It was too early to deem that as fortunate, though."
+      "content": "No, może nie do końca zwykłych."
     },
     {
       "id": 58,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Huh? I thought we were the only people ‘round here."
+      "teller": "Szemrany Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Huh? Myślałem, że jesteśmy tu tylko my."
     },
     {
       "id": 59,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Did they slip past our team at the entrance? Those scavengers keep coming one after the other."
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Przekradli się obok naszymi przy wejściu? Co chwilę przychodzą nowe sępy."
     },
     {
       "id": 60,
       "model": "히스클리프",
-      "content": "Oi, bug buggers! You friends with the bodies back there?"
+      "content": "Oi, robaczaki! Znacie się z tymi trupami o tam?"
     },
     {
       "id": 61,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Bodies?! You bastards didn’t…"
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Trupami?! Dranie, chyba nie…"
     },
     {
       "id": 62,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Wait."
+      "teller": "Szemrany Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Chwila."
     },
     {
       "id": 63,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…I don’t know where you scum’re from, but hear me out a sec."
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "…Nie wiem, z jakiej paskudnej dziury wypęzliście, ale wysłuchajcie nas."
     },
     {
       "id": 64,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "You’re here for the Enkephalin, aren’t ya? If you go just one floor down, there’s a treasure trove just waiting to be nabbed."
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Przyszliście tu po Enkefalinę, c'nie? Piętro niżej jest jej cała masa, tylko czeka, aż ktoś zaberze."
     },
     {
       "id": 65,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Whatever’s on that floor is yours. We’ll just take what we can here and be on our…"
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Możecie zachować sobie cokolwiek tam znajdziecie. My zostaniemy tutaj i nie będziemy wam nawet wchodzić…"
     },
     {
       "id": 66,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…way. Ha—Haha."
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "…w drogę. Ha—Haha."
     },
     {
       "id": 67,
       "model": "그레고르",
-      "content": "Tsk, so you recognized me, huh."
+      "content": "Tsk, czyli jedmak mnie poznaliście, co?"
     },
     {
       "id": 68,
-      "content": "The moment the soldier’s eyes landed on Gregor’s face…"
+      "content": "Gdy tylko wzrok żołnierzy spoczął na Gregorze…"
     },
     {
       "id": 69,
-      "content": "Their thin veil of kindness was torn down."
+      "content": "Całkiem odpuścili udawaną życzliwość."
     },
     {
       "id": 70,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Traitorous pissant…"
+      "teller": "Szemrany Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Ty zdradziecki skurwielu…"
     },
     {
       "id": 71,
       "model": "그레고르",
-      "content": "Ahh, you must’ve been dispatched to the front lines too. I look better in real life than on those flyers, right?"
+      "content": "Ahh, i jeszcze pewnie byliście na froncie, co? Chyba na żywo wyglądam lepiej niż te plakaty, prawda?"
     },
     {
       "id": 72,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "Cut the cheeky crap! I’m disgusted that I once saluted to your face."
+      "teller": "Szemrany Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Skończ pierdolić! Rzygam na myśl, że kiedyś ci salutowałem."
     },
     {
       "id": 73,
       "model": "그레고르",
-      "content": "Whoa, easy there, it’s not like you had to salute me in person."
+      "content": "Ej, ej, spokojnie, przecież nigdy nie musiałeś salutować mi osobiście."
     },
     {
       "id": 74,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "While you posed as a normal member of society thanks to your dumbass privilege freeing you from the side effects…"
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Ty nawet nie miałeś efektów ubocznych, co? Mogłeś żyć normalnym życiem, cholerne specjalne traktowanie…"
     },
     {
       "id": 75,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "We never even got a chance, you fraternizer. We were thrown away right after the war was lost."
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Nigdy nie dali nam szansy, ty dwulicowa kurwo. Gdy tylko wojna się skończyła, wyrzucili nas jak śmieci."
     },
     {
       "id": 76,
       "model": "그레고르",
-      "content": "…I was tossed out all the same, you know. Isn’t that how it is for all the soldiers?"
+      "content": "…Wiecie, mnie też wyrzucili. Czy to właśnie nie tak jest z żołnierzami?"
     },
     {
       "id": 77,
       "model": "그레고르",
-      "content": "So this is the lifestyle you chose? Rifling through the trash like actual bugs?"
+      "content": "No a wy co na to? Grzebiecie w śmieciach jak prawdziwe robaki?"
     },
     {
       "id": 78,
       "model": "오티스",
-      "content": "Halt! No good can come out of taunting your foe!"
+      "content": "Stój! Nic dobrego nie wyniknie z obrażania wroga!"
     },
     {
       "id": 79,
       "model": "그레고르",
-      "content": "You served the military too. Y’know where this is going."
+      "content": "Ty też byłaś w wojsku. Wiesz dokąd to zmierza."
     },
     {
       "id": 80,
       "model": "그레고르",
-      "content": "We’re not getting outta this without a fight."
+      "content": "Nie wyjdziemy stąd bez walki."
     },
     {
       "id": 81,
-      "teller": "Crooked Veteran",
-      "title": "G Corp. Remnant",
-      "content": "…We were planning to let you through, we really were."
+      "teller": "Szemrany Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "…Naprawdę planowaliśmy was puścić."
     },
     {
       "id": 82,
-      "teller": "Vulgar Veteran",
-      "title": "G Corp. Remnant",
-      "content": "But now, I’ll mince you and your traitor friend into mutt meat."
+      "teller": "Wulgarny Weteran",
+      "title": "Niedobitek G Corpu",
+      "content": "Ale teraz musimy przerobić waszego zdradzieckiego kumpla na mielonkę z karalucha."
     },
     {
       "id": 83,
       "model": "히스클리프",
-      "content": "Like hell you were. You were gonna wait for us to climb back up with the Enkephalin so you could backstab us and swipe it."
+      "content": "Ta, gówno prawda. Zamierzaliście czekać jak wrócimy z Enkefaliną, żeby wetknąć nam nóż w plecy i sami ją zgarnąć."
     },
     {
       "id": 84,
       "model": "싱클레어",
-      "content": "W—Wait, were they?"
+      "content": "C-czekaj, serio?"
     },
     {
       "id": 85,
       "model": "히스클리프",
-      "content": "They’ve fallen to rock bottom and below, an’ I swear down they don’t care a whit for honor, eh?"
+      "content": "Już dawno upadli na samo dno. Myślisz, że takich jeszcze obchodzi honor i takie tam?"
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Well-off or broke, people turn on each other as long as there’s something. You’re way too naive to think otherwise."
+      "content": "Bogaci czy spłukani, ludzie rzucają się sobie do gardeł jak tylko mogą coś z tego zyskać. Wiara w ludzi to zwykła naiwność."
     }
   ]
 }
