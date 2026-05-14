@@ -8691,6 +8691,223 @@
       "id": "battle_special_10715_4",
       "desc": "",
 	      "dlg": "Karą dla wszystkich powiązanych stron oraz świadków zbrodni... będzie kompletna i absolutna eksterminacja."
-    }
+    },
+	{
+      "id": "battle_eE_10415_1",
+      "desc": "############ Blade of the House of Spiders Ryoshu ##############이스터 - 메인(상) - 루치오 조우 시",
+      "dlg": "I'll cut you up so you won't dare attempt such mimicry again."
+    },
+    {
+      "id": "battle_eE_10415_2",
+      "desc": "이스터 - 메인(상) - 렌 조우 시",
+      "dlg": "A kim... ty masz być? Nie pamiętam nikogo przypominającego ciebie w Domu Pająków."
+    },
+    {
+      "id": "battle_eE_10415_3",
+      "desc": "이스터 - 메인(상) - 알비나 조우 시",
+      "dlg": "... Przynajmniej dzięki tej zbroi nie muszę patrzeć na twoją odrażającą twarz."
+    },
+    {
+      "id": "battle_eE_10415_4",
+      "desc": "이스터 - 메인(중) - 소라 조우 시",
+      "dlg": "Myślisz, że ten wkurwiający brzęczyk w końcu ucichnie gdy wrzuce twoje poszarpane resztki do jakiegoś ciemnego ścieku?"
+    },
+    {
+      "id": "battle_eE_10415_5",
+      "desc": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
+      "dlg": "... W tym miejscu też jest ktoś taki, jak ja?"
+    },
+    {
+      "id": "battle_eE_10415_6",
+      "desc": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
+      "dlg": "Widzę jak wszystkie nici czasu wplątują się w twoje istnienie."
+    },
+    {
+      "id": "battle_eE_10415_7",
+      "desc": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
+      "dlg": "Gdy będe sama zacierać ostatnie resztki mnie, będe życzyła o to, że tobie też się to kiedyś uda."
+    },
+    {
+      "id": "battle_eE_10415_8",
+      "desc": "이스터 - 메인(하) - 아라야 조우 시",
+      "dlg": "Szkoda... Zobaczyłaś niebo którego nigdy nie chciałaś ujrzeć i zaczęłaś marzyć."
+    },
+    {
+      "id": "battle_eE_10415_9",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 시작",
+      "dlg": "Możesz powtarzać się ile chcesz, ona nigdy sobie tego nie przypomni."
+    },
+    {
+      "id": "battle_eE_10415_10",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
+      "dlg": "I nie wróci tu też, gdy te kwiaty zwiędną."
+    },
+    {
+      "id": "battle_eE_10415_11",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
+      "dlg": "Nie było dnia, w którym nie chciałaś płakać."
+    },
+    {
+      "id": "battle_eE_10415_12",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
+      "dlg": "Dokładnie. Dlatego powinnaś wszystkie je odciąć. Do ostatniej nici."
+    },
+    {
+      "id": "battle_eE_10415_13",
+      "desc": "이스터 - 메인(하) - 뤼엔 조우 시",
+      "dlg": "Ten okropny dźwięk...To ty. Jesteś tym, którego przyszłam tu odciąć."
+    },
+    {
+      "id": "battle_eE_10415_14",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
+      "dlg": "Pewnie nie mogłeś doczekać się tego dnia. Choć nie, nie ty. Tym, który czekał na ten moment był twój bóg, mam racje?"
+    },
+    {
+      "id": "battle_eE_10415_15",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
+      "dlg": "To nie ja z naszej dwójki zasługuje, żeby smażyć się w piekle. To ty."
+    },
+    {
+      "id": "battle_eE_10415_16",
+      "desc": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
+      "dlg": "Mogę to jeszcze odciąć.\nZanim te poplątane, duszące mnie nici zgniotą mnie pod swoją wagą... Uniosę ten miecz na głowę... i odetnę je wszystkie!"
+    },
+    {
+      "id": "battle_eE_10415_17",
+      "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
+      "dlg": "Nie zasługujesz na wytłumaczenia. Potne cię, ponieważ moge oraz chce, dokładnie tak jak ty tłukłaś mnię za każdym razem, kiedy chciałaś wyładować swoje emocje."
+    },
+    {
+      "id": "battle_eE_10415_18",
+      "desc": "이스터 - 거던(히든) - 뤼엔 조우 시",
+      "dlg": "Wolałabym, gdyby twoja śmierć nie była częścią planu twojego bóstwa. Naprawde psuje to słodki smak mojej zemsty."
+    },
+    {
+      "id": "battle_eE_10415_19",
+      "desc": "이스터 - 거던(히든) - 마티아스 조우 시",
+      "dlg": "Ten Relikt, te łańcuchy, ta dziecinna kolekcja zabawek, twoje życie... Znajde każdą rzecz, którą cenisz i odbiore ci ją."
+    },
+    {
+      "id": "battle_eE_10415_20",
+      "desc": "이스터 - 거던(히든) - 칼리스토 조우 시",
+      "dlg": "Zastanawiam się, czy będziesz szczęśliwy gdy moje ostrze cię rozetnie, wiedząć, że twoje dzieło niedługo zostanie ukończone? Czy może będziesz opłakiwał fakt, że nie ujżysz jak dosięgnie swojego finału?"
+    },
+    {
+      "id": "battle_eE_10415_21",
+      "desc": "이스터 - 거던(히든) - 소라 조우 시",
+      "dlg": "Ten pieprzony brzęczyk... Nic dziwnego że Arayashiki rozcięła cię w drobne kawałki."
+    },
+    {
+      "id": "battle_eE_10415_22",
+      "desc": "이스터 - 거던(히든) - 렌 조우 시",
+      "dlg": "... Obcy, a jednak poniekąt znajomy. Ale jak? Nasze nici nigdy nie były ze sobą zaplątane."
+    },
+
+    {
+      "id": "battle_select_10415_1",
+      "desc": "Viewed in Battle",
+      "dlg": "... To tykanie też na końcu się odłamie."
+    },
+    {
+      "id": "battle_endcommand_10415_1",
+      "desc": "Commencing Attack",
+      "dlg": "Jak w obrazku."
+    },
+    {
+      "id": "battle_enemy_break_10415_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Im więcej tnę..."
+    },
+    {
+      "id": "battle_break_10415_1",
+      "desc": "Staggered",
+      "dlg": "Jeszcze nie... Nie chcę jeszcze wracać..."
+    },
+    {
+      "id": "battle_kill_10415_1",
+      "desc": "Enemy Killed",
+      "dlg": "... Czy nienawiść też może ztępieć?"
+    },
+    {
+      "id": "battle_dead_10415_1",
+      "desc": "Death",
+      "dlg": "Nawet po śmierci... Nie zostanie odcięta..."
+    },
+
+    {
+      "id": "battle_s3_10415_1",
+      "desc": "",
+      "dlg": "Zatrę wszystko... tnąc bez końca aż nawet mój oddech wypali się do cna."
+    },
+    {
+      "id": "battle_special_10415_1",
+      "desc": "",
+      "dlg": "Czy w końcu udało mi się ją odciąć...?"
+    },
+    {
+      "id": "battle_special_10415_1_2",
+      "desc": "",
+      "dlg": "Przecięcie."
+    },
+    {
+      "id": "battle_special_10415_2",
+      "desc": "",
+      "dlg": "... Wytrwały jesteś."
+    },
+    {
+      "id": "battle_special_10415_4",
+      "desc": "",
+      "dlg": "Przecież wiesz, że próby przewidzenia moich ruchów nic nie dadzą."
+    },
+    {
+      "id": "battle_special_10415_5",
+      "desc": "",
+      "dlg": "Mam dość ciebię i tej twojej idiotycznej Palermitańskiej techniki—idź w cholere!"
+    },
+    {
+      "id": "battle_special_10415_6",
+      "desc": "",
+      "dlg": "Ostrzegam, będzie gorące. Bardziej niż piekielne płomienie!"
+    },
+    {
+      "id": "battle_special_10415_7",
+      "desc": "",
+      "dlg": "Czy go słyszysz? Ogłuszający ryk każdego momentu mojego życia, wrzeszczącego aby cię zabić!!"
+    },
+    {
+      "id": "battle_special_10415_8",
+      "desc": "",
+      "dlg": "I właśnie tak, aż płomienie dotrą i do tej chwili... pozostanie ona odcięta."
+    },
+    {
+      "id": "battle_special_10415_9",
+      "desc": "",
+      "dlg": "I oto łowy dobiegają końca!"
+    },
+    {
+      "id": "battle_special_10415_9_1",
+      "desc": "",
+      "dlg": "Przewidywanie ich jest bez sensu..."
+    },
+    {
+      "id": "battle_special_10415_9_2",
+      "desc": "",
+      "dlg": "Prosto w cel!"
+    },
+    {
+      "id": "battle_special_10415_9_3",
+      "desc": "",
+      "dlg": "Mam nadzieję, że bolało. Nie wracajcie."
+    },
+    {
+      "id": "battle_special_10415_10",
+      "desc": "",
+      "dlg": "Dusząc się, wytrzymałam.\nRozpaczając, oczekiwałam.\nNiezliczone razy, was przeklinałam."
+    },
+    {
+      "id": "battle_special_10415_11",
+      "desc": "",
+      "dlg": "To, co zostanie aby trzymać w sobie tą wściekłość... będzie wyłącznie cierpiącym supłem nienawiści."
+    }  
   ]
 }
