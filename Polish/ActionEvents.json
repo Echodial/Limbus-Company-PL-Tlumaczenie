@@ -3,28 +3,28 @@
     {
       "id": 101001,
       "name": "Human Offering",
-      "subDesc": "You see clay dolls in the distance.",
-      "desc": "They’re rummaging through corpses, looking for something.\nRelentless demands for an offering ring in the ears.\nThey look like they might jump us at any second.\n\nYou see a dying person nearby, gasping for air.\nShould you offer this person up?\nOr…",
+      "subDesc": "Widzimy przed nami gliniane lalki.",
+      "desc": "Grzebią w trupach, jakby czegoś szukały.\nW uszach odbijają wam się nieustanne prośby o ofiarę.\nLalki wyglądają, jakby miały się na was rzucić.\n\nNiedaleko was zauważasz umierającą osobę, ledwo chwytającą powietre.\nPowinnoś złożyć ją w ofierze?\nCzy może…",
       "options": [
         {
-          "message": "Offer the person.",
-          "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
+          "message": "Złóż osobę.",
+          "messageDesc": "Wszyscy sojusznicy tracą SP. Zdobywasz Dar E.G.O.",
           "result": [
-            "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
+            "Zadowolone ofiarą, gliniane lalki wynoszą gdzieś ciało."
           ]
         },
         {
-          "message": "Don’t offer the person.",
-          "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
+          "message": "Nie składaj osoby.",
+          "messageDesc": "Rozpoczyna potyczkę. Wygraj, by zdobyć silniejszy Dar E.G.O.",
           "result": [
-            "Angered by your inaction, the clay dolls attacked you."
+            "Zdenerwowane twoim niezdecydowaniem, gliniane lalki was atakują."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Złóż Grzesznika.",
           "messageDesc": "……",
           "result": [
-            "“Are your screws loose, Manager?”\n\nThe Sinners seem upset by your decision."
+            "“Powaliło cię, Kierownik?”\n\nGrzesznicy zdają się wkurzeni twoją propozycją."
           ]
         }
       ]
@@ -32,21 +32,21 @@
     {
       "id": 10100101,
       "name": "Human Offering",
-      "subDesc": "You see clay dolls in the distance.",
-      "desc": "Looks like the Sinners are out of the question.\n\nShould you offer up this dying person?\nOr…",
+      "subDesc": "Widzimy przed nami gliniane lalki.",
+      "desc": "Grzesznicy nie pójdą na ofiarę.\n\nPowinniśmy złożyć ją w ofierze?\nCzy może…",
       "options": [
         {
-          "message": "Offer the person.",
-          "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
+          "message": "Złóż osobę.",
+          "messageDesc": "Wszyscy sojusznicy tracą SP. Zdobywasz Dar E.G.O.",
           "result": [
-            "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
+            "Zadowolone ofiarą, gliniane lalki wynoszą gdzieś ciało."
           ]
         },
         {
-          "message": "Don’t offer the person.",
-          "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
+          "message": "Nie składaj osoby.",
+          "messageDesc": "Rozpoczyna potyczkę. Wygraj, by zdobyć silniejszy Dar E.G.O.",
           "result": [
-            "Angered by your inaction, the clay dolls attacked you."
+            "Zdenerwowane twoim niezdecydowaniem, gliniane lalki was atakują."
           ]
         }
       ]
@@ -54,20 +54,20 @@
     {
       "id": 101002,
       "name": "Eternal Rest",
-      "desc": "You hear a faint voice.\n\n“Please, help…”\n\nDo you follow the sound? Or…",
+      "desc": "Słyszysz słaby głos.\n\n“Proszę, pomóż…”\n\nPójdziesz do źródła dźwięku? Czy…",
       "options": [
         {
-          "message": "Check out the source of the voice.",
-          "messageDesc": "Run a Pride check. Gain an E.G.O Gift.",
+          "message": "Sprawdź, skąd dochodzi głos.",
+          "messageDesc": "Przejdź Test Pychy. Zdobądź Dar E.G.O.",
           "result": [
-            "A soldier was crushed under rubble, gasping in agony.\n\n“Please just kill me… It hurts too much.”\n\nYou can’t ignore this person.\nWho will be ordered to bring this soldier to peace?"
+            "Pod gruzem został uwięziony żołnierz, jęcząc w bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.\nKomu rozkażesz posłać tego żołnierza na spoczynek?"
           ]
         },
         {
-          "message": "Ignore the voice.",
+          "message": "Zignoruj go.",
           "messageDesc": "",
           "result": [
-            "It could just have been your senses playing tricks on you.\nIt’s not uncommon for howling wind to be mistaken for a human voice.\n\nYou decided to hurry along."
+            "Równie dobrze mogło wam się przesłyszeć.\nWiatr łatwo pomylić z ludzkim głosem.\n\nPostanawiacie iść dalej."
           ]
         }
       ]
@@ -76,20 +76,20 @@
       "id": 101003,
       "name": "An Encounter with the Unbearable",
       "subDesc": "Crunching sounds jar on your nerves.",
-      "desc": "While traversing a narrow passage, a swarm of cockroaches crawled into the way.\nThe rustling visage is almost revolting.\n\nDo you walk past them? Or…",
+      "desc": "Przechodząc przez wąskie przejście, na waszej drodze pojawia się chmara karaluchów.\nNa ten szeleszczący widok zbiera ci się na wymioty.\n\nPrzejdziesz obok nich? Czy…",
       "options": [
         {
-          "message": "Carefully move past the gross swarm.",
-          "messageDesc": "All allies lose SP",
+          "message": "Przejdź ostrożnie obok ochydne chmary.",
+          "messageDesc": "Wszyscy sojusznicy tracą SP",
           "result": [
-            "“Ewwww… One got on my leg!”\n\nEveryone managed to get through the passage, but their disgust is clearly visible.\nThey seem fatigued by the experience."
+            "“Fuuuujjj… Jeden wszedł mi na nogę!”\n\nWszystkim udało się przejść na drugą stronę, jednak widać było na ich twarzach obrzydzenie.\nWyglądają na wykończonych tym doświadczeniem."
           ]
         },
         {
-          "message": "Enough is enough. Crush the cockroaches with the Sinners.",
-          "messageDesc": "Gregor loses a lot of SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "message": "Dość już tego. Zgnieć z Grzesznikami karaluchy.",
+          "messageDesc": "Gregor traci dużo SP. Rozpoczyna potyczkę. Wygraj, by zdobyć Dar E.G.O.",
           "result": [
-            "“Tsk…”\n\nGregor turned away from the carnage, discontent.\nSoon after, a crowd of angry bug-soldiers came charging for us."
+            "“Tsk…”\n\nGregor niezadowolony odwrócił się od robaczej rzezi.\nPo chwili rzuciła się na nas grupa rozwścieczonych robako-żołnierzy."
           ]
         }
       ]
