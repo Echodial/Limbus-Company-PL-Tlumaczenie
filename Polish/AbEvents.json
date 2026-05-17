@@ -3,14 +3,14 @@
     {
       "id": 800101,
       "title": "백설선택지1",
-      "eventDesc": "A heart torn into thousands of pieces must be kept from all eyes, thus it burrowed into the ground and tangled itself.\n\nYet, someone has to pull up these thorny roots,\nas there is no wound that can remain unearthed.\n\nThe Sinners gave each other looks.\nBeing coiled in piercing, sharp pain was something to avoid even in one’s dreams.",
-      "prevDesc": "The vines growing on the ground are a hassle.\nMaybe there’ll be a chance to get rid of them?",
-      "behaveDesc": "The dry earth must be upturned.\nWhich Sinner was up to the task?",
+      "eventDesc": "Serce rozdarte na tysiąc kawałków musi zostać skryte przed oczami patrzących, tak więc zakopuje się w ziemi, otaczając się cierniami.\n\nJednak ktoś musi wyciągnąć te kolczaste korzenie,\ngdyż żadna rana nie może pozostać nieodkopana.\n\nGrzesznicy spoglądają po sobie.\nBycie otoczonym przebijającym, ostrym bólem jest unikane nawet we śnie.",
+      "prevDesc": "Te pnącza pokrywające podłogę strasznie przeszkadzają.\nMoże uda nam się ich pozbyć?",
+      "behaveDesc": "Sucha ziemia musi zostać wykopana.\nKtóry Grzesznik się tego podejmie?",
       "successDesc": [
-        "{0} walked with shaky steps.\nWith bare hands, they dug up the roots.\n\nIn their hands were the doubts of others.\nThe Sinner realized…\n\nThat while the injury may heal, distrust might take deep root in their heart."
+        "{0} idzie chwiejnym krokiem.\nWykopuje korzenie gołymi rękami.\n\nW rękach czuje zwątpienie innych.\nWtedy dociera to do tego Grzesznika…\n\nO ile rany się zaleczą, nieufność może głęboko zapuścić korzenie w sercu."
       ],
       "failureDesc": [
-        "{0} could not uproot anything.\nIt was no easy task, after all—entangled so tightly together, one couldn’t make heads or tails of it.\n\nClutching itself, the durable web of fiber continued to expand,\nand the Sinners will continue to suffer."
+        "{0} nie może nic wykopać.\nNie jest to proste zadanie, korzenie są splątane tak mocno, że nikt nie mógłby się w tym połapać.\n\nŁapiąc się sa siebie, sieć korzeni się rozrasta,\na Grzesznicy będą nadal cierpieć."
       ]
     },
     {
@@ -42,14 +42,14 @@
     {
       "id": 800105,
       "title": "백설선택지5",
-      "eventDesc": "The Sinners peered at its face.\nThey gazed upon the weathered memories within…\n\nDown to the holes left by pests.\n\nAn apple does not culminate when it ripens to a glossy red.\nWhen the apple browns, cracks, shrivels, and attracts lowly creatures…\nThat is when it has met its golden bliss.\n\nThe Sinners knew now was the time to bring the apple to the earth.",
-      "prevDesc": "The fruit was borne again.\nMaybe this is a chance to destroy it once and for all?",
-      "behaveDesc": "The apple is open for attack.\nWho was the Sinner to bring down the apple in its moment of bliss?",
+      "eventDesc": "Grzesznicy wpatrzyli się w twarz Anomalii.\nWidzieli w nim wyblakłe wspomnienia…\n\nNawet dziury zostawione przez szkodniki.\n\nŻycie jakbłka nie kończy się, kiedy dojrzeje w szkarłatną czerwień.\nDopiero kiedy zbrązowieje, popęka, pomarszczy się i zacznie przyciągać wszelakie okropieństwa…\nWtedy właśnie osiąga złocistą rozkosz.\n\nGrzesznicy wiedzieli. że to była chwila, w której sprowadzają jabłko na ziemię.",
+      "prevDesc": "Owoc narodził się na nowo.\nMoże to nasza szansa, by zniszczyć go raz na zawsze?",
+      "behaveDesc": "Jabłko jest otwarte na atak.\nKtóry z Grzeszników sprowadzi je na ziemię?",
       "successDesc": [
-        "{0} brought the apple to the ground.\nThe fall left a dull thud.\n\nThe fruit was emptied of its lifeblood long ago; only futility remained.\nThis attack allowed the Sinners a brief moment of respite."
+        "{0} zrzuca jabłko na ziemię.\nUpada ono z głuchym odgłosem.\n\nOwoc już dawno został pozbawiony sił życiowych; pozostała tylko próżność.\nTen atak pozwolił Grzesznikom na chwilę wypoczynku."
       ],
       "failureDesc": [
-        "{0} could not strike the apple.\nIt must have been the Sinner’s wavering heart that caused them to falter.\n\nThe mind is such a superficial thing.\nIn any mind, you will find a sense of inferiority that likes to belittle the self."
+        "{0} nie udaje się zrzucić jabłka.\nNiepewne serce Grzesznika musiało.\n\nThe mind is such a superficial thing.\nIn any mind, you will find a sense of inferiority that likes to belittle the self."
       ]
     },
     {
