@@ -380,17 +380,17 @@
       "id": 71,
       "place": "Na pokładzie Mefistofolesa",
       "model": "베르길리우스",
-      "content": "And I thought this would be an easy enough mission for you."
+      "content": "A myślałem, że to będzie dla was prosta misja."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "After allowing the Golden Bough to be taken before your very eyes, you had the gall to walk in with your faces up."
+      "content": "Ale na pewno macie tupet, pokazywać siętutaj po tym, jak pozwoliliście, żeby zwinąć wam Złotą Gałązkę tuż sprzed oczu."
     },
     {
       "id": 73,
       "model": "베르길리우스",
-      "content": "Have I overestimated you?"
+      "content": "Może przeceniłem wasze możliwości?"
     },
     {
       "id": 74,
@@ -400,12 +400,12 @@
     {
       "id": 75,
       "model": "베르길리우스",
-      "content": "Why don’t you give me an excuse, Ms. Faust."
+      "content": "Jakieś wymówki, Panno Faust?"
     },
     {
       "id": 76,
       "model": "파우스트",
-      "content": "As it turns out, immortality wasn’t the solution to everything."
+      "content": "Jak się okazuje, nieśmiertelność nie jest rozwiązaniem na wszystkie problemy."
     },
     {
       "id": 77,
@@ -415,106 +415,106 @@
     {
       "id": 78,
       "model": "베르길리우스",
-      "content": "Anything to say for yourself, Dante?"
+      "content": "A ty masz coś do powiedzenia, Dante?"
     },
     {
       "id": 79,
       "model": "단테",
-      "content": "<There was another group going after the Golden Bough.>"
+      "content": "<Była tam inna grupa szukająca Złotych Gałązek.>"
     },
     {
       "id": 80,
       "model": "단테",
-      "content": "<You had to have known this, so why didn’t you warn me?>"
+      "content": "<Na pewno o tym wiedziałeś, dlaczego nas nie ostrzegłeś?>"
     },
     {
       "id": 81,
       "model": "파우스트",
-      "content": "They’re asking about the other faction that sought the Golden Bough."
+      "content": "Pyta o drugą frakcję, która próbuje zdobyć Złote Gałązki."
     },
     {
       "id": 82,
-      "content": "Faust placidly relayed my words to Vergilius."
+      "content": "Faust spokojnie przekazałe moje słowa Wergiliuszowi."
     },
     {
       "id": 83,
       "model": "베르길리우스",
-      "content": "…Don’t tell me. Are you holding me responsible?"
+      "content": "…Chyba nie uważasz, że to moja wina?"
     },
     {
       "id": 84,
       "model": "베르길리우스",
-      "content": "Tell me then, Dante. Why would we bother sending twelve whole combatants to a place with no threats?"
+      "content": "Powiedz mi, Dante. Po co wysyłać dwunastu bojowników w miejsce, gdzie nie ma żadnych zagrożeń?"
     },
     {
       "id": 85,
       "model": "베르길리우스",
-      "content": "After hiring Fixers to guide them, too."
+      "content": "Jeszcze po wynajęciu Fixerów do pomocy."
     },
     {
       "id": 86,
       "model": "단테",
-      "content": "<That’s…>"
+      "content": "<To…>"
     },
     {
       "id": 87,
       "model": "그레고르",
-      "content": "Enough of that, Manager Bud."
+      "content": "Wystarczy już, szefunciu."
     },
     {
       "id": 88,
       "model": "그레고르",
-      "content": "It’s my fault. If you want someone to blame, I’m right here…"
+      "content": "To moja wina. Jeśli chcesz kogoś obwiniać, to oto jestem…"
     },
     {
       "id": 89,
       "model": "베르길리우스",
-      "content": "How fascinating."
+      "content": "Fascynujące."
     },
     {
       "id": 90,
       "model": "베르길리우스",
-      "content": "Built a sense of camaraderie between you already."
+      "content": "Widzę, że już zaczynacie zżywać się ze sobą."
     },
     {
       "id": 91,
       "model": "베르길리우스",
-      "content": "Well, I do suppose it’s not too bad to cover up for each other since you’re all in the same bus…"
+      "content": "No, pewnie dobrze jest stać ręka w rękę, skoro i tak jedziecie tym samym busem…"
     },
     {
       "id": 92,
       "model": "베르길리우스",
-      "content": "Just know that sticking up for one another doesn’t make up for your incompetence."
+      "content": "Pamiętajcie tylko, że nadstawianie za innych karku nie wymazuje waszej nieudolności."
     },
     {
       "id": 93,
       "model": "파우스트",
-      "content": "…We got a call. After Team’s Spec Ops Section 4 has just gone underground for their job."
+      "content": "…Dostaliśmy właśnie telefon. Siły Specjalne 4 Sekcji After Team'u wkroczyły do budynku."
     },
     {
       "id": 94,
       "model": "베르길리우스",
-      "content": "That sounds about right. Someone has to salvage the E.G.O and Abnormalities left there."
+      "content": "Ano, rzeczywiście. Ktoś musi przejąć zostawione tam E.G.O i Anomalie."
     },
     {
       "id": 95,
       "model": "베르길리우스",
-      "content": "…A real shame that the essence was lost, though."
+      "content": "…Jaka szkoda, że straciliśmy najważniejszy łup."
     },
     {
       "id": 96,
       "model": "오티스",
-      "content": "This is getting excessive."
+      "content": "To już lekka przesada."
     },
     {
       "id": 97,
       "model": "오티스",
-      "content": "Failure is a common thing on the battlefield. If an objective wasn’t met, you devise another plan and redeploy."
+      "content": "Porażka jest częstą częścią wojny. Jeśli nie udało się spełnić celu, należy się przegrupować i wrócić do walki z nowym planem."
     },
     {
       "id": 98,
       "model": "오티스",
-      "content": "Are you sure it wasn’t your expectations that were too high for our first mission? I will have you know that our manager’s performance was nothing short of outstanding."
+      "content": "Czy to na pewno twoje oczekiwania nie były zbyt wysokie jak na pierwszą misję? Wiedz, że nasz Kierownik spisało się niezarzeczalnie wybitnie."
     },
     {
       "id": 99,
@@ -524,101 +524,101 @@
     {
       "id": 100,
       "model": "베르길리우스",
-      "content": "I suppose we’ll leave it at that. You’re not entirely wrong."
+      "content": "Na tym poprzestańmy. Może i masz w tym jakąś rację."
     },
     {
       "id": 101,
       "model": "파우스트",
-      "content": "Certainly."
+      "content": "Z pewnością."
     },
     {
       "id": 102,
-      "content": "There seemed to be an uncanny tension between Vergilius and Faust…"
+      "content": "Zdawało mi się, że pomiędzy Wergiliuszem i Faust panuje dziwne napięta atmosfera…"
     },
     {
       "id": 103,
-      "content": "But right now, I had neither the energy nor the willpower left in me to get inquisitive."
+      "content": "Ale w tej chwili nie miałom ani sił, ani ochoty na zadawanie pytań."
     },
     {
       "id": 104,
-      "content": "The bus reeked of blood with all the stains and gore on our outfits, yet none of us tried to open the windows."
+      "content": "W busie panował metaliczny zapach dochodzący z krwi i flaków na naszych ubraniach, jednak nikt z nas nie chciał otworzyć okien."
     },
     {
       "id": 105,
-      "content": "And no one had the urge to have a change of clothes."
+      "content": "Nikt też nie kwapił się przebrać."
     },
     {
       "id": 106,
-      "content": "All of us just sat in place, dwelling on silence."
+      "content": "Wszyscy tylko siedzieliśmy na swoich miejscach, rozmyślając w ciszy."
     },
     {
       "id": 107,
-      "content": "Gregor had the most defeated look of them all, staring out the window…"
+      "content": "Gregor wyglądał na najbardziej przybitego z nas, patrząc się za okno…"
     },
     {
       "id": 108,
-      "content": "Then, he suddenly went to hang something from his pocket near the windshield of the bus."
+      "content": "Po czyn nagel wstał, wyjął coś z kieszeni i zawiesił to przy przedniej szybie busa."
     },
     {
       "id": 109,
       "model": "카론",
-      "content": "Bug Guy. What did you put on Mephi’s head?"
+      "content": "Robaczek. Co kładziesz na głowie Mefiego?"
     },
     {
       "id": 110,
       "model": "그레고르",
-      "content": "…A memento."
+      "content": "…Memento."
     },
     {
       "id": 111,
       "model": "그레고르",
-      "content": "Something that belonged to the two."
+      "content": "Memento za dwójkę."
     },
     {
       "id": 112,
       "model": "그레고르",
-      "content": "I had a sister, just about Yuri’s age."
+      "content": "Miałem siostrę, mniej więcej w tym samym wieku co Yuri."
     },
     {
       "id": 113,
       "model": "그레고르",
-      "content": "That’s… all there is."
+      "content": "I… to w sumie tyle."
     },
     {
       "id": 114,
-      "content": "I considered giving him a pep talk, but that quickly dissipated."
+      "content": "Chciałom powiedzieć coś, żeby podnieść go na duchu, ale szybko się rozmyśliłom."
     },
     {
       "id": 115,
-      "content": "Ishmael wore a grieving look, Sinclair was quietly weeping, and Rodya let out a distressed sigh; if they couldn’t offer him any encouragement, what good would I do?"
+      "content": "Ishmael patrzyła ponuro, Sinclair szlochał cicho, a Rodya wzdychała nieszczęśliwie; jeśli oni nie mogli go pocieszyć, na co ja mogłom się zdać?"
     },
     {
       "id": 116,
       "model": "베르길리우스",
-      "content": "Charon, won’t this get in your way?"
+      "content": "Charon, nie będzie ci to przeszkadzać?"
     },
     {
       "id": 117,
       "model": "카론",
-      "content": "No, Charon’ll be fine."
+      "content": "Nie, Charon sobie poradzi."
     },
     {
       "id": 118,
       "model": "베르길리우스",
-      "content": "…Alright, let’s hit the road."
+      "content": "…W porządku, a więc jedźmy."
     },
     {
       "id": 119,
       "model": "카론",
-      "content": "Vroom-vroom."
+      "content": "Brum-brum."
     },
     {
       "id": 120,
-      "content": "The bus slowly grumbled forward."
+      "content": "Bus powoli toczył się do przodu."
     },
     {
       "id": 121,
-      "content": "The gas mask hanging by the windshield waved like an ornament."
+      "content": "A na przedniej szybie zwisiała ozdobnie maska gazowa."
     },
     {
       "id": 122
