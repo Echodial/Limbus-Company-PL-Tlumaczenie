@@ -100,7 +100,7 @@
     {
       "id": 800205,
       "prevDesc": "Wyczuwasz złowrogi blask.",
-      "behaveDesc": "Gwiazdy błyszczą.\nGdy w pełni zaświecą, zabiorą nasz wzrok.\nJaki dar spodoba się gwiazdom?"
+      "behaveDesc": "Gwiazdy migoczą w naszą stronę.\nGdy w pełni zaświecą, zabiorą nasz wzrok.\nJaki dar spodoba się gwiazdom?"
     },
     {
       "id": 800206,
@@ -142,14 +142,14 @@
     {
       "id": 10100201,
       "title": "Eternal Rest",
-      "eventDesc": "A soldier was crushed under rubble, gasping in agony.\n\n“Please just kill me… It hurts too much.”\n\nYou can’t ignore this person.",
+      "eventDesc": Pod gruzem został uwięziony żołnierz, jęcząc z bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.",
       "prevDesc": "",
-      "behaveDesc": "Who will undertake bringing this soldier to peace?",
+      "behaveDesc": "Komu rozkażesz ukrócić cierpienie żołnierza?",
       "successDesc": [
-        "“Thank… you…”\n\nThe soldier’s life was delivered a coup de grâce by the knife.\nThe human rhythm that rose through the blade soon ceased, and the soldier was eased into eternal rest."
+        "“Dzię… kuję…”\n\nOstrze noża zakończyło życie żołnierza.\nRytm życia rozchodzący się po ostrzu słabnie i znika, a żołnierz odchodzi na wieczny spoczynek."
       ],
       "failureDesc": [
-        "“Gyaagh…!”\n\nThe knife came down upon the wrong spot.\nThe soldier’s bloody coughs and face full of terror felt like they endured for an eternity.\n\nIt took a while for that suffering soldier to pass away.\nRegret and hate were the final things in those eyes."
+        "“Gyaagh…!”\n\nNóż trafił w złe miejsce.\nPo zaprawionym krwią kaszlu i przerażenie wypisane na twarzy widać było, że leżał tu od dawna.\n\nŚmierć nie spieszyła się z zabraniem tego cierpiącego żołnierza.\nOstatnią rzeczą w jego oczach był żal i nienawiść."
       ]
     },
     {
