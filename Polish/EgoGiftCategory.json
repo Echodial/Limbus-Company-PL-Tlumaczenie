@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "Combustion",
-      "name": "Burn"
+      "name": "Podpalenie"
     },
     {
       "id": "Laceration",
-      "name": "Bleed"
+      "name": "Krwawienie"
     },
     {
       "id": "Vibration",
-      "name": "Tremor"
+      "name": "Drżenie"
     },
     {
       "id": "Burst",
-      "name": "Rupture"
+      "name": "Pęknięcie"
     },
     {
       "id": "Sinking",
-      "name": "Sinking"
+      "name": "Zrozpaczenie"
     },
     {
       "id": "Breath",
-      "name": "Poise"
+      "name": "Tchnienie"
     },
     {
       "id": "Charge",
-      "name": "Charge"
+      "name": "Naładowanie"
     },
     {
       "id": "Random",
-      "name": "Random"
+      "name": "Losowe"
     },
     {
       "id": "Slash",
-      "name": "Slash"
+      "name": "Cięcie"
     },
     {
       "id": "Penetrate",
-      "name": "Pierce"
+      "name": "Dźganie"
     },
     {
       "id": "Hit",
-      "name": "Blunt"
+      "name": "Uderzenie"
     },
     {
       "id": "None",
-      "name": "Keywordless"
+      "name": "Bez Słowa Klucza"
     }
   ]
 }
