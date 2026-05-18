@@ -60,7 +60,7 @@
           "message": "Sprawdź, skąd dochodzi głos.",
           "messageDesc": "Przejdź Test Pychy. Zdobądź Dar E.G.O.",
           "result": [
-            "Pod gruzem został uwięziony żołnierz, jęcząc w bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.\nKomu rozkażesz posłać tego żołnierza na spoczynek?"
+            "Pod gruzem został uwięziony żołnierz, jęcząc z bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.\nKomu rozkażesz ukrócić cierpienie żołnierza?"
           ]
         },
         {
@@ -591,16 +591,16 @@
       "id": 800201,
       "name": "아즈텍원판 선택지1",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "There are many ways to calm one down,\nbut this Abnormality seems to like gifts the most.\nA fresh batch of blood might be able to appease it.",
+      "desc": "Istnieje wiele sposobów, by kogoś uspokoić,\njednak ta Anomalia zdaje się najbardziej lubieć prezenty.\nOdrobina świeżej krwi powinna się nadać.",
       "options": [
         {
-          "message": "Offer a clay doll.",
+          "message": "Złóż w ofierze lalkę.",
           "result": [
-            "You gave a living clay doll as tribute.\nSatiated, the Abnormality calmed down for a moment."
+            "Oddajesz daninę w postaci lalki.\nBędąc zadowolona, Anomalia chwilowo się uspokoiła."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Złóż w ofierze Grzesznika.",
           "result": [
             ""
           ]
@@ -611,16 +611,16 @@
       "id": 800203,
       "name": "아즈텍원판 선택지3",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "To weaken the flame, you’ll need cool water.\nSince we aren’t carrying any buckets of water, we should offer up someone cool instead.",
+      "desc": "By zgasić płomień, porzeba zimnej wody.\nNiestety nie nosimy ze sobą wiader, zamiast tego możemy posłać kogoś chłodnego.",
       "options": [
         {
-          "message": "Offer a clay doll.",
+          "message": "Złóż w ofierze lalkę.",
           "result": [
-            "You gave a living clay doll as tribute.\nThe flame shrunk to a flicker."
+            "Oddajesz daninę w postaci lalki.\nPłomień osłabł, aż został tylko lekki żar."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Złóż w ofierze Grzesznika.",
           "result": [
             ""
           ]
@@ -631,10 +631,10 @@
       "id": 800205,
       "name": "아즈텍원판 선택지5",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "The stars are twinkling.\nWhen they shine, they’ll rob us all of our sight.\nWhat gift would the stars like?",
+      "desc": "Gwiazdy migoczą w naszą stronę.\nGdy w pełni zaświecą, zabiorą nasz wzrok.\nJaki dar spodoba się gwiazdom?",
       "options": [
         {
-          "message": "Offer a Sinner.",
+          "message": "Złóż w ofierze Grzesznika.",
           "result": [
             ""
           ]
