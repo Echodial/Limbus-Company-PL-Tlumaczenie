@@ -49,69 +49,69 @@
         "{0} zrzuca jabłko na ziemię.\nUpada ono z głuchym odgłosem.\n\nOwoc już dawno został pozbawiony sił życiowych; pozostała tylko próżność.\nTen atak pozwolił Grzesznikom na chwilę wypoczynku."
       ],
       "failureDesc": [
-        "{0} nie udaje się zrzucić jabłka.\nNiepewne serce Grzesznika musiało.\n\nThe mind is such a superficial thing.\nIn any mind, you will find a sense of inferiority that likes to belittle the self."
+        "{0} nie udaje się zrzucić jabłka.\nWachanie spowodowane niepewne sercem Grzesznika musiało przeszkodzić.\n\nWszystkie umysły są takie same.\nIW każdym można znaleźć poczucie niższości, skłonne uwłaczać samemu sobie."
       ]
     },
     {
       "id": 800801,
       "title": "구더기사과선택지1",
-      "eventDesc": "The apple’s body broke, and the raging fruit still grew.\nCould the Golden Bough really be in there?\n\n“I’ll go check it out!”\nYuri said to the others.\n\nThe Sinner with a bug’s arm seems nervous about this.\nDoes he want to go with her, perhaps?",
-      "prevDesc": "Maybe the Golden Bough lies inside the apple?",
-      "behaveDesc": "You can’t just send Yuri out there alone.\nWhat Sinner will be able to keep her safe?",
+      "eventDesc": "Ciało jabłka pękło, choć owoc wciąż rósł.\nCzy Złota Gałązka na pewno może tam być?\n\n“Pójdę zobaczyć!”\nPowiedziała do pozostałych Yuri.\n\nGrzesznik z robaczą ręką zdaje się być niepewny.\nMoże chce pójść razem z nią?",
+      "prevDesc": "Może Złota Gałązka jest gdzieś w jabłku?",
+      "behaveDesc": "Nie możecie po prostu posłać Yuri samej.\nKtóry z Grzeszników pójdzie razem z nią?",
       "successDesc": [
-        "The fruit’s cracked shell suddenly began to rattle as if it would jump at any moment.\n\n{0} managed to escape, but it seems Yuri couldn’t.\nThe fruit’s flesh melted to form a new body.\n\nDon’t feel too guilty about it. One lost life is better than two."
+        "Pęknięta skorupa owocu zaczęła trżęść się, jakby miał w każdej chwili na was skoczyć.\n\n{0} udało się uciec, jednak Yuri nie miała tyle szczęścia.\nMiąsz owocu już zlał się z nią, by stworzyć nowe ciało.\n\nNie czuj się o to winne. Jedno stracone życie to i tak lepiej niż dwa."
       ],
       "failureDesc": [
-        "The fruit’s cracked shell suddenly began to rattle as if it would jump at any moment.\n\n{0} was too occupied to notice it in time.\nThey managed to get away but ended up injured.\n\nYuri was even later to notice. The fruit’s flesh had already melted with her to form a new body.\n\nIt’s unfortunate, but there’s nothing we can do about it. One of our own got hurt, too."
+        "Pęknięta skorupa owocu zaczęła trżęść się, jakby miał w każdej chwili na was skoczyć.\n\n{0} ledwo udało się odskoczyć na czas.\nŻyje, choć nie bez szwanku.\n\nYuri zauważyła jeszcze później. Miąsz owocu już zlał się z nią, by stworzyć nowe ciało.\n\nOkropna szkoda, ale nic nie mogłoś na to poradzić. Do tego oberwał jeden z waszych."
       ]
     },
     {
       "id": 800201,
-      "prevDesc": "The Abnormality looks upset.\nIt seems to want something, but what should we give?"
+      "prevDesc": "Anomalia wygląda na wkurzoną.\nChyba czegoś chce, ale co my możemy jej dać?"
     },
     {
       "id": 800202,
       "title": "아즈텍원판선택지2",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Who would appease the Abnormality?",
+      "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
+      "behaveDesc": "Kto zadowoli Anomalię?",
       "successDesc": [
-        "It appears that {0}’s blood was fresh enough.\nSatiated, the Abnormality calmed down for a moment."
+        "Zdaje się, że krew {0} wystarczyła.\nBędąc zadowolona, Anomalia chwilowo się uspokoiła."
       ],
       "failureDesc": [
-        "It didn’t seem to like {0}’s blood.\nThe Abnormality looks even madder than before."
+        "Zdaje się, że krew {0} nie przypadła Anomalii do gustu.\nTeraz wygląda na jeszcze wścieklejszą niż wcześniej."
       ]
     },
     {
       "id": 800203,
-      "prevDesc": "The heat of the Abnormality is wearing everyone down.\nWe’ll have to make an offering to calm its wrath."
+      "prevDesc": "Ciepło bijące od anomalii wszystkich powoli wykańcza.\nMusimy złożyć dla niej ofiarę, by ostudzij jej gniew."
     },
     {
       "id": 800204,
       "title": "아즈텍원판선택지4",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Whose heart would be the coldest among them?",
+      "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
+      "behaveDesc": "Kto ma najchłodniejsze serce?",
       "successDesc": [
-        "{0} was able to cool the Abnormality’s fervor.\nThe flame shrunk to a flicker."
+        "{0} udało się stłumić zapał Anomalii.\nPłomień osłabł, aż został tylko lekki żar."
       ],
       "failureDesc": [
-        "Maybe {0} was warmer than we thought.\nThe Abnormality’s belching an even fiercer flame now."
+        "Może w {0} było więcej ciepła niż myśleliśmy.\nAnomalia zaczyna jeszcze mocniej pluć ogniem."
       ]
     },
     {
       "id": 800205,
-      "prevDesc": "You sense a dangerous glow.",
-      "behaveDesc": "The stars are twinkling.\nWhen they shine, they’ll rob us all of our sight.\nWhat gift would the stars like?"
+      "prevDesc": "Wyczuwasz złowrogi blask.",
+      "behaveDesc": "Gwiazdy błyszczą.\nGdy w pełni zaświecą, zabiorą nasz wzrok.\nJaki dar spodoba się gwiazdom?"
     },
     {
       "id": 800206,
       "title": "아즈텍원판선택지6",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Whose voice could lull the stars to sleep?",
+      "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
+      "behaveDesc": "Czyj głos ukoi gwiazdy do snu?",
       "successDesc": [
-        "{0}’s lullaby brought the stars into a deep slumber.\nTheir starlight will leave us be for a while."
+        "Dzięki kołysance {0} gwiazdy zapadły w głęboki sen.\nIch blask zostawi nas, chodźby na chwilę."
       ],
       "failureDesc": [
-        "{0}’s lullaby ended up waking the stars.\nIt appears that they are about to punish us.\n\nAn unimaginably bright flash will burn all of our eyes.\nPerhaps the cosmos will reveal itself before our scorched sockets."
+        "Kołysanka {0} obudziła gwiazdy.\nI wygląda na to, że nas za to ukarzą.\n\nNiewyobrażalnie jasny blask wypalił nam oczy.\nByć może przed naszymi spalonymi oczami ukazał się sam kosmos."
       ]
     },
     {
