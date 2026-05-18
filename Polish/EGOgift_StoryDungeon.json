@@ -2,67 +2,67 @@
   "dataList": [
     {
       "id": 1001,
-      "name": "Mask of a Devotee",
-      "desc": "All allies gain +5 Defense Level.",
+      "name": "Maska Wyznawcy",
+      "desc": "Wszyscy sojusznicy zyskują +5 Poziomów Obrony.",
       "simpleDesc": [
         {
           "abilityID": 1001,
-          "simpleDesc": "Defense Level +5"
+          "simpleDesc": "+5 Poziomów Obrony"
         }
       ]
     },
     {
       "id": 1002,
-      "name": "Shoddy Dressing",
-      "desc": "All allies gain +10% Max HP.",
+      "name": "Liche Bandaże",
+      "desc": "Wszyscy sojusznicy zyskują +10% Maks HP.",
       "simpleDesc": [
         {
           "abilityID": 1002,
-          "simpleDesc": "Max HP +10%"
+          "simpleDesc": "+10% Maks HP"
         }
       ]
     },
     {
       "id": 1003,
-      "name": "Festered Fragment",
-      "desc": "At the start of the turn, allies with 50% or less health heal 5 HP.",
+      "name": "Przegniły Odłamek",
+      "desc": "Na początku tury, sojusznicy, którzy mają mniej niż 50% swojego zdrowia leczą się o 5 HP.",
       "simpleDesc": [
         {
           "abilityID": 1003,
-          "simpleDesc": "Allies at <50% health heal 5 HP"
+          "simpleDesc": "Sojusznicymający <50% zdrowia leczą 5 HP"
         }
       ]
     },
     {
       "id": 1004,
-      "name": "Bloodied Mask of a Devotee",
-      "desc": "All allies gain +5 Offense Level and +5 Defense Level",
+      "name": "Zakrwawiona Maska Wyznawcy",
+      "desc": "Wszyscy sojusznicy zyskują +5 Poziomów Ataku +5 Poziomów Obrony",
       "simpleDesc": [
         {
           "abilityID": 1004,
-          "simpleDesc": "Offense & Defense Levels +5"
+          "simpleDesc": "+5 Poziomów Ataku i Obrony"
         }
       ]
     },
     {
       "id": 1005,
-      "name": "Ebony Brooch",
-      "desc": "For the first 3 turns of battle, inflict 2 Bind on all enemies.",
+      "name": "Hebanowa Broszka",
+      "desc": "Przez pierwsze 3 tury potyczki, nałóż na wszystkich przeciwników 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>.",
       "simpleDesc": [
         {
           "abilityID": 1005,
-          "simpleDesc": "Inflict 2 Bind"
+          "simpleDesc": "Nakłada 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>"
         }
       ]
     },
     {
       "id": 1006,
-      "name": "Etched Doomsday",
-      "desc": "On the first turn of battle, inflict 1 Burn on all enemies 5 times.",
+      "name": "Zagłada Zapisana W Kamieniu",
+      "desc": "W pierwszej turze potyczki, pięciokrotnie nałóż 1 Podpalenie na wszystkich przeciwników.",
       "simpleDesc": [
         {
           "abilityID": 1006,
-          "simpleDesc": "Inflict 1 Burn"
+          "simpleDesc": "Nakłada Podpalenie"
         }
       ]
     },
@@ -80,7 +80,7 @@
     {
       "id": 1012,
       "name": "Toy Foot",
-      "desc": "All allies gain +1 Speed.",
+      "desc": "Wszyscy sojusznicy zyskują +1 Speed.",
       "simpleDesc": [
         {
           "abilityID": 1012,
@@ -91,19 +91,19 @@
     {
       "id": 1013,
       "name": "Toy Screw",
-      "desc": "All allies gain +10% Max HP.",
+      "desc": "Wszyscy sojusznicy zyskują +10% Maks HP.",
       "abnormalityName": "Cyborg",
       "simpleDesc": [
         {
           "abilityID": 1013,
-          "simpleDesc": "Max HP +10%"
+          "simpleDesc": "Maks HP +10%"
         }
       ]
     },
     {
       "id": 1014,
       "name": "Rainbow Mainspring",
-      "desc": "At the start of the turn, apply 2 Protection to the ally with the least HP.",
+      "desc": "Na początku tury, apply 2 Protection to the ally with the least HP.",
       "simpleDesc": [
         {
           "abilityID": 1014,
@@ -114,7 +114,7 @@
     {
       "id": 1015,
       "name": "Rusty Mainspring",
-      "desc": "At the start of the turn, apply 1 Protection to the ally with the least HP.",
+      "desc": "Na początku tury, apply 1 Protection to the ally with the least HP.",
       "simpleDesc": [
         {
           "abilityID": 1015,
@@ -221,7 +221,7 @@
     {
       "id": 1034,
       "name": "Blood-red Mane",
-      "desc": "Allies with Lust skills gain the following effects:\nIf the unit took no damage from attacks this turn, gain 2 Haste and 2 Defense Power Up next turn.\nIf the unit took damage from attacks this turn, gain 2 Bind and 2 Attack Power Up next turn.",
+      "desc": "sojusznicy, którzy mają Lust skills gain the following effects:\nIf the unit took no damage from attacks this turn, gain 2 Haste and 2 Defense Power Up next turn.\nIf the unit took damage from attacks this turn, gain 2 Bind and 2 Attack Power Up next turn.",
       "simpleDesc": [
         {
           "abilityID": 1034,
@@ -269,7 +269,7 @@
     {
       "id": 1040,
       "name": "Sparkling Skull",
-      "desc": "At the start of the turn, if the character took 10+ damage last turn, heal 5-15 HP.",
+      "desc": "Na początku tury, if the character took 10+ damage last turn, heal 5-15 HP.",
       "simpleDesc": [
         {
           "abilityID": 1040,
@@ -280,7 +280,7 @@
     {
       "id": 1041,
       "name": "Hemorrhagic Hand",
-      "desc": "At the start of the turn, apply 2 Attack Power Up to allies at 25% or lower health.",
+      "desc": "Na początku tury, apply 2 Attack Power Up to allies at 25% or lower health.",
       "simpleDesc": [
         {
           "abilityID": 1041,
@@ -324,11 +324,11 @@
     {
       "id": 1046,
       "name": "Green Skin",
-      "desc": "If an ally takes a lethal attack, they heal 50% of their Max HP.\n(Once per dungeon and expires after activation.)",
+      "desc": "If an ally takes a lethal attack, they heal 50% of their Maks HP.\n(Once per dungeon and expires after activation.)",
       "simpleDesc": [
         {
           "abilityID": 1046,
-          "simpleDesc": "Heal 50% of Max HP"
+          "simpleDesc": "Heal 50% of Maks HP"
         }
       ]
     },
@@ -438,7 +438,7 @@
     {
       "id": 2001,
       "name": "Small Ampule",
-      "desc": "At the start of the turn, allies under 40% HP heal 100% of Max HP. (Once per floor)",
+      "desc": "Na początku tury, allies under 40% HP heal 100% of Maks HP. (Once per floor)",
       "simpleDesc": [
         {
           "abilityID": 2001,
