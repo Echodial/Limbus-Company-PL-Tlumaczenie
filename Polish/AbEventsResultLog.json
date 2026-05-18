@@ -2,123 +2,123 @@
   "dataList": [
     {
       "id": "800101_whitesnow_success_1_1",
-      "content": "<color=#ebcaa2>The effects of [{0}]</color> <color=#e30000>expired.</color>"
+      "content": "<color=#ebcaa2>Efekty zdolności [{0}]</color> <color=#e30000>wygasają.</color>"
     },
     {
       "id": "800101_whitesnow_failure_1_1",
-      "content": "<color=#ebcaa2>Nothing happened.</color>"
+      "content": "<color=#ebcaa2>Nic się nie stało.</color>"
     },
     {
       "id": "800105_whitesnow_success_1_1",
-      "content": "The <color=#ebcaa2>[{0}]</color> <color=#f8c200>got broken!</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#f8c200>został zniszczony!</color>"
     },
     {
       "id": "800105_whitesnow_success_1_2",
-      "content": "<color=#ebcaa2>[{0}] got Staggered!</color>"
+      "content": "<color=#ebcaa2>[{0}] została Zachwiana!</color>"
     },
     {
       "id": "800105_whitesnow_failure_1_1",
-      "content": "<color=#ebcaa2>Nothing happened.</color>"
+      "content": "<color=#ebcaa2>Nic się nie stało.</color>"
     },
     {
       "id": "800801_muckwormedapple_success_1_1",
-      "content": "<color=#ebcaa2>The Golden Apple formed a new body!</color>"
+      "content": "<color=#ebcaa2>Złote Jabłko tworzy nowe ciało!</color>"
     },
     {
       "id": "800801_muckwormedapple_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses [{1}] HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci [{1}] HP.</color>"
     },
     {
       "id": "800801_muckwormedapple_failure_1_2",
-      "content": "All of [{0}]’s parts gain %{3} {2} for {1} turn(s)/%."
+      "content": "Wszystkie części [{0}] zyskują %{3} {2} na {1} tury/%."
     },
     {
       "id": "800801_muckwormedapple_failure_1_3",
-      "content": "<color=#ebcaa2>The Golden Apple formed a new body!</color>"
+      "content": "<color=#ebcaa2>Złote Jabłko tworzy nowe ciało!</color>"
     },
     {
       "id": "800201_aztec_circle_1_1",
-      "content": "<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%."
+      "content": "<color=#ebcaa2>Wszystkie części [{0}]</color> <color=#ebcaa2>zyskują</color> %{2} [{1}]/%."
     },
     {
       "id": "800202_aztec_circle_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800202_aztec_circle_success_1_2",
-      "content": "<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%."
+      "content": "<color=#ebcaa2>Wszystkie części [{0}]</color> <color=#ebcaa2>zyskują</color> %{2} [{1}]/%."
     },
     {
       "id": "800202_aztec_circle_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800202_aztec_circle_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>traci {1} SP.</color>"
     },
     {
       "id": "800202_aztec_circle_failure_1_3",
-      "content": "<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}] and {4} [{3}]/%."
+      "content": "<color=#ebcaa2>Wszystkie części [{0}]</color> <color=#ebcaa2>zyskują</color> %{2} [{1}] i {4} [{3}]/%."
     },
     {
       "id": "800203_aztec_circle_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800203_aztec_circle_1_2",
-      "content": "<color=#ebcaa2>[{1}] of [{0}]</color> <color=#e30000>expired.</color>"
+      "content": "<color=#ebcaa2>Zdolność [{1}] </color> <color=#e30000>wygasa.</color>"
     },
     {
       "id": "800204_aztec_circle_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800204_aztec_circle_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800204_aztec_circle_success_1_3",
-      "content": "<color=#ebcaa2>[{1}] of [{0}]</color> <color=#e30000>expired.</color>"
+      "content": "<color=#ebcaa2>Zdolność [{1}] </color> <color=#e30000>wygasa.</color>"
     },
     {
       "id": "800204_aztec_circle_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800204_aztec_circle_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>traci {1} SP.</color>"
     },
     {
       "id": "800204_aztec_circle_failure_1_3",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800204_aztec_circle_failure_1_4",
-      "content": "%{1} [{0}]/% <color=#ebcaa2>applied</color> to <color=#ebcaa2>all Sinners.</color>"
+      "content": "<color=#ebcaa2>Nakłada</color> %{1} [{0}]/% na <color=#ebcaa2>wszystkich Grzeszników.</color>"
     },
     {
       "id": "800206_aztec_circle_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800206_aztec_circle_success_1_2",
-      "content": "<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose {0} SP.</color>"
+      "content": "<color=#ebcaa2>Wszyscy Grzesznicy</color> <color=#fe4b48>tracą {0} SP.</color>"
     },
     {
       "id": "800206_aztec_circle_success_1_3",
-      "content": "<color=#ebcaa2>Abnormality Suppressed!</color>"
+      "content": "<color=#ebcaa2>Anomalia unieszkodliwiona!</color>"
     },
     {
       "id": "800206_aztec_circle_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "800206_aztec_circle_failure_1_2",
-      "content": "<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose {0} SP.</color>"
+      "content": "<color=#ebcaa2>Wszyscy Grzesznicy</color> <color=#fe4b48>tracą {0} SP.</color>"
     },
     {
       "id": "800206_aztec_circle_failure_1_3",
-      "content": "<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}] and {4} [{3}]/%."
+      "content": "<color=#ebcaa2>Wszystkie części [{0}]</color> <color=#ebcaa2>zyskują</color> %{2} [{1}] i {4} [{3}]/%."
     },
     {
       "id": "801201_reinforcedHuman_1_1",
@@ -126,7 +126,7 @@
     },
     {
       "id": "801201_reinforcedHuman_1_2",
-      "content": "<color=#ebcaa2>We decided against investigating the factory.</color>"
+      "content": "<color=#ebcaa2>We decided azyskujest investigating the factory.</color>"
     },
     {
       "id": "801202_reinforcedHuman_1_1",
@@ -138,7 +138,7 @@
     },
     {
       "id": "801202_reinforcedHuman_1_2_1",
-      "content": "<color=#ebcaa2>All Identities</color> <color=#e30000>lose {0} HP.</color>"
+      "content": "<color=#ebcaa2>All Identities</color> <color=#e30000>tracą {0} HP.</color>"
     },
     {
       "id": "801202_reinforcedHuman_1_2_2",
@@ -150,7 +150,7 @@
     },
     {
       "id": "801502_pinkshoe_success_1_1",
-      "content": "<color=#ebcaa2>For the remaining turns, all enemies</color> <color=#ebcaa2>gain</color> %{1} [{0}] and {3} [{2}]/%."
+      "content": "<color=#ebcaa2>For the remaining turns, all enemies</color> <color=#ebcaa2>zyskuje</color> %{1} [{0}] i {3} [{2}]/%."
     },
     {
       "id": "801502_pinkshoe_success_1_2",
@@ -158,11 +158,11 @@
     },
     {
       "id": "801502_pinkshoe_failure_1_1",
-      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>"
+      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>tracą {0} HP.</color>"
     },
     {
       "id": "801502_pinkshoe_failure_1_2",
-      "content": "<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{1} [{0}]/%."
+      "content": "<color=#ebcaa2>All allies</color> <color=#ebcaa2>zyskuje</color> %{1} [{0}]/%."
     },
     {
       "id": "801502_pinkshoe_failure_1_3",
@@ -170,11 +170,11 @@
     },
     {
       "id": "102001_action_4_1",
-      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>"
+      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>tracą {0} HP.</color>"
     },
     {
       "id": "102001_action_4_2",
-      "content": "<color=#ebcaa2>All allies</color> <color=#fe4b48>lose {0} SP.</color>"
+      "content": "<color=#ebcaa2>All allies</color> <color=#fe4b48>tracą {0} SP.</color>"
     },
     {
       "id": "102002_action_1_1",
@@ -182,7 +182,7 @@
     },
     {
       "id": "102002_action_1_2",
-      "content": "<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>loses {0} SP.</color>"
+      "content": "<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>traci {0} SP.</color>"
     },
     {
       "id": "102002_action_2_2",
@@ -194,7 +194,7 @@
     },
     {
       "id": "1020201_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "1020203_success_1_1",
@@ -206,7 +206,7 @@
     },
     {
       "id": "1020203_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "acquire_ego_gift",
@@ -214,7 +214,7 @@
     },
     {
       "id": "disappear_ego_gift",
-      "content": "<color=#ebcaa2>The E.G.O Gift ‘{0}’</color> <color=#e30000>expired.</color>"
+      "content": "<color=#ebcaa2>The E.G.O Gift ‘{0}’</color> <color=#e30000>wygasa.</color>"
     },
     {
       "id": "acquire_ego_gift_if_win",
@@ -222,7 +222,7 @@
     },
     {
       "id": "chracter_mp_decrease",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>traci {1} SP.</color>"
     },
     {
       "id": "chracter_mp_increase",
@@ -234,15 +234,15 @@
     },
     {
       "id": "chracter_hp_decrease",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "chracter_hp_mp_decrease",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP<color=#ebcaa2> and <color=#fe4b48>SP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP<color=#ebcaa2> i <color=#fe4b48>SP.</color>"
     },
     {
       "id": "all_ally_hp_decrease",
-      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>"
+      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>tracą {0} HP.</color>"
     },
     {
       "id": "all_ally_hp_increase",
@@ -250,19 +250,19 @@
     },
     {
       "id": "all_ally_mp_decrease",
-      "content": "<color=#ebcaa2>All allies</color> <color=#fe4b48>lose {0} SP.</color>"
+      "content": "<color=#ebcaa2>All allies</color> <color=#fe4b48>tracą {0} SP.</color>"
     },
     {
       "id": "all_ally_hp_mp_decrease",
-      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP<color=#ebcaa2> and <color=#fe4b48>SP.</color>"
+      "content": "<color=#ebcaa2>All allies</color> <color=#e30000>tracą {0} HP<color=#ebcaa2> i <color=#fe4b48>SP.</color>"
     },
     {
       "id": "all_ally_add_buff",
-      "content": "<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{1} {0}/%!"
+      "content": "<color=#ebcaa2>All allies</color> <color=#ebcaa2>zyskuje</color> %{1} {0}/%!"
     },
     {
       "id": "all_ally_add_buff_during_next_n_battle",
-      "content": "<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{2} {1}/% for the next {0} battle(s)."
+      "content": "<color=#ebcaa2>All allies</color> <color=#ebcaa2>zyskuje</color> %{2} {1}/% for the next {0} battle(s)."
     },
     {
       "id": "all_enemy_apply_buff",
@@ -270,7 +270,7 @@
     },
     {
       "id": "character_apply_buff_during_next_n_battle",
-      "content": "<color=#ebcaa2>[{0}] gains</color> %{3} {2}/% <color=#ebcaa2>for the next {1} battle(s).</color>"
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> %{3} {2}/% <color=#ebcaa2>for the next {1} battle(s).</color>"
     },
     {
       "id": "battle_occurrence",
@@ -278,7 +278,7 @@
     },
     {
       "id": "nothing_happend",
-      "content": "<color=#ebcaa2>Nothing happened.</color>"
+      "content": "<color=#ebcaa2>Nic się nie stało.</color>"
     },
     {
       "id": "unlock_hidden_node",
@@ -294,7 +294,7 @@
     },
     {
       "id": "803001_cromer_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>traci {1} SP.</color>"
     },
     {
       "id": "all_ally_mp_increase",
@@ -350,7 +350,7 @@
     },
     {
       "id": "851901_kqe_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>loses all</color> Charge"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>traci all</color> Charge"
     },
     {
       "id": "851901_kqe_success_1_2",
@@ -358,15 +358,15 @@
     },
     {
       "id": "851901_kqe_success_1_3",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%."
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>zyskujes</color> %{2} [{1}]/%."
     },
     {
       "id": "851901_kqe_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}] and {4} [{3}]/%."
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>zyskujes</color> %{2} [{1}] i {4} [{3}]/%."
     },
     {
       "id": "851901_kqe_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%."
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>zyskujes</color> %{2} [{1}]/%."
     },
     {
       "id": "851001_cryingtoad_success_1_1",
@@ -378,11 +378,11 @@
     },
     {
       "id": "851001_cryingtoad_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>traci {1} SP.</color>"
     },
     {
       "id": "803101_waterFish_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]’s body</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]’s body</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "803101_waterFish_failure_1_1",
@@ -390,7 +390,7 @@
     },
     {
       "id": "803201_lightningBeast_success_1_1",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "803201_lightningBeast_failure_1_1",
@@ -398,19 +398,19 @@
     },
     {
       "id": "804501_electriccentipede_success_1_1",
-      "content": "<color=#ebcaa2>[{0}] loses %{2} [{1}]/%</color>"
+      "content": "<color=#ebcaa2>[{0}] traci %{2} [{1}]/%</color>"
     },
     {
       "id": "804501_electriccentipede_success_1_2",
-      "content": "<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%"
+      "content": "<color=#ebcaa2>Wszystkie części [{0}]</color> <color=#ebcaa2>zyskuje</color> %{2} [{1}]/%"
     },
     {
       "id": "804501_electriccentipede_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}] gains %{2} [{1}]/%</color>"
+      "content": "<color=#ebcaa2>[{0}] zyskujes %{2} [{1}]/%</color>"
     },
     {
       "id": "804501_electriccentipede_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>zyskujes</color> %{2} [{1}]/%"
     },
     {
       "id": "804801_gentlefairy_success_1_1",
@@ -418,7 +418,7 @@
     },
     {
       "id": "804801_gentlefairy_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}], {4} [{3}], and {6} [{5}]/%"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>zyskujes</color> %{2} [{1}], {4} [{3}], i {6} [{5}]/%"
     },
     {
       "id": "804801_gentlefairy_failure_1_1",
@@ -426,7 +426,7 @@
     },
     {
       "id": "804801_gentlefairy_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}], {4} [{3}], and {6} [{5}]/%"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>zyskujes</color> %{2} [{1}], {4} [{3}], i {6} [{5}]/%"
     },
     {
       "id": "804601_umbrellafox_success_1_1",
@@ -434,19 +434,19 @@
     },
     {
       "id": "804601_umbrellafox_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>loses {1} SP</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>traci {1} SP</color>"
     },
     {
       "id": "804601_umbrellafox_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>loses {1} SP</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>traci {1} SP</color>"
     },
     {
       "id": "804701_nobodygonnacry_success_1_1",
-      "content": "<color=#ebcaa2>So That No One Will Cry gains</color> 5 Reattached Curse Talisman"
+      "content": "<color=#ebcaa2>So That No One Will Cry zyskujes</color> 5 Reattached Curse Talisman"
     },
     {
       "id": "804701_nobodygonnacry_success_1_2",
-      "content": "[{0}] gains <color=#00ff9c>{2} {1}</color> next turn"
+      "content": "[{0}] zyskujes <color=#00ff9c>{2} {1}</color> next turn"
     },
     {
       "id": "804701_nobodygonnacry_failure_1_1",
@@ -454,39 +454,39 @@
     },
     {
       "id": "805002_egoawakendongrang_success_1_1",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805002_egoawakendongrang_success_1_2",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805002_egoawakendongrang_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}] loses</color> <color=#e30000>{1} HP</color> and <color=#fe4b48>{2} SP</color>"
+      "content": "<color=#ebcaa2>[{0}] traci</color> <color=#e30000>{1} HP</color> i <color=#fe4b48>{2} SP</color>"
     },
     {
       "id": "805002_egoawakendongrang_failure_1_2",
-      "content": "<color=#ebcaa2>All allies gain</color> {1} <color=#e30000>[{0}]</color>"
+      "content": "<color=#ebcaa2>All allies zyskuje</color> {1} <color=#e30000>[{0}]</color>"
     },
     {
       "id": "805004_egoawakendongrang_success_2_1",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805004_egoawakendongrang_success_2_2",
-      "content": "<color=#ebcaa2>All allies gain</color> {1} <color=#e30000>[{0}]</color>"
+      "content": "<color=#ebcaa2>All allies zyskuje</color> {1} <color=#e30000>[{0}]</color>"
     },
     {
       "id": "805004_egoawakendongrang_success_2_3",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805004_egoawakendongrang_failure_2_1",
-      "content": "<color=#ebcaa2>[{0}] loses</color> <color=#e30000>{1} HP</color> and <color=#fe4b48>{2} SP</color>"
+      "content": "<color=#ebcaa2>[{0}] traci</color> <color=#e30000>{1} HP</color> i <color=#fe4b48>{2} SP</color>"
     },
     {
       "id": "805004_egoawakendongrang_failure_2_2",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805006_egoawakendongrang_success_3_1",
@@ -498,27 +498,27 @@
     },
     {
       "id": "805801_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "805801_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805801_failure_1_2",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805901_success_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     },
     {
       "id": "805901_success_1_2",
-      "content": "<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>."
+      "content": "<color=#ebcaa2>[{0}] zyskujes</color> {2} <color=#e30000>[{1}]</color>."
     },
     {
       "id": "805901_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>traci {1} HP.</color>"
     }
   ]
 }
