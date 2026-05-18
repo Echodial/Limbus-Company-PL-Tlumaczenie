@@ -142,7 +142,7 @@
     {
       "id": 10100201,
       "title": "Eternal Rest",
-      "eventDesc": Pod gruzem został uwięziony żołnierz, jęcząc z bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.",
+      "eventDesc": "Pod gruzem został uwięziony żołnierz, jęcząc z bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.",
       "prevDesc": "",
       "behaveDesc": "Komu rozkażesz ukrócić cierpienie żołnierza?",
       "successDesc": [
