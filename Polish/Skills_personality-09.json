@@ -720,7 +720,7 @@
         {
           "level": 1,
           "name": "Kufer Kurierski - Nóż Rozkładu",
-          "desc": "[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -741,7 +741,7 @@
         {
           "level": 2,
           "name": "Kufer Kurierski - Nóż Rozkładu",
-          "desc": "<style=\"highlight\">Mając 10+ [DevyatDimensionalSack], albo gdy cel posiada 6+ [Burst], Moc Monet +1</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
+          "desc": "<style=\"highlight\">Mając 10+ [DevyatDimensionalSack], albo gdy cel posiada 6+ [Burst], Moc Monet +1</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
           "coinlist": [
             {
               "coindescs": [
@@ -762,7 +762,7 @@
         {
           "level": 4,
           "name": "Kufer Kurierski - Nóż Rozkładu",
-          "desc": "<style=\"highlight\">Moc Monet +1 za każde 10 [DevyatDimensionalSack] albo za każde 6 [Burst] na celu (maks 2)</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
+          "desc": "<style=\"highlight\">Moc Monet +1 za każde 10 [DevyatDimensionalSack] albo za każde 6 [Burst] na celu (maks 2)</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
           "coinlist": [
             {
               "coindescs": [
@@ -788,7 +788,7 @@
         {
           "level": 1,
           "name": "Kufer Kurierski - Pokaz Gadżetu",
-          "desc": "Mając 10+ [DevyatDimensionalSack], albo jeżeli cel posiada 6+ [Burst], Moc Monet +1\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu<style=\"highlight\"></style>",
+          "desc": "Mając 10+ [DevyatDimensionalSack], albo jeżeli cel posiada 6+ [Burst], Moc Monet +1\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -816,7 +816,7 @@
         {
           "level": 2,
           "name": "Kufer Kurierski - Pokaz Gadżetu",
-          "desc": "<style=\"highlight\">Moc Monet +1 za każde 10 [DevyatDimensionalSack] lub za każde 6 [Burst] na celu (maks 2)</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
+          "desc": "<style=\"highlight\">Moc Monet +1 za każde 10 [DevyatDimensionalSack] lub za każde 6 [Burst] na celu (maks 2)</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
           "coinlist": [
             {
               "coindescs": [
@@ -844,7 +844,7 @@
         {
           "level": 4,
           "name": "Kufer Kurierski - Pokaz Gadżetu",
-          "desc": "<style=\"highlight\">Zadaj +2% obrażeń za każde [DevyatDimensionalSack] na sobie (maks 40%)</style>\nMoc Monet +1 za każde 10 [DevyatDimensionalSack] lub za każde 6 [Burst] na celu (maks 2)\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
+          "desc": "<style=\"highlight\">Zadaj +2% obrażeń za każde [DevyatDimensionalSack] na sobie (maks 40%)</style>\nMoc Monet +1 za każde 10 [DevyatDimensionalSack] lub za każde 6 [Burst] na celu (maks 2)\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada [Burst] efektami przy uderzeniu",
           "coinlist": [
             {
               "coindescs": [
@@ -877,7 +877,7 @@
         {
           "level": 3,
           "name": "Ufam Ci Polu!",
-          "desc": "Zadaj +2% obrażeń za każde [DevyatDimensionalSack] (maks 40%)\nMając 10+ [DevyatDimensionalSack] na sobie, albo jeżeli cel posiada 6+ [Burst], Moc Monet +1\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada Ilości [Burst] efektami przy uderzeniu; wzamian, użyj ponownie ostaniej Monety<style=\"highlight\"></style>",
+          "desc": "Zadaj +2% obrażeń za każde [DevyatDimensionalSack] (maks 40%)\nMając 10+ [DevyatDimensionalSack] na sobie, albo jeżeli cel posiada 6+ [Burst], Moc Monet +1\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada Ilości [Burst] efektami przy uderzeniu; wzamian, użyj ponownie ostaniej Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -902,7 +902,7 @@
         {
           "level": 4,
           "name": "Ufam Ci Polu!",
-          "desc": "Zadaj <style=\"highlight\">+4%</style> obrażeń za każde [DevyatDimensionalSack] (maks <style=\"highlight\">80%</style>)\n<style=\"highlight\">Moc Monet +1 za każde 10 [DevyatDimensionalSack] na sobie lub za każde 6 [Burst] na celu (maks 2)</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] lubaz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada Ilości [Burst] efektami przy uderzeniu; wzamian, użyj ponownie ostaniej Monety",
+          "desc": "Zadaj <style=\"highlight\">+4%</style> obrażeń za każde [DevyatDimensionalSack] (maks <style=\"highlight\">80%</style>)\n<style=\"highlight\">Moc Monet +1 za każde 10 [DevyatDimensionalSack] na sobie lub za każde 6 [Burst] na celu (maks 2)</style>\n[WhenUse] Jeżeli cel posiada 15+ [Burst] oraz 3+ Ilości [Burst]: ta umiejętność nie pozbywa się Ilości [Burst] na celu przy trafieniu, ale nie nakłada Ilości [Burst] efektami przy uderzeniu; wzamian, użyj ponownie ostaniej Monety",
           "coinlist": [
             {},
             {
@@ -974,7 +974,7 @@
         {
           "level": 1,
           "name": "Znikaj...",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] lubaz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -992,7 +992,7 @@
         {
           "level": 2,
           "name": "Znikaj...",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] lubaz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
           "coinlist": [
             {},
             {
@@ -1010,7 +1010,7 @@
         {
           "level": 4,
           "name": "Znikaj...",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] lubaz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
           "coinlist": [
             {},
             {
@@ -1033,7 +1033,7 @@
         {
           "level": 1,
           "name": "Zmielony w Krwawą Rosę",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] lubaz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] lubaz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,7 +1061,7 @@
         {
           "level": 2,
           "name": "Zmielony w Krwawą Rosę",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] lubaz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] lubaz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "Zmielony w Krwawą Rosę",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] lubaz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] lubaz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2115,7 +2115,7 @@
         {
           "level": 2,
           "name": "Naładowany Cios - 'A to za przypisanie nam Świątecznej zmiany!'",
-          "desc": "<style=\"highlight\">Przy 5+ Ilości [Charge], +1 Mocy Monet\n[DefeatDuel] Zyskaj 4 [Sinking] lubaz +3 Ilości [Charge]</style>",
+          "desc": "<style=\"highlight\">Przy 5+ Ilości [Charge], +1 Mocy Monet\n[DefeatDuel] Zyskaj 4 [Sinking] oraz +3 Ilości [Charge]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2142,7 +2142,7 @@
         {
           "level": 4,
           "name": "Naładowany Cios - 'A to za przypisanie nam Świątecznej zmiany!'",
-          "desc": "<style=\"highlight\">Zadaj +12.5% Obrażeń za każde [Charge] na sobie (maks 50%)</style>\n<style=\"highlight\">At 2+ [Charge], +1 Mocy Monet</style>\nPrzy 5+ Ilości [Charge], +1 Mocy Monet\n[DefeatDuel] Zyskaj 4 [Sinking] lubaz +<style=\"highlight\">4</style> Ilości [Charge]",
+          "desc": "<style=\"highlight\">Zadaj +12.5% Obrażeń za każde [Charge] na sobie (maks 50%)</style>\n<style=\"highlight\">At 2+ [Charge], +1 Mocy Monet</style>\nPrzy 5+ Ilości [Charge], +1 Mocy Monet\n[DefeatDuel] Zyskaj 4 [Sinking] oraz +<style=\"highlight\">4</style> Ilości [Charge]",
           "coinlist": [
             {
               "coindescs": [
@@ -2179,7 +2179,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking] lubaz +1 Ilości [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Sinking] oraz +1 Ilości [Sinking]<style=\"highlight\"></style>"
                 },
                 {}
               ]
@@ -2189,12 +2189,12 @@
         {
           "level": 2,
           "name": "Skupienie - 'Pęknijcie jak bombki!\"",
-          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 5 Ilości [Charge] (maks 2)\n[DefeatDuel] Zyskaj 5 [Sinking] lubaz +2 Ilości [Charge]</style>",
+          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 5 Ilości [Charge] (maks 2)\n[DefeatDuel] Zyskaj 5 [Sinking] oraz +2 Ilości [Charge]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Sinking] lubaz <style=\"highlight\">+2</style> Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Sinking] oraz <style=\"highlight\">+2</style> Ilości [Sinking]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Zyskaj +3 Ilości [Charge]</style>"
@@ -2204,7 +2204,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy mniej niż 8 Ilości [Charge], Zyskaj 5 [Sinking] lubaz +4 Ilości [Charge] (raz na turę)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy mniej niż 8 Ilości [Charge], Zyskaj 5 [Sinking] oraz +4 Ilości [Charge] (raz na turę)</style>"
                 }
               ]
             }
@@ -2213,12 +2213,12 @@
         {
           "level": 4,
           "name": "Skupienie - 'Pęknijcie jak bombki!\"",
-          "desc": "<style=\"highlight\">Zadaj +15% Obrażeń za każde [Charge] na sobie (maks 60%)</style>\n+1 Mocy Monet za każde 5 Ilości [Charge] (maks 2)\n[DefeatDuel] Zyskaj 5 [Sinking] lubaz +<style=\"highlight\">5</style> Ilości [Charge]",
+          "desc": "<style=\"highlight\">Zadaj +15% Obrażeń za każde [Charge] na sobie (maks 60%)</style>\n+1 Mocy Monet za każde 5 Ilości [Charge] (maks 2)\n[DefeatDuel] Zyskaj 5 [Sinking] oraz +<style=\"highlight\">5</style> Ilości [Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking] lubaz +2 Ilości [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking] oraz +2 Ilości [Sinking]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">6</style> Ilości [Charge]"
@@ -2228,10 +2228,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Przy mniej niż 8 Ilości [Charge], Zyskaj 5 [Sinking] lubaz +4 Ilości [Charge] (raz na turę)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Przy mniej niż 8 Ilości [Charge], Zyskaj 5 [Sinking] oraz +4 Ilości [Charge] (raz na turę)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy 8+ Ilości [Charge], zużyj 4 Ilości [Charge] lubaz Nałóż 1 [HitTakeobrażeńUp] na początku następnej tury (raz na turę)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Przy 8+ Ilości [Charge], zużyj 4 Ilości [Charge] oraz Nałóż 1 [HitTakeobrażeńUp] na początku następnej tury (raz na turę)</style>"
                 }
               ]
             }
@@ -2245,7 +2245,7 @@
         {
           "level": 3,
           "name": "Biczowanie Umysłem - 'Ahaha... Spójżcie! W te Święta zabłyśniemy jak Gwiazda Betlejemska!'",
-          "desc": "Zadaj +5% Obrażeń za każde [Charge] (maks 20%)\n[WhenUse] Przy 5~9 Ilości [Charge]:\n- Zyskaj 5 [Sinking] lubaz +5 Ilości [Charge]\n- AtrybutyTa Umiejętność zyskuje następujące Atrybuty: [CantIdentify], [WideAreaRampage], oraz +1 Wagi Ataku\n- [BeforeUse] Przy 3+ Nasilenia [Charge], a Umiejętność nie zyskuje atrybutu: [CantIdentify]\n[WhenUse] Przy 10+ Ilości [Charge], zużyj całą Ilość [Charge] aby zyskać następujące efekty:\n- +1 Mocy Monet\n- Zadaj +6% Obrażeń za każdą zużytą Ilość [Charge] po 10 (maks 30%)<style=\"highlight\"></style>",
+          "desc": "Zadaj +5% Obrażeń za każde [Charge] (maks 20%)\n[WhenUse] Przy 5~9 Ilości [Charge]:\n- Zyskaj 5 [Sinking] oraz +5 Ilości [Charge]\n- AtrybutyTa Umiejętność zyskuje następujące Atrybuty: [CantIdentify], [WideAreaRampage], oraz +1 Wagi Ataku\n- [BeforeUse] Przy 3+ Nasilenia [Charge], a Umiejętność nie zyskuje atrybutu: [CantIdentify]\n[WhenUse] Przy 10+ Ilości [Charge], zużyj całą Ilość [Charge] aby zyskać następujące efekty:\n- +1 Mocy Monet\n- Zadaj +6% Obrażeń za każdą zużytą Ilość [Charge] po 10 (maks 30%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2292,7 +2292,7 @@
         {
           "level": 4,
           "name": "Biczowanie Umysłem - 'Ahaha... Spójżcie! W te Święta zabłyśniemy jak Gwiazda Betlejemska!'",
-          "desc": "Zadaj <style=\"highlight\">+10%</style> Obrażeń za każde [Charge] (maks <style=\"highlight\">40%</style>)\n[WhenUse] Przy 5~9 Ilości [Charge]:\n- Zyskaj 5 [Sinking] lubaz +5 Ilości [Charge]\n- AtrybutyTa Umiejętność zyskuje następujące Atrybuty: [CantIdentify], [WideAreaRampage], oraz +1 Wagi Ataku\n- [BeforeUse] Przy 3+ Nasilenia [Charge], a Umiejętność nie zyskuje atrybutu: [CantIdentify]\n[WhenUse] Przy 10+ Ilości [Charge], zużyj całą Ilość [Charge] aby zyskać następujące efekty:\n- +<style=\"highlight\">2</style> Mocy Monet\n- Zadaj +<style=\"highlight\">12</style>% Obrażeń za każdą zużytą Ilość [Charge] po 10 (maks <style=\"highlight\">60</style>%)",
+          "desc": "Zadaj <style=\"highlight\">+10%</style> Obrażeń za każde [Charge] (maks <style=\"highlight\">40%</style>)\n[WhenUse] Przy 5~9 Ilości [Charge]:\n- Zyskaj 5 [Sinking] oraz +5 Ilości [Charge]\n- AtrybutyTa Umiejętność zyskuje następujące Atrybuty: [CantIdentify], [WideAreaRampage], oraz +1 Wagi Ataku\n- [BeforeUse] Przy 3+ Nasilenia [Charge], a Umiejętność nie zyskuje atrybutu: [CantIdentify]\n[WhenUse] Przy 10+ Ilości [Charge], zużyj całą Ilość [Charge] aby zyskać następujące efekty:\n- +<style=\"highlight\">2</style> Mocy Monet\n- Zadaj +<style=\"highlight\">12</style>% Obrażeń za każdą zużytą Ilość [Charge] po 10 (maks <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2660,7 +2660,7 @@
         {
           "level": 3,
           "name": "Przycinanie Medium",
-          "desc": "[DuelCounter]\nJeśli cel posiada [IntenseColorsRodion], zadaj +20% obrażeń\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka nie posiada [TestWaitDocentRodion] lubaz jeśli cel posiada 3+ rodzaje negatywnych efektów, użyj zamiast tego \"Cięta Krytyka\"\n[WhenUse] +1 Mocy Finalnej za każde 4 ([Laceration] + [Sinking]) na celu (maks 2)</style>",
+          "desc": "[DuelCounter]\nJeśli cel posiada [IntenseColorsRodion], zadaj +20% obrażeń\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka nie posiada [TestWaitDocentRodion] oraz jeśli cel posiada 3+ rodzaje negatywnych efektów, użyj zamiast tego \"Cięta Krytyka\"\n[WhenUse] +1 Mocy Finalnej za każde 4 ([Laceration] + [Sinking]) na celu (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
