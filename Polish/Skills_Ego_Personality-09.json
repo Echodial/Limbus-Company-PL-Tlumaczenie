@@ -6,16 +6,16 @@
         {
           "level": 1,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Wędrująca Perła",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -24,16 +24,16 @@
         {
           "level": 3,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Wędrująca Perła",
           "desc": "[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] oraz +5 Ilości [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> oraz +5 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
@@ -45,16 +45,16 @@
         {
           "level": 4,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Wędrująca Perła",
           "desc": "[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku;\nJeśli główny cel posiada więcej niż 75% HP, zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration] oraz +7 Ilości [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> oraz +7 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
@@ -71,7 +71,7 @@
         {
           "level": 1,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Wędrująca Perła",
           "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -89,7 +89,7 @@
         {
           "level": 3,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Wędrująca Perła",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -98,7 +98,7 @@
                   "desc": "[OnSucceedAttack] Ulecz ilość HP równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [DefenseDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
@@ -110,7 +110,7 @@
         {
           "level": 4,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Wędrująca Perła",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku;\nJeśli główny cel posiada więcej niż 75% HP, zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -119,7 +119,7 @@
                   "desc": "[OnSucceedAttack] Ulecz ilość HP równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [DefenseDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
@@ -135,8 +135,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "",
           "coinlist": [
             {
@@ -153,8 +153,8 @@
         },
         {
           "level": 3,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "",
           "coinlist": [
             {
@@ -174,8 +174,8 @@
         },
         {
           "level": 4,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "",
           "coinlist": [
             {
@@ -200,8 +200,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -218,8 +218,8 @@
         },
         {
           "level": 3,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -239,8 +239,8 @@
         },
         {
           "level": 4,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 50%- HP, zyskaj +2 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -252,7 +252,7 @@
                   "desc": "[OnSucceedAttack] Zadaj 20 Obrażeń SP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel został Zachwiany lub pokonany,  ulecz na sobie 7 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel został Zachwiany lub pokonany, ulecz na sobie 7 SP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -266,14 +266,14 @@
         {
           "level": 1,
           "name": "Zew Krwi",
-          "abName": "The Red Shoes",
-          "desc": "+1 Mocy Monety za każde 2 [Laceration] na celu (maks 6)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości [Laceration] podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.<style=\"highlight\"></style>",
+          "abName": "Czerwone Buty",
+          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks 6)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zadaj Obrażenia Rodzaju Rządzy równe Nasileniu [Laceration] na celu.\n- Przy 4+ Rezonansu Rządzy, Zadaj Obrażenia Rodzaju Rządzy równe (Nasilenie [Laceration] na celu x 1.2).\n(kalkulacje obrażeń tego efektu biorą pod uwagę maks łącznie 99 Nasilenia [Laceration].)<style=\"highlight\"></style>",
-                  "summary": "[OnSucceedAttack] Zadaj Obrażenia Rodzaju Rządzy równe Nasileniu [Laceration] na celu"
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu.\n- Przy 4+ Rezonansu Rządzy, Zadaj Obrażenia od Rządzy równe (Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x 1.2).\n(kalkulacje obrażeń tego efektu biorą pod uwagę maks łącznie 99 Nasilenia <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>.)<style=\"highlight\"></style>",
+                  "summary": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu"
                 },
                 {
                   "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe HP Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
@@ -286,14 +286,14 @@
         {
           "level": 3,
           "name": "Zew Krwi",
-          "abName": "The Red Shoes",
-          "desc": "+1 Mocy Monety za każde 2 [Laceration] na celu (maks <style=\"highlight\">9</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości [Laceration] podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.",
+          "abName": "Czerwone Buty",
+          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks <style=\"highlight\">9</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zadaj Obrażenia Rodzaju Rządzy równe <style=\"highlight\">(Nasilenie [Laceration] na celu x 1.2)</style>.\n- Przy 4+ Rezonansu Rządzy, Zadaj Obrażenia Rodzaju Rządzy równe (Nasilenie [Laceration] na celu x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- Przy 4+ Absolutnego Rezonansu Rządzy, Zadaj Obrażenia Rodzaju Rządzy równe (Nasilenie [Laceration] na celu x 1.8).</style>\n(kalkulacje obrażeń tego efektu biorą pod uwagę maks łącznie 99 Nasilenia [Laceration].)",
-                  "summary": "[OnSucceedAttack] Zadaj Obrażenia Rodzaju Rządzy równe Nasileniu [Laceration] na celu"
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe <style=\"highlight\">(Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x 1.2)</style>.\n- Przy 4+ Rezonansu Rządzy, Zadaj Obrażenia od Rządzy równe (Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- Przy 4+ Absolutnego Rezonansu Rządzy, Zadaj Obrażenia od Rządzy równe (Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x 1.8).</style>\n(kalkulacje obrażeń tego efektu biorą pod uwagę maks łącznie 99 Nasilenia <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>.)",
+                  "summary": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu"
                 },
                 {
                   "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe HP Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
@@ -306,14 +306,14 @@
         {
           "level": 4,
           "name": "Zew Krwi",
-          "abName": "The Red Shoes",
-          "desc": "+1 Mocy Monety za każde 2 [Laceration] na celu (maks <style=\"highlight\">13</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości [Laceration] podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.",
+          "abName": "Czerwone Buty",
+          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks <style=\"highlight\">13</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zadaj Obrażenia Rodzaju Rządzy równe (Nasilenie [Laceration] na celu x <style=\"highlight\">1.5</style>)\n- Przy 4+ Rezonansu Rządzy, Zadaj Obrażenia Rodzaju Rządzy równe (Nasilenie [Laceration] na celu x <style=\"highlight\">1.8</style>).\n- Przy 4+ Absolutnego Rezonansu Rządzy, Zadaj Obrażenia Rodzaju Rządzy równe (Nasilenie [Laceration] na celu x <style=\"highlight\">2</style>).\n(kalkulacje obrażeń tego efektu biorą pod uwagę maks łącznie 99 Nasilenia [Laceration].)",
-                  "summary": "[OnSucceedAttack] Zadaj Obrażenia Rodzaju Rządzy równe Nasileniu [Laceration] na celu"
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe (Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x <style=\"highlight\">1.5</style>)\n- Przy 4+ Rezonansu Rządzy, Zadaj Obrażenia od Rządzy równe (Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x <style=\"highlight\">1.8</style>).\n- Przy 4+ Absolutnego Rezonansu Rządzy, Zadaj Obrażenia od Rządzy równe (Nasilenie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu x <style=\"highlight\">2</style>).\n(kalkulacje obrażeń tego efektu biorą pod uwagę maks łącznie 99 Nasilenia <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>.)",
+                  "summary": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu"
                 },
                 {
                   "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe HP Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
@@ -331,14 +331,14 @@
         {
           "level": 1,
           "name": "Zew Krwi",
-          "abName": "The Red Shoes",
+          "abName": "Czerwone Buty",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (wartość najwyższego Rezonansu - 2) Wagi Ataku (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (2 + (Rezonansu Rządzy)) [Laceration]\n(Maksymalny Rezonans brany pod uwagę : 4)<style=\"highlight\"></style>",
-                  "summary": "[OnSucceedAttack] Nałóż (2 + (Rezonansu Rządzy)) [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż (2 + (Rezonansu Rządzy)) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>\n(Maksymalny Rezonans brany pod uwagę : 4)<style=\"highlight\"></style>",
+                  "summary": "[OnSucceedAttack] Nałóż (2 + (Rezonansu Rządzy)) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>"
                 }
               ]
             }
@@ -347,17 +347,17 @@
         {
           "level": 3,
           "name": "Zew Krwi",
-          "abName": "The Red Shoes",
+          "abName": "Czerwone Buty",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (wartość najwyższego Rezonansu - 2) Wagi Ataku (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (<style=\"highlight\">3</style> + (Rezonansu Rządzy)) [Laceration]\n(Maksymalny Rezonans brany pod uwagę : <style=\"highlight\">5</style>)",
-                  "summary": "[OnSucceedAttack] Nałóż (3 + (Rezonansu Rządzy)) [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż (<style=\"highlight\">3</style> + (Rezonansu Rządzy)) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>\n(Maksymalny Rezonans brany pod uwagę : <style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] Nałóż (3 + (Rezonansu Rządzy)) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -366,17 +366,17 @@
         {
           "level": 4,
           "name": "Zew Krwi",
-          "abName": "The Red Shoes",
+          "abName": "Czerwone Buty",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (wartość najwyższego Rezonansu - 2) Wagi Ataku (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż (<style=\"highlight\">4</style> + (Rezonansu Rządzy)) [Laceration]\n(Maksymalny Rezonans brany pod uwagę : <style=\"highlight\">6</style>)",
-                  "summary": "[OnSucceedAttack] Nałóż (4 + (Rezonansu Rządzy)) [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż (<style=\"highlight\">4</style> + (Rezonansu Rządzy)) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>\n(Maksymalny Rezonans brany pod uwagę : <style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] Nałóż (4 + (Rezonansu Rządzy)) <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">3</style> Ilość [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">3</style> Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link>"
                 }
               ]
             }
@@ -390,20 +390,20 @@
         {
           "level": 1,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] Ulecz siebię oraz dwóch Sojuszników z najniższym %HP o 12.5% Maks HP tej jednostki<style=\"highlight\"></style>",
+          "abName": "Skrzwdzony Pluszowy Miś",
+          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %HP o 12.5% Maks HP tej jednostki<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Nałóż 2 [NailPersonality]<style=\"highlight\"></style>"
@@ -415,8 +415,8 @@
         {
           "level": 3,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] Ulecz siebię oraz dwóch Sojuszników z najniższym %HP o 12.5% Maks HP tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej HP za każde 2 negatywne efekty na sobie (maks 7.5)</style>",
+          "abName": "Skrzwdzony Pluszowy Miś",
+          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %HP o 12.5% Maks HP tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej HP za każde 2 negatywne efekty na sobie (maks 7.5)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -428,7 +428,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Nałóż 2 [NailPersonality]<style=\"highlight\"></style>"
@@ -440,8 +440,8 @@
         {
           "level": 4,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] Ulecz siebię oraz dwóch Sojuszników z najniższym %HP o <style=\"highlight\">15%</style> Maks HP tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej HP za <style=\"highlight\">każdy</style> negatywny efekt na sobie (maks <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
+          "abName": "Skrzwdzony Pluszowy Miś",
+          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %HP o <style=\"highlight\">15%</style> Maks HP tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej HP za <style=\"highlight\">każdy</style> negatywny efekt na sobie (maks <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -453,7 +453,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Curse]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Nałóż <style=\"highlight\">3</style> [NailPersonality]"
@@ -470,23 +470,23 @@
         {
           "level": 1,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %HP o 15% Maks HP tej jednostki<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Nałóż 2 [NailPersonality]<style=\"highlight\"></style>"
@@ -498,7 +498,7 @@
         {
           "level": 3,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %HP o 15% Maks HP tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka zyskuje 1 [AttackUp] za każde 2 negatywne efekty na tych jednostkach (maks 2)</style>",
           "coinlist": [
             {
@@ -507,14 +507,14 @@
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Nałóż 2 [NailPersonality]<style=\"highlight\"></style>"
@@ -526,7 +526,7 @@
         {
           "level": 4,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %HP o <style=\"highlight\">20%</style> Maks HP tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka zyskuje 1 [AttackUp] za <style=\"highlight\">każdy</style> negatywny efekt na tych jednostkach (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
           "coinlist": [
             {
@@ -535,14 +535,14 @@
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilość <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Curse]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Nałóż <style=\"highlight\">3</style> [NailPersonality]"
@@ -559,16 +559,16 @@
         {
           "level": 1,
           "name": "Proces Pokazowy",
-          "abName": "Burning Duchess",
+          "abName": "Płonąca Księżna",
           "desc": "[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %HP o 15% ich maks HP (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + (Rezonans Gniwu / 3)) [BirdCage] na początku następnej tury na główny cel (maks 2; zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + (Rezonans Gniwu / 3)) <sprite name=\"BirdCage\"><color=#e30000><u><link=\"BirdCage\">Rozżarzonej Klatki</link></u></color> na początku następnej tury na główny cel (maks 2; zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -578,16 +578,16 @@
         {
           "level": 3,
           "name": "Proces Pokazowy",
-          "abName": "Burning Duchess",
+          "abName": "Płonąca Księżna",
           "desc": "<style=\"highlight\">[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)</style>\n[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %HP o <style=\"highlight\">18</style>% ich maks HP (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">8</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">8</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + (Rezonans Gniwu / 3)) [BirdCage] na początku następnej tury na główny cel (maks <style=\"highlight\">3</style>; zaokrąglone w dół)"
+                  "desc": "[OnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + (Rezonans Gniwu / 3)) <sprite name=\"BirdCage\"><color=#e30000><u><link=\"BirdCage\">Rozżarzonej Klatki</link></u></color> na początku następnej tury na główny cel (maks <style=\"highlight\">3</style>; zaokrąglone w dół)"
                 }
               ]
             },
@@ -597,7 +597,7 @@
         {
           "level": 4,
           "name": "Proces Pokazowy",
-          "abName": "Burning Duchess",
+          "abName": "Płonąca Księżna",
           "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)\n[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %HP o <style=\"highlight\">20</style>% ich maks HP (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury",
           "coinlist": [
             {
@@ -606,7 +606,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 8 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + (Rezonans Gniwu / 3)) [BirdCage] na początku następnej tury na główny cel (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + (Rezonans Gniwu / 3)) <sprite name=\"BirdCage\"><color=#e30000><u><link=\"BirdCage\">Rozżarzonej Klatki</link></u></color> na początku następnej tury na główny cel (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -621,7 +621,7 @@
         {
           "level": 1,
           "name": "Proces Pokazowy",
-          "abName": "Burning Duchess",
+          "abName": "Płonąca Księżna",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -630,10 +630,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 6 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + Rezonans Gniwu) [BirdCage] na główny cel (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + Rezonans Gniwu) <sprite name=\"BirdCage\"><color=#e30000><u><link=\"BirdCage\">Rozżarzonej Klatki</link></u></color> na główny cel (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -643,7 +643,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Zadaj +1% obrażeń głównemu celowi za każde Nasilenie [Combusion] na głównym celu (maks 50%)<style=\"highlight\"></style>"
+                  "desc": "Zadaj +1% obrażeń głównemu celowi za każde Nasilenie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na głównym celu (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %HP (maks 4 Sojuszników; Raz na Umiejętność)<style=\"highlight\"></style>"
@@ -655,7 +655,7 @@
         {
           "level": 3,
           "name": "Proces Pokazowy",
-          "abName": "Burning Duchess",
+          "abName": "Płonąca Księżna",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -664,10 +664,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż <style=\"highlight\">8</style> [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż <style=\"highlight\">8</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + Rezonans Gniwu) [BirdCage] na główny cel (maks <style=\"highlight\">4</style>)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + Rezonans Gniwu) <sprite name=\"BirdCage\"><color=#e30000><u><link=\"BirdCage\">Rozżarzonej Klatki</link></u></color> na główny cel (maks <style=\"highlight\">4</style>)"
                 }
               ]
             },
@@ -677,7 +677,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Zadaj +1% obrażeń głównemu celowi za każde Nasilenie [Combusion] na głównym celu (maks 50%)<style=\"highlight\"></style>"
+                  "desc": "Zadaj +1% obrażeń głównemu celowi za każde Nasilenie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na głównym celu (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %HP (maks <style=\"highlight\">5</style> Sojuszników; Raz na Umiejętność)"
@@ -689,7 +689,7 @@
         {
           "level": 4,
           "name": "Proces Pokazowy",
-          "abName": "Burning Duchess",
+          "abName": "Płonąca Księżna",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -698,13 +698,13 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż <style=\"highlight\">10</style> [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż <style=\"highlight\">10</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Nałóż +1 Ilość [Combustion]</style>"
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Nałóż +1 Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + Rezonans Gniwu) [BirdCage] na główny cel (maks <style=\"highlight\">5</style>)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jeśli ta moneta uderzy główny cel, Nałóż (1 + Rezonans Gniwu) <sprite name=\"BirdCage\"><color=#e30000><u><link=\"BirdCage\">Rozżarzonej Klatki</link></u></color> na główny cel (maks <style=\"highlight\">5</style>)"
                 }
               ]
             },
@@ -714,7 +714,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Zadaj +<style=\"highlight\">2</style>% obrażeń głównemu celowi za każde Nasilenie [Combusion] na głównym celu (maks <style=\"highlight\">100</style>%)"
+                  "desc": "Zadaj +<style=\"highlight\">2</style>% obrażeń głównemu celowi za każde Nasilenie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na głównym celu (maks <style=\"highlight\">100</style>%)"
                 },
                 {
                   "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %HP (maks <style=\"highlight\">6</style> Sojuszników; Raz na Umiejętność)"
