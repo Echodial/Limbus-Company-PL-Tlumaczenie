@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Reduction]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Daj 1 [Agility] wszystkim sojusznikom na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Przyznaj wszystkim sojusznikom 1 [Agility] na początku następnej tury"
                 }
               ]
             }
@@ -30,10 +30,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Daj 3 [Agility] wszystkim sojusznikom na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Przyznaj wszystkim sojusznikom 3 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -48,13 +48,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Daj 3 [Agility] wszystkim sojusznikom na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Przyznaj wszystkim sojusznikom 3 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -68,13 +68,13 @@
         {
           "level": 1,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Combustion]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -83,13 +83,13 @@
         {
           "level": 3,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -98,16 +98,16 @@
         {
           "level": 4,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -121,13 +121,13 @@
         {
           "level": 1,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -136,13 +136,13 @@
         {
           "level": 3,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -151,16 +151,16 @@
         {
           "level": 4,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -174,8 +174,8 @@
         {
           "level": 1,
           "name": "Kopiec Życzeń",
-          "abName": "Pagoda Veneration",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "abName": "Chwalebna Padoga",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
@@ -183,7 +183,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [AmberResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -192,16 +192,16 @@
         {
           "level": 3,
           "name": "Kopiec Życzeń",
-          "abName": "Pagoda Veneration",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "abName": "Chwalebna Padoga",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [AmberResistDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"AmberResistDown\"><color=#e30000><u><link=\"AmberResistDown\">Kruchościi Przed Lenistwem</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -215,7 +215,7 @@
         {
           "level": 1,
           "name": "Kopiec Życzeń",
-          "abName": "Pagoda Veneration",
+          "abName": "Chwalebna Padoga",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -224,7 +224,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [AmberResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -233,7 +233,7 @@
         {
           "level": 3,
           "name": "Kopiec Życzeń",
-          "abName": "Pagoda Veneration",
+          "abName": "Chwalebna Padoga",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -242,10 +242,10 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [AmberResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -309,7 +309,7 @@
         {
           "level": 1,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "",
           "coinlist": [
             {
@@ -327,7 +327,7 @@
         {
           "level": 3,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "",
           "coinlist": [
             {
@@ -345,7 +345,7 @@
         {
           "level": 4,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "",
           "coinlist": [
             {
@@ -371,7 +371,7 @@
         {
           "level": 1,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -389,7 +389,7 @@
         {
           "level": 3,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -398,7 +398,7 @@
                   "desc": "[OnSucceedAttack] Zadaj 20 Obrażeń SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -407,7 +407,7 @@
         {
           "level": 4,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -419,7 +419,7 @@
                   "desc": "[OnSucceedAttackTail] Zadaj 10 Obrażeń SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -433,7 +433,7 @@
         {
           "level": 1,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "",
           "coinlist": [
             {
@@ -451,19 +451,19 @@
         {
           "level": 3,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [PenetrateResistDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"PenetrateResistDown\"><color=#e30000><u><link=\"PenetrateResistDown\">Kruchościi Przed Dźganiem</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [VioletResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Curse]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
                 }
               ]
             }
@@ -472,25 +472,25 @@
         {
           "level": 4,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [PenetrateResistDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"PenetrateResistDown\"><color=#e30000><u><link=\"PenetrateResistDown\">Kruchościi Przed Dźganiem</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [VioletResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Curse]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Nałóż 3 [NailPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma [Curse], zadaj +50% Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwę</link></u></color>, zadaj +50% Obrażeń"
                 }
               ]
             }
@@ -504,7 +504,7 @@
         {
           "level": 1,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -522,7 +522,7 @@
         {
           "level": 3,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -531,10 +531,10 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [PenetrateResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [VioletResistDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"VioletResistDown\"><color=#e30000><u><link=\"VioletResistDown\">Kruchościi Przed Zazdrością</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Curse]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
                 }
               ]
             }
@@ -543,7 +543,7 @@
         {
           "level": 4,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -552,16 +552,16 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [PenetrateResistDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [VioletResistDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"VioletResistDown\"><color=#e30000><u><link=\"VioletResistDown\">Kruchościi Przed Zazdrością</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Curse]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwy</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 3 [NailPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma [Curse], zadaj +50% Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma <sprite name=\"Curse\"><color=#e30000><u><link=\"Curse\">Klątwę</link></u></color>, zadaj +50% Obrażeń"
                 }
               ]
             }
@@ -581,7 +581,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -596,7 +596,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Ulecz HP równe 50% zadanych Obrażeń"
@@ -614,7 +614,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 8 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Ulecz HP równe 50% zadanych Obrażeń"
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "",
           "coinlist": [
             {
@@ -649,7 +649,7 @@
         {
           "level": 3,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "",
           "coinlist": [
             {
@@ -670,7 +670,7 @@
         {
           "level": 4,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "",
           "coinlist": [
             {
@@ -685,7 +685,7 @@
                   "desc": "Jeśli Cel jest Zachwiany, cierpi na Niskie Morale lub Panikuje, Zadaj 30% zadanych Obrażeń jako dodatkowe Obrażenia"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -699,16 +699,16 @@
         {
           "level": 1,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -717,16 +717,16 @@
         {
           "level": 3,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 7 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 7 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 7 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 7 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
                   "desc": "Jeśli Cel nie jest Zachwiany, nie cierpi na Niskie Morale ani nie Panikuje, Zadaj 50% zadanych Obrażeń jako dodatkowe Obrażenia"
@@ -738,16 +738,16 @@
         {
           "level": 4,
           "name": "Pochwa z Surowicą",
-          "abName": "Headless Ichthys",
+          "abName": "Bezgłowy Ichthys",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
                   "desc": "Jeśli Cel nie jest Zachwiany, nie cierpi na Niskie Morale ani nie Panikuje, Zadaj 50% zadanych Obrażeń jako dodatkowe Obrażenia"
@@ -770,7 +770,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -785,7 +785,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Nałóż 1 [Vulnerable] na początku następnej tury"
@@ -803,7 +803,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] na początku następnej tury"
@@ -823,13 +823,13 @@
         {
           "level": 1,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
-          "desc": "Moc Umiejętności +2 przeciwko celom z [Combustion]\n[EnemyKill] Zyskaj 1 [Enhancement] na początku następnej tury",
+          "abName": "Spalona Dziewczynka",
+          "desc": "+2 Mocy Umiejętności przeciwko celom z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniem</link></u></color>\n[EnemyKill] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -838,13 +838,13 @@
         {
           "level": 3,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
-          "desc": "Moc Umiejętności +2 przeciwko celom z [Combustion]\n[EnemyKill] Zyskaj 2 [Enhancement] na początku następnej tury",
+          "abName": "Spalona Dziewczynka",
+          "desc": "+2 Mocy Umiejętności przeciwko celom z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniem</link></u></color>\n[EnemyKill] Zyskaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -853,13 +853,13 @@
         {
           "level": 4,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
-          "desc": "Moc Umiejętności +2 przeciwko celom z [Combustion]\nZadaj +5% Obrażeń za każde [Combustion] na celu (Maks 100%)\n[EnemyKill] Zyskaj +2 [Enhancement] na początku następnej tury",
+          "abName": "Spalona Dziewczynka",
+          "desc": "+2 Mocy Umiejętności przeciwko celom z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniem</link></u></color>\nZadaj +5% Obrażeń za każde [Combustion] na celu (Maks 100%)\n[EnemyKill] Zyskaj +2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -873,13 +873,13 @@
         {
           "level": 1,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nLosowe Cele\nSkill Power +2 przeciwko celom z [Combustion]\n[EnemyKill] Zyskaj 2 [Enhancement] na początku następnej tury\n[EnemyKillFail] Zyskaj 10 [Combustion] na początku następnej tury",
+          "abName": "Spalona Dziewczynka",
+          "desc": "[CantIdentify]\nLosowe Cele\n+2 Mocy Zdolności przeciwko celom z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniem</link></u></color>\n[EnemyKill] Zyskaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury\n[EnemyKillFail] Zyskaj 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -888,13 +888,13 @@
         {
           "level": 3,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nLosowe Cele\nSkill Power +4 przeciwko celom z [Combustion]\n[EnemyKill] Zyskaj 3 [Enhancement] na początku następnej tury\n[EnemyKillFail] Zyskaj 3 [Enhancement] oraz 10 [Combustion] na początku następnej tury",
+          "abName": "Spalona Dziewczynka",
+          "desc": "[CantIdentify]\nLosowe Cele\n+4 Mocy Zdolności przeciwko celom z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniem</link></u></color>\n[EnemyKill] Zyskaj 3 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury\n[EnemyKillFail] Zyskaj 3 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> oraz 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -903,13 +903,13 @@
         {
           "level": 4,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nLosowe Cele\nSkill Power +4 przeciwko celom z [Combustion]\nZadaj +5% Obrażeń za każde [Combustion] na celu (Maks 100%)\n[EnemyKill] Zyskaj 3 [Enhancement] na początku następnej tury\n[EnemyKillFail] Zyskaj 3 [Enhancement] oraz 10 [Combustion] na początku następnej tury",
+          "abName": "Spalona Dziewczynka",
+          "desc": "[CantIdentify]\nLosowe Cele\n+4 Mocy Zdolności przeciwko celom z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniem</link></u></color>\nZadaj +5% Obrażeń za każde [Combustion] na celu (Maks 100%)\n[EnemyKill] Zyskaj 3 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury\n[EnemyKillFail] Zyskaj 3 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> oraz 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -929,16 +929,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -953,19 +953,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 5 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 4 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 2 [Protection] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -980,19 +980,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [Protection] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1006,13 +1006,13 @@
         {
           "level": 1,
           "name": "Zakręcony Łomot",
-          "abName": "You Want aby Get Beat? Hurtily?",
-          "desc": "[EndSkill] Zyskaj 3 [Protection]",
+          "abName": "Chcesz Oberwać? Boleśnie??",
+          "desc": "[EndSkill] Zyskaj 3 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -1021,13 +1021,13 @@
         {
           "level": 3,
           "name": "Zakręcony Łomot",
-          "abName": "You Want aby Get Beat? Hurtily?",
-          "desc": "[EndSkill] Zyskaj 3 [Protection]\n[EndSkill] Zyskaj 1 [Operation] na początku następnej tury",
+          "abName": "Chcesz Oberwać? Boleśnie??",
+          "desc": "[EndSkill] Zyskaj 3 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>\n[EndSkill] Zyskaj 1 <sprite name=\"Operation\"><color=#9f6a3a><u><link=\"Operation\">Operację</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -1041,13 +1041,13 @@
         {
           "level": 1,
           "name": "Zakręcony Łomot",
-          "abName": "You Want aby Get Beat? Hurtily?",
-          "desc": "[EndSkill] Zyskaj 2 [Operation] na początku następnej tury",
+          "abName": "Chcesz Oberwać? Boleśnie??",
+          "desc": "[EndSkill] Zyskaj 2 <sprite name=\"Operation\"><color=#9f6a3a><u><link=\"Operation\">Operację</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -1056,13 +1056,13 @@
         {
           "level": 3,
           "name": "Zakręcony Łomot",
-          "abName": "You Want aby Get Beat? Hurtily?",
-          "desc": "[EndSkill] Zyskaj 2 [Operation] na początku następnej tury",
+          "abName": "Chcesz Oberwać? Boleśnie??",
+          "desc": "[EndSkill] Zyskaj 2 <sprite name=\"Operation\"><color=#9f6a3a><u><link=\"Operation\">Operację</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
                   "desc": "Podnieś Próg Zachwiania o 30% zadanych Obrażeń"
@@ -1078,8 +1078,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
           "desc": "[EndSkill] Ulecz 2 sojuszników z najniższym HP o 15% ich Maks HP",
           "coinlist": [
             {
@@ -1093,9 +1093,9 @@
         },
         {
           "level": 3,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[EndSkill] Ulecz 2 sojuszników z najniższym HP o 30% ich Maks HP; Daj 2 [Protection] na początku następnej tury",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
+          "desc": "[EndSkill] Ulecz 2 sojuszników z najniższym HP o 30% ich Maks HP; Przyznaj im 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -1113,9 +1113,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify]Losowe Cele\n[EndSkill] Daj 1 [Vulnerable] oraz 2 [AttackDmgUp] dwóm sojusznikom z najmniejszą ilością HP na początku następnej tury",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
+          "desc": "[CantIdentify]Losowe Cele\n[EndSkill] Przyznaj dwóm sojusznikom z najmniejszą ilością HP 1 [Vulnerable] oraz 2 [AttackDmgUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -1128,9 +1128,9 @@
         },
         {
           "level": 3,
-          "name": "Pogoń",
-          "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify]Losowe Cele\n[EndSkill] Daj 2 [Vulnerable] oraz 3 [AttackDmgUp] dwóm sojusznikom z najmniejszą ilością HP na początku następnej tury",
+          "name": "Prawomocność",
+          "abName": "Skryba Niebiańskiego Kata",
+          "desc": "[CantIdentify]Losowe Cele\n[EndSkill] Przyznaj dwóm sojusznikom z najmniejszą ilością HP 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> oraz 3 [AttackDmgUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -1155,7 +1155,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Sinking]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -1170,7 +1170,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -1185,10 +1185,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Na początku następnej tury: Daj -2 [MentalSystemResultDecrease_Typo] wszystkim sojusznikom; dodatkowo, Wszyscy sojusznicy tracą o 2 mniej SP przy użyciu E.G.O"
+                  "desc": "[EndSkill] Na początku następnej tury: Przyznaj wszystkim sojusznikom -2 <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#e30000><u><link=\"MentalSystemResultDecrease_Typo\">Efektywności Straty SP</link></u></color>; dodatkowo, Wszyscy sojusznicy tracą o 2 mniej SP przy użyciu E.G.O"
                 }
               ]
             }
@@ -1202,16 +1202,16 @@
         {
           "level": 1,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Mniejszej Mocy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color>"
                 }
               ]
             }
@@ -1220,16 +1220,16 @@
         {
           "level": 3,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Mniejszej Mocy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color>"
                 }
               ]
             }
@@ -1238,16 +1238,16 @@
         {
           "level": 4,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Mniejszej Mocy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejszych Poziomów Obrony</link></u></color></u></color>"
                 }
               ]
             }
@@ -1261,19 +1261,19 @@
         {
           "level": 1,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "[CantIdentify]\nBierze na Cel najszybszą jednostkę",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Mniejszej Mocy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Nałóż 4 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttackTail] Nałóż 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1282,19 +1282,19 @@
         {
           "level": 3,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "[CantIdentify]\nBierze na Cel najszybszą jednostkę",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Mniejszej Mocy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1303,19 +1303,19 @@
         {
           "level": 4,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "[CantIdentify]\nBierze na Cel najszybszą jednostkę",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Disarming]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Disarming\"><color=#e30000><u><link=\"Disarming\">Mniejszej Mocy Obrony</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejszych Poziomów Obrony</link></u></color></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1335,10 +1335,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 1 [Enhancement] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 2 [Agility] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1353,10 +1353,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 1 [Enhancement] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Agility] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1371,13 +1371,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 1 [Enhancement] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 3 [Agility] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[EnemyKill] Zyskaj 2 [Enhancement] na początku następnej tury"
+                  "desc": "[EnemyKill] Zyskaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1391,13 +1391,13 @@
         {
           "level": 1,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
-          "desc": "Zużyj 5 Ilości [Charge] aby zyskać +3 Moc Umiejętności",
+          "abName": "Pies Z Alei",
+          "desc": "Zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zyskać +3 Moc Umiejętności",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Zyskaj +3 Ilości [Charge]"
+                  "desc": "[OnSucceedAttackTail] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -1406,13 +1406,13 @@
         {
           "level": 3,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
-          "desc": "[WhenUse] Zyskaj Ilości [Charge] równą Rezonansowi Zazdrości\nZużyj 5 Ilości [Charge] aby zyskać +3 Moc Umiejętności",
+          "abName": "Pies Z Alei",
+          "desc": "[WhenUse] Zyskaj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> równą Rezonansowi Zazdrości\nZużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zyskać +3 Moc Umiejętności",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Zyskaj +5 Ilości [Charge]"
+                  "desc": "[OnSucceedAttackTail] Zyskaj +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -1421,13 +1421,13 @@
         {
           "level": 4,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
-          "desc": "[WhenUse] Zyskaj Ilości [Charge] równą Rezonansowi Zazdrości\nZużyj 5 Ilości [Charge] aby zyskać +3 Moc Umiejętności (Maks 12)",
+          "abName": "Pies Z Alei",
+          "desc": "[WhenUse] Zyskaj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> równą Rezonansowi Zazdrości\nZużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zyskać +3 Moc Umiejętności (Maks 12)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Zyskaj +5 Ilości [Charge]"
+                  "desc": "[OnSucceedAttackTail] Zyskaj +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -1441,13 +1441,13 @@
         {
           "level": 1,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify]Losowe Cele\nZużyj całą Ilości [Charge] aby zyskać +6 Moc Umiejętności",
+          "abName": "Pies Z Alei",
+          "desc": "[CantIdentify]Losowe Cele\nZużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zyskać +6 Moc Umiejętności",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 3 [Vulnerable] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1456,13 +1456,13 @@
         {
           "level": 3,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify]Losowe Cele\n[WhenUse] Zyskaj Ilości [Charge] równą Rezonansowi Zazdrości\nZużyj całą Ilości [Charge] aby zyskać +10 Moc Umiejętności",
+          "abName": "Pies Z Alei",
+          "desc": "[CantIdentify]Losowe Cele\n[WhenUse] Zyskaj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> równą Rezonansowi Zazdrości\nZużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zyskać +10 Moc Umiejętności",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 3 [Vulnerable] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1471,13 +1471,13 @@
         {
           "level": 4,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
-          "desc": "[CantIdentify]Losowe Cele\n[WhenUse] Zyskaj Ilości [Charge] równą Rezonansowi Zazdrości\nZużyj całą Ilości [Charge] aby zyskać +15 Moc Umiejętności",
+          "abName": "Pies Z Alei",
+          "desc": "[CantIdentify]Losowe Cele\n[WhenUse] Zyskaj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> równą Rezonansowi Zazdrości\nZużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zyskać +15 Moc Umiejętności",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj 3 [Vulnerable] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Zyskaj 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1492,12 +1492,12 @@
           "level": 1,
           "name": "Chwytoharpun",
           "abName": "Ishmael",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Nałóż 1 [Vibration]"
@@ -1510,15 +1510,15 @@
           "level": 3,
           "name": "Chwytoharpun",
           "abName": "Ishmael",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 }
               ]
             }
@@ -1528,15 +1528,15 @@
           "level": 4,
           "name": "Chwytoharpun",
           "abName": "Ishmael",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
@@ -1553,16 +1553,16 @@
         {
           "level": 1,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "abName": "Różowe Buty",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -1571,16 +1571,16 @@
         {
           "level": 3,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "abName": "Różowe Buty",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 7 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 7 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejszych Poziomów Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -1589,19 +1589,19 @@
         {
           "level": 4,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "abName": "Różowe Buty",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejszych Poziomów Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1615,19 +1615,19 @@
         {
           "level": 1,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "[CantIdentify]\nBierze na Cel najszybszą jednostkę",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejsze Poziomy Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 4 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Nałóż 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1636,19 +1636,19 @@
         {
           "level": 3,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "[CantIdentify]\nBierze na Cel najszybszą jednostkę",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 7 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 7 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejszych Poziomów Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1657,19 +1657,19 @@
         {
           "level": 4,
           "name": "Różane Pożądanie",
-          "abName": "Pink Shoes",
+          "abName": "Różowe Buty",
           "desc": "[CantIdentify]\nBierze na Cel najszybszą jednostkę",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Mniejszych Poziomów Ataku</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1684,7 +1684,7 @@
           "level": 1,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
@@ -1692,7 +1692,7 @@
                   "desc": "Nałóż [Combustion] równe połowie Rezonansu Gniewu"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Combustion] na trzech losowych przeciwników"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na trzech losowych przeciwników"
                 }
               ]
             }
@@ -1702,7 +1702,7 @@
           "level": 3,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
@@ -1713,7 +1713,7 @@
                   "desc": "[OnSucceedAttack] Nałóż [Combustion] równe rezonansowi Gniewu"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Combustion] na trzech losowych przeciwników"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na trzech losowych przeciwników"
                 }
               ]
             }
@@ -1723,7 +1723,7 @@
           "level": 4,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)",
           "coinlist": [
             {
               "coindescs": [
@@ -1734,7 +1734,7 @@
                   "desc": "[OnSucceedAttack] Nałóż [Combustion] równe rezonansowi Gniewu"
                 },
                 {
-                  "desc": "[EndSkillHead] Nałóż 5 [Combustion] na trzech losowych przeciwników"
+                  "desc": "[EndSkillHead] Nałóż 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na trzech losowych przeciwników"
                 }
               ]
             }
@@ -1810,7 +1810,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -1825,7 +1825,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -1840,13 +1840,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +2 [MentalSystemResultIncrease_Typo] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj +2 <sprite name=\"MentalSystemResultIncrease_Typo\"><color=#e30000><u><link=\"MentalSystemResultIncrease_Typo\">Efektywności Zysku SP</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj -2 [MentalSystemResultDecrease_Typo] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Zyskaj -2 <sprite name=\"MentalSystemResultDecrease_Typo\"><color=#e30000><u><link=\"MentalSystemResultDecrease_Typo\">Efektywności Straty SP</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1860,13 +1860,13 @@
         {
           "level": 1,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -1875,16 +1875,16 @@
         {
           "level": 3,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [CrimsonTakeDamageUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"CrimsonTakeDamageUp\"><color=#e30000><u><link=\"CrimsonTakeDamageUp\">Kruchości Przed Gniewem</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1898,13 +1898,13 @@
         {
           "level": 1,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -1913,16 +1913,16 @@
         {
           "level": 3,
           "name": "Płomień Czwartej Zapałki",
-          "abName": "Scorched Girl",
+          "abName": "Spalona Dziewczynka",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [CrimsonTakeDamageUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"CrimsonTakeDamageUp\"><color=#e30000><u><link=\"CrimsonTakeDamageUp\">Kruchości Przed Gniewem</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -1936,7 +1936,7 @@
         {
           "level": 1,
           "name": "Oszronione Przebicie",
-          "abName": "Baba Yaga",
+          "abName": "Baba Jaga",
           "desc": "Jeśli wartość HP celu wynosi więcej niż 50% ich Maks HP, Zadaj +10% Obrażeń",
           "coinlist": [
             {
@@ -1945,7 +1945,7 @@
                   "desc": "[OnSucceedAttackHead] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -1954,7 +1954,7 @@
         {
           "level": 3,
           "name": "Oszronione Przebicie",
-          "abName": "Baba Yaga",
+          "abName": "Baba Jaga",
           "desc": "Jeśli wartość HP celu wynosi więcej niż 50% ich Maks HP, Zadaj +30% Obrażeń",
           "coinlist": [
             {
@@ -1963,7 +1963,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -1972,7 +1972,7 @@
         {
           "level": 4,
           "name": "Oszronione Przebicie",
-          "abName": "Baba Yaga",
+          "abName": "Baba Jaga",
           "desc": "Jeśli wartość HP celu wynosi więcej niż 50% ich Maks HP, Zadaj +30% Obrażeń",
           "coinlist": [
             {
@@ -1981,7 +1981,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]\n[OnSucceedAttack] Nałóż +5 Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>\n[OnSucceedAttack] Nałóż +5 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -1995,7 +1995,7 @@
         {
           "level": 1,
           "name": "Oszronione Przebicie",
-          "abName": "Baba Yaga",
+          "abName": "Baba Jaga",
           "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\nJeśli wartość HP celu wynosi więcej niż 50% ich Maks HP, +10% Obrażeń",
           "coinlist": [
             {
@@ -2004,7 +2004,7 @@
                   "desc": "[OnSucceedAttackHead] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +4 Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż +4 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -2013,7 +2013,7 @@
         {
           "level": 3,
           "name": "Oszronione Przebicie",
-          "abName": "Baba Yaga",
+          "abName": "Baba Jaga",
           "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\nJeśli wartość HP celu wynosi więcej niż 50% ich Maks HP, +30% Obrażeń",
           "coinlist": [
             {
@@ -2022,7 +2022,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +6 Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż +6 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -2031,7 +2031,7 @@
         {
           "level": 4,
           "name": "Oszronione Przebicie",
-          "abName": "Baba Yaga",
+          "abName": "Baba Jaga",
           "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\nJeśli wartość HP celu wynosi więcej niż 50% ich Maks HP, +30% Obrażeń",
           "coinlist": [
             {
@@ -2040,7 +2040,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [Sinking]\n[OnSucceedAttack] Nałóż +8 Ilości [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>\n[OnSucceedAttack] Nałóż +8 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -2060,7 +2060,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 6 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lose 10 SP"
@@ -2078,7 +2078,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 12 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 12 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Lose 10 SP"
@@ -2099,14 +2099,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 12 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 12 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Lose 10 SP. <style=\"highlight\">Zyskaj 1 [Enhancement] na początku następnej tury</style>"
+                  "desc": "[OnSucceedAttackHead] Lose 10 SP. <style=\"highlight\">Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury</style>"
                 },
                 {},
                 {
-                  "desc": "[OnSucceedAttackTail] Zyskaj 10 SP. <style=\"highlight\">Zyskaj 1 [Protection] na początku następnej tury</style>"
+                  "desc": "[OnSucceedAttackTail] Zyskaj 10 SP. <style=\"highlight\">Zyskaj 1 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochronę</link></u></color> na początku następnej tury</style>"
                 },
                 {}
               ]
@@ -2121,7 +2121,7 @@
         {
           "level": 1,
           "name": "Nadchodzący Dzień",
-          "abName": "Doomsday Calendar",
+          "abName": "Kalendarz Zagłady",
           "desc": "Jeśli wartość HP celu wynosi mniej niż 25% ich Maks HP, Zadaj +10% Obrażeń",
           "coinlist": [
             {
@@ -2136,13 +2136,13 @@
         {
           "level": 3,
           "name": "Nadchodzący Dzień",
-          "abName": "Doomsday Calendar",
+          "abName": "Kalendarz Zagłady",
           "desc": "Jeśli wartość HP celu wynosi mniej niż 25% ich Maks HP, Zadaj +20% Obrażeń",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj 1 [Enhancement] na początku następnej tury"
+                  "desc": "[EnemyKill] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[EnemyKill] Ulecz wszystkich Sojuszników na Polu o 15% ich Maks HP"
@@ -2154,13 +2154,13 @@
         {
           "level": 4,
           "name": "Nadchodzący Dzień",
-          "abName": "Doomsday Calendar",
+          "abName": "Kalendarz Zagłady",
           "desc": "Jeśli wartość HP celu wynosi mniej niż 25% ich Maks HP, +40% Obrażeń",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Zyskaj 1 [Enhancement] na początku następnej tury"
+                  "desc": "[EnemyKill] Zyskaj 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[EnemyKill] Ulecz wszystkich Sojuszników na Polu o 15% ich Maks HP"
@@ -2177,13 +2177,13 @@
         {
           "level": 1,
           "name": "Nadchodzący Dzień",
-          "abName": "Doomsday Calendar",
+          "abName": "Kalendarz Zagłady",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli wartość HP celu wynosi mniej niż 25% ich Maks HP, zadaj +15% Obrażeń",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] Zyskaj 10 [Laceration] na początku następnej tury"
+                  "desc": "[EnemyKillFail] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2192,16 +2192,16 @@
         {
           "level": 3,
           "name": "Nadchodzący Dzień",
-          "abName": "Doomsday Calendar",
+          "abName": "Kalendarz Zagłady",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli wartość HP celu wynosi mniej niż 25% ich Maks HP, zadaj +25% Obrażeń",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] Zyskaj 10 [Laceration] na początku następnej tury"
+                  "desc": "[EnemyKillFail] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[EnemyKillFail] Zyskaj 3 [Enhancement] na początku następnej tury"
+                  "desc": "[EnemyKillFail] Zyskaj 3 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2210,16 +2210,16 @@
         {
           "level": 4,
           "name": "Nadchodzący Dzień",
-          "abName": "Doomsday Calendar",
+          "abName": "Kalendarz Zagłady",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli wartość HP celu wynosi mniej niż 25% ich Maks HP, zadaj +50% Obrażeń",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKillFail] Zyskaj 10 [Laceration] na początku następnej tury"
+                  "desc": "[EnemyKillFail] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[EnemyKillFail] Zyskaj 3 [Enhancement] na początku następnej tury"
+                  "desc": "[EnemyKillFail] Zyskaj 3 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -2239,7 +2239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2254,7 +2254,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2269,7 +2269,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
                   "desc": "[EnemyKill] Nałóż 1 [AttackDmgUp] na przypadkowego Sojusznika"
@@ -2286,16 +2286,16 @@
         {
           "level": 1,
           "name": "Hebanowy Trzon",
-          "abName": "Ebony Queen’s Apple",
+          "abName": "Jabłko Henanowej Królowej",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2304,19 +2304,19 @@
         {
           "level": 3,
           "name": "Hebanowy Trzon",
-          "abName": "Ebony Queen’s Apple",
+          "abName": "Jabłko Henanowej Królowej",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [ShamrockTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ShamrockTakeDamageUp\"><color=#e30000><u><link=\"ShamrockTakeDamageUp\">Kruchości Przed Obżarstwem</link></u></color>"
                 }
               ]
             }
@@ -2330,16 +2330,16 @@
         {
           "level": 1,
           "name": "Hebanowy Trzon",
-          "abName": "Ebony Queen’s Apple",
+          "abName": "Jabłko Henanowej Królowej",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2348,19 +2348,19 @@
         {
           "level": 3,
           "name": "Hebanowy Trzon",
-          "abName": "Ebony Queen’s Apple",
+          "abName": "Jabłko Henanowej Królowej",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [ShamrockTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"ShamrockTakeDamageUp\"><color=#e30000><u><link=\"ShamrockTakeDamageUp\">Kruchości Przed Obżarstwem</link></u></color>"
                 }
               ]
             }
@@ -2374,7 +2374,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Ma Forma Się Opróżnia",
           "desc": "[EndSkill] Ulecz 12 SP",
           "coinlist": [
             {
@@ -2389,13 +2389,13 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
-          "desc": "[EndSkill] Ulecz 18 SP\n[EndSkill] Daj 1 [Enhancement] dwóm losowym Sojusznikom",
+          "abName": "Ma Forma Się Opróżnia",
+          "desc": "[EndSkill] Ulecz 18 SP\n[EndSkill] Przyznaj dwóm losowym Sojusznikom 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ScarletTakeDamageUp\"><color=#e30000><u><link=\"ScarletTakeDamageUp\">Kruchości Przed Żądzą</link></u></color>"
                 }
               ]
             }
@@ -2409,7 +2409,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Ma Forma Się Opróżnia",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
@@ -2430,19 +2430,19 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Daj 1 [Enhancement] dwóm losowym Sojusznikom",
+          "abName": "Ma Forma Się Opróżnia",
+          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Przyznaj dwóm losowym Sojusznikom 1 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większą Mocy Ataku</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"ScarletTakeDamageUp\"><color=#e30000><u><link=\"ScarletTakeDamageUp\">Kruchości Przed Żądzą</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Zyskaj 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttackTail] Zyskaj 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color>"
                 }
               ]
             }
@@ -2462,7 +2462,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 skuteczność przypadkowego statusu, wybranego z [Combustion], [Laceration], [Vibration], [Burst], oraz [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 skuteczność przypadkowego statusu, wybranego z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, lub <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -2477,7 +2477,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 skuteczność przypadkowego statusu, wybranego z [Combustion], [Laceration], [Vibration], [Burst], oraz [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 skuteczność przypadkowego statusu, wybranego z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, lub <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -2492,7 +2492,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 skuteczność przypadkowego statusu, wybranego z [Combustion], [Laceration], [Vibration], [Burst], oraz [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 skuteczność przypadkowego statusu, wybranego z <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>, <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, lub <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -2506,16 +2506,16 @@
         {
           "level": 1,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Złote Jabłko",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -2524,7 +2524,7 @@
         {
           "level": 3,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Złote Jabłko",
           "desc": "",
           "coinlist": [
             {
@@ -2533,10 +2533,10 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 4 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 4 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -2545,7 +2545,7 @@
         {
           "level": 4,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Złote Jabłko",
           "desc": "",
           "coinlist": [
             {
@@ -2554,10 +2554,10 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Vibration]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -2571,16 +2571,16 @@
         {
           "level": 1,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Złote Jabłko",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 2 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -2589,16 +2589,16 @@
         {
           "level": 3,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Złote Jabłko",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 4 [Muckworm]"
@@ -2610,19 +2610,19 @@
         {
           "level": 4,
           "name": "Legerdemain",
-          "abName": "Golden Apple",
+          "abName": "Złote Jabłko",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Muckworm]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Muckworm\"><color=#e30000><u><link=\"Muckworm\">Larw</link></u></color>"
                 }
               ]
             }
@@ -2636,7 +2636,7 @@
         {
           "level": 1,
           "name": "Latarnia",
-          "abName": "Faelantern",
+          "abName": "Wróżkowa Latarnia",
           "desc": "",
           "coinlist": [
             {
@@ -2651,7 +2651,7 @@
         {
           "level": 3,
           "name": "Latarnia",
-          "abName": "Faelantern",
+          "abName": "Wróżkowa Latarnia",
           "desc": "",
           "coinlist": [
             {
@@ -2671,7 +2671,7 @@
         {
           "level": 1,
           "name": "Latarnia",
-          "abName": "Faelantern",
+          "abName": "Wróżkowa Latarnia",
           "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższym HP",
           "coinlist": [
             {
@@ -2680,7 +2680,7 @@
                   "desc": "[OnSucceedAttack] Ulecz 20% zadanych Obrażeń"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 3 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2689,7 +2689,7 @@
         {
           "level": 3,
           "name": "Latarnia",
-          "abName": "Faelantern",
+          "abName": "Wróżkowa Latarnia",
           "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższym HP",
           "coinlist": [
             {
@@ -2698,7 +2698,7 @@
                   "desc": "[OnSucceedAttack] Ulecz 30% zadanych Obrażeń"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 5 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Nałóż 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2712,13 +2712,13 @@
         {
           "level": 1,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -2727,16 +2727,16 @@
         {
           "level": 3,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż Ilości [Charge] wszystkim sojusznikom równą Rezonansowi Zazdrości"
+                  "desc": "[OnSucceedAttackHead] Przyznaj wszystkim sojusznikom Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> równą Rezonansowi Zazdrości"
                 }
               ]
             }
@@ -2745,16 +2745,16 @@
         {
           "level": 4,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Nałóż Ilości [Charge] wszystkim sojusznikom równą Rezonansowi Zazdrości"
+                  "desc": "[EndSkill] Przyznaj wszystkim sojusznikom Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> równą Rezonansowi Zazdrości"
                 }
               ]
             }
@@ -2768,13 +2768,13 @@
         {
           "level": 1,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge] oraz 10 [Burst]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> oraz 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2783,16 +2783,16 @@
         {
           "level": 3,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge] oraz 10 [Burst]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> oraz 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż +10 Ilości [Charge], 5 [Vulnerable], oraz 10 [Burst] wszystkim sojusznikom"
+                  "desc": "[OnSucceedAttackHead] Przyznaj wszystkim sojusznikom +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color>, oraz 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -2801,16 +2801,16 @@
         {
           "level": 4,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge] oraz 10 [Burst]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> oraz 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Nałóż 5 [Vulnerable], 10 [Burst], oraz +12 Ilości [Charge] wszystkim sojusznikom"
+                  "desc": "[EndSkill] Przyznaj wszystkim sojusznikom 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color>, 10 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, oraz +12 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -2824,16 +2824,16 @@
         {
           "level": 1,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +5 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -2842,19 +2842,19 @@
         {
           "level": 3,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +7 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Daj 1 [VioletResultUp] oraz 1 [Agility] na dwóch losowych Sojuszników na początku następnej tury"
+                  "desc": "[OnSucceedAttackHead] Przyznaj dwóm losowych Sojusznikom 1 [VioletResultUp] oraz 1 [Agility] na początku następnej tury"
                 }
               ]
             }
@@ -2863,19 +2863,19 @@
         {
           "level": 4,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Zyskaj +7 Ilości [Charge]"
+                  "desc": "[EndSkill] Zyskaj +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkillHead] Daj 1 [VioletResultUp] oraz 1 [Agility] na dwóch losowych Sojuszników na początku następnej tury, oraz this unit Zyskajs +3 Ilości [Charge]"
+                  "desc": "[EndSkillHead] Przyznaj dwóm losowych Sojusznikom 1 [VioletResultUp] oraz 1 [Agility] na początku następnej tury, zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -2889,16 +2889,16 @@
         {
           "level": 1,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +7 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -2907,19 +2907,19 @@
         {
           "level": 3,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Nałóż 2 [Paralysis] oraz 2 [Binding] na dwie losowe jednostki na początku następnej tury"
+                  "desc": "[OnSucceedAttackTail] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> oraz 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na dwie losowe jednostki na początku następnej tury"
                 }
               ]
             }
@@ -2928,19 +2928,19 @@
         {
           "level": 4,
           "name": "Elektryczny Słup",
-          "abName": "Alleyway Watchdog",
+          "abName": "Pies Z Alei",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkill] Zyskaj +10 Ilości [Charge]"
+                  "desc": "[EndSkill] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkillTail] Nałóż 2 [Paralysis] oraz 2 [Binding] na dwie losowe jednostki na początku następnej tury, Zyskaj +3 Ilości [Charge]"
+                  "desc": "[EndSkillTail] Nałóż 2 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> oraz 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na dwie losowe jednostki na początku następnej tury, Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -2955,12 +2955,12 @@
           "level": 1,
           "name": "Wieczna Zupa",
           "abName": "Bazupaliszek",
-          "desc": "[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Pożądania (Maksymalnie o +25%)",
+          "desc": "[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Żądzy (Maksymalnie o +25%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -2970,12 +2970,12 @@
           "level": 3,
           "name": "Wieczna Zupa",
           "abName": "Bazupaliszek",
-          "desc": "[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Pożądania (Maksymalnie o +50%)",
+          "desc": "[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Żądzy (Maksymalnie o +50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -2990,12 +2990,12 @@
           "level": 1,
           "name": "Wieczna Zupa",
           "abName": "Bazupaliszek",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Pożądania (Maksymalnie o +25%)\nNastępnie, Zużyj zasoby Pożądania równe (Rezonans Pożądania); następnie podnieś Obrażenia o dodatkowe 5% za każdy zużyty zasób",
+          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Żądzy (Maksymalnie o +25%)\nNastępnie, Zużyj zasoby Żądzy równe (Rezonans Żądzy) by podnieść Obrażenia o dodatkowe 5% za każdy zużyty zasób",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -3005,12 +3005,12 @@
           "level": 3,
           "name": "Wieczna Zupa",
           "abName": "Bazupaliszek",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Pożądania (Maksymalnie o +50%)\nNastępnie, Zużyj zasoby Pożądania równe (Rezonans Pożądania); następnie podnieś Obrażenia o dodatkowe 10% za każdy zużyty zasób",
+          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Podnieś Obrażenia równomiernie z aktualnymi zasobami Żądzy (Maksymalnie o +50%)\nNastępnie, Zużyj zasoby Żądzy równe (Rezonans Żądzy) by podnieść Obrażenia o dodatkowe 10% za każdy zużyty zasób",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +4 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +4 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -3033,7 +3033,7 @@
                   "desc": "[OnSucceedAttackHead] Jeśli celem jest Sojusznik, ulecz ich o 5% Maks HP jednostki używającej tej umiejętności"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Nałóż 7 [Combustion]; Jeśli celem jest Sojusznik, Nałóż 2 [Agility] na początku następnej tury"
+                  "desc": "[OnSucceedAttackTail] Nałóż 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>; Jeśli celem jest Sojusznik, Nałóż 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -3051,7 +3051,7 @@
                   "desc": "[OnSucceedAttackHead] Jeśli celem jest Sojusznik, ulecz ich o 10% Maks HP jednostki używającej tej umiejętności"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Nałóż 7 [Combustion]; Jeśli celem jest Sojusznik, Nałóż 2 [Agility] oraz 1 [ZyskajSinStockAdder] na początku następnej tury"
+                  "desc": "[OnSucceedAttackTail] Nałóż 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>; Jeśli celem jest Sojusznik, Nałóż 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> oraz 1 [ZyskajSinStockAdder] na początku następnej tury"
                 }
               ]
             }
@@ -3071,7 +3071,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -3086,7 +3086,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -3101,7 +3101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 }
               ]
             }
@@ -3114,14 +3114,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)\n\n[BeforeAttack] Zużyj Ilości [Charge] aby zadać więcej Obrażeń (Maks 50%)",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)\n\n[BeforeAttack] Zużyj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać więcej Obrażeń (Maks 50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 7.5)% zadanych Obrażeń, po czym zmniejsz Ilość [Burst] na Celu o 5 (Maks 75%)"
+                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 7.5)% zadanych Obrażeń, po czym zmniejsz Ilość <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na Celu o 5 (Maks 75%)"
                 }
               ]
             }
@@ -3129,17 +3129,17 @@
         },
         {
           "level": 3,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)\n\n[BeforeAttack] Zużyj Ilości [Charge] aby zadać więcej Obrażeń (Maks <style=\"highlight\">75</style>%)",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)\n\n[BeforeAttack] Zużyj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać więcej Obrażeń (Maks <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <style=\"highlight\">Jeśli została zużyta Ilości [Charge], Nałóż 3 [DimensionRift]</style>"
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Jeśli została zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Nałóż 3 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x <style=\"highlight\">10</style>)% zadanych Obrażeń, po czym zmniejsz Ilość [Burst] na Celu o 5 (Maks <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x <style=\"highlight\">10</style>)% zadanych Obrażeń, po czym zmniejsz Ilość <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na Celu o 5 (Maks <style=\"highlight\">100</style>%)"
                 }
               ]
             }
@@ -3147,17 +3147,17 @@
         },
         {
           "level": 4,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)\n\n[BeforeAttack] Zużyj Ilości [Charge] aby zadać więcej Obrażeń (Maks 75%)<style=\"highlight\"></style>",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)\n\n[BeforeAttack] Zużyj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać więcej Obrażeń (Maks 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli została zużyta Ilości [Charge], Nałóż <style=\"highlight\">5</style> [DimensionRift]"
+                  "desc": "[OnSucceedAttack] Jeśli została zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Nałóż <style=\"highlight\">5</style> <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 10)% zadanych Obrażeń, po czym zmniejsz Ilość [Burst] na Celu o 5 (Maks 100)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 10)% zadanych Obrażeń, po czym zmniejsz Ilość <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na Celu o 5 (Maks 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3170,17 +3170,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nCeluje w losową jednostkę\n\n[BeforeAttack] Zużyj Ilości [Charge] aby zadać więcej Obrażeń (Maks 50%)",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "[CantIdentify]\nCeluje w losową jednostkę\n\n[BeforeAttack] Zużyj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać więcej Obrażeń (Maks 50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 7.5)% zadanych Obrażeń, po czym zmniejsz Ilość [Burst] na Celu o 5 (Maks 75%)"
+                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 7.5)% zadanych Obrażeń, po czym zmniejsz Ilość <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na Celu o 5 (Maks 75%)"
                 }
               ]
             }
@@ -3188,20 +3188,20 @@
         },
         {
           "level": 3,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nCeluje w losową jednostkę\n\n[BeforeAttack] Zużyj Ilości [Charge] aby zadać więcej Obrażeń (Maks <style=\"highlight\">75</style>%)",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "[CantIdentify]\nCeluje w losową jednostkę\n\n[BeforeAttack] Zużyj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać więcej Obrażeń (Maks <style=\"highlight\">75</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli została zużyta Ilości [Charge], Nałóż 3 [DimensionRift]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli została zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Nałóż 3 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">6</style> [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">6</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x <style=\"highlight\">10</style>)% zadanych Obrażeń, po czym zmniejsz Ilość [Burst] na Celu o 5 (Maks <style=\"highlight\">100</style>%)"
+                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x <style=\"highlight\">10</style>)% zadanych Obrażeń, po czym zmniejsz Ilość <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na Celu o 5 (Maks <style=\"highlight\">100</style>%)"
                 }
               ]
             }
@@ -3209,20 +3209,20 @@
         },
         {
           "level": 4,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nCeluje w losową jednostkę\n\n[BeforeAttack] Zużyj Ilości [Charge] aby zadać więcej Obrażeń (Maks 75%)<style=\"highlight\"></style>",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "[CantIdentify]\nCeluje w losową jednostkę\n\n[BeforeAttack] Zużyj Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać więcej Obrażeń (Maks 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli została zużyta Ilości [Charge], Nałóż <style=\"highlight\">5</style> [DimensionRift]"
+                  "desc": "[OnSucceedAttack] Jeśli została zużyta Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Nałóż <style=\"highlight\">5</style> <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 10)% zadanych Obrażeń, po czym zmniejsz Ilość [Burst] na Celu o 5 (Maks 100)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj dodatkowe Obrażenia od Pychy równe ([Burst] na Celu x 10)% zadanych Obrażeń, po czym zmniejsz Ilość <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na Celu o 5 (Maks 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3235,14 +3235,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)\n\n[BeforeAttack] Zyskaj +3 Ilości [Charge]; Zyskaj 2 [Agility] na początku następnej tury",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)\n\n[BeforeAttack] Zyskaj +3 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>; Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 2 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 2 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color>"
                 }
               ]
             }
@@ -3250,14 +3250,14 @@
         },
         {
           "level": 3,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika(w nieskupionych potyczkach)\n\n[BeforeAttack] Zyskaj +5 Ilości [Charge]; Zyskaj 2 [Agility] na początku następnej tury",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "Bierze na Cel najbardziej wycofanego przeciwnika (w nieskupionych potyczkach)\n\n[BeforeAttack] Zyskaj +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>; Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 4 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 4 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color>"
                 }
               ]
             }
@@ -3270,14 +3270,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\nZużyj 10 Ilości [Charge] aby Nałóż +1 more [Vulnerable] oraz Dimensional Rift On Hit with this Skill",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury\nZużyj 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby Nałóż +1 dodatkowej <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchościi</link></u></color> oraz <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color> On Hit with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 3 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color>"
                 }
               ]
             }
@@ -3285,14 +3285,14 @@
         },
         {
           "level": 3,
-          "name": "Wymiarowe Strzępienie",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Zyskaj <style=\"highlight\">3</style> [Agility] na początku następnej tury\nZużyj 10 Ilości [Charge] aby Nałóż <style=\"highlight\">+2</style> more [Vulnerable] oraz Dimensional Rift On Hit with this Skill",
+          "name": "Wymiarowe Szatkowanie",
+          "abName": "Zagubiony Pasażer",
+          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najwyższą wartością HP\n\n[BeforeAttack] Zyskaj <style=\"highlight\">3</style> 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury\nZużyj 10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby Nałóż <style=\"highlight\">+2</style> dodatkowej <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchościi</link></u></color> oraz <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color> On Hit with this Skill",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 4 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vulnerable] oraz 4 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowej</link></u></color>"
                 }
               ]
             }
@@ -3306,19 +3306,19 @@
         {
           "level": 1,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
+          "abName": "Mosiężny Byk",
           "desc": "[EndSkill] Zyskaj 1 [Agility], 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe [Combustion] na celu"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniu</link></u></color> na celu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku ol 3; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +1 Ilości [Combustion] on 5 random enemies"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku ol 3; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na 5 losowych przeciwników"
                 }
               ]
             }
@@ -3327,22 +3327,22 @@
         {
           "level": 3,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
-          "desc": "[EndSkill] Zyskaj 2 [Agility], 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
+          "abName": "Mosiężny Byk",
+          "desc": "[EndSkill] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 7 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 7 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe [Combustion] na celu"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniu</link></u></color> na celu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion] on 5 random enemies"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na 5 losowych przeciwników"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +2 Ilości [Combustion] on 5 random enemies"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na 5 losowych przeciwników"
                 }
               ]
             }
@@ -3351,22 +3351,22 @@
         {
           "level": 4,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
-          "desc": "[EndSkill] Zyskaj 2 [Agility], 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
+          "abName": "Mosiężny Byk",
+          "desc": "[EndSkill] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe [Combustion] na celu"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniu</link></u></color> na celu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion] on 5 random enemies"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na 5 losowych przeciwników"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +3 Ilości [Combustion] on 5 random enemies"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +3 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na 5 losowych przeciwników"
                 }
               ]
             }
@@ -3380,19 +3380,19 @@
         {
           "level": 1,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
+          "abName": "Mosiężny Byk",
           "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Zyskaj 1 [Agility], 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe [Combustion] na celu"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniu</link></u></color> na celu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku ol 3; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +2 Ilości [Combustion] na pięć losowych jednostek"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku ol 3; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na pięć losowych jednostek"
                 }
               ]
             }
@@ -3401,22 +3401,22 @@
         {
           "level": 3,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Zyskaj 2 [Agility], 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
+          "abName": "Mosiężny Byk",
+          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe [Combustion] na celu"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniu</link></u></color> na celu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion] na pięć losowych jednostek"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na pięć losowych jednostek"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +3 Ilości [Combustion] na pięć losowych jednostek"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +3 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na pięć losowych jednostek"
                 }
               ]
             }
@@ -3425,22 +3425,22 @@
         {
           "level": 4,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
-          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Zyskaj 2 [Agility], 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
+          "abName": "Mosiężny Byk",
+          "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, 1 [CrimsonResultUp], oraz 1 [HitResultUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 12 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 12 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe [Combustion] na celu"
+                  "desc": "[OnSucceedAttack] Nałóż [Vibration] równe <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpaleniu</link></u></color> na celu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion] na pięć losowych jednostek"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na pięć losowych jednostek"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +4 Ilości [Combustion] na pięć losowych jednostek"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku ol 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +4 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na pięć losowych jednostek"
                 }
               ]
             }
@@ -3454,13 +3454,13 @@
         {
           "level": 1,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
-          "desc": "[EndSkill] Daj 1 [CrimsonDamageUp] wszystkim sojusznikom na początku następnej tury",
+          "abName": "Mosiężny Byk",
+          "desc": "[EndSkill] Przyznaj wszystkim sojusznikom 1 [CrimsonDamageUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Zadaj 7 Obrażeń SP"
@@ -3472,13 +3472,13 @@
         {
           "level": 3,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
-          "desc": "[EndSkill] Daj 1 [CrimsonDamageUp] wszystkim sojusznikom na początku następnej tury",
+          "abName": "Mosiężny Byk",
+          "desc": "[EndSkill] Przyznaj wszystkim sojusznikom 1 [CrimsonDamageUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Zadaj 15 Obrażeń SP"
@@ -3495,19 +3495,19 @@
         {
           "level": 1,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
+          "abName": "Mosiężny Byk",
           "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Nałóż 1 [CrimsonTakeDamageUp], oraz 1 [CrimsonDamageUp] na wszystkie jednostki na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Zadaj 7 Obrażeń SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku o 2"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku o 2"
                 }
               ]
             }
@@ -3516,19 +3516,19 @@
         {
           "level": 3,
           "name": "Czerwona Kapota",
-          "abName": "Brazen Bull",
+          "abName": "Mosiężny Byk",
           "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Nałóż 1 [CrimsonTakeDamageUp], oraz 1 [CrimsonDamageUp] na wszystkie jednostki na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Zadaj 15 Obrażeń SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilości [Vibration] na przeciwniku o 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +2 Ilości [Combustion] na trzy losowe jednostki"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion] następnie, Zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na przeciwniku o 2; jeśli ten [VibrationExplosion] zachwiał cel, Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na trzy losowe jednostki"
                 }
               ]
             }
@@ -3542,13 +3542,13 @@
         {
           "level": 1,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] Zyskaj +4 Ilości [Breath]",
+          "abName": "Dryfujący Lis",
+          "desc": "[BeforeAttack] Zyskaj +4 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]"
@@ -3560,19 +3560,19 @@
         {
           "level": 3,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] Zyskaj +6 Ilości [Breath]",
+          "abName": "Dryfujący Lis",
+          "desc": "[BeforeAttack] Zyskaj +6 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +2 Ilości [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -3581,19 +3581,19 @@
         {
           "level": 4,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] Zyskaj +7 Ilości [Breath]",
+          "abName": "Dryfujący Lis",
+          "desc": "[BeforeAttack] Zyskaj +7 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +3 Ilości [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +3 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             }
@@ -3607,13 +3607,13 @@
         {
           "level": 1,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najniższą wartością HP\n[BeforeAttack] Zyskaj +5 Ilości [Breath]",
+          "abName": "Dryfujący Lis",
+          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najniższą wartością HP\n[BeforeAttack] Zyskaj +5 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]"
@@ -3625,22 +3625,22 @@
         {
           "level": 3,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najniższą wartością HP\n[BeforeAttack] Zyskaj +7 Ilości [Breath]",
+          "abName": "Dryfujący Lis",
+          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najniższą wartością HP\n[BeforeAttack] Zyskaj +7 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +2 Ilości [Sinking] oraz Ilości [Burst]"
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +2 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> oraz Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3649,22 +3649,22 @@
         {
           "level": 4,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nBierze na Cel jednostkę z najniższą wartością HP\n[BeforeAttack] Zyskaj +7 Ilości [Breath]",
+          "abName": "Dryfujący Lis",
+          "desc": "[CantIdentify]\nBierze na Cel jednostki z najniższą wartością HP\n[BeforeAttack] Zyskaj +7 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Burst]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +3 Ilości [Sinking] oraz Ilości [Burst]"
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [VibrationExplosion]; Nałóż +3 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color> oraz Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
                 }
               ]
             }
@@ -3678,13 +3678,13 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] Zyskaj +5 Ilości [Charge]",
+          "abName": "Rażąca Stonoga",
+          "desc": "[BeforeAttack] Zyskaj +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [EmittedCurrent]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"EmittedCurrent\"><color=#e30000><u><link=\"EmittedCurrent\">Wyładowania Iskier</link></u></color>"
                 }
               ]
             }
@@ -3693,13 +3693,13 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] Zyskaj +7 Ilości [Charge]",
+          "abName": "Rażąca Stonoga",
+          "desc": "[BeforeAttack] Zyskaj +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [EmittedCurrent]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"EmittedCurrent\"><color=#e30000><u><link=\"EmittedCurrent\">Wyładowania Iskier</link></u></color>"
                 }
               ]
             }
@@ -3708,13 +3708,13 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] Zyskaj +10 Ilości [Charge]",
+          "abName": "Rażąca Stonoga",
+          "desc": "[BeforeAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 15 [EmittedCurrent]"
+                  "desc": "[OnSucceedAttack] Nałóż 15 <sprite name=\"EmittedCurrent\"><color=#e30000><u><link=\"EmittedCurrent\">Wyładowania Iskier</link></u></color>"
                 }
               ]
             }
@@ -3728,13 +3728,13 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nBierze na Cel jednostki z [Charge]\n[BeforeAttack] Zyskaj +5 Ilości [Charge]",
+          "abName": "Rażąca Stonoga",
+          "desc": "[CantIdentify]\nBierze na Cel jednostki z <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniem</link></u></color>\n[BeforeAttack] Zyskaj +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 5 [EmittedCurrent] oraz +5 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"EmittedCurrent\"><color=#e30000><u><link=\"EmittedCurrent\">Wyładowania Iskier</link></u></color> oraz +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -3743,13 +3743,13 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nBierze na Cel jednostki z [Charge]\n[BeforeAttack] Zyskaj +7 Ilości [Charge]",
+          "abName": "Rażąca Stonoga",
+          "desc": "[CantIdentify]\nBierze na Cel jednostki z <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniem</link></u></color>\n[BeforeAttack] Zyskaj +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 10 [EmittedCurrent] oraz +5 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Nałóż 10 <sprite name=\"EmittedCurrent\"><color=#e30000><u><link=\"EmittedCurrent\">Wyładowania Iskier</link></u></color> oraz +5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -3758,13 +3758,13 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nBierze na Cel jednostki z [Charge]\n[BeforeAttack] Zyskaj +10 Ilości [Charge]",
+          "abName": "Rażąca Stonoga",
+          "desc": "[CantIdentify]\nBierze na Cel jednostki z <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniem</link></u></color>\n[BeforeAttack] Zyskaj +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 15 [EmittedCurrent] oraz +7 Ilości [Charge]"
+                  "desc": "[OnSucceedAttack] Nałóż 15 <sprite name=\"EmittedCurrent\"><color=#e30000><u><link=\"EmittedCurrent\">Wyładowania Iskier</link></u></color> oraz +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -3778,13 +3778,13 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] Zyskaj +1 Ilości [Charge] za każde 10% brakującego HP (Maks 5)\nZyskaj 2 [Agility] na początku następnej tury",
+          "abName": "Rażąca Stonoga",
+          "desc": "[BeforeAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> za każde 10% brakującego HP (Maks 5)\nZyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color>"
                 }
               ]
             }
@@ -3793,13 +3793,13 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[BeforeAttack] Zyskaj +1 Ilości [Charge] za każde 10% brakującego HP (Maks 7)\nZyskaj 2 [Agility] na początku następnej tury",
+          "abName": "Rażąca Stonoga",
+          "desc": "[BeforeAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> za każde 10% brakującego HP (Maks 7)\nZyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Paralysis] oraz 1 [AzureTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paraliżu</link></u></color> oraz 1 [AzureTakeDamageUp]"
                 }
               ]
             }
@@ -3813,16 +3813,16 @@
         {
           "level": 1,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +1 Ilości [Charge] za każde 10% brakującego HP (Maks 5)\nZyskaj 2 [Agility] na początku następnej tury",
+          "abName": "Rażąca Stonoga",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> za każde 10% brakującego HP (Maks 5)\nZyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zużyj całą Ilości [Charge] aby zadać dodatkowe obrażenia od Smutku równe (Ilości [Charge] * 1.5)% zadanych Obrażeń (Maks 30%)"
+                  "desc": "[OnSucceedAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać dodatkowe obrażenia od Przygnębienia równe (Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> * 1.5)% zadanych Obrażeń (Maks 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Po tym ataku, strać 10% swojego Maks HP aby Zyskaj +7 Ilości [Charge]"
+                  "desc": "[OnSucceedAttackTail] Po tym ataku, strać 10% swojego Maks HP by zyskać +7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -3831,16 +3831,16 @@
         {
           "level": 3,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +1 Ilości [Charge] za każde 10% brakującego HP (Maks 7)\nZyskaj 2 [Agility] na początku następnej tury",
+          "abName": "Rażąca Stonoga",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> za każde 10% brakującego HP (Maks 7)\nZyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zużyj całą Ilości [Charge] aby zadać dodatkowe obrażenia od Smutku równe (Ilości [Charge] * 2.5)% zadanych Obrażeń (Maks 50%)"
+                  "desc": "[OnSucceedAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać dodatkowe obrażenia od Przygnębienia równe (Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> * 2.5)% zadanych Obrażeń (Maks 50%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Strać HP równe 10% swojego Maks HP aby zyskać +10 Ilości [Charge]"
+                  "desc": "[OnSucceedAttackTail] Strać HP równe 10% swojego Maks HP aby zyskać +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -3849,19 +3849,19 @@
         {
           "level": 4,
           "name": "AEDD",
-          "abName": "Shock Centipede",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +1 Ilości [Charge] za każde 10% brakującego HP (Maks 7)\nZyskaj 2 [Agility] na początku następnej tury",
+          "abName": "Rażąca Stonoga",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> za każde 10% brakującego HP (Maks 7)\nZyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Zużyj całą Ilości [Charge] aby zadać dodatkowe obrażenia od Smutku równe (Ilości [Charge] * 2.5)% zadanych Obrażeń (Maks 50%)"
+                  "desc": "[OnSucceedAttack] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> aby zadać dodatkowe obrażenia od Przygnębienia równe (Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> * 2.5)% zadanych Obrażeń (Maks 50%)"
                 },
                 {
-                  "desc": "[EndSkill] Zużyj całą Ilości [Charge]"
+                  "desc": "[EndSkill] Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 },
                 {
-                  "desc": "[EndSkillTail] Strać HP równe 10% swojego Maks HP aby zyskać +10 Ilości [Charge]"
+                  "desc": "[EndSkillTail] Strać HP równe 10% swojego Maks HP aby zyskać +10 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>"
                 }
               ]
             }
@@ -3875,8 +3875,8 @@
         {
           "level": 1,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] Nałóż 1 [AmberResultUp], 1 [AmberDamageUp], oraz 2 [Protection] na wszystkich sojuszników teraz oraz na początku następnej tury",
+          "abName": "Dryfujący Lis",
+          "desc": "[BeforeAttack] Nałóż 1 [AmberResultUp], 1 [AmberDamageUp], oraz 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na wszystkich sojuszników w tej oraz na początku następnej tury",
           "coinlist": [
             {}
           ]
@@ -3884,8 +3884,8 @@
         {
           "level": 3,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[BeforeAttack] Nałóż 1 [AmberResultUp], 2 [AmberDamageUp], oraz 3 [Protection] na wszystkich sojuszników teraz oraz na początku następnej tury",
+          "abName": "Dryfujący Lis",
+          "desc": "[BeforeAttack] Nałóż 1 [AmberResultUp], 2 [AmberDamageUp], oraz 3 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na wszystkich sojuszników w tej oraz na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -3904,13 +3904,13 @@
         {
           "level": 1,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj 1 [AmberResultUp] oraz 1 [AmberDamageUp] teraz oraz na początku dwóch następnych tur",
+          "abName": "Dryfujący Lis",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj 1 [AmberResultUp] oraz 1 [AmberDamageUp] w tej oraz na początku dwóch następnych tur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [AmberResistDown] oraz 1 [PenetrateResistDown] teraz oraz na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AmberResistDown] oraz 1 [PenetrateResistDown] w tej oraz na początku następnej tury"
                 }
               ]
             }
@@ -3919,13 +3919,13 @@
         {
           "level": 3,
           "name": "Słoneczna Mrzawka",
-          "abName": "Drifting Fox",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj 2 [AmberResultUp] oraz 2 [AmberDamageUp] teraz oraz na początku dwóch następnych tur",
+          "abName": "Dryfujący Lis",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj 2 [AmberResultUp] oraz 2 [AmberDamageUp] w tej oraz na początku dwóch następnych tur",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [AmberResistDown] oraz 2 [PenetrateResistDown] teraz oraz na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"AmberResistDown\"><color=#e30000><u><link=\"AmberResistDown\">Kruchościi Przed Lenistwem</link></u></color> oraz 2 <sprite name=\"PenetrateResistDown\"><color=#e30000><u><link=\"PenetrateResistDown\">Kruchościi Przed Dźganiem</link></u></color> w tej oraz na początku następnej tury"
                 }
               ]
             }
@@ -3939,16 +3939,16 @@
         {
           "level": 1,
           "name": "Czerwone Oczy",
-          "abName": "Spider Bud",
+          "abName": "Pajęczy Pąk",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Nałóż 1 [PlusCoinValueDown] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Nałóż 1 [PlusCoinValueDown] na początku następnej tury"
                 }
               ]
             }
@@ -3957,19 +3957,19 @@
         {
           "level": 3,
           "name": "Czerwone Oczy",
-          "abName": "Spider Bud",
+          "abName": "Pajęczy Pąk",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Nałóż 1 [PlusCoinValueDown] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Nałóż 1 [PlusCoinValueDown] na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel jest wolnieszy od tej jednostki, Nałóż 2 [SlashTakeDamageUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel jest wolnieszy od tej jednostki, Nałóż 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Kruchości Przed Cięciem</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -3978,19 +3978,19 @@
         {
           "level": 4,
           "name": "Czerwone Oczy",
-          "abName": "Spider Bud",
+          "abName": "Pajęczy Pąk",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Nałóż 1 [PlusCoinValueDown] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Nałóż 1 [PlusCoinValueDown] na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel jest wolnieszy od tej jednostki, Nałóż 2 [SlashTakeDamageUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel jest wolnieszy od tej jednostki, Nałóż 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Kruchości Przed Cięciem</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4004,16 +4004,16 @@
         {
           "level": 1,
           "name": "Czerwone Oczy",
-          "abName": "Spider Bud",
+          "abName": "Pajęczy Pąk",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Nałóż 2 [PlusCoinValueDown] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Nałóż 2 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Osłabienia Dodatkich Monet</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4022,19 +4022,19 @@
         {
           "level": 3,
           "name": "Czerwone Oczy",
-          "abName": "Spider Bud",
+          "abName": "Pajęczy Pąk",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Binding] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Nałóż 2 [PlusCoinValueDown] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Nałóż 2 <sprite name=\"PlusCoinValueDown\"><color=#e30000><u><link=\"PlusCoinValueDown\">Osłabienia Dodatkich Monet</link></u></color> na początku następnej tury"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel jest wolnieszy od tej jednostki, Nałóż 1-3 [SlashTakeDamageUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Jeśli Cel jest wolnieszy od tej jednostki, Nałóż 1-3 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Kruchości Przed Cięciem</link></u></color> na początku następnej tury"
                 }
               ]
             }
@@ -4048,13 +4048,13 @@
         {
           "level": 1,
           "name": "Czerwone Oczy (Otwarte)",
-          "abName": "Spider Bud",
-          "desc": "Jeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, Moc Monety +4",
+          "abName": "Pajęczy Pąk",
+          "desc": "Jeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, +4 Mocy Monet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Zadaj +20% więcej Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Zadaj +20% więcej Obrażeń"
                 }
               ]
             }
@@ -4063,13 +4063,13 @@
         {
           "level": 3,
           "name": "Czerwone Oczy (Otwarte)",
-          "abName": "Spider Bud",
-          "desc": "Jeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, Moc Monety +4",
+          "abName": "Pajęczy Pąk",
+          "desc": "Jeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, +4 Mocy Monet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Zadaj +20% więcej Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Zadaj +20% więcej Obrażeń"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli ta umiejętność zachwieje lub pokona Cel, ulecz tą jednostkę oraz sojusznika z najmniejszą ilością HP o 10% ich max HP"
@@ -4081,13 +4081,13 @@
         {
           "level": 4,
           "name": "Czerwone Oczy (Otwarte)",
-          "abName": "Spider Bud",
-          "desc": "Jeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, Moc Monety +7",
+          "abName": "Pajęczy Pąk",
+          "desc": "Jeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, +7 Mocy Monet",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Zadaj +40% więcej Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Zadaj +40% więcej Obrażeń"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli ta umiejętność zachwieje lub pokona Cel, ulecz tą jednostkę oraz sojusznika z najmniejszą ilością HP o 10% ich max HP"
@@ -4104,13 +4104,13 @@
         {
           "level": 1,
           "name": "Czerwone Oczy (Otwarte)",
-          "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nLosowe Cele\nJeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, Finalna Moc +7",
+          "abName": "Pajęczy Pąk",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, +7 Ostatecznej Mocy",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Zadaj +30% więcej Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Zadaj +30% więcej Obrażeń"
                 }
               ]
             }
@@ -4119,13 +4119,13 @@
         {
           "level": 3,
           "name": "Czerwone Oczy (Otwarte)",
-          "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nLosowe Cele\nJeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, Finalna Moc +7",
+          "abName": "Pajęczy Pąk",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, +7 Ostatecznej Mocy",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Zadaj +30% więcej Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Zadaj +30% więcej Obrażeń"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli ta umiejętność zachwieje lub pokona Cel, ulecz tą jednostkę oraz sojusznika z najmniejszą ilością HP o 10% ich max HP"
@@ -4137,13 +4137,13 @@
         {
           "level": 4,
           "name": "Czerwone Oczy (Otwarte)",
-          "abName": "Spider Bud",
-          "desc": "[CantIdentify]\nLosowe Cele\nJeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, Finalna Moc +10",
+          "abName": "Pajęczy Pąk",
+          "desc": "[CantIdentify]\nLosowe Cele\nJeśli Cel jest wolnieszy od tej jednostki o 3 lub więcej, +10 Ostatecznej Mocy",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ [Binding], Zadaj +50% więcej Obrażeń"
+                  "desc": "[OnSucceedAttack] Jeśli Cel ma 3+ <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color>, Zadaj +50% więcej Obrażeń"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli ta umiejętność zachwieje lub pokona Cel, ulecz tą jednostkę oraz sojusznika z najmniejszą ilością HP o 10% ich max HP"
@@ -4160,7 +4160,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Ma Forma Się Opróżnia",
           "desc": "",
           "coinlist": [
             {
@@ -4178,13 +4178,13 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
-          "desc": "[BeforeAttack] Przy 15+ SP, Waga Ataku +1",
+          "abName": "Ma Forma Się Opróżnia",
+          "desc": "[BeforeAttack] Przy 15+ SP, +1 Wagi Ataku",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[EndSkill] Ulecz 17 SP czterem sojusznikom z najmniejszą ilością SP"
@@ -4196,13 +4196,13 @@
         {
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
-          "desc": "[BeforeAttack] Przy 15+ SP, Waga Ataku +2",
+          "abName": "Ma Forma Się Opróżnia",
+          "desc": "[BeforeAttack] Przy 15+ SP, +2 Wagi Ataku",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Reduction] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</link></u></color> na początku następnej tury"
                 },
                 {
                   "desc": "[EndSkill] Ulecz 25 SP czterem sojusznikom z najmniejszą ilością SP"
@@ -4219,16 +4219,16 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
+          "abName": "Ma Forma Się Opróżnia",
           "desc": "[CantIdentify]\nLosowe Cele",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [DefenseDown] na jednego przypadkowego sojusznika"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color> na jednego przypadkowego sojusznika"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury."
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Większe Poziomy Obrony</link></u></color> na początku następnej tury."
                 },
                 {
                   "desc": "[OnSucceedAttack] Zyskaj 1 [AttackDmgUp] na początku następnej tury."
@@ -4240,16 +4240,16 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy -15 lub niższym SP, Waga Ataku +1",
+          "abName": "Ma Forma Się Opróżnia",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy -15 lub niższym SP, +1 Wagi Ataku",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [DefenseDown] na jednego przypadkowego sojusznika"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color> na jednego przypadkowego sojusznika"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury."
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Większe Poziomy Obrony</link></u></color> na początku następnej tury."
                 },
                 {
                   "desc": "[OnSucceedAttack] Zyskaj 1 [AttackDmgUp] na początku następnej tury."
@@ -4264,16 +4264,16 @@
         {
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy -15 lub niższym SP, Waga Ataku +2",
+          "abName": "Ma Forma Się Opróżnia",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy -15 lub niższym SP, +2 Wagi Ataku",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [DefenseDown] na jednego przypadkowego sojusznika"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color> na jednego przypadkowego sojusznika"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zyskaj 2 [DefenseUp] na początku następnej tury."
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Większe Poziomy Obrony</link></u></color> na początku następnej tury."
                 },
                 {
                   "desc": "[OnSucceedAttack] Zyskaj 1 [AttackDmgUp] na początku następnej tury."
