@@ -2,113 +2,113 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Some Backstreets of District 4",
+      "place": "Tylne Uliczki 4 Dystryktu",
       "model": "로쟈",
-      "content": "Gee, when was the last time I had a feast? Even a big blocky machine eats better than we do…"
+      "content": "Rany, a kiedy to ja tak dobrze jadłam? Nawet nasz pekaes więcej dostaje…"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "Do mind that all meals are provided with appropriately determined quantities."
+      "content": "Proszę, pamiętaj, że posiłki zapewnione przez firmę spęłniają wymogi wyżywienia."
     },
     {
       "id": 2,
       "model": "로쟈",
-      "content": "It’s not nearly enough to get me going!"
+      "content": "No ale to przecież tak mało, nie da się tym najeść!"
     },
     {
       "id": 3,
-      "content": "I thought I heard Heathcliff shout “You think I’m doing this on a full stomach?!” in the distance, but Rodya seemed to pretend she heard nothing."
+      "content": "Wydawało mi się, że słyszę skądś jak Heathcliff krzyczy “Ty myślisz, że ja to robię na pełnym żołądku, czy co?!”, ale Rodya go zwyczajnie ignorowała."
     },
     {
       "id": 4,
-      "content": "Speaking of…"
+      "content": "Skoro już o tym…"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<Does this bus run on stuff like blood or protein?>"
+      "content": "<Ten autobus jest napędzany krwią albo, nie wiem, białkiem?>"
     },
     {
       "id": 6,
       "model": "파우스트",
-      "content": "It’s Enkephalin, an energy source Lobotomy Corporation treated."
+      "content": "Jedziemy dzięki Enkefalinie, źródle energi tworzonym przez Lobotomy Corporation."
     },
     {
       "id": 7,
       "model": "이스마엘",
-      "content": "You mean the previous L Corp. I heard it produced energy using its Singularity, though all that remains of the company now is rubble."
+      "content": "Poprzedni L Corp, zgadza się? Słyszałam, że produkowali energię swoją Osobliwością… Choć po upadku Skrzydła z tego wszystkiego został tylko gruz."
     },
     {
       "id": 8,
       "model": "파우스트",
-      "content": "That’s right, which is why it’s become a rarity these days."
+      "content": "Owszem, z ego też powodu substancja jest obecnie rzadkim okazem."
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "However, Mephistopheles is capable of forcibly extracting Enkephalin from the body."
+      "content": "Jednak Mefistofeles jest w stanie wyciągać Enkefalinę z ciał."
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<The body…?>"
+      "content": "<Ciał…?>"
     },
     {
       "id": 11,
-      "content": "I posed a question, watching Outis give orders to the other Sinners, then glancing to the maw of the bus in turn."
+      "content": "To konkretnew słowo krzątało mi się po głowie, kiedy patrzyłom raz na Outis, rzucającą pozostałym Grzesznikom rozkazy, a raz na paszczę busa."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "Correct, Enkephalin can only be extracted from the brain and the spinal nerves. It can be taken from live subjects for greater efficiency."
+      "content": "Tak, Enkefalinę można wyciągnąć z mózgu i rdzenia kręgowego. Pobieranie z żywych obiektów przebiega z wyższą efektywnością."
     },
     {
       "id": 13,
-      "content": "So that’s why Vergilius told the Sinners not to kill the assailants."
+      "content": "Czyli dlatego Wergiliusz kazał Grzesznikom nie zabijać agresowów."
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<Okay, and…>"
+      "content": "<Okej, a…>"
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "If “Why the rest of their body?” is what you’re thinking, there is a point, as their blood and flesh can also be processed into fuel."
+      "content": "Jeśli chcesz spytać “Co z resztą ciała?”, ono też ma tu swoją rolę, jako że krew i mięso może być przetworzone na paliwo."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "While Enkephalin is used to generate ignition and thrust, the remaining organic matter is spent on maintaining speed, thus reducing Enkephalin usage."
+      "content": "O ile Enkefalina jest używana do stworzenia iskry i ciągu, pozostała meteria organiczna jest przeznaczana na utrzymanie prędkości, tym samym zmniejszając zułycie Enkefaliny."
     },
     {
       "id": 17,
       "model": "이상",
-      "content": "A hybrid."
+      "content": "Napęd hybrydowy."
     },
     {
       "id": 18,
-      "content": "Faust went on to explain how most of the vehicle’s fuel is taken from the branch facilities, and that it won’t be a sufficient source on its own…"
+      "content": "Faust zaczęła tłumaczyć, jak większość paliwa jest zbierana z placówek Lobotomy Corporation i że na długą metę zbieranie Enkefaliny z ciał nie będzie wystarczać…"
     },
     {
       "id": 19,
-      "content": "But most of it went in one ear and out the other."
+      "content": "Ale większość z tego była dla mnie zbyt skomplikowana."
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<…Well, that’s complicated. I got that it’s tough work, at least.>"
+      "content": "<…No, przyznam, że może nie wszystko zrozumiałom, ale czuję, że nieźle się nad tym napracowałać.>"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "Don’t mention it. Faust knows no struggle."
+      "content": "To nic takiego. Dla Faust nie ma rzeczy trudnych."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "If anyone’s doing the heavy lifting, it’d be us… Hey! Manager Bud! More incoming!"
+      "content": "To prędzej my tutaj harujemy… Hej! Szefo! Więcej ich idzie!"
     }
   ]
 }
