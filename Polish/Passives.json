@@ -2149,7 +2149,7 @@
     {
       "id": 1081202,
       "name": "Manewr Wejściowy [始動]",
-      "desc": "Kiedy ta jednostka się Wycofa: Przyznaj sojusznikom 1 [AttackUp] na początku następnej tury według ich kolejności w Zespole\n- Działa na liczbie sojuszników równej Wartości [StartXichun] na sobie\n- Jeśli ten efekt wzmocnił jednostkę z \"Rodziny Jia\", zamiast tego przyznaj 2 [AttackUp] na początku następnej tury\n- Nie działa na sojuszników którzy albo Wrócili do walki, lub zastąpili tą jednostkę\n\nW turze, w której ta jednostka Zastąpiła inną, lub Wróciła do walki, zyskuje [WaitingXichun], po czym na Początku Walki, jako pierwszą użytą w walce Zdolność, używa 'Szkarłatne Uderzenie - Rozpoczęcie [始]' na losowym celu.",
+      "desc": "Kiedy ta jednostka się Wycofa: Przyznaj sojusznikom 1 [AttackUp] na początku następnej tury według ich kolejności w Zespole\n- Działa na liczbie sojuszników równej Wartości [StartXichun] na sobie\n- Jeśli ten efekt wzmocnił jednostkę z \"Rodziny Jia\", zamiast tego przyznaj 2 [AttackUp] na początku następnej tury\n- Nie działa na sojuszników którzy albo Wrócili do walki, lub zastąpili tą jednostkę\n\nW turze, w której ta jednostka Zastąpiła inną, lub Wróciła do walki, zyskuje [WaitingXichun], po czym na Początku Walki, jako pierwszą użytą w walce Zdolność, używa 'Szkarłatne Uderzenie - Rozpoczęcie [CRIMSON]始[SCARLET]' na losowym celu.",
       "summary": "In the turn ta jednostka entered the battle via Substitution lub Return: mając Początek Walki, as the very first Zdolność in the Zdolność order, użyj 'Crimson Strike - Launcher (始)' na losowym celu"
     },
     {
