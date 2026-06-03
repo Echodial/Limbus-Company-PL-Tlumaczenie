@@ -544,11 +544,28 @@
       "id": 2100911,
       "name": "To... Rzeczywiście Był Rytm",
       "desc": "Na Początku Tury: Zyskaj 2 [ThatIsRhythm]\n\nPo Pokonaniu Celu: Ta jednostka leczy 5% PŻ oraz 5 SP (raz na turę)\n- Jeśli cel tej jednostki został Pokonany przez Umiejętność E.G.O - Harmonia, podwój efekt leczący tej Pasywki\n\nNa Koniec Tury: Jeśli ta jednostka straciła SP podczas tej tury, ulecz (4 + suma Nasilenia [Combustion] oraz [Laceration] na wszystkich Przeciwnikach / 10) SP (maks 10; zaokrąglone w dół)"
-    }
+    },
     {
       "id": 2021011,
       "name": "Unsnuffed Embers",
       "desc": "Pasywka ta staje się aktywna od razu po użyciu tej Umiejętności E.G.O\n\nZa każde 10 [Combustion] na sobie, podnieś Nasilenie [Combustion] nakładane na Przeciwników używając Efektów oraz Monet Bazowych Umiejętności tej jednostki o 1 (maks 2, nie działa z 'Unikalnym [Combustion]')\n\nGdy ta jednostka użyje Umiejętności 'Maksymalne powiązanie z Ekwipunkiem G.P.R 【Niekompletna Korozja】' , jednostka ta Nie Umiera po użyciu tej Umiejętności; zamiast tego, leczy ona 40% PŻ oraz zyskuje 2 [HitDamageUp] oraz 1 [CrimsonDamageUp] na początku następnej tury (raz na Potyczkę)"
+    },
+    {
+      "id": 2040212,
+      "name": "4th Match Flame",
+      "desc": "Every 4th Skill this unit uses gains Final Power +4 and inflicts 4 [Combustion] On Hit\n- If the said Skill is a Wrath Skill, deal +([Combustion] Potency on all targets / 2)% additional damage (max 20%)\n- If the said Skill is an E.G.O Skill, apply the following effects at Coin Start of the first Coin:\n· If the said Coin is a Plus Coin, heal 10 SP\n· If the said Coin is a Minus Coin, lose 15 SP (this effect cannot reduce this unit's SP below -40)",
+      "summary": "Every 4th Skill used is enhanced"
+    },
+    {
+      "id": 2090911,
+      "name": "What Distinguishes Moths from Butterflies",
+      "desc": "If this unit's leftmost Base Attack Skill on the Dashboard is a Wrath or a Lust Skill, at Attack End, deal 30% of the damage dealt against the main target with that Skill as its corresponding Affinity damage to a random enemy (max 30 damage; for Focused Encounters, a Part)\n\nIf this unit dealt the maximum possible damage with the above effect, gain 1 Affinity DMG Up for the corresponding Affinity next turn, and disable the above effect from triggering for 2 turns"
+    },
+    {
+      "id": 2010212,
+      "name": "Ember",
+      "desc": "<style=\"highlight\">On Use of a Wrath Skill or a Skill that inflicts [Combustion] Potency or Count: At 6+ total sum of [Combustion] on all targets, Clash Power +1</style>\n\nOn Clash Win, inflict (Wrath <style=\"highlight\">Reson. x 2</style>) [Combustion] <style=\"highlight\">on the main target</style> (<style=\"highlight\">max 8</style> per Skill)",
+      "summary": "Gain Clash Power\nWhen conditions are met, inflict [Combustion]"
     }
   ]
 }

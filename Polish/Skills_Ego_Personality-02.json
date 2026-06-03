@@ -861,19 +861,19 @@
           "level": 1,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)",
+          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)"
+                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -883,12 +883,12 @@
           "level": 3,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)",
+          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)</style>"
@@ -898,7 +898,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)"
+                  "desc": "[EndCoin] Przy 15+ [Combustion] na sobie, nałóż 1 [FaustFlameMothEmber] na każdy cel (raz na turę; w Skupionych Potyczkach, na każdą Część)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -908,12 +908,12 @@
           "level": 4,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)",
+          "desc": "[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 15+ [Combustion] na sobie, Zyskaj 1 [CrimsonDamageUp] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>"
@@ -941,26 +941,26 @@
           "level": 1,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Losowo rozdziel 3 [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)"
+                  "desc": "[EndCoin] Losowo rozdziel 3 [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -970,19 +970,19 @@
           "level": 3,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)</style>"
@@ -992,7 +992,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Losowo rozdziel 3 [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)"
+                  "desc": "[EndCoin] Losowo rozdziel 3 [FaustFlameMothEmber] pomiędzy celami (raz na turę, nie bierze pod uwagę celów z maksymalnym Nasileniem [FaustFlameMothEmber]. W Skupionych Potyczkach, na każdą Część)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1007,7 +1007,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż Ilość [Combustion] równą (Rezonans Gniewu / 3) (maks 2; zaokrąglone w dół)</style>"
@@ -1017,7 +1017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż [Combustion] równą (Rezonans Gniewu / 2) (maks 3; zaokrąglone w dół)<style=\"highlight\"></style>"
@@ -1032,9 +1032,6 @@
               ]
             }
           ]
-        }
-      ]
-    }
         }
       ]
     }
