@@ -5,20 +5,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Vomit Froth",
+                    "name": "Zwracanie Piany",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 2 [Sinking]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 2 [Sinking]"
                                 }
                             ]
                         }
@@ -31,20 +31,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Claw",
-                    "desc": "If target has 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, deal +20% damage.",
+                    "name": "Darcie",
+                    "desc": "Jeśli cel posiada 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>, zadaj +20% obrażeń.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Ulecz PŻ równie 30% zadanych obrażeń"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Ulecz PŻ równie 30% zadanych obrażeń"
                                 }
                             ]
                         }
@@ -57,13 +57,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Water Jet",
+                    "name": "Strumień Wody",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Sinking Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +5 Ilości [Sinking]"
                                 }
                             ]
                         }
@@ -76,8 +76,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Mucous Skin",
-                    "desc": "If attacked while Shielded, inflict 1 Sinking on the attacker",
+                    "name": "Obślizgła Skóra",
+                    "desc": "Gdy ta jednostka zostanie zaatakowana gdy posiada Tarczę, nałóż na agresora 1 [Sinking]",
                     "coinlist": [
                         {}
                     ]
@@ -89,13 +89,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Slice",
+                    "name": "Cięcie Hakiem",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 3 [Laceration]"
                                 }
                             ]
                         }
@@ -108,20 +108,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Consecutive Hook Slice",
+                    "name": "Wiele Cięć Hakiem",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 5 [Laceration]"
                                 }
                             ]
                         }
@@ -134,8 +134,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Okrzyk Bojowy",
+                    "desc": "[WhenUse] Zyskaj 2 [Breath] na początku następnej tury.\nNa Koniec Tury, Ulecz PŻ równe pozostałej Tarczy",
                     "coinlist": [
                         {}
                     ]
@@ -147,20 +147,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Gap",
-                    "desc": "Coin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "Przedrzyj ",
+                    "desc": "Efekty Monet aktywują się tylko, gdy ta jednostka posiada <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienie</link></u></color>.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Zadaj +30% obrażeń"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Zadaj +30% obrażeń"
                                 }
                             ]
                         }
@@ -179,7 +179,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] Nałóż +2 Ilości [Laceration]"
                                 }
                             ]
                         }
@@ -198,14 +198,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Laceration]"
                                 }
                             ]
                         }
@@ -218,8 +218,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Okrzyk Bojowy",
+                    "desc": "[WhenUse] Zyskaj 2 [Breath] na początku następnej tury.\nNa Koniec Tury, Ulecz PŻ równe pozostałej Tarczy",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -237,20 +237,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Gap",
-                    "desc": "Coin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "Przedrzyj Dystans",
+                    "desc": "Efekty Monet aktywują się tylko, gdy ta jednostka posiada <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienie</link></u></color>.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Zadaj +30% obrażeń"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Zadaj +30% obrażeń"
                                 }
                             ]
                         }
@@ -263,16 +263,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Flesh",
+                    "name": "Rozerwij Skóre",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 3 [Laceration]"
                                 }
                             ]
                         }
@@ -285,14 +285,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Going In",
+                    "name": "No To Lece",
                     "desc": "",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 Bleed and +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż 4 [Laceration] oraz +3 Ilości [Laceration]"
                                 }
                             ]
                         }
@@ -305,20 +305,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Faster",
-                    "desc": "[EndSkill] Gain 1 Damage Up next turn",
+                    "name": "Szybciej",
+                    "desc": "[EndSkill] Zyskaj 1 [DamageUp] na początku następnej tury",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 4 Poise next turn"
+                                    "desc": "[OnSucceedAttack] Zyskaj 4 [Breath] na początku następnej tury"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [TakeDamageUp] na początku następnej tury"
                                 }
                             ]
                         }
@@ -331,8 +331,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Okrzyk Bojowy",
+                    "desc": "[WhenUse] Zyskaj 2 [Breath] na początku następnej tury.\nNa Koniec Tury, Ulecz PŻ równe pozostałej Tarczy",
                     "coinlist": [
                         {}
                     ]
@@ -344,8 +344,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Looting",
-                    "desc": "[WinDuel] Copies the target's 1~3 Skill Coin Power and Coin Count and uses them as its own",
+                    "name": "Rabowanie",
+                    "desc": "[WinDuel] Kopiuje Moc oraz Ilość Monet Bazowej Umiejętności celu i używa ich jako swoich",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -363,16 +363,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hit Me Harder",
-                    "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection",
+                    "name": "Wal Mocniej",
+                    "desc": "[WhenUse] Jeśli cel posiada <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</color></link></u>, Zyskaj 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
                                 }
                             ]
                         }
@@ -385,26 +385,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hit Me Right here",
-                    "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection",
+                    "name": "Wal o Tu",
+                    "desc": "[WhenUse] Jeśli cel posiada <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</color></link></u>, Zyskaj 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [AttackDmgDown] na początku następnej tury"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
                                 }
                             ]
                         }
@@ -417,23 +417,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Even Harder",
-                    "desc": "[EndSkill] Gain 1 Damage Up next turn",
+                    "name": "Mocniej!",
+                    "desc": "[EndSkill] Zyskaj 1 [DamageUp] na początku następnej tury",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection"
+                                    "desc": "[OnSucceedAttack] Zyskaj 2 [Protection]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection next turn"
+                                    "desc": "[OnSucceedAttack] Zyskaj 2 [Protection] na początku następnej tury"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 4 Poise next turn"
+                                    "desc": "[OnSucceedAttack] Zyskaj 4 [Breath] na początku następnej tury"
                                 }
                             ]
                         }
@@ -446,8 +446,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Defend",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Chroń",
+                    "desc": "[WhenUse] Zyskaj 2 [Breath] na początku następnej tury.\nNa Koniec Tury, Ulecz PŻ równe pozostałej Tarczy",
                     "coinlist": [
                         {}
                     ]
@@ -459,8 +459,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Looting",
-                    "desc": "[WinDuel] Copies the target's 1~3 Skill Coin Power and Coin Count and uses them as its own",
+                    "name": "Rabowanie",
+                    "desc": "[WinDuel] Kopiuje Moc oraz Ilość Monet Bazowej Umiejętności celu i używa ich jako swoich",
                     "coinlist": [
                         {}
                     ]
@@ -472,20 +472,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Water Jet",
+                    "name": "Strumień Wody",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] Nałóż 3 [Sinking]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] Nałóż 3 [Sinking]"
                                 }
                             ]
                         }
@@ -498,19 +498,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Damp Strike",
+                    "name": "Mokry Cios",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Sinking Fragility"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [SinkingVulnerable]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Ulecz PŻ równie 50% zadanych obrażeń"
                                 }
                             ]
                         }
@@ -523,26 +523,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Clutch of the Waves",
+                    "name": "W Uchwycie Fal",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]"
                                 }
                             ]
                         }
@@ -555,13 +555,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shrieking Waves",
-                    "desc": "Damage +20% per 5 Sinking Potency on target\nIf target's SP is below 0, deal +10% damage",
+                    "name": "Wrzeszczące Fale",
+                    "desc": "Zadaj +20% obrażeń za każde 5 nasilenia [Sinking] na celu\nJeśli PP celu jest poniżej 0, zadaj +10% obrażeń",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Sinking Deluge"
+                                    "desc": "[OnSucceedAttack] [SinkingSurge]"
                                 }
                             ]
                         }
@@ -574,8 +574,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Mucous Skin",
-                    "desc": "If attacked while Shielded, inflict 1 Sinking on the attacker",
+                    "name": "Obślizgła Skóra",
+                    "desc": "Gdy ta jednostka zostanie zaatakowana gdy posiada Tarczę, nałóż na agresora 1 [Sinking]",
                     "coinlist": [
                         {}
                     ]
@@ -587,13 +587,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "There, There They Are",
+                    "name": "O, Tu Są",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
                                 }
                             ]
                         }
@@ -606,26 +606,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "We've Got Company, Boys",
+                    "name": "Chłopcy, Mamy Towarzystwo",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 4 [Laceration]"
                                 }
                             ]
                         }
@@ -638,14 +638,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Command",
-                    "desc": "[WhenUse] Gain 5 Poise this turn",
+                    "name": "Rozkaz Bojowy",
+                    "desc": "[WhenUse] Zyskaj 5 [Breath]",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Apply 2 Protection, 1 Attack Power Up to all other allies next turn"
+                                    "desc": "[OnSucceedAttack] Nałóż 2 [Protection], 1 [Enhancement] na wszystkich Sojuszników na początku następnej tury"
                                 }
                             ]
                         }
@@ -658,26 +658,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Weakness Spotted! Fire!",
-                    "desc": "If target has 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Clash Power +2",
+                    "name": "Słaby Punkt Odkryty! Ognia!",
+                    "desc": "Jeśli cel posiada 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</color></link></u>, +2 Mocy Starcia",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Nałóż 4 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Bleed Count\nDeal bonus damage equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
+                                    "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Laceration]\nZadaj bonsowe obrażenia równe <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawieniu</color></link></u> na celu"
                                 },
                                 {
-                                    "desc": "Spend 1 Ammo"
+                                    "desc": "Wystrzel 1 [Bullet]"
                                 }
                             ]
                         }
@@ -690,8 +690,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
-                    "desc": "[OnSucceedEvade] Gain 5 Poise next turn.\n[OnSucceedEvade] Apply 2 Poise to all allies next turn.",
+                    "name": "Unik",
+                    "desc": "[OnSucceedEvade] Zyskaj 5 [Breath] na początku następnej tury.\n[OnSucceedEvade] Nałóż 2 [Breath] na wszystkich Sojuszników na początku następnej tury.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -709,8 +709,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Looting",
-                    "desc": "[WinDuel] Copies the target's Skill 3 Coin Power and Coin Count and uses them as its own",
+                    "name": "Rabowanie",
+                    "desc": "[WinDuel] Kopiuje Moc oraz Ilość Monet Trzeciej Umiejętności celu i używa ich jako swoich",
                     "coinlist": [
                         {
                             "coindescs": [
