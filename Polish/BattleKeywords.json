@@ -2642,7 +2642,7 @@
       "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
-      "id": "IndexPrescriptDon_1",
+      "id": "IndexPrescriptYi_1",
       "name": "Nakaz: [Urządzenie] II",
       "desc": "Traf cel Zdolnością oznaczoną Znakiem Nakazu.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - I\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 6",
       "summary": "",
@@ -2650,7 +2650,7 @@
       "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
-      "id": "IndexPrescriptDon_2",
+      "id": "IndexPrescriptYi_2",
       "name": "Nakaz: [Urządzenie] III",
       "desc": "Zdobądź Prokuraturę [Hermes]. Powtażaj ten Nakaz, aż Prokuratura [Hermes] osiągnie 9 Wartości\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - II\n- Maksymalna wartość Łaski Nakazu dozwolona na tym poziomie Nakazu: 9",
       "summary": "",
@@ -2658,7 +2658,7 @@
       "flavor": "Nakazy są dostarczane na wiele sposobów, ich medium określane z ostatecznością podobną do świętej przepowiedni. Otrzymujący je nie mają władzy nad tym, jak do nich dotrą."
     },
     {
-      "id": "IndexPrescriptDon_3",
+      "id": "IndexPrescriptYi_3",
       "name": "Nakaz: [Urządzenie] IV",
       "desc": "Wyeliminuj wszystkie cele zanim przyjdzie następny Nakaz.\n\n- Początek Tury: Przyznaje ten efekt, jeśli ta jednostka ma Odblokowanie - III",
       "summary": "",
@@ -2925,6 +2925,308 @@
       "desc": "- Maks Siła: 3\n- Maks Ilość: 6\n- Jeśli ta jednostka ma Podpalenie, traci 1 Ilość Żaru kiedy zostanie trafiona Zdolnością, która nakłada Siłę Podpalenia, Ilość Podpalenia, lub 'Specjalne Podpalenie' (licząc Zdolności E.G.O)\n\n- Jeśli ta jednostka nie ma Podpalenia, zresetuj Ilość Żaru do 6 kiedy zostanie trafiona (Niezależnie czy dana Zdolność nakłada Podpalenie)\n\n- Kiedy Ilość Żaru wynosi 0, aktywuj dane efekty:\n· ASktywuj Podpalenie na sobie i strać 1 Ilość Podpalenia\n· Strać 1 Siłę Żaru\n· Jeśli tej jednostce zostało 1+ Siły Żaru, zresetuj Ilość Żaru do 6",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "ChargeBodyArt",
+      "name": "Składnik Cielesny",
+      "desc": "- Maks Ilość: 20\n- Specjalne Naładowanie\n- Efekty zmniejszające i zwiększające Naładowanie działają tak samo na ten efekt\n- Koniec Tury: Strać 1 Ilości\n\n<color=#1aece7>Łączna zużyta Ilość: {2}</color>",
+      "summary": "Zużywany i zyskiwany przez Zdolności",
+      "undefined": "-"
+    },
+    {
+      "id": "TibiaPersonality",
+      "name": "Dzieło Sztuki: Tibia",
+      "desc": "Nałóż na Bazowe Zdolności Ofensywne i na Ścierającą się Kontrę dane efekty, zależnie od Siły Składnika Cielesnego:\n- 1+ : +1 Bazowej Mocy\n- 2+ : Jeśli przeciwnik ma na sobie Krwawienie lub 'Specjalne Krwawienie', zadaj +10% obrażeń\n- 3+ : Nakładaj +1 dodatkowej Siły i Ilości Krwawienia\n- 4+ : +1 Bazowej Mocy\n- 5+ : +1 Bazowej Mocy",
+      "summary": "Daje różne efekty zależnie od Siły Składnika Cielesnego",
+      "undefined": "-"
+    },
+    {
+      "id": "MelodyBodyArt",
+      "name": "Dreszcze Somatyczne-Inspirująca Melodia",
+      "desc": "- +1 Min & Maks Prędkości\n- Bazowe Zdolności Ofensywne zyskują +1 Mocy Starcia i zadają +10% obrażeń",
+      "summary": "- Zyskaj Min & Maks Prędkość\n- Bazowe Zdolności Ofensywne zyskują Moc Starcia i zadają więcej obrażeń",
+      "undefined": "-"
+    },
+    {
+      "id": "MelodyBodyArtChebello",
+      "name": "Dreszcze Somatyczne-Inspirująca Melodia [Wzmocniona]",
+      "desc": "- +2 Min & Maks Prędkości\n- Bazowe Zdolności Ofensywne zyskują +2 Mocy Starcia i zadają +20% obrażeń",
+      "summary": "- Zyskaj Min & Maks Prędkość\n- Bazowe Zdolności Ofensywne zyskują Moc Starcia i zadają więcej obrażeń",
+      "undefined": "-"
+    },
+    {
+      "id": "LivingSpecimenPersonality",
+      "name": "Teatr Anatomiczny",
+      "desc": "- Bazowa Wartość: 3\n- Kiedy ta jednostka zyska Krwawrienie przez Zdolności Ofensywne przeciwnika, losowo zyskaj 1 z danych efektów na początku następnej tury i strać 1 Wartość tego efektu (raz na Zdolność)\n  · 3 Siły Krwawienia\n  · 1 Spętanie\n  · 1 Mniejsza Moc Obrony",
+      "summary": "Losowo zyskaj Siłę Krwawienia, Spętanie, lub Mniejszą Moc Obrony",
+      "undefined": "-"
+    },
+    {
+      "id": "GoldenOpportunity",
+      "name": "Spojrzenie Na Obraz",
+      "desc": "- Jeśli jednotka Dom Pająków: Pupil Pierścienia Faust jest na polu walki, zyskaj 2 Ochrony na Początku Tury\n- Koniec Tury: Strać 2 Wartości",
+      "summary": "Zyskaj Ochronę przy spełnieniu warunków",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaidenPersonality",
+      "name": "Żelazna Dziewica",
+      "desc": "- Żeton zdolności po lewej zyskuje +4 Aggro\n- Początek Tury: Zyskaj 1 Ochrony, 5 Wyższego Poziomu Obrony, i PŻ Tarczy równe 5% obecnego PŻ tej jednostki\n- Kiedy ta jednostka zostanie uderzona ostatnią Monetę agresora, zadaj mu obrażenia od Dźgania równe 20% obrażeń tej Monety i nałóż +2 Ilości Krwawienia (maks raz na Zdolność, 3 razy na turę. Maks obrażenia na turę: 60)",
+      "summary": "- Żeton zdolności po lewej zyskuje Aggro\n- Zyskaj Ochronę, Wyższy Poziom Obrony, i Tarczę\n- Przy spełnieniu warunków, zadaj obrażenia od Dżgania i nałóż Krwawienie",
+      "undefined": "-"
+    },
+    {
+      "id": "SilverOpportunity",
+      "name": "Wyzwolenie - Stan Skupienia",
+      "desc": "- +2 Min & Maks Prędkości\n- Zyskaj nowy zestaw Zdolności Bazowych\n- +20% obrażeń zadawanych Bazowymi Zdolnościami wymierzonymi w pzeciwników, którzy są wolniejsi od tej jednostki",
+      "summary": "Zyskaj Min & Maks Prędkość\nZyskaj nowy zestaw Zdolności Bazowych\nPrzy spełnieniu warunków, zadaj więcej obrażeń",
+      "undefined": "-"
+    },
+    {
+      "id": "FasciaPersonality",
+      "name": "Dzieło Sztuki: Fascia",
+      "desc": "Nałóż na Bazowe Zdolności Ofensywne i na Ścierającą się Kontrę dane efekty, zależnie od Siły Składnika Cielesnego:\n- 1+ : +1 Bazowej Mocy\n- 2+ : Jeśli przeciwnik ma na sobie Krwawienie lub 'Specjalne Krwawienie', zadaj +10% obrażeń\n- 3+ : Nakładaj +1 dodatkowej Siły i Ilości Krwawienia\n- 4+ : +1 Bazowej Mocy",
+      "summary": "Zyskaj różne efekty zależnie od Siły Składnika Cielesnego",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismMaskMeursault",
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "- +5% zadawanych obrażeń za każde 3 Poszarpanych Kolorów na celu (maks 15%)\n- Bazowe Zdolności nakładają +1 dodatkowej Siły Krwawienia i Zrozpaczenia\n- Przed trafieniem Bazową Zdolnością, jeśli cel nie ma Krwawienia, nałóż na niego +2 Ilości Krwawienia (raz na turę)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitingMeursault",
+      "name": "Poprawa Błędów",
+      "desc": "- +10% zadawanych obrażeń\n- Przy ponownym użyciu Monety w Zdolności \"Critique\" Wykładowczyni Fowizmu Pierścienia Rodion, ulecz 3 SP (raz na turę)\n- Początek Tury: Jeśli Wykładowczyni Fowizmu Pierścienia Rodion nie posiada Réflexion, ten efekt wygasa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismWolfMaskRodion",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- +1 Min & Maks Prędkości\n- Bazowe Zdolności nakładają +1 dodatkowej Siły Krwawienia i Zrozpaczenia\n- Przy Trafieniu, jeśli cel ma 3+ Poszarpanego Koloru [Bleu], nałóż +1 Ilości Zrozpaczenia (raz na turę)\n- Przy Trafieniu, jeśli cel ma 3+ Poszarpanego Koloru [Rouge], nałóż +1 Ilości Krwawienia (raz na turę)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BoldBrushstrokesRodion",
+      "name": "Touche Hardie",
+      "desc": "- Maks Wartość: 2\n- +10% obrażeń PŻ i SP otrzymywanych przez efekty Krwawienia i Zropaczenia za każdą Wartość (maks 20%, zaokrąglone w dół)\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IntenseColorsRodion",
+      "name": "Palette Vibrante",
+      "desc": "- Maks Wartość: 4\n- +(Wartość x 2.5)% obrażeń otrzymywanych od ataków Tożsamości z Pierścienia\n· Jeśli atakujący należy zarówno do Pierścienia, jak i do Nurtu Fowizmu, zamiast tego ta jednostka otrzymuje +(Wartość x 5)% obrażeń\n- Początek Walki: Losowo zyskaj 1 Krwawienie, 1 Zrozpaczenie, 1 Ilość Krwawienialub 1 Ilość Zrozpaczenia (Wartość) razy\n- Koniec Walki: Ten efekt wygasa. Zmniejsz Wartości Poszarpanego Koloru [Rouge] i Poszarpanego Koloru [Bleu] na tej jednostce o połowę (zaokrąglone w dół)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThankyouDocentRodion",
+      "name": "L'Hommage",
+      "desc": "- Maks Wartość: 3\n- Początek Tury: Losowo zyskaj 1 Większy Poziom Ataku lub 1 Większy Poziom Obrony za każdą Wartość (maks 3 razy)\n- Koniec Tury: Ten efekt wygasa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitDocentRodion",
+      "name": "Réflexion",
+      "desc": "- Maks Wartość: 2\n- Jeśli ta jednostka ma ten efekt, nie może użyć zdolności \"Critique\"\n- Początek Tury: Ulecz 5 SP\n- Koniec Tury: Wartość spada o 1\n- Gdy ten efekt wygaśnie, zyskaj na początku następnej tury L'Hommage równe liczbie Tożsamości Studentów Poerścienia na polu walki",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BearClawWoundAlly",
+      "name": "Poszarpany Kolor [Rouge]",
+      "desc": "- Maks Wartość: 9\n- Kiedy ta jednostka zostanie traiona, zyskaj 1 Siły Krwawienia za każde 3 Wartości (raz na turę)\n- Koniec Tury: Zyskaj na początku następnej tury 1 Niższy Poziom Obrony za każde 4 Wartości (maks 2)\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EagleClawWoundAlly",
+      "name": "Poszarpany Kolor [Bleu]",
+      "desc": "- Maks Wartość: 9\n- Kiedy ta jednostka zostanie traiona, zyskaj 1 Siły Zrozpaczenia za każde 3 Wartości (raz na turę)\n- Koniec Tury: Mając 5+ Wartości, strać 5 SP\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookHeathcliff",
+      "name": "Księga Zemsty [Heathcliff]",
+      "desc": "- Maks Wartość: 30\n- +1 Poziomu Ataku, +1 Poziomu Obrony za każde 5 Wartości",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFingerTattooID",
+      "name": "Tatuaże Zemsty",
+      "desc": "- Maks Wartość: 20\n- Bazowe Zdolności zadają +1% obrażeń za każdą Wartość",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ScarletMothRodion",
+      "name": "Szkarłatna Ćma",
+      "desc": "- Maks Wartość: 3\n- Koniec Tury: Ulecz (Wartość)% PŻ (minimalne leczenie PŻ: 1)\n- Koniec Tury: Ulecz SP equal to Wartość\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SojiRyoshuEchoPast",
+      "name": "Entanglement",
+      "desc": "- Maks Wartość: {0} ({1} gained)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The threads of fate are entwined by encounter, i by the length of time surrendered unto another.\nThe myriad moments wherein one's time i another's overlap, be they fair lub foul, will bind their strings in pitiless entanglement.\nThe time that has already been shared cannot be undone."
+    },
+    {
+      "id": "SojiRyoshuEchoFuture",
+      "name": "Phantom Trace",
+      "desc": "- Maks Wartość: 1\n- Take +5% damage from Blade of the House of Spiders Ryōshū's Base Attack Skills",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A phantom trace (殘影) is not simply a faint shade left in passing. It is the shadow of razy past, cruelly drawn across bygone days."
+    },
+    {
+      "id": "SojiRyoshuEntangle",
+      "name": "String Severance [絕緣]",
+      "desc": "- Maks Wartość: 4\n- Zyskaj 1 Wartość za każde defeated Dom Pająków Nursefather Identity\n- Zyskaj a different unique effect based on which of Dom Pająków ally was defeated\n- Take -7.5% obrażeń za każdą Wartość",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "And so, let it be cut i severed. Even if it strays from what must be."
+    },
+    {
+      "id": "SojiRyoshuShin",
+      "name": "Shin (心) - Dihui Star [地慧星]",
+      "desc": "- +2 Min & Maks Prędkości\n- Upon using a Base Attack Skill, zyskaj 2 Poise Potency i +1 Poise Count\n- This unit's Base Attack Skills zadaj +10% obrażeń on Critical Hit\n- Take -20% damage from Unopposed Attacks i Unbreakable Coins",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "PhantomIncisionID",
+      "name": "Bladetrail [Afterimage]",
+      "desc": "- Maks Wartość: 100\n- Take +1% damage from Slash Skills za każde 10 Stacks",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "PhantomIncisionTotalID",
+      "name": "Dihui Star's Blade",
+      "desc": "- Maks Wartość: 70\n- Total sum of Bladetrail Stacks inflicted by this unit\n- Can zyskaj up to 25 Stacks per turn",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Etch a mark into the earth. Such is the purpose this blade was made to serve.\nInto this sword was poured the light of a star, so that something may be left behind in this land."
+    },
+    {
+      "id": "RetaliationBookSpiderOutis",
+      "name": "Księga Zemsty [Dom Pająków]",
+      "desc": "- Atakując cel z tym efektem, Dom Pająków: Macocha Środka i Dom Pająków: Pupil Środka Ishmael leczą 5 SP Przy Trafieniu Zdolnością (raz na Zdolność, 2 razy na turę)\n- Przy Trafieniu Zdolnością wymierzoną w Dom Pająków: The Macocha Środka, zyskaj 1 dodatkową Wartość Urazy (raz na Zdolność, 2 razy na turę na każdą Tożsamość)\n- Przy Trafieniu using a Skill against Dom Pająków: Pupil Środka Ishmael, zyskaj 1 dodatkową Wartość Urazy (raz na Zdolność, 2 razy na turę na każdą Tożsamość)\n- Wygasa na Końcu Tury",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ResentmentSpiderOutis",
+      "name": "Środek - Uraza",
+      "desc": "- Maks Wartość: 15\n- Jeśli cel ma Znak Zemsty, +20% zadanych obrażeń",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ReinforcedTattooSpiderOutis",
+      "name": "Środek - Tatuaże Zemsty [<s>Wielka Siostra</s>]",
+      "desc": "- Maks Wartość: 10\n- +1 Ostatecznej Mocy Bazowych Zdolności za każde 5 Wartości (maks 2)\n- Zdolności Zazdrości i Zdolności Uderzenia zadają +5% obrażeń za każdą Wartość (maks 50%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "DaughterEducationSpiderOutis",
+      "name": "Pa Tera, Młoda!",
+      "desc": "- Maks Wartość: 10\n- Wartość spada o 1, kiedy ta jednostkazostanie trafiona dwoma Zdolnościami\n- Mając 5+ Wartości, Bazowe Zdolności zyskują +1 Ostatecznej Mocy\n- Zdolności Uderzenia zadają +1% obrażeń za każdą Wartość (maks 10%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "GotAComplimentIshmael",
+      "name": "Dostałam Pochwałę!",
+      "desc": "- Maks Wartość: 10\n- Wartość spada o 1, kiedy ta jednostkazostanie trafiona dwoma Zdolnościami\n- Mając 5+ Wartości, Bazowe Zdolności zyskują +1 Ostatecznej Mocy\n- Zdolności Uderzenia zadają +1% obrażeń za każdą Wartość (maks 10%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherGutsOutis",
+      "name": "Niesamowity Hart",
+      "desc": "- Maks Wartość: 3\n- Ustaw wszystkie Odporności na typy ataków, które są wyższe niż Normalne (1.0) na Normalne (chyba, że jednostka jest Zachwiana)\n- -(30 + (Wartość Tatuaży Zemsty [<s>Wielka Siostra</s>] x 4))% otrzymywanych obrażeń od Zdolności (maks 50%; zaokrąglone w dół)\n- Wygrywając Starcie, ulecz dodatkowe (liczba Starć x 5) SP (maks 15)\n- Koniec Tury: Jeśli ta jednostka straciła w tej turze SP przez efekty swoich Zdolności, na początku następnej tury zadaje +10% obrażeń Bazowymi Zdolnościami (raz na turę)\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordOneOutis",
+      "name": "Zapieczętowany Miecz",
+      "desc": "- Koniec Tury: Zyskaj 2 Pośpiechu na początku następnej tury\n- Bazowe Zdolności Uderzenia zadają +2% obrażeń za każde 4 Krwawienia na celu (maks 10%)\n- Trafiając ostatnią Monetą Bazowych Zdolności, jeśli cel ma 20+ Krwawienia, zadaj (10% ostatecznych obrażeń tej Monety) obrażeń od Uderzenia (zaokrąglone w dół)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordTwoOutis",
+      "name": "Pierwsza Pieczęć Zdjęta",
+      "desc": "- Koniec Tury: Zyskaj 1 Pośpiechu na początku następnej tury\n- Bazowe Zdolności Uderzenia zadają +2% obrażeń za każde 4 (Podpalenie + Krwawienie) na celu (maks 10%)\n- Trafiając ostatnią Monetą Bazowych Zdolności, jeśli cel ma 20+ (Podpalenie + Krwawienie), zadaj (10% ostatecznych obrażeń tej Monety) obrażeń od Uderzenia (zaokrąglone w dół)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordThreeOutis",
+      "name": "Druga Pieczęć Zdjęta",
+      "desc": "- Koniec Tury: Zyskaj 1 Pośpiechu na początku następnej tury\n- Bazowe Zdolności Uderzenia zadają +2% obrażeń za każde 4 (Podpalenie + Krwawienie) na celu (maks 10%)\n- Trafiając ostatnią Monetą Bazowych Zdolności, jeśli cel ma 20+ (Podpalenie + Krwawienie), zadaj (10% ostatecznych obrażeń tej Monety) obrażeń od Cięcia (zaokrąglone w dół)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordFourOutis",
+      "name": "Lævateinn",
+      "desc": "- Początek Tury: Nałóż 3 Podpalenia na wszystkie jednostki na polu walki\n- Zamień Bazowe Zdolności tej jednostki na Zdolności ekskluzywne dla Lævateinna\n- Bazowe Zdolności Uderzenia zadają +2% obrażeń za każde 4 (Podpalenie + Krwawienie) na celu (maks 10%)\n- Trafiając ostatnią Monetą Bazowych Zdolności, jeśli cel ma 20+ (Podpalenie + Krwawienie), zadaj (10% ostatecznych obrażeń tej Monety) obrażeń od Dźgania (zaokrąglone w dół)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MidFamilyOutis",
+      "name": "Zemsta Za Moją Rodzinę",
+      "desc": "- Bazowe Zdolnośc Zazdrości zadają +20% obrażeń\n- Bazowe Zdolności zyskują +1 Ostatecznej Mocy",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "CountSkillMidOutis",
+      "name": "Rosnące Emocje",
+      "desc": "Wartość spada o 1 po spełnieniu jednego z danych warunków (raz na turę):\n- Użycie Zdolności \"Stempel Zemsty\" (licząc aktywację jako kontrę)\n- Na końcu tury po aktywowaniu 6+ A-Rezonansu Zazdrości.\n\nGdy Wartość spadnie do 0, użyj Zdolności \"Pora Rozpakować To Cudeńko!\"",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MatchesPersonality",
+      "name": "Blazing",
+      "desc": "- Min & Max Speed +1\n- This turn's first-used Base Attack Skill gains Final Power +2\n- Take 2% HP damage On Hit with the affected Skill (max 10%; this damage does not Stagger or reduce this unit's HP below 1)\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
     }
   ]
 }

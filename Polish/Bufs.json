@@ -3484,6 +3484,308 @@
       "desc": "- Maks Siła: 3\n- Maks Ilość: 6\n- Jeśli ta jednostka ma Podpalenie, traci 1 Ilość Żaru kiedy zostanie trafiona Zdolnością, która nakłada Siłę Podpalenia, Ilość Podpalenia, lub 'Specjalne Podpalenie' (licząc Zdolności E.G.O)\n\n- Jeśli ta jednostka nie ma Podpalenia, zresetuj Ilość Żaru do 6 kiedy zostanie trafiona (Niezależnie czy dana Zdolność nakłada Podpalenie)\n\n- Kiedy Ilość Żaru wynosi 0, aktywuj dane efekty:\n· ASktywuj Podpalenie na sobie i strać 1 Ilość Podpalenia\n· Strać 1 Siłę Żaru\n· Jeśli tej jednostce zostało 1+ Siły Żaru, zresetuj Ilość Żaru do 6",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "ChargeBodyArt",
+      "name": "Corpus Ingredient",
+      "desc": "- Max Count: 20\n- Unique Charge\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count\n\n<color=#1aece7>Cumulative Count consumed: {2}</color>",
+      "summary": "Consumed or gained when using certain Skills",
+      "undefined": "-"
+    },
+    {
+      "id": "TibiaPersonality",
+      "name": "Artwork: Tibia",
+      "desc": "Apply the following effects to this unit's Base Attack Skills and Clashable Counter Skill based on Corpus Ingredient Potency:\n- 1+ : Base Power +1\n- 2+ : If the enemy has Bleed or 'Unique Bleed', deal +10% damage\n- 3+ : Inflict +1 more Bleed Potency and Count\n- 4+ : Base Power +1\n- 5+ : Base Power +1",
+      "summary": "Gain various effects based on Corpus Ingredient Potency",
+      "undefined": "-"
+    },
+    {
+      "id": "MelodyBodyArt",
+      "name": "Somatic Frisson-inspiring Melody",
+      "desc": "- Min & Max Speed +1\n- Base Attack Skills gain Clash Power +1 and deal +10% damage",
+      "summary": "- Gain Min & Max Speed\n- Base Attack Skills gain Clash Power and deal more damage",
+      "undefined": "-"
+    },
+    {
+      "id": "MelodyBodyArtChebello",
+      "name": "Somatic Frisson-inspiring Melody [Empowered]",
+      "desc": "- Min & Max Speed +2\n- Base Attack Skills gain Clash Power +2 and deal +20% damage",
+      "summary": "- Gain Min & Max Speed\n- Base Attack Skills gain Clash Power and deal more damage",
+      "undefined": "-"
+    },
+    {
+      "id": "LivingSpecimenPersonality",
+      "name": "Corpus Theater",
+      "desc": "- Base Stack: 3\n- When this unit gains Bleed from enemy Attack Skills, randomly gain 1 of the following effects next turn and lose 1 Stack of this effect (once per Skill)\n  · 3 Bleed Potency\n  · 1 Bind\n  · 1 Defense Power Down",
+      "summary": "Randomly gain 1 of the following: Bleed Potency, Bind, or Defense Power Down",
+      "undefined": "-"
+    },
+    {
+      "id": "GoldenOpportunity",
+      "name": "Viewing the Tableau",
+      "desc": "- If The House of Spiders: The Ring Apprentice Faust is on the field, gain 2 Protection at Turn Start\n- Turn End: Lose 2 Stack",
+      "summary": "Gain Protection when conditions are met",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaidenPersonality",
+      "name": "Iron Maiden",
+      "desc": "- Gain +4 Aggro to the leftmost Slot\n- Turn Start: Gain 1 Protection, 5 Defense Level Up, and Shield HP equal to 5% of this unit's current HP\n- When hit by the last Coin of an attacker, deal Pierce damage equal to 20% of the said Coin's damage and inflict +2 Bleed Count (max once per Skill, 3 times per turn. Max damage per turn: 60)",
+      "summary": "- Gain Aggro to the leftmost Slot\n- Gain Protection, Defense Level Up, and Shield\n- When conditions are met, deal Pierce damage and inflict Bleed count on the attacker",
+      "undefined": "-"
+    },
+    {
+      "id": "SilverOpportunity",
+      "name": "The Self Unbound - Flow State",
+      "desc": "- Min & Max Speed +2\n- Gain a new set of Base Skills\n- Deal +20% damage with Base Attack Skills to enemies whose Speed is slower than this unit",
+      "summary": "Gain Min & Max Speed\nGain a new set of Base Skills\nWhen conditions are met, deal more damage",
+      "undefined": "-"
+    },
+    {
+      "id": "FasciaPersonality",
+      "name": "Artwork: Fascia",
+      "desc": "Apply the following effects to this unit's Base Attack Skills and Clashable Counter Skill based on Corpus Ingredient Potency:\n- 1+ : Base Power +1\n- 2+ : If the enemy has Bleed or 'Unique Bleed', deal +10% damage\n- 3+ : Inflict +1 more Bleed Potency and Count\n- 4+ : Base Power +1",
+      "summary": "Gain various effects based on Corpus Ingredient Potency",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismMaskMeursault",
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "- Deal +5% damage for every 3 Mauled Color on target (max 15%)\n- Inflict +1 more Bleed and Sinking Potency with Base Skills\n- Before hitting with a Base Skill, if target does not have Bleed, inflict +2 Bleed Count on target (once per turn)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitingMeursault",
+      "name": "Imperfections Addressed",
+      "desc": "- Deal +10% damage\n- On Reuse of a Coin in The Ring Fauvist Docent Rodion's \"Critique\" Skill, heal 3 SP (once per turn)\n- Turn Start: If The Ring Fauvist Docent Rodion does not have Réflexion, this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismWolfMaskRodion",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- Min & Max Speed +1\n- Inflict +1 more Bleed and Sinking Potency with Base Skills\n- On Hit, if target has 3+ Mauled Color [Bleu], inflict +1 Sinking Count (once per turn)\n- On Hit, if target has 3+ Mauled Color [Rouge], inflict +1 Bleed Count (once per turn)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BoldBrushstrokesRodion",
+      "name": "Touche Hardie",
+      "desc": "- Max Stack: 2\n- Take +10% HP and SP damage from Bleed and Sinking effects for every Stack (max 20%, rounded down)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IntenseColorsRodion",
+      "name": "Palette Vibrante",
+      "desc": "- Max Stack: 4\n- Take +(Stack x 2.5)% damage from The Ring-faction Identities\n· If the attacker is in both The Ring faction and School of Fauvism faction, take +(Stack x 5)% damage instead\n- Combat Start: Randomly gain 1 Bleed, 1 Sinking, 1 Bleed Count, or 1 Sinking Count (Stack) times\n- Combat End: This effect expires. Halve Mauled Color [Rouge] and Mauled Color [Bleu] Stacks on this unit (rounded down)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThankyouDocentRodion",
+      "name": "L'Hommage",
+      "desc": "- Max Stack: 3\n- Turn Start: Randomly gain 1 Offense Level Up or 1 Defense Level Up for every Stack (max 3 times)\n- Turn End: This effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitDocentRodion",
+      "name": "Réflexion",
+      "desc": "- Max Stack: 2\n- Cannot use \"Critique\" during the turn this unit has this effect\n- Turn Start: Heal 5 SP\n- Turn End: Lose 1 Stack\n- When this effect expires, gain L'Hommage next turn equal to the number of The Ring Student Identities on the field",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BearClawWoundAlly",
+      "name": "Mauled Color [Rouge]",
+      "desc": "- Max Stack: 9\n- When hit, gain 1 Bleed Potency for every 3 Stack (once per turn)\n- Turn End: Gain 1 Defense Level Down next turn for every 4 Stack (max 2)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EagleClawWoundAlly",
+      "name": "Mauled Color [Bleu]",
+      "desc": "- Max Stack: 9\n- When hit, gain 1 Sinking Potency for every 3 Stack (once per turn)\n- Turn End: At 5+ Stack, lose 5 SP\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookHeathcliff",
+      "name": "Book of Vengeance [Heathcliff]",
+      "desc": "- Max Stack: 30\n- Offense Level +1, Defense Level +1 for every 5 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFingerTattooID",
+      "name": "Vengeance Tattoo",
+      "desc": "- Max Stack: 20\n- Base Skills deal +1% damage for every Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ScarletMothRodion",
+      "name": "Scarlet Moth",
+      "desc": "- Max Stack: 3\n- Turn End: Heal (Stack)% HP (minimum HP healed: 1)\n- Turn End: Heal SP equal to Stack\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SojiRyoshuEchoPast",
+      "name": "Entanglement",
+      "desc": "- Max Stack: {0} ({1} gained)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The threads of fate are entwined by encounter, and by the length of time surrendered unto another.\nThe myriad moments wherein one's time and another's overlap, be they fair or foul, will bind their strings in pitiless entanglement.\nThe time that has already been shared cannot be undone."
+    },
+    {
+      "id": "SojiRyoshuEchoFuture",
+      "name": "Phantom Trace",
+      "desc": "- Max Stack: 1\n- Take +5% damage from Blade of the House of Spiders Ryōshū's Base Attack Skills",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A phantom trace (殘影) is not simply a faint shade left in passing. It is the shadow of times past, cruelly drawn across bygone days."
+    },
+    {
+      "id": "SojiRyoshuEntangle",
+      "name": "String Severance [絕緣]",
+      "desc": "- Max Stack: 4\n- Gain 1 Stack for every defeated The House of Spiders Nursefather Identity\n- Gain a different unique effect based on which of The House of Spiders ally was defeated\n- Take -7.5% damage for every Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "And so, let it be cut and severed. Even if it strays from what must be."
+    },
+    {
+      "id": "SojiRyoshuShin",
+      "name": "Shin (心) - Dihui Star [地慧星]",
+      "desc": "- Min & Max Speed +2\n- Upon using a Base Attack Skill, gain 2 Poise Potency and +1 Poise Count\n- This unit's Base Attack Skills deal +10% damage on Critical Hit\n- Take -20% damage from Unopposed Attacks and Unbreakable Coins",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "PhantomIncisionID",
+      "name": "Bladetrail [Afterimage]",
+      "desc": "- Max Stack: 100\n- Take +1% damage from Slash Skills for every 10 Stacks",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "PhantomIncisionTotalID",
+      "name": "Dihui Star's Blade",
+      "desc": "- Max Stack: 70\n- Total sum of Bladetrail Stacks inflicted by this unit\n- Can gain up to 25 Stacks per turn",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Etch a mark into the earth. Such is the purpose this blade was made to serve.\nInto this sword was poured the light of a star, so that something may be left behind in this land."
+    },
+    {
+      "id": "RetaliationBookSpiderOutis",
+      "name": "Book of Vengeance [The House of Spiders]",
+      "desc": "- Against units that have this effect, The House of Spiders: The Middle Nursefather Outis and The House of Spiders: The Middle Apprentice Ishmael heal 5 SP On Hit using a Skill (once per Skill, 2 times per turn)\n- On Hit using a Skill against The House of Spiders: The Middle Nursefather Outis, gain 1 additional Stack of The Middle - Grudge (once per Skill, 2 times per turn for each Identity)\n- On Hit using a Skill against The House of Spiders: The Middle Apprentice Ishmael, gain 1 additional Stack of The Middle - Grudge (once per Skill, 2 times per turn for each Identity)\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ResentmentSpiderOutis",
+      "name": "The Middle - Grudge",
+      "desc": "- Max Stack: 15\n- If target has Vengeance Mark, deal +20% damage",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ReinforcedTattooSpiderOutis",
+      "name": "The Middle - Vengeance Tattoo [<s>Great Sister</s>]",
+      "desc": "- Max Stack: 10\n- Final Power +1 for Base Skills for every 5 Stack (max 2)\n- Envy Skills and Blunt Skills deal +5% damage for every Stack (max 50%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "DaughterEducationSpiderOutis",
+      "name": "Check This Out, Kiddo!",
+      "desc": "- Max Stack: 10\n- Reduced by 1 when this unit is hit by 2 Skills\n- At 5+ Stack, Base Skills gain Final Power +1\n- Blunt Skills deal +1% damage for every Stack (max 10%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "GotAComplimentIshmael",
+      "name": "I Got Praised!",
+      "desc": "- Max Stack: 10\n- Reduced by 1 when this unit is hit by 2 Skills\n- At 5+ Stack, Base Skills gain Final Power +1\n- Blunt Skills deal +1% damage for every Stack (max 10%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherGutsOutis",
+      "name": "Ridiculous Grit",
+      "desc": "- Max Stack: 3\n- Fix any Attack Type Resistances that exceed Normal (1.0) to Normal (unless Staggered)\n- Take -(30 + (The Middle - Vengeance Tattoo [<s>Great Sister</s>] Stack x 4))% damage from Skills (max 50%; rounded down)\n- On Clash Win, heal an additional (Clash count x 5) SP (max 15)\n- Turn End: If this unit lost SP this turn due to its Skill effects, deal +10% damage next turn using Base Skills (once per turn)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordOneOutis",
+      "name": "Sealed Sword",
+      "desc": "- Turn End: Gain 2 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 Bleed on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ Bleed, deal (10% of the Coin's final damage) Blunt damage (rounded down)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordTwoOutis",
+      "name": "First Seal Removed",
+      "desc": "- Turn End: Gain 1 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Blunt damage (rounded down)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordThreeOutis",
+      "name": "Second Seal Removed",
+      "desc": "- Turn End: Gain 1 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Slash damage (rounded down)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MiddleFatherSwordFourOutis",
+      "name": "Lævateinn",
+      "desc": "- Turn Start: Inflict 3 Burn on all units on the field\n- Replace this unit's Base Skills with Lævateinn-exclusive Skills corresponding to each Skill's rank\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Pierce damage (rounded down)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MidFamilyOutis",
+      "name": "Avenging My Family",
+      "desc": "- Envy Base Skills deal +20% damage\n- Base Skills gain Final Power +1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "CountSkillMidOutis",
+      "name": "Rising Fever",
+      "desc": "Lose 1 Stack when meeting one of the following conditions (once per turn):\n- Using the \"Stamp of Vengeance\" Skill (including activation via Counter)\n- At Turn End after activating 6+ Envy A-Reson.\n\nAt 0 Stack, use the \"Time to Unpack!\" Skill",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "MatchesPersonality",
+      "name": "Blazing",
+      "desc": "- Min & Max Speed +1\n- This turn's first-used Base Attack Skill gains Final Power +2\n- Take 2% HP damage On Hit with the affected Skill (max 10%; this damage does not Stagger or reduce this unit's HP below 1)\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
     }
   ]
 }
