@@ -677,7 +677,7 @@
     {
       "id": "7SV-031",
       "desc": "",
-      "dlg": "Huhu~ I tak to jest zrobione!"
+      "dlg": "Huhu~ I tak to jest zrobiRaz."
     },
     {
       "id": "7SV-032",
@@ -1245,7 +1245,7 @@
     {
       "id": "battle_kill_10301_1",
       "desc": "",
-      "dlg": "Zwycięstwo!"
+      "dlg": "ZwycięsDwa."
     },
     {
       "id": "battle_break_10301_1",
@@ -4950,7 +4950,7 @@
     {
       "id": "battle_s3_10511_1_1",
       "desc": "",
-      "dlg": "Nadszedł oto decyzyjny moment."
+      "dlg": "Oto gwóźdź programu."
     },
     {
       "id": "battle_select_11010_1",
@@ -5260,12 +5260,12 @@
     {
       "id": "battle_react_10310_1-1",
       "desc": "",
-      "dlg": "Płynąca krew..."
+      "dlg": "Pełna emocji krew..."
     },
     {
       "id": "battle_react_10310_1-2",
       "desc": "",
-      "dlg": "Gorąca krew..."
+      "dlg": "Gorąca... krew..."
     },
     {
       "id": "battle_react_10310_1-3",
@@ -5400,7 +5400,7 @@
     {
       "id": "battle_special_10611_2_2",
       "desc": "",
-      "dlg": "Zajmij się nimi.\n<i>Dobra, mam ich na celowniku</i> ///\n<i>Okej, cel namierzony.</i>"
+      "dlg": "Są twoi.\n<i>Dobra, mam ich na celowniku</i> ///\n<i>Okej, cel namierzony.</i>"
     },
     {
       "id": "battle_special_10611_2_1-01",
@@ -5735,7 +5735,7 @@
     {
       "id": "battle_select_10311_1",
       "desc": "############ Cinq East DonQ ############",
-      "dlg": "A więc to bardzo ważne, hm? Wiedz w takim razie, że będzie cię to trochę więcej kosztować!"
+      "dlg": "A więc to bardzo ważne, hm? Wiedz w takim razie, że będzie cię to słono kosztować!"
     },
     {
       "id": "battle_endcommand_10311_1",
@@ -5763,7 +5763,27 @@
       "dlg": "Ahaaa… naprawdę się… dużo od ciebie nauczy…łam…"
     },
     {
+      "id": "battle_s3_10311_1_3-04",
+      "desc": "",
+      "dlg": "A to na podwieczorek!"
+    },
+    {
       "id": "battle_s3_10311_1_3",
+      "desc": "",
+      "dlg": "A to na podwieczorek!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-03",
+      "desc": "",
+      "dlg": "A to na podwieczorek!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-02",
+      "desc": "",
+      "dlg": "A to na podwieczorek!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-01",
       "desc": "",
       "dlg": "A to na podwieczorek!"
     },
@@ -6000,7 +6020,7 @@
     {
       "id": "battle_s3_10912_1_3",
       "desc": "",
-      "dlg": "Taki dystans jest dla mnie w zam raz…\nAle dla ciebie to już raczej za daleko!"
+      "dlg": "Co ty, za daleko dla ciebie?\n Zabawne, bo dla mnie... w sam raz!"
     },
     {
       "id": "battle_select_11212_1",
@@ -6246,7 +6266,7 @@
     {
       "id": "battle_s3_10113_1_3",
       "desc": "",
-      "dlg": "Niech pocisk który wystrzele przebiję cię tam, gdzie stoisz."
+      "dlg": "Stój-to ciebię przestrzelę i wroga zastrzelę."
     },
     {
       "id": "battle_select_10312_1",
@@ -6266,7 +6286,7 @@
     {
       "id": "battle_kill_10312_1",
       "desc": "",
-      "dlg": "Behold, for evil hath been cleansed thus!"
+      "dlg": "Podziwiaj, bowiem zło zostało oczyszczone!"
     },
     {
       "id": "battle_break_10312_1",
@@ -6391,12 +6411,12 @@
     {
       "id": "battle_s3_10913_1_1",
       "desc": "",
-      "dlg": "A na końcu..."
+      "dlg": "Pozwólmy..."
     },
     {
       "id": "battle_s3_10913_1_3",
       "desc": "",
-      "dlg": "Niech nic z nich nie pozostanie."
+      "dlg": "... Aby wszystko wygasło."
     },
     {
       "id": "battle_select_11113_1",
@@ -6491,27 +6511,27 @@
     {
       "id": "battle_s3-2_10613_1_6-01",
       "desc": "battle_s3-2_10613_1_6-01",
-      "dlg": "Zagryź ich, Zajęcu."
+      "dlg": "Zające was zagryzą."
     },
     {
       "id": "battle_s3-2_10613_1_8-01",
       "desc": "battle_s3-2_10613_1_8-01",
-      "dlg": "Przebij ich, Wężu."
+      "dlg": "Węże was przebiją."
     },
     {
       "id": "battle_s3-2_10613_1_9-01",
       "desc": "battle_s3-2_10613_1_9-01",
-      "dlg": "Zatrzymaj ich, Koniu."
+      "dlg": "Konie was stratują."
     },
     {
       "id": "battle_s3-2_10613_1_12-01",
       "desc": "battle_s3-2_10613_1_12-01",
-      "dlg": "Przedrzyj się przez nich, Kogucie."
+      "dlg": "Koguty was zadziobią."
     },
     {
       "id": "battle_s3-2_10613_1_10-01",
       "desc": "battle_s3-2_10613_1_10-01",
-      "dlg": "Zagonić Owce na dziedzine."
+      "dlg": "Owce was ztaranują."
     },
     {
       "id": "battle_s3-2_10613_1_6-02",
@@ -6551,12 +6571,12 @@
     {
       "id": "battle_turn_end_10613_1",
       "desc": "battle_turn_end_10613_1",
-      "dlg": "Wycofaj się. Twoje życie jest jeszcze coś warte."
+      "dlg": "Wycofaj się. Twoje życie jest warte więcej gdzieś indziej."
     },
     {
       "id": "battle_return_10613_1",
       "desc": "battle_return_10613_1",
-      "dlg": "Szarp i rwij moich wrogów, pokaż mi swą użyteczność."
+      "dlg": "Szarp i rwij moich wrogów, udowodnij mi swą wartość."
     },
     {
       "id": "battle_noneready_10613_1",
@@ -6631,12 +6651,12 @@
     {
       "id": "battle_undead_10613_1",
       "desc": "battle_undead_10613_1",
-      "dlg": "Władca... nie umrze."
+      "dlg": "Śmierć omija szlachetnego (君子不死)!"
     },
     {
       "id": "battle_undead_10613_1-01",
       "desc": "battle_undead_10613_1-01",
-      "dlg": "Do czasu kiedy mój cel zostanie osiągnięty... Zgubo... Omiń mnie raz jeszcze!"
+      "dlg": "Do czasu, gdy świat ugnie się pod moją wolą... Zgubo... Omiń mnie raz jeszcze!"
     },
     {
       "id": "battle_select_10114_1",
@@ -6756,7 +6776,7 @@
     {
       "id": "battle_s3_11014_1_6-02",
       "desc": "",
-      "dlg": "Rozpalam Krwawe Ostrze!"
+      "dlg": "Zabłyśnij, moje Krwawe Ostrze!"
     },
     {
       "id": "battle_s3_11014_1_5",
@@ -6811,12 +6831,12 @@
     {
       "id": "battle_special_10412_4_A",
       "desc": "",
-      "dlg": "Krew popłynie strumieniem."
+      "dlg": "Nadchodzi krwawa nawałnica."
     },
     {
       "id": "battle_s3_10412_1_1",
       "desc": "",
-      "dlg": "Schowana głęboko pod trwogą..."
+      "dlg": "Schowana głęboko pod Trwogą..."
     },
     {
       "id": "battle_s3_10412_1_4",
@@ -6826,17 +6846,17 @@
     {
       "id": "battle_special_10412_1",
       "desc": "",
-      "dlg": "A więc to ich masz na celowniku?\nHa. Dobra, zmiękcze ich troche dla ciebie."
+      "dlg": "A więc to ich masz na celowniku?\nHa. Dobra, użyczę ci pomocnej dłoni."
     },
     {
       "id": "battle_special_10412_2",
-      "desc": "Yeah this line doesn't work at all and the 2nd one too",
-      "dlg": "Getting hit by your bullet like this might be its own kind of art…"
+      "desc": "Yeah this line doesn't work at all and the 2nd one too. Woohoo, teraz działą(hopefully).",
+      "dlg": "Zostanie przebitym przez ten pocisk było by ciekawe…"
     },
     {
       "id": "battle_special_10412_2-01",
       "desc": "Same as above",
-      "dlg": "But now's not the time to leave our masterpiece unfinished."
+      "dlg": "Ale nie gdy nasze Magnum Opus ciągle pozostaje nieukończone."
     },
     {
       "id": "battle_special_10412_3",
@@ -6886,7 +6906,17 @@
     {
       "id": "battle_s3_10213_1_4",
       "desc": "",
-      "dlg": "Tym razem... muszę cię zciąć."
+      "dlg": "Tym razem... na pewno cię zdejmę."
+    },
+    {
+      "id": "battle_s3_10213_1_4-01",
+      "desc": "",
+      "dlg": "Tym razem... na pewno cię zdejmę."
+    },
+    {
+      "id": "battle_s3_10213_1_4-02",
+      "desc": "",
+      "dlg": "Tym razem... na pewno cię zdejmę."
     },
     {
       "id": "battle_take_aim_10213_1",
@@ -7026,7 +7056,7 @@
     {
       "id": "battle_special_10713_1",
       "desc": "",
-      "dlg": "Dalej, atakujcie! Chyba że się mnie boicie."
+      "dlg": "Dalej, atakujcie! No chyba, że się mnie boicie."
     },
     {
       "id": "battle_s3_10713_1_1",
@@ -7196,47 +7226,47 @@
     {
         "id": "battle_s3_10813_1_1",
         "desc": "",
-        "dlg": "Marcowa..."
+        "dlg": "Trzeci księżyc..."
     },
     {
         "id": "battle_s3_10813_1_4",
         "desc": "",
-        "dlg": "Sakura!"
+        "dlg": "Sakura (櫻花)!"
     },
     {
         "id": "battle_special_10813_1",
         "desc": "",
-        "dlg": "Hah... Wypstrykałam się. Dawać następny."
+        "dlg": "Hah... Wypstrykałam się. Dawaj następną."
     },
     {
         "id": "battle_special_10813_2",
         "desc": "",
-        "dlg": "Sankō!"
+        "dlg": "Sankō (三光)!"
     },
     {
         "id": "battle_special_10813_3",
         "desc": "",
-        "dlg": "Tsk. Ta z deszczem."
+        "dlg": "Tsk. Z \"Deszczu\" pod rynnę."
     },
     {
         "id": "battle_special_10813_3-01",
         "desc": "",
-        "dlg": "Ameshikō!"
+        "dlg": "Ameshikō (雨四光)!"
     },
     {
         "id": "battle_special_10813_4",
         "desc": "",
-        "dlg": "Żuraw, Kwiat."
+        "dlg": "Żuraw, Kwiat Wiśni."
     },
     {
         "id": "battle_special_10813_6",
         "desc": "",
-        "dlg": "Księżyc i Deszcz..."
+        "dlg": "Wierzba i Deszcz..."
     },
     {
         "id": "battle_special_10813_7",
         "desc": "",
-        "dlg": "Gōkō!"
+        "dlg": "Gōkō (五光)!"
     },
     {
         "id": "battle_select_11213_1",
@@ -7391,7 +7421,7 @@
    {
 		"id": "battle_s3_10714_1_1",
 		"desc": "",
-		"dlg": "Krwawe szpony... Rozpalone!"
+		"dlg": "Krwawe szpony... RozpalRaz."
    },
    {
 		"id": "battle_special_10714_1",
@@ -7444,24 +7474,50 @@
         "dlg": "Żałuje tylko... że umieram bez pomszczenia... mojego głupiego lordziny."
     },
     {
-        "id": "battle_s3_10413_1_3-02",
-        "desc": "",
-        "dlg": "Podniebna Włócznia\n(踏空槍零)."
-	},
-  {
-        "id": "battle_special_10413_1",
-        "desc": "",
-        "dlg": "Wracaj na tyły."
-	},     
+      "id": "battle_s3_10413_1_3",
+      "desc": "",
+      "dlg": "Przetnij przez Niebo, Przebij ich Włócznią (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-01",
+      "desc": "",
+      "dlg": "Przetnij przez Niebo, Przebij ich Włócznią (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-02",
+      "desc": "",
+      "dlg": "Przetnij przez Niebo, Przebij ich Włócznią (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-03",
+      "desc": "",
+      "dlg": "Przetnij przez Niebo, Przebij ich Włócznią (踏空槍揮)."
+    },
+    {
+      "id": "battle_special_10413_1",
+      "desc": "",
+      "dlg": "Trzymaj się tyłów."
+    },
+    {
+      "id": "battle_special_10413_1-01",
+      "desc": "",
+      "dlg": "Trzymaj się tyłów."
+    },  
 	{
         "id": "battle_special_10413_1-02",
         "desc": "",
-        "dlg": "Powietrzny Wir(廻風)!"
+        "dlg": "Powietrzny Wir(回風)!"
 	},      
+	  
+    {
+      "id": "battle_special_10413_1-03",
+      "desc": "",
+      "dlg": "Powietrzny Wir (回風)!"
+    },
 	{
         "id": "battle_special_10413_2",
         "desc": "",
-        "dlg": "Włądca Hongyuan?\nHa, ty tak na serio?\nJeśli tak to… tym razem…\nNa pewno..."
+        "dlg": "Włądca Hongyuan?\nHa, ty tak na serio?\nJeśli tak, to… tym razem…\nNa pewno..."
 	},
     {
         "id": "battle_special_10413_3",
@@ -7533,7 +7589,7 @@
   {
         "id": "battle_special_11114_1",
         "desc": "",
-        "dlg": "Wzmacnianie słabych punktów w formacji zakończone!"
+        "dlg": "Wzmacnianie słabych punktów w formacji zakończRaz."
   },
   {
         "id": "battle_special_11114_2",
@@ -7665,7 +7721,7 @@
 	{
       "id": "battle_s3_10314_1_4",
       "desc": "",
-      "dlg": "Nie byłeś miły."
+      "dlg": "<i><color=#50acff>*biip*</color></i>* Nigdy nie byłeś miły."
     },
 	{
       "id": "battle_special_10314_1",
@@ -7674,6 +7730,11 @@
     },
 	{
       "id": "battle_special_10314_2",
+      "desc": "",
+      "dlg": "Przesądzony!"
+    },
+    {
+      "id": "battle_special_10314_2-01",
       "desc": "",
       "dlg": "Przesądzony! Absolutny."
     },
@@ -7706,7 +7767,7 @@
 	{
 		"id": "battle_select_10814_1",
 		"desc": "Viewed in Battle ####### House of Spiders Middle Apperentice Ishmael #######",
-		"dlg": "Ty, widziałoś ten ruch? Ten jeden ruch, no naprawde, jak oni to...\nChyba że tak? Albo— a, wiem! O tak!"
+		"dlg": "Ty, widziałoś ten ruch? Ten jeden atak, no naprawde, jak oni to...\nChyba że tak? Albo— a, wiem! O tak!"
 	},
 	{
 		"id": "battle_endcommand_10814_1",
@@ -7733,26 +7794,96 @@
 		"desc": "Death",
 		"dlg": "Ma... musiu..."
 	},
-  {
+    {
       "id": "battle_s2_10814_1_1-02",
       "desc": "",
       "dlg": "Raz."
-  },
-  {
+    },
+    {
+      "id": "battle_s2_10814_1_1-03",
+      "desc": "",
+      "dlg": "Raz."
+    },
+    {
+      "id": "battle_s2_10814_1_1-04",
+      "desc": "",
+      "dlg": "Raz."
+    },
+    {
+      "id": "battle_s2_10814_1_1-05",
+      "desc": "",
+      "dlg": "Raz."
+    },
+    {
+      "id": "battle_s2_10814_1_1-06",
+      "desc": "",
+      "dlg": "Raz."
+    },
+    {
+      "id": "battle_s2_10814_1_1-07",
+      "desc": "",
+      "dlg": "Raz."
+    },
+    {
       "id": "battle_s2_10814_1_2-02",
       "desc": "",
       "dlg": "Dwa."
-  },
-  {
+    },
+    {
+      "id": "battle_s2_10814_1_2-03",
+      "desc": "",
+      "dlg": "Dwa."
+    },
+    {
+      "id": "battle_s2_10814_1_2-04",
+      "desc": "",
+      "dlg": "Dwa."
+    },
+    {
+      "id": "battle_s2_10814_1_2-05",
+      "desc": "",
+      "dlg": "Dwa."
+    },
+    {
+      "id": "battle_s2_10814_1_2-06",
+      "desc": "",
+      "dlg": "Dwa."
+    },
+    {
+      "id": "battle_s2_10814_1_2-07",
+      "desc": "",
+      "dlg": "Dwa."
+    },
+    {
       "id": "battle_s2_10814_1_3",
       "desc": "",
       "dlg": "Trzy!"
-  },
-	{
-        "id": "battle_s3_10814_1_1",
-        "desc": "",
-        "dlg": "Dobra, jak mam ultować to chyba najlepiej teraz, nie?"
-  },
+    },
+    {
+      "id": "battle_s2_10814_1_3-01",
+      "desc": "",
+      "dlg": "Trzy!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-02",
+      "desc": "",
+      "dlg": "Trzy!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-03",
+      "desc": "",
+      "dlg": "Trzy!"
+    }
+    {
+      "id": "battle_s3_10814_1_1",
+      "desc": "",
+      "dlg": "Dobra, czas na ulta."
+    },
+    {
+      "id": "battle_s3_10814_1_1-01",
+      "desc": "",
+      "dlg": "Dobra, czas na ulta."
+    },
 	{
 		"id": "battle_s3_10814_1_2",
 		"desc": "",
@@ -7781,12 +7912,12 @@
 	{
 		"id": "battle_special_10814_4",
 		"desc": "",
-		"dlg": "O? Ty też zostajesz dziś w Domu Pająków? To... czytałeś tą serię 'Tnące Chmury Ostrze'. Wiesz, tą o której ci mówiłam? Hej, c-czekaj chwile! Nie odchodź jak coś mówie!"
+		"dlg": "O? Zostałeś cały dzień w Domu Pająków? To ten... obczaiłeś tą mange 'Tnące Chmury Ostrze'. Wiesz, tą o której ci mówiłam? Hej, c-czekaj chwile! Nie odchodź jak coś mówie!"
 	},
 	{
 		"id": "battle_special_10814_5",
 		"desc": "",
-		"dlg": "Wiedziałam, Mamusia jest najlepsza~!"
+		"dlg": "Mamusia jest totalnym hardkorem!"
 	},
 	{
 		"id": "battle_select_11214_1",
@@ -7821,12 +7952,12 @@
 	{
 		"id": "battle_s3_11214_1_5",
 		"desc": "",
-		"dlg": "Oświetlmy drogę, która swoi przed nami, abym mógł dobrze przyjżeć się życiom, które muszę ocalić."
+		"dlg": "Oświetle drogę, która swoi przed nami, abym mógł dobrze przyjżeć się życiom, które muszę ocalić."
 	},
 	{
 		"id": "battle_s3_11214_1_6",
 		"desc": "",
-		"dlg": "Widze teraz bardzo wyraźnie… życia, które muszę ocalić!"
+		"dlg": "Ngh… Widze teraz bardzo wyraźnie… to życie, które muszę ocalić!"
 	},
 	{
 		"id": "battle_special_11214_1",
@@ -7911,22 +8042,22 @@
     {
       "id": "battle_s3_11015_1_5",
       "desc": "",
-      "dlg": "Aby uciszyć wszystkie dźwięki, włącznie z moim oddechem…"
+      "dlg": "Ucisz wszystkie dźwięki, wstrzymaj każdy oddech…"
     },
     {
       "id": "battle_s3_11015_1_6",
       "desc": "",	
-      "dlg": "Przetne się natychmiast przez zanikające otwarcie w ich gardzie…"
+      "dlg": "Przetnij przez nieuchwytne otwarcie…"
     },
     {
       "id": "battle_s3_11015_1_7",
       "desc": "",
-      "dlg": "i zobaczę, jak bezzwłocznie ostrze to rozpłata i przetnie."
+      "dlg": "Oto ostrze które odcina głowy w mgnieniu oka. Doświadcz go."
     },
     {
       "id": "battle_s3_11015_1_8",
       "desc": "",
-      "dlg": "Po czym, gdy opadnie już pył i jucha, doświadczę księżyca w jego pełni."
+      "dlg": "... A razem z nim zawsze kroczy Pełnia."
     },
 	
 	{
@@ -8047,7 +8178,7 @@
     {
         "id": "battle_special_10115_15-2",
         "desc": "",
-        "dlg": "Odtwarzanie zakończone."
+        "dlg": "Odtworzone oraz wykonane."
     },
     {
         "id": "battle_special_10115_16-1",
@@ -8062,7 +8193,7 @@
     {
         "id": "battle_special_10115_17",
         "desc": "",
-        "dlg": "Ah… Don Quixote. Doprawdy, jeśli spiszesz się dobrze podczas tej bitwy… Bez wątpienia zasłużysz ode mnię na pochwałę."
+        "dlg": "Ah… Don Quixote. <i><color=#50acff>*biip*</color></i> Tak, jeśli spiszesz się dobrze podczas tej bitwy… Bez wątpienia zasłużysz na moją pochwałę."
     },
   {
     "id": "battle_select_10514_1",
@@ -8178,7 +8309,7 @@
   {
     "id": "battle_kill_10414_1",
     "desc": "",
-    "dlg": "... Zostań pogrzebany w pyle."
+    "dlg": "... Zostań pogrzebany w piachu."
   },
   {
     "id": "battle_dead_10414_1",
@@ -8223,7 +8354,7 @@
   {
     "id": "battle_special_10414_2",
     "desc": "",
-    "dlg": "Wszystko co powstaje musi kiedyś upaść (是生滅法). A im dłużej wytrwa, tym mniej jest warte."
+    "dlg": "Wszystko co powstaje musi kiedyś upaść (是生滅法). Przekwitły kwiat traci jedynie swą wartość."
   },
   {
     "id": "battle_special_10414_3",
@@ -8233,7 +8364,7 @@
   {
     "id": "battle_special_10414_4",
     "desc": "",
-    "dlg": "Wracaj do grobu... razem ze wszystkim, co chce żyć."
+    "dlg": "Wracaj do swojego grobu... razem ze wszystkim, co chce żyć."
   },
   {
     "id": "battle_select_11215_1",
@@ -8278,7 +8409,7 @@
   {
     "id": "battle_special_11215_1-01",
     "desc": "",
-    "dlg": "Fiu… ładnie się usmażyło."
+    "dlg": "Fiu… ładnie się podsmażyło."
   },
   {
     "id": "battle_special_11215_2",
@@ -8339,7 +8470,7 @@
     {
       "id": "battle_special_10215_1",
       "desc": "",
-      "dlg": "Wygląda na to że muszę ci pokazać, czym jest sztuka zewnętrza."
+      "dlg": "Ewidentnie muszę zademostrować, czym jest sztuka zewnętrza."
     },
     {
       "id": "battle_special_10215_2",
@@ -8349,7 +8480,7 @@
     {
       "id": "battle_special_10215_3",
       "desc": "",
-      "dlg": "Zawsze udaje ci się obudzić we mnie inspiracje."
+      "dlg": "Zawsze udaje ci się obudzić we mnie inspiracje, Maestro."
     },
 
 
@@ -8517,7 +8648,7 @@
     {
       "id": "battle_special_10515_4",
       "desc": "",
-      "dlg": "Dziękuje ci za inspirację."
+      "dlg": "Inspirujące. Dziękuje."
     },
     
     
@@ -8564,7 +8695,7 @@
     {
       "id": "battle_special_10915_1_1",
       "desc": "",
-      "dlg": "Ułożenie. Nerwów!"
+      "dlg": "Fils. Nerveux!"
     },
     {
       "id": "battle_special_10915_1_2",
@@ -8579,7 +8710,7 @@
     {
       "id": "battle_special_10915_2_1",
       "desc": "",
-      "dlg": "Czy powinnam rzucić okiem?"
+      "dlg": "Rzućmy okiem!"
     },
     {
       "id": "battle_special_10915_2_2",
@@ -8599,7 +8730,7 @@
     {
       "id": "battle_special_10915_4",
       "desc": "",
-      "dlg": "Impasto."
+      "dlg": "Impasto!"
     },
     {
       "id": "battle_special_10915_5",
@@ -8660,7 +8791,7 @@
     {
       "id": "battle_special_10715_1_2",
       "desc": "",
-      "dlg": "Dalej, podkręćcie muzę na maksa!"
+      "dlg": "Czas podkręcić muze!"
     },
     {
       "id": "battle_special_10715_2_1",
@@ -8775,7 +8906,7 @@
     {
       "id": "battle_eE_10415_17",
       "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
-      "dlg": "Nie zasługujesz na wytłumaczenia. Potne cię, ponieważ moge oraz chce, dokładnie tak jak ty tłukłaś mnię za każdym razem, kiedy chciałaś wyładować swoje emocje."
+      "dlg": "Nie zasługujesz na wytłumaczenia. Potne cię, ponieważ mogę oraz chce, dokładnie tak jak ty tłukłaś mnię za każdym razem, kiedy chciałaś wyładować swoje emocje."
     },
     {
       "id": "battle_eE_10415_18",
@@ -8837,27 +8968,27 @@
     {
       "id": "battle_s3_10415_1",
       "desc": "",
-      "dlg": "Zatrę wszystko... tnąc bez końca aż nawet mój oddech wypali się do cna."
+      "dlg": "Połódnie i zachód zostały już zatarte, a ja pozostałam aby ciąć aż nawet mój oddech wypali się do cna."
     },
     {
       "id": "battle_special_10415_1",
       "desc": "",
-      "dlg": "Czy w końcu udało mi się ją odciąć...?"
+      "dlg": "W końcu została odcięta."
     },
     {
       "id": "battle_special_10415_1_2",
       "desc": "",
-      "dlg": "Przecięcie."
+      "dlg": "Przecięcie Nici."
     },
     {
       "id": "battle_special_10415_2",
       "desc": "",
-      "dlg": "... Wytrwały jesteś."
+      "dlg": "... Wyjątkowo uparta ta nić."
     },
     {
       "id": "battle_special_10415_4",
       "desc": "",
-      "dlg": "Przecież wiesz, że próby przewidzenia moich ruchów nic nie dadzą."
+      "dlg": "Przecież wiesz, że próby przewidzenia tych ruchów nic nie dadzą."
     },
     {
       "id": "battle_special_10415_5",
@@ -8877,12 +9008,12 @@
     {
       "id": "battle_special_10415_8",
       "desc": "",
-      "dlg": "I właśnie tak, aż płomienie dotrą i do tej chwili... pozostanie ona odcięta."
+      "dlg": "Odetnę aż do końca tej chwili."
     },
     {
       "id": "battle_special_10415_9",
       "desc": "",
-      "dlg": "I oto łowy dobiegają końca!"
+      "dlg": "I tak łowy dobiegają końca!"
     },
     {
       "id": "battle_special_10415_9_1",
@@ -8907,7 +9038,82 @@
     {
       "id": "battle_special_10415_11",
       "desc": "",
-      "dlg": "To, co zostanie aby trzymać w sobie tą wściekłość... będzie wyłącznie cierpiącym supłem nienawiści."
-    }  
+      "dlg": "To zostało aby trzymać w sobie tą wściekłość... jest wyłącznie cierpiącym supłem nienawiści."
+    }  ,
+    {
+      "id": "battle_s3_11115_1_1",
+      "desc": "",
+      "dlg": "Te zabawki..."
+    },
+    {
+      "id": "battle_s3_11115_1_2",
+      "desc": "",
+      "dlg": "... już mi się..."
+    },
+    {
+      "id": "battle_s3_11115_1_3",
+      "desc": "",
+      "dlg": "... znudziły!"
+    },
+    {
+      "id": "battle_special_11115_1",
+      "desc": "",
+      "dlg": "Choć no tu!"
+    },
+    {
+      "id": "battle_special_11115_2_2",
+      "desc": "",
+      "dlg": "Ostrzegam, będzie gorące!"
+    },
+    {
+      "id": "battle_special_11115_2_3",
+      "desc": "",
+      "dlg": "Piekielnie gorące!"
+    },
+    {
+      "id": "battle_special_11115_3",
+      "desc": "",
+      "dlg": "Prosto w cel!"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "",
+      "dlg": "Doceniam wasze próby—Tak bardzo że pokaże wam nawet kolejną warstwe!"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "",
+      "dlg": "Hahaha! Ta' jest!"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "",
+      "dlg": "Patrzcie i podziwiajcie!"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "",
+      "dlg": "*wzdech* Nie ma co tego nawet zapisywać. Za to jest natychmiastowa egzekucja!"
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "",
+      "dlg": "Ta' jest! Świetna robota, młoda!"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "",
+      "dlg": "Pamiętasz, młoda?"
+    },
+    {
+      "id": "battle_special_11115_9_01",
+      "desc": "",
+      "dlg": "Jesteśmy <i>rodziną</i>. Poświęcenie to dla nas nic!"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "",
+      "dlg": "Wszystko dla rodziny!"
+    }
   ]
 }
