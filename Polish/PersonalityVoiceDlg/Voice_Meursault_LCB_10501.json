@@ -3,67 +3,67 @@
     {
       "id": "get_10501_1",
       "desc": "Identity Acquisition",
-      "dlg": "Meursault. Please refer to me as such, Manager."
+      "dlg": "Meursault. Proszę się do mnie tak zwarcać, Kierowniku."
     },
     {
       "id": "lobby_morning_10501_1",
       "desc": "Morning Greeting",
-      "dlg": "The company rules say that its employees are to get up at designated hours. It appears most Sinners are unaware of this fact, and so are you."
+      "dlg": "Zasady firmy wyraźnie mówią, że pracownicy mają wstawać o określonej godzinie. Wygląda na to, że większość Grzeszników jest nieświadoma tego faktu, wraz z tobą."
     },
     {
       "id": "lobby_noon_10501_1",
       "desc": "Afternoon Greeting",
-      "dlg": "If you ask me how I intend to spend my afternoon… No rules state what to do."
+      "dlg": "Jeśli chcesz się mnie spytać jak mam zamiar spędzić popołudnie… Żadne zasady nie wskazują na to co robić."
     },
     {
       "id": "lobby_night_10501_1",
       "desc": "Evening Greeting",
-      "dlg": "If I had to compare the times of day against each other, I prefer day to night. Darkness obscures vision, and what is hard to see is hard to understand."
+      "dlg": "Jeśli miałbym porównać pory dnia ze sobą, to wolę dzień od nocy. Ciemność utrudnia widoczność, a to co ciężko zobaczyć jest ciężko zrozumieć."
     },
     {
       "id": "smalltalk_10501_1",
       "desc": "Chatter #1",
-      "dlg": "Do you have any business with me, Manager? If there is a particular reason, do make it clear."
+      "dlg": "Czy masz do mnie jakąś sprawę, Kierowniku? Jeśli jest jakiś konkretny powód, to go wyjaw."
     },
     {
       "id": "smalltalk_10501_2",
       "desc": "Chatter #2",
-      "dlg": "People suggest that I smile more often. Do you want that as well, Manager?"
+      "dlg": "Ludzie sugerują żebym się częściej uśmiechał. Czy ty też tego chcesz, Kierowniku?"
     },
     {
       "id": "smalltalk_10501_3",
       "desc": "Chatter #3",
-      "dlg": "…You continue to speak with me. Are you encouraged by the rules to do so?"
+      "dlg": "…Ciągle ze mną rozmawiasz. Czy są jakieś zasady które Cię do tego skłaniają?"
     },
     {
       "id": "neglect_10501_1",
       "desc": "Idle",
-      "dlg": "I shall wait here until you return."
+      "dlg": "Będę tu czekał, aż wrócisz."
     },
     {
       "id": "formation_10501_1",
       "desc": "Deployment",
-      "dlg": "Yes, if that is what you want."
+      "dlg": "Tak, jeśli to tego chcesz."
     },
     {
       "id": "battleentry_10501_1",
       "desc": "Stage Entry",
-      "dlg": "If the rules say so."
+      "dlg": "Jeśli tak jest napisane w zasadach."
     },
     {
       "id": "battle_select_10501_1",
       "desc": "Viewed in Battle",
-      "dlg": "Is there a problem, Manager?"
+      "dlg": "Czy jest jakiś problem, Kierowniku?"
     },
     {
       "id": "battle_endcommand_10501_1",
       "desc": "Commencing Attack",
-      "dlg": "I shall execute the order according to the rules."
+      "dlg": "Przeprowadzę rozkaz zgodnie z zasadami."
     },
     {
       "id": "battle_enemy_break_10501_1",
       "desc": "Enemy Stagger",
-      "dlg": "I am awaiting your next order."
+      "dlg": "Czekam na kolejny rozkaz."
     },
     {
       "id": "battle_break_10501_1",
@@ -73,37 +73,37 @@
     {
       "id": "battle_kill_10501_1",
       "desc": "Enemy Killed",
-      "dlg": "Done accordingly."
+      "dlg": "Odpowiednio zakończone"
     },
     {
       "id": "battle_allydead_10501_1",
       "desc": "Ally Death",
-      "dlg": "Please take care of this by the rules."
+      "dlg": "Proszę zajmij się tym zgodnie z zasadami."
     },
     {
       "id": "choice_success_p_10501_2",
       "desc": "Check Passed",
-      "dlg": "I made it."
+      "dlg": "Udało się."
     },
     {
       "id": "choice_fail_n_10501_1",
       "desc": "Check Failed",
-      "dlg": "I failed."
+      "dlg": "Nie udało się."
     },
     {
       "id": "battle_clear_10501_1",
       "desc": "Victory Cry",
-      "dlg": "I simply followed orders."
+      "dlg": "Po prostu wykonywałem rozkazy."
     },
     {
       "id": "battle_clear_ex_10501_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "It’s what should have been done; compliments are redundant."
+      "dlg": "Zrobiłem to co należało zrobić; pochwała jest zbędna."
     },
     {
       "id": "battle_defeat_10501_1",
       "desc": "Defeat Wail",
-      "dlg": "I implore you to revise the strategy."
+      "dlg": "Nakłaniam, do przemyślenia strategii."
     }
   ]
 }
