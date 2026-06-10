@@ -2,264 +2,264 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Some Backstreets of District 4",
+      "place": "Tylne Uliczki 4 Dystryktu",
       "model": "베르길리우스",
-      "content": "Hey! That’s enough of that. We’re expecting a guest any time now."
+      "content": "Hej! Powinno już wystarczyć. Nasz gość powinien przybyć już niedługo."
     },
     {
       "id": 1,
-      "content": "Vergilius said, poking his head out the window."
+      "content": "Powiesział Wergiliusz, wychylając głowę przez okno."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<A guest? Who?>"
+      "content": "<Gość? Ktoś ma nas odwiedzić?>"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "content": "I’ve determined that we’ll need a guide as this is our first trip to a dungeon."
+      "content": "Uznałam, że na naszą pierwszą wyprawę do lochu będziemy potrzebować przewodnika."
     },
     {
       "id": 4,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Excuse me… Are you the people from Limbus Company?"
+      "title": "Fixer Klasy 8",
+      "content": "Przepraszam… To wy jesteście z Limbus Company?"
     },
     {
       "id": 5,
-      "content": "Someone approaches us slowly."
+      "content": "Ktoś zmierzał w naszą stronę niepewnymi krokami."
     },
     {
       "id": 6,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Looks like it…"
+      "title": "Fixer Klasy 8",
+      "content": "To chyba wy, prawda? "
     },
     {
       "id": 7,
-      "content": "The bus had just about finished its meal, crunching on the last remaining bone chips."
+      "content": "Bus kończył właśnie swój posiłek, chrupiąc powoli ostatnie kawałki kości."
     },
     {
       "id": 8,
-      "place": "Aboard Mephistopheles",
-      "content": "Yuri watched it indifferently before introducing herself."
+      "place": "Na Pokładzie Mefistofelesa",
+      "content": "Yuri spojrzała na to obojętnie, po czym przedstawiła się."
     },
     {
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "I’m Yuri, a former employee of the previous L Corp. I look forward to working with you."
+      "title": "Fixer Klasy 8",
+      "content": "Nazywam się Yuri, pracowałam w poprzednim L Corpie, kiedy ten jeszcze funkcjonował. Liczę na owocną współpracę."
     },
     {
       "id": 10,
       "model": "단테",
-      "content": "<By L Corp, do you mean…>"
+      "content": "<'Poprzedni' L Corp, czyli…>"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Has to be Lobotomy Corporation."
+      "content": "Na pewno chodzi o Lobotomy Corporation."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "That’s right, we will explore the former branch facilities of Lobotomy Corporation—also called the old L Corp."
+      "content": "Zgadza się, będziemy eksplorować byłe filie Lobotomy Corporation — to jest upadłego L Corpu"
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "If I were you, I wouldn’t have taken part in this."
+      "content": "Na twoim miejscu nie brałabym tej roboty, nawet jeśli chcieliby do tego konkretnie mnie."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "Being a fallen Wing and everything, I doubt your employment ended on pleasant terms."
+      "content": "Skoro mówimy o upadłym Skrzydle, wątię, żeby twoje zatrudnienie zakończyło się pozytywnie."
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "What’re you on about? Any point in your life can be pleasant as long as you’ve money to spend."
+      "content": "O czym ty gadasz? Upadłe Skrzydło czy nie, jeśli kasa gra, z każda roboty będą same przyjemne wspomnienia."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "Hrm, I heard those places are still teeming with monsters to this day…"
+      "content": "Hrm, Słyszałem, że te miejscówki dalej są pełne potworów…"
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Not “monsters”, Abnormalities. The rumors are true, either way. But there are more important matters."
+      "content": "Nie “potworów”,- Anomalii. W każdym razie masz rację. Jednak znajdziemy tam też ważniejsze rzeczy."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "In the deepest reaches of these branches are neoplastic plantlike growths holding the essence of L Corp’s technology."
+      "content": "W najgłębszych zakątkach tych placówek kryją się niedawno powstałe, podobne do roślin obiekty: szczyt technologii L Corpu."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Dante, if you remember, I believe I offered to let you finish engraving your Aspect a few days ago."
+      "content": "Dante, jeśli pamiętasz, kilka dni temu zaproponowałem, że będziesz mogło dokończyć wyrycie Aspektu."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "With the essence… those Golden Boughs in our hands, it’ll be as easy as pie."
+      "content": "Z tą technologią… tymi Złotymi Gałązkami, to będzie proste jak bułka z masłem."
     },
     {
       "id": 21,
-      "content": "The word ‘Aspect’ still makes my head ache."
+      "content": "Wciąż dostaje bólu głowy na samo słowo ‘Aspekt’."
     },
     {
       "id": 22,
-      "content": "What was ‘I’ trying to do?"
+      "content": "Co ja próbowałom zrobić?"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "content": "There’s no need to rouse your brain trying to remember what you can’t. It’ll all come back in due time."
+      "content": "Nie ma potrzeby próbować sobie przypomnieć czegoś, czego nie możesz pamiętać. Wszystko wróci w swoim czasie."
     },
     {
       "id": 24,
-      "content": "I returned a slow nod to Faust’s placid advice."
+      "content": "Kiwnęłom głową w odpowiedzi na spokojną poradę Faust."
     },
     {
       "id": 25,
-      "content": "Alright, for now, I should focus on what I currently know and see."
+      "content": "Rzeczywiście, na razie powinnom skupić się na tym, co zniesie moje obecne ja."
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "<And if it’s Lobotomy Corp we’re scouring… we might find some Enkephalin, too.>"
+      "content": "<I jeśli będziemy chodzić po tym Lobotomy Corpie… może znajdziemy tam też trochę Enkefaliny.>"
     },
     {
       "id": 27,
       "model": "싱클레어",
-      "content": "Oh, does that mean we won’t have to… feed people into our vehicle?"
+      "content": "Oh, to znaczy, że nie będziemy musieli… karmić naszego pojazdu?"
     },
     {
       "id": 28,
       "model": "이스마엘",
-      "content": "We could also grab some E.G.O if we’re lucky, so that’s three rats with one stone."
+      "content": "Przy odrobinie szczęścia, może zgarniemy też trochę E.G.O, to będą trzy pieczenie na jednym ogniu."
     },
     {
       "id": 29,
-      "content": "E.G.O? That’s another unknown term that makes my head tilt…"
+      "content": "E.G.O? Kolejne nieznane mi słowo, o które będę musiało kogoś spytać…"
     },
     {
       "id": 30,
-      "content": "But in any case, it seemed rather rude to keep talking to each other when we had a guest on board."
+      "content": "Ale to raczej później, niemiło byłoby rozmawiać między sobą, kiedy mamy na pokładzie gościa."
     },
     {
       "id": 31,
-      "content": "…And someone else seemed to agree."
+      "content": "…Zdaje się, że nie tylko ja tak pomyślałom."
     },
     {
       "id": 32,
       "model": "그레고르",
-      "content": "So, Miss Yuri, what’ve you been up to since the layoff?"
+      "content": "No więc, Panno Yuri, czym zajmowałaś się po L Corpie?"
     },
     {
       "id": 33,
-      "content": "Gregor gave his best shot at making some conversation with a well-meaning smile to put the newest passenger at ease."
+      "content": "Gregor spróbował się uśmiechnąć do nowej pasażerki i nawiązać jakąś rozmowę."
     },
     {
       "id": 34,
-      "content": "His brows seemed to twitch due to a lack of practice, but it’s no big deal."
+      "content": "Kąciki jego oczu drgały od wymuszania wyrazu twarzy, do którego zdecydowanie nie był przyzwyczajony, ale udałom, że tego nie widzę."
     },
     {
       "id": 35,
       "model": "돈키호테",
-      "content": "It appears to me that thou art an honorable Fixer! It is said that all Fixers exude the noble scent of heroes!"
+      "content": "Wyglądaż to mi na szlachetną Fachowczynię! Mawia się, że od każdego Fachowca dochodzi pełny honoru zapach bohatera!"
     },
     {
       "id": 36,
-      "content": "As Yuri was nodding lightly, I heard Ishmael let out a deep sigh."
+      "content": "Yuri kiwnęła lekko głową, jednak w tym samym czasie ze strony Ishmael usłyszałom głębokie westchnięcie."
     },
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "I don’t know who gave you that idea, but Fixers are anything but noble or heroic. The only scent you’ll smell is the miserable stink of wage slaves."
+      "content": "Nie wiem, skąd masz takie pomysły, ale w Fachowcach nie ma nic szlachetnego ani bohaterskiego. Jedyne co od nich poczujes to fetor korpo niewolników."
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "…It couldn’t have been easy to find another job so soon. Good that you’re holding up."
+      "content": "…Musiało być ciężko znaleźć tak szybko robotę. Dobrze, że się trzymasz."
     },
     {
       "id": 39,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "For now… I’m just a contract worker."
+      "title": "Fixer Klasy 8",
+      "content": "Na razie… Jestem tylko na zlecenie."
     },
     {
       "id": 40,
       "model": "이스마엘",
-      "content": "Aha. That explains why you decided to crawl on back there."
+      "content": "Aha. To wiadomo czemu zdecydowałaś się tu wrócić."
     },
     {
       "id": 41,
       "model": "이스마엘",
-      "content": "Did they promise to promote you to team leader or something if you struck gold in your former workplace?"
+      "content": "Obiecali ci jakąś wyższą pozycję, jeśli przyniesiesz im coś cennego z poprzedniej roboty?"
     },
     {
       "id": 42,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…My contracts might get extended if I return with results."
+      "title": "Fixer Klasy 8",
+      "content": "…Jeśli się wykarzę, może przedłużą mój kontrakt."
     },
     {
       "id": 43,
       "model": "그레고르",
-      "content": "R—Right. A good result is something to risk your life for if you want to earn a permanent spot."
+      "content": "N-no tak. Mocne wyniki to sprawa życia i śmierci jeśli starasz się o stałą pozycję."
     },
     {
       "id": 44,
       "model": "이스마엘",
-      "content": "Ha, and what a futile life that is."
+      "content": "*wzdech* Życia… Ale co to za życie"
     },
     {
       "id": 45,
       "model": "그레고르",
-      "content": "(Hey, what’s with the sarcasm? Is something a problem?)"
+      "content": "(Ej, skąd ten cały sarkazm? Coś ci nie pasuje, czy co?)"
     },
     {
       "id": 46,
       "model": "이스마엘",
-      "content": "…I dunno, I have a problem with every single thing I’m hearing right now. "
+      "content": "…Oh sama nie wiem, jakoś tak wszystko co słyszę działa mi na nerwy. "
     },
     {
       "id": 47,
-      "content": "Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat."
+      "content": "Yuri wyglądała na niewzruszoną docinkami i spokojnie usiadła na wolnym miejscu."
     },
     {
       "id": 48,
-      "content": "Looking back and forth between the two, Gregor returned to his seat as well, scratching his head."
+      "content": "Spoglądając pomiędzy nimi, Gregor też wrócił na swój fotel, drapiąc się po głowie."
     },
     {
       "id": 49,
       "model": "단테",
-      "content": "<I… can’t seem to get used to being around these people.>"
+      "content": "<Ja… chyba nigdy nie przyzwyczaję się do tego towarzystwa.>"
     },
     {
       "id": 50,
       "model": "베르길리우스",
-      "content": "It will be beneficial for you to adapt to them sooner than later, Dante."
+      "content": "Im wcześniej się dostosujesz, tym łatwejsza będzie twoja praca, Dante."
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "…Charon, time to go. Our guest has taken her seat."
+      "content": "…Charon, czas ruszać. Nasz gość zajął już swoje miejsce."
     },
     {
       "id": 52,
       "model": "카론",
-      "content": "Mephi’s tum revived. Charon’s raring to drive."
+      "content": "Brzuch Mefiego jest pełny. Charon gotowa do jazdy."
     }
   ]
 }

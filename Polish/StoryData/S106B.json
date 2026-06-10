@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Na Pokładzie Mefistofelesa",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Umm, sorry to ask…"
+      "title": "Fixer Klasy 8",
+      "content": "Umm, przepraszam, ale…"
     },
     {
       "id": 1,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "But if I have the map, how do you know what roads to take?"
+      "title": "Fixer Klasy 8",
+      "content": "Skoro ja mam mapę, skąd wiesz którędy jechać?"
     },
     {
       "id": 2,
-      "content": "Answerless, the bus keeps speeding anyway."
+      "content": "Nie padły żadne odpowiedzi, a bus jechał dalej."
     },
     {
       "id": 3,
       "model": "카론",
-      "content": "We do have something to lead us…"
+      "content": "Wszystko dzięki…"
     },
     {
       "id": 4,
       "model": "카론",
-      "content": "Intuition. Charon’s intuition."
+      "content": "Intuicji. Intuicji Charon."
     },
     {
       "id": 5,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Whaaat?!"
+      "title": "Fixer Klasy 8",
+      "content": "Że cooo?!"
     },
     {
       "id": 6,
       "model": "카론",
-      "content": "Pinky-hair, explain why you keep rubbing that odd paper in Charon’s face."
+      "content": "Czerwonowłosa, wyjaśnij, dlaczego wpychasz Charon w twarz ten papierek."
     },
     {
       "id": 7,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Because you keep going in weird directions! Take a look at this map. Our destination is to the southeast of here…"
+      "title": "Fixer Klasy 8",
+      "content": "Bo cały czas dziwnie jedziesz! Zobacz na tą mapę. Nasz cel jest na połódniowy wschód stąd…"
     },
     {
       "id": 8,
-      "content": "Charon reluctantly gives the map a cursory glance, as she couldn’t ignore the thing right in front of her eyes."
+      "content": "Charon niechętnie spogląda na mapę, nie mogąc jej zignorować, kiedy ta była tuż przed jej oczami."
     },
     {
       "id": 9,
       "model": "카론",
-      "content": "Follow the heart. That’s where the true path lies."
+      "content": "Idź za głosem serca. Tam znajdziesz prawdziwą drogę."
     },
     {
       "id": 10,
       "model": "돈키호테",
-      "content": "Hear, hear! We all must follow as our hearts lead!"
+      "content": "Prawo rzecze! Musimy wszyscy podążać głosem serca!"
     },
     {
       "id": 11,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "…You’re just admitting that you can’t read a map."
+      "title": "Fixer Klasy 8",
+      "content": "…Przyznajesz tylko, że nie umiesz używać mapy."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "You took the words right out of my mouth."
+      "content": "Z ust mi to wyjęłaś."
     },
     {
       "id": 13,
-      "content": "Yuri and Ishmael put a palm over their respective faces at the same time, almost like they were in sync."
+      "content": "Yuri i Ishmael w tym samym czasie przyłożyły sobie rękę na głowę, jakby były ze sobą zgrane."
     },
     {
       "id": 14,
       "model": "로쟈",
-      "content": "Ooh! Did our driver make a new friend?"
+      "content": "Ooh! Nasza kierowczyni ma nową koleżankę?"
     },
     {
       "id": 15,
       "model": "카론",
-      "content": "Pinky keeps on blabbing. I know the way."
+      "content": "Czerwona cały czas coś plecie. Znam drogę."
     },
     {
       "id": 16,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, I mean, you’re going the wrong direction…"
+      "title": "Fixer Klasy 8",
+      "content": "Nie, przecież jedziemy w złą stronę…"
     },
     {
       "id": 17,
       "model": "카론",
-      "content": "Look ahead, more obstacles. Do I vroom-vroom?"
+      "content": "Więcej przeszkód przed nami. Zrobić Brum-brum?"
     },
     {
       "id": 18,
       "model": "베르길리우스",
-      "content": "No, Charon. Wait one second."
+      "content": "Nie, Charon. Poczekaj chwilę."
     },
     {
       "id": 19,
-      "teller": "Famished Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "Lookie! Nice bus you got there! Why don’tcha gimme a ride!"
+      "teller": "Wygłodniały Huligan",
+      "title": "Tylne Ulice 4 Dystryktu",
+      "content": "Paczcie no! Ładne autko! Dostanę może podwózkę!"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "…I guess Mephistopheles could use a helping of dessert."
+      "content": "…Mefistofelesowi może przydać się mały deser."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Get on down… It needs to be fed just a bit more."
+      "content": "Wysiadka… Dołożymy tam jeszcze trochę."
     }
   ]
 }
