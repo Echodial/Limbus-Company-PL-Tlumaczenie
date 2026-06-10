@@ -3,7 +3,7 @@
     {
       "id": "get_11115_1",
       "desc": "Identity Acquisition",
-      "dlg": "Kiddo, remember what Mama told you? You ever find anything you don't like, you can talk to me about it!"
+      "dlg": "Młoda, pamiętasz co ci mówiłam? Jeśli znajdziesz coś co ci przeszkadza to mi powiedz, a ja w try miga się tym zajme!"
     },
     {
       "id": "lobby_morning_11115_1",
@@ -53,47 +53,47 @@
     {
       "id": "gacksung_11115_1",
       "desc": "Uptying",
-      "dlg": "... Good girl!"
+      "dlg": "... Zuch Dziewczyna!"
     },
     {
       "id": "formation_11115_1",
       "desc": "Deployment",
-      "dlg": "Let's see... According to the Special Clause on the House of Spiders..."
+      "dlg": "Zobaczmy... Zgodnie ze Specjalną Klauzulą dotyczącą Domowi Pająków..."
     },
     {
       "id": "battleentry_11115_1",
       "desc": "Stage Entry",
-      "dlg": "Goes without reading—of course it's complete and total extermination!"
+      "dlg": "Nie ma co sprawdzać—za to bez wątpienia jest kompletna i absolutna eksterminacja!"
     },
     {
       "id": "battle_select_11115_1",
       "desc": "Viewed in Battle",
-      "dlg": "That unsettling noise... Got a bad feeling about this. Don't let your guard down."
+      "dlg": "Ten dźwięk... Nie podoba mi się on. Nie opuszczaj gardy."
     },
     {
       "id": "battle_endcommand_11115_1",
       "desc": "Commencing Attack",
-      "dlg": "Welcome to the kill zone!"
+      "dlg": "Witam w polu rażenia!"
     },
     {
       "id": "battle_enemy_break_11115_1",
       "desc": "Enemy Stagger",
-      "dlg": "Alright, out of phases, or do you have more surprises up your sleeve?"
+      "dlg": "Dobra, wysptrykałeś się, czy masz jeszcze jakiegoś asa w rękawie?"
     },
     {
       "id": "battle_break_11115_1",
       "desc": "Staggered",
-      "dlg": "Haha! It's been so long. I'm actually kinda winded!"
+      "dlg": "Haha! Mineło troche czasu od kiedy ktoś tak dobrze za mną nadążał. Nawet się trochę zmachałam!"
     },
     {
       "id": "battle_kill_11115_1",
       "desc": "Enemy Killed",
-      "dlg": "Game over!"
+      "dlg": "Koniec zabawy!"
     },
     {
       "id": "battle_dead_11115_1",
       "desc": "Death",
-      "dlg": "... Won't let you... take my sword. Not ever..."
+      "dlg": "... Nigdy... nie dostaniecie mojego miecza. Nie ma mowy..."
     },
     {
       "id": "choice_success_p_11115_2",
@@ -108,17 +108,17 @@
     {
       "id": "battle_clear_11115_1",
       "desc": "Victory Cry",
-      "dlg": "This is quickly spiraling down to a lackluster endgame. I wouldn't have bothered humoring you had I known your strategem was this pathetic.\nLet's wrap this up. It's getting boring."
+      "dlg": "Wygląda na to, że tą walkę czeka naprawde mozolna końcówka. Wiesz, nie poszłabym ci na ręke gdybym wiedziała, że masz taką żałosną strategie.\nDobra, najwyższy czas to skończyć. Zaczęło wiać nudą."
     },
     {
       "id": "battle_clear_ex_11115_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Hahahaha! Having a good time, Kiddo? Mama's the best, huh?"
+      "dlg": "Hahahaha! Dobrze się bawisz, młoda? Mamusia to debeściak, co nie?"
     },
     {
       "id": "battle_defeat_11115_1",
       "desc": "Defeat Wail",
-      "dlg": "That's one cheap shot of a gimmick! Tsk. Got my hands full right now, so I'll make a note in the Book and come back to it.\nDon't think you've gotten away with this."
+      "dlg": "A to tani chwyc! Tsk. Teraz mam ręce pełne roboty, ale zapiszę cię w księdze i wróce po ciebię potem.\n Nie myśl sobie, że uszło ci to na sucho."
     }
   ]
 }
