@@ -4,66 +4,66 @@
       "id": 0,
       "place": "District 4 - LC Branch Exterior",
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…Dante. A moment with me, please."
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "…Dante. Poproszę cię tu na moment."
     },
     {
       "id": 1,
-      "content": "While the team was busy exchanging greetings, Vergilius called me to a secluded place."
+      "content": "Gdy reszta drużyny wymieniała się powitaniami, Wergiliusz zawołał mnię na bok."
     },
     {
       "id": 2,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Let me tell you in advance that they’re only Grade 8 Fixers."
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "Chcę, żebyś pamiętało że są oni tylko Fachowcami Klasy 8."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Grade 8?>"
+      "content": "<Klasy 8?>"
     },
     {
       "id": 4,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…It means they’re low-rank drudges, errands being their main tasks."
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "…To znaczy, że są nisko w chierarchii i głównie zajmują się prostymi robotami."
     },
     {
       "id": 5,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "title": "Guide",
-      "content": "Use them for your benefit, but don’t rely on them."
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "Możesz ich używać, ale nie polegaj na nich."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<I can’t count on them to deal with everything for us, in other words.>"
+      "content": "<Czyli innymi słowami nie mogę liczyć, że czymkolwiek się za nas zajmą.>"
     },
     {
       "id": 7,
-      "content": "I nodded to let him know that I understood his point."
+      "content": "Kiwnełom aby przekazać, że zrozumiałom przekaz."
     },
     {
       "id": 8,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…You might be the only one on the bus I can actually converse with."
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "…Jesteś chyba jedyną osobą na pokłądzie, z którą mogę poprowadzić produktywną rozmowę."
     },
     {
       "id": 9,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "title": "Guide",
-      "content": "…Well, best of luck, Dante."
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "…Cóż, życzę udanych łowów, Dante."
     },
     {
       "id": 10,
-      "content": "Vergilius pat my shoulder with a bitter smile before slowly making his way back to the bus."
+      "content": "Wergiliusz poklepał mnię po ramieniu z gorzkim uśmiechem na twarzy, po czym zaczął powoli wracać w stronę autobusa."
     }
   ]
 }
