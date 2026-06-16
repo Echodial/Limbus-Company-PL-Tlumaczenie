@@ -3,7 +3,7 @@
     {
       "id": "get_11115_1",
       "desc": "Identity Acquisition",
-      "dlg": "Młoda, pamiętasz co ci mówiłam? Jeśli znajdziesz coś co ci przeszkadza to mi powiedz, a ja w try miga się tym zajme!"
+      "dlg": "Młoda, pamiętasz co ci mówiłam? Jeśli znajdziesz coś, co ci przeszkadza, to mi powiedz, a ja w try miga się tym zajmę!"
     },
     {
       "id": "lobby_morning_11115_1",
@@ -58,7 +58,7 @@
     {
       "id": "formation_11115_1",
       "desc": "Deployment",
-      "dlg": "Zobaczmy... Zgodnie ze Specjalną Klauzulą dotyczącą Domowi Pająków..."
+      "dlg": "Zobaczmy... Zgodnie ze Specjalną Klauzulą dotyczącą Domu Pająków..."
     },
     {
       "id": "battleentry_11115_1",
@@ -68,7 +68,7 @@
     {
       "id": "battle_select_11115_1",
       "desc": "Viewed in Battle",
-      "dlg": "Ten dźwięk... Nie podoba mi się on. Nie opuszczaj gardy."
+      "dlg": "Ten dźwięk... Nie podoba mi się. Nie opuszczaj gardy."
     },
     {
       "id": "battle_endcommand_11115_1",
@@ -83,7 +83,7 @@
     {
       "id": "battle_break_11115_1",
       "desc": "Staggered",
-      "dlg": "Haha! Mineło troche czasu od kiedy ktoś tak dobrze za mną nadążał. Nawet się trochę zmachałam!"
+      "dlg": "Haha! Trochę minęło, odkąd ktoś tak dobrze za mną nadążał. Nawet się trochę zmachałam!"
     },
     {
       "id": "battle_kill_11115_1",
@@ -108,7 +108,7 @@
     {
       "id": "battle_clear_11115_1",
       "desc": "Victory Cry",
-      "dlg": "Wygląda na to, że tą walkę czeka naprawde mozolna końcówka. Wiesz, nie poszłabym ci na ręke gdybym wiedziała, że masz taką żałosną strategie.\nDobra, najwyższy czas to skończyć. Zaczęło wiać nudą."
+      "dlg": "Wygląda na to, że tą walkę czeka naprawdę mozolna końcówka. Wiesz, nie poszłabym ci na rękę gdybym wiedziała, że masz taką żałosną strategię.\nDobra, najwyższy czas to skończyć. Zaczęło wiać nudą."
     },
     {
       "id": "battle_clear_ex_11115_1",
@@ -118,7 +118,7 @@
     {
       "id": "battle_defeat_11115_1",
       "desc": "Defeat Wail",
-      "dlg": "A to tani chwyt! Tsk. Teraz mam ręce pełne roboty, ale zapisze to w księdze i wróce po ciebię potem.\n Nie myśl sobie, że uszło ci to na sucho."
+      "dlg": "A to tani chwyt! Tsk. Teraz mam ręce pełne roboty, ale zapiszę to w księdze i wrócę po ciebie potem.\n Nie myśl sobie, że uszło ci to na sucho."
     }
   ]
 }
