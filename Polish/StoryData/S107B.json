@@ -2,189 +2,189 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Na Pokładzie Mefistofelesa",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "Now Charon, tell me, is this east or west?"
+      "title": "Fachowca Klasy 8",
+      "content": "No dobra Charon, powiedz mi, to będzie wschód czy zachód?"
     },
     {
       "id": 1,
       "model": "카론",
-      "content": "Charon only knows two directions: Mephi’s front and back."
+      "content": "Charon zna tylko dwa kierunki: przód i tył Mefiego."
     },
     {
       "id": 2,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "How did you come so far with a driver who has zero sense of direction?"
+      "title": "Fachowca Klasy 8",
+      "content": "Jakim cudem zajechaliście tak daleko z kierowcą bez najmniejszego poczucia kierunku?"
     },
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Charon… Like I said, the sun rises from…"
+      "content": "Charon… Tak jak mówiłem, słońce wschodzi na…"
     },
     {
       "id": 4,
-      "content": "At the driver’s seat, three heads gathered together over a map."
+      "content": "Przy fotelu kierowcy zebrały się trzy głowy, razem pochylając się nad mapą."
     },
     {
       "id": 5,
-      "content": "Well, one of them might have been at a slightly different elevation from the others."
+      "content": "No, może jedna z nich trochę niżej niż pozostałe."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Pft… Chiquita~ Aren’t you gonna join them too?"
+      "content": "Pft… Chiquita~ Może ty też do nich dołączysz?"
     },
     {
       "id": 7,
       "model": "돈키호테",
-      "content": "I beg your pardon! I am no child! And most certainly not little!"
+      "content": "Oj, wypraszam sobie! Żadne ze mnie dziecko! I zdecydowanie nie jestem mała!"
     },
     {
       "id": 8,
-      "content": "Watching Don Quixote shake her fist sky-high at Rodya, I noticed a bitter gaze falling upon them out of the corner of my view."
+      "content": "Patrząc jak Don Kichote wygraża pięścią w kierunku Rodii, na skraju wizji zobaczyłom, jak ktoś rzuca im gorzkie spojrzenie."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<…I’m starting to think that Yuri gal might’ve put up with a rough childhood.>"
+      "content": "<…Zaczynam myśleć, że ta Yuri mogła mieć ciężkie dzieciństwo.>"
     },
     {
       "id": 10,
-      "content": "Gregor turned around to take a glance in my direction, then shook his head and went back to looking at the driver’s side with his chin resting on his hand."
+      "content": "Gregor obrócił się i spojrzał w moim kierunku, po czym porząsnął głową i wrócił do patrzenia na stronę kierowcy, podpierając ręką głowę."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "…Wouldn’t be on the youngest side, either. Some Nests used to conscript anyone old enough to hold a knife."
+      "content": "…Nie wygląda też na najmłodszą. W niektórych Gniazdach do poboru brali każdego, kto dorósł na tyle, żeby utrzymać nóż."
     },
     {
       "id": 12,
-      "content": "Nests… A Nest was basically the center of a District, if my memory is correct."
+      "content": "Gniazda… Jeśli dobrze pamiętam, Gniazdo jest jakby centrum Dystryktu."
     },
     {
       "id": 13,
-      "content": "Sounds like Nests used to get into wars with one another in the past."
+      "content": "Zdaje się, że niektóre Gniazda wdawały się ze sobą w wojny."
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<Did that happen often?>"
+      "content": "<Czy to działo się często?>"
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Not frequently, but it sure as hell did happen."
+      "content": "Może i nie często, ale zdecydowanie się działo."
     },
     {
       "id": 16,
       "model": "그레고르",
-      "content": "…Interested in learning about wars, Manager Bud?"
+      "content": "…Co, ciekawią cię wojny, Szefunciu?"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<Oh, I’m not really curious about the details, just gathering info I should know as the manager…>"
+      "content": "<Oh, nie koniecznie chce znać szczegóły, zbieram tylko wiedzę, którą powinnom mieć jako kierownik…>"
     },
     {
       "id": 18,
-      "content": "As I was about to go on, a glimpse of Gregor’s expression I caught from the side stopped me in my tracks."
+      "content": "Miałom juz mowić dalej, jednak po zobaczeniu wyrazu twarzy Gregora od razu się zatrzymałom."
     },
     {
       "id": 19,
-      "content": "His eyes seemed to be fixed somewhere far more distant than the driver’s seat."
+      "content": "Jego spojrzenie było odległe, jakby wpatrywał się w miejsce daleko za siedzeniem kierowcy."
     },
     {
       "id": 20,
       "model": "그레고르",
-      "content": "Don’t get me wrong, Manager Bud, I’m not trying to criticize you or anything. Heck, it’s actually a pretty standup attitude for a boss, I’d say."
+      "content": "Nie zrozum mnie żle, Szefunciu, nie próbuję cię krytykować ani nic. Szczerze mówiąc, to całkiem porządne podejście jak na szefa."
     },
     {
       "id": 21,
-      "content": "He slowly continued, taking a pack of cigarettes from his pocket."
+      "content": "Mówił powoli, wyciągając z kieszeni paczkę papierosów."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Still, ignorance is a gift you should savor while you have it, if you ask me."
+      "content": "Ale mimo wszystko, co do niektórych rzeczy, najlepiej jak najdłużej pozostać w niewiedzy, przynajmniej moim zdaniem."
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "Once you’re burdened with knowledge, there’s no going back."
+      "content": "Szczególnie wojna, jak ta wiedza się ciebie uczepi, już od niej nie uciekniesz."
     },
     {
       "id": 24,
-      "content": "Without another word, he lit his cigarette."
+      "content": "Bez dalszych słów, Gregor zapalił papierosa."
     },
     {
       "id": 25,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "No, you should’ve turned right at that intersection!"
+      "title": "Fachowca Klasy 8",
+      "content": "Nie, miałaś skręcić na tamtym skrzyżowaniu!"
     },
     {
       "id": 26,
       "model": "싱클레어",
-      "content": "I-It’s okay, Charon. We can turn around at the next junction."
+      "content": "W-w porządku, Charon. Możemy zawrócić na następnym."
     },
     {
       "id": 27,
       "model": "카론",
-      "content": "Ahh… The woes of a driver."
+      "content": "Ahh… Trudy kierowczego życia."
     },
     {
       "id": 28,
       "model": "그레고르",
-      "content": "Well… Looks like we have more pressing matters at hand. Ain’t that right, Manager Bud?"
+      "content": "No… Zdaje się, że mamy na głowie ważniejsze rzeczy. Co nie, Szefunciu?"
     },
     {
       "id": 29,
-      "content": "Gregor cackled with cigarette smoke still in his mouth."
+      "content": "Gregor zaśmiał się, wciąż mając w ustach dym z papierosa."
     },
     {
       "id": 30,
-      "content": "I was still curious to learn what he’d been through, but he’s right that I should focus on other things for now."
+      "content": "Dalej byłom ciekawe przez co przeszedł, ale ma rację, powinnom skupić się teraz na innych rzeczach."
     },
     {
       "id": 31,
-      "content": "An urgent matter showed up right before our bus-shaped doorstep, too."
+      "content": "Akurat tuż pod naszym nosem, czy raczej pod drzwiami busa, pojawił się drobny problem."
     },
     {
       "id": 32,
       "model": "베르길리우스",
-      "content": "Enough squabbling now. More enemies inbound."
+      "content": "Na razie dość kłótni. Nadchodzi więcej przeciwników."
     },
     {
       "id": 33,
-      "teller": "Head Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "You shoved my pals into that bus, you sick bastards! Are you nuts?"
+      "teller": "Naczelny Chuligan",
+      "title": "Tylne Uliczki 4 Dystryktu",
+      "content": "Wy gnoje, widziałem jak wpakowaliście moich ziomków do tego busa! Powaliło was?"
     },
     {
       "id": 34,
-      "teller": "Head Hooligan",
-      "title": "District 4 Backstreets",
-      "content": "You’ll pay for this! We were just gonna leave with the bus, but now I’ve gotta see you all bleed!"
+      "teller": "Naczelny Chuligan",
+      "title": "Tylne Uliczki 4 Dystryktu",
+      "content": "Zapłacicie za to! Mieliśmy tylko zabać wam busa, ale teraz poleje się krew!"
     },
     {
       "id": 35,
       "model": "카론",
-      "content": "Verg, fuel is making a fuss. Charon will get dizzy if many mouths are being noisy."
+      "content": "Werg, paliwo strasznie sie awanturuje. Charon dostanie zawrotów głowy, jeśli za dużo buziek robi hałas."
     },
     {
       "id": 36,
       "model": "베르길리우스",
-      "content": "Nothing to worry about, Charon. They’ll shut their mouths soon enough."
+      "content": "Nie martw się, Charon. Już nie długo zamkną usta."
     },
     {
       "id": 37,
       "model": "베르길리우스",
-      "content": "Off the bus."
+      "content": "Wysiadka."
     }
   ]
 }
