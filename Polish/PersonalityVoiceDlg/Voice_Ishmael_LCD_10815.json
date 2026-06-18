@@ -3,7 +3,7 @@
       {
         "id": "get_10815_1",
         "desc": "Identity Acquisition",
-        "dlg": "\"A mass outbreak of Distortion shares a common\"... uh, common...\nTsk. I know I read this part in the manual. Common... Ah... It's gone—I can't remember."
+        "dlg": "\"Masowe rozprzestrzenienia Zniekrztałcenia dzielą pewny\"... uh, pewny...\nTsk. No przecież wiem, że przeczytałam o tym w podręczniku. Dzielą pewny... Eh... Nici z tego—Nie przypomne sobie."
       },
       {
         "id": "lobby_morning_10815_1",
@@ -58,67 +58,67 @@
       {
         "id": "formation_10815_1",
         "desc": "Deployment",
-        "dlg": "... We're leaving already? Oh, but I haven't finished perusing the manual—Ah, coming!"
+        "dlg": "... Już wychodzimy? Ale nie skończyłam jescze czytać tego rozdziału podręczni—Dobra, dobra, już idę!"
       },
       {
         "id": "battleentry_10815_1",
         "desc": "Stage Entry",
-        "dlg": "*exhale* Light the lantern and open the path ahead."
+        "dlg": "*wydech* Zapal latarenkę i oświetl drogę przed nami."
       },
       {
         "id": "battle_select_10815_1",
         "desc": "Viewed in Battle",
-        "dlg": "... Step back, please. You are inviting undue danger by coming close."
+        "dlg": "... Proszę, odsuń się. Podchodząc tak blisko narażasz się na niepotrzebne ryzyko."
       },
       {
         "id": "battle_endcommand_10815_1",
         "desc": "Commencing Attack",
-        "dlg": "Draw the sword... and fell!"
+        "dlg": "Dobyj miecza... i tnij!"
       },
       {
         "id": "battle_enemy_break_10815_1",
         "desc": "Enemy Stagger",
-        "dlg": "When a foe's points of liberty are all chained..."
+        "dlg": "Gdy wszystkie oddechy przeciwnika zostały odcięte..."
       },
       {
         "id": "battle_break_10815_1",
         "desc": "Staggered",
-        "dlg": "This may be the time to fall back..."
+        "dlg": "Chyba najwyższy czas się trochę wycofać..."
       },
       {
         "id": "battle_kill_10815_1",
         "desc": "Enemy Killed",
-        "dlg": "Trap the stones and capture them all!"
+        "dlg": "... Osacz ich kamienie i schwytaj je wszystkie!"
       },
       {
         "id": "battle_dead_10815_1",
         "desc": "Death",
-        "dlg": "Straight and true... was my blade. That alone... is enough."
+        "dlg": "Moje ostrze tnęło... ostro i celnie. To wszystko... co ma dla mnie znaczenie."
       },
       {
         "id": "choice_success_p_10815_2",
         "desc": "Check Passed",
-        "dlg": "It's all thanks to your teachings, seniors."
+        "dlg": "To wszystko dzięki waszym lekcjom."
       },
       {
         "id": "choice_fail_n_10815_1",
         "desc": "Check Failed",
-        "dlg": "I still have much to learn..."
+        "dlg": "Muszę się jeszcze wiele nauczyć..."
       },
       {
         "id": "battle_clear_10815_1",
         "desc": "Victory Cry",
-        "dlg": "Suppression complete. This should fulfill the terms of the contract, but now we will never know how that soul Distorted into such a form."
+        "dlg": "Unieszkodliwienie ukończone. To powinno starczyć, aby wypełnić kontrakt, nawet jeśli nie ."
       },
       {
         "id": "battle_clear_ex_10815_1",
         "desc": "Extra Conditions Fulfilled",
-        "dlg": "... They're coming back. Back from the Distorted form to that of a human. The way of a Salsu would never have achieved this outcome.\nI finally understand what I must learn here in the OSIR Team before I depart for S Corp."
+        "dlg": "... Wracają. Wracają z powrotem ze zniekształcenia. Ścieżka Salsu nigdy nie byłaby w stanie tego osiągnąć.\nNareszcie rozumiem, co muszę osiągnąć jako część drużyny OSIR(PHolder), zanim wyruszę z powrotem do S Korpu."
       },
       {
         "id": "battle_defeat_10815_1",
         "desc": "Defeat Wail",
-        "dlg": "Our stones on the board are driven to fatal positions, cornered on every side. We ought to devise a proper strategem to counter this... Oh. A Letter of Explanation and Apology? Oh, no, I'll write it, but it's just that... I... I've never had to write one before... Um, all right. I'll submit it at once if you give me the format."
+        "dlg": "Our stones on the board are driven to fatal positions, cornered on every side. We ought to devise a proper strategem to counter this... Oh. A Letter of Explanation and Apology? Oh, no, I'll write it, but it's just that... I... I've never had to write one before... Um, all right. I'll submit it at once if you give me the format(holy yap, zrobie to przy okazji robienia greetings)."
       }
     ]
 }
