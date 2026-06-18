@@ -9114,6 +9114,116 @@
       "id": "battle_special_11115_10_2-03",
       "desc": "",
       "dlg": "Wszystko dla rodziny!"
+    },
+    {
+      "id": "battle_s3_10815_1_1-01",
+      "desc": "",
+      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia (鬼火腰擊)."
+    },
+    {
+      "id": "battle_s3_10815_1_1-02",
+      "desc": "",
+      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia (鬼火腰擊)."
+    },
+    {
+      "id": "battle_s3_10815_1_2-02",
+      "desc": "",
+      "dlg": "Zmiana Postawy Bojowej—Manewr Trzeci."
+    },
+    {
+      "id": "battle_s3_10815_1_2-02",
+      "desc": "",
+      "dlg": "Manewr Trzeci."
+    },
+    {
+      "id": "battle_s3_10815_1_3-01",
+      "desc": "",
+      "dlg": "Wyrównaj Szalę (相戰)."
+    },
+    {
+      "id": "battle_s3_10815_1_3-02",
+      "desc": "",
+      "dlg": "Wyrównaj Szalę (相戰)."
+    },
+    {
+      "id": "battle_s3_10815_1_4-01",
+      "desc": "",
+      "dlg": "Księzycowy Falujący Płomień (淸潾火)!"
+    },
+    {
+      "id": "battle_s3_10815_1_4-03",
+      "desc": "",
+      "dlg": "Księzycowy Falujący Płomień (淸潾火)!"
+    },
+    {
+      "id": "battle_s3_10815_1_5",
+      "desc": "",
+      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia (鬼火腰擊). Zmiana Postawy Bojowej—Manewr Trzeci."
+    },
+    {
+      "id": "battle_special_10815_1",
+      "desc": "",
+      "dlg": "Nie mogę już patrzeć w tył. Muszę jedynie podnieść mój miecz i wyciąć nam ścieżkę na przód."
+    },
+    {
+      "id": "battle_special_10815_2",
+      "desc": "",
+      "dlg": "Uważnie przyglądałam się kamienom na tej planszy."
+    },
+    {
+      "id": "battle_special_10815_3_1",
+      "desc": "",
+      "dlg": "Przegraj walkę!"
+    },
+    {
+      "id": "battle_special_10815_3_2",
+      "desc": "",
+      "dlg": "Wygraj wojnę!"
+    },
+    {
+      "id": "battle_s3_10615_1_1",
+      "desc": "",
+      "dlg": "Nie pogorszaj swojej sytuacji!"
+    },
+    {
+      "id": "battle_s3_10615_1_3-03",
+      "desc": "",
+      "dlg": "Poddaj się Więzą Ohry!"
+    },
+    {
+      "id": "battle_select_30501_1",
+      "desc": "",
+      "dlg": "Nawet słońce nie może wstać bez rzucania cienia.\nDążąc jego wzorem, ja również zaakceptuje swój cień."
+    },
+    {
+      "id": "battle_endcommand_30501_1",
+      "desc": "",
+      "dlg": "... Zetnę ich wszystkich... zanim się zatracę."
+    },
+    {
+      "id": "battle_s3_30501_1",
+      "desc": "",
+      "dlg": "Choć blasku księżyca żadne ostrze nie przetnie..."
+    },
+    {
+      "id": "battle_s3_30501_2",
+      "desc": "",
+      "dlg": "Jego światło zaniknie, gdy zacimie go zupełnie!"
+    },
+    {
+      "id": "battle_break_30501_1",
+      "desc": "",
+      "dlg": "Ukryte w cieniu dłonie... przybyły po mnię."
+    },
+    {
+      "id": "battle_kill_30501_1",
+      "desc": "",
+      "dlg": "Skrócony o głowę."
+    },
+    {
+      "id": "battle_dead_30501_1",
+      "desc": "",
+      "dlg": "Not one handspan ahead... does this darkness yield..."
     }
   ]
 }
