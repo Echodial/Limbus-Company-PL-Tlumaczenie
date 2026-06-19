@@ -68,32 +68,32 @@
         {
             "id": "battle_select_10307_1",
             "desc": "Viewed in Battle",
-            "dlg": "Is there aught else to suppress?!"
+            "dlg": "Czy zosało coś jeszcze do unieszkodliwienia?!"
         },
         {
             "id": "battle_endcommand_10307_1",
             "desc": "Commencing Attack",
-            "dlg": "I shall chew thee to shreds!"
+            "dlg": "Przeżuję cię na kawałki!"
         },
         {
             "id": "battle_enemy_break_10307_1",
             "desc": "Enemy Stagger",
-            "dlg": "Just thee wait! Thou shall be devoured whole posthaste!"
+            "dlg": "Poczekaj jeszcze chwilkę! Już zaraz pożrę cię w całości!"
         },
         {
             "id": "battle_break_10307_1",
             "desc": "Staggered",
-            "dlg": "... 'Twas but a moment of hesitation."
+            "dlg": "… Przecie zawachałam się tylko na chwilkę."
         },
         {
             "id": "battle_kill_10307_1",
             "desc": "Enemy Killed",
-            "dlg": "Om nom."
+            "dlg": "Am Niam."
         },
         {
             "id": "battle_dead_10307_1",
             "desc": "Death",
-            "dlg": "So I have always... shone so brightly..."
+            "dlg": "A więc ten blask… przez ten cały czas pochodził ode mnie…"
         },
         {
             "id": "choice_success_p_10307_2",
