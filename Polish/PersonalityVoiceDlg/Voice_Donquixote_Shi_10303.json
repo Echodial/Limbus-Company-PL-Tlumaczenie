@@ -3,7 +3,7 @@
     {
       "id": "get_10303_1",
       "desc": "Identity Acquisition",
-      "dlg": "Hurrah, justice hath arrived! I shall drive all villains into equal demise!"
+      "dlg": "Hurra, oto nadeszła sprawiedliwość! Wszyscy złoczyńcy są równi pod moim mieczem!"
     },
     {
       "id": "lobby_morning_10303_1",
@@ -68,17 +68,17 @@
     {
       "id": "battle_select_10303_1",
       "desc": "Viewed in Battle",
-      "dlg": "I was preparing a surprise attack—you were able to detect me?"
+      "dlg": "Przygotowywuję atak z zaskoczenia- ah, jak udało ci się mnie ujrzeć?"
     },
     {
       "id": "battle_endcommand_10303_1",
       "desc": "Commencing Attack",
-      "dlg": "Let us vanquish these evildoers!"
+      "dlg": "Czas uśmiercić tych złoczyńców!"
     },
     {
       "id": "battle_enemy_break_10303_1",
       "desc": "Enemy Stagger",
-      "dlg": "You shan’t be let a moment of clarity!"
+      "dlg": "Nie dostaniesz nawet chwili oddechu!"
     },
     {
       "id": "battle_break_10303_1",
@@ -88,12 +88,12 @@
     {
       "id": "battle_kill_10303_1",
       "desc": "Enemy Killed",
-      "dlg": "I slew them!"
+      "dlg": "Ubiłam drania!"
     },
     {
       "id": "battle_allydead_10303_1",
       "desc": "Ally Death",
-      "dlg": "I shall avenge thee and vanquish that villain!"
+      "dlg": "Pomszcze cię i rozpłatam tego złoczyńcę!"
     },
     {
       "id": "choice_success_p_10303_1",
