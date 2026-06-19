@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10309_1",
             "desc": "Viewed in Battle",
-            "dlg": "No need to be hasty in thy speech! For I have all the ti— for I have a moderate sum of time in the world."
+            "dlg": "Nie ma potrzeby się śpieszyć! Mam mnóstwo Cza... mam normalną ilość Czasu."
         },
         {
             "id": "battle_endcommand_10309_1",
             "desc": "Commencing Attack",
-            "dlg": "It shall be done!"
+            "dlg": "I tak się stanie!"
         },
         {
             "id": "battle_enemy_break_10309_1",
             "desc": "Enemy Stagger",
-            "dlg": "There is aught else to collect from thee! Breathe not thy final breath!"
+            "dlg": "Chwilunia, masz jeszcze nieopłacone podatki! Nie umieraj mi tu jeszcze!"
         },
         {
             "id": "battle_break_10309_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10309_1",
             "desc": "Enemy Killed",
-            "dlg": "Fie... target deceased. Collection status: inaccessible."
+            "dlg": "Niech to… cel martwy. Status zbioru: niedostępny."
         },
         {
             "id": "battle_dead_10309_1",
             "desc": "Death",
-            "dlg": "There is yet much time that must be collected..."
+            "dlg": "Ale jest przecie tyle Czasu który musi jeszcze być zebrany…"
         },
         {
             "id": "choice_success_p_10309_2",
