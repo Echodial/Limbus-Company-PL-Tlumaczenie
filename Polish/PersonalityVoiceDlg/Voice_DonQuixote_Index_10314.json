@@ -68,32 +68,32 @@
     {
       "id": "battle_select_10314_1",
       "desc": "Viewed in Battle",
-      "dlg": "Prithee, hold awhile. Prescripts delivered by the Great Magicked Beeper are, in sooth, o-obscure to decipher..."
+      "dlg": "P-proszę, poczekaj chwilę. Nakazy dostarczone przez Czarodziejski Brzęczyk są, w prawdzie, d-dość trudne do zdekodowania..."
     },
     {
       "id": "battle_endcommand_10314_1",
       "desc": "Commencing Attack",
-      "dlg": "Render it unforeseeable."
+      "dlg": "Spraw, abym była nieprzewidywalna."
     },
     {
       "id": "battle_enemy_break_10314_1",
       "desc": "Enemy Stagger",
-      "dlg": "Thou art shaken."
+      "dlg": "Zostałeś... wstrząśnięty."
     },
     {
       "id": "battle_break_10314_1",
       "desc": "Staggered",
-      "dlg": "Guuh... Th-that paineth me sore..."
+      "dlg": "Ałłłć... P-po tym na pewno będe mieć siniaka..."
     },
     {
       "id": "battle_kill_10314_1",
       "desc": "Enemy Killed",
-      "dlg": "'Tis a fate long prescribed."
+      "dlg": "Ten los był ci dawno przypisany."
     },
     {
       "id": "battle_dead_10314_1",
       "desc": "Death",
-      "dlg": "... Prithee... t-tell him... I have... done my utmost..."
+      "dlg": "... Błagam... p-powiedz mu proszę... że zrobiłam... wszystko co w mojej mocy..."
     },
     {
       "id": "choice_success_p_10314_2",
