@@ -53,32 +53,32 @@
     {
       "id": "battle_select_10301_1",
       "desc": "Viewed in Battle",
-      "dlg": "Thine eyes were upon me!"
+      "dlg": "Patrzyłoś na mnie!"
     },
     {
       "id": "battle_endcommand_10301_1",
       "desc": "Commencing Attack",
-      "dlg": "To arms!"
+      "dlg": "Do boju!"
     },
     {
       "id": "battle_enemy_break_10301_1",
       "desc": "Enemy Stagger",
-      "dlg": "Just as I foresaw!"
+      "dlg": "Tak, jak myślałam!"
     },
     {
       "id": "battle_break_10301_1",
       "desc": "Staggered",
-      "dlg": "Ay!"
+      "dlg": "Aj!"
     },
     {
       "id": "battle_kill_10301_1",
       "desc": "Enemy Killed",
-      "dlg": "A triumph!"
+      "dlg": "Zwycięstwo!"
     },
     {
       "id": "battle_allydead_10301_1",
       "desc": "Ally Death",
-      "dlg": "Manager Esquire, I am counting on you to regain our ground!"
+      "dlg": "Wielmożny Kierowniku, wierzę że uda ci się odrobić te straty!"
     },
     {
       "id": "choice_success_p_10301_1",
