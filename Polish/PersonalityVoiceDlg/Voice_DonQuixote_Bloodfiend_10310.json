@@ -68,32 +68,32 @@
         {
             "id": "battle_select_10310_1",
             "desc": "Viewed in Battle",
-            "dlg": "I... cannot speak a word."
+            "dlg": "Ja… nie mam już nic więcej do powiedzania."
         },
         {
             "id": "battle_endcommand_10310_1",
             "desc": "Commencing Attack",
-            "dlg": "For the Family..."
+            "dlg": "Dla Rodziny…"
         },
         {
             "id": "battle_enemy_break_10310_1",
             "desc": "Enemy Stagger",
-            "dlg": "From this impalement..."
+            "dlg": "Wraz z tym przebiciem…"
         },
         {
             "id": "battle_break_10310_1",
             "desc": "Staggered",
-            "dlg": "This is nothing."
+            "dlg": "To nic w porównaniu z…"
         },
         {
             "id": "battle_kill_10310_1",
             "desc": "Enemy Killed",
-            "dlg": "... shall it cascade."
+            "dlg": "… wszystko runie."
         },
         {
             "id": "battle_dead_10310_1",
             "desc": "Death",
-            "dlg": "Is this... 'the retribution' you spoke of, Priest...?"
+            "dlg": "Czy to właśnie… ta 'kara' o której mówiłeś, Księdzu…?"
         },
         {
             "id": "choice_success_p_10310_2",
