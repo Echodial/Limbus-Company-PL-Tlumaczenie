@@ -3,7 +3,7 @@
     {
       "id": "get_10302_1",
       "desc": "Identity Acquisition",
-      "dlg": "Welcome aboard, dearest passengers!!! I. Have. Arrived!!!"
+      "dlg": "Witajcie na pokładzie, wielmożni pasażerowie!!! Oto. Przybyłam. Ja!!!"
     },
     {
       "id": "lobby_morning_10302_1",
@@ -58,7 +58,7 @@
     {
       "id": "formation_10302_1",
       "desc": "Deployment",
-      "dlg": "Here we go!"
+      "dlg": "No to wio!"
     },
     {
       "id": "battleentry_10302_1",
@@ -68,17 +68,17 @@
     {
       "id": "battle_select_10302_1",
       "desc": "Viewed in Battle",
-      "dlg": "I’m always ready to speed forward!"
+      "dlg": "Zawsze jestem gotowa pędzić w przód!"
     },
     {
       "id": "battle_endcommand_10302_1",
       "desc": "Commencing Attack",
-      "dlg": "None shall stop me!"
+      "dlg": "Nie zatrzymacie mnie!"
     },
     {
       "id": "battle_enemy_break_10302_1",
       "desc": "Enemy Stagger",
-      "dlg": "Now seems to be our chance!"
+      "dlg": "Teraz nadszedł czas na atak!"
     },
     {
       "id": "battle_break_10302_1",
@@ -88,12 +88,12 @@
     {
       "id": "battle_kill_10302_1",
       "desc": "Enemy Killed",
-      "dlg": "Where to next?!"
+      "dlg": "Gdzie teraz?!"
     },
     {
       "id": "battle_allydead_10302_1",
       "desc": "Ally Death",
-      "dlg": "Manager Esquire! I’ll count on you once this is over!"
+      "dlg": "Wielmożny Kierowniku! Będe liczyć na twą pomoc jak już z nimi skończymy!"
     },
     {
       "id": "choice_success_p_10302_1",
@@ -113,12 +113,12 @@
     {
       "id": "battle_clear_ex_10302_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Have I become a so-called elite?! Promote me, Manager Esquire!"
+      "dlg": "Czy w końcu stałam się tak zwaną... <i>Elitą<i>?! Wielmożny Kierowniku, myślę że zasłużyłam na awans!"
     },
     {
       "id": "battle_defeat_10302_1",
       "desc": "Defeat Wail",
-      "dlg": "I… shan’t ever give up…"
+      "dlg": "Ja… Nigdy się nie poddam…"
     }
   ]
 }
