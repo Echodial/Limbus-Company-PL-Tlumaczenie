@@ -68,62 +68,62 @@
       {
         "id": "battle_select_10312_1",
         "desc": "Viewed in Battle 1",
-        "dlg": "Gasp! Doth aught requireth mine assistance?"
+        "dlg": "Haaa?! Czyżbyś wymagało mojej audjencji?"
       },
       {
         "id": "battle_select_hysteric_10312_1",
         "desc": "Viewed in Battle 2",
-        "dlg": "Get out of my head..."
+        "dlg": "Wynoś się z mojej głowy…"
       },
       {
         "id": "battle_endcommand_10312_1",
         "desc": "Commencing Attack 1",
-        "dlg": "'Tis evident this foe shall pose a challenge... allow me!"
+        "dlg": "Wygląda na to że ten rzeimieszek sprawia wam spory kłopot… pozwólcie mi!"
       },
       {
         "id": "battle_endcommand_hysteric_10312_1",
         "desc": "Commencing Attack 2",
-        "dlg": "If I am to be of any use..."
+        "dlg": "Jeśli chce się na coś wogóle zdać…"
       },
       {
         "id": "battle_enemy_break_10312_1",
         "desc": "Enemy Staggered 1",
-        "dlg": "Heh heh, 'tis light work!"
+        "dlg": "Ha ha, tożto przecie łatwizna!"
       },
       {
         "id": "battle_enemy_break_hysteric_10312_1",
         "desc": "Enemy Staggered 2",
-        "dlg": "Arcana scum..."
+        "dlg": "Ty Arkanowy Draniu…"
       },
       {
         "id": "battle_break_10312_1",
         "desc": "Staggered 1",
-        "dlg": "Ngh, this cannot be..."
+        "dlg": "Ngh, nie może być…"
       },
       {
         "id": "battle_break_hysteric_10312_1",
         "desc": "Staggered 2",
-        "dlg": "Is it time to pay the price...?"
+        "dlg": "Czy nadszedł czas na zapłate…?"
       },
       {
         "id": "battle_kill_10312_1",
         "desc": "On Kill 1",
-        "dlg": "Behold, for evil hath been cleansed thus!"
+        "dlg": "Podziwiaj, bowiem zło zostało oczyszczone!"
       },
       {
         "id": "battle_kill_hysteric_10312_1",
         "desc": "On Kill 2",
-        "dlg": "Ha ha... now peace shall reign, and...?"
+        "dlg": "Ha ha… a jak pokój zapanuje, to co wtedy stanie się mną…?"
       },
       {
         "id": "battle_dead_10312_1",
         "desc": "Death #1",
-        "dlg": "I... swore I would... protect thee all... to the bitter..."
+        "dlg": "Ja… zaprzysięgłam że… będe bronić was… do samego…"
       },
       {
         "id": "battle_dead_hysteric_10312_1",
         "desc": "Death #2",
-        "dlg": "I failed to protect them... just like she failed..."
+        "dlg": "Mi, tak samo jak i jej... nie udało się obronić tego, co najważniejsze..."
       },
       {
         "id": "choice_success_p_10312_2",
