@@ -68,32 +68,32 @@
         {
             "id": "battle_select_10311_1",
             "desc": "Viewed in Battle",
-            "dlg": "'Tis an emergency, hm? Do know that it shall cost thee a tad more!"
+            "dlg": "A więc to bardzo ważne, hm? Wiedz w takim razie, że będzie cię to słono kosztować!"
         },
         {
             "id": "battle_endcommand_10311_1",
             "desc": "Commencing Attack",
-            "dlg": "The virescent pyrojade burneth."
+            "dlg": "Jaskrawy jadeit się jara."
         },
         {
             "id": "battle_enemy_break_10311_1",
             "desc": "Enemy Stagger",
-            "dlg": "This duel!"
+            "dlg": "Ten pojedynek..!"
         },
         {
             "id": "battle_break_10311_1",
             "desc": "Staggered",
-            "dlg": "Hup?!"
+            "dlg": "Hah?!"
         },
         {
             "id": "battle_kill_10311_1",
             "desc": "Enemy Killed",
-            "dlg": "Endeth with my victory!"
+            "dlg": "...Kończy się mym zwycięstwem!"
         },
         {
             "id": "battle_dead_10311_1",
             "desc": "Death",
-            "dlg": "Ahaaa... 'twas... quite education...al..."
+            "dlg": "Ahaaa… naprawdę duże… się od ciebię nauczy…łam…"
         },
         {
             "id": "choice_success_p_10311_2",
