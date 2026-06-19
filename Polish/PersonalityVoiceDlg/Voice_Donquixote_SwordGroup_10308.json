@@ -3,7 +3,7 @@
         {
             "id": "get_10308_1",
             "desc": "Identity Acquisition",
-            "dlg": "The way of... Wine? Drinking etiquette? Forsooth, I am quite unacquainted with that subject. Kaugh, 't-tis quite bitter!"
+            "dlg": "Ścieżka... Konsumpcji Wina? Etykieta picia? Doprawdy, nie jestem dobrze zapoznana z tym tematem. *kaszel*, t-tożto potwornie gorzkie!"
         },
         {
             "id": "lobby_morning_10308_1",
@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10308_1",
             "desc": "Viewed in Battle",
-            "dlg": "I am quite busy at the moment!"
+            "dlg": "Jestem teraz naprawdę zajęta!"
         },
         {
             "id": "battle_endcommand_10308_1",
             "desc": "Commencing Attack",
-            "dlg": "How thrilling!"
+            "dlg": "Cóż za uczucie!"
         },
         {
             "id": "battle_enemy_break_10308_1",
             "desc": "Enemy Stagger",
-            "dlg": "Hm? Aha, I must not have struck true..."
+            "dlg": "Hm? Aha, musiałam nierówno przeciąć..."
         },
         {
             "id": "battle_break_10308_1",
@@ -88,17 +88,17 @@
         {
             "id": "battle_kill_10308_1",
             "desc": "Enemy Killed",
-            "dlg": "Ah, truly! 'Twas a flesh-splitting sensation!"
+            "dlg": "Ah, doprawdy! Nic nie dorównuje uczuciu cięcia złoczyńców!"
         },
         {
             "id": "battle_dead_10308_1",
             "desc": "Death",
-            "dlg": "Aah, haah... Forsooth, well did I expect to be... hewn... myself."
+            "dlg": "Aah, haah... Doprawdy, spodziewałam się że kiedyś to ja... zostanę... przecięta."
         },
         {
             "id": "choice_success_p_10308_2",
             "desc": "Check Passed",
-            "dlg": "Heigh-ho! I have done it~!"
+            "dlg": "Hej-ho! To mi się uda-ło~!"
         },
         {
             "id": "choice_fail_n_10308_1",
@@ -108,7 +108,7 @@
         {
             "id": "battle_clear_10308_1",
             "desc": "Victory Cry",
-            "dlg": "'Twas naught but a quick jaunt indeed. Now I return with a lighter heart to... where Lady Outis awaits. Drat..."
+            "dlg": "'Twas naught but a quick jaunt indeed. Now I return with a lighter heart to... where Lady Outis awaits. Cholercia..."
         },
         {
             "id": "battle_clear_ex_10308_1",
