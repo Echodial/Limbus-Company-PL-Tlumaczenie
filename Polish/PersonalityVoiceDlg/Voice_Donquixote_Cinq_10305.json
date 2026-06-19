@@ -68,7 +68,7 @@
         {
             "id": "battle_select_10305_1",
             "desc": "Viewed in Battle",
-            "dlg": "'Tis ill-advised to speak to me whilst I fight a duel."
+            "dlg": "Rozmowa i pojedynkowanie nie są dobrym połączeniem."
         },
         {
             "id": "battle_endcommand_10305_1",
@@ -78,7 +78,7 @@
         {
             "id": "battle_enemy_break_10305_1",
             "desc": "Enemy Stagger",
-            "dlg": "Dost thou surrender?"
+            "dlg": "Czy chcesz się już poddać?"
         },
         {
             "id": "battle_break_10305_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10305_1",
             "desc": "Enemy Killed",
-            "dlg": "'Twas a duel most amusing!"
+            "dlg": "Dziękuję ci za ten pojedynek!"
         },
         {
             "id": "battle_dead_10305_1",
             "desc": "Death",
-            "dlg": "Aah... 'Twas... a shameful display..."
+            "dlg": "Aah... Był to... słaby pokaz z mojej strony..."
         },
         {
             "id": "choice_success_p_10305_2",
