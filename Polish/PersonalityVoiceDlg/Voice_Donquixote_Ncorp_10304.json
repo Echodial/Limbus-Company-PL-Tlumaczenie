@@ -3,7 +3,7 @@
     {
       "id": "get_10304_1",
       "desc": "Identity Acquisition",
-      "dlg": "The hammer of justice purgeth evil. Dost thou require mine aid? Fuhuhu…"
+      "dlg": "Młot sprawiedliwości oczyszcza nieczystości. Czyżbyś wymagało mojej pomocy? Hihuhuhuhu…"
     },
     {
       "id": "lobby_morning_10304_1",
@@ -68,32 +68,32 @@
     {
       "id": "battle_select_10304_1",
       "desc": "Viewed in Battle",
-      "dlg": "Hahahahah! Ah, you were by the side!"
+      "dlg": "Hahahahah! Ah, jesteś u mego boku!"
     },
     {
       "id": "battle_endcommand_10304_1",
       "desc": "Commencing Attack",
-      "dlg": "I shall pierce thee!"
+      "dlg": "Na mój honor, przebiję was!"
     },
     {
       "id": "battle_enemy_break_10304_1",
       "desc": "Enemy Stagger",
-      "dlg": "*Maniacal Laughter*"
+      "dlg": "<i>Huhuhahahahaha!</i>"
     },
     {
       "id": "battle_break_10304_1",
       "desc": "Staggered",
-      "dlg": "*Maniacal Laughter*"
+      "dlg": "<i>Hahahahahahah!</i>"
     },
     {
       "id": "battle_kill_10304_1",
       "desc": "Enemy Killed",
-      "dlg": "Rightly executed."
+      "dlg": "Sprawiedliwie unicestwieni."
     },
     {
       "id": "battle_dead_10304_1",
       "desc": "Death",
-      "dlg": "Krh… There are still—deeds undone…"
+      "dlg": "Krh... Lecz... Pozostały jeszcze- niewykonane czyny..."
     },
     {
       "id": "choice_success_p_10304_1",
