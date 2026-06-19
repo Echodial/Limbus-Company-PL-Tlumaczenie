@@ -56,7 +56,7 @@
     },
     {
       "id": 11,
-      "content": "Podczas gdy Gregor drapał się zakłopotany po głowie po jego słabo odebranym żarcie, w autobusie wybrzmiał dźwięk toważyszący jego zatrzymaniu(the bus made a languishing sound and came to a slow, deflating halt. Nie wiem jak to lepiej zrobić. To probably do poprawy)."
+      "content": "Podczas gdy Gregor drapał się zakłopotany po głowie po jego słabo odebranym żarcie, w autobusie wybrzmiał znajomy dźwięk toważyszący jego zatrzymaniu."
     },
     {
       "id": 12,
@@ -70,167 +70,167 @@
     },
     {
       "id": 14,
-      "content": "Ishmael zmarszczył brwi, jak gdyby w tym momencie przypomniała sobie coś nieprzyjemnego, ale nie powiedziała już nic więcej."
+      "content": "Ishmael zmarszczyła brwi, jak gdyby w tym momencie przypomniała sobie coś nieprzyjemnego, ale nie powiedziała już nic więcej."
     },
     {
       "id": 15,
-      "content": "Gregor wore a smile on his mouth, but his hardened eyes were resting downcast, just as a moment ago."
+      "content": "Choć Gregor przec cały czas utrzymywał uśmiech na twarzy, jego oczy przez krótką chwilę melancholijnie wpatrzyły się w posadzkę."
     },
     {
       "id": 16,
       "model": "홍루",
-      "content": "I wonder, where do people like them sleep at night?"
+      "content": "Zastanawiam się, gdzie ci ludzie wogóle śpią?"
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "For many, the sky is the roof over their head, and the stars are their firelight."
+      "content": "Dla wielu z nich, niebo jest ich dachem, a ziemia ich materacem."
     },
     {
       "id": 18,
       "model": "홍루",
-      "content": "Aha, so they’re the poetic sort!"
+      "content": "Aha, czyli są wrażliwi na piękno świata!"
     },
     {
       "id": 19,
       "model": "단테",
-      "content": "<I don’t think that’s what he meant…>"
+      "content": "<Raczej nie to miał na myśli…>"
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "And, unless my eyes deceive me, they’re intent on obstructing our journey."
+      "content": "Oraz, o ile mnię oczy nie mylą, uznali że stanie nam na drodze jest mądrym pomysłem."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Aren’t you going to get off, Gregor?"
+      "content": "Gregor, a ty nie wysiadasz?"
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Care to explain why you’re calling my name specifically?"
+      "content": "A czemu akurat mnię wywołujesz po imieniu?"
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "Who knows. I don’t feel like rambling about someone else’s past with my own tongue."
+      "content": "Kto wie. Raczej wolałbym nie paplać bez powodu o czyjejś przeszłości."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "Take the lead, Gregor. You know the reason."
+      "content": "Idź na front, Gregor. Dobrze wiesz, czemu musisz."
     },
     {
       "id": 25,
       "model": "그레고르",
-      "content": "…You’re one nasty fellow."
+      "content": "…Niezły z ciebię kawał drania."
     },
     {
       "id": 26,
-      "place": "Some Backstreets of District 4",
-      "content": "A group of soldiers with the heads of insects gathered near the bus."
+      "place": "Jakieś Slumsy w 4-tym Dystrykcie",
+      "content": "Grupka weteranów z głowami robaków zebrała się dookoła naszego autobusu."
     },
     {
       "id": 27,
       "model": "그레고르",
-      "content": "Bah… I’m not too fond of being in the vanguard."
+      "content": "Bah… Naprawde nie lubię stać na czelę."
     },
     {
       "id": 28,
       "model": "화난패잔병",
-      "teller": "Fiery Veteran",
+      "teller": "Nakręcony Weteran",
       "title": "???",
-      "content": "What are you? Why does your arm look like ours?"
+      "content": "Kto ty? I czemu twoje ramię wygląda jak nasze?"
     },
     {
       "id": 29,
       "model": "의아한패잔병",
-      "teller": "Puzzled Veteran",
+      "teller": "Zdziwiony Weteran",
       "title": "???",
-      "content": "Hold on… I’ve seen that face before."
+      "content": "Chwilunia… Gdzieś już kiedyś widziałem tą facjate."
     },
     {
       "id": 30,
       "model": "그레고르",
-      "content": "…Mostly on flyers and magazine covers, I’d bet."
+      "content": "…Zakładam, że na tabloidach i ulotkach."
     },
     {
       "id": 31,
       "model": "단테",
-      "content": "<Gregor? Do you know them from somewhere?>"
+      "content": "<Gregor? Znasz ich z kądś?>"
     },
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "…Not really important right now, Manager. Don’t think we have the time for reminiscing."
+      "content": "…Nie sądzie że to stoi teraz na szczycie naszej listy priorytetów, Kierowniku. Wygląda na to, że nie mamy czasu na wspominanie."
     },
     {
       "id": 33,
       "model": "화난패잔병",
-      "teller": "Fiery Veteran",
+      "teller": "Nakręcony Weteran",
       "title": "???",
-      "content": "That arm bothers me… But, whatever. Point is, I can’t let you through."
+      "content": "Nie podoba mi się to ramię… Ale mniejsza z tym. Ważne jest to, że nie możemy was przepuścić."
     },
     {
       "id": 34,
       "model": "단테",
-      "content": "<Is that so. I suppose we can’t talk this out…>"
+      "content": "<A więc tak się sprawy mają. Czyli raczej się nie dogadamy…>"
     },
     {
       "id": 35,
       "model": "로쟈",
-      "content": "Why are they showing their buggy sides out in the open, anyway?"
+      "content": "Po co oni wogóle paradują tak ze swoimi robaczymi kończynami?"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "They’d make kids cry. Really ought to take some concealing lessons from our Greg over here, right?"
+      "content": "Tylko straszy to dzieci. Mogliby się nauczyć się od ciebię troche subtelności, prawda Greg?"
     },
     {
       "id": 37,
       "model": "그레고르",
-      "content": "I’m a special case. The procedure makes those “buggy” parts grow on the head most of the time."
+      "content": "Ja jestem raczej wyjątkiem. Standardowa procedura sprawia, że te “robacze” części zwykle najpierw wyrastają na głowie."
     },
     {
       "id": 38,
       "model": "그레고르",
-      "content": "Although… I’m not sure if I’d consider myself lucky."
+      "content": "Choć nawet biorąc to pod uwagę… Nie sądze, że to z czym wylądowałem jest jakoś specjalnie lepsze."
     },
     {
       "id": 39,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Grade 8 Fixer",
-      "content": "It feels like they’re trying to stop us from getting to the branch facility for some reason."
+      "title": "Fachowiec Klasy 8",
+      "content": "Sprawiają wrażenie, jakby chcieli nas powstrzymać przed dotarciem do placówki."
     },
     {
       "id": 40,
       "model": "로쟈",
-      "content": "Are they after the Golden Bough too?"
+      "content": "Czy oni też szukają tam Złotej Gałęzi?"
     },
     {
       "id": 41,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "content": "Maybe so."
+      "teller": "Wergiliusz",
+      "content": "Nie wykluczone."
     },
     {
       "id": 42,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "content": "There ought to be many that are after the essence."
+      "teller": "Wergiliusz",
+      "content": "Wielu chce położyć łapy na ich esencji."
     },
     {
       "id": 43,
       "model": "베르길리우스2",
-      "teller": "Vergilius",
-      "content": "…And I’m sure each has their own wishes. Isn’t that true?"
+      "teller": "Wergiliusz",
+      "content": "…I jestem pewien, że każdy ma jakieś marzenia. Mam rację?"
     },
     {
       "id": 44,
       "model": "그레고르",
-      "content": "What’s that look for? I haven’t got a clue, either."
+      "content": "I po co się tak na mnię gapisz? Nie wiem o nich więcej, niż ty."
     }
   ]
 }
