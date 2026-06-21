@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10712_1",
             "desc": "Viewed in Battle",
-            "dlg": "Phoo... let me catch my breath."
+            "dlg": "Fiuu… Daj mi złapać oddech."
         },
         {
             "id": "battle_endcommand_10712_1",
             "desc": "Commencing Attack",
-            "dlg": "Kill 'em all!"
+            "dlg": "Zarżnąć ich wszystkich!"
         },
         {
             "id": "battle_enemy_break_10712_1",
             "desc": "Enemy Stagger",
-            "dlg": "This'll hurt like hell."
+            "dlg": "Zaboli jak diabli."
         },
         {
             "id": "battle_break_10712_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10712_1",
             "desc": "Enemy Killed",
-            "dlg": "Next! Chop-chop!"
+            "dlg": "Dawać! Kto następny!"
         },
         {
             "id": "battle_dead_10712_1",
             "desc": "Death",
-            "dlg": "I've cut though enough of 'em... I'll leave the rest to you..."
+            "dlg": "Większość z nich rozpłatałem… Resztę zostawiam tobie…"
         },
         {
             "id": "choice_success_p_10712_2",

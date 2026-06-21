@@ -53,17 +53,17 @@
     {
       "id": "battle_select_10701_1",
       "desc": "Viewed in Battle",
-      "dlg": "What? Why?"
+      "dlg": "Co? Czemu?"
     },
     {
       "id": "battle_endcommand_10701_1",
       "desc": "Commencing Attack",
-      "dlg": "Already there!"
+      "dlg": "Już tam lecę!"
     },
     {
       "id": "battle_enemy_break_10701_1",
       "desc": "Enemy Stagger",
-      "dlg": "Haha, how do ya like that?"
+      "dlg": "Haha, i jak się podoba?"
     },
     {
       "id": "battle_break_10701_1",
@@ -73,7 +73,7 @@
     {
       "id": "battle_kill_10701_1",
       "desc": "Enemy Killed",
-      "dlg": "Piss easy."
+      "dlg": "Łatwizna."
     },
     {
       "id": "battle_allydead_10701_1",

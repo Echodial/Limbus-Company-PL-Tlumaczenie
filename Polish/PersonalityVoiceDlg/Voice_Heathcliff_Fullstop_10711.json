@@ -68,32 +68,32 @@
         {
             "id": "battle_select_10711_1",
             "desc": "Viewed in Battle",
-            "dlg": "... Don't try to chat me up when I'm holding my breath, yeah?"
+            "dlg": "…Nie zagaduj mnie jak próbuje wstrzymać oddech, okej?"
         },
         {
             "id": "battle_endcommand_10711_1",
             "desc": "Commencing Attack",
-            "dlg": "Opening fire!"
+            "dlg": "Otwieram ogień!"
         },
         {
             "id": "battle_enemy_break_10711_1",
             "desc": "Enemy Stagger",
-            "dlg": "Nice, it's been a breeze so far...!"
+            "dlg": "Cudnie, wszystko idzie jak po maśle…!"
         },
         {
             "id": "battle_break_10711_1",
             "desc": "Staggered",
-            "dlg": "Ngh, dammit..."
+            "dlg": "Ah, cholera…"
         },
         {
             "id": "battle_kill_10711_1",
             "desc": "Enemy Killed",
-            "dlg": "Clean shot to the head. Bullseye."
+            "dlg": "Kropnięty prosto między oczy. Cel Zneutralizowany."
         },
         {
             "id": "battle_dead_10711_1",
             "desc": "Death",
-            "dlg": "You're shittin' me... I'm not finished yet..."
+            "dlg": "Chyba pierdolisz… Ja przecież jeszcze nie skończyłem…"
         },
         {
             "id": "choice_success_p_10711_2",

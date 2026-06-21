@@ -68,17 +68,17 @@
       {
         "id": "battle_select_10713_1",
         "desc": "Viewed in Battle",
-        "dlg": "Leave the cleanup to the newbies. I'm off to the Congested compartment."
+        "dlg": "Zostaw porządki świeżakom. Ja wybieram się do Zakrzepionego wagonu."
       },
       {
         "id": "battle_endcommand_10713_1",
         "desc": "Commencing Attack",
-        "dlg": "Confirming armour activation."
+        "dlg": "Aktywacja pancerza potwierdzona."
       },
       {
         "id": "battle_enemy_break_10713_1",
         "desc": "Enemy Stagger",
-        "dlg": "Now sit there nice and quiet..."
+        "dlg": "A teraz siedźcie tu i bądźcie grzeczni…"
       },
       {
         "id": "battle_break_10713_1",
@@ -88,12 +88,12 @@
       {
         "id": "battle_kill_10713_1",
         "desc": "Enemy Killed",
-        "dlg": "... Train's done operatin', that's what!"
+        "dlg": "…Ostatnia stacja, wysiadka!"
       },
       {
         "id": "battle_dead_10713_1",
         "desc": "Death",
-        "dlg": "... So this is the last stop."
+        "dlg": "…A więc tak wygląda… ostatnia stacja."
       },
       {
         "id": "choice_success_p_10713_2",

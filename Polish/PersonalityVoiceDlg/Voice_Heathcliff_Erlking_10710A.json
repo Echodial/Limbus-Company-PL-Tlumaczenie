@@ -68,52 +68,52 @@
         {
             "id": "battle_select_10710_1",
             "desc": "Viewed in Battle 1",
-            "dlg": "(Mad Laughter)"
+            "dlg": "<i>Heheheheahahahaha!</i>"
         },
         {
             "id": "battle_select_10710_2",
             "desc": "Viewed in Battle 2",
-            "dlg": "(Mad Laughter)"
+            "dlg": "<i>Hehheahahaahaha!!</i>"
         },
         {
             "id": "battle_select_10710_3",
-            "desc": "Viewed in Battle",
-            "dlg": "(Mad Laughter)"
+            "desc": "Viewed in Battle 3",
+            "dlg": "<i>Hehehahahahaha!!!</i>"
         },
         {
             "id": "battle_endcommand_10710_1",
             "desc": "Commencing Attack",
-            "dlg": "... Prepare for your execution...!"
+            "dlg": "… Przygotuj się na swą egzekucję…!"
         },
         {
             "id": "battle_enemy_break_10710_1",
             "desc": "Enemy Staggered",
-            "dlg": "In the tempest..."
+            "dlg": "Porwany przez tą nawałnicę…"
         },
         {
             "id": "battle_break_10710_1",
             "desc": "Staggered",
-            "dlg": "Again! Again and again, until the storm sleeps!"
+            "dlg": "Dalej! Tłucz i bij,\naż uśpisz tą niekończącą się burzę!"
         },
         {
             "id": "battle_kill_10710_1",
             "desc": "On Kill 1",
-            "dlg": "... You shall slumber in burial."
+            "dlg": "… Będziesz spać, oczekując swego pogrzebu."
         },
         {
             "id": "battle_kill_10710_2",
             "desc": "On Kill 2",
-            "dlg": "... You shall scream."
+            "dlg": "… Będziesz krzyczeć, choć nic to nie zmieni."
         },
         {
             "id": "battle_kill_10710_3",
             "desc": "On Kill 3",
-            "dlg": "... You shall be torn apart."
+            "dlg": "… Zostawniesz rozerwany na strzępy, które wiatr wywieje daleko stąd."
         },
         {
             "id": "battle_dead_10710_1",
             "desc": "Death",
-            "dlg": "Even in death... I... shall..."
+            "dlg": "Nawet po śmierci… Ja… ciągle będe…"
         },
         {
             "id": "choice_success_p_10710_2",

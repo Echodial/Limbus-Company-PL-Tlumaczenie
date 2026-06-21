@@ -68,32 +68,32 @@
         {
             "id": "battle_select_10705_1",
             "desc": "Viewed in Battle",
-            "dlg": "...What?"
+            "dlg": "…Co chcesz?"
         },
         {
             "id": "battle_endcommand_10705_1",
             "desc": "Commencing Attack",
-            "dlg": "I'll beat you to a pulp."
+            "dlg": "Ubije was na miazgę."
         },
         {
             "id": "battle_enemy_break_10705_1",
             "desc": "Enemy Stagger",
-            "dlg": "Haha, look at 'em slip."
+            "dlg": "Haha, nieźle się wyjebali."
         },
         {
             "id": "battle_break_10705_1",
             "desc": "Staggered",
-            "dlg": "Dammit!"
+            "dlg": "Cholera!"
         },
         {
             "id": "battle_kill_10705_1",
             "desc": "Enemy Killed",
-            "dlg": "All messed up, eh."
+            "dlg": "Z ciebie już nic nie będzie."
         },
         {
             "id": "battle_dead_10705_1",
             "desc": "Death",
-            "dlg": "Not yet... I've still got things to do..."
+            "dlg": "Jeszcze nie… Mam jeszcze niezałatwione sprawy…"
         },
         {
             "id": "choice_success_p_10705_2",

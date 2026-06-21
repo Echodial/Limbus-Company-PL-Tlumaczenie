@@ -68,17 +68,17 @@
     {
       "id": "battle_select_10703_1",
       "desc": "Viewed in Battle",
-      "dlg": "Got some sort of bombastic plan?"
+      "dlg": "Masz znowu jakiś wariacki plan? Wchodze w to?"
     },
     {
       "id": "battle_endcommand_10703_1",
       "desc": "Commencing Attack",
-      "dlg": "Hop on!"
+      "dlg": "Kicnąć ich!"
     },
     {
       "id": "battle_enemy_break_10703_1",
       "desc": "Enemy Stagger",
-      "dlg": "Go on and get wild for me!"
+      "dlg": "W dziczy już by było po tobie!"
     },
     {
       "id": "battle_break_10703_1",
@@ -88,7 +88,7 @@
     {
       "id": "battle_kill_10703_1",
       "desc": "Enemy Killed",
-      "dlg": "Huff, that feels good to chew."
+      "dlg": "Haah, i to jest dobra pasza."
     },
     {
       "id": "battle_allydead_10703_1",

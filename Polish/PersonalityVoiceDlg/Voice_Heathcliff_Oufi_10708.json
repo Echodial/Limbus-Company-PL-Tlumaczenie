@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10708_1",
             "desc": "Viewed in Battle",
-            "dlg": "An unauthorized involvement of a third party is also prohibited."
+            "dlg": "Nieautoryzowane wmieszanie się osób trzecich jest zakazane."
         },
         {
             "id": "battle_endcommand_10708_1",
             "desc": "Commencing Attack",
-            "dlg": "I told you to watch yourself!"
+            "dlg": "Mówiłem, żebyś uważał!"
         },
         {
             "id": "battle_enemy_break_10708_1",
             "desc": "Enemy Stagger",
-            "dlg": "You better start listening now."
+            "dlg": "Jak teraz nie zaczniesz mnie słuchać…"
         },
         {
             "id": "battle_break_10708_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10708_1",
             "desc": "Enemy Killed",
-            "dlg": "Now that's one less obstacle in our way."
+            "dlg": "Jedna przeszkoda usunięta."
         },
         {
             "id": "battle_dead_10708_1",
             "desc": "Death",
-            "dlg": "You can kill me... but the Öufi will ensure that... the contract is executed to its full extent.."
+            "dlg": "Może i udało ci się mnie zabić… ale Öufi upewni się… że kontrakt zostanie wykonany do samego końca…"
         },
         {
             "id": "choice_success_p_10708_2",

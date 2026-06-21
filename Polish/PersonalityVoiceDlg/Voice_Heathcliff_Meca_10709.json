@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10709_1",
             "desc": "Viewed in Battle",
-            "dlg": "Come on, out with it."
+            "dlg": "No dalej, wypluj to."
         },
         {
             "id": "battle_endcommand_10709_1",
             "desc": "Commencing Attack",
-            "dlg": "Outta my way! Let me at 'em first!"
+            "dlg": "Z drogi! Chcę walczyć na przedzie!"
         },
         {
             "id": "battle_enemy_break_10709_1",
             "desc": "Enemy Stagger",
-            "dlg": "Now sit tight, you..."
+            "dlg": "Nie ruszaj się, ty…"
         },
         {
             "id": "battle_break_10709_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10709_1",
             "desc": "Enemy Killed",
-            "dlg": "Oi, you dead already?"
+            "dlg": "Ej, ty już nie żyjesz?"
         },
         {
             "id": "battle_dead_10709_1",
             "desc": "Death",
-            "dlg": "Huh, didn't think this would kill me..."
+            "dlg": "Huh, nie myślałem że to mnie zabije…"
         },
         {
             "id": "choice_success_p_10709_2",

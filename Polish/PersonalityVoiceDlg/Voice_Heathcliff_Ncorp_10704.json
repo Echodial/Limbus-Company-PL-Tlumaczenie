@@ -68,32 +68,32 @@
         {
             "id": "battle_select_10704_1",
             "desc": "Viewed in Battle",
-            "dlg": "What is it now…"
+            "dlg": "Co teraz…"
         },
         {
             "id": "battle_endcommand_10704_1",
             "desc": "Commencing Attack",
-            "dlg": "“Puri…fy.” Was that how it goes?"
+            "dlg": "O…czyścić.” Tak to szło?"
         },
         {
             "id": "battle_enemy_break_10704_1",
             "desc": "Enemy Stagger",
-            "dlg": "Eliminate the heretic…"
+            "dlg": "Wyeliminować heretyka…"
         },
         {
             "id": "battle_break_10704_1",
             "desc": "Staggered",
-            "dlg": "…Gah! Where am…"
+            "dlg": "…Ah! Gdzie ja do cholery…"
         },
         {
             "id": "battle_kill_10704_1",
             "desc": "Enemy Killed",
-            "dlg": "…Another one goes."
+            "dlg": "…Kolejny leży."
         },
         {
             "id": "battle_dead_10704_1",
             "desc": "Death",
-            "dlg": "Dammit… Catherine…"
+            "dlg": "A niech to… Cathy…"
         },
         {
             "id": "choice_success_p_10704_2",

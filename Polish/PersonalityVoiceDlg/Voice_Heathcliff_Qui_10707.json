@@ -68,17 +68,17 @@
         {
             "id": "battle_select_10707_1",
             "desc": "Viewed in Battle",
-            "dlg": "Want me to tie knot again? Desperate's Knot?"
+            "dlg": "Chcesz żebym związał znowu węzeł? Węzeł Desperata?"
         },
         {
             "id": "battle_endcommand_10707_1",
             "desc": "Commencing Attack",
-            "dlg": "Stab deep."
+            "dlg": "Dźgaj głęboko."
         },
         {
             "id": "battle_enemy_break_10707_1",
             "desc": "Enemy Stagger",
-            "dlg": "That one. Slowed. Easy target."
+            "dlg": "Ten tu. Powolny. Łatwy cel."
         },
         {
             "id": "battle_break_10707_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10707_1",
             "desc": "Enemy Killed",
-            "dlg": "End of voyage. Nearing."
+            "dlg": "Koniec rejsu. Blisko."
         },
         {
             "id": "battle_dead_10707_1",
             "desc": "Death",
-            "dlg": "Miss the sunset... the shimmering... sky..."
+            "dlg": "Brakuje mi wschodu słońca… i błyszczącego… nieba…"
         },
         {
             "id": "choice_success_p_10707_2",

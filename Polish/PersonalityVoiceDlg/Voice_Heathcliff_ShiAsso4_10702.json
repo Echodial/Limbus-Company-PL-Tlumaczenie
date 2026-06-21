@@ -68,17 +68,17 @@
     {
       "id": "battle_select_10702_1",
       "desc": "Viewed in Battle",
-      "dlg": "Alright, who do you want me to scrap?"
+      "dlg": "Dobra, kogo mam zgnieść?"
     },
     {
       "id": "battle_endcommand_10702_1",
       "desc": "Commencing Attack",
-      "dlg": "Aye, I’ll go cut ‘em!"
+      "dlg": "Robi się, jeden wróg, pocięty na kawałki!"
     },
     {
       "id": "battle_enemy_break_10702_1",
       "desc": "Enemy Stagger",
-      "dlg": "How’s that? Hurts to death, don’t it?"
+      "dlg": "I jak? Boli jak diabli, co nie?"
     },
     {
       "id": "battle_break_10702_1",
@@ -88,7 +88,7 @@
     {
       "id": "battle_kill_10702_1",
       "desc": "Enemy Killed",
-      "dlg": "Target wiped~"
+      "dlg": "Cel zmieciony~"
     },
     {
       "id": "battle_allydead_10702_1",
