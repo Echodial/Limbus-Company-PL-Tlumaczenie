@@ -2043,7 +2043,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Naprzeciw Derwisza",
+          "name": "Rozpalony Taniec Zemsty",
           "desc": "[StartBattle] Ta Zdolność zyskuje Poziom Ataku równy (najwyżsemu Rezonansowi/2) (maks 3; zaokrąglone w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -2069,7 +2069,7 @@
         },
         {
           "level": 2,
-          "name": "Naprzeciw Derwisza",
+          "name": "Rozpalony Taniec Zemsty",
           "desc": "<style=\"highlight\">Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet</style>\n[StartBattle] Ta Zdolność zyskuje Poziom Ataku równy (najwyżsemu Rezonansowi / 2) (maks 3; zaokrąglone w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka ma [HeatingWireIshmael], przy trafieniu 1 i 2 Monetą, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność</style>",
           "coinlist": [
             {
@@ -2097,7 +2097,7 @@
         },
         {
           "level": 4,
-          "name": "Naprzeciw Derwisza",
+          "name": "Rozpalony Taniec Zemsty",
           "desc": "Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet\n[StartBattle] Ta Zdolność zyskuje Poziom Ataku równy (najwyżsemu Rezonansowi / 2) (maks 3; zaokrąglone w dół)\n<style=\"highlight\">- Jeśli w łańcuchu Rezonansu znajdował się A-Rezon., podwój Poziomy Ataku zdobywane przez powyższy efekt</style>\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[WhenUse] Jeśli ta jednostka ma [HeatingWireIshmael], przy trafieniu 1 i 2 Monetą, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność",
           "coinlist": [
             {
