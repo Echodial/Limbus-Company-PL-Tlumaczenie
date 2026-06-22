@@ -4,16 +4,22 @@
       "id": 0,
       "place": "Na pokładzie Mefistofolesa",
       "model": "카론",
+      "teller": "Charon",
+      "title": "Kierowca Autobusa"
       "content": "Droga Wolna. Ale Werg, Mefi mógł ich po prostu przejechać."
     },
     {
       "id": 1,
       "model": "단테",
+      "teller": "Dante",
+      "title": "Kierownik",
       "content": "<…Hę?>"
     },
     {
       "id": 2,
       "model": "단테",
+      "teller": "Dante",
+      "title": "Kierownik",
       "content": "<To po jakiego grzyba my z nimi walczyliśmy?>"
     },
     {
@@ -23,106 +29,148 @@
     {
       "id": 4,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Uspokój się, Dante."
     },
     {
       "id": 5,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Nie możemy kazać raczkującemu dziecku zacząć biegać."
     },
     {
       "id": 6,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Będziesz mieć sporo czasu, aby nauczyć się chodzić zanim każemy ci to robić."
     },
     {
       "id": 7,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "No i do tego, Dante..."
     },
     {
       "id": 8,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Jako kierownik… musisz nauczyć się “kierować” swoim personelem."
     },
     {
       "id": 9,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "A ja… jako przewodnik, decyduje o naszym celu i jak się do niego dostaniemy."
     },
     {
       "id": 10,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Rozumiesz?"
     },
     {
       "id": 11,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Nie kłóć się ze mną."
     },
     {
       "id": 12,
       "model": "단테",
+      "teller": "Dante",
+      "title": "Kierownik",
       "content": "<…Jak mam nie kwestionować decyzji osoby, której ja nie znam a ona mnie nie rozumie?>"
     },
     {
       "id": 13,
       "model": "파우스트",
+      "teller": "Faust",
+      "title": "Grzesznik #2",
       "content": "……"
     },
     {
       "id": 14,
       "model": "베르길리우스",
-      "content": "Słyszałem tylko tykanie. Pani Faust, co próbowali powiedzieć?"
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
+      "content": "Słyszałem tylko tykanie. Pani Faust, co próbowało powiedzieć?"
     },
     {
       "id": 15,
       "model": "파우스트",
+      "teller": "Faust",
+      "title": "Grzesznik #2",
       "content": "Nic istotnego."
     },
     {
       "id": 16,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Bardzo rozwlekła zgoda. Następnym razem wystarczy zakiwać głową, Dante."
     },
     {
       "id": 17,
       "model": "카론",
+      "teller": "Charon",
+      "title": "Kierowca Autobusa"
       "content": "No to Mefi, gaz do dechy. Juhu."
     },
     {
       "id": 18,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Jak się czujesz, Charon?"
     },
     {
       "id": 19,
       "model": "카론",
+      "teller": "Charon",
+      "title": "Kierowca Autobusa"
       "content": "Ekstremalna. Ekscytacja. Chyba zaczne chodzić po ścianach, zgłasza Charon."
     },
     {
       "id": 20,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "…Dobrze."
     },
     {
       "id": 21,
       "model": "단테",
+      "teller": "Dante",
+      "title": "Kierownik",
       "content": "<No, to gdzie jedziemy?>"
     },
     {
       "id": 22,
       "model": "파우스트",
+      "teller": "Faust",
+      "title": "Grzesznik #2",
       "content": "Wergiliuszu, Dante pyta się o cel naszej podróży."
     },
     {
       "id": 23,
       "model": "베르길리우스",
+      "teller": "Wergiliusz",
+      "title": "Przewodnik",
       "content": "Ehh… Wydaje mi się, że już im to powiedziałem."
     },
     {
       "id": 24,
       "model": "단테",
+      "teller": "Dante",
+      "title": "Kierownik",
       "content": "<Ale gdzie *dokładnie* jedziemy?>"
     },
     {
