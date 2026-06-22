@@ -14,7 +14,7 @@
     {
       "id": 2,
       "model": "단테",
-      "content": "<To po co my z nimi walczyliśmy?>"
+      "content": "<To po jakiego grzyba co my z nimi walczyliśmy?>"
     },
     {
       "id": 3,
@@ -28,17 +28,17 @@
     {
       "id": 5,
       "model": "베르길리우스",
-      "content": "Nie mamy racji kazać raczkującemu dziecku biegać."
+      "content": "Nie możemy kazać raczkującemu dziecku zacząć biegać."
     },
     {
       "id": 6,
       "model": "베르길리우스",
-      "content": "Będziesz mieć sporo czasu żeby nauczyć się chodzić zanim każemy ci to robić."
+      "content": "Będziesz mieć sporo czasu, aby nauczyć się chodzić zanim każemy ci to robić."
     },
     {
       "id": 7,
       "model": "베르길리우스",
-      "content": "No i do tego..."
+      "content": "No i do tego, Dante..."
     },
     {
       "id": 8,
@@ -63,7 +63,7 @@
     {
       "id": 12,
       "model": "단테",
-      "content": "<…Jak mam nie kwestionować decyzji kogoś kogo ja nie znam, a on mnie nie rozumie?>"
+      "content": "<…Jak mam nie kwestionować decyzji osoby, której ja nie znam a ona mnie nie rozumie?>"
     },
     {
       "id": 13,
@@ -78,7 +78,7 @@
     {
       "id": 15,
       "model": "파우스트",
-      "content": "Nic ważnego."
+      "content": "Nic istotnego."
     },
     {
       "id": 16,
@@ -113,12 +113,12 @@
     {
       "id": 22,
       "model": "파우스트",
-      "content": "Wergiliusz, Dante pyta się o cel naszej podróży."
+      "content": "Wergiliuszu, Dante pyta się o cel naszej podróży."
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "Ehh… Wydaje mi się że już im to powiedziałem."
+      "content": "Ehh… Wydaje mi się, że już im to powiedziałem."
     },
     {
       "id": 24,
@@ -127,7 +127,7 @@
     },
     {
       "id": 25,
-      "content": "Z jego wzdechem, autobus zatrząsł się i zaczął jechać do przodu."
+      "content": "Wraz z jego wzdechem, autobus zatrząsł się i zaczął hałaśliwie jechać na przód."
     },
     {
       "id": 26
