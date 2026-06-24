@@ -1156,7 +1156,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
@@ -1183,7 +1183,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
@@ -1210,7 +1210,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
@@ -1236,7 +1236,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
@@ -1249,7 +1249,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
@@ -1276,7 +1276,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
@@ -1289,7 +1289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
@@ -1319,7 +1319,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
@@ -1332,7 +1332,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
@@ -1360,7 +1360,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
@@ -1373,7 +1373,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
@@ -1386,7 +1386,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "Jeśli ta jednostka zużyła [BulletPropellantAlly] przez efekt tej Monety, zadaj +20% obrażeń<style=\"highlight\"></style>"
@@ -1409,7 +1409,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
@@ -1422,7 +1422,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+3</style> Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
@@ -1435,7 +1435,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Zużyj 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Wystrzel 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "Jeśli ta jednostka zużyła [BulletPropellantAlly] przez efekt tej Monety, zadaj <style=\"highlight\">+50%</style> obrażeń"
@@ -2381,6 +2381,295 @@
           "desc": "[StartBattle] [MeursaultSporeBulletReloading] (raz na turę)\n<style=\"highlight\">[WhenUseEvade] +1 Mocy Monet za każde 6 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na agresorze (maks 3)</style>\n[OnSucceedEvade] Ulecz 10 HP (raz na turę)\n<style=\"highlight\">- jeśli ta jednostka ma [MeursaultWorkerBee], ulecz dodatkowe 5 HP za każdą Wartość</style>",
           "coinlist": [
             {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rough Portrayal",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Rough Portrayal",
+          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rough Portrayal",
+          "desc": "<style=\"highlight\">Deal +5% damage for every type of negative effect on target (max 15%)</style>\n[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +1 [Sinking] Count</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Visceral Strokes",
+          "desc": "[WhenUse] If target does not have [BearClawWoundAlly], Clash Power +1<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Visceral Strokes",
+          "desc": "[WhenUse] If target does not have [BearClawWoundAlly], Clash Power +1\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Visceral Strokes",
+          "desc": "<style=\"highlight\">Deal +5% damage for every type of negative effect on target (max 20%)</style>\n[WhenUse] If target does not have [BearClawWoundAlly], Clash Power +1\n[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Fauvisme - Reveal Submission",
+          "desc": "Deal +10% damage for every type of negative effect on target (max 60%)\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Fauvisme - Reveal Submission",
+          "desc": "Deal +10% damage for every type of negative effect on target (max 60%)\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 ([Laceration] + [Sinking]) on target (max 4)</style>\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s\n<style=\"highlight\">- On Hit with the additional Coin: Randomly inflict (Mauled Color on target / 3) [Laceration] or [Sinking] Potency (max 3 each; rounded down)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [BearClawWoundAlly]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coloring Preparations",
+          "desc": "[DuelCounter]\nIf this unit has [FaubismMaskMeursault], Base Power +2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coloring Preparations",
+          "desc": "[DuelCounter]\nIf this unit has [FaubismMaskMeursault], Base Power +2\n<style=\"highlight\">[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
           ]
         }
       ]
