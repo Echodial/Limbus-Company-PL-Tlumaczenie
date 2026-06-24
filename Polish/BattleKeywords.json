@@ -1383,7 +1383,7 @@
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "SwoMiecz Ojczyzny - Rozdzierający",
+      "name": "Miecz Ojczyzny - Rozdzierający",
       "desc": " 1 Zdolność zyskuje Ostateczeną Moc równą Wartości na jedną turę.",
       "summary": "Ostateczna Moc 1 Zdolności +{0}"
     },
@@ -3227,6 +3227,93 @@
       "summary": "",
       "undefined": "-",
       "flavor": ""
+    },
+    {
+      "id": "ScratchesHurtID",
+      "name": "Zwichnięcie Stawu",
+      "desc": "- Maks Wartość: 3\n- Początek Tury: Zyskaj 2 Krwawienia\n- Koniec Tury: Zyskaj 1 Spętanie na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "TiedRopeHonglu",
+      "name": "Związanie [Hong Lu]",
+      "desc": "- Bazowa Wartość: 3\n- -2 Min & Maks Prędkości\n- +10% otrzymywanych obrażeń od Pychy\n- Wygasa, kiedy jednostka, która nałożyła ten efekt wycofa się, zginie, lub nałoży ten efekt na inny cel. Efekt zostanie zastąpiony, jeśli zwiąże ją inna jednostka\n- Koniec Tury: Wartość spada o 1 jeśli jednostka, która nałożyła ten efekt nie trafiła podczas tej tury związanej przez nią jednostki",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "TiedWithRopeID",
+      "name": "Transport Więźnia",
+      "desc": "- Bazowa Wartość: 1\n- Związany cel: {0}\n- Ścierając się z jednostką Związaną przez Hong Lu, +1 Mocy Starcia\n- Trafiając przeciwników związanych przez Hong Lu, nakładaj 1 Krwawienie i zyskuj 2 Tchnienia (2 Zdolności na turę)\n- Wygasa, jeśli nie ma Związanych celów",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "AengduNewArmIshmael",
+      "name": "Ręce Dokkaebi",
+      "desc": "- -15% otrzymywanych obrażeń\n- Używając Zdolności, Zyskaj 1 Pośpiech na początku następnej tury (2 razy na turę)\n- Koniec Walki: Ten efekt wygasa, po czym Przyznaje +2 Ilości Tchnienia",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BladelineagePride",
+      "name": "Postawa Salsu",
+      "desc": "- Maks Wartość: 3\n- Zyskaj Poziom Ataku za każdą Wartość\n- Trafiając Zdolnościami Cięcia, Zyskaj 1 Tchnienia (2 razy na turę) \n- Wartość spada o 1 kiedy sojusznik z Rodowodu Ostrza zostanie pokonany",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WindBladeIshmael",
+      "name": "Warsztat Mook - Ye [銳] Dobycie Ostrza - Typ II / Siła Ciągu: Płomień Dokkaebi",
+      "desc": "- Maks Wartość: 20\n- W jednej turze można zyskać maks 10 Wartości\n- Bazowe Zdolności Cięcia zadają +1% obrażeń za każdą Wartość (Maks 10%)\n- Zdolności Obronne tracą 1 Moc Starcia za każde 2 Wartości (Maks 5)\n- Koniec Tury: Zyskaj 1 Pośpiechu na początku następnej tury za każde 5 Wartości (Maks 3)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlcoholKimPersonal",
+      "name": "Toast Za Poległych",
+      "desc": "- Maks Wartość: 4\n- Początek Tury: Zyskaj 1 Tchnienie za każdą Wartość\n· Mentor Rodowodu Ostrza Meursault zyskuje zamiast tego 2 Tchnienia za każdą Wartość\n- Bazowe Zdolności zadają +(Tchnienie na sobie x 1.5)% obrażeń przy Trafieniu Krytycznym (Maks 15%)\n- Bazowe Zdolności które zyskują Tchnienie i Ilość Tchnienia zyskują +1 Mocy Starcia\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GrudgePersonal",
+      "name": "Wzbierające Rozgoryczenie",
+      "desc": "- Maks Wartość: 999\n- Zdolność \"Wygrać Wojnę\" zyskuje (Wartość / 100) Ostatecznej Mocy (Maks 6; zaokrąglone w dół)\n- Trafiając ostatnią Monetą \"Przegrać Bitwę\" lub \"Wygrać Wojnę\", zadaj +(Wartość / 10)% obrażeń; po tym, ten efekt wygasa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GhostKimPersonal",
+      "name": "Gorycz",
+      "desc": "- +2 Min & Maks Prędkości \n- Przy Trafieniu, ulecz PŻ równe 10% obrażeń zadanych Zdolnością (maks 50% Maks PŻ tej jednostki na Zdolność)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RootSoupKimPersonal",
+      "name": "Miecz Pełen Goryczy",
+      "desc": "- Kiedy sojusznik lub ta jednostka otrzyma obrażenia PŻ, zyskaj Wzbierające Rozgoryczenie równe otrzymanym obrażeniom\n- Zd. Pasywna 'Ku Pamięci Poległych' ignoruje swoje warunki i akywuje się z pełną mocą\n- Aktywując Rezon. Pychy, przyznaj wszystkim sojusznikom poza tą jednostką Miecz Ojczyzny - Kwintesencja\n\n- Używając \"Przegrać Bitwę\", do Końca Zdolności:\n· PŻ tej jednostki nie spadają poniżej 10 (raz na turę)\n· Strać (Tchnienie na sobie / 2) Mocy Starcia (zaokrąglone w dół)\n- Używając \"Wygrać Wojnę\", Zyskaj 4 Tchnienia.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RootSoupKimSatgat",
+      "name": "Miecz Ojczyzny - Kwintesencja",
+      "desc": "- Bazowe Zdolności Ofensywne zyskują +(# sojuszników z Rodowodu Ostrza / 3) Ostatecznej Mocy (Maks 2, zaokrąglone w dół)\n- Jeśli ta jednostka jest Salsu Rodowodu Ostrza, Bazowe Zdolności zyskują +1 Ostatecznej Mocy i zadają +(120 / # Monet)% obrażeń\n- Koniec Tury: Ten efekt wygasa i przyznaje 1 Pośpiech na początku następnej tury",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BongukGiftEnhance",
+      "name": "Miecz Ojczyzny - Uderzający",
+      "desc": "- Maks Wartość: 1\n- +1 Mocy Dodatnich Monet, +15% obrażeń zadanych przy Trafieniu Krytycznym\n- Wygasa na Końcu Tury",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }
