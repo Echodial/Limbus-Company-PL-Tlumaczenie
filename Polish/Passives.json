@@ -1154,7 +1154,7 @@
     {
       "id": 1050802,
       "name": "Ku Pamięci Poległych",
-      "desc": "Kiedy 3 lub więcej innych sojuszników z Rodowodu Ostrza zostanie pokonanych:\n- Zyskująć Siłę/Ilość [Breath] przez efekty własnych Zdolności lub Monet: zyskaj 1 więcej każdego z nich\n- Kiedy 5 lub więcej innych sojuszników z Rodowodu Ostrza zostanie pokonanych, zamiast tego zyskaj 2 więcej każdego z nich\n- Początek Walki: Przyznaj [SwordPlayOfTheMemorial] na sobie"
+      "desc": "Kiedy 3 lub więcej innych sojuszników z Rodowodu Ostrza zostanie pokonanych:\n- Zyskując Siłę/Ilość [Breath] przez efekty własnych Zdolności lub Monet: zyskaj 1 więcej każdego z nich\n- Kiedy 5 lub więcej innych sojuszników z Rodowodu Ostrza zostanie pokonanych, zamiast tego zyskaj 2 więcej każdego z nich\n- Początek Walki: Przyznaj [SwordPlayOfTheMemorial] na sobie"
     },
     {
       "id": 1090801,
@@ -2307,7 +2307,7 @@
     {
       "id": 1061302,
       "name": "Władca Wszystkich Heishou",
-      "desc": "Kiedy inni sojusznicy Wkraczają lub Wracają do Walki, zyskują 10 SP, po czym na Początku Walki rozkaż jej użyć swojej 1 Zdolności jako Bezpośredi Atak wyprowadzony na losowy cel\n- Jeśli wspomniany Sojusznik należy do Stada Heishou lub Rodziny Jia, aktywuj dane efekty zamiast tego: ulecz 20 SP, po czym; na Początku Walki rozkaż im użyć swojej bazowej 3 Zdolności jako Bezpośredi Atak wyprowadzony na losowy cel (2 razy na Potyczkę na jednostkę)\n\nPoczątek Potyczki: zyskaj 1 [HeishouSynergy] za każdą jednostkę ze Stada Heishou w Zespole, licząc Jednostki Rezerwowe\n\nKiedy jednostki ze Stada Heishou zostają zabite w Potyczce, ulecz 20 SP i zyskaj 1 [HeishouDeathCount] (aktywuje się nawet jeśli ta jednostk się wycofała)\n\nZadawaj +5% obrażeń za każde 1 [HeishouComboCountHonglu] (maks 55%)",
+      "desc": "Kiedy inni sojusznicy Wkraczają lub Wracają do Walki, zyskują 10 SP, po czym na Początku Walki rozkaż jej użyć swojej 1 Zdolności jako Bezpośredi Atak wyprowadzony na losowy cel\n- Jeśli wspomniany sojusznik jest należy do Stada Heishou lub Rodziny Jia, aktywuj dane efekty zamiast tego: ulecz 20 SP, po czym na Początku Walki rozkaż jej użyć swojej bazowej 3 Zdolności jako Bezpośredi Atak wyprowadzony na losowy cel (2 razy na Potyczkę na jednostkę)\n\nPoczątek Potyczki: zyskaj 1 [HeishouSynergy] za każdą jednostkę ze Stada Heishou w Zespole, licząc Jednostki Rezerwowe\n\nKiedy jednostki ze Stada Heishou zostają zabite w Potyczce, ulecz 20 SP i zyskaj 1 [HeishouDeathCount] (aktywuje się nawet jeśli ta jednostk się wycofała)\n\nZadawaj +5% obrażeń za każde 1 [HeishouComboCountHonglu] (maks 55%)",
       "summary": "Zadawaj więcej obrażeń zależnie od [HeishouComboCountHonglu]"
     },
     {
@@ -2762,6 +2762,325 @@
       "name": "Łaska Boga",
       "desc": "+5% obrażeń zadanych pierwszymi użytymi podczas tury przez dowolnego sojusznika Zdolnościami Cięcia, Dźgania, i Uderzenia (jeden raz na przestrzeni wszystkich sojuszników)\n- Jednostki Wskazu zamiast tego zadają +10% obrażeń\n- Przyznanie tego efektu jest określone przed atakiem",
       "summary": "Deal more damage with Slash, Pierce, i Blunt Skills used for the first time this turn"
+    },
+    {
+      "id": 1051401,
+      "name": "Roznoszenie Zarodników",
+      "desc": "Zabijając cel z <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodnikami</link></u></color>, podwój w następnej turze liczbę nakładanych <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color>"
+    },
+    {
+      "id": 1051411,
+      "name": "Roznoszenie Zarodników",
+      "desc": "Zabijając cel z <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodnikami</link></u></color>, zyskaj dane efekty:\n- podwój w następnej turze liczbę nakładanych <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodników</link></u></color>\n<style=\"highlight\">- Zabijając cel Bazową Zdolnością Ofenstwną, odzyskaj połowę amunicji wystrzelonej przez tą Zdolność (zaokrąglone w górę; raz na Zdolność)</style>"
+    },
+    {
+      "id": 1051402,
+      "name": "Dostosowanie E.G.O / Nabój Zarodnika",
+      "desc": "Zawsze Aktywne: Rozpocznij Potyczkę mając 10 <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboi Zarodnika [CRIMSON]Bazowych[SCARLET]</link></u></color> i 6 <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboi Zarodnika [CRIMSON]Śrut[SCARLET]</link></u></color>\n\nTrafiając Monetami, które wystrzeliwują amunicję:\n- Jeśli został wystrzelony [MeursaultSporeBulletLong], nałóż 2 [MeursaultBeeSpore]\n- Jeśli został wystrzelony [MeursaultSporeBulletShort], nałóż 3 [MeursaultBeeSpore]\n- Ten efekt liczy się jako \"Nakładanie Zdolnością negatywnego efektu\"\n\nPrzed użyciem Monety, która wystrzeliwuje [MeursaultSporeBulletShort], jeśli ta jednostka nie ma tej amunicji, zużywa 2 SP i 2 <sprite name=\"MeursaultSporeBulletLong\"><color=#9f6a3a><u><link=\"MeursaultSporeBulletLong\">Naboje Zarodnika [CRIMSON]Bazowych[SCARLET]</link></u></color> by zyskać 1 [MeursaultSporeBulletShort]\n\nJeśli tej jednostce skończy się amunicja w trakcie używania Zdolności, anuluj wszystkie kolejne Monety i [MeursaultSporeBulletReloading]\n\nGdy cele z <sprite name=\"MeursaultBeeSpore\"><color=#e30000><u><link=\"MeursaultBeeSpore\">Zarodnikami</link></u></color> zostają pokonane, zyskaj 1 [MeursaultWorkerBee]",
+      "flavor": "\"Badania Zespołu Badawczego—to jest nas—wykazały, że nawet sprzęt powstały ze stabilbilnych i ostrożnych ekstrakcji może przechodzić małe mutacje zależnie od użytkownika.\nNie, nie określiłbym tego jako niekompletność. Te zmiany mogą być procesem, w którym sprzęt osiąga realizację, jak prawdziwe E.G.O.\nNa razie nazywamy ten proces \"Dostosowaniem\".\""
+    },
+    {
+      "id": 1051421,
+      "name": "Pracowita Pszczółka",
+      "desc": "Nałóż dane efekty podczas tej tury (2 razy na Potyczkę)\n- Koniec ataku sojusznika używającego Bazowej Zdolności Ofensywnej od Dźgania: Sojusznik leczy PŻ równe 10% obrażeń PŻ zadanych przez tą Zdolność\n- Jeśli wszystkie Bazowe Zdolności użyte przez wszystkich sojuszników w tej turze były Dźgające, wszyscy sojusznicy leczą się o 10 SP na Końcu Tury"
+    },
+    {
+      "id": 1041401,
+      "name": "Unwithering Flower",
+      "desc": "Gain 1 [AlriuneEGOWe] if the enemy takes [Sinking] damage\nGain [AlriuneEGOWe] equal to [AlriuneEGOThey] inflicted every time enemies gain [AlriuneEGOThey]\nGain 2 [AlriuneEGOWe] every time Tremor Burst is triggered regardless of the unit",
+      "summary": "Gain [AlriuneEGOWe]"
+    },
+    {
+      "id": 1041402,
+      "name": "A Void that Cannot be Filled",
+      "desc": "Always Active: Begin Encounters with 6 [BulletGodok]\n\nAt 1+ [BulletGodok], if the enemy has less than -40 SP or is Staggered at this unit or an ally's Attack End, use 'Bang. Bang.' as an Unopposed Attack (once per turn)\n\nAttack End: At 0 [BulletGodok], use 'Stories that Never Cease' as an Unopposed Attack against the target i consume 10 SP to [FullReload]",
+      "summary": "Trigger 'Skill 1-1' i [FullReload]"
+    },
+    {
+      "id": 1041411,
+      "name": "Unwithering Flower",
+      "desc": "Gain 1 [AlriuneEGOWe] if the enemy takes [Sinking] damage\nGain [AlriuneEGOWe] equal to [AlriuneEGOThey] inflicted every time enemies gain [AlriuneEGOThey]\nGain 2 [AlriuneEGOWe] every time Tremor Burst is triggered regardless of the unit\n\nAttack Skill End: At 30+ [AlriuneEGOWe], use 'Magnificent End' against the target that has the highest [AlriuneEGOThey] Stack\n\nDeal +([AlriuneEGOThey] on the target)% damage against Staggered targets\n\nIf this unit lost 10%+ HP this turn, heal 3% HP i 10 SP (once per turn)",
+      "summary": "Gain [AlriuneEGOWe]"
+    },
+    {
+      "id": 1041421,
+      "name": "Spring's Genesis",
+      "desc": "When the ally with the fastest Speed hits an enemy using a Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking', nałóż 2 [Vibration] i trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (once per turn)",
+      "summary": "Inflict [Vibration], trigger [VibrationExplosion]"
+    },
+    {
+      "id": 1121502,
+      "name": "Undying Persistence",
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAny [ChargeForceField] this unit gains is converted to [HighVoltageExoshell]\n\nAt 3+ [Charge] on self, Min & Max Speed +1\n\nIn this Encounter, when this unit takes damage that brings its HP down to 0, gain [SelfChargeAlly] equal to (5 + [Charge] on self x 3) (max 20, once per Encounter)"
+    },
+    {
+      "id": 1121503,
+      "name": "Alternating Discharge Support",
+      "desc": "Turn Start: If there are 3+ allies wearing E.G.O Gear including this unit, all relevant allies gain 1 [AttackUp]\n\nIf this unit has 12 or less [Charge] Count when consuming [Charge] Count due to AEDD Gregor's E.G.O Passive effect:\nOn Heads Hit, instead of consuming 2 [Charge] Count, this unit consumes 4 Shield or HP to activate the E.G.O Passive effect\n- This effect triggers only when this unit is at 25%+ HP"
+    },
+    {
+      "id": 1121501,
+      "name": "Take the Lead. I'll Provide You Support.",
+      "desc": "Combat Start: Gain +5 [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 i apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally (min 1, rounded down)\n- This effect prioritizes the ally that has the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt 3+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom i Envy - 2) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
+    },
+    {
+      "id": 1121511,
+      "name": "Take the Lead. I'll Provide You Support.",
+      "desc": "Combat Start: Gain +<style=\"highlight\">10</style> [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 i apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally <style=\"highlight\">(zaokrąglone w górę)</style>\n- This effect prioritizes the ally that has the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt <style=\"highlight\">2</style>+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom i Envy - <style=\"highlight\">1</style>) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
+    },
+    {
+      "id": 1121521,
+      "name": "Defibrillation",
+      "desc": "Turn End: 2 allies with the earliest Deployment order each heal HP equal to (the sum of [Charge] Count i 'Unique Charge' consumed by each of their own Attack Skills this turn, respectively) (max 10)"
+    },
+    {
+      "id": 1121531,
+      "name": "Defibrillation",
+      "desc": "Turn End: <style=\"highlight\">3</style> allies with the earliest Deployment order each heal HP equal to (the sum of [Charge] Count i 'Unique Charge' consumed by each of their own Attack Skills this turn, respectively) (max 10)"
+    },
+    {
+      "id": 1061404,
+      "name": "Magnum Opus: Tibia",
+      "desc": "Upon entering the Encounter for the first time, gain +(# of The Ring allies on the field x 2) [ChargeBodyArt] Count (max 10)\n\nSkill End: If the Skill dealt HP or Shield damage, gain +5 [ChargeBodyArt] Count\n- If target is killed, gain +3 additional [ChargeBodyArt] Count\n\nGain 1 [ChargeBodyArt] every time this unit consumes 10 cumulative [ChargeBodyArt] Count in this Encounter\n- If the above effect brings this unit's [ChargeBodyArt] Potency to 2 or higher, gain [TibiaPersonality]\n\nBase Attack Skills i Clashable Counter Skill count as Skills that gain [Charge] Count",
+      "summary": "Gain [ChargeBodyArt]"
+    },
+    {
+      "id": 1061405,
+      "name": "Transcend the Corpus",
+      "desc": "Upon entering the Encounter for the first time, gain 21 [GoldenOpportunity]\n\nWhen The Ring-faction allied Identities use a Skill, lose 1 [GoldenOpportunity] (once per turn per Identity)\n\nTurn End: If this unit does not have [GoldenOpportunity], replace one of its Base Skills with \"Closing Time - Installation Art no. 1: Your Flesh i Bones as the Gallery's Seats\" at next Turn Start (once per Encounter; Prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard)\n- If the replaced Skill becomes inaccessible due to being replaced by a different Skill, activate the above effect again\n\nTurn End: If this unit was Staggered for the first time in this Encounter, recover from Stagger (excluding forced Stagger)",
+      "summary": "Recover from Stagger"
+    },
+    {
+      "id": 1061401,
+      "name": "A Maestro's Critique",
+      "desc": "Before The House of Spiders: The Ring Apprentice Faust uses its Skill 3(except E.G.O Skills), The House of Spiders: The Ring Nursefather Hong Lu uses \"My, How We Love the Flesh i the Blood\" on Faust (once per turn)\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (3 times per turn)",
+      "summary": "Heal SP on self"
+    },
+    {
+      "id": 1061411,
+      "name": "A Maestro's Critique",
+      "desc": "Before The House of Spiders: The Ring Apprentice Faust uses its Skill 3(except E.G.O Skills), The House of Spiders: The Ring Nursefather Hong Lu uses \"My, How We Love the Flesh i the Blood\" on Faust (once per turn)\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (3 times per turn)\n- If this unit's SP is at max, gain 1 [SlashDamageUp] next turn when this unit heals SP with this effect (once per turn)",
+      "summary": "Heal SP on self\nGain [SlashDamageUp] next turn if conditions are met"
+    },
+    {
+      "id": 1061421,
+      "name": "Please, Do Stop Running i Be Seated",
+      "desc": "Turn End: Inflict 2 [AttackDown] i +1 [Laceration] Count next turn on 1 enemy with the fastest Speed (in Focused Encounters, the Part)"
+    },
+    {
+      "id": 1021504,
+      "name": "Fascia, My Precious Artwork",
+      "desc": "Upon entering the Encounter for the first time, gain +(# of The Ring-faction allies on the field x 2) [ChargeBodyArt] Count (max 10)\n\nSkill End: If the Skill dealt HP or Shield damage, gain +5 [ChargeBodyArt] Count\n- If target is killed, gain +3 additional [ChargeBodyArt] Count\n\nGain 1 [ChargeBodyArt] every time this unit consumes 10 cumulative [ChargeBodyArt] Count in this Encounter\n- If the above effect brings this unit's [ChargeBodyArt] Potency to 2 or higher, gain [FasciaPersonality]\n\nBase Attack Skills i Clashable Counter Skill count as Skills that gain [Charge] Count",
+      "summary": "Gain [ChargeBodyArt]"
+    },
+    {
+      "id": 1021503,
+      "name": "Armor of Protection i Repression",
+      "desc": "Upon entering the Encounter for the first time, gain [IronMaidenPersonality]\n\nTurn End: If this unit has [FasciaPersonality], this unit loses [IronMaidenPersonality] i gains [SilverOpportunity] (once per Encounter)\n- When Staggered, recover from Stagger (excluding forced Staggers)",
+      "summary": "Remove [IronMaidenPersonality]"
+    },
+    {
+      "id": 1021501,
+      "name": "Inspired by Critique",
+      "desc": "Double the amount of Speed, Clash Power, damage buff gained from [MelodyBodyArt]\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (2 times per turn)",
+      "summary": "Heal SP on self"
+    },
+    {
+      "id": 1021511,
+      "name": "Inspired by Critique",
+      "desc": "Double the amount of Speed, Clash Power, damage buff gained from [MelodyBodyArt]\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (2 times per turn)\n- If this unit's SP is at max, gain 1 [SlashDamageUp] next turn when this unit heals SP with this effect (once per turn)",
+      "summary": "Heal SP on self\nGain [SlashDamageUp] next turn if conditions are met"
+    },
+    {
+      "id": 1021521,
+      "name": "Iron Maiden - Spikes",
+      "desc": "When hit, allies that equipped Defense Skill on their Slots this turn nałóż 4 [Laceration] on the attacker (2 times per turn)\n- If the attacker already has [Laceration], nałóż +2 [Laceration] Count instead",
+      "summary": "When hit, nałóż [Laceration] on the attacker"
+    },
+    {
+      "id": 1051501,
+      "name": "Welling Inspiration",
+      "desc": "If this unit has [FaubismMaskMeursault], nałóż +1 more [BearClawWoundAlly]\n\nEvery time this unit inflicts 4 [BearClawWoundAlly], heal 5 SP (2 times per turn)\n- If this unit's SP is at max, gain 1 [HitDamageUp] next turn when this unit heals SP with this effect (once per turn)"
+    },
+    {
+      "id": 1051502,
+      "name": "The Ring Fauvist Student",
+      "desc": "On Hit with a Base Skill: Inflict 1 [BearClawWoundAlly]\n- This counts as \"inflicting negative effects with the Skill\"\n\nTurn End: If this unit has inflicted 10+ [BearClawWoundAlly] during this Encounter, gain [FaubismMaskMeursault]\n\nAt Coin Start of The Ring Fauvist Docent Rodion's \"Critique\" Skill, The Ring Fauvist Student Meursault gains [TestWaitingMeursault]"
+    },
+    {
+      "id": 1051521,
+      "name": "Impastoed Scar",
+      "desc": "1 ally with the fastest Speed: On Hit, nałóż 1 [DefenseDown] for every 2 types of negative effect on target (once per turn; max 3)"
+    },
+    {
+      "id": 1091501,
+      "name": "Needs a Rougher Touch for this Part...!",
+      "desc": "Inflict +1 more [BearClawWoundAlly], [EagleClawWoundAlly], i [BoldBrushstrokesRodion]"
+    },
+    {
+      "id": 1091502,
+      "name": "Mentorship",
+      "desc": "Turn Start: Gain [ThankyouDocentRodion] equal to the number of The Ring Student Identities on the field (once per Encounter)\n\nTurn Start: Randomly apply (# of The Ring Student Identities on the field) [AttackUp] or [DefenseUp] to any 2 of The Ring Student Identities (max 2, once per Encounter. Prioritizes The Ring Fauvist Students)"
+    },
+    {
+      "id": 1091503,
+      "name": "Le Fauvisme - Couleurs Sauvages",
+      "desc": "Combat End: Inflict 1 [IntenseColorsRodion] next turn to enemies that have [BearClawWoundAlly], [EagleClawWoundAlly], i [BoldBrushstrokesRodion] simultaneously\n- If target has 3+/6+/9+ [BearClawWoundAlly] i [EagleClawWoundAlly] each, nałóż 2/3/4 [IntenseColorsRodion] instead (amount inflicted is based on the effect that has the least Stack)\n\nTurn End: Gain 1 [FaubismWolfMaskRodion] if any 1 of the following conditions is met\n- Inflicted [IntenseColorsRodion] 3 times (counts as once per turn regardless of the number of times inflicted during combat)\n- Used \"Critique\" 2 times\n- Used \"Burst Forth the Pulsing Crimson under Your Skin\""
+    },
+    {
+      "id": 1091521,
+      "name": "Nice i Slow, Don't Let It Break...",
+      "desc": "Apply the following effects to the Identity with the earliest Deployment order:\n- If Lust Reson. is of an odd number, nałóż +1 more [Laceration] Potency\n- If Lust Reson. is of an even number, nałóż +1 more [Sinking] Potency\n- If the said Identity is in The Ring faction, it gains 1 [AttackUp] or 1 [DefenseUp] at Combat Start"
+    },
+    {
+      "id": 1071502,
+      "name": "The Book of Vengeance",
+      "desc": "When this unit or any of The Middle-faction allies are hit by an enemy, nałóż 1 [VendettaMark] on the said enemy i gain 1 [VengeanceBookHeathcliff] (raz na Zdolność)\nAlly Death: Gain 3 [VengeanceBookHeathcliff]"
+    },
+    {
+      "id": 1071512,
+      "name": "The Book of Vengeance",
+      "desc": "When this unit or any of The Middle-faction allies are hit by an enemy, nałóż 1 [VendettaMark] on the said enemy i gain 1 [VengeanceBookHeathcliff] (raz na Zdolność)\nAlly Death: Gain 3 [VengeanceBookHeathcliff]\n\n<style=\"highlight\">Turn Start: At 15+ [MiddleFingerTattooID], apply the following effects:\n- Replace a Base Skill with \"COMPLETE AND TOTAL EXTERMINATION!!\" (prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard)\n· If the replaced Skill becomes inaccessible due to being replaced by a different Skill, activate the above effect again\n- Change battle music until Turn End (excluding certain Encounters)\n\nCombat Start in the Turn this unit Substituted in or Returned to the field: Use \"MY HAIR COUPOOOOOOOOOOONS!!!!\" on a random target\n- Attack End of the said Skill: Apply 1 [AttackUp] i 1 [DefenseUp] on all The Middle-faction allies</style>"
+    },
+    {
+      "id": 1071503,
+      "name": "Vengeance Tattoo Resonance",
+      "desc": "Combat Start: The Middle-faction allies that have equipped Defense Skills take -20% damage from Unopposed Attacks for this turn\n\nCombat Start: At 4+ Envy Reson., The Middle-faction allies adjacent to this unit on the Dashboard cannot be Staggered by damage as long as they have usable Counter Skills equipped in their Slots (excluding Forced Staggers)\n- At 6+ Envy Reson., this effect applies to all of The Middle-faction allies"
+    },
+    {
+      "id": 1071501,
+      "name": "The Big Brother",
+      "desc": "Combat Start: Gain 1 [MiddleFingerTattooID] for every Envy Reson. (max 7)\n\nIf an enemy attacked any of The Middle-faction allies including this unit, use \"Kicking\" on the said enemy as an Unopposed Attack at Attack End of the said enemy's Skill (once per turn)"
+    },
+    {
+      "id": 1071521,
+      "name": "Chains of Loyalty",
+      "desc": "If any of The Middle-faction allies are killed during combat this turn, all The Middle-faction allies gain 1 [Enhancement] this turn i next turn (once per turn)"
+    },
+    {
+      "id": 1041502,
+      "name": "Saikai [再会]",
+      "desc": "Upon entering the Encounter for the first time, gain 0 [SojiRyoshuEchoPast] i 0 [SojiRyoshuEntangle]\n\nUpon entering the Encounter for the first time, for every 3 The House of Spiders Identities in the Loadout (including this unit), raise [SojiRyoshuEchoPast]'s Min & Max Stack cap by 1 (max 3)\n\nIf any of The House of Spiders allied Identities are on the field, transfer HP damage taken to The House of Spiders Identity that has the lowest current HP percentage\n\nWhen this unit takes damage that brings its HP down to 0, this unit's HP does not drop below 1 for the turn (once per Encounter)\n\nApply the following effects based on The House of Spiders ally death:\n- Gain 1 [SojiRyoshuEchoPast]\n- For this Encounter, gain additional effects based on which of The House of Spiders allied Identity was defeated\n · The House of Spiders: The Index Nursefather Yi Sang: On Base Attack Skill Use, convert the final Coin into [SuperCoin]. Deal +10% damage with Base Attack Skills' [SuperCoin]s\n · The Index Proxy - Effloresced E.G.O::Procuration Don Quixote: On Base Attack Skill Use, gain 2 [Breath]. On Crit using Base Attack Skills, nałóż 1 [Sinking]\n · The House of Spiders: The Middle Apprentice Ishmael: Defense Level +2. Inflict +1 more [Combustion] Potency using Base Skills\n · The House of Spiders: The Ring Nursefather Hong Lu: Gain [MelodyBodyArt]\n · The House of Spiders: The Ring Apprentice Faust: Gain Shield equal to 10% HP at every Turn Start\n · The House of Spiders: The Pinky Apprentice Sinclair: Gain +1 [Breath] Count i 1 [CriticalDamageUp] at every Turn Start\n\nIf there are no Identities left to Substitute or Return, Blade of the House of Spiders Ryōshū gains +1 Skill Slot for every 3 The House of Spiders allies that are defeated (max 3 times)\n- This effect cannot increase Skill Slots beyond the maximum Skill Slot cap of this Encounter\n- For certain game contents, this effect can activate regardless of the contents' Skill Slot increase restriction\n\nThis Identity only counts as an Identity that applies [Combustion], [Laceration], i [Breath]\n\nWhen conditions are met, change battle music for the rest of the Encounter (excluding certain Encounters)",
+      "summary": "Transfer damage taken to The House of Spiders Identities",
+      "flavor": "'The things I dread seeing again always come back. The things I ache to see again never do.'\n'That is why I must steel my heart cold in the moment of reunion.'"
+    },
+    {
+      "id": 1041503,
+      "name": "Dihui Star [地慧星]",
+      "desc": "At 50+ [PhantomIncisionTotalID], activate \"Rend Space - String Connection\" against a random enemy at the very end of that turn (once per Encounter)\n- After using \"Rend Space - String Connection\" due to this effect, apply the following effects on self:\n· Cannot Retreat for this Encounter\n· Turn End: At 50+ [PhantomIncisionTotalID], replace a Base Skill with \"Rend Space - Echoshear\" at the next Turn Start (prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard)",
+      "summary": "",
+      "flavor": "\"Dihui Star's Blade, i Tiansha Star's Blade. If not merely one, but <i>two</i> star-forged blades have come to reside in your hands, then I am moved to wonder, which Star's name could possibly be ideal to represent you?\"\n\"Your Nursefather, too, must surely have furnished you with the tale—that there had been Stars which, at the terminus of immoderate coveting, were left broken i shorn. Thus, I suggest to you, of these two blades, appoint only one as yours.\""
+    },
+    {
+      "id": 1041504,
+      "name": "Spacetime Afterimage Collapse",
+      "desc": "Turn Start: Inflict [SojiRyoshuEchoFuture] on a random enemy (in Focused Encounters, the Core)\n- Inflict [SojiRyoshuEchoFuture] on 1 additional random enemy for every 3 defeated The House of Spiders allied Identities (max 3)\n- Combat Start: If an enemy that has [SojiRyoshuEchoFuture] is the main target of this unit's Base Attack Skills, use \"Inevitable Termination\" as an Unopposed Attack before using the said Base Attack Skill (once per turn)\n- On Base Attack Skill Use against target that has [SojiRyoshuEchoFuture],\n · Convert all Coins of the said Skill into [SuperCoin]s i gain Final Power +1\n · Gain 1 [SojiRyoshuEchoPast] (once per turn)",
+      "summary": "",
+      "flavor": "\"To be frayed without cease, i face each frayed strand of the future, i again continue to sever within each i every one of those futures...\"\n\"To endure that much fragmentation without losing oneself... That's a helluva lot of grit.\""
+    },
+    {
+      "id": 1041501,
+      "name": "Afterimage Reverberation",
+      "desc": "Deal +1% damage on Critical Hit using Base Attack Skills for every 1 surplus [Breath] past 20 [Breath] on self (max 10%)\nOn Crit using Base Attack Skills, nałóż 1 [PhantomIncisionID]\n\nGreat Trichiliocosm Ryōshū E.G.O Passive can be activated using Attack Skills targeting allies",
+      "summary": "Deal more damage on Critical Hit, nałóż [PhantomIncisionID] On Crit"
+    },
+    {
+      "id": 1041521,
+      "name": "The Master's Tutelage [師事]",
+      "desc": "When the ally with the earliest Deployment order uses a Base Skill, the said ally gains 2 [Breath] Potency (3 times per turn)",
+      "summary": ""
+    },
+    {
+      "id": 1111501,
+      "name": "Book of Vengeance - The House of Spiders Special Clause",
+      "desc": "Turn End:\n- Apply [RetaliationBook] on the unit that dealt the most Skill damage to an ally\n- Apply [RetaliationBookSpiderOutis] on the unit that dealt the most Skill damage to this unit\n\nCombat Start: Gain 1 [ResentmentSpiderOutis] for every Envy Reson. (max 7)\n\nIf the following conditions are met during the Combat Phase, gain 2 [ResentmentSpiderOutis]\n- When this unit is hit by another unit's Skill (2 times per turn)\n- When The House of Spiders: The Middle Apprentice Ishmael is hit by another unit's Skill (once per turn)\n\nIf the following conditions are met during the Combat Phase, gain 1 [ResentmentSpiderOutis] (this unit i The House of Spiders: The Middle Apprentice Ishmael getting hit do not count toward either conditional below)\n- When a The Middle ally is hit by another unit's Skill (once per turn per Identity)\n- When a The House of Spiders ally is hit by another unit's Skill (once per turn per Identity)\n\nWhen this unit gains [ResentmentSpiderOutis], if the target has [RetaliationBook], gain an additional Stack of [ResentmentSpiderOutis]\n\nGain 1 [ReinforcedTattooSpiderOutis] every time this unit consumes 5 [ResentmentSpiderOutis]\n\n【Effects apply only to The House of Spiders: The Middle Apprentice Ishmael】\nWhen The House of Spiders: The Middle Nursefather Outis is hit by another unit's Skill, Ishmael gains 2 [ResentmentIshmael] (once per turn)"
+    },
+    {
+      "id": 1111502,
+      "name": "Smell of Blood i Fire",
+      "desc": "This unit is considered as an Identity that inflicts [Combustion] i [Laceration]\nIf this unit's sword has [MiddleFatherSwordTwoOutis] or [MiddleFatherSwordThreeOutis], Skills that nałóż [Laceration] are considered as Skills that nałóż both [Combustion] i [Laceration]"
+    },
+    {
+      "id": 1111503,
+      "name": "Sealed Sword [Lævateinn]",
+      "desc": "Upon entering the Encounter for the first time, gain [MiddleFatherSwordOneOutis]\n\nAt less than 80% HP, use \"Time to Unpack!\" as an Unopposed Attack at Skill End, converting [MiddleFatherSwordOneOutis] into [MiddleFatherSwordTwoOutis]",
+      "flavor": "\"Buried in the deepest reaches of the City are the Ruins. Delve past a certain depth, i you are no longer in the City. This is a shard of a sword once wielded by one of the endwatchers who inhabited the Ruins, awaiting the coming apocalypse. Only a fragment, but within it their immense power lies slumbering—untouched, unmarred.\n... So you once told me. Yes, my elder Siblings. This legendary sword is indeed quite badass.\""
+    },
+    {
+      "id": 1111513,
+      "name": "Sealed Sword [Lævateinn]",
+      "desc": "Upon entering the Encounter for the first time, gain [MiddleFatherSwordOneOutis]\n\n<style=\"highlight\">When each Seal is removed from the sword, gain [CountSkillMidOutis] corresponding to the unsealing stage\n- [MiddleFatherSwordOneOutis]: Gain 1 [CountSkillMidOutis]\n- [MiddleFatherSwordTwoOutis]: Gain 2 [CountSkillMidOutis]\n- [MiddleFatherSwordThreeOutis]: Gain 2 [CountSkillMidOutis]\n\nWhen the following conditions are met, lose 1 [CountSkillMidOutis] (once per turn)\n- Upon using the \"Stamp of Vengeance\" Skill, lose 1 Stack (including \"Stamp of Vengeance\" activation via Counter)\n- At 6+ sum of Envy A-Reson, lose 1 Stack at Turn End\n\nAt 0 [CountSkillMidOutis] Stack, use \"Time to Unpack!\" as an Unopposed Attack at Skill End\n- Turn End: At 0 [CountSkillMidOutis] Stack, i if this unit failed to use \"Time to Unpack!\" in that turn, use \"Time to Unpack!\" at the next turn's Combat Start\n- While this unit's sword has [MiddleFatherSwordOneOutis], at less than 80% HP, use \"Time to Unpack!\" regardless of [CountSkillMidOutis] Stack\n\nAt 50%- HP, gain 3 [MiddleFatherGutsOutis] (once per Encounter)\n\nWhen Staggered for the first time in this Encounter, recover from Stagger at Turn End i gain 15 [ResentmentSpiderOutis] (excluding forced Staggers)\n\nTurn Start: At 15 [ResentmentSpiderOutis], replace a Base Skill on this unit's Dashboard with \"Stamp of Vengeance\" or \"Complete i Total Extermination\" (3 razy na Potyczkę)\n- Applies only on the Skill on the leftmost Slot's bottom row on the Dashboard\n- This effect does not activate if either \"Stamp of Vengeance\" or \"Complete i Total Extermination\" is already in the affected Slot</style>",
+      "flavor": "\"Buried in the deepest reaches of the City are the Ruins. Delve past a certain depth, i you are no longer in the City. This is a shard of a sword once wielded by one of the endwatchers who inhabited the Ruins, awaiting the coming apocalypse. Only a fragment, but within it their immense power lies slumbering—untouched, unmarred.\n... So you once told me. Yes, my elder Siblings. This legendary sword is indeed quite badass.\""
+    },
+    {
+      "id": 1111504,
+      "name": "Parenting",
+      "desc": "If The House of Spiders: The Middle Apprentice Ishmael is on the field alongside this unit, activate the following effects:\n- On Clash Win, gain 1 [DaughterEducationSpiderOutis] (once per turn; if it was the first Skill this unit used in that turn, gain 1 additional [DaughterEducationSpiderOutis])\n- On Hit using a Skill, gain 1 [DaughterEducationSpiderOutis] (once per turn; does not gain [DaughterEducationSpiderOutis] from using Cracked Coins)\n\n【Effects apply only to The House of Spiders: The Middle Apprentice Ishmael】\n- When Ishmael wins a Clash, Ishmael gains 1 [GotAComplimentIshmael] (once per turn; if it was the first Skill Ishmael used in that turn, Ishmael gains 1 additional [GotAComplimentIshmael])\n- On Hit using Ishmael's Skill, Ishmael gains 1 [GotAComplimentIshmael] (once per turn; does not gain [GotAComplimentIshmael] from using Cracked Coins; if the Skill that hit was Skill 3 activated as a Counter, gain 1 additional [GotAComplimentIshmael])"
+    },
+    {
+      "id": 1111505,
+      "name": "Saikai [再会] - The Middle",
+      "desc": "If this unit is defeated at Encounter Start, or if this unit is defeated during the Encounter, Blade of the House of Spiders Ryōshū gains the following effects:\n- Gain 1 [SojiRyoshuEchoPast]\n- Take -20% damage\n- When hit, gain 1 [AttackUp] (2 times per turn)"
+    },
+    {
+      "id": 1111506,
+      "name": "Thanks... Kiddo.",
+      "desc": "When this unit has [MiddleFatherSwordFourOutis]: When an ally that has less than 20% HP loses a Clash against an enemy, use \"Good Girl. Your Sacrifice for the Family Won't Be Forgotten.\" Skill that targets the enemy as the main target i the said ally as the sub-target (once per Encounter)\n- The House of Spiders: The Middle Apprentice Ishmael has a 30% HP conditional instead of 20%\n\nIf this Skill killed an ally in The Middle, gain 1 [VioletDamageUp] next turn\n- If this Skill killed The House of Spiders: The Middle Apprentice Ishmael, gain [MidFamilyOutis] next turn instead"
+    },
+    {
+      "id": 1111521,
+      "name": "Someone Mess With the Family?",
+      "desc": "Combat Start: Apply 1 [AttackDmgUp] i 1 [Protection] on allies that equipped Counter Skills (2 razy na Potyczkę; excluding Clashable Counters)\n- If the affected ally is in The Middle, apply 2 [VioletDamageUp] i 2 [Protection] instead"
+    },
+    {
+      "id": 1111507,
+      "name": "Sealed Sword [Lævateinn]",
+      "desc": "Upon entering the Encounter for the first time, gain [MiddleFatherSwordOneOutis]\n\n<style=\"highlight\">Turn Start: At 0 [CountSkillMidOutis], gain [CountSkillMidOutis] corresponding to the unsealing stage\n- [MiddleFatherSwordOneOutis]: Gain 1 [CountSkillMidOutis]\n- [MiddleFatherSwordTwoOutis]: Gain 2 [CountSkillMidOutis]\n- [MiddleFatherSwordThreeOutis]: Gain 2 [CountSkillMidOutis]\n\nWhen the following conditions are met, lose 1 [CountSkillMidOutis] (once per turn)\n- Upon using the \"Stamp of Vengeance\" Skill, lose 1 Stack (including \"Stamp of Vengeance\" activation via Counter)\n- At 6+ sum of Envy A-Reson, lose 1 Stack at Turn End\n\nAt 0 [CountSkillMidOutis] Stack, use \"Time to Unpack!\" as an Unopposed Attack at Skill End\n- Turn End: At 0 [CountSkillMidOutis] Stack, i if this unit failed to use \"Time to Unpack!\" in that turn, use \"Time to Unpack!\" at the next turn's Combat Start\n- While this unit's sword has [MiddleFatherSwordOneOutis], at less than 80% HP, use \"Time to Unpack!\" regardless of [CountSkillMidOutis] Stack\n\nAt 50%- HP, gain 3 [MiddleFatherGutsOutis] (once per Encounter)\n\nWhen Staggered for the first time in this Encounter, recover from Stagger at Turn End i gain 15 [ResentmentSpiderOutis] (excluding forced Staggers)\n\nTurn Start: At 15 [ResentmentSpiderOutis], replace a Base Skill on this unit's Dashboard with \"Stamp of Vengeance\" or \"Complete i Total Extermination\" (3 razy na Potyczkę)\n- Applies only on the Skill on the leftmost Slot's bottom row on the Dashboard\n- This effect does not activate if either \"Stamp of Vengeance\" or \"Complete i Total Extermination\" is already in the affected Slot</style>",
+      "flavor": "\"Buried in the deepest reaches of the City are the Ruins. Delve past a certain depth, i you are no longer in the City. This is a shard of a sword once wielded by one of the endwatchers who inhabited the Ruins, awaiting the coming apocalypse. Only a fragment, but within it their immense power lies slumbering—untouched, unmarred.\n... So you once told me. Yes, my elder Siblings. This legendary sword is indeed quite badass.\""
+    },
+    {
+      "id": 1061501,
+      "name": "Scouring Hunterband [推刷巾]",
+      "desc": "If this unit's Speed is faster than the target's, deal +(Speed difference x 2)% damage (max 10%)\n- If target is [TiedRopeHonglu], double the above damage increase effect (max 20%)\n\nCombat Start: Deal +5% damage for every ally that has a Slash Pride Skill equipped this turn (max 30%)"
+    },
+    {
+      "id": 1061502,
+      "name": "Ch'unokkun",
+      "desc": "If a target has [TiedRopeHonglu], gain [TiedWithRopeID]\nWhen chaining Skills, if there is an enemy this unit has inflicted [TiedRopeHonglu] on, then this unit can redirect that enemy's Attack Skill's targeting to itself regardless of Speed (Focused Encounters only)"
+    },
+    {
+      "id": 1061521,
+      "name": "Spiteful Pursuit",
+      "desc": "When 1 ally with the earliest Deployment order attacks an enemy that has [Binding], deal +10% damage"
+    },
+    {
+      "id": 1081501,
+      "name": "Limbus Company Specialized Custom Prosthetic Prototype mk5 - Dokkaebi Arms",
+      "desc": "Combat Start: Gain [AengduNewArmIshmael] i heal (Pride Reson.) SP for Blade Lineage allied Identities excluding this unit\n\nCombat Start: If there is an allied Identity at less than 50% HP on the field excluding this unit, gain 1 [SupportProtect] (once per turn)\n\nSkill End: Gain 1 [WindBladeIshmael] for every 3 [Breath] Potency on self (max 5, 2 times per turn)",
+      "summary": "Gain [AengduNewArmIshmael]"
+    },
+    {
+      "id": 1081502,
+      "name": "To Where I Must Return",
+      "desc": "Upon entering the Encounter for the first time, this unit gains [BladelineagePride] for every Blade Lineage Identity on the field excluding this unit (max 3)\n\nIf 3 or more Blade Lineage Identities, excluding this unit, are defeated in this Encounter:\n- Before Skill Use, if this unit did not have [SwordPlayOfTheHomeland], gain [SwordPlayOfTheHomeland]\n- When this unit gains [Breath] Potency i [Breath] Count with its Skill or Coin effects, gain 1 additional [Breath] Potency i [Breath] Count\n- If 5 or more Blade Lineage Identities are defeated, gain 2 additional [Breath] Potency i [Breath] Count instead",
+      "summary": ""
+    },
+    {
+      "id": 1081503,
+      "name": "Demonfire Spinecleaver",
+      "desc": "On Defense Skill Clash Lose, if this unit has 3+ [Agility], this unit cannot be Staggered from taking damage until Defense Skill End, i activate \"To Claim Their Bones\" after being hit (2 times per turn, excluding forced Staggers)",
+      "summary": "Activate additional Skill when conditions are met"
+    },
+    {
+      "id": 1081513,
+      "name": "Demonfire Spinecleaver",
+      "desc": "<style=\"highlight\">On Base Attack Skill End, if this unit has 15+ [WindBladeIshmael], activate \"Even the Balance - Lucent Rippling Flame\" (once per turn)</style>\n\nOn Defense Skill Clash Lose, if this unit has 3+ [Agility], this unit cannot be Staggered from taking damage until Defense Skill End, i activate \"To Claim Their Bones\" after being hit (2 times per turn, excluding forced Staggers)",
+      "summary": "Activate additional Skill when conditions are met"
+    },
+    {
+      "id": 1081521,
+      "name": "Cut Down What Must Be Felled",
+      "desc": "1 ally with the fastest Speed deals +10% damage using Slash Skills\n- If the said ally has [Agility], deal +15% damage using Slash Skills instead"
     }
   ]
 }
