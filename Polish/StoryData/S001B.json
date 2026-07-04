@@ -6,7 +6,7 @@
       "model": "늑대",
       "teller": "Wilk",
       "title": "???",
-      "content": "Czy kiedyś w końcu to do ciebię dotrze? Nie możesz od nas uciec."
+      "content": "Czy kiedyś w końcu to do ciebie dotrze? Nie możesz od nas uciec."
     },
     {
       "id": 1,
@@ -20,7 +20,7 @@
       "model": "사자",
       "teller": "Lew",
       "title": "???",
-      "content": "Cóż, jeśli już wchodzimy w technikalia, plan który wymyśliła nasza Pani nie podchodzi pod taboo miasta."
+      "content": "Cóż, jeśli już wchodzimy w technikalia, plan który wymyśliła nasza Pani nie podchodzi pod tabu miasta."
     },
     {
       "id": 3,
@@ -62,21 +62,21 @@
       "model": "늑대",
       "teller": "Wilk",
       "title": "???",
-      "content": "No, słysze tylko 'tiki' i 'taki'. Myślisz że w środku krzyczy z bólu?"
+      "content": "No, słysze tylko 'tiki' i 'taki'. Myślisz, że w środku krzyczy z bólu?"
     },
     {
       "id": 9,
       "model": "프롤로그단테",
       "teller": "Ja",
       "title": "■■■",
-      "content": "<Aaaaa…!>"
+      "content": "<Aaaagh…!>"
     },
     {
       "id": 10,
       "model": "늑대",
       "teller": "Wilk",
       "title": "???",
-      "content": "Hmm. Zaczeło tykać szybciej. Widocznie ciągle czują ból."
+      "content": "Hmm. Zaczeło tykać szybciej. Widocznie ciągle czuje ból."
     },
     {
       "id": 11,
@@ -116,14 +116,14 @@
       "model": "사자",
       "teller": "Lew",
       "title": "???",
-      "content": "No niby racja ale… Haa, no kurcze, taką okazję dostaje się tylko raz w życiu. Bardzo wątpliwe że zgasimy kiedyś kogoś tak ważnego jak oni…"
+      "content": "No niby racja ale… Haa, no kurcze, taką okazję dostaje się tylko raz w życiu. Bardzo wątpliwe, że zgasimy kiedyś kogoś tak ważnego jak ono…"
     },
     {
       "id": 18,
       "model": "표범",
       "teller": "Pantera",
       "title": "???",
-      "content": "Lwie, musisz nauczyć się panować nad swoimi emocjami na misjach."
+      "content": "Lwie, musisz nauczyć się panować nad swoimi emocjami gdy jesteśmy na misji."
     },
     {
       "id": 19,
@@ -137,14 +137,14 @@
       "model": "표범",
       "teller": "Pantera",
       "title": "???",
-      "content": "Ale masz rację, troche szkoda, chiałem jeszcze spojrzeć im w twarz. Zakładam że nie powiesz nam gdzie jest ta twoja gwiazda, nie?"
+      "content": "Ale masz rację, troche szkoda, chiałem jeszcze spojrzeć im w twarz. Zakładam, że nie powiesz nam, gdzie jest ta twoja gwiazda, co nie?"
     },
     {
       "id": 21,
       "model": "프롤로그단테",
       "teller": "Ja",
       "title": "■■■",
-      "content": "<Prędzej zginę niż powiem wam gdzie schowałom ■■■!>"
+      "content": "<Prędzej zginę, niż powiem wam, gdzie schowałom ■■■!>"
     },
     {
       "id": 22,
@@ -169,7 +169,7 @@
       "model": "표범",
       "teller": "Pantera",
       "title": "???",
-      "content": "Co oznacza że od ciebie się o niej więcej nie dowiemy."
+      "content": "Co oznacza, że od ciebie się o niej więcej nie dowiemy."
     },
     {
       "id": 26,
@@ -190,7 +190,7 @@
       "model": "사자",
       "teller": "Lew",
       "title": "???",
-      "content": "Hej, co to za dźwięk? Pantera… nie mów mi że miałeś ogon?"
+      "content": "Hej, co to za dźwięk? Pantera… nie mów mi, że miałeś ogon?"
     },
     {
       "id": 29,
@@ -218,14 +218,14 @@
       "model": "표범",
       "teller": "Pantera",
       "title": "???",
-      "content": "Jak to się tu wogóle dostało?"
+      "content": "Jak ten rzęch się tu w ogóle dostał?"
     },
     {
       "id": 33,
       "model": "사자",
       "teller": "Lew",
       "title": "???",
-      "content": "Musieli się chyba zgubić?"
+      "content": "Może się zgubili?"
     },
     {
       "id": 34,
@@ -273,7 +273,7 @@
       "model": "프롤로그단테",
       "teller": "Ja",
       "title": "■■■",
-      "content": "<Kim… ty jesteś? Na plakietce… pisze że… Faust?>"
+      "content": "<Kim… ty jesteś? Na plakietce… pisze, że… Faust?>"
     },
     {
       "id": 41,
@@ -322,7 +322,7 @@
       "model": "프롤로그파우스트",
       "teller": "Faust",
       "title": "???",
-      "content": "Teraz, powtarzaj z serca to co ci teraz powiem i spróbuj przypomnieć sobie tamten widok."
+      "content": "Teraz, powtarzaj z serca to, co ci teraz powiem i spróbuj przypomnieć sobie tamten widok."
     },
     {
       "id": 48,
@@ -362,7 +362,7 @@
       "model": "프롤로그파우스트",
       "teller": "Faust",
       "title": "???",
-      "content": "Spokojnie. Nawet jeśli twoje ciało próbuje cię przekonać że jest inaczej, twoje serce ciągle bije."
+      "content": "Spokojnie. Nawet jeśli twoje ciało próbuje cię przekonać, że jest inaczej, twoje serce ciągle bije."
     },
     {
       "id": 55,
@@ -372,7 +372,7 @@
     {
       "id": 56,
       "model": "파우스트",
-      "content": "Dante, od tego dnia daprzód, jesteśmy powiązani z twoim czasem."
+      "content": "Dante, od tego dnia naprzód, jesteśmy powiązani z twoim czasem."
     },
     {
       "id": 57,
@@ -384,12 +384,12 @@
     {
       "id": 58,
       "model": "파우스트",
-      "content": "Bicie naszych serc zależy teraz od tego gdzie padną twoje ręce."
+      "content": "Bicie naszych serc zależy teraz od tego, gdzie padną twoje ręce."
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "Mam nadzieję że będziesz dla nas dobrym przywódcą."
+      "content": "Mam nadzieję, że będziesz dla nas dobrym przywódcą."
     },
     {
       "id": 60,
@@ -411,7 +411,7 @@
     {
       "id": 63,
       "model": "이스마엘",
-      "content": "…A ten ziomek ciągle plecie bez sensu."
+      "content": "…A ten ziomek ciągle plecie trzy po trzy."
     },
     {
       "id": 64,
@@ -421,7 +421,7 @@
     {
       "id": 65,
       "model": "그레고르",
-      "content": "Cóż, nie zaszkodziło by troche rozprostować kości."
+      "content": "Cóż, nie zaszkodziłoby troche rozprostować kości."
     },
     {
       "id": 66,
@@ -436,26 +436,26 @@
     {
       "id": 68,
       "model": "파우스트",
-      "content": "Ten atak musiał stać się prawie od razu—Schowanie swojej głowy musiało być nie lada wyczynem."
+      "content": "Musieli zaatakować zaraz po...—Schowanie swojej głowy musiało być nie lada wyczynem."
     },
     {
       "id": 69,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Kim wy wogóle jesteście? I o co chodzi z tym autobusem?>"
+      "content": "<Kim wy w ogóle jesteście? I o co chodzi z tym autobusem?>"
     },
     {
       "id": 70,
       "model": "파우스트",
-      "content": "Jesteśmy sprawiedliwymi bohaterami któży przybyli na twój ratunek, a to jest nasz magiczny autobus który zawiezie nas wszędzie, tam gdzie chcemy."
+      "content": "Jesteśmy bohaterami stojącymi w obronie sprawiedliwości, którzy przybyli na twój ratunek, a to jest nasz Magiczny Autobus, który zawiezie nas wszędzie tam, gdzie chcemy."
     },
     {
       "id": 71,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Sprawiedliwi bochaterzy? Autobus? Ja nic nie…>"
+      "content": "<Bohaterzy stojący w obronie...? Magiczny Autobus? Ja nic nie…>"
     },
     {
       "id": 72,
@@ -495,14 +495,14 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<A potem wróce tam gdzie byłom…>"
+      "content": "<A potem wrócę tam, gdzie byłom…>"
     },
     {
       "id": 79,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "Tam gdzie byłom, I…>"
+      "content": "Tam gdzie byłom, i…>"
     },
     {
       "id": 80,
@@ -528,7 +528,7 @@
     {
       "id": 83,
       "model": "파우스트",
-      "content": "Uspokój się. Takie rzeczy zdażają się z twoją aktualną głową."
+      "content": "Uspokój się. To naturalne, że ta nowa głowa wpływa negatywnie na twoją pamięć."
     },
     {
       "id": 84,
@@ -538,7 +538,7 @@
     {
       "id": 85,
       "model": "오티스",
-      "content": "Zega… Przepraszam, naprawde nie wiem jak mam się do ciebię zwracać."
+      "content": "Zega… Przepraszam, naprawde nie wiem, jak mam się do ciebie zwracać."
     },
     {
       "id": 86,
@@ -548,7 +548,7 @@
     {
       "id": 87,
       "model": "그레고르",
-      "content": "Ej, a my wogóle potrzebujemy rozkazów? Wygląda na to że nasza jedyna opcja to pojedyńcze starcia."
+      "content": "Ej, a my wogóle potrzebujemy rozkazów? Wygląda na to, że nasza jedyna opcja to pojedyńcze starcia."
     },
     {
       "id": 88,
@@ -563,7 +563,7 @@
     {
       "id": 90,
       "model": "파우스트",
-      "content": "…Prosze daj z siebię wszystko, Dante."
+      "content": "…Prosze, daj z siebię wszystko, Dante."
     },
     {
       "id": 91,
