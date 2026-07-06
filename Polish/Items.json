@@ -3,26 +3,26 @@
     {
       "id": 1,
       "name": "Płatne Opium",
-      "desc": "A rose-shaped crystalline material. Used for performing extractions and purchasing Enkephalin boxes.",
-      "flavor": "A crystal rose that seems to be facing a certain direction at all times. This humanlike object is said to absorb the moisture from a certain river to bloom."
+      "desc": "Krystaliczny materiał w kształcie róży. Używane do wykonywania ekstrakcji i kupowania Pudełek Enkefaliny.",
+      "flavor": "Kryształowa róża, która zdaje się zawsze być zwrócona w konkretnym kiedunku. Ten podobny do człowieka obiekt wchłania wilgoć z pewnej rzeki by zakwitnąć."
     },
     {
       "id": 2,
       "name": "Darmowe Opium",
-      "desc": "A rose-shaped crystalline material. Used for performing extractions and purchasing Enkephalin boxes.",
-      "flavor": "A crystal rose that seems to be facing a certain direction at all times. This humanlike object is said to absorb the moisture from a certain river to bloom."
+      "desc": "Krystaliczny materiał w kształcie róży. Używane do wykonywania ekstrakcji i kupowania Pudełek Enkefaliny.",
+      "flavor": "Kryształowa róża, która zdaje się zawsze być zwrócona w konkretnym kiedunku. Ten podobny do człowieka obiekt wchłania wilgoć z pewnej rzeki by zakwitnąć."
     },
     {
       "id": 3,
       "name": "Opium",
-      "desc": "A rose-shaped crystalline material. Used for performing extractions and purchasing Enkephalin boxes.",
-      "flavor": "Embracing the madness is a necessary step for humans to move forward."
+      "desc": "Krystaliczny materiał w kształcie róży. Używane do wykonywania ekstrakcji i kupowania Pudełek Enkefaliny.",
+      "flavor": "Zaakceptowanie szaleństwa jest koniecznym krokiem w drodze ku postępowi ludzkości."
     },
     {
       "id": 11,
-      "name": "Enkephalin Module",
-      "desc": "Used for entering dungeons.",
-      "flavor": "A spherical module designed for special containment.\n[NOTE] Utilizing a dosage of liquid Enkephalin allows for more stable usage compared to its gaseous form.\nThe Enkephalin can be converted into energy by plugging the module into a designated socket.\n[CAUTION] Modularization of Enkephalin is an irreversible process; the module may only be expended via a socket.\nUsage outside of intended purposes or modification is strictly forbidden."
+      "name": "Moduł Enkefaliny",
+      "desc": "Używane do wchodzenia do lochów.",
+      "flavor": "Okrągły modół zaprojektowany do przechowwania.\n[PRZYPIS] Utylizacja płynnej Enkefaliny pozwala na bardziej stabilne użycie w porownaniu z gazową formą.\nEnkefalinę można zamienić w energię poprzez podłączenie Modułu do odpowiedniego gniazdka.\n[UWAGA] Modularyzacja Enkefaliny jest nieodwracalnym procesem; moduł może być zużyty tylko używając gniadka.\nUżycie leżące poza zamierzonym jest kategorycznie zabronione."
     },
     {
       "id": 101,
