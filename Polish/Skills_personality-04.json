@@ -2942,6 +2942,492 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Potrójne Cięcie [三連]",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [PhantomIncisionID] równe [SojiRyoshuEchoPast] na sobie (maks 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 2)% finalnych obrażeń tej Monety"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Potrójne Cięcie [三連]",
+          "desc": "<style=\"highlight\">[WhenUse] Posiadając 6+ [Breath], +1 Mocy Monety</style>\n[WhenUse] Zyskaj +<style=\"highlight\">3</style> Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {+3 Mocy Monety
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [PhantomIncisionID] równe [SojiRyoshuEchoPast] na sobie (maks 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 2)% finalnych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Potrójne Cięcie [三連]",
+          "desc": "[WhenUse] Posiadając 6+ [Breath], +1 Mocy Monety\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)</style>\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [PhantomIncisionID] równe [SojiRyoshuEchoPast] na sobie (maks 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 2)% finalnych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Potrójne Cięcie - Pogłos [三連 - 殘]",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 3)% finalnych obrażeń tej Monety"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Potrójne Cięcie - Pogłos [三連 - 殘]",
+          "desc": "<style=\"highlight\">[WhenUse] Posiadając 6+ [Breath], +1 Mocy Monety</style>\n[WhenUse] Zyskaj +<style=\"highlight\">3</style> Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 3)% finalnych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Potrójne Cięcie - Pogłos [三連 - 殘]",
+          "desc": "[WhenUse] Posiadając 6+ [Breath], +1 Mocy Monety\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)</style>\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 3)% finalnych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Prucie Przestrzeni [空間斬]",
+          "desc": "[WhenUse] +1 Mocy Finalnej za każde 4 [Breath] na sobie (maks 5)\n[WhenUse] Zadaj +5% obrażeń za każde [SojiRyoshuEchoPast] na sobie\n[WhenUse] Zyskaj 5 [Breath]\n[WhenUse] Zyskaj +1 Wagi Ataku za każde 2 [SojiRyoshuEchoPast] na sobie (maks 2)\n[WhenUse] Zadaj +15% obrażeń za każdą nie użytą Wagę Ataku\n[EndSkill] Losowo rozdziel ([SojiRyoshuEchoPast] na sobie + 10) [PhantomIncisionID] pomiędzy celami tej Umiejętności",
+          "flavor": "\"The Way of the Blade, huh? Yeah, sticking to a single path like a one-track-minded dumbass'll eventually get ya to cut stuff like space too. Oh, but don't flatter yourself—it just makes the split space shimmer for a bit like in the heat haze. Give it some time, and the cut closes like it was never even there in the first place.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +30% obrażeń przy Krytycznym Trafieniu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [Combustion] na celu. Traci on 1 Ilość [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [Laceration] na celu. Traci on 1 Ilość [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 3)% finalnych obrażeń tej Monety"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prucie Przestrzeni [空間斬]",
+          "desc": "[WhenUse] +1 Mocy Finalnej za każde 4 [Breath] na sobie (maks 5)\n<style=\"highlight\">[WhenUse] Base Power +1 za każde 6 ([Combustion] + [Laceration]) na głównym celu (maks 5)</style>\n[WhenUse] Zadaj +5% obrażeń za każde [SojiRyoshuEchoPast] na sobie\n[WhenUse] Zyskaj 5 [Breath]\n[WhenUse] Zyskaj +1 Wagi Ataku za każde 2 [SojiRyoshuEchoPast] na sobie (maks 2)\n[WhenUse] Zadaj <style=\"highlight\">+30%</style> obrażeń za każdą nie użytą Wagę Ataku\n[EndSkill] Losowo rozdziel ([SojiRyoshuEchoPast] na sobie + 10) [PhantomIncisionID] pomiędzy celami tej Umiejętności",
+          "flavor": "\"The Way of the Blade, huh? Yeah, sticking to a single path like a one-track-minded dumbass'll eventually get ya to cut stuff like space too. Oh, but don't flatter yourself—it just makes the split space shimmer for a bit like in the heat haze. Give it some time, and the cut closes like it was never even there in the first place.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj <style=\"highlight\">+50%</style> obrażeń przy Krytycznym Trafieniu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [Combustion] na celu. Traci on 1 Ilość [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [Laceration] na celu. Traci on 1 Ilość [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x <style=\"highlight\">4</style>)% finalnych obrażeń tej Monety"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Widmowy Krok [殘像步]",
+          "desc": "[StartBattle] Bierze na cel 1 Sojusznika należącego do Domu Pająków stojącym najpóźniej w kolejności Wdrożenia (2 razy na turę)\n- Posiadając 1+ [SojiRyoshuEntangle], weź na cel dodatkowego spełniającego warunki Sojusznika\n- Gdy wzięty na cel Sojusznik użyje wszystkich zaplanowanych na tą turę Umiejętności lub zostanie Zachwiany, wymierz w jego ślepy punkt Umiejętnością \"Zgładź Niebiosa - Tiansha\" (raz na Osobowość)\n - Umiejętność ta bierze na cel Pupila Obwodu Sinclaira tylko wtedy, gdy jest on jedynym żywym członkiem Domu Pająków na polu bitwy(poza Ryōshū)\n[StartBattle] Zyskaj +3 Ilości [Breath] (raz na ture)",
+          "flavor": "\"Przez cały ten czas goniliście za moim widmem.\"",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Widmowy Krok [殘像步]",
+          "desc": "[StartBattle] Bierze na cel 1 Sojusznika należącego do Domu Pająków stojącym najpóźniej w kolejności Wdrożenia (2 razy na turę)\n- Posiadając 1+ [SojiRyoshuEntangle], weź na cel dodatkowego spełniającego warunki Sojusznika\n- Gdy wzięty na cel Sojusznik użyje wszystkich zaplanowanych na tą turę Umiejętności lub zostanie Zachwiany, wymierz w jego ślepy punkt Umiejętnością \"Zgładź Niebiosa - Tiansha\" (raz na Osobowość)\n - Umiejętność ta bierze na cel Pupila Obwodu Sinclaira tylko wtedy, gdy jest on jedynym żywym członkiem Domu Pająków na polu bitwy(poza Ryōshū)\n[StartBattle] Zyskaj +3 Ilości [Breath] (raz na ture)\n<style=\"highlight\">[OnSucceedEvade] Zyskaj 1 [Breath] (3 razy na turę)</style>",
+          "flavor": "\"Przez cały ten czas goniliście za moim widmem.\"",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zgładź Niebiosa - Tiansha [天殺]",
+          "desc": "[CantDuel]\nTa Umiejętność nie aktywuje wrogich Umiejętności Defensywnych a Zewnętrzne efekty nie mogą wywołać Jej ponownego użycia\nŚmierć celu tej Umiejętności nie wpływa negatywnie na Punkty Poczytalności przyjaznych jednostek\n[WhenUse] Na okres tej Potyczki, Umiejętności tej jednostki tracą 1 Poziom Ofensywy i Zyskują +1 Moc Bazową (4 razy na Potyczkę)\n[TargetKill] Zyskaj 20 PP\n[TargetKill] Zyskaj [RyoshuEGOPF] równe obrażeniom zadanym przez tą Umiejętność",
+          "flavor": "\"*pluje* Jak to szło? Czcij ojca swego i matkę swoją, abyś długo żył na ziemi?\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 20 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli celem tej Monety jest Sojusznik należący do Domu Pająków, zadaje ona dodatkowo stałe obrażenia równe 120% PŻ celu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nieunikniona Zguba [必然殺]",
+          "desc": "[CantDuel]\nTa Umiejętność nie aktywuje wrogich Umiejętności Defensywnych a Zewnętrzne efekty nie mogą wywołać Jej ponownego użycia\n[WhenUse] Zyskaj +1 Ilości [Breath]\n[BeforeAttack] Jeśli wymogi aktywacji tej Umiejętności zostały wypełnione Trzecią Umiejętnością,\n- Waga Ataku tej Umiejętności staje się równa ilości Przeciwników posiadających [SojiRyoshuEchoFuture] (min 1)\n- Priorytetyzuje jako cele Przeciwników posiadających [SojiRyoshuEchoFuture]\n[EndSkill] Wszystkie cele tracą [SojiRyoshuEchoFuture]",
+          "flavor": "\"Oho... What an ingenious way to use the Dihui Star's Blade, the sword that always leaves a lingering something in its wake. Attacks that are impossible to avoid seem a bit cheap, but... hah! I've got to say, I like that sword!\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +30% obrażeń przy Krytycznym Trafieniu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [PhantomIncisionID] równe [SojiRyoshuEchoPast] na sobie (maks 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Combustion] na celu. Traci on 1 Ilość [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Prucie Przestrzeni - Pogłos [空間斬 - 殘]",
+          "desc": "[WhenUse] Za każde [SojiRyoshuEntangle] na sobie, Umiejętność ta traci 1 Moc Bazową i zyskuje dodatkową Kopie Pierwszej Monety która zostaje użyta przed Drugą Monetą\n[WhenUse] Ostatnia Moneta tej Umiejętności zyskuje +1 Mocy Monety za każde [SojiRyoshuEchoPast] na sobie\n[WhenUse] Zadaj +50% obrażeń za każdą nie użytą Wagę Ataku\n[EndSkill] Podnieś min oraz maks Ilość [SojiRyoshuEchoPast] o jeden, po czym zresetuj [SojiRyoshuEchoPast] na sobie do jego minimalnej ilości (maks 2 razy na Potyczkę)\n[EndSkill] Zużyj 50 [PhantomIncisionTotalID]",
+          "flavor": "\"This indeed paves a new avenue in the field of space-rending techniques.\"\n\"Have you heard? One might think that rending the very fabric of space is the culmination of the Way of the Blade, but the path extends beyond that. Continue training, and one develops their own unique style of doing so. It adds another layer of artistry by leaving an unconventional touch to the universal technique, allowing for the rent to linger or, sometimes, even be reduced into the flash of an instant.\"\n\"It is somewhat of a point of pride for those who walk the Way of the Blade, meaning that it is also a frequent point of contention in the field. Fuhu, it is reminiscent of the days I used to engage in discourse of comparable belligerence with the other Maestros.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +30% obrażeń przy Krytycznym Trafieniu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zużyj całe [PhantomIncisionID] na celu, po czym zadaj mu obrażenia od Cięcia równe (Zużyte [PhantomIncisionID] / 10)% finalnych obrażeń tej Monety"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zadaj obrażenia od Cięcia równe ([SojiRyoshuEchoPast] x 4)% finalnych obrażeń tej Monety"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [Combustion] na celu. Traci on 1 Ilość [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktywuj [Laceration] na celu. Traci on 1 Ilość [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041508,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Prucie Przestrzeni - Czerwona Nić / Więzy [空間斬 - 緣]",
+          "desc": "[CantDuel]\nTa Umiejętność nie aktywuje wrogich Umiejętności Defensywnych\n[WhenUse] Zyskaj 5 [Breath]\n[WhenUse] Zyskaj [SojiRyoshuShin]\n[EndSkill] Usuń pierwszy Próg Zachwiania tej jednostki (raz na Potyczkę)",
+          "flavor": "\"Taxidermied and immobilized does the foe lie in the trace the blade has rent in space.\"\n\"Such bladework is oft of utter keenness that its victims know not that they have been hewn; or even if they are somehow cognizant of the fact, they are affixed by a bladetrail that has seized the space they inhabit, only to bleed when the moment passes.\"\n\"Yet... the difference lies in how it cuts.\"\n\"The blade has indeed hewn but a singular trace, yet in sheathing it the wielder has conjured in their mind the multitude of slashes that have followed the same path—a most precise technique.\"\n\"Hm. Oft have I come across techniques such as that slash in the days following the incident, techniques that seem to contradict the very nature of causality.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [Combustion] na celu. Traci on 1 Ilość [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
