@@ -1234,7 +1234,7 @@
     },
     {
       "id": 10715,
-      "title": "Duży Brat/nŚrodka",
+      "title": "Duży Brat\nŚrodka",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 15th Identity"
@@ -1252,6 +1252,43 @@
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 15th Identity"
+    },
+    {
+      "id": 10615,
+      "title": "Ch'unokkun S Korpu",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "Hong Lu's 15th Identity"
+    },
+    {
+      "id": 10815,
+      "title": "LCD Drużyna OSIR",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "Ishmael's 15th Identity"
+    },
+    {
+      "id": 40501,
+      "title": "Pożegnanie z Domem pod Światłem Księżyca",
+      "name": "Meursault",
+      "nameWithTitle": "",
+      "desc": "Reflectrial][lairtcelfeR - Mnestic Experience Limitowana Czasowo Nagroda",
+      "skinItemTitle": "[Façade] Pożegnanie z Domem pod Światłem Księżyca",
+      "skinItemDesc": "Reflectrial][lairtcelfeR - Mnestic Experience Limitowana Czasowo Nagroda"
+    },
+    {
+      "id": 10716,
+      "title": "Dom Pająków:\nPupil Kciuka",
+      "name": "Heathcliff",
+      "nameWithTitle": "Heathcliff",
+      "desc": "Heathcliff’s 16th Identity"
+    },
+    {
+      "id": 10916,
+      "title": "Dom Pająków:\nOjczym Kciuka",
+      "name": "Rodion",
+      "nameWithTitle": "Rodion",
+      "desc": "Rodion’s 16th Identity"
     }
   ]
 }
