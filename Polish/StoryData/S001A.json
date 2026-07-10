@@ -16,7 +16,7 @@
     {
       "id": 2,
       "model": "그레고르",
-      "content": "Wiem że to troche dziwnie brzmi z ust osoby z którą właśnie walczyliście, ale jestem pewny że możemy się jakoś doga—"
+      "content": "Wiem, że to trochę dziwnie brzmi z ust osoby, z którą właśnie walczyliście, ale jestem pewny, że możemy się jakoś doga—"
     },
     {
       "id": 3,
@@ -36,7 +36,7 @@
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Haa… Wiedziałam że walka z nimi była głupim pomysłem."
+      "content": "Haa… Wiedziałam, że walka z nimi była głupim pomysłem."
     },
     {
       "id": 7,
@@ -55,12 +55,12 @@
       "model": "사자",
       "teller": "Lew",
       "title": "???",
-      "content": "…Wiesz co? W sumie racja, nie ma co to przeciągać."
+      "content": "…Wiesz co? W sumie racja, nie ma co tego przeciągać."
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "Jaja sobie robicie? Na nawet nie…"
+      "content": "Jaja sobie robicie? Nawet nie…"
     },
     {
       "id": 9,
@@ -72,12 +72,12 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Co do diabła się tu wyrabia? Mówiliście że będziecie dla mnie walczyć!>"
+      "content": "<Co do diaska się tu wyrabia? Mówiliście, że będziecie dla mnie walczyć!>"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "Obiecaliśmy że będziemy walczyć, nie wygrywać."
+      "content": "Obiecaliśmy, że będziemy walczyć, nic nie mówiliśmy o wygrywaniu."
     },
     {
       "id": 12,
@@ -134,14 +134,14 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Przyjechali tu jakby wygrana była dla nich tylko formalnością a potem popadali jak muchy…>"
+      "content": "<Przyjechali tu, jakby wygrana była dla nich tylko formalnością, a potem popadali jak muchy…>"
     },
     {
       "id": 21,
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Aah… Wogóle już nic nie pamiętam od kiedy powiedziałom to, o co ona mnie poprosiła.>"
+      "content": "<Aah… W ogóle już nic nie pamiętam od kiedy powiedziałom to, o co ona mnie poprosiła.>"
     },
     {
       "id": -1,
@@ -161,7 +161,7 @@
       "id": 23,
       "teller": "???",
       "title": "???",
-      "content": "Przekaż to wiedze Wężowi, fałszywy lwie."
+      "content": "Przekaż tą wiadomość Wężowi, fałszywy lwie."
     },
     {
       "id": 24,
@@ -203,14 +203,14 @@
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Ponieważ wystarczy tylko jeden żeby ich stąd zabrać."
+      "content": "Ponieważ wystarczy tylko jeden, żeby ich stąd zabrać."
     },
     {
       "id": 30,
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "A ty jesteś jedyną osobą która jest chętna wogóle im pomóc."
+      "content": "A ty jesteś jedyną osobą, która jest chętna w ogóle im pomóc."
     },
     {
       "id": 31,
@@ -231,14 +231,14 @@
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Z ranami takimi jak te, jestem pewny że wasz przyódca uwierzy że daliście z siebię wszystko. Pomyślcie o nich jako medale za waleczność."
+      "content": "Z ranami takimi jak te, jestem pewny, że wasz przyódca uwierzy, że daliście z siebie wszystko. Pomyślcie o nich jak o medalach za waleczność."
     },
     {
       "id": 34,
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "No chyba że…"
+      "content": "No chyba, że…"
     },
     {
       "id": 35,
@@ -266,28 +266,28 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Przyszedłeś za późno, oni wszyscy już…>"
+      "content": "<Spóźniłeś się, oni wszyscy już…>"
     },
     {
       "id": 39,
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Nikt nie jest na nic za późno, Dante."
+      "content": "Nikt się nie spóźnił, Dante."
     },
     {
       "id": 40,
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Potrzebujemy po prostu jednej rzeczy…"
+      "content": "Musimy jedynie…"
     },
     {
       "id": 41,
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Troche czasu do cofnięcia."
+      "content": "…cofnąć odrobinę wskazówki zegara."
     },
     {
       "id": 42,
@@ -298,11 +298,11 @@
     },
     {
       "id": 43,
-      "content": "<color=#b01c37>Nagle zostałom kompletnie przytłoczone bólem z mojej klatki piersiowej, jakby moje serce było rozrywane na strzępy.</color>"
+      "content": "<color=#b01c37>Nagle zostałom kompletnie przytłoczone bólem z mojej klatki piersiowej,\n jakby moje serce było rozrywane na strzępy.</color>"
     },
     {
       "id": 44,
-      "content": "<color=#b01c37>Zaraz po zaczęłom czuć podobny ból z żeber, jelit, żołądka, oraz płuc.</color>"
+      "content": "<color=#b01c37>Zaraz po tym, zaczęłom czuć podobny ból z żeber, jelit, żołądka, oraz płuc.</color>"
     },
     {
       "id": 45,
@@ -328,14 +328,14 @@
     },
     {
       "id": 49,
-      "content": "…były rozerwane na strzępy trupy zekonstruujące się i wstające spowrotem na nogi."
+      "content": "…były rozerwane na strzępy trupy zrastające się i wstające z powrotem na nogi."
     },
     {
       "id": 50,
       "model": "눈이붉은자",
       "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Twoje cierpienia dopiero się zaczęły, Dante."
+      "content": "Twoje cierpienia dopiero się rozpoczęły, Dante."
     },
     {
       "id": 51,
