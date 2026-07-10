@@ -2015,7 +2015,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chce Otworzyć Prejście",
+          "name": "Chcę Otworzyć Przejście",
           "desc": "[StartBattle] Nałóż 1 [Endurance] na 1 + (najwyższy Rezon. / 3) sojuszników. (raz na turę; maks 3; priorytetyzuje cele z [SupportProtect](lub z inną unikalną Defensywną Asystą))<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -2036,7 +2036,7 @@
         },
         {
           "level": 2,
-          "name": "Chce Otworzyć Prejście",
+          "name": "Chcę Otworzyć Przejście",
           "desc": "[StartBattle] Nałóż 1 [Endurance] na 1 + (najwyższy Rezon. / 3) sojuszników. (raz na turę; maks 3; priorytetyzuje cele z [SupportProtect](lub z inną unikalną Defensywną Asystą))\n<style=\"highlight\">[WhenUse] Przy 6+ ([Burst] na celu + [Breath] na sobie), +1 Mocy Monety</style>",
           "coinlist": [
             {
@@ -2057,7 +2057,7 @@
         },
         {
           "level": 4,
-          "name": "Chce Otworzyć Prejście",
+          "name": "Chcę Otworzyć Przejście",
           "desc": "[StartBattle] Nałóż 1 [Endurance] na 1 + (najwyższy Rezon. / 3) sojuszników. (raz na turę; maks 3; priorytetyzuje cele z [SupportProtect](lub z inną unikalną Defensywną Asystą))\n[WhenUse] Przy 6+ ([Burst] na celu + [Breath] na sobie), +1 Mocy Monety\n<style=\"highlight\">[WhenUse] Jeśli cel ma na sobie 3+ rodzaje negatywnych efektów, +1 Mocy Starcia</style>",
           "coinlist": [
             {
