@@ -26,379 +26,379 @@
     },
     {
       "id": 101,
-      "name": "Extraction Ticket",
-      "desc": "Can be used to perform 1 extraction.",
-      "flavor": "A consumable item weaved from Lunacy, the source of Mephistopheles’ extractive energy.\nIt looks like a thin sheet of paper at a glance, but something seems to be pulsating inside."
+      "name": "Bilet Na Ekstrakcję",
+      "desc": "Upoważnia do wykonania 1 ekstrakcji.",
+      "flavor": "Przedmiot użytkowy uszyty z Opium, źródła zdolności ekstrakcyjnych Mefistofelesa.\nNa pierwszy rzut oka wygląda jak kawałek papieru, jednak w dotyku czuć, jakby w środku coś pulsowało."
     },
     {
       "id": 102,
-      "name": "Decaextraction Ticket",
-      "desc": "Can be used to perform 10 extractions.",
-      "flavor": "A consumable item weaved from Lunacy, the source of Mephistopheles’ extractive energy.\nIt looks like a thin sheet of paper at a glance, but something seems to be pulsating inside."
+      "name": "Bilet Na Dekaekstrakcję",
+      "desc": "Upoważnia do wykonania 10 ekstrakcji.",
+      "flavor": "Przedmiot użytkowy uszyty z Opium, źródła zdolności ekstrakcyjnych Mefistofelesa.\nNa pierwszy rzut oka wygląda jak kawałek papieru, jednak w dotyku czuć, jakby w środku coś pulsowało."
     },
     {
       "id": 103,
-      "name": "3★ Guarantee Decaextraction Ticket",
-      "desc": "Can be used to perform 10 extractions where one 3★ Identity is guaranteed to appear.",
-      "flavor": "A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing."
+      "name": "Bilet Na Dekaekstrakcję Z Gwarancją 3★",
+      "desc": "Upoważnia do wykonania 10 ekstrakcji, w których zawsze pojawi się 3★ Tożsamość.",
+      "flavor": "Specjalny, oznaczony bilet. Zdolny do zapewnionej ekstrakcji Tożsamosci ze świata nieprawdopodobnych możliwości. Zdaje sie dziko pulsować."
     },
     {
       "id": 104,
-      "name": "[Season 1] 3★ Guarantee Decaextraction Ticket",
-      "desc": "Can be used to perform 10 extractions where one 3★ Identity from [Season 1] is guaranteed to appear.",
-      "flavor": "A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing."
+      "name": "[Sezon 1] Bilet Na Dekaekstrakcję Z Gwarancją 3★",
+      "desc": "Upoważnia do wykonania 10 ekstrakcji, w których zawsze pojawi się 3★ Tożsamość z [1 Sezonu].",
+      "flavor": "Specjalny, oznaczony bilet. Zdolny do zapewnionej ekstrakcji Tożsamosci ze świata nieprawdopodobnych możliwości. Zdaje sie dziko pulsować."
     },
     {
       "id": 105,
-      "name": "[Season 2] 3★ Guarantee Decaextraction Ticket",
-      "desc": "Can be used to perform 10 extractions where one 3★ Identity from [Season 2] is guaranteed to appear.",
-      "flavor": "A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing."
+      "name": "[Sezon 2] Bilet Na Dekaekstrakcję Z Gwarancją 3★",
+      "desc": "Upoważnia do wykonania 10 ekstrakcji, w których zawsze pojawi się 3★ Tożsamość z [2 Sezonu].",
+      "flavor": "Specjalny, oznaczony bilet. Zdolny do zapewnionej ekstrakcji Tożsamosci ze świata nieprawdopodobnych możliwości. Zdaje sie dziko pulsować."
     },
     {
       "id": 106,
-      "name": "[Season 3] 3★ Guarantee Decaextraction Ticket",
-      "desc": "Can be used to perform 10 extractions where one 3★ Identity from [Season 3] is guaranteed to appear.",
-      "flavor": "A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing."
+      "name": "[Sezon 3] Bilet Na Dekaekstrakcję Z Gwarancją 3★",
+      "desc": "Upoważnia do wykonania 10 ekstrakcji, w których zawsze pojawi się 3★ Tożsamość z [3 Sezonu].",
+      "flavor": "Specjalny, oznaczony bilet. Zdolny do zapewnionej ekstrakcji Tożsamosci ze świata nieprawdopodobnych możliwości. Zdaje sie dziko pulsować."
     },
     {
       "id": 201,
-      "name": "Thread",
-      "desc": "Used for the Uptying of Identities and Threadspinning of E.G.O.",
-      "flavor": "Thread is a string-like object conceived to tie all possibilities into one place.\nOur company is utilizing Thread in various ways, such as Uptying Identities or Threadspinning E.G.O to better understand it."
+      "name": "Nić",
+      "desc": "Używana do Powiązania Tożsamości i Przędzenia E.G.O.",
+      "flavor": "Nić jest włóknistym obiektem stworzonym do związania wszelkich możliwosci w jedno miejsce.\nNasza firma używa Nici na wiele sposobów, na przykład Powiązanie Tożsamości czy Przędzenie E.G.O, by lepiej je zrozumieć."
     },
     {
       "id": 211,
-      "name": "Identity Training Ticket I",
-      "desc": "Gives 50 Identity XP.",
-      "flavor": "A ticket bearing possibilities of the past, present, and future.\n“I found that a thought of something I’d never experienced planted itself firmly in my head.”"
+      "name": "Bilet Treningowy Tożsamości I",ć
+      "desc": "Daje 50 DOŚW Tożsamości.",
+      "flavor": "Bilet niosący w sobie możliwości przeszłości, teraźniejszości i przyszłości.\n“Odnalazłem w mej głowie myśl czegoś, czego sam nigdy nie doświadczyłem.”"
     },
     {
       "id": 212,
-      "name": "Identity Training Ticket II",
-      "desc": "Gives 200 Identity XP.",
-      "flavor": "A ticket bearing possibilities of the past, present, and future.\n“Hmhm~ I’ve never been to the southern quarter before, so why does it feel so familiar…?”"
+      "name": "Bilet Treningowy Tożsamości II",
+      "desc": "Daje 200 DOŚW Tożsamości.",
+      "flavor": "Bilet niosący w sobie możliwości przeszłości, teraźniejszości i przyszłości.\n“Hmhm~ Nigdy nie byłam na południu, czemu to miejsce wydaje się takie znajome…?”"
     },
     {
       "id": 213,
-      "name": "Identity Training Ticket III",
-      "desc": "Gives 1000 Identity XP.",
-      "flavor": "A ticket bearing possibilities of the past, present, and future.\n“…If I could have had such a convenient thing in the past, those nightmarish plights would’ve been so simple to overcome.”"
+      "name": "Bilet Treningowy Tożsamości III",
+      "desc": "Daje 1000 DOŚW Tożsamości.",
+      "flavor": "Bilet niosący w sobie możliwości przeszłości, teraźniejszości i przyszłości.\n“…Gdybym tylko miała wtedy coś takiego, ta koszmarna wyprawa była by taka prosta.”"
     },
     {
       "id": 214,
-      "name": "Identity Training Ticket IV",
-      "desc": "Gives 3000 Identity XP.",
-      "flavor": "A Ticket shimmering with possibilities we experienced, are experiencing, and will experience.\n\"This is a feeling not unlike getting memories we did not experience forced into us. This is not the most pleasant feeling, but it is certainly efficient."
+      "name": "Bilet Treningowy Tożsamości IV",
+      "desc": "Daje 3000 DOŚW Tożsamości.",
+      "flavor": "A Ticket shimmering with possibilities we experienced, are experiencing, and will experience.\n\"Uczucie podobne do wpychania w nas wspomnień, których nie doświadczyliśmy. Niezbyt przyjemne, ale efektywności nie można odmówić."
     },
     {
       "id": 221,
-      "name": "Level Boost Ticket I",
-      "desc": "Raises an Identity’s level to up to 10.",
-      "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience.\n“Oho! Mine frame hath become more apt than ever to enact justice!”"
+      "name": "Bilet Wzmacniający Poziom I",
+      "desc": "Podnosi poziom Tożsamości do 10.",
+      "flavor": "Wykracząjący poza ograniczenia bilet, który pozwala na przechowanie namiaru doświadczenia.\n“Oho! Czuję nową moc do czynienia sprawiedliwości!”"
     },
     {
       "id": 222,
-      "name": "Level Boost Ticket II",
-      "desc": "Raises an Identity’s level to up to 20.",
-      "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience.\n“It’s… strangely calming. I feel like I can do things I couldn’t before.”"
+      "name": "Bilet Wzmacniający Poziom II",
+      "desc": "Podnosi poziom Tożsamości do 20.",
+      "flavor": "Wykracząjący poza ograniczenia bilet, który pozwala na przechowanie namiaru doświadczenia.\n“To… dzwnie uspokajające. Czuję, że jestem zdolny do rzeczy, których wcześniej nie mogłem zrobić.”"
     },
     {
       "id": 223,
-      "name": "Level Boost Ticket III",
-      "desc": "Raises an Identity’s level to up to 30.",
-      "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience.\n“This thing would’ve been a real menace if it was available during wartime. Imagine fostering veterans in mere seconds.”"
+      "name": "Bilet Wzmacniający Poziom III",
+      "desc": "Podnosi poziom Tożsamości do 30.",
+      "flavor": "Wykracząjący poza ograniczenia bilet, który pozwala na przechowanie namiaru doświadczenia.\n“Takie cacko robiło by niezłe zamieszanie, gdyby było dostępne podczas wojny. Sama myśl treningu wojskowego w kilka sekund...”"
     },
     {
       "id": 224,
-      "name": "Level Boost Ticket IV",
-      "desc": "Raises an Identity’s level to up to 40.",
-      "flavor": "A limit-disengaging ticket that allows an Identity to hold excess experience. \n\"O.P. To give me years of experience in using a technique I've never used before...  there is no satisfaction here. Revolting.\""
+      "name": "Bilet Wzmacniający Poziom IV",
+      "desc": "Podnosi poziom Tożsamości do 40.",
+      "flavor": "Wykracząjący poza ograniczenia bilet, który pozwala na przechowanie namiaru doświadczenia. \n\"Z.M.. Od tak zdobyć lata wprawy w technice, której nigdy nie używałam...  nie ma w tym żadnej satysfakcji. Odrażające.\""
     },
     {
       "id": 231,
-      "name": "Identity Takeoff Ticket",
-      "desc": "Raises an Identity’s level to up to 40, and Uptie Tier up to Tier 4.",
-      "flavor": "Tear this ticket to activate it.\nIt tears through the space-time, uptying and enhancing an Identity at a ridiculous speed.\nIt makes a pretty addicting sound when it tears; makes one want to tear more tickets."
+      "name": "Bilet Rozwojowy Tożsamości",
+      "desc": "Podnosi poziom Tożsamości do 40 i jej Poziom Powiązania do 4.",
+      "flavor": "Żeby go aktywować, wystarczy tylko rozedrzeć.\nPrzedziera się przez czasoprzestrzeń, powiązując i wzmacniając Tożsamość w zawrotnym tempie.\nDźwięk, który wydaje przy rozdzieraniu jest prawie że uzależniający; aż chce się rozerwać ich więcej."
     },
     {
       "id": 301,
-      "name": "Enkephalin Box",
-      "desc": "Recovers 60 Enkephalin when used.",
-      "flavor": "A stable container storing liquid Enkephalin.\n[CAUTION] Handling this box without following the prescribed procedures may result in accidents such as Enkephalin leakage.\nUnregulated ingestion of Enkephalin may cause a wide range of unverified psychopathological symptoms."
+      "name": "Pudełko Enkefaliny",
+      "desc": "Prywraca 60 Enkefaliny.",
+      "flavor": "Stabilny pojemnik na płynną Enkefalinę.\n[UWAGA] Nieostrożna obsługa może skutkować wypadkami, między innymi wyciekiem Enkefaliny.\nNiewłaściwe stosowanie Enkefaliny zagraża różnymi obiawami psychopatologicznymi."
     },
     {
       "id": 401,
-      "name": "Thread Crate",
-      "desc": "Open to receive 1-3 strands of Thread.",
-      "flavor": "A crate of bundled possibilities.\nNo one knows how much you can draw from it."
+      "name": "Skrzynia Nici",
+      "desc": "Zawiera 1-3 włókien Nici.",
+      "flavor": "Skrzynka pełna splątanych możliwości.\nNie wiadomo, ile będzie można z niej wyciągnąć."
     },
     {
-      "id": 1101,
-      "name": "[Season 1] Egoshard Crate",
-      "desc": "Open to receive 1-3 Egoshards of random Sinners.",
-      "flavor": "Egoshards were randomly harvested and stored in these boxes. Its contents are a mystery.\nWhen you hold one in a quiet place, you can hear small fusses."
+      "id": 1101,łkach
+      "name": "[Sezon 1] Skrzynia Odłamków Ego",
+      "desc": "Zawiera 1-3 Odłamków Ego losowego Grzesznika.",
+      "flavor": "Zebrane na oślep i prrzechowane w tych pudełkach odłamki ego. Ich zawartość jest tajemnicą.\nTrzymając je w cichym miejscu, słyszysz ciche mamrotanie."
     },
     {
       "id": 1201,
-      "name": "[Season 1] Nominable Egoshard Crate",
-      "desc": "Open to receive 1-3 Egoshards of a Sinner of choice.",
-      "flavor": "A crate that yields Egoshards of a Sinner you choose.\nAccording to Faust, its contents are determined once a manager makes their decision."
+      "name": "[Sezon 1] Zaadresowana Skrzynia Odłamków Ego",
+      "desc": "Zawiera 1-3 Odłamków Ego wybranego Grzesznika.",
+      "flavor": "Skrzynia dająca Odłamki Ego konkretnego Grzesznika.\nWedług Faust, jej zawartość jest zdecydowana w chwili, gdy kierownik dokona decyzji."
     },
     {
       "id": 1102,
-      "name": "[Season 2] Egoshard Crate",
-      "desc": "Open to receive 1-3 Egoshards of random Sinners.",
-      "flavor": "Egoshards were randomly harvested and stored in these boxes. Its contents are a mystery.\nWhen you hold one in a quiet place, you can hear small fusses."
+      "name": "[Sezon 2] Skrzynia Odłamków Ego",
+      "desc": "Zawiera 1-3 Odłamków Ego losowego Grzesznika.",
+      "flavor": "Zebrane na oślep i prrzechowane w tych pudełkach odłamki ego. Ich zawartość jest tajemnicą.\nTrzymając je w cichym miejscu słyszysz ciche mamrotanie."
     },
     {
       "id": 1202,
-      "name": "[Season 2] Nominable Egoshard Crate",
-      "desc": "Open to receive 1-3 Egoshards of a Sinner of choice.",
-      "flavor": "A crate that yields Egoshards of a Sinner you choose.\nAccording to Faust, its contents are determined once a manager makes their decision."
+      "name": "[Sezon 2] Zaadresowana Skrzynia Odłamków Ego",
+      "desc": "Zawiera 1-3 Odłamków Ego wybranego Grzesznika.",
+      "flavor": "Skrzynia dająca Odłamki Ego konkretnego Grzesznika.\nWedług Faust, jej zawartość jest zdecydowana w chwili, gdy kierownik dokona decyzji."
     },
     {
       "id": 1103,
-      "name": "[Season 3] Egoshard Crate",
-      "desc": "Open to receive 1-3 random Egoshards.",
-      "flavor": "Egoshards were randomly harvested and stored in these boxes. Its contents are a mystery.\nWhen you hold one in a quiet place, you can hear small fusses."
+      "name": "[Sezon 3] Skrzynia Odłamków Ego",
+      "desc": "Zawiera 1-3 Odłamków Ego losowego Grzesznika.",
+      "flavor": "Zebrane na oślep i prrzechowane w tych pudełkach odłamki ego. Ich zawartość jest tajemnicą.\nTrzymając je w cichym miejscu słyszysz ciche mamrotanie."
     },
     {
       "id": 1203,
-      "name": "[Season 3] Nominable Egoshard Crate",
-      "desc": "Open to receive 1-3 Egoshards of a Sinner of choice.",
-      "flavor": "A crate that yields Egoshards of a Sinner you choose.\nAccording to Faust, its contents are determined once a manager makes their decision."
+      "name": "[Sezon 3] Zaadresowana Skrzynia Odłamków Ego",
+      "desc": "Zawiera 1-3 Odłamków Ego wybranego Grzesznika.",
+      "flavor": "Skrzynia dająca Odłamki Ego konkretnego Grzesznika.\nWedług Faust, jej zawartość jest zdecydowana w chwili, gdy kierownik dokona decyzji."
     },
     {
       "id": 10101,
-      "name": "[Season 1] Yi Sang’s Egoshard",
-      "desc": "Used for purchasing Yi Sang’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Yi Sanga",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Yi Sanga w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika, skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10201,
-      "name": "[Season 1] Faust’s Egoshard",
-      "desc": "Used for purchasing Faust’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Faust",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Faust w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika, skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10301,
-      "name": "[Season 1] Don Quixote’s Egoshard",
-      "desc": "Used for purchasing Don Quixote’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Don Kichote",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Don Kichote w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika, skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10401,
-      "name": "[Season 1] Ryōshū’s Egoshard",
-      "desc": "Used for purchasing Ryōshū’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Ryōshū",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Ryōshū w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10501,
-      "name": "[Season 1] Meursault’s Egoshard",
-      "desc": "Used for purchasing Meursault’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Meursaulta",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Meursaulta w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10601,
-      "name": "[Season 1] Hong Lu’s Egoshard",
-      "desc": "Used for purchasing Hong Lu’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Hong Lu",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Hong Lu w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10701,
-      "name": "[Season 1] Heathcliff’s Egoshard",
-      "desc": "Used for purchasing Heathcliff’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Heathcliffa",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Heathcliffa w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10801,
-      "name": "[Season 1] Ishmael’s Egoshard",
-      "desc": "Used for purchasing Ishmael's Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Ishmael",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Ishmael w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10901,
-      "name": "[Season 1] Rodion’s Egoshard",
-      "desc": "Used for purchasing Rodya's Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Rodion",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Rodion w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11001,
-      "name": "[Season 1] Sinclair’s Egoshard",
-      "desc": "Used for purchasing Sinclair’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Sinclaira",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Sinclaira w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11101,
-      "name": "[Season 1] Outis’s Egoshard",
-      "desc": "Used for purchasing Outis’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Outis",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Outis w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11201,
-      "name": "[Season 1] Gregor’s Egoshard",
-      "desc": "Used for purchasing Gregor’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 1] Odłamek Ego Gregora",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Gregora w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10001,
-      "name": "Season 1 [Selected Sinner]’s Egoshard",
+      "name": "Sezon 1 [Selected Sinner]’s Odłamek Ego",
       "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
       "flavor": ""
     },
     {
       "id": 10102,
-      "name": "[Season 2] Yi Sang’s Egoshard",
-      "desc": "Used for purchasing Yi Sang’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Yi Sanga",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Yi Sanga w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10202,
-      "name": "[Season 2] Faust’s Egoshard",
-      "desc": "Used for purchasing Faust’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Faust",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Faust w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10302,
-      "name": "[Season 2] Don Quixote’s Egoshard",
-      "desc": "Used for purchasing Don Quixote’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Don Kichote",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Don Kichote w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10402,
-      "name": "[Season 2] Ryōshū’s Egoshard",
-      "desc": "Used for purchasing Ryōshū’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Ryōshū",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Ryōshū w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika, skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10502,
-      "name": "[Season 2] Meursault’s Egoshard",
-      "desc": "Used for purchasing Meursault’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Meursaulta",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Meursaulta w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika, skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10602,
-      "name": "[Season 2] Hong Lu’s Egoshard",
-      "desc": "Used for purchasing Hong Lu’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Hong Lu",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Hong Lu w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika, skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10702,
-      "name": "[Season 2] Heathcliff’s Egoshard",
-      "desc": "Used for purchasing Heathcliff’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Heathcliffa",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Heathcliffa w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10802,
-      "name": "[Season 2] Ishmael’s Egoshard",
-      "desc": "Used for purchasing Ishmael’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Ishmael",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Ishmael w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10902,
-      "name": "[Season 2] Rodion’s Egoshard",
-      "desc": "Used for purchasing Rodion’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Rodion",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Rodion w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11002,
-      "name": "[Season 2] Sinclair’s Egoshard",
-      "desc": "Used for purchasing Sinclair’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Sinclaira",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Sinclaira w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11102,
-      "name": "[Season 2] Outis’s Egoshard",
-      "desc": "Used for purchasing Outis’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Outis",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Outis w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11202,
-      "name": "[Season 2] Gregor’s Egoshard",
-      "desc": "Used for purchasing Gregor’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 2] Odłamek Ego Gregora",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Gregora w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10103,
-      "name": "[Season 3] Yi Sang’s Egoshard",
-      "desc": "Used for purchasing Yi Sang’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Yi Sanga",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Yi Sanga w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10203,
-      "name": "[Season 3] Faust’s Egoshard",
-      "desc": "Used for purchasing Faust’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Faust",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Faust w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10303,
-      "name": "[Season 3] Don Quixote’s Egoshard",
-      "desc": "Used for purchasing Don Quixote’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Don Kichote",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Don Kichote w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10403,
-      "name": "[Season 3] Ryōshū’s Egoshard",
-      "desc": "Used for purchasing Ryōshū’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Ryōshū",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Ryōshū w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10503,
-      "name": "[Season 3] Meursault’s Egoshard",
-      "desc": "Used for purchasing Meursault’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Meursaulta",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Meursaulta w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10603,
-      "name": "[Season 3] Hong Lu’s Egoshard",
-      "desc": "Used for purchasing Hong Lu’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Hong Lu",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Hong Lu w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10703,
-      "name": "[Season 3] Heathcliff’s Egoshard",
-      "desc": "Used for purchasing Heathcliff’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Heathcliffa",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Heathcliffa w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10803,
-      "name": "[Season 3] Ishmael’s Egoshard",
-      "desc": "Used for purchasing Ishmael’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Ishmael",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Ishmael w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10903,
-      "name": "[Season 3] Rodion’s Egoshard",
-      "desc": "Used for purchasing Rodion’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Rodion",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Rodion w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11003,
-      "name": "[Season 3] Sinclair’s Egoshard",
-      "desc": "Used for purchasing Sinclair’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Sinclaira",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Sinclaira w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11103,
-      "name": "[Season 3] Outis’s Egoshard",
-      "desc": "Used for purchasing Outis’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Outis",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Outis w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 11203,
-      "name": "[Season 3] Gregor’s Egoshard",
-      "desc": "Used for purchasing Gregor’s Identities, E.G.O, and Thread from the Dispenser.",
-      "flavor": "Fleeting moments from any point in the Sinner's time condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized."
+      "name": "[Sezon 3] Odłamek Ego Gregora",
+      "desc": "Używane do kupowania Tożsamości i E.G.O Gregora w Automacie.",
+      "flavor": "Przemijające chwile z życia Grzesznika skupione w fizycznej formie. Odłamki lewitują w powietrzu.\nMożliwości są chwilowe; trwają w niepewności, dopóki nie zostaną wykorzystane."
     },
     {
       "id": 10002,
-      "name": "Season 2 [Selected Sinner]’s Egoshard",
+      "name": "Sezon 2 [Selected Sinner]’s Odłamek Ego",
       "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
       "flavor": ""
     },
     {
       "id": 4,
-      "name": "Yisang [Ideality]",
+      "name": "Yisang [Idealność]",
       "desc": "천장 재화 표시용(name 만 번역해주세요)",
       "flavor": ""
     },
@@ -416,7 +416,7 @@
     },
     {
       "id": 5,
-      "name": "Egoshards",
+      "name": "Odłamek Egos",
       "desc": "자판기 재화 표시용(name 만 번역해주세요)",
       "flavor": ""
     },
@@ -470,37 +470,37 @@
     },
     {
       "id": 232,
-      "name": "Takeoff Module - ID Uptie",
-      "desc": "Raises an Identity’s Uptie Tier up to Tier 4.",
-      "flavor": "Rapid Identity Uptie Module developed by LCA R&D Team.\nForcibly insert the shimmering threads and weave the shards together, rapidly raising the Uptie tier to a certain level.\nWhile those outside the mirror may not know, this devastating injection sweeps short-lived destruction through the mirror."
+      "name": "Moduł Rozwojowy - Powiązanie ID",
+      "desc": "Podnosi Poziom Powiązania Tożsamości do 4.",
+      "flavor": "Moduł przyspieszonego rozwoju Tożsamości stworzony przez Dział Badań LCA.\nWtłaczanie na siłę migoczących nici i zszcie ich razem, natychmiastowo podnosząc ich powiązanie do konkretnego poziomu.\nO ile ci po tej stronie tafli o tym nie wiedzą, to wstrzyknięcie powoduje krótkotrwałe zniszczenie poprzez lustro."
     },
     {
       "id": 233,
-      "name": "Takeoff Module - E.G.O Spinning [WAW] x1",
-      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os WAW Level or lower)",
-      "flavor": "E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to a certain level at an accelerated pace.\nIt is yet to be known how much more of this pressure the heart known as E.G.O... can handle Threadspinning these Abnormal-Psychoment based E.G.Os so carelessly out of convenience."
+      "name": "Moduł Rozwojowy - E.G.O Przędzenie [WAW] x1",
+      "desc": "Podnosi Poziom Przędzenia E.G.O do 4. (Można użyć tylko na E.G.O kategorii WAW lub niższej)",
+      "flavor": "Moduł przyspieszonego rozwoju E.G.O stworzony przez Dział Badań LCA.\nSzyje migoczące nici, natychmiastowo wzmacniając E.G.O Threadspinning do konkretnego poziomu.\nNie wiemy ile jeszcze to serce zwane E.G.O... zniesie Przędzenie tych Abnormalnych E.G.O wzorowanych na Psychosprzęcie, więc zalecamy ostrożność używając tej metody."
     },
     {
       "id": 501,
-      "name": "Nominable S1 Identity Ticket",
-      "desc": "Use this item to select a Season 1 Identity(including Event Identities) to obtain.",
-      "flavor": "A ticket capable of observing and pulling out an Identity of a particular period within the LCB team's pursuit of Golden Boughs.\n'The ability to target and pull up a specific period in which an Identity from an observed Mirror World demonstrates Limbus Company's vastly significant technological triumph. - LCA Mirror World Observatorium Department Mirror Researcher'"
+      "name": "Zaadresowany Bilet Na Tożsamość z S1",
+      "desc": "Pozwala na pozyskanie wybranej tożsamości z 1 Sezonu (w tym z wydarzeń).",
+      "flavor": "Bilet zdolny do zaobserwowania i wyciągnięcia Tożsamości z konkretnego okresu w pogoni za Złotymi Gałęziami zespołu LCB.\n'Zdolność wybrania konkretnego okresu, i wyciągnięcia Tożsamości z zaobserwowanego Lustrzanego Swiata pokazuje wielki technologiczny tryum Limbus Compan. - Badacz Działu Obserwacji Lustrzanych Światów LCA'"
     },
     {
       "id": 601,
-      "name": "Nominable S1 Battle Pass E.G.O Ticket",
-      "desc": "Use this item to select a Season 1 Battle Pass E.G.O to obtain.",
-      "flavor": "A ticket capable of observing and pulling out an E.G.O of a particular period within the LCB team's pursuit of Golden Boughs.\n'Dragging up an E.G.O, observed within a specific period from the deep fathoms, is a much more complicated research than making Identities selectable. Fuhu. - LCA Mirror World Observatorium Department Observation Researcher'"
+      "name": "Zaadresowana S1 Battle Pass E.G.O Ticket",
+      "desc": "Pozwala na pozyskanie wybranego E.G.O z 1 Sezonu.",
+      "flavor": "Bilet zdolny do zaobserwowania i wyciągnięcia E.G.O z konkretnego okresu w pogoni za Złotymi Gałęziami zespołu LCB.\n'Wydobycie z odmętów E.G.O zaobserwowanego w konkretnym okresie jest znacznie bardziej skomplikowane niż danie wam możliwości wyboru Tożsamości. Fuhu. - Badacz Działu Obserwacji Lustrzanych Światów LCA'"
     },
     {
       "id": 12004,
-      "name": "Season 4 Uptie & Threadspinning only Shard (Universal)",
+      "name": "Sezon 4 Uptie & Threadspinning only Shard (Universal)",
       "desc": "Can be used to Uptie Identities and Threadspin E.G.O for all Sinners.",
       "flavor": "A universal shard that can be used to Uptie or Threadspin Identities & E.G.O for all Sinners.\nHowever, these shards cannot be used to extract Identities or E.G.O, no matter how many of these shards one collects.\n'These shards are products of our research into the omnitransformative nature of Golden Boughs; it can be used to fill any fathoms or worlds of mirrors. Huh? Extractions? Of course not. Its one-size-fits-all-worlds nature would mean that it obviously cannot have been made *for* any specific world, right? - LCA Mirror World Observatorium Department Chief Researcher'"
     },
     {
       "id": 234,
-      "name": "Takeoff Module - E.G.O Spinning [HE] x1",
+      "name": "Moduł Rozwojowy - E.G.O Spinning [HE] x1",
       "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os HE Level or lower)",
       "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to the [HE] level at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
     },
@@ -518,14 +518,14 @@
     },
     {
       "id": 502,
-      "name": "Nominable S2 Identity Ticket",
-      "desc": "Use this item to select a Season 2 Identity(including Event Identities) to obtain.",
+      "name": "Zaadresowana S2 Identity Ticket",
+      "desc": "Use this item to select a Sezon 2 Identity(including Event Identities) to obtain.",
       "flavor": "A ticket capable of observing and pulling out an Identity of a particular period within the LCB team's pursuit of Golden Boughs.\n'The ability to target and pull up a specific period in which an Identity from an observed Mirror World demonstrates Limbus Company's vastly significant technological triumph. - LCA Mirror World Observatorium Department Mirror Researcher'"
     },
     {
       "id": 235,
       "name": "Identity Takeoff Ticket - ver.2",
-      "desc": "Raises an Identity’s level to up to 50, and Uptie Tier up to Tier 4.",
+      "desc": "Podnosi poziom Tożsamości do 50, and Uptie Tier up to Tier 4.",
       "flavor": "Tear this ticket to activate it.\nIt tears through the space-time, uptying and enhancing an Identity at a ridiculous speed.\nIt makes a pretty addicting sound when it tears; makes one want to tear more tickets."
     },
     {
