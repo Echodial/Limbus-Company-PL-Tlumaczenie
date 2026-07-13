@@ -1709,7 +1709,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Wypatrosze Cię Tą Przeklętą Klingą!",
+          "name": "Wypatroszę Cię Tą Przeklętą Klingą!",
           "desc": "Jeśli ta jednostka jest szybsza od Przeciwnika, Zadaj (Różnica prędkości x [Burst] na Przeciwniku)% więcej obrażeń (maks 50%)\nJeśli ta jednostka jest szybsza od Przeciwnika o 2 lub więcej, +1 Mocy Monety\n[WhenUse] Zyskaj 3 [LegStrength]\n[WinDuel] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -1746,7 +1746,7 @@
         },
         {
           "level": 4,
-          "name": "Wypatrosze Cię Tą Przeklętą Klingą!",
+          "name": "Wypatroszę Cię Tą Przeklętą Klingą!",
           "desc": "Jeśli ta jednostka jest szybsza od Przeciwnika, Zadaj (Różnica prędkości x [Burst] na Przeciwniku)% więcej obrażeń (maks 50%)\nJeśli ta jednostka jest szybsza od Przeciwnika, +(Różnica prędkości jednostek/2; maks 2) Mocy Monety\n[WhenUse] Jeśli Przeciwnik ma 15+ [Burst], +1 Mocy Monety</style>\n[WhenUse] Zyskaj 3 [LegStrength]\n[WinDuel] Nałóż +2 Ilości [Burst]<style=\"highlight\"></style>",
           "coinlist": [
             {
