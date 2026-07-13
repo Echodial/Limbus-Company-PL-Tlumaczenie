@@ -2744,7 +2744,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Czas na przekąske, Fasica",
+          "name": "Czas na przekąskę, Fasica",
           "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
@@ -2775,7 +2775,7 @@
         },
         {
           "level": 2,
-          "name": "Czas na przekąske, Fasica",
+          "name": "Czas na przekąskę, Fasica",
           "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n<style=\"highlight\">Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
@@ -2806,7 +2806,7 @@
         },
         {
           "level": 4,
-          "name": "Czas na przekąske, Fasica",
+          "name": "Czas na przekąskę, Fasica",
           "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
