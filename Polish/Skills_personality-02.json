@@ -822,7 +822,7 @@
         {
           "level": 1,
           "name": "40Y-3: Aktywacja",
-          "desc": "[WhenUse] Zużyj 5 Ilości [Charge] aby zyskać +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zużyj 5 Ilości [Charge] , aby zyskać +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -837,7 +837,7 @@
         {
           "level": 2,
           "name": "40Y-3: Aktywacja",
-          "desc": "[WhenUse] Zużyj 5 Ilości [Charge] aby zyskać +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zużyj 5 Ilości [Charge] , aby zyskać +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -852,7 +852,7 @@
         {
           "level": 4,
           "name": "40Y-3: Aktywacja",
-          "desc": "[WhenUse] Zużyj 5 Ilości [Charge] aby zyskać +1 Mocy Monety<style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] Zużyj 5 Ilości [Charge] , aby zyskać +1 Mocy Monety<style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {
@@ -872,7 +872,7 @@
         {
           "level": 1,
           "name": "Ładowanie Przeciwnego Prądu",
-          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ , aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] , aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -888,7 +888,7 @@
         {
           "level": 2,
           "name": "Ładowanie Przeciwnego Prądu",
-          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ , aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] , aby Zyskać +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -904,7 +904,7 @@
         {
           "level": 4,
           "name": "Ładowanie Przeciwnego Prądu",
-          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] aby Zyskać +1 Mocy Monety <style=\"highlight\">+2</style>",
+          "desc": "[WhenUse] Przy 5~9 Ilości [Charge], Zużyj 2(10 - aktualna Ilość [Charge])% PŻ , aby podnieść Ilość [Charge] do 10\n[WhenUse] Zużyj 10 Ilość [Charge] , aby Zyskać +1 Mocy Monety <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {},
@@ -2471,7 +2471,7 @@
         {
           "level": 1,
           "name": "Fascia Jest Głodna",
-          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2499,7 +2499,7 @@
         {
           "level": 2,
           "name": "Fascia Jest Głodna",
-          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2527,7 +2527,7 @@
         {
           "level": 4,
           "name": "Fascia Jest Głodna",
-          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Starcia za każdy rodzaj negatywnego efektu na celu (maks 2)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2560,7 +2560,7 @@
         {
           "level": 3,
           "name": "Stłumione Ciało",
-          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +3% obrażeń za każdą zużytą Ilość [ChargeBodyArt]",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] , aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +3% obrażeń za każdą zużytą Ilość [ChargeBodyArt]",
           "coinlist": [
             {
               "coindescs": [
@@ -2598,7 +2598,7 @@
         {
           "level": 4,
           "name": "Stłumione Ciało",
-          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 3)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +3% obrażeń za każdą zużytą Ilość [ChargeBodyArt]",
+          "desc": "Umiejętność ekskluzywna dla trybu [IronMaidenPersonality]\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 3)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt] , aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +3% obrażeń za każdą zużytą Ilość [ChargeBodyArt]",
           "coinlist": [
             {
               "coindescs": [
@@ -2745,7 +2745,7 @@
         {
           "level": 1,
           "name": "Czas na przekąskę, Fasica",
-          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2776,7 +2776,7 @@
         {
           "level": 2,
           "name": "Czas na przekąskę, Fasica",
-          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n<style=\"highlight\">Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n<style=\"highlight\">Zadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)</style>\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2807,7 +2807,7 @@
         {
           "level": 4,
           "name": "Czas na przekąskę, Fasica",
-          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na celu (maks <style=\"highlight\">4</style>)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2843,7 +2843,7 @@
         {
           "level": 3,
           "name": "Oswobodzenie Stłumionego Ciała",
-          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 2)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt]aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń za każdą zużytą Ilość [ChargeBodyArt]\n-Posiadając 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 2)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt], aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń za każdą zużytą Ilość [ChargeBodyArt]\n-Posiadając 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2887,7 +2887,7 @@
         {
           "level": 4,
           "name": "Oswobodzenie Stłumionego Ciała",
-          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 3)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt]aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń za każdą zużytą Ilość [ChargeBodyArt]\n-Posiadając 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w [SuperCoin]",
+          "desc": "Umiejętność ekskluzywna dla trybu [SilverOpportunity]\n[WhenUse] Zadaj +30% obrażeń za każdą nie użytą Wagę Ataku\n[WhenUse] +1 Mocy Finalnej za każde 4 [Laceration] na głównym celu (maks 3)\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj maks 20 Ilości [ChargeBodyArt], aby zyskać:\n- +2 Mocy Finalnej\n- Zadaj +1% obrażeń za każdą zużytą Ilość [ChargeBodyArt]\n-Posiadając 3+/5+ [ChargeBodyArt], Zyskaj +1/+2 Wagi Ataku\n- Zamień wszystkie Monety tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2957,7 +2957,7 @@
         {
           "level": 1,
           "name": "Wandalizm Jest Surowo Zakazany.",
-          "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)\n[WhenUse] Jeśli cel posiada 6+ [Laceration], +1 Mocy Monet\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +5% obrażeń za każdy rodzaj negatywnego efektu na celu (maks 20%)\n[WhenUse] Jeśli cel posiada 6+ [Laceration], +1 Mocy Monet\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
@@ -2972,7 +2972,7 @@
         {
           "level": 4,
           "name": "Wandalizm Jest Surowo Zakazany.",
-          "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
+          "desc": "[DuelCounter]\nUmiejętność ekskluzywna dla trybu [SilverOpportunity]\nUmiejętność ta jest ekskluzywnie używana przez [SupportProtect]\nZadaj +<style=\"highlight\">10</style>% obrażeń za każdy rodzaj negatywnego efektu na celu (maks <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)</style>\n[WhenUse] Posiadając 10+ Ilości [ChargeBodyArt], zużyj 5 Ilości [ChargeBodyArt] , aby zyskać:\n- +1 Mocy Starcia\n- Zamień ostatną Monete tej Umiejętności w [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
