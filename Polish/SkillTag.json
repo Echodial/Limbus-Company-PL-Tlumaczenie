@@ -254,19 +254,19 @@
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Ponowne Wykorzystanie - Trafienie"
+      "name": "[Ponowne Wykorzystanie - Trafienie]"
     },
     {
       "id": "CriticalOnSucceedAttackHead",
-      "name": "[On Crit - Heads Hit]"
+      "name": "[Trafienie Krytyczne - Orłem]"
     },
     {
       "id": "OnStartCoin",
-      "name": "[Coin Start]"
+      "name": "[Początek Monety]"
     },
     {
       "id": "BeforeBehavior",
-      "name": "[Before Action]"
+      "name": "[Przed Akcją]"
     }
   ]
 }
