@@ -29,7 +29,7 @@
     {
       "id": 5,
       "model": "눈이붉은자",
-      "teller": "Mężczyzna z Czerwonymi Oczami",
+      "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
       "content": "Nie powiedziałbym, że taki dobry, ale nadzieję możemy mieć. Jak się czujesz, Dante?"
     },
@@ -43,14 +43,14 @@
     {
       "id": 7,
       "model": "눈이붉은자",
-      "teller": "Mężczyzna z Czerwonymi Oczami",
+      "teller": "Człowiek z Czerwonymi Oczami",
       "title": "???",
-      "content": "Same tiki i taki jak u zegara… Ehhh będzie to bariera językowa."
+      "content": "Same tiki i taki jak u zegara… Ehhh, będzie z tego bariera językowa."
     },
     {
       "id": 8,
       "model": "베르길리우스",
-      "content": "Mów mi Wergiliusz… Jeśli rozumiesz co mówię, daj mi jakąś reakcję, Dante."
+      "content": "Mów mi Wergiliusz… Jeśli rozumiesz co mówię, daj mi jakiś znak, Dante."
     },
     {
       "id": 9,
@@ -90,16 +90,16 @@
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "Zgaduję, że chcesz odzyskać wspomniania. Mam rację?"
+      "content": "Zgaduję, że chcesz odzyskać wspomnienia. Mam rację?"
     },
     {
       "id": 18,
-      "content": "Kiwnęłom głową. Zdecydowanie czuje się głupio."
+      "content": "Kiwnęłom głową. Cczułom się odrobinę głupio przez taką komunikację."
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "Z rozmową jak po maśle. A was co powstrzymuje przed taką rozmową poprzez gestykulację?"
+      "content": "Z rozmową jak po maśle. A was co powstrzymuje przed taką komunikacją poprzez gestykulację?"
     },
     {
       "id": 20,
@@ -114,7 +114,7 @@
     {
       "id": 22,
       "model": "파우스트",
-      "content": "Wątpię, że będziemy mieli często kontrolę nad naszymi ciałami."
+      "content": "Wątpię, że będziemy mieli często kontrolę nad własnymi ciałami."
     },
     {
       "id": 23,
@@ -138,7 +138,7 @@
     },
     {
       "id": 27,
-      "content": "Jak o tym pomyśleć, ten mężczyzna z czerwonymi oczami też tak na mnie mowił."
+      "content": "Jak o tym pomyśleć, ten Człowiek z czerwonymi oczami też tak na mnie mowił."
     },
     {
       "id": 28,
@@ -162,7 +162,7 @@
       "model": "프롤로그단테2",
       "teller": "Dante",
       "title": "Ja",
-      "content": "<Czekaj… Rozumiesz co mówię?>"
+      "content": "<Chwila… Rozumiesz co mówię?>"
     },
     {
       "id": 32,
@@ -268,7 +268,7 @@
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Więc słyszałem, że masz być naszym szefem, albo… no tak, kierownikiem."
+      "content": "Więc słyszałem, że masz być naszym szefem, czy… no tak, kierownikiem."
     },
     {
       "id": 51,
@@ -283,12 +283,12 @@
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Uhrm… Hmm, tsk. Ciężko tak złożyć właściwe zdania."
+      "content": "Uhrm… Hmm, tsk. Ciężko tak dobrać słowa."
     },
     {
       "id": 54,
       "model": "그레고르",
-      "content": "Nie wiem co zrobiłoś ze starą głową, ale każdy ma swoją historię."
+      "content": "Nie wiem, co zrobiłoś ze starą głową, ale każdy ma swoją historię."
     },
     {
       "id": 55,
@@ -329,11 +329,11 @@
     {
       "id": 63,
       "model": "로쟈",
-      "content": "Jestem tego pewna. Pewnie byłoś kimś ważnym w swoim Gnieździe, co nie? Jak tylko wrócą ci stare nawyki, będziemy mieć forsy jak lodu… Fuhu…"
+      "content": "Jestem tego pewna. Pewnie byłoś jakąś szychą w swoim Gnieździe, co nie? Jak tylko wrócą ci stare nawyki, będziemy mieć forsy jak lodu… Fuhu…"
     },
     {
       "id": 64,
-      "content": "…Dogadać się to umie, To trzeba jej przyznać."
+      "content": "…Dogadać się to umie, trzeba jej przyznać."
     },
     {
       "id": 65,
@@ -348,7 +348,7 @@
     {
       "id": 67,
       "model": "로쟈",
-      "content": "Aw, nudy~ Tyle powiesz?"
+      "content": "Aw, nudy~ Tyle tylko powiesz?"
     },
     {
       "id": 68,
@@ -411,7 +411,7 @@
     {
       "id": 81,
       "model": "이스마엘",
-      "content": "Mów mi Ishmael."
+      "content": "Możesz mi mówić Ishmael."
     },
     {
       "id": 82
@@ -445,7 +445,7 @@
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "Tylko se nie myśl, że na czyjeś rozkazy. Zajmowałem się tylko gnojkami, które działały mi na nerwy."
+      "content": "Tylko sobie nie myśl, że na czyjeś rozkazy. Zajmowałem się tylko gnojkami, które działały mi na nerwy."
     },
     {
       "id": 90,
@@ -472,17 +472,17 @@
     {
       "id": 95,
       "model": "돈키호테",
-      "content": "Fixer, który biegnie ku swemu marzeniu. Zaszczyt cię poznać."
+      "content": "Fachowiec, który biegnie ku swemu marzeniu. Zaszczyt cię poznać."
     },
     {
       "id": 96,
       "model": "단테",
-      "content": "<Fixer…? To zdecydowanie brzmi jak słowo które znałom…>"
+      "content": "<Fachowiec…? To zdecydowanie brzmi jak, słowo które znałom…>"
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "Czyż nie wiesz kto to taki? Mogę odpowiedzieć na twe pytanie! Fixerzy są ochrońcami Miasta!"
+      "content": "Czyż nie wiesz kto to taki? Mogę odpowiedzieć na twe pytanie! Fachowcy są ochrońcami Miasta!"
     },
     {
       "id": 98,
@@ -520,7 +520,7 @@
     {
       "id": 105,
       "model": "단테",
-      "content": "<Nie, ja to nie…>"
+      "content": "<Nie, ja tego…>"
     },
     {
       "id": 106,
@@ -538,7 +538,7 @@
     },
     {
       "id": 109,
-      "content": "Ale gdy poczuł na sobie czerwony wzrok, odchrząknął i wrócił na swoje miejsce."
+      "content": "Ale gdy poczuł na sobie czerwony wzrok Wergiliusza, odchrząknął i wrócił na swoje miejsce."
     },
     {
       "id": 110,
@@ -606,7 +606,7 @@
     {
       "id": 124,
       "model": "오티스",
-      "content": "Aż…"
+      "content": "Na…"
     },
     {
       "id": 125,
@@ -758,7 +758,7 @@
     {
       "id": 156,
       "model": "베르길리우스",
-      "content": "Zgadza się, Kierowniku Wykonawczy Dante. Wybieresz się na przeprawę przez Inferno razem z dwunastoma Grzesznikami, którzy właśnie ci się przedstawili."
+      "content": "Zgadza się, Kierowniku Wykonawczy Dante. Wybierzesz się na przeprawę przez Inferno, razem z dwunastoma Grzesznikami, którzy właśnie ci się przedstawili."
     },
     {
       "id": 157,
@@ -778,12 +778,12 @@
     {
       "id": 160,
       "model": "단테",
-      "content": "<Nie roz… Że byłom wcześnieł łowcą skarbów czy co?>"
+      "content": "<Nie roz… Że byłom wcześniej łowcą skarbów czy co?>"
     },
     {
       "id": 161,
       "model": "파우스트",
-      "content": "Wogóle cię nie rozumie."
+      "content": "W ogóle cię nie rozumie."
     },
     {
       "id": 162,
@@ -900,7 +900,7 @@
     {
       "id": 185,
       "model": "베르길리우스",
-      "content": "Wygląda na kolejną bamdę Szczurów z Tylnych Uliczek."
+      "content": "Wygląda na kolejną bandę Szczurów z Tylnych Uliczek."
     },
     {
       "id": 186,
