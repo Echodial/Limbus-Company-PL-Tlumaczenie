@@ -9,7 +9,7 @@
     {
       "id": 1,
       "model": "파우스트",
-      "content": "Nie ma powodu żeby się niecierpliwić, Ishmael. Z przebiegiem czasu naturalnie…"
+      "content": "Nie ma powodu, żeby się niecierpliwić, Ishmael. Z przebiegiem czasu naturalnie…"
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Dobrze wiem że chcesz jak najszybciej osiągnąć swoje cele… ale spróbuj mieć troche cierpliwości."
+      "content": "Dobrze wiem, że chcesz jak najszybciej osiągnąć swoje cele… ale spróbuj mieć trochę cierpliwości."
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
     {
       "id": 5,
       "model": "파우스트",
-      "content": "Jednakże, przez to że system ten działa na zasadzie wyławiania jednej z niezkończonnych możliwości z lustrzanego świata, będzie on chwilowo nadpisywać część waszych wspomnień."
+      "content": "Jednakże, przez to, że system ten działa na zasadzie wyławiania jednej z nieskończonnych możliwości z lustrzanego świata, będzie on chwilowo nadpisywać część waszych wspomnień."
     },
     {
       "id": 6,
@@ -39,12 +39,12 @@
     {
       "id": 7,
       "model": "로쟈",
-      "content": "Hej, przyhamuj troche… Czy tylko mi się wydaje że ten cały proces brzmi dość niebezpiecznie?"
+      "content": "Hej, przyhamuj troche… Czy tylko mi się wydaje, że ten cały proces brzmi dość niebezpiecznie?"
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "Co jeśli po fakcie nie wróce do bycia sobą? Hahah."
+      "content": "Co jeśli po fakcie nie wrócę do bycia sobą? Hahah."
     },
     {
       "id": 9,
@@ -54,12 +54,12 @@
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Nie myśl o sobie jak o Statku Tezeusza"
+      "content": "Nie myśl o sobie, jak o Statku Tezeusza"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "content": "Nawet jeśli to prawda że chwilowo pożyczasz ich osobowość i wspomnienia, system jest zbudowany w ten sposób, żebyś ciągle trzymała kontrolę nad swoją egzystencją."
+      "content": "Nawet jeśli to prawda, że chwilowo pożyczasz ich osobowość i wspomnienia, system jest zbudowany w taki sposób, żebyś ciągle trzymała kontrolę nad swoją egzystencją."
     },
     {
       "id": 12,
@@ -69,7 +69,7 @@
     {
       "id": 13,
       "model": "파우스트",
-      "content": "…Jednakże finalnie wzrost naszych zdolności zależy od w większości od ciebie, Menedżerze Dante."
+      "content": "…Jednakże finalnie wzrost naszych zdolności zależy od w większości od ciebie, Kierowniku Dante."
     },
     {
       "id": 14,
@@ -94,7 +94,7 @@
     {
       "id": 18,
       "model": "오티스",
-      "content": "Załapałam je tu i tam. W mojej poprzedniej profesji musiałam dogadywać się z ludźmi z wielu róznych fachów."
+      "content": "Załapałam je tu i tam. W mojej poprzedniej profesji musiałam dogadywać się z ludźmi z wielu różnych fachów."
     },
     {
       "id": 19,
@@ -109,7 +109,7 @@
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "Teraz przydało by się oczyścić drogę. Będziecie mieli potem tyle wolnego czasu że nie będziecie wiedzieli co z nim zrobić, więc zachowajcie tą rozmowę na potem."
+      "content": "Teraz przydało by się oczyścić drogę. Będziecie mieli potem tyle wolnego czasu, że nie będziecie wiedzieli co z nim zrobić, więc zachowajcie tą rozmowę na potem."
     }
   ]
 }
