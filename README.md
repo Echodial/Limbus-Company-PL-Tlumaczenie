@@ -59,7 +59,7 @@ Canto od 3 ad infinitum(główne priorytety zaraz po zakończeniu poprzedniego, 
 
 Historyjki Powiązania(to może nawet czekać aż dogonimy aktualne canto, ale jak ładnie poprosicie to może ktoś się zabierze za ulubieńców)
 
-Pogawędki przez Lustro(tu okazjonalnie może kogoś nawiedzić i może pare być zrobione raz na jakiś czas. Tak było z Małą Siostrą Środka Don Kichote oraz Jurodywij Dwudziestego Dystryktu Ryoshu)
+Pogawędki przez Lustro(tu okazjonalnie może kogoś nawiedzić i może pare być zrobione raz na jakiś czas. Tak było z Młodszą Siostrą Środka Don Kichote oraz Yurodivy z Dwudziestego Dystryktu Ryoshu)
 
 Komentatorzy(dante i ricardo są zrobieni, ryoshu, gebura oraz full stop office są od czasu do czasu na warsztacie ale nie oczekujcie tu cudów)
 
