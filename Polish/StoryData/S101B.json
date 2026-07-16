@@ -21,15 +21,15 @@
     },
     {
       "id": 3,
-      "content": "W końcu nic nie jest lepszym sposobem na nudę w podróży niż zamknięcie oczu."
+      "content": "W końcu nic nie jest lepszym sposobem na nudę w podróży, niż zamknięcie oczu."
     },
     {
       "id": 4,
-      "content": "Z resztą, to nie tak że było cokolwiek innego do roboty na autobusie który jechał niewiadomo gdzie…"
+      "content": "Zresztą, to nie tak, że było cokolwiek innego do roboty na pokładzie autobusu, który jechał niewiadomo gdzie…"
     },
     {
       "id": 5,
-      "content": "Mój brak głowy oraz wspomnień, które w niej były też na pewno nie pomagały."
+      "content": "Mój brak głowy oraz wspomnień, które w niej były, też na pewno nie pomagały."
     },
     {
       "id": 6,
@@ -57,11 +57,11 @@
     },
     {
       "id": 11,
-      "content": "Jednak wszyscy na pokładzie patrzyli przed siebię tym samym letargicznym wzrokiem."
+      "content": "Jednak wszyscy na pokładzie patrzyli przed siebie tym samym letargicznym spojrzeniem."
     },
     {
       "id": 12,
-      "content": "Cała scena wydała mi się na dość makabryczną, ale patrząc na reakcje reszty (a raczej ich brak) naszło mnie wrażenie, że takie sceny muszą być w Mieście dość częste."
+      "content": "Cała scena wyglądała mi na dość makabryczną, ale patrząc na reakcje reszty (a raczej ich brak) naszło mnie wrażenie, że takie sceny muszą być w Mieście dość częste."
     },
     {
       "id": 13,
@@ -79,7 +79,7 @@
     },
     {
       "id": 16,
-      "content": "…O wiele bardziej 'unikalna' cecha jego wyglądu sprawiła, że prawie wyślizgnęło mi się z moich (retorycznych) ust coś o wiele bardziej nieodpowiedniego."
+      "content": "…O wiele bardziej 'unikalna' cecha jego wyglądu sprawiła, że z moich (metaforycznych) ust prawie wyślizgnęło mi się coś o wiele bardziej nieodpowiedniego."
     },
     {
       "id": 17,
@@ -89,12 +89,12 @@
     {
       "id": 18,
       "model": "그레고르",
-      "content": "Jak już mówiłem, mam na imię Gregor."
+      "content": "Jak już mówiłem, na imię mam Gregor."
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "Tak samo ja ty masz na imię Dante, a nie Tykacz."
+      "content": "Tak samo jak ty masz na imię Dante, a nie Tykacz."
     },
     {
       "id": 20,
@@ -113,7 +113,7 @@
     {
       "id": 23,
       "model": "카론",
-      "content": "Tak samo ja ty masz na imię Gregor, a nie Robaczek."
+      "content": "Tak samo jak ty masz na imię Gregor, a nie Robaczek."
     },
     {
       "id": 24,
@@ -128,7 +128,7 @@
     {
       "id": 26,
       "model": "그레고르",
-      "content": "Haha, rzeczywiście."
+      "content": "Haha, no dobra."
     },
     {
       "id": 27,
@@ -148,7 +148,7 @@
     {
       "id": 30,
       "model": "돈키호테",
-      "content": "Znany jest on przecież za bycie domem Roślinnej Panny! Jest to miejsce początku historii autentycznej heroski. No i…"
+      "content": "Znany jest on przecież za bycie domem Kwiecistej Panny! Jest to miejsce początku historii autentycznej heroski. No i…"
     },
     {
       "id": 31,
@@ -173,12 +173,12 @@
     {
       "id": 35,
       "model": "이스마엘",
-      "content": "…Sorka, czy ty nie słyszysz, że to ty tu robisz najwięcej hałasu?"
+      "content": "…Ej, czy ty nie słyszysz, że to ty tu robisz najwięcej hałasu?"
     },
     {
       "id": 36,
       "model": "히스클리프",
-      "content": "…To, że nie możesz umrzeć nie oznacza, że nie mogę zamienić twojego życia w piekło? Więc lepiej się nie wtrącaj."
+      "content": "…To, że nie możesz umrzeć, nie oznacza, że nie zaboli jak diabli, jak oberwiesz kiejm. Więc lepiej się nie wtrącaj."
     },
     {
       "id": 37,
@@ -196,7 +196,7 @@
     },
     {
       "id": 40,
-      "content": "Czy wstąpienie pomiędzy nich byłoby dobrym pomysłem? Czy nadeszła pora na użycie mojego kierowniczego autorytetu aby zgrabnie zdeeskalować sytuację? Coś z tyłu głowy kazało mi działać."
+      "content": "Czy wstąpienie pomiędzy nich byłoby dobrym pomysłem? Czy nadeszła pora na użycie mojego kierowniczego autorytetu, aby zgrabnie zdeeskalować sytuację? Coś z tyłu głowy kazało mi działać."
     },
     {
       "id": 41,
@@ -236,7 +236,7 @@
     {
       "id": 48,
       "model": "로쟈",
-      "content": "Aj~ Wiedziałam, że tak to się skończy-- no i patrz, jeszcze mi bryzgnęlo troche juchy na ubranie. Ludzie, czy wy nie możecie się zabijać trochę dalej ode mnie?"
+      "content": "Aj~ Wiedziałam, że tak to się skończy-- no i patrz, jeszcze mi bryzgnęlo troche juchy na ubrania. Ludzie, czy wy nie możecie się zabijać trochę dalej ode mnie?"
     },
     {
       "id": 49,
@@ -282,12 +282,12 @@
     {
       "id": 58,
       "model": "베르길리우스",
-      "content": "Dante, poprosiłbym abyś cofnęło zegar."
+      "content": "Dante, poprosiłbym abyś cofnęło wskazówki zegara."
     },
     {
       "id": 59,
       "model": "단테",
-      "content": "<Mam… cofnąć zegar?>"
+      "content": "<Cofnąć… wskazówki?>"
     },
     {
       "id": 60,
@@ -315,12 +315,12 @@
     },
     {
       "id": 65,
-      "content": "W odpowiedzi wzdechnęła ona lekko, po czym podeszła do mnie, bardziej z zobwiązania niż faktycznej chęci."
+      "content": "Ona w odpowiedzi wzdechnęła lekko, po czym podeszła do mnie, bardziej z zobwiązania niż faktycznej chęci."
     },
     {
       "id": 66,
       "model": "파우스트",
-      "content": "Dante, musisz zrobić to samo, co zrobiłoś przy naszym pierwszym spotkaniu. Nawet jeśli wtedy było to bliżej instynktownej reakcji."
+      "content": "Dante, musisz zrobić to samo, co zrobiłoś przy naszym pierwszym spotkaniu. Nawet jeśli wtedy było to bliższe instynktownej reakcji."
     },
     {
       "id": 67,
@@ -329,7 +329,7 @@
     },
     {
       "id": 68,
-      "content": "Nie posiadam niczego prypominającego oczu, więc zasłoniłom mój wzrok rękawem."
+      "content": "Nie posiadam niczego przypominającego oczu, więc zasłoniłom mój wzrok rękawem."
     },
     {
       "id": 69,
@@ -343,7 +343,7 @@
     {
       "id": 71,
       "model": "파우스트",
-      "content": "Jednak tylko ty możesz je zobaczyć. Ponieważ gwiazdy które miały je oświetlić nigdy nie zabłysły na niebie."
+      "content": "Jednak tylko ty możesz je zobaczyć. Ponieważ gwiazdy, które miały je oświetlić nigdy nie zabłysły na niebie."
     },
     {
       "id": 72,
@@ -437,7 +437,7 @@
     },
     {
       "id": 94,
-      "content": "Na tafli otaczającej mnie karmazynowej kałuży zaczęły pojawać się małe fale, a po chwili zaczęły wyjawiać się na niej również bąbelki."
+      "content": "Na tafli otaczającej mnie karmazynowej kałuży zaczęły pojawać się małe fale, a po chwili zaczęły dołączyły do nich również bąbelki."
     },
     {
       "id": 95,
@@ -445,11 +445,11 @@
     },
     {
       "id": 96,
-      "content": "A gdy formacja sylwetek dobiegła końca, ta pozornie niekończąca się agonia zniknęła, jakby nigdy jej wogóle nie było."
+      "content": "A gdy formacja sylwetek dobiegła końca, ta pozornie niekończąca się agonia zniknęła, jakby nigdy jej w ogóle nie było."
     },
     {
       "id": 97,
-      "place": "Aboard Mephistopheles",
+      "place": "Na Pokładzie Mefistofelesa",
       "model": "히스클리프",
       "content": "Mmgh…"
     },
@@ -465,7 +465,7 @@
     {
       "id": 100,
       "model": "료슈",
-      "content": "Keh… Jakie to uczucie, odzyskanie głowy chwilę po tym jak została odcięta? Powiedzielibyście, że to \"ekscytujące\"?"
+      "content": "Keh… Jakie to uczucie, odzyskanie głowy chwilę po tym, jak została odcięta? Powiedzielibyście, że to \"ekscytujące\"?"
     },
     {
       "id": 101,
@@ -478,7 +478,7 @@
     },
     {
       "id": 103,
-      "content": "Heathcliff obrócił się w moją stronę i spojżał w moją tarczę. W jego oczach tańczył płomień ślepej furii."
+      "content": "Heathcliff obrócił się w moją stronę i spojrzał w moją tarczę. W jego oczach tańczył płomień ślepej furii."
     },
     {
       "id": 104,
@@ -488,12 +488,12 @@
     {
       "id": 105,
       "model": "히스클리프",
-      "content": "Jak już skończyłoś odgrywać swoją rolę, to zejdź mi z drogi zanim zbiję ci ten durny zegar."
+      "content": "Jak już skończyłoś odgrywać swoją rolę, to zejdź mi z drogi, zanim zbiję ci ten durny zegar."
     },
     {
       "id": 106,
       "model": "싱클레어",
-      "content": "P-Prosze, poczekaj chwilę! Dante wygląda jakby naprawde cierpiało, my naprawde powinniśmy ogr―"
+      "content": "P-Prosze, poczekaj chwilę! Dante wygląda, jakby naprawde cierpiało, my powinniśmy jak możemy ogra―"
     },
     {
       "id": 107,
