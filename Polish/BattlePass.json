@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "battlepass_battlepass",
-      "content": "Battle Pass"
+      "content": "Przepustka"
     },
     {
       "id": "battlepass_passmission",
-      "content": "Pass Missions"
+      "content": "Misje"
     },
     {
       "id": "battlepass_dailymission",
-      "content": "Daily"
+      "content": "Codzienne"
     },
     {
       "id": "battlepass_weeklymission",
-      "content": "Weekly"
+      "content": "Cotygodniowe"
     },
     {
       "id": "battlepass_seasonmission",
-      "content": "Seasonal"
+      "content": "Sezonowe"
     },
     {
       "id": "battlepass_freeandpaid",
-      "content": "Paid {0} Free {1}"
+      "content": "Płatne {0} Darmowe {1}"
     },
     {
       "id": "battlepass_mission_tag_normal",
-      "content": "Regular"
+      "content": "Zwykłe"
     },
     {
       "id": "battlepass_mission_tag_battle",
-      "content": "Combat"
+      "content": "W Walce"
     },
     {
       "id": "battlepass_remain_time",
-      "content": "{0} days {1} hours left"
+      "content": "Zostałi {0} dni i {1} godzin"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass",
-      "content": "Purchasing the Limbus Pass will give you the following benefits during {0}:"
+      "content": "Zakupienie Przepustki Limbus przyzna ci dane korzyści podczas {0}:"
     },
     {
       "id": "battlepass_limbus_pass_benefit_reward",
-      "content": "Limbus Pass Rewards Available"
+      "content": "Dostępne Nagrody"
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_reward",
@@ -50,147 +50,147 @@
     },
     {
       "id": "battlepass_level_up",
-      "content": "Pass Level-up"
+      "content": "Zwiększenie Poziomu Przepustki"
     },
     {
       "id": "battlepass_level_up_ask",
-      "content": "Level up the Pass using [Paid Lunacy]?"
+      "content": "Zwiększyć poziom przepustki używając Płatnego Opium?"
     },
     {
       "id": "battlepass_level_upgrade",
-      "content": "Pass Level Up"
+      "content": "Zwiększenie Poziomu Przepustki"
     },
     {
       "id": "battlepass_level_max",
-      "content": "<color=#f8c200>Max Pass Level</color> reached."
+      "content": "<color=#f8c200>Maksymalny Poziom Przepustki</color> reached."
     },
     {
       "id": "battlepass_purchase_level_up_failed",
-      "content": "Cannot Purchase Pass Level"
+      "content": "Nie można kupić poziomu"
     },
     {
       "id": "lack_if_paid_lunacy",
-      "content": "Insufficient Paid Lunacy"
+      "content": "Zbyt mało Płatnego Opium"
     },
     {
       "id": "remain_days_with_label",
-      "content": "{0}d left"
+      "content": "Zostało {0}d"
     },
     {
       "id": "remain_hours_with_label",
-      "content": "{0}h left"
+      "content": "Zostało {0}h"
     },
     {
       "id": "remain_minutes_with_label",
-      "content": "{0}m left"
+      "content": "Zostało {0}m"
     },
     {
       "id": "update_progress",
-      "content": "Progress Updated"
+      "content": "Aktualizacja Postępu"
     },
     {
       "id": "able_to_acquire_ex_pass_level_reward",
-      "content": "Eligible for Max Pass Level rewards"
+      "content": "Dostępne nagrody Maks Poziomu"
     },
     {
       "id": "ask_to_use_paid_lunacy_to_level_up_pass",
-      "content": "Spend {0} Paid Lunacy to purchase Pass Levels?"
+      "content": "Zydać {0} Płatnego Opium, żeby kupić poziomy?"
     },
     {
       "id": "battlepass_purchase_level_up",
-      "content": "Buy Pass Levels"
+      "content": "Kup poziomy Przepustki"
     },
     {
       "id": "lack_of_paid_lunacy",
-      "content": "You don’t have enough paid Lunacy."
+      "content": "Nie masz wystarczająco Płatnego Opium."
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup",
-      "content": "※ Purchasing Battle Pass Levels costs 300 Paid Lunacy."
+      "content": "※ Kupienie poziomu przepustki kostuje 300 Płatnego Opium."
     },
     {
       "id": "buy_battlepass_word",
-      "content": "Buy"
+      "content": "Kup"
     },
     {
       "id": "battlepass_level_ex_reward",
-      "content": "Max Pass Level Reward"
+      "content": "Nagroda Maks Poziomu"
     },
     {
       "id": "battlepass_progress",
-      "content": "Battle Pass XP"
+      "content": "DOŚW Przepustki"
     },
     {
       "id": "battlepass_free",
-      "content": "Free"
+      "content": "Darmowe"
     },
     {
       "id": "battlepass_limbuspass",
-      "content": "Limbus Pass"
+      "content": "Przepustka Limbus"
     },
     {
       "id": "battlepass_unable_levelup_by_level",
-      "content": "Max Level Reached"
+      "content": "Osiągnięto Maks Poziom"
     },
     {
       "id": "battlepass_reward_opened_at",
-      "content": "{0} Update"
+      "content": "Aktualizacja {0}"
     },
     {
       "id": "battlepass_package_purchase",
-      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</style> Package"
+      "content": "Paczka <font=\"BebasKai SDF\">PRZEPUSTKI LIMBUS</style>"
     },
     {
       "id": "battlepass_package_desc_level",
-      "content": "Contains various rewards including the 「Limbus Pass Package Special Banner」"
+      "content": "Zawiera dane nagrody w dodatku do 「Specjalnego Baneru Przepustki Limbus」"
     },
     {
       "id": "battlepass_package_desc_banner",
-      "content": "+ [LIMBUS PASS] Activation"
+      "content": "+ Aktywacja [PRZEPUSTKI LIMBUS]"
     },
     {
       "id": "battlepass_package_ask_purchase",
-      "content": "Spend {0} Paid Lunacy to purchase this Package?"
+      "content": "Czy chcesz wydać {0} Płatnego Opium, żeby zakupić tą paczkę?"
     },
     {
       "id": "battlepass_package_warning",
-      "content": "※ This item will be immediately used upon purchase; refund may be restricted."
+      "content": "※ Ten przedmiot zostaje użyty natychmiast po zakupie; Zwroty nie są przyjmowane."
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward",
-      "content": "Receive the following Max Pass Level EX Rewards upon purchase"
+      "content": "Po zakupie otrzymasz dane nagrody Maks Poziomu"
     },
     {
       "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
-      "content": "<size=75%>(At your Pass Level, you can obtain <style=\"highlightConverted\">{1}</style> Season {0} Nominable Egoshard Crates upon purchase)</size>"
+      "content": "<size=75%>(Na obecnym poziomie przepustki otrzymasz <style=\"highlightConverted\">{1}</style> Zaadresowanych Skrzynek Odłamków Ego {0} Sezonu)</size>"
     },
     {
       "id": "battlepass_select_product_popup_title",
-      "content": "Select Pass/Package"
+      "content": "Wybierz Przepustkę/Paczkę"
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
-      "content": "※ Purchasing a Pass Level costs {0} Paid Lunacy."
+      "content": "※ Kupienie poziomu przepustki kostuje {0} Płatnego Opium."
     },
     {
       "id": "battle_pass_package_button_desc",
-      "content": "Various Rewards\nIncluding the Special Banner"
+      "content": "Różne nagrody\nW tym specjalny baner"
     },
     {
       "id": "battle_pass_select_popup_package_desc",
-      "content": "Various Rewards\nIncluding the Special Banner"
+      "content": "Różne nagrody\nW tym specjalny baner"
     },
     {
       "id": "battle_pass_select_popup_limbus_desc",
-      "content": "◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards"
+      "content": "◆ Odblokowuje nagrody Przepustki Limbus\n◆ Ulepsza Nagrody Maks Poziomu"
     },
     {
       "id": "battle_pass_package_purchase_popup_desc",
-      "content": "◆ Gain 10 Pass Levels immediately upon purchase.\n◆ Includes the following contents."
+      "content": "◆ Natychmiast po zakupie daje 10 poziomów przepustki.\n◆ W tym dane nagrody."
     },
     {
       "id": "battle_pass_limbus_purchase_popup_desc",
-      "content": "◆ Receive various rewards from the Limbus Pass.\n◆ Receive 3 [Season 3] Nominable Egoshard Crates instead of 1 from the Max Pass Level EX Rewards."
+      "content": "◆ Przyznaje różne nagrody z Przepustki Limbus.\n◆ Receive 3 [Season 3] Nominable Egoshard Crates instead of 1 from the Max Pass Level EX Rewards."
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus",
@@ -238,7 +238,7 @@
     },
     {
       "id": "owned_count",
-      "content": "{0} Owned"
+      "content": "{0} Posiadanych"
     },
     {
       "id": "battle_pass_package_button_desc_with_limbus_2",
@@ -258,7 +258,7 @@
     },
     {
       "id": "battle_pass_sale_10",
-      "content": "10% Discount"
+      "content": "10% Przeceny"
     },
     {
       "id": "until_season_6_start",
