@@ -18,7 +18,7 @@
     {
       "id": 2020111,
       "name": "Nuda",
-      "desc": "Gdy ta jednostka doprowadzi do Zachwiania Przeciwnika jednym ze swoich ataków, 1 Sojusznik z najniższą wartością SP otrzymuje +2 [MentalSystemResultpodnieś_Typo] na początku następnej tury. (Maks 3 razy na turę)"
+      "desc": "Gdy ta jednostka doprowadzi do Zachwiania Przeciwnika jednym ze swoich ataków, 1 Sojusznik z najniższą wartością SP otrzymuje +2 [MentalSystemResultIncrease_Typo] na początku następnej tury. (Maks 3 razy na turę)"
     },
     {
       "id": 2020211,
@@ -103,7 +103,7 @@
     {
       "id": 2090111,
       "name": "Odcięcie",
-      "desc": "+1 [MentalSystemResultpodnieś_Typo], -1 [MentalSystemResultDecrease_Typo]"
+      "desc": "+1 [MentalSystemResultIncrease_Typo], -1 [MentalSystemResultDecrease_Typo]"
     },
     {
       "id": 2090211,
