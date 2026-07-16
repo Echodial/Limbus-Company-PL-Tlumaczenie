@@ -3280,7 +3280,7 @@
       "levelList": [
         {
           "level": 2,
-          "name": "Seconded Offensive",
+          "name": "Powtórna Ofensywa",
           "desc": "",
           "coinlist": [
             {
@@ -3301,7 +3301,7 @@
         },
         {
           "level": 3,
-          "name": "Seconded Offensive",
+          "name": "Powtórna Ofensywa",
           "desc": "<style=\"highlight\">[WhenUse] Zadaj +1% obrażeń za każdą Wartość [StigmaWorkshopCelloCaseOne] na sobie (maks 30%)</style>",
           "coinlist": [
             {
@@ -3322,7 +3322,7 @@
         },
         {
           "level": 4,
-          "name": "Seconded Offensive",
+          "name": "Powtórna Ofensywa",
           "desc": "<style=\"highlight\">[WhenUse] Zyskaj następujące efekty w zależności od posiadanej Wartości [StigmaWorkshopCelloCaseOne]:\n- Zadaj +2% obrażeń za każdą Wartość (maks 60%)\n- +1 Mocy Finalnej za każde 10 Wartości (maks 3)</style>",
           "coinlist": [
             {
