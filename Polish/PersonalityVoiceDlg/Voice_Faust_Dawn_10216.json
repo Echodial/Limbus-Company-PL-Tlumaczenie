@@ -3,7 +3,7 @@
     {
       "id": "get_10216_1",
       "desc": "Identity Acquisition",
-      "dlg": "Black needles. Symbols of an irregular, atypical pattern. Faust has surmised correctly. The architect of this incident... appears to have been that individual."
+      "dlg": "Czarne igły. A na nich, atypowe i nieregularne symbole. Konkluzja Faust była poprawna. Architektem tego wydażenia... mógł być tylko on."
     },
     {
       "id": "lobby_morning_10216_1",
@@ -53,7 +53,7 @@
     {
       "id": "gacksung_10216_1",
       "desc": "Uptying",
-      "dlg": "Let us cut the conversation short, shall we? Herr Gregor, Sinclair... Let us proceed at once."
+      "dlg": "Dokończymy tą rozmowę potem, dobrze? Herr Gregor, Sinclair... Czas zbierać się na misje."
     },
     {
       "id": "formation_10216_1",
@@ -73,12 +73,12 @@
     {
       "id": "battle_endcommand_10216_1",
       "desc": "Commencing Attack",
-      "dlg": "Ejecting blades."
+      "dlg": "Wystrzeliwuje ostrza."
     },
     {
       "id": "battle_enemy_break_10216_1",
       "desc": "Enemy Stagger",
-      "dlg": "Not a bad attempt."
+      "dlg": "Godna pochwały próba."
     },
     {
       "id": "battle_break_10216_1",
@@ -88,12 +88,12 @@
     {
       "id": "battle_kill_10216_1",
       "desc": "Enemy Killed",
-      "dlg": "Suffice it to say that you could not capitalize on your skills."
+      "dlg": "Oczywistym jest fakt, że nie byłeś w stanie wykożystać pełnego potencjału swoich umiejętności."
     },
     {
       "id": "battle_dead_10216_1",
       "desc": "Death",
-      "dlg": "The fault lies... in Faust's—no, my ineptitude..."
+      "dlg": "Winna za tą porażkę... jest Fau-nie, mogę winić tylko siebię..."
     },
     {
       "id": "choice_success_p_10216_2",
