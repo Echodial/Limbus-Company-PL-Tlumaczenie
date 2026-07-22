@@ -73,7 +73,7 @@
     {
       "id": "battle_endcommand_10216_1",
       "desc": "Commencing Attack",
-      "dlg": "Wystrzeliwuje ostrza."
+      "dlg": "Wystrzeliwuję ostrza."
     },
     {
       "id": "battle_enemy_break_10216_1",
@@ -88,7 +88,7 @@
     {
       "id": "battle_kill_10216_1",
       "desc": "Enemy Killed",
-      "dlg": "Oczywistym jest fakt, że nie byłeś w stanie wykożystać pełnego potencjału swoich umiejętności."
+      "dlg": "Oczywistym jest fakt, że nie byłeś w stanie wykorzystać pełnego potencjału swoich umiejętności."
     },
     {
       "id": "battle_dead_10216_1",
