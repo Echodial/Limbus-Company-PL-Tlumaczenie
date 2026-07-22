@@ -1860,12 +1860,12 @@
     {
       "id": "battle_select_11003_1",
       "desc": "############ Zwei South Sect6 Sinclair ############",
-      "dlg": "Postaram się obronić wszystkich!"
+      "dlg": "Postaram się ochronić was wszystkich!"
     },
     {
       "id": "battle_endcommand_11003_1",
       "desc": "",
-      "dlg": "Tędy!"
+      "dlg": "Chodźcie, tędy!"
     },
     {
       "id": "battle_enemy_break_11003_1",
@@ -2885,7 +2885,7 @@
     {
       "id": "battle_select_10205_1",
       "desc": "############ Zwei South Sect4 Faust ############",
-      "dlg": "Czy inne terytorium wymaga mojej uwagi?"
+      "dlg": "Czy inne terytorium wymagają mojej uwagi?"
     },
     {
       "id": "battle_endcommand_10205_1",
@@ -2910,17 +2910,17 @@
     {
       "id": "battle_dead_10205_1",
       "desc": "",
-      "dlg": "Proszę się... nie martwić. Moji współpracownicy... was obronią..."
+      "dlg": "Proszę się... nie martwić. Moi współpracownicy... was ochronią..."
     },
     {
       "id": "battle_select_11206_1",
       "desc": "############ Zwei South Sect4 Gregor ############",
-      "dlg": "No, co jest?"
+      "dlg": "No, co tam?"
     },
     {
       "id": "battle_endcommand_11206_1",
       "desc": "",
-      "dlg": "Trzymaj się za mną!"
+      "dlg": "Trzymajcie się za mną!"
     },
     {
       "id": "battle_enemy_break_11206_1",
@@ -2930,7 +2930,7 @@
     {
       "id": "battle_kill_11206_1",
       "desc": "",
-      "dlg": "Wróg zneutralizowany!"
+      "dlg": "Agresor zneutralizowany."
     },
     {
       "id": "battle_break_11206_1",
@@ -2955,7 +2955,7 @@
     {
       "id": "battle_endcommand_10405_1",
       "desc": "",
-      "dlg": "Doświadczcie mój proces."
+      "dlg": "Doświadczcie procesu prawdziwej artystki."
     },
     {
       "id": "battle_enemy_break_10405_1",
@@ -2965,17 +2965,17 @@
     {
       "id": "battle_kill_10405_1",
       "desc": "",
-      "dlg": "Zrobione."
+      "dlg": "Ukończone."
     },
     {
       "id": "battle_break_10405_1",
       "desc": "",
-      "dlg": "Ha."
+      "dlg": "Hah."
     },
     {
       "id": "battle_dead_10405_1",
       "desc": "",
-      "dlg": "Hah, to też nawet... niezła awangarda..."
+      "dlg": "Haah, to też nawet... niezła awangarda..."
     },
     {
       "id": "battle_select_10606_1",
@@ -3105,7 +3105,7 @@
     {
       "id": "battle_dead_11105_1",
       "desc": "",
-      "dlg": "Widocznie... Wbiegłam za głęboko... bez dobrego wsparcia... To było... dość głupie z mojej strony."
+      "dlg": "Widocznie... Wbiegłam za głęboko... bez wsparcia... To było... dość głupie z mojej strony."
     },
     {
       "id": "battle_select_10105_1",
@@ -3120,7 +3120,7 @@
     {
       "id": "battle_enemy_break_10105_1",
       "desc": "",
-      "dlg": "Oto nadeszła okazja."
+      "dlg": "I oto nadeszła okazja."
     },
     {
       "id": "battle_kill_10105_1",
@@ -3255,7 +3255,7 @@
     {
       "id": "battle_kill_10106_1",
       "desc": "",
-      "dlg": "...Spoczywaj w pokoju."
+      "dlg": "... możesz już spocząć."
     },
     {
       "id": "battle_break_10106_1",
@@ -3275,17 +3275,17 @@
     {
       "id": "battle_select_10406_1",
       "desc": "############ LCCB Manager Ryoshu ############",
-      "dlg": "O, w końcu złapałam sygnał? Zrozumiano."
+      "dlg": "O, czyżbym złapała w końcu sygnał? …Zrozumiano."
     },
     {
       "id": "battle_endcommand_10406_1",
       "desc": "",
-      "dlg": "Połamię ci kości i wystrzelę wnętrzności."
+      "dlg": "Połamię ci kości i przestrzelę wnętrzności."
     },
     {
       "id": "battle_enemy_break_10406_1",
       "desc": "",
-      "dlg": "Złamałam ci kolana... A zaraz pomaluję ściany twoim mózgiem."
+      "dlg": "Złamałam ci kolana... A zaraz czas rozbryzgać twój mózg po ścianach."
     },
     {
       "id": "battle_kill_10406_1",
@@ -3340,7 +3340,7 @@
     {
       "id": "battle_select_10306_1",
       "desc": "############ Middle Lilsis DonQ ############",
-      "dlg": "A! Czy wielki brat mnie przywołał?"
+      "dlg": "A! Czyżby wielki brat mnie przywołał?"
     },
     {
       "id": "battle_endcommand_10306_1",
@@ -3385,7 +3385,7 @@
     {
       "id": "battle_enemy_break_10507_1",
       "desc": "",
-      "dlg": "Powinneś być gotowy na odwet od momentu kiedy podpadłeś członkowi naszej Rodziny."
+      "dlg": "Powinneś być gotowy na odwet od momentu, kiedy podpadłeś członkowi naszej Rodziny."
     },
     {
       "id": "battle_kill_10507_1",
@@ -3410,7 +3410,7 @@
     {
       "id": "battle_endcommand_10107_1",
       "desc": "",
-      "dlg": "Proszę, pozwól mi ci zademonstrować."
+      "dlg": "Proszę, pozwól mi zademonstrować."
     },
     {
       "id": "battle_enemy_break_10107_1",
@@ -3435,12 +3435,12 @@
     {
       "id": "battle_select_10707_1",
       "desc": "############ Pequod Heathcliff ############",
-      "dlg": "Chcesz żebym związał znowu węzeł? Węzeł Desperata?"
+      "dlg": "Chcesz, żebym związał znowu węzeł? Węzeł Desperata?"
     },
     {
       "id": "battle_endcommand_10707_1",
       "desc": "",
-      "dlg": "Dźgaj głęboko."
+      "dlg": "Dźgnij głęboko."
     },
     {
       "id": "battle_enemy_break_10707_1",
@@ -4540,7 +4540,7 @@
     {
       "id": "battle_select_11110_1",
       "desc": "############ W Corp Outis ############",
-      "dlg": "Poczekaj proszę aż skończymy czyszczenie pociągu. Wtedy odpowiem na wszystkie twoje pytania."
+      "dlg": "Poczekaj proszę, aż skończymy czyszczenie pociągu. Wtedy odpowiem na wszystkie twoje pytania."
     },
     {
       "id": "battle_endcommand_11110_1",
@@ -4565,7 +4565,7 @@
     {
       "id": "battle_dead_11110_1",
       "desc": "",
-      "dlg": "A więc tak ja… w tej bezkresnej włóczędze po drodze bez końca…"
+      "dlg": "A więc tak skończyłam… w tej bezkresnej włóczędze po drodze bez końca…"
     },
     {
       "id": "battle_s3_11110_1_4",
@@ -4625,7 +4625,7 @@
     {
       "id": "battle_kill_10709_1",
       "desc": "",
-      "dlg": "Ej, ty już nie żyjesz?"
+      "dlg": "Ej, już nie żyjesz?"
     },
     {
       "id": "battle_break_10709_1",
@@ -4635,7 +4635,7 @@
     {
       "id": "battle_dead_10709_1",
       "desc": "",
-      "dlg": "Huh, nie myślałem że to mnie zabije…"
+      "dlg": "Huh, nie myślałem, że to mnie zabije…"
     },
     {
       "id": "battle_select_10710_1",
@@ -4905,7 +4905,7 @@
     {
       "id": "battle_dead_10810_1",
       "desc": "",
-      "dlg": "Szlag, dopadli nas…\nMuszę wezwać wsparcie…"
+      "dlg": "Szlag, dopadli nas…\n Muszę wezwać wsparcie…"
     },
     {
       "id": "battle_s3_10810_1_4-01",
@@ -4970,7 +4970,7 @@
     {
       "id": "battle_kill_11010_1",
       "desc": "",
-      "dlg": "Wyłączam niebezpieczne jednostki z walki…"
+      "dlg": "Wkluczam niebezpieczne byty z walki…"
     },
     {
       "id": "battle_break_11010_1",
@@ -4980,7 +4980,7 @@
     {
       "id": "battle_dead_11010_1",
       "desc": "",
-      "dlg": "Poradzę sobię… proszę, uciekaj… biegnij tak daleko jak możesz…"
+      "dlg": "Poradzę sobię… proszę, uciekaj… biegnij tak daleko, jak możesz…"
     },
     {
       "id": "battle_s4_11010_3-02",
@@ -7036,7 +7036,7 @@
     {
       "id": "battle_enemy_break_10713_1",
       "desc": "Enemy Stagger",
-      "dlg": "A teraz siedźcie tu i bądźcie grzeczni..."
+      "dlg": "Dobra, teraz siedźcie mi tu grzecznie..."
     },
     {
       "id": "battle_break_10713_1",
@@ -7056,17 +7056,17 @@
     {
       "id": "battle_special_10713_1",
       "desc": "",
-      "dlg": "Dalej, atakujcie! No chyba, że się mnie boicie."
+      "dlg": "Zapraszam, atakujcie! No chyba, że macie cykora."
     },
     {
       "id": "battle_s3_10713_1_1",
       "desc": "",
-      "dlg": "Pełna moc!"
+      "dlg": "Moc na fula!"
     },
     {
       "id": "battle_s3_10713_1_5",
       "desc": "",
-      "dlg": "Rozedre was w pół!"
+      "dlg": "Po tym się już nie pozbieracie!"
     },
     {
       "id": "6SV-001_1",
@@ -9188,7 +9188,7 @@
     {
       "id": "battle_s3_10615_1_3-03",
       "desc": "",
-      "dlg": "Poddaj się Więzą Ohry!"
+      "dlg": "Poddaj się Więzom Ohry!"
     },
     {
       "id": "battle_select_30501_1",
@@ -9223,7 +9223,252 @@
     {
       "id": "battle_dead_30501_1",
       "desc": "",
-      "dlg": "Not one handspan ahead... does this darkness yield..."
+      "dlg": "Nieważne, jak daleko patrzę... ta ciemność nigdy nie ustępuje..."
+    },
+    {
+      "id": "battle_special_10916_1",
+      "desc": "",
+      "dlg": "Co tam, nie masz dziś cela?"
+    },
+    {
+      "id": "battle_special_10916_1_2",
+      "desc": "",
+      "dlg": "Ale jesteś ślamazara."
+    },
+    {
+      "id": "battle_special_10916_1_3",
+      "desc": "",
+      "dlg": "Boleśnie przewidywalne~"
+    },
+    {
+      "id": "battle_special_10916_1_4",
+      "desc": "",
+      "dlg": "Czytam ciebię jak otwartą książke."
+    },
+    {
+      "id": "battle_special_10916_1_5",
+      "desc": "",
+      "dlg": "Nie doszło za pierwzym razem? Mówiłam, żebyś przyśpieszył tempo!"
+    },
+    {
+      "id": "battle_special_10916_2",
+      "desc": "",
+      "dlg": "... Tsk. Już się przegrzało?"
+    },
+    {
+      "id": "battle_special_10916_3",
+      "desc": "",
+      "dlg": "Hah! Moja kolej, gówniarzu."
+    },
+    {
+      "id": "battle_special_10916_4",
+      "desc": "",
+      "dlg": "Co jest, Podręcznik? Chyba nie proszę o niemożliwe?"
+    },
+    {
+      "id": "battle_special_10916_5",
+      "desc": "",
+      "dlg": "Mam serdecznie dość tej jebanej Yoshihide—i was też! Niech was wszystkich piekło pochłonie!"
+    },
+    {
+      "id": "battle_special_10916_5_2",
+      "desc": "",
+      "dlg": "Dobrze słyszycie, nie mam już do was siły! Pierdole tą jebaną Famiglie i pierdole też was!"
+    },
+    {
+      "id": "battle_special_10916_6",
+      "desc": "",
+      "dlg": "Kto następny? No dalej... Przecież wszyscy wiemy jak to się skończy."
+    },
+    {
+      "id": "battle_special_10916_7",
+      "desc": "",
+      "dlg": "Chyba wam się we łbach poprzewracało jeśli myślicie, że kopnę w kalendarz w tej zasranej melinie."
+    },
+    {
+      "id": "battle_special_10916_8",
+      "desc": "",
+      "dlg": "Hah. No oczywiście. Kretyn... Nie mógł nawet przetrwać tego..."
+    },
+    {
+      "id": "battle_special_10916_9",
+      "desc": "",
+      "dlg": "Celuj w serce! W serce!"
+    },
+    {
+      "id": "battle_s2_10916_1_3",
+      "desc": "",
+      "dlg": "Skup się na mnie, lub zgiń!"
+    },
+    {
+      "id": "battle_s3_10916_1_1",
+      "desc": "",
+      "dlg": "Hahahahaha!"
+    },
+    {
+      "id": "battle_s3_10916_1_1-01",
+      "desc": "",
+      "dlg": "I tak łowy dobiegają końca."
+    },
+    {
+      "id": "battle_s3_10916_1_1-02",
+      "desc": "",
+      "dlg": "Zostanie z was tylko jucha!"
+    },
+    {
+      "id": "battle_special_10716_1",
+      "desc": "",
+      "dlg": "W końcu cię odizolowałem. Czas na prawdziwy pojedynek..."
+    },
+    {
+      "id": "battle_special_10716_2",
+      "desc": "",
+      "dlg": "... Nie przemkniesz się obok mnie."
+    },
+    {
+      "id": "battle_special_10716_4",
+      "desc": "",
+      "dlg": "Przeciwnik rozwiązany. Nie dam się dwa razy złapać na tą samą sztuczkę."
+    },
+    {
+      "id": "battle_s3_10716_1_1",
+      "desc": "",
+      "dlg": "Zademonstruje teraz niewiarygodnie wierną imitację kąta i prędkości cięcia."
+    },
+    {
+      "id": "battle_s3_10716_1_1-02",
+      "desc": "",
+      "dlg": "Il Cacciatore!"
+    },
+    {
+      "id": "battle_s3_10716_1_2",
+      "desc": "",
+      "dlg": "Doświadcz moją demonstrację Palermitańskiej Techniki Rozwiązywania."
+    },
+    {
+      "id": "battle_s3_10716_1_2-01",
+      "desc": "",
+      "dlg": "Sezionatura di Cervo!"
+    },
+    {
+      "id": "battle_s3_10716_1_2-02",
+      "desc": "",
+      "dlg": "Zademonstrowana."
+    },
+    {
+      "id": "battle_special_11009_3",
+      "desc": "",
+      "dlg": "If I can make my seonbae, my master, happy... If it means that in the end, we'll all share in the joy together... no fear in the world will ever cower me into fleeing."
+    },
+    {
+      "id": "battle_special_11009_4",
+      "desc": "",
+      "dlg": "I don't care if it melts my wings and drags me down... Let this sunset never cool, and let it burn, <i>burn!</i>"
+    },
+    {
+      "id": "battle_special_11009_5",
+      "desc": "",
+      "dlg": "I refuse to be a disgraceful junior who sinks into the swamp of despair without taking another step, Seonbae. I know you believe in me... Because it's what I must do...!"
+    },
+    {
+      "id": "battle_special_11009_6",
+      "desc": "",
+      "dlg": "The agony is hard to endure... but endure it I will. No matter how many times I fall, I'll get back up again. I promise, Master, I will reach for the strength worthy of your dawnbreak... so I'll never have to lose anyone ever again!"
+    },
+    {
+      "id": "battle_special_11009_7",
+      "desc": "",
+      "dlg": "... I have to soar high. I will break out of this shell that stands in my way—I'll break it altogether and soar to a higher place."
+    },
+    {
+      "id": "battle_special_11009_8",
+      "desc": "",
+      "dlg": "Don't let this vermilion fire, the light that shines on me, go out—rage on, conflagrate."
+    },
+    {
+      "id": "battle_special_11009_9",
+      "desc": "",
+      "dlg": "Let this shining light of vermilion fire burn...! Rage on, conflagrate!"
+    },
+    {
+      "id": "battle_special_11009_10",
+      "desc": "",
+      "dlg": "For my grieving self alone... Cry bright, flames, for me!"
+    },
+    {
+      "id": "battle_special_10216_1",
+      "desc": "",
+      "dlg": "Pozwól mi pomóc."
+    },
+    {
+      "id": "battle_special_10216_2",
+      "desc": "",
+      "dlg": "Rozpoczynam kremację pozostałości."
+    },
+    {
+      "id": "battle_special_10216_3",
+      "desc": "",
+      "dlg": "Imponujący atak. Udzielam wsparcia."
+    },
+    {
+      "id": "battle_special_10216_4",
+      "desc": "",
+      "dlg": "Resztę możesz zostawić mnie."
+    },
+    {
+      "id": "battle_special_10216_5",
+      "desc": "",
+      "dlg": "Jak rozwijający skrzydła motyl."
+    },
+    {
+      "id": "battle_special_10216_6",
+      "desc": "",
+      "dlg": "Wystrzał reaktywny. Rozpoczynam sekcjowanie wszystkich obranych celów."
+    },
+    {
+      "id": "battle_s3_10216_1_3-03",
+      "desc": "",
+      "dlg": "Jak trzepoczący skrzydłami motyl."
+    },
+    {
+      "id": "battle_special_11216_2",
+      "desc": "필립 싱클레어가 탈출장치로 후퇴",
+      "dlg": "Mhm, mądry ruch... Nie chciałbym, żebyś tu umarł."
+    },
+    {
+      "id": "battle_special_11216_3",
+      "desc": "유나 파우스트의 공격에 호응하여 추가공격",
+      "dlg": "Heh... I oto duma naszego Biura."
+    },
+    {
+      "id": "battle_special_11216_4_4",
+      "desc": "3-2 스킬 대사",
+      "dlg": "Słońce wkrótce wstanie."
+    },
+    {
+      "id": "battle_special_11216_5",
+      "desc": "원호방어 발동",
+      "dlg": "Hej! Takie wybryki zostaw już swojej starszyźnie, dobra?"
+    },
+    {
+      "id": "battle_special_11216_6",
+      "desc": "유나 파우스트 사망 후 턴 시작 시",
+      "dlg": "Dziękujemy ci za służbę, Frau Faust. Możesz spoczywać spokojnie—utrzymamy nasze biuro na nogach."
+    },
+    {
+      "id": "battle_special_11216_7",
+      "desc": "필립 싱클레어 사망 후 턴 시작 시",
+      "dlg": "... Rozumiem. Dla młodego nawet tyle było za wiele."
+    },
+    {
+      "id": "battle_s2_11216_1_6",
+      "desc": "2스킬 대사",
+      "dlg": "Przy świetle brzasku."
+    },
+    {
+      "id": "battle_s3_11216_1_1",
+      "desc": "3스킬 대사",
+      "dlg": "... Wraz ze wschodem słońca..."
     }
   ]
 }
