@@ -4970,7 +4970,7 @@
     {
       "id": "battle_kill_11010_1",
       "desc": "",
-      "dlg": "Wkluczam niebezpieczne byty z walki…"
+      "dlg": "Wykluczam niebezpieczne byty z walki…"
     },
     {
       "id": "battle_break_11010_1",
@@ -9228,12 +9228,12 @@
     {
       "id": "battle_special_10916_1",
       "desc": "",
-      "dlg": "Co tam, nie masz dziś cela?"
+      "dlg": "Co jest, nie masz dziś cela?"
     },
     {
       "id": "battle_special_10916_1_2",
       "desc": "",
-      "dlg": "Ale jesteś ślamazara."
+      "dlg": "Ale z ciebie ślamazara."
     },
     {
       "id": "battle_special_10916_1_3",
@@ -9243,12 +9243,12 @@
     {
       "id": "battle_special_10916_1_4",
       "desc": "",
-      "dlg": "Czytam ciebię jak otwartą książke."
+      "dlg": "Czytam cię jak otwartą książke."
     },
     {
       "id": "battle_special_10916_1_5",
       "desc": "",
-      "dlg": "Nie doszło za pierwzym razem? Mówiłam, żebyś przyśpieszył tempo!"
+      "dlg": "Nie doszło za pierwzym razem? Mówiłam, żebyś zagęścił ruchy!"
     },
     {
       "id": "battle_special_10916_2",
@@ -9293,7 +9293,7 @@
     {
       "id": "battle_special_10916_9",
       "desc": "",
-      "dlg": "Celuj w serce! W serce!"
+      "dlg": "Serce! Celuj w serce!"
     },
     {
       "id": "battle_s2_10916_1_3",
@@ -9328,7 +9328,7 @@
     {
       "id": "battle_special_10716_4",
       "desc": "",
-      "dlg": "Przeciwnik rozwiązany. Nie dam się dwa razy złapać na tą samą sztuczkę."
+      "dlg": "Przeciwnik rozwiązany. Nie złapiesz mnie dwa razy na tą samą sztuczkę."
     },
     {
       "id": "battle_s3_10716_1_1",
