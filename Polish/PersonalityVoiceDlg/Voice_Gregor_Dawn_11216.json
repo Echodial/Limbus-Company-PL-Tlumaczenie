@@ -3,7 +3,7 @@
       {
         "id": "get_11216_1",
         "desc": "Identity Acquisition",
-        "dlg": "Ooh... Is that Ssanghwa-cha I smell? It's got a strong aroma and taste today, I like it. Look at that, the egg yolk's sitting right in the center again—very nice."
+        "dlg": "Ooh... Czy ja czuje cieplutką Ssanghwa-cha? Mmm, i ma do tego wyjątkowo mocny aromat, bardzo smaczna. A, i patrz, żółtko siedzi ładnie na samym środku talfi—znakomicie."
       },
       {
         "id": "lobby_morning_11216_1",
@@ -48,52 +48,52 @@
       {
         "id": "neglect_11216_1",
         "desc": "Idle",
-        "dlg": "*sip* *sigh* ... Man, that boy's a Color Fixer-level when it comes to brewing tea..."
+        "dlg": "*siorb* *wzdech* ... O stary, jakby Hana przyznawaliby range za parzenie Ssanghwa-cha to młody byłby już Kolorem..."
       },
       {
         "id": "gacksung_11216_1",
         "desc": "Uptying",
-        "dlg": "... *puff* Well, I hope you weren't looking forward to a peaceful end after imbruing your hands in so much blood.\nGird your loins, rookie. It's about to get real."
+        "dlg": "... *wydech* No, mam nadzieję, że nie liczyłaś na dożycie do emerytury po tym, jak ubabrałaś swoje ręce w krwi tak wielu osób.\nZapnij pasy, młody. Zaraz będzie niezła jatka."
       },
       {
         "id": "formation_11216_1",
         "desc": "Deployment",
-        "dlg": "Ready, team?"
+        "dlg": "Gotowi, drużono?"
       },
       {
         "id": "battleentry_11216_1",
         "desc": "Stage Entry",
-        "dlg": "Then let's enter."
+        "dlg": "No to wchodzimy."
       },
       {
         "id": "battle_select_11216_1",
         "desc": "Viewed in Battle",
-        "dlg": "Don't waste time worrying about me—focus inward. You wouldn't want to miss the things that really matter."
+        "dlg": "Nie marnuj czasu i energi na mnie-skup się na bitwie. Nie pozwól, aby umkło ci coś na prawdę ważnego."
       },
       {
         "id": "battle_endcommand_11216_1",
         "desc": "Commencing Attack",
-        "dlg": "Like the first light..."
+        "dlg": "Jak poranny brzask..."
       },
       {
         "id": "battle_enemy_break_11216_1",
         "desc": "Enemy Stagger",
-        "dlg": "Hm, you must've gotten tired."
+        "dlg": "Hm, widocznie już się zmęczyłeś."
       },
       {
         "id": "battle_break_11216_1",
         "desc": "Staggered",
-        "dlg": "Just gotta... power through it with a good <i>oomph</i>."
+        "dlg": "Muszę tylko... mocniej zacisnąć zęby."
       },
       {
         "id": "battle_kill_11216_1",
         "desc": "Enemy Killed",
-        "dlg": "What a feeble bunch."
+        "dlg": "Co za miękka zgraja."
       },
       {
         "id": "battle_dead_11216_1",
         "desc": "Death",
-        "dlg": "There's... no need for all of us... to share the same fate."
+        "dlg": "Nie musimy... wszyscy... dzielić tego losu."
       },
       {
         "id": "choice_success_p_11216_2",
@@ -118,7 +118,7 @@
       {
         "id": "battle_defeat_11216_1",
         "desc": "Defeat Wail",
-        "dlg": "I always knew... it would end this way. I've no attachment to life, but... I'm simply worried about the kid's future..."
+        "dlg": "Zawsze... wiedziałem że tak to się skończy. Może i moje życie nie jest dla mnie zbyt cenne... Ale martwie się, jak poradzi sobie młody..."
       }
     ]
 }
