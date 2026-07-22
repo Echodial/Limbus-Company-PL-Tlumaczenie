@@ -345,7 +345,7 @@
     },
     {
       "id": 10505,
-      "title": "Fixer\nWarsztatu Rosepanner",
+      "title": "Fachowiec\nWarsztatu Rosepanner",
       "name": "Meursault",
       "nameWithTitle": "Meursault",
       "desc": "Meursault’s 5th Identity"
@@ -359,7 +359,7 @@
     },
     {
       "id": 11205,
-      "title": "Fixer\nWarsztatu Rosepanner",
+      "title": "Fachowiec\nWarsztatu Rosepanner",
       "name": "Gregor",
       "nameWithTitle": "Gregor",
       "desc": "Gregor’s 5th Identity"
@@ -422,14 +422,14 @@
     },
     {
       "id": 10807,
-      "title": "Fixer\nZazębionych Szkutników",
+      "title": "Fachowiec\nZazębionych Szkutników",
       "name": "Ishmael",
       "nameWithTitle": "Ishmael",
       "desc": "Ishmael’s 7th Identity"
     },
     {
       "id": 11007,
-      "title": "Fixer\nZazębionych Szkutników",
+      "title": "Fachowiec\nZazębionych Szkutników",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair’s 7th Identity"
@@ -478,14 +478,14 @@
     },
     {
       "id": 10105,
-      "title": "Fixer\n Zazębionego Biura",
+      "title": "Fachowiec\n Zazębionego Biura",
       "name": "Yi Sang",
       "nameWithTitle": "Yi Sang",
       "desc": "Yi Sang's 5th Identity"
     },
     {
       "id": 11105,
-      "title": "Fixer\n Zazębionego Biura",
+      "title": "Fachowiec\n Zazębionego Biura",
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "Outis's 5th Identity"
@@ -506,7 +506,7 @@
     },
     {
       "id": 10607,
-      "title": "Fixer\nBiura Sierpu",
+      "title": "Fachowiec\nBiura Sierpu",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu's 7th Identity"
@@ -709,7 +709,7 @@
     },
     {
       "id": 11009,
-      "title": "Fixer\nBiura Brzasku",
+      "title": "Fachowiec\nBiura Brzasku",
       "name": "Sinclair",
       "nameWithTitle": "Sinclair",
       "desc": "Sinclair's 9th Identity"
@@ -772,14 +772,14 @@
     },
     {
       "id": 10210,
-      "title": "Przedstawiciel\nBiura\nMultiCrack",
+      "title": "Przedstawiciel\nBiura\nWielotrzask",
       "name": "Faust",
       "nameWithTitle": "Faust",
       "desc": "Faust's 10th Identity"
     },
     {
       "id": 10709,
-      "title": "Fixer\nBiura\nMultiCrack",
+      "title": "Fachowiec\nBiura\nWielotrzask",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff's 9th Identity"
@@ -842,7 +842,7 @@
     },
     {
       "id": 10610,
-      "title": "Fixer\nBiura Kłokruszycieli",
+      "title": "Fachowiec\nBiura Kłokruszycieli",
       "name": "Hong Lu",
       "nameWithTitle": "Hong Lu",
       "desc": "Hong Lu’s 10th Identity"
@@ -884,7 +884,7 @@
     },
     {
       "id": 10711,
-      "title": "Fixer\nBiura Full-Stop",
+      "title": "Fachowiec\nBiura Full-Stop",
       "name": "Heathcliff",
       "nameWithTitle": "Heathcliff",
       "desc": "Heathcliff’s 11th Identity"
@@ -1289,6 +1289,20 @@
       "name": "Rodion",
       "nameWithTitle": "Rodion",
       "desc": "Rodion’s 16th Identity"
+    },
+    {
+      "id": 11216,
+      "title": "Przedstawiciel\nBiura Brzasku",
+      "name": "Gregor",
+      "nameWithTitle": "Gregor",
+      "desc": "Gregor's 16th Identity"
+    },
+    {
+      "id": 10216,
+      "title": "Fachowiec\nBiura Brzasku",
+      "name": "Faust",
+      "nameWithTitle": "Faust",
+      "desc": "Faust's 16th Identity"
     }
   ]
 }
