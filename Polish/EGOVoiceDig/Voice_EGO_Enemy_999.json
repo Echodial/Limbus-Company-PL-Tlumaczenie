@@ -33,7 +33,7 @@
     {
       "id": "battle_sacrifice_8106_1",
       "desc": "Phase Start",
-      "dlg": "Rozkazuję wam, krójcie się dla mnię!"
+      "dlg": "Rozkazuję wam, krójcie się dla mnie!"
     },
     {
       "id": "battle_sacrifice_8106_2",
@@ -58,7 +58,7 @@
     {
       "id": "battle_entry_10001_2",
       "desc": "Skill Activation",
-      "dlg": "Przewodnik pokażę ci drogę,"
+      "dlg": "Przewodnik pokaże ci drogę,"
     },
     {
       "id": "battle_entry_10001_3",
@@ -68,7 +68,7 @@
     {
       "id": "battle_8173_phaseclear_2",
       "desc": "",
-      "dlg": "How revolting."w
+      "dlg": "How revolting."
     },
     {
       "id": "battle_8173_phaseclear_3",
