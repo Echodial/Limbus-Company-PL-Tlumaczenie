@@ -6,7 +6,7 @@
     },
     {
       "id": 0,
-      "place": "Na pokładzie Mefistofolesa",
+      "place": "Na pokładzie Mefistofelesa",
       "model": "카론",
       "content": "Werg."
     },
@@ -493,7 +493,7 @@
     {
       "id": 106,
       "model": "싱클레어",
-      "content": "P-Prosze, poczekaj chwilę! Dante wygląda, jakby naprawde cierpiało, my powinniśmy jak możemy ogra―"
+      "content": "P-Prosze, poczekaj chwilę! Dante wygląda, jakby naprawde cierpiało, powinniśmy jak możemy ogra―"
     },
     {
       "id": 107,
@@ -516,7 +516,7 @@
     {
       "id": 111,
       "model": "이스마엘",
-      "content": "Jesteś takim hamem, na jakiego wyglądasz."
+      "content": "Jesteś takim chamem, na jakiego wyglądasz."
     },
     {
       "id": 112,
@@ -529,7 +529,7 @@
     },
     {
       "id": 114,
-      "content": "…Czy naprawde stałom się kierownikiem nieśmiertelnych zabijaków?"
+      "content": "…Czy naprawde stałom się kierownikiem tych nieśmiertelnych zabijaków?"
     },
     {
       "id": 115,
@@ -538,7 +538,7 @@
     {
       "id": 116,
       "model": "베르길리우스",
-      "content": "Widzę, że ta zgraja desperacko potrzebuje troche dyscypliny."
+      "content": "Widzę, że ta zgraja desperacko potrzebuje odrobiny dyscypliny."
     },
     {
       "id": 117,
@@ -594,12 +594,12 @@
     {
       "id": 128,
       "model": "베르길리우스",
-      "content": "Dante, wybacz mi za to, ale musze cię poprosić, abyś cofneło zegar jeszcze raz."
+      "content": "Dante, wybacz mi za to, ale musze cię poprosić, abyś raz jeszcze cofnęło wskazówki zegara."
     },
     {
       "id": 129,
       "model": "단테",
-      "content": "<Znowu musze przez to przechodzić…?>"
+      "content": "<Znowu muszę przez to przechodzić…?>"
     },
     {
       "id": 130,
@@ -607,12 +607,12 @@
     },
     {
       "id": 131,
-      "content": "Na wzrok tego nikły uśmiech na twarzy Wergiliusza szybko znikł, zastąpiony surowym wyrazem twarzy, który dopiero co kierował w strone Grzeszników."
+      "content": "Na ten widok nikły uśmiech na twarzy Wergiliusza szybko znikł, zastąpiony surowym wyrazem twarzy, który dopiero co kierował w strone Grzeszników."
     },
     {
       "id": 132,
       "model": "베르길리우스",
-      "content": "…Kierowniku Dante, szczerze radzę ci robić, co mówie dopóki mam w sobie jeszcze wystarczająco szczordości, żeby oferować przeprosiny."
+      "content": "…Kierowniku Dante, szczerze radzę ci robić, co mówię, dopóki mam w sobie jeszcze wystarczająco szczodrości, żeby oferować przeprosiny."
     },
     {
       "id": 133,
@@ -637,7 +637,7 @@
     {
       "id": 137,
       "model": "오티스",
-      "content": "Podczas procesu inicjacyjnego zostałam poinformowana, że Kierownik Wykonawczy będzie moim przełożonym, a nie ty."
+      "content": "Podczas procesu inicjacyjnego zostałam poinformowana, że to Kierownik Wykonawczy będzie moim przełożonym, a nie ty."
     },
     {
       "id": 138,
@@ -656,7 +656,7 @@
     },
     {
       "id": 141,
-      "content": "Ku mojej trwodze, odcień czerwieni w jego oczach robił się z każdą chwilą coraz bardziej głęboki."
+      "content": "Ku mojej trwodze, odcień czerwieni w jego oczach z każdą chwilą stawał się głębszy."
     },
     {
       "id": 142,
@@ -664,7 +664,7 @@
     },
     {
       "id": 143,
-      "content": "Ale myślę, że powinnom przynajmniej zdeeskalować sytuację, zanim się pogorszy."
+      "content": "Ale myślę, że powinnom przynajmniej zdeeskalować sytuację, zanim jeszcze bardziej się pogorszy."
     },
     {
       "id": 144,
@@ -673,11 +673,11 @@
     {
       "id": 145,
       "model": "단테",
-      "content": "<Outis… Wszystko jest w porządku. Cofnę Zegar.>"
+      "content": "<Outis… Wszystko jest w porządku. Cofnę wskazówki zegara.>"
     },
     {
       "id": 146,
-      "content": "Wergiliusz zauważył, że kazałom jej odpuścić i wycofał w odpowiedzi czerwony blask z swojego wzroku."
+      "content": "Wergiliusz zauważył, że kazałom jej odpuścić i wycofał w odpowiedzi czerwony blask swojego wzroku."
     },
     {
       "id": 147,
