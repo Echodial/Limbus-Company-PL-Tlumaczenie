@@ -3,122 +3,122 @@
     {
       "id": "get_10405_1",
       "desc": "Identity Acquisition",
-      "dlg": "Absurd. Can't believe I'm relegated to B.S."
+      "dlg": "Absurd. Nie wierze,że przypisali mnie do takich B.D."
     },
     {
       "id": "lobby_morning_10405_1",
       "desc": "Morning Greeting",
-      "dlg": "Focus on your morning lessons... And don't bother me."
+      "dlg": "Skup się na porannych kursach... I nie zawracaj mi gitary."
     },
     {
       "id": "lobby_noon_10405_1",
       "desc": "Afternoon Greeting",
-      "dlg": "Lunch...? I.D.C. Being out here at this time is a hassle all on its own."
+      "dlg": "Obiad...? C.M.T. Wychodzenie na miasto o tej godzinie to aż proszenie się o migrene."
     },
     {
       "id": "lobby_night_10405_1",
       "desc": "Evening Greeting",
-      "dlg": "Nighttime, is it... The train will be arriving soon. Finally, something fun."
+      "dlg": "Robi się ciemno... Zaraz podjedzie pociąg. Nareszcie, rozrywka."
     },
     {
       "id": "smalltalk_10405_1",
       "desc": "Chatter #1",
-      "dlg": "\"Just a cleanup job\"...? Ha, this is no mere cleaning. This is a form of art."
+      "dlg": "\"Zwykła praca porządkowa\"...? Ha, nie ma w tej pracy nic \"Zwykłego\". Nie… to jest rodzaj sztuki."
     },
     {
       "id": "smalltalk_10405_2",
       "desc": "Chatter #2",
-      "dlg": "Every time I walk through these train doors, vastly different styles of art greet me. This is an opportunity to observe a singular, isolated artistic history that has been molded and honed over thousands of years. Simply electrifying, isn't it?"
+      "dlg": "Za każdym razem gdy przechodze przez te drzwi, witają mnie nowe, kompletnie unikalne dzieła sztuki. Ta praca daje mi okazję, aby obserwować wyniki artystycznej pracy zdystylowanej oraz odizolowanej przez tysiące lat społeczności. Totalne ciary, co nie?"
     },
     {
       "id": "smalltalk_10405_3",
       "desc": "Chatter #3",
-      "dlg": "I should be deployed on a clean-up job, not coddling new hires... Hey, you. Make a complaint to the upper management or something."
+      "dlg": "Powinnam sprzątać wagony, a nie niańczyć żółtodzioby... Ej, ty. Napisz skargę do regionalnego."
     },
     {
       "id": "smalltalk_10405_4",
       "desc": "Post-Uptie Chat 1",
-      "dlg": "Some... Unrefined pieces of art can shamble or even run. Usually a case of multiple passengers being melded into a single body. I must say, that alone is a beautiful sight... It's a shame that they all eventually have to be pulled apart."
+      "dlg": "Niektóre... Niewyrafinowane dzieła sztuki mogą czasem kuśtykać lub nawet biec. Zwykle te, które zostały zlepione z wielu różnych pasażerów. Naprawde, nawet sam koncept jest zachwycający... Szkoda, że trzeba ich pod koniec rozłączyć."
     },
     {
       "id": "smalltalk_10405_5",
       "desc": "Post-Uptie Chat 2",
-      "dlg": "My favorite part of this job...? Sure, listen close. It's the fact that, when they took this train of their own volition, every single one of these works of art didn't know what they were signing up for.\nWell, maybe it's that they didn't even care to know. Exquisite irony, isn't it?"
+      "dlg": "Moja ulubiona część pracy...? Dobra, słuchaj uważnie. Najbardziej bawi mnie to, że gdy z własnej woli wsiadali na pokład, żadne z nich nie wiedziało na co właśnie się zapisali.\nCholera, a może po prostu nic ich to nie obchodziło? Znakomita poetycka ironia, nieprawdaż?"
     },
     {
       "id": "neglect_10405_1",
       "desc": "Idle",
-      "dlg": "Hmmm... I'm growing restless. When the hell can we get to work?"
+      "dlg": "Hmmm... Nudzi mi się. Ile do cholery spóźnia się już ten pociąg?"
     },
     {
       "id": "gacksung_10405_1",
       "desc": "Uptying",
-      "dlg": "Hmph. So you acknowledge my abilities. Then assign me to proper fieldwork, not babysitting."
+      "dlg": "Hmpf. A wiec uznajesz moje umiejętności. To daj mi więcej faktycznej roboty i zostaw bawienie dzieci komuś innemu."
     },
     {
       "id": "formation_10405_1",
       "desc": "Deployment",
-      "dlg": "Finally, fieldwork."
+      "dlg": "Nareszcie, praca polowa."
     },
     {
       "id": "battleentry_10405_1",
       "desc": "Stage Entry",
-      "dlg": "It's time to clean up."
+      "dlg": "Czas na \"sprzątanie\"."
     },
     {
       "id": "battle_select_10405_1",
       "desc": "Viewed in Battle",
-      "dlg": "Get out of my way. I'm... in the zone."
+      "dlg": "Nie właź mi w drogę. Naszła mnie... inspiracja."
     },
     {
       "id": "battle_endcommand_10405_1",
       "desc": "Commencing Attack",
-      "dlg": "Witness my work."
+      "dlg": "Doświadczcie procesu prawdziwej artystki."
     },
     {
       "id": "battle_enemy_break_10405_1",
       "desc": "Enemy Stagger",
-      "dlg": "Nearing completion already..."
+      "dlg": "Już tylko ostatnie poprawki..."
     },
     {
       "id": "battle_break_10405_1",
       "desc": "Staggered",
-      "dlg": "Ha."
+      "dlg": "Hah."
     },
     {
       "id": "battle_kill_10405_1",
       "desc": "Enemy Killed",
-      "dlg": "The finishing touches."
+      "dlg": "Ukończone."
     },
     {
       "id": "battle_dead_10405_1",
       "desc": "Death",
-      "dlg": "Hah, this is also... quite avant—garde..."
+      "dlg": "Haah, to też nawet... niezła awangarda..."
     },
     {
       "id": "choice_success_p_10405_2",
       "desc": "Check Passed",
-      "dlg": "N.P."
+      "dlg": "J.G."
     },
     {
       "id": "choice_fail_n_10405_1",
       "desc": "Check Failed",
-      "dlg": "S.H.I.T."
+      "dlg": "S.Z.L.A.G."
     },
     {
       "id": "battle_clear_10405_1",
       "desc": "Victory Cry",
-      "dlg": "That was serviceable. Now, to wait for the next train."
+      "dlg": "Słabizna. No cóż, zawsze jest kolejny pociąg."
     },
     {
       "id": "battle_clear_ex_10405_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "That was quite the exhibition. Perhaps I should thank them for being such a delightful collection of arts?"
+      "dlg": "To dopiero była wystawa. Może powinnam pójść im podziękować za bycie tak wspaniałą kolekcją?"
     },
     {
       "id": "battle_defeat_10405_1",
       "desc": "Defeat Wail",
-      "dlg": "Dreadful. ...No. I suppose a demotion to L2 would net me more fieldwork."
+      "dlg": "Tragedia …Choć może i nie. W L2 powinnam dostać więcej pracy polowej."
     }
   ]
 }
