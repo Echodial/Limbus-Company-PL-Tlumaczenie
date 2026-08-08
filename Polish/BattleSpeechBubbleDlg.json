@@ -8517,7 +8517,7 @@
     {
       "id": "battle_s3_10614_1_2",
       "desc": "",
-      "dlg": "Czy ją słyszysz? Euforyczna harmonia kości ramiennych oraz 24 żeber...! Tym właśnie Melodia Tibii!"
+      "dlg": "Czy ją słyszysz? Euforyczna harmonia kości ramiennych oraz 24 żeber...! Tym właśnie jest Melodia Tibii!"
     },
     {
       "id": "battle_special_10614_1",
@@ -9263,7 +9263,7 @@
     {
       "id": "battle_special_10916_4",
       "desc": "",
-      "dlg": "Co jest, Podręcznik? Chyba nie proszę o niemożliwe?"
+      "dlg": "Co jest, Podręcznik? Chyba nie proszę o nic niemożliwego?"
     },
     {
       "id": "battle_special_10916_5",
@@ -9358,42 +9358,42 @@
     {
       "id": "battle_special_11009_3",
       "desc": "",
-      "dlg": "If I can make my seonbae, my master, happy... If it means that in the end, we'll all share in the joy together... no fear in the world will ever cower me into fleeing."
+      "dlg": "Jeśli mogę ucieszyć seonbae i mojego mistrza... Jeśli wygrana w tej bitwie sprawi, że będe mógł dzielić z nimi każdy uśmiech... to nie ma na świecie rzeczy, która przekona mnię do ucieczki."
     },
     {
       "id": "battle_special_11009_4",
       "desc": "",
-      "dlg": "I don't care if it melts my wings and drags me down... Let this sunset never cool, and let it burn, <i>burn!</i>"
+      "dlg": "Nie obchodzi mnię to, że stopi on moje skrzydła i zrzuci mnię w czeluści... Chcę, aby ten zachód nigdy nie zgasł oraz płonął, <i>płonął!</i>"
     },
     {
       "id": "battle_special_11009_5",
       "desc": "",
-      "dlg": "I refuse to be a disgraceful junior who sinks into the swamp of despair without taking another step, Seonbae. I know you believe in me... Because it's what I must do...!"
+      "dlg": "Nie przyniosę ci hańby będąc strachliwym, tonącym we własnych żalach uczniem, Seonbae. Wiem, że we mnię wierzysz... I wiem, że muszę brnąć do przodu...!"
     },
     {
       "id": "battle_special_11009_6",
       "desc": "",
-      "dlg": "The agony is hard to endure... but endure it I will. No matter how many times I fall, I'll get back up again. I promise, Master, I will reach for the strength worthy of your dawnbreak... so I'll never have to lose anyone ever again!"
+      "dlg": "Trudno jest mi wytrzymać ten ból... ale wytrzymam go. Nie ważne, ile razy upadnę, zawsze wstanę z powrotem na nogi o własnych siłach. Obiecuje ci, Mistrzu, osiągnę siłę równą z twoim brzaskiem... abym nigdy więcej nie musiał nikogo stracić!"
     },
     {
       "id": "battle_special_11009_7",
       "desc": "",
-      "dlg": "... I have to soar high. I will break out of this shell that stands in my way—I'll break it altogether and soar to a higher place."
+      "dlg": "... Będe szybować nad chmurami. Przebiję się przez wnętrze tej skorupy, która stoi na mojej drodze—wraz z czym roztrzaskam ją całą i wzlece ku niebieskiemu sklepieniu."
     },
     {
       "id": "battle_special_11009_8",
       "desc": "",
-      "dlg": "Don't let this vermilion fire, the light that shines on me, go out—rage on, conflagrate."
+      "dlg": "Nie pozwól aby ten cynobrowy ognień, światło, które mnie oświetla, zgasł—spraw, aby rozniecał i pożerał wszystkich na mojej drodze."
     },
     {
       "id": "battle_special_11009_9",
       "desc": "",
-      "dlg": "Let this shining light of vermilion fire burn...! Rage on, conflagrate!"
+      "dlg": "Niech ten cynobrowy ogień płonie...! Niech roznieca i pożera!"
     },
     {
       "id": "battle_special_11009_10",
       "desc": "",
-      "dlg": "For my grieving self alone... Cry bright, flames, for me!"
+      "dlg": "Tylko dla mnie... Jasne płomienie, proszę, płaczcie dla mnie!"
     },
     {
       "id": "battle_special_10216_1",
@@ -9469,6 +9469,41 @@
       "id": "battle_s3_11216_1_1",
       "desc": "3스킬 대사",
       "dlg": "... Wraz ze wschodem słońca..."
+    },
+    {
+      "id": "battle_special_10116_1_1",
+      "desc": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전1",
+      "dlg": "Concealment within rifts."
+    },
+    {
+      "id": "battle_special_10116_1_2",
+      "desc": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전2",
+      "dlg": "The recalibrated coordinates."
+    },
+    {
+      "id": "battle_special_10116_1_3",
+      "desc": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전3",
+      "dlg": "And a consummate leap."
+    },
+    {
+      "id": "battle_s2_10116_1_1",
+      "desc": "2스킬 사용시 1버전",
+      "dlg": "With the maximum velocity bestowed upon the passage."
+    },
+    {
+      "id": "battle_s3_10116_1_1",
+      "desc": "3스킬 사용시 1버전",
+      "dlg": "The crossroad of a single point and three lines."
+    },
+    {
+      "id": "battle_s3_10116_1_2",
+      "desc": "3스킬 사용시 2버전",
+      "dlg": "Intersected."
+    },
+    {
+      "id": "battle_special_10116_2",
+      "desc": "강화 3스킬 사용시",
+      "dlg": "Ruminate upon the dimensions of quadricolor reflections."
     }
   ]
 }
