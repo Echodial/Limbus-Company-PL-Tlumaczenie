@@ -68,7 +68,7 @@
     {
       "id": "SelfHarm_Panic",
       "name": "Compulsion",
-      "desc": "- Panika\n- Początek Tury: Lose 10 HP",
+      "desc": "- Panika\n- Początek Tury: Lose 10 PŻ",
       "undefined": "-"
     },
     {
@@ -100,8 +100,8 @@
     {
       "id": "DamageOverTime",
       "name": "Ongoing Damage",
-      "desc": "Początek Tury: Take {0} fixed obrażeń HP.",
-      "summary": "{0} fixed obrażeń HP"
+      "desc": "Początek Tury: Take {0} fixed obrażeń PŻ.",
+      "summary": "{0} fixed obrażeń PŻ"
     },
     {
       "id": "ResultEnhancement",
@@ -196,8 +196,8 @@
     {
       "id": "BeingGolden",
       "name": "Złota Skórka",
-      "desc": "Początek Tury: Ulecz 10 HP na Ilość.",
-      "summary": "Odnowa HP"
+      "desc": "Początek Tury: Ulecz 10 PŻ na Ilość.",
+      "summary": "Odnowa PŻ"
     },
     {
       "id": "MoonLight",
@@ -265,14 +265,14 @@
     {
       "id": "Combustion",
       "name": "Podpalenie",
-      "desc": "Koniec tury: Zadaje {0} stałych obrażeń. Trwa {1} tur.",
-      "summary": "{0} stałych obrażeń"
+      "desc": "Koniec tury: Zadaje {0} obrażeń. Trwa {1} tur.",
+      "summary": "{0} obrażeń"
     },
     {
       "id": "Laceration",
       "name": "Krwawienie",
-      "desc": "Następne {1} razy kiedy ta jednostka rzuca Monetą atakującą, zadaje jej {0} stałych obrażeń.",
-      "summary": "{0} stałych obrażeń"
+      "desc": "Następne {1} razy kiedy ta jednostka rzuca Monetą atakującą, zadaje jej {0} obrażeń.",
+      "summary": "{0} obrażeń"
     },
     {
       "id": "Vibration",
@@ -283,14 +283,14 @@
     {
       "id": "Burst",
       "name": "Pęknięcie",
-      "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} stałych obrażeń.",
-      "summary": "{0} stałych obrażeń"
+      "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} obrażeń.",
+      "summary": "{0} obrażeń"
     },
     {
       "id": "Sinking",
       "name": "Zrozpaczenie",
-      "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} stałych obrażeń Psychiki. (Jednostki bez Psychiki otrzymują obrażenia od Przygnębienia.)",
-      "summary": "{0} stałych obrażeń SP"
+      "desc": "Następne {1} razy kiedy ta jednostka zostanie trafiona, zadaje jej {0} obrażeń Psychiki. (Jednostki bez Psychiki otrzymują obrażenia od Przygnębienia.)",
+      "summary": "{0} obrażeń SP"
     },
     {
       "id": "Breath",
@@ -307,8 +307,8 @@
     {
       "id": "WaterPocket",
       "name": "Pochwa Z Surowicą",
-      "desc": "Leczy {0} x 20 HP.",
-      "summary": "Leczenie HP"
+      "desc": "Leczy {0} x 20 PŻ.",
+      "summary": "Leczenie PŻ"
     },
     {
       "id": "DogThunder",
@@ -325,13 +325,13 @@
     {
       "id": "Operation",
       "name": "Operacja",
-      "desc": "Umiera kiedy ilość dojdzie do 5.\nZmniejsza Maks HP o 20% na Ilość ({0}).\nZadaje +20% obrażeń na Ilość ({0}).\nPoczątek Tury: Otrzymuje {0} Pośpiechu.",
+      "desc": "Umiera kiedy ilość dojdzie do 5.\nZmniejsza Maks PŻ o 20% na Ilość ({0}).\nZadaje +20% obrażeń na Ilość ({0}).\nPoczątek Tury: Otrzymuje {0} Pośpiechu.",
       "summary": "Zabija tą jednostkę przy 5 Ilości"
     },
     {
       "id": "Emergency_Operation",
       "name": "Amatorska Operacja",
-      "desc": "Zwiększa Maks HP o 25% i Moc Zdolności o 1 za każdą Ilość tego efektu.\nW każdą turę, zwiększa Ilość tego efektu o 1.\nUmiera kiedy Ilość dojdzie do 5.",
+      "desc": "Zwiększa Maks PŻ o 25% i Moc Zdolności o 1 za każdą Ilość tego efektu.\nW każdą turę, zwiększa Ilość tego efektu o 1.\nUmiera kiedy Ilość dojdzie do 5.",
       "summary": "Zabija tą jednostkę przy 5 Ilości"
     },
     {
@@ -628,13 +628,13 @@
     {
       "id": "Choice_901001",
       "name": "Spreading Flame",
-      "desc": "Mając the start of the next Encounter, allies without Wrath Affinity otrzymuj 5 Wrath damage"
+      "desc": "Mając the start of the next Encounter, allies without Wrath Affinity otrzymuj 5 Wrath obrażeń"
     },
     {
       "id": "Choice_901007",
       "name": "Gentle Sendoff",
-      "desc": "Początek Tury: Heal 10 HP i SP. (Up to 3 turns)",
-      "summary": "HP & SP +10"
+      "desc": "Początek Tury: Ulecz 10 PŻ i SP. (Up to 3 turns)",
+      "summary": "PŻ & SP +10"
     },
     {
       "id": "Choice_901009",
@@ -708,8 +708,8 @@
     {
       "id": "Poison",
       "name": "Trucizna",
-      "desc": "Koniec Tury: Zadaje {0} stałych obrażeń, po czym obniża Ilość o połowę.",
-      "summary": "{0} obrażeń HP"
+      "desc": "Koniec Tury: Zadaje {0} obrażeń, po czym obniża Ilość o połowę.",
+      "summary": "{0} obrażeń PŻ"
     },
     {
       "id": "Cromer_Target",
@@ -740,7 +740,7 @@
     {
       "id": "Perfected",
       "name": "Perfect Shell",
-      "desc": "Początek Tury: The Arms przyznaje 2 Większej Mocy Ataku. Removed when the Arms’ HP falls below 50%",
+      "desc": "Początek Tury: The Arms przyznaje 2 Większej Mocy Ataku. Removed when the Arms’ PŻ falls below 50%",
       "summary": "Przyznaje 2 Większej Mocy Ataku"
     },
     {
@@ -948,9 +948,9 @@
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "Mniejsze leczenie HP",
-      "desc": "Efekty Pasywne, Zdolności i Efekty Monet leczą -{0}0% HP w tą turę. (Maks 5)",
-      "summary": "-{0}0% Leczenia HP "
+      "name": "Mniejsze leczenie PŻ",
+      "desc": "Efekty Pasywne, Zdolności i Efekty Monet leczą -{0}0% PŻ w tą turę. (Maks 5)",
+      "summary": "-{0}0% Leczenia PŻ "
     },
     {
       "id": "AttackLevelAdder",
@@ -965,7 +965,7 @@
       "summary": "+{0}0% Leczenia od Coś na Szybko"
     },
     {
-      "id": "ZyskajSinStockAdder",
+      "id": "GainSinStockAdder",
       "name": "Większy Zysk Zasobów E.G.O",
       "desc": "Zdolości dają +{0} zasobów E.G.O w tej turze.",
       "summary": "+{0} zyskiwanych zasobów E.G.O "
@@ -973,8 +973,8 @@
     {
       "id": "Weak_Chicken",
       "name": "Kurczakokalipsa",
-      "desc": "Reakcja na kuchnię Grzeszników. Papa Bongy traci HP równe 40% jego Maks HP.",
-      "summary": "HP -40%"
+      "desc": "Reakcja na kuchnię Grzeszników. Papa Bongy traci PŻ równe 40% jego Maks PŻ.",
+      "summary": "PŻ -40%"
     },
     {
       "id": "Strong_Chicken",
@@ -1033,7 +1033,7 @@
     {
       "id": "SelfCharge",
       "name": "Automatyczne Ładowanie",
-      "desc": "Nurt elektryczny płynie poprzez ciało tej Anomalii.\nGdy ta jednostka umrze, tak długo jak ma na sobie has Automatyczne Ładowanie, jej HP jest ustawione na 1 dopóki ten status nie zostanie zużyty. (Maks 20)",
+      "desc": "Nurt elektryczny płynie poprzez ciało tej Anomalii.\nGdy ta jednostka umrze, tak długo jak ma na sobie has Automatyczne Ładowanie, jej PŻ jest ustawione na 1 dopóki ten status nie zostanie zużyty. (Maks 20)",
       "summary": "표시용"
     },
     {
@@ -1075,13 +1075,13 @@
     {
       "id": "ATL_EndureCombustion",
       "name": "Podpalenia Resistance",
-      "desc": "When taking damage from Podpalenia, reduce the damage by {0}0% (Maks 10)",
-      "summary": "When taking damage from Podpalenia, otrzymuj {0}0% less damage"
+      "desc": "When taking obrażeń from Podpalenia, reduce the obrażeń by {0}0% (Maks 10)",
+      "summary": "When taking obrażeń from Podpalenia, otrzymuj {0}0% less obrażeń"
     },
     {
       "id": "Resonate",
       "name": "Rezonowanie",
-      "desc": "Aktywując Impuls Drżeń lub podnosząc Próg Zachwiania, zadaj {0} * 3 stałych obrażeń i podnieś Próg Zachwiania o {0} * 3%",
+      "desc": "Aktywując Impuls Drżeń lub podnosząc Próg Zachwiania, zadaj {0} * 3 obrażeń i podnieś Próg Zachwiania o {0} * 3%",
       "summary": "Aktywując Impuls Drżeń lub podnosząc Próg Zachwiania, zadaj obrażenia i jeszcze bardziej podnieś Próg Zachwiania"
     },
     {
@@ -1093,14 +1093,14 @@
     {
       "id": "CollapseAmpoule",
       "name": "Ampułka Rozkładu",
-      "desc": "Zadaje obrażenia równe {0} * 2% Maks HP",
-      "summary": "Zadaje obrażenia równe {0} * 2% Maks HP"
+      "desc": "Zadaje obrażenia równe {0} * 2% Maks PŻ",
+      "summary": "Zadaje obrażenia równe {0} * 2% Maks PŻ"
     },
     {
       "id": "InterlockingTime",
       "name": "Splecioy Czas",
-      "desc": "Zmniejsza otrzymywane obrażenia o 30% i przechowuje zatrzymane obrażenia. Przy 3 Ilości, zadaje stałe obrażenia równe 1.5 razy zgromadzonych obrażeń i nakłada 3 Spętania na początku następnej tury.",
-      "summary": "Zmniejsza otrzymywane obrażenia o 30% i przechowuje zatrzymane obrażenia. Przy 3 Ilości, zadaje stałe obrażenia równe 1.5 razy zgromadzonych obrażeń i nakłada 3 Spętanie na początku następnej tury."
+      "desc": "Zmniejsza otrzymywane obrażenia o 30% i przechowuje zatrzymane obrażenia. Przy 3 Ilości, zadaje obrażenia równe 1.5 razy zgromadzonych obrażeń i nakłada 3 Spętania na początku następnej tury.",
+      "summary": "Zmniejsza otrzymywane obrażenia o 30% i przechowuje zatrzymane obrażenia. Przy 3 Ilości, zadaje obrażenia równe 1.5 razy zgromadzonych obrażeń i nakłada 3 Spętanie na początku następnej tury."
     },
     {
       "id": "TimeRental",
@@ -1111,7 +1111,7 @@
     {
       "id": "Bull_FadedHeat",
       "name": "Chwilowe Schłodzenie",
-      "desc": "Rdzeń i ciało tracą 50% Maks HP"
+      "desc": "Rdzeń i ciało tracą 50% Maks PŻ"
     },
     {
       "id": "Bull_Fever",
@@ -1218,13 +1218,13 @@
     {
       "id": "DongbaekGrow",
       "name": "Wzrost",
-      "desc": "Koniec Tury: Zwiększ Ilość o 1 i zyskaj Maks HP proporcjonalne do Ilości (Maks 3)",
-      "summary": "Koniec Tury: Zwiększ Ilość o 1 i zyskaj Maks HP proporcjonalne do Ilości (Maks 3)"
+      "desc": "Koniec Tury: Zwiększ Ilość o 1 i zyskaj Maks PŻ proporcjonalne do Ilości (Maks 3)",
+      "summary": "Koniec Tury: Zwiększ Ilość o 1 i zyskaj Maks PŻ proporcjonalne do Ilości (Maks 3)"
     },
     {
       "id": "DongbaekFlorescence",
       "name": "Kwitnięcie",
-      "desc": "Koniec Tury: Mając 5+ Ilości, zadaje obrażenia od Lenistwa równe (Ilość)% Maks HP i zakwita w pełni\nPrzy mniej niż 5 Ilości, zmniejsza SP o (Ilość * 5), po czym zmniejsza ilość Ilość o 1",
+      "desc": "Koniec Tury: Mając 5+ Ilości, zadaje obrażenia od Lenistwa równe (Ilość)% Maks PŻ i zakwita w pełni\nPrzy mniej niż 5 Ilości, zmniejsza SP o (Ilość * 5), po czym zmniejsza ilość Ilość o 1",
       "summary": ""
     },
     {
@@ -1275,12 +1275,12 @@
     {
       "id": "DistortedDongrangEarnestAchievement",
       "name": "Realne Osiągnięcie",
-      "desc": "Jeśli ta jednostka zostanie pokonana, lub jej HP zostanie zmniejszone do 1, atakujący zostaje wzmocniony"
+      "desc": "Jeśli ta jednostka zostanie pokonana, lub jej PŻ zostanie zmniejszone do 1, atakujący zostaje wzmocniony"
     },
     {
       "id": "DistortedDongrangEmptyHonor",
       "name": "Pusty Honor",
-      "desc": "Jeśli Dongrang pokona tą jednostkę, traci on HP, zyskuje 1 Pustości i zostaje osłabiony na początku następnej tury"
+      "desc": "Jeśli Dongrang pokona tą jednostkę, traci on PŻ, zyskuje 1 Pustości i zostaje osłabiony na początku następnej tury"
     },
     {
       "id": "DistortedDongrangMomentaryGlory",
@@ -1295,7 +1295,7 @@
     {
       "id": "DistortedDongrangFruition",
       "name": "Brzemię Spełnienia",
-      "desc": "Jednostka, która pokonała tą jednostka leczy się o 5% swojego Maks HP, zyskuje 1 Pośpiechu i 1 Większej Mocy Ataku na początku następnej tury"
+      "desc": "Jednostka, która pokonała tą jednostka leczy się o 5% swojego Maks PŻ, zyskuje 1 Pośpiechu i 1 Większej Mocy Ataku na początku następnej tury"
     },
     {
       "id": "EgoAwakenDongrangRadiantDesire",
@@ -1310,17 +1310,17 @@
     {
       "id": "EgoAwakenDongrangTree",
       "name": "Nawóz",
-      "desc": "Koniec Tury: Dongrang leczy się o 10 HP"
+      "desc": "Koniec Tury: Dongrang leczy się o 10 PŻ"
     },
     {
       "id": "EgoAwakenDongrangOverHeal",
       "name": "Nadleczenie",
-      "desc": "Ilość zwiększa się wraz z HP, które wyleczył Dongrang; przy 50+ Ilości, zadaje obrażenia od Obżarstwa równe Ilości efektu, nakłada 5 Kruchości i usuwa ten status."
+      "desc": "Ilość zwiększa się wraz z PŻ, które wyleczył Dongrang; przy 50+ Ilości, zadaje obrażenia od Obżarstwa równe Ilości efektu, nakłada 5 Kruchości i usuwa ten status."
     },
     {
       "id": "SinkingSurge",
       "name": "Powódź Rozpaczy",
-      "desc": "Zadaj obrażenia SP równe (Ilość Zrozpaczenia * Moc Zrozpaczenia), po czym usuwa Zrozpaczenie\nJeśli SP celu wynosic -45, nadmiar obrażeń SP jest zadany jako obrażenia HP od Przygnębienia\n(Jednostki nie posiadające Psychiki otrzymują całość jako obrażenia HP)"
+      "desc": "Zadaj obrażenia SP równe (Ilość Zrozpaczenia * Moc Zrozpaczenia), po czym usuwa Zrozpaczenie\nJeśli SP celu wynosic -45, nadmiar obrażeń SP jest zadany jako obrażenia PŻ od Przygnębienia\n(Jednostki nie posiadające Psychiki otrzymują całość jako obrażenia PŻ)"
     },
     {
       "id": "Blue",
@@ -1336,7 +1336,7 @@
     {
       "id": "EgoAwakenDongrangTreeDisplay",
       "name": "Wysysanie Składników Odżywczych",
-      "desc": "Koniec Tury: Dongrang leczy się o 10 HP"
+      "desc": "Koniec Tury: Dongrang leczy się o 10 PŻ"
     },
     {
       "id": "DongbaekFullBloomDisplay",
@@ -1358,9 +1358,9 @@
     },
     {
       "id": "TakeHpHealIncrease",
-      "name": "Wzmocnienie Leczenia HP",
-      "desc": "Otrzumuje +{0}0% leczenia HP od Zdolności Pasywnych, SkilZdolnościls i fektów Monet w tej turze. (Maks 5)",
-      "summary": "+{0}0% Leczenia HP "
+      "name": "Wzmocnienie Leczenia PŻ",
+      "desc": "Otrzumuje +{0}0% leczenia PŻ od Zdolności Pasywnych, SkilZdolnościls i fektów Monet w tej turze. (Maks 5)",
+      "summary": "+{0}0% Leczenia PŻ "
     },
     {
       "id": "Choice_90104001",
@@ -1411,13 +1411,13 @@
       "summary": "+{0} Bazowej Mocy Zdolności"
     },
     {
-      "id": "MaksHpMultiplier",
-      "name": "Większe Maks HP",
-      "desc": "Zwiększa Maks HP o {0}0",
-      "summary": "+{0}0 Maks HP"
+      "id": "MaxHpMultiplier",
+      "name": "Większe Maks PŻ",
+      "desc": "Zwiększa Maks PŻ o {0}0",
+      "summary": "+{0}0 Maks PŻ"
     },
     {
-      "id": "StickCoinHeadAndTailToMaksPer",
+      "id": "StickCoinHeadAndTailToMaxPer",
       "name": "Meshed Possibilities",
       "desc": "Every three turns, all Coins on each skill used by allies land on the same side depending on the Coin's type",
       "summary": "Every 3 turns, all Coins land on the same side based on the type"
@@ -1431,13 +1431,13 @@
     {
       "id": "KCorpSerum",
       "name": "Ampułka K Corpu",
-      "desc": "Początek Tury: Mając mniej niż 4 Ilości, ulecz się o ({0} * 5)% Maks HP\nPrzy 4+ Ilości, ta jednostka umiera",
+      "desc": "Początek Tury: Mając mniej niż 4 Ilości, ulecz się o ({0} * 5)% Maks PŻ\nPrzy 4+ Ilości, ta jednostka umiera",
       "summary": ""
     },
     {
       "id": "Talisman",
       "name": "Talizman",
-      "desc": "Przy trafieniu nakłada {0} Pęknięcia; Gdy ta jednostka zostanie trafionya otrzymuje ona {0} Pęknięcia\nKoniec tury: Mając 6+ Ilości, usuń wszystkie Talizmany i zadaj stałe obrażenia równe ilości",
+      "desc": "Przy trafieniu nakłada {0} Pęknięcia; Gdy ta jednostka zostanie trafionya otrzymuje ona {0} Pęknięcia\nKoniec tury: Mając 6+ Ilości, usuń wszystkie Talizmany i zadaj obrażenia równe ilości",
       "summary": "Nakłada Pęknięcie atakując i otrzymuje je będąc trafionym"
     },
     {
@@ -1498,7 +1498,7 @@
     {
       "id": "EmergencyFeed",
       "name": "Awaryjny Zapas Składników Odżywczych",
-      "desc": "Na końcu tury, jeśli ta jednoska uleczyła się o 15% Maks HP lub więcej, ciało regeneruje się na początku następnej tury."
+      "desc": "Na końcu tury, jeśli ta jednoska uleczyła się o 15% Maks PŻ lub więcej, ciało regeneruje się na początku następnej tury."
     },
     {
       "id": "Bullet_Crab",
@@ -1518,7 +1518,7 @@
     {
       "id": "PseudoLastBoss_KingCrap",
       "name": "Krabi Gniew",
-      "desc": "Na początku tury, przyznaj wszystkim sojuszniczym Krabom Większą Moc Ataku i przyznaje 2 Ochrony jeśli Skorupa nie jest zniszczona.\n-5 SP dla celu Zdolności.\nPrzy 50%- HP, każda 2 Większej Mocy Ataku i 2 Kruchości."
+      "desc": "Na początku tury, przyznaj wszystkim sojuszniczym Krabom Większą Moc Ataku i przyznaje 2 Ochrony jeśli Skorupa nie jest zniszczona.\n-5 SP dla celu Zdolności.\nPrzy 50%- PŻ, każda 2 Większej Mocy Ataku i 2 Kruchości."
     },
     {
       "id": "ChargeForceField",
@@ -1597,11 +1597,11 @@
     },
     {
       "id": "RailBuffForLine2_K_ALLY",
-      "name": "Heal All"
+      "name": "Ulecz All"
     },
     {
       "id": "RailBuffForLine2_L_ALLY",
-      "name": "Heal Selected"
+      "name": "Ulecz Selected"
     },
     {
       "id": "RailBuffForLine2_T_ALLY",
@@ -1874,13 +1874,13 @@
     {
       "id": "ForwardToTheKing",
       "name": "W Obliczu Króla",
-      "desc": "Przy Trafieniu, zadaj 50% obecnej wartości Monet jako obrażenia od (Grzechu/Typu Ataku używanego przez tą Zdolność) przeciwko 2 innym możliwym do zaatakowania przeciwnikom z najmniejszym HP.",
+      "desc": "Przy Trafieniu, zadaj 50% obecnej wartości Monet jako obrażenia od (Grzechu/Typu Ataku używanego przez tą Zdolność) przeciwko 2 innym możliwym do zaatakowania przeciwnikom z najmniejszym PŻ.",
       "summary": ""
     },
     {
       "id": "ForwardToTheBoundKing",
       "name": "W Obliczu Spętanego Króla",
-      "desc": "Przy Trafieniu, zadaj 100% obecnej wartości Monet jako obrażenia od (Grzechu/Typu Ataku używanego przez tą Zdolność) przeciwko 2 innym możliwym do zaatakowania przeciwnikom z najmniejszym HP.",
+      "desc": "Przy Trafieniu, zadaj 100% obecnej wartości Monet jako obrażenia od (Grzechu/Typu Ataku używanego przez tą Zdolność) przeciwko 2 innym możliwym do zaatakowania przeciwnikom z najmniejszym PŻ.",
       "summary": ""
     },
     {
@@ -1909,7 +1909,7 @@
     {
       "id": "Hunger",
       "name": "Głód",
-      "desc": "Koniec Tury: zyskaj 1 jeśli ta jednostka nie zabiła sojusznika z Przyszykowanym Mięsem.\nPrzy 75%- HP, zyskaj 2. Mając 50%- HP, zyskaj 3.\nPoczątek tury: strać 1 jeśli ta jednostka zabiła sojusznika z Przyszykowanym Mięsem.\nPrzy 0 wartości, zyskaj (# pokonanych sojuszników x 3) Mniejszej Mocy Ataku i Mniejszej Mocy Obrony.",
+      "desc": "Koniec Tury: zyskaj 1 jeśli ta jednostka nie zabiła sojusznika z Przyszykowanym Mięsem.\nPrzy 75%- PŻ, zyskaj 2. Mając 50%- PŻ, zyskaj 3.\nPoczątek tury: strać 1 jeśli ta jednostka zabiła sojusznika z Przyszykowanym Mięsem.\nPrzy 0 wartości, zyskaj (# pokonanych sojuszników x 3) Mniejszej Mocy Ataku i Mniejszej Mocy Obrony.",
       "summary": ""
     },
     {
@@ -1939,7 +1939,7 @@
     {
       "id": "ShieldManagerCryingToad",
       "name": "Łzawy Bąbel",
-      "desc": "- Ten efekt liczy się jako 'Zarządzanie Tarczą'.\n- Koniec Tury: Zmniejsz Ilość o 1\n- Ta jednostka nie traci Tarczy na Końcu Tury tak długo, jak ma na sobie efekt Łzawego Bąbla (chyba, że zostanie wyczerpana przez inne źródła)\n- Jeśli tarcza nadana z Łzawego Bąbla pęknie, nałóż na atakującego 4 Siły/Ilości Zrozpaczenia. (Ile z tej wartości '4' będzie Siłą, a ile Ilością jest określane losowo)\n- Ta jednostka może zbierać więcej tarczy używając tego efektu. Jednak tak długo, jak Łzawy Bąbel działa, wartość Tarczy nie może przekroczyć 60% Maks HP tej jednostki.",
+      "desc": "- Ten efekt liczy się jako 'Zarządzanie Tarczą'.\n- Koniec Tury: Zmniejsz Ilość o 1\n- Ta jednostka nie traci Tarczy na Końcu Tury tak długo, jak ma na sobie efekt Łzawego Bąbla (chyba, że zostanie wyczerpana przez inne źródła)\n- Jeśli tarcza nadana z Łzawego Bąbla pęknie, nałóż na atakującego 4 Siły/Ilości Zrozpaczenia. (Ile z tej wartości '4' będzie Siłą, a ile Ilością jest określane losowo)\n- Ta jednostka może zbierać więcej tarczy używając tego efektu. Jednak tak długo, jak Łzawy Bąbel działa, wartość Tarczy nie może przekroczyć 60% Maks PŻ tej jednostki.",
       "summary": ""
     },
     {
@@ -1981,7 +1981,7 @@
     {
       "id": "KnowledgeTraining",
       "name": "Erudycja",
-      "desc": "- Maks Wartość: 6\n- Odrzucając Zdolność, ta jednostka zyskuje (Erudycja x 1.5)% swojego Maks HP jako Tarczę (raz na turę)\n- Jeśli ta jednostka Odrzuci Zdolność mając 2+ Wiedzy, zyskuje ona 1 Mocy Starcia (raz na turę)\n- Spada o 1 kiedy ta jednostka otrzymuje obrażenia HP po zostaniu trafioną Zdolnością Atakującą wroga\n- Wygasa, kiedy zostanie Zachwiana",
+      "desc": "- Maks Wartość: 6\n- Odrzucając Zdolność, ta jednostka zyskuje (Erudycja x 1.5)% swojego Maks PŻ jako Tarczę (raz na turę)\n- Jeśli ta jednostka Odrzuci Zdolność mając 2+ Wiedzy, zyskuje ona 1 Mocy Starcia (raz na turę)\n- Spada o 1 kiedy ta jednostka otrzymuje obrażenia PŻ po zostaniu trafioną Zdolnością Atakującą wroga\n- Wygasa, kiedy zostanie Zachwiana",
       "summary": ""
     },
     {
@@ -2040,14 +2040,14 @@
     {
       "id": "AaCfPcBa_Alt4",
       "name": "Zatracona Obietnica",
-      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 20 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Większy Poziom Ataku\nPrzy 1 HP, leczy 40% HP i 25 SP (raz na Potyczkę)",
+      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 20 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Większy Poziom Ataku\nPrzy 1 PŻ, leczy 40% PŻ i 25 SP (raz na Potyczkę)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCfPcBa_Alt5",
       "name": "Zatracona Obietnica",
-      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 20 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Większy Poziom Ataku\nTak długo, jak w walce jest co najmniej 1 inny żywy sojusznik, HP Heathcliffa nie spada poniżej 1\nPrzy 1 HP, leczy 40% HP i 25 SP (raz na Potyczkę)",
+      "desc": "Koniec Tury: leczy 15 SP\nPrzy Trafieniu, zyskuje 1 Większy Poziom Ataku na początku następnej tury (3 razy na turę)\nPoczątek tury: przy mniej niż 20 SP, przyznaje 3 Większej Mocy Ataku\nPoczątek tury: jeśli ta jednoska ma Dullahana, zyskuje 3 Większych Obrażeń i 3 Większy Poziom Ataku\nTak długo, jak w walce jest co najmniej 1 inny żywy sojusznik, PŻ Heathcliffa nie spada poniżej 1\nPrzy 1 PŻ, leczy 40% PŻ i 25 SP (raz na Potyczkę)",
       "summary": "",
       "undefined": "-"
     },
@@ -2060,7 +2060,7 @@
     {
       "id": "WildHunt",
       "name": "Dziki Gon",
-      "desc": "- W tej samej turze, w której ta jednostka zyskała Dziki Gon po raz pierwszt, zawsze ma 1 pozostałe HP; \"wskrzesza\"(leczy 50% HP i resetuje SP do 0) tą jednostkę na Końcu Tury.\n- Przy śmierci, daje 1 zasób E.G.O z typu, którego posiadasz najmniej\n- Jeśli ta jednostka została zabita przez atak, nałóż 3 Zrozpaczenia na ostatniego atakującego\n- Ta jednostka umiera na końcu tej samej tury, w której została wskrzeszona.",
+      "desc": "- W tej samej turze, w której ta jednostka zyskała Dziki Gon po raz pierwszt, zawsze ma 1 pozostałe PŻ; \"wskrzesza\"(leczy 50% PŻ i resetuje SP do 0) tą jednostkę na Końcu Tury.\n- Przy śmierci, daje 1 zasób E.G.O z typu, którego posiadasz najmniej\n- Jeśli ta jednostka została zabita przez atak, nałóż 3 Zrozpaczenia na ostatniego atakującego\n- Ta jednostka umiera na końcu tej samej tury, w której została wskrzeszona.",
       "summary": ""
     },
     {
@@ -2111,14 +2111,14 @@
     {
       "id": "DevyatDimensionalSack",
       "name": "Kufer Kurierski - Rodion",
-      "desc": "- Wartość Bazowa: 0\n- Początek Tury: zyskuje 3 Wartości\n- Wartość nie wygasa przy Odwrocie; zamiast tego jest przechowywana\n- Mając 10+ Wartości: podnośi Min & Maks Prędkość o 1\n- Mając 20+ Wartości: Przyznaje 1 Większej Mocy Starcia i 1 Większych Obrażeń od Cięcia\n- Mając 30+ Wartości:\n· Przy Użyciu Zdolności, zadaje tej jednostce (Wartość/3)% obrażeń HP i (Wartość/3) obrażeń SP\n· Na Końcu Tury, zadaje tej jednostce (Wartość/2)% obrażeń HP i (Wartość/2) obrażeń SP (aktywuje się przed Odwrotem)",
+      "desc": "- Wartość Bazowa: 0\n- Początek Tury: zyskuje 3 Wartości\n- Wartość nie wygasa przy Odwrocie; zamiast tego jest przechowywana\n- Mając 10+ Wartości: podnośi Min & Maks Prędkość o 1\n- Mając 20+ Wartości: Przyznaje 1 Większej Mocy Starcia i 1 Większych Obrażeń od Cięcia\n- Mając 30+ Wartości:\n· Przy Użyciu Zdolności, zadaje tej jednostce (Wartość/3)% obrażeń PŻ i (Wartość/3) obrażeń SP\n· Na Końcu Tury, zadaje tej jednostce (Wartość/2)% obrażeń PŻ i (Wartość/2) obrażeń SP (aktywuje się przed Odwrotem)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Retreat",
       "name": "Tryb Strategicznego Odpoczynku",
-      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi HP i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)",
+      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi PŻ i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)",
       "summary": "",
       "undefined": "-"
     },
@@ -2199,7 +2199,7 @@
     {
       "id": "WornHeartGreg",
       "name": "Schorowane Serce",
-      "desc": "- Maks Wartość: 10\n- Koniec Tury: przyznaje 1 Wartości\n- Początek Tury: przyznaje 1 Większy Poziomu Obrony za każde 3 Wartości\n- Mając 50%- HP, przyznaje 1 Poziom Obrony za każde 3 Wartości\n- Mając 40%- HP, Przy Trafieniu Bazowymi Zdolnościami, leczy (Wartość x 5)% obrażeń zadanych przy trafieniu jako HP (min 1; zaokrąglone w dół; leczy do 30 HP na Zdolność)",
+      "desc": "- Maks Wartość: 10\n- Koniec Tury: przyznaje 1 Wartości\n- Początek Tury: przyznaje 1 Większy Poziomu Obrony za każde 3 Wartości\n- Mając 50%- PŻ, przyznaje 1 Poziom Obrony za każde 3 Wartości\n- Mając 40%- PŻ, Przy Trafieniu Bazowymi Zdolnościami, leczy (Wartość x 5)% obrażeń zadanych przy trafieniu jako PŻ (min 1; zaokrąglone w dół; leczy do 30 PŻ na Zdolność)",
       "summary": "",
       "undefined": "-"
     },
@@ -2241,7 +2241,7 @@
     {
       "id": "DevyatDimensionalSackSinclair",
       "name": "Kufer Kurierski - Sinclair",
-      "desc": "- Wartość Bazowa: 0\n- Początek Tury: przyznaje 3 Wartości\n- Wartość nie wygasa przy Odwrocie; zamiast tego jest przechowywana\n- Mając 10+ Wartości: podnośi Min & Maks Prędkość o 1\n- Mając 20+ Wartości: Przyznaje 1 Większej Mocy Starcia i 1 Większych obrażeń od Uderzenia\n- Mając 30+ Wartości:\n· Przy Użyciu Zdolności, zadaje tej jednostce (Wartość/3)% obrażeń HP i (Wartość/3) obrażeń SP\n· Na Końcu Tury, zadaje tej jednostce (Wartość/2)% obrażeń HP i (Wartość/2) obrażeń SP (aktywuje się przed Odwrotem)",
+      "desc": "- Wartość Bazowa: 0\n- Początek Tury: przyznaje 3 Wartości\n- Wartość nie wygasa przy Odwrocie; zamiast tego jest przechowywana\n- Mając 10+ Wartości: podnośi Min & Maks Prędkość o 1\n- Mając 20+ Wartości: Przyznaje 1 Większej Mocy Starcia i 1 Większych obrażeń od Uderzenia\n- Mając 30+ Wartości:\n· Przy Użyciu Zdolności, zadaje tej jednostce (Wartość/3)% obrażeń PŻ i (Wartość/3) obrażeń SP\n· Na Końcu Tury, zadaje tej jednostce (Wartość/2)% obrażeń PŻ i (Wartość/2) obrażeń SP (aktywuje się przed Odwrotem)",
       "summary": "",
       "undefined": "-"
     },
@@ -2254,7 +2254,7 @@
     {
       "id": "SwirlingBloodPersonality",
       "name": "Migotanie【Krwiopijca】",
-      "desc": "- Maks Wartość: 50\n- Tak długo, jak ten efekt istnieje, całe obrażenia od krwawienia zadane Tarczy HP są zamieniane w Krwawą Ucztę.\n- Przyznaje HP Tarczy równe Wartości w momencie nałożenia efektu\n- Wygasa na Końcu Tury",
+      "desc": "- Maks Wartość: 50\n- Tak długo, jak ten efekt istnieje, całe obrażenia od krwawienia zadane Tarczy PŻ są zamieniane w Krwawą Ucztę.\n- Przyznaje PŻ Tarczy równe Wartości w momencie nałożenia efektu\n- Wygasa na Końcu Tury",
       "summary": ""
     },
     {
@@ -2314,7 +2314,7 @@
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "Siódmy Koszmarny Pocisk",
-      "desc": "- Zadaje +200% obrażeń\n- +2.5% zadawanych obrażeń za każde 1% brakującego HP na celu (Maks 200%)\n- Przed Atakiem: dla tego ataku, jeśli Odporność na Obrażenia od Dźgania na celu są mniejsze niż 2.0, zmień je na Śmiertelne(x2.0)\n- Po ataku: zabija tą jednostkę"
+      "desc": "- Zadaje +200% obrażeń\n- +2.5% zadawanych obrażeń za każde 1% brakującego PŻ na celu (Maks 200%)\n- Przed Atakiem: dla tego ataku, jeśli Odporność na Obrażenia od Dźgania na celu są mniejsze niż 2.0, zmień je na Śmiertelne(x2.0)\n- Po ataku: zabija tą jednostkę"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
@@ -2339,7 +2339,7 @@
     {
       "id": "Retreat_FullStop",
       "name": "Zlecennie Obserwacji",
-      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi HP i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)"
+      "desc": "- Koniec Tury: odratowuje ze stanu Zachwiania i Wycofuje tą jednostkę z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi PŻ i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)"
     },
     {
       "id": "LogicAtelierAM",
@@ -2359,7 +2359,7 @@
     {
       "id": "GlowingLantern",
       "name": "Wróżkowy Wabik",
-      "desc": "- Maks Wartość: 5\n- Początek Tury: Żeton po lewej stronie Tablicy zyskuje +10 Aggro\n- +50% otrzymywanych obrażeń\n- Kiedy ta jednostka zostanie trafiona, nałóż na Atakującego 1 Pęknięcie (3 razy na zdolność celu)\n· Mając mniej niż 50% HP, nałóż 1 dodatkowe Pęknięcie\n· Jeśli cel ma 15+ Pęknięcia, ten efekt nie nakłada Pęknięcia\n- Wartość spada o 1 na Końcu Tury"
+      "desc": "- Maks Wartość: 5\n- Początek Tury: Żeton po lewej stronie Tablicy zyskuje +10 Aggro\n- +50% otrzymywanych obrażeń\n- Kiedy ta jednostka zostanie trafiona, nałóż na Atakującego 1 Pęknięcie (3 razy na zdolność celu)\n· Mając mniej niż 50% PŻ, nałóż 1 dodatkowe Pęknięcie\n· Jeśli cel ma 15+ Pęknięcia, ten efekt nie nakłada Pęknięcia\n- Wartość spada o 1 na Końcu Tury"
     },
     {
       "id": "HoldingBreath",
@@ -2444,7 +2444,7 @@
     {
       "id": "VendettaMark",
       "name": "Znak Wendety",
-      "desc": "- Maks Wartość: 10\n- Zużywany przez Zdolności\n- +2% obrażeń otrzymywanych od Tożsamości ze Środka za każdą Wartość (Maks 20%)\n- Koniec Tury: jednostka z największą Wartością tego ofektu zyskuje 1 Znak Zemsty Rodzeństwa na początku następnej tury\n(Liczy się osobno od Znaku Zemsty; jeśli więcej niż jedna jednostka ma najwięcej tego efektu, ten efekt aktywuje się na tej z największym procentem HP)",
+      "desc": "- Maks Wartość: 10\n- Zużywany przez Zdolności\n- +2% obrażeń otrzymywanych od Tożsamości ze Środka za każdą Wartość (Maks 20%)\n- Koniec Tury: jednostka z największą Wartością tego ofektu zyskuje 1 Znak Zemsty Rodzeństwa na początku następnej tury\n(Liczy się osobno od Znaku Zemsty; jeśli więcej niż jedna jednostka ma najwięcej tego efektu, ten efekt aktywuje się na tej z największym procentem PŻ)",
       "summary": "",
       "undefined": "-"
     },
@@ -2542,14 +2542,14 @@
     {
       "id": "DragonLance",
       "name": "Przykrywający Kwiaty Klin [埋花櫼]",
-      "desc": "Bazowa Wartość: 0\nMaks Wartość: 3\n- Wszystkie Monety Bazowej Zdolności tej jednostki najbardziej po lewej stronie Tablicy zamieniają się w Niezłomne Monety\n- Początek Tury: przyznaje 2 Większe Poziomy Ataku i 2 Mniejsze Poziomy Obrony\n- Początek Tury: przy 3+ Wartości, przyznaje 1 Zbezczeszczoną Krew (raz na Potyczkę)\n- Koniec Tury: przyznaje 1 Wartości\n※ Wartości tego efektu nie można zwiększyć w żaden sposób poza powyższym\n- Wygasa przy śmierci lub wycofaniu\n\n- Kiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 0: zamiast pozwolić, by HP tej jednostki spadło do 1, lub została Zachwiana czy Pokonana, używa Zdolności 'Łzy Zbezczeszczonej Krwi - Zakończenie' na samym końcu tej tury. Po zakończeniu Zdolności, usuwa cały Przykrywający Kwiaty Klin.\nKiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 1 na Końcu Tury, używa Zdolności 'Łzy Zbezczeszczonej Krwi - Zakończenie' zależnie od Prędkości tej jednostki na początku następnej tury",
+      "desc": "Bazowa Wartość: 0\nMaks Wartość: 3\n- Wszystkie Monety Bazowej Zdolności tej jednostki najbardziej po lewej stronie Tablicy zamieniają się w Niezłomne Monety\n- Początek Tury: przyznaje 2 Większe Poziomy Ataku i 2 Mniejsze Poziomy Obrony\n- Początek Tury: przy 3+ Wartości, przyznaje 1 Zbezczeszczoną Krew (raz na Potyczkę)\n- Koniec Tury: przyznaje 1 Wartości\n※ Wartości tego efektu nie można zwiększyć w żaden sposób poza powyższym\n- Wygasa przy śmierci lub wycofaniu\n\n- Kiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej PŻ do 0: zamiast pozwolić, by PŻ tej jednostki spadło do 1, lub została Zachwiana czy Pokonana, używa Zdolności 'Łzy Zbezczeszczonej Krwi - Zakończenie' na samym końcu tej tury. Po zakończeniu Zdolności, usuwa cały Przykrywający Kwiaty Klin.\nKiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej PŻ do 1 na Końcu Tury, używa Zdolności 'Łzy Zbezczeszczonej Krwi - Zakończenie' zależnie od Prędkości tej jednostki na początku następnej tury",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "CondensedBlood",
       "name": "Zbezczeszczona Krew",
-      "desc": "Maks Wartość: 5\n- Koniec Tury: Zadaje tej jednostce obrażenia równe 20% jej maks HP za każdą Wartość (Ten efekt nie może jej Zachwiać)\n- Przyznaje 1 Wartości na Końcu Tury\n- Wygasa przy śmierci lub wycofaniu",
+      "desc": "Maks Wartość: 5\n- Koniec Tury: Zadaje tej jednostce obrażenia równe 20% jej maks PŻ za każdą Wartość (Ten efekt nie może jej Zachwiać)\n- Przyznaje 1 Wartości na Końcu Tury\n- Wygasa przy śmierci lub wycofaniu",
       "summary": "",
       "undefined": "-"
     },
@@ -2563,7 +2563,7 @@
     {
       "id": "YesdragonNodie",
       "name": "Odmowa [不許]",
-      "desc": "Kiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej HP do 0: Hp tej jednostki nie spada poniżej 1; odratowuje ze stanu Zachwiania .\nJeśli powyższy efekt zostanie aktywowany, ta jednostka umiera na Końcu Tury.\nWygasa przy śmierci, wycofaniu lub na Koniec Tury",
+      "desc": "Kiedy ta jednostka otrzyma obrażenia, które zmniejszyłyby jej PŻ do 0: Hp tej jednostki nie spada poniżej 1; odratowuje ze stanu Zachwiania .\nJeśli powyższy efekt zostanie aktywowany, ta jednostka umiera na Końcu Tury.\nWygasa przy śmierci, wycofaniu lub na Koniec Tury",
       "summary": "",
       "undefined": "-"
     },
@@ -2598,7 +2598,7 @@
     {
       "id": "RetreatForCommon",
       "name": "Wycofanie z Walki",
-      "desc": "- Koniec Tury: odratowuje tą jednostkę ze stanu Zachwiania i Wycofuje ją z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi HP i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)",
+      "desc": "- Koniec Tury: odratowuje tą jednostkę ze stanu Zachwiania i Wycofuje ją z Potyczki (chyba, że było to wymuszone Zachwianie; nie liczy się jako śmierć)\n· W Walkach Szeregowych, przekaż Żetony Zdolności tej jednostki jednostce, która ją zastępuje i przenieś ją na koniec kolejki Jednostek Rezerwowych (całkowicie ucieka z Potyczki, jeśli nie ma innych Jednostek Rezerwowych, z którymi można się zamienić na początku następnej tury. Wracając do walki, jednostki powracają w tej samej kolejności, w której się wycofały)\n· Wracając do walki, jednostki powracająz takimi samymi PŻ i SP jakie miały, kiedy się wycofały i usuwa wszystkie efekty na sobie, poza kilkoma wybranymi (jeśli ta jednostka miała mniej niż 0 SP w czasie wycofania, zamiast tego zresetuj SP do 0)",
       "summary": "",
       "undefined": "-"
     },
@@ -2647,7 +2647,7 @@
     {
       "id": "BeastEyesAlly",
       "name": "Przegrzanie",
-      "desc": "- Ten efekt wygasa po zyskaniu Dzikiego Tygrysiego Naboju\n- Min & Maks Prędkość +2\n- Bazowe Zdolnośc tracą (łączna liczba zużytych Tygrysich Naboi i Dzikich Tygrysich Naboi / 2) Mocy Starcia (maks 10); w zamian za to, przyznaje dane efekty(kumulatywnie):\n· łączna liczba zużytych Naboi: {0}\n· 8+ zużytych Naboi: Przyznaje 1 Ochrony za każde 10% brakującego HP na sobie na Początku Tury (maks 5)\n· 14+ zużytych Naboi: Po przegraniu Starcia, Niezłomne monety Bazowych Zdolności tej jednostki zadają +(75 + procent brakującego HP na sobie)% zadawanych obrażeń (maks 150%)\n· 20+ zużytych Naboi: +(różnica w procencie HP)% obrażeń zadawanych celom z wyższym procentem pozostałego HP niż ta jednostka (maks 50%; nie liczy Zdolności E.G.O)",
+      "desc": "- Ten efekt wygasa po zyskaniu Dzikiego Tygrysiego Naboju\n- Min & Maks Prędkość +2\n- Bazowe Zdolnośc tracą (łączna liczba zużytych Tygrysich Naboi i Dzikich Tygrysich Naboi / 2) Mocy Starcia (maks 10); w zamian za to, przyznaje dane efekty(kumulatywnie):\n· łączna liczba zużytych Naboi: {0}\n· 8+ zużytych Naboi: Przyznaje 1 Ochrony za każde 10% brakującego PŻ na sobie na Początku Tury (maks 5)\n· 14+ zużytych Naboi: Po przegraniu Starcia, Niezłomne monety Bazowych Zdolności tej jednostki zadają +(75 + procent brakującego PŻ na sobie)% zadawanych obrażeń (maks 150%)\n· 20+ zużytych Naboi: +(różnica w procencie PŻ)% obrażeń zadawanych celom z wyższym procentem pozostałego PŻ niż ta jednostka (maks 50%; nie liczy Zdolności E.G.O)",
       "summary": "",
       "undefined": "-"
     },
@@ -2744,7 +2744,7 @@
     {
       "id": "DarkHongluTeaching",
       "name": "Uncompromising Imposition",
-      "desc": "Maks Wartość: 3\n- Koniec Tury: leczy 5 SP\n- When HP drops to 0 during the Encounter, leczy do maks HP (activates as many razy as this unit has Wartości)\n- When healed by this effect, przyznaje 1 Wzmocnienia na początku następnej tury\n- Activated: {0} razy",
+      "desc": "Maks Wartość: 3\n- Koniec Tury: leczy 5 SP\n- When PŻ drops to 0 during the Encounter, leczy do maks PŻ (activates as many razy as this unit has Wartości)\n- When healed by this effect, przyznaje 1 Wzmocnienia na początku następnej tury\n- Activated: {0} razy",
       "summary": ""
     },
     {
@@ -2756,31 +2756,31 @@
     {
       "id": "DarkHonglu_EGOResourceup",
       "name": "No Matter How Many Must Krwawienie...",
-      "desc": "[Hong Lu Exclusive Effect]\n- For this Encounter: after using a Skill Attack, przyznaje 2 dodatkowe E.G.O resources of the Skill's Affinity (raz na turę)\n- When this unit takes damage, it Zyskuje 2 Slash DMG Up na początku następnej tury (raz na turę)",
+      "desc": "[Hong Lu Exclusive Effect]\n- For this Encounter: after using a Skill Attack, przyznaje 2 dodatkowe E.G.O resources of the Skill's Affinity (raz na turę)\n- When this unit takes obrażeń, it Zyskuje 2 Slash DMG Up na początku następnej tury (raz na turę)",
       "summary": ""
     },
     {
       "id": "DarkHonglu_Xi",
       "name": "Happiness",
-      "desc": "- Hong Lu's +1 Mocy Starcia \n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\n- Nullfies the effect that turns this unit into a Precious Jade once. When clashing aZyskajst Skills that turns this unit into a Precious Jade, Mocy Starcia +5; if this unit wins that Clash, this unit does not become a Precious Jade, recovers from Stagger, reduces Jia Mu's SP by 10 i inflicts 2 Kruchości aZyskajst Jia Mu\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "desc": "- Hong Lu's +1 Mocy Starcia \n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal obrażeń, Hong Lu does not die i heals 50% PŻ instead\n- Nullfies the effect that turns this unit into a Precious Jade once. When clashing aZyskajst Skills that turns this unit into a Precious Jade, Mocy Starcia +5; if this unit wins that Clash, this unit does not become a Precious Jade, recovers from Stagger, reduces Jia Mu's SP by 10 i inflicts 2 Kruchości aZyskajst Jia Mu\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
       "summary": ""
     },
     {
       "id": "DarkHonglu_Le",
       "name": "Happiness, Joy",
-      "desc": "- Hong Lu's Ostatecznej Mocy +1\n- On Clash Win, leczy 5 SP for 1 ally with the least SP (including this unit)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "desc": "- Hong Lu's Ostatecznej Mocy +1\n- On Clash Win, leczy 5 SP for 1 ally with the least SP (including this unit)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal obrażeń, Hong Lu does not die i heals 50% PŻ instead\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
       "summary": ""
     },
     {
       "id": "DarkHonglu_Ai",
       "name": "Happiness, Joy, Sorrow",
-      "desc": "- Hong Lu's Ostatecznej Mocy +3\n- On Clash Win, leczy 5 SP for 1 ally with the least SP (including this unit)\n- When an ally is killed, the remaining allies na Końcu Tury przyznaje 1 Większej Mocy Ataku na początku następnej tury (raz na turę)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "desc": "- Hong Lu's Ostatecznej Mocy +3\n- On Clash Win, leczy 5 SP for 1 ally with the least SP (including this unit)\n- When an ally is killed, the remaining allies na Końcu Tury przyznaje 1 Większej Mocy Ataku na początku następnej tury (raz na turę)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal obrażeń, Hong Lu does not die i heals 50% PŻ instead\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
       "summary": ""
     },
     {
       "id": "DarkHonglu_Nu",
       "name": "Happiness, Joy, Sorrow, Wrath",
-      "desc": "- Hong Lu's Ostatecznej Mocy +5\n- Allies leczy 5 SP przy every Początek Tury (including this unit)\n- When an ally is killed, the remaining allies na Końcu Tury przyznaje 1 Większej Mocy Ataku na początku następnej tury (raz na turę)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die i heals 50% HP instead\n- Increases damage dealt by 30% of the total HP percentage this unit has cumulatively lost during this Encounter (maks 100%)\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
+      "desc": "- Hong Lu's Ostatecznej Mocy +5\n- Allies leczy 5 SP przy every Początek Tury (including this unit)\n- When an ally is killed, the remaining allies na Końcu Tury przyznaje 1 Większej Mocy Ataku na początku następnej tury (raz na turę)\n- When there are 1 lub więcej surviving allies in this Encounter: upon taking fatal obrażeń, Hong Lu does not die i heals 50% PŻ instead\n- Increases obrażeń dealt by 30% of the total PŻ percentage this unit has cumulatively lost during this Encounter (maks 100%)\nOn Clash Win aZyskajst Jia Mu, przyznaje 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources",
       "summary": ""
     },
     {
@@ -2804,7 +2804,7 @@
     {
       "id": "BreakthroughHorse",
       "name": "Przełamanie Szyków",
-      "desc": "- Maks Wartość: 5\n- Początek Tury: przyznaje (Wartość x 10) Tarczy \n- Mając maks Wartości, przyznaje 2 Ostatecznej Mocy\n- Kiedy ta jednostka zostanie trafiona: jeśli ta jednostka otrzymała 100+ obrażeń od jednej Zdolności, przyznaje 1 Ochrony po zakończeniu tej Zdolności (2 razy na turę; liczy obrażenia zadane Tarczy HP; nie liczy obrażeń zadanych przez Słowa Kluczowe)",
+      "desc": "- Maks Wartość: 5\n- Początek Tury: przyznaje (Wartość x 10) Tarczy \n- Mając maks Wartości, przyznaje 2 Ostatecznej Mocy\n- Kiedy ta jednostka zostanie trafiona: jeśli ta jednostka otrzymała 100+ obrażeń od jednej Zdolności, przyznaje 1 Ochrony po zakończeniu tej Zdolności (2 razy na turę; liczy obrażenia zadane Tarczy PŻ; nie liczy obrażeń zadanych przez Słowa Kluczowe)",
       "summary": ""
     },
     {
@@ -2903,7 +2903,7 @@
     {
       "id": "BloodArmorMeursault",
       "name": "Zbroja z Utwardzonej Krwi",
-      "desc": "- Maks Wartość: 5\n- Jeśli ta jednosttka nie jest przy maks HP: po użyciu Zdolności Atakującej, leczy się o 10% zadanych obrażeń HP (raz na turę; maks 40)\n- Po ataku: jeśli ta jednostka zadała obrażenia HP, Wartość spada o 1 (raz na turę)\n• Jeśli został aktywowany Rezon. Rządzy, zmniejsza leczenie HP o połowę, ale nie zużywa Wartości Zbroji z Utwardzonej Krwi",
+      "desc": "- Maks Wartość: 5\n- Jeśli ta jednosttka nie jest przy maks PŻ: po użyciu Zdolności Atakującej, leczy się o 10% zadanych obrażeń PŻ (raz na turę; maks 40)\n- Po ataku: jeśli ta jednostka zadała obrażenia PŻ, Wartość spada o 1 (raz na turę)\n• Jeśli został aktywowany Rezon. Rządzy, zmniejsza leczenie PŻ o połowę, ale nie zużywa Wartości Zbroji z Utwardzonej Krwi",
       "undefined": "-"
     },
     {
@@ -2930,7 +2930,7 @@
     {
       "id": "BloodArmorCasting",
       "name": "Gips z Utwardzonej Krwi",
-      "desc": "- Maks Wartość: 3\n- Ścierając się z przeciwnikiem posiadającym Krwawienie lub Specjalne Krwawienie, +1 Mocy Starcia \n- Kiedy ta jednostka kosztuje Krwawą Ucztę Zdolnością Atakującą, jeśli nie ma dość Krwawej Uczty, zużywa 1 HP za każde 1 brakującej Krwawej Uczty by dodać ją przed jej skosztowaniem (obrażenia od tego efektu nie mogą Zachwiać, ani sprowadzić HP poniżej 1)\n- Wartość spada o 1 na Końcu Tury",
+      "desc": "- Maks Wartość: 3\n- Ścierając się z przeciwnikiem posiadającym Krwawienie lub Specjalne Krwawienie, +1 Mocy Starcia \n- Kiedy ta jednostka kosztuje Krwawą Ucztę Zdolnością Atakującą, jeśli nie ma dość Krwawej Uczty, zużywa 1 PŻ za każde 1 brakującej Krwawej Uczty by dodać ją przed jej skosztowaniem (obrażenia od tego efektu nie mogą Zachwiać, ani sprowadzić PŻ poniżej 1)\n- Wartość spada o 1 na Końcu Tury",
       "summary": "",
       "undefined": "-"
     },
@@ -3139,7 +3139,7 @@
     {
       "id": "LanternGregBigBird",
       "name": "Lampa",
-      "desc": "- Maks Wartość: 8\n- Koniec Tury: Zyskaj 1 Spętania na początku następnej tury za każde 2 Wartości (maks 4)\n- Koniec Tury: Przy maks. Wartości, jeśli na polu walki są przeciwnicy, zużyj całą Wartość, by aktywować dane efekty na początku następnej tury:\n• Daj najbardziej wysuniętemu na lewo Żetonowi Ataku tej jednostki +10 Aggro\n• Nałóż 3 Zaślepienia na przeciwnika z najwyższym obecnym HP (rdzenia)",
+      "desc": "- Maks Wartość: 8\n- Koniec Tury: Zyskaj 1 Spętania na początku następnej tury za każde 2 Wartości (maks 4)\n- Koniec Tury: Przy maks. Wartości, jeśli na polu walki są przeciwnicy, zużyj całą Wartość, by aktywować dane efekty na początku następnej tury:\n• Daj najbardziej wysuniętemu na lewo Żetonowi Ataku tej jednostki +10 Aggro\n• Nałóż 3 Zaślepienia na przeciwnika z najwyższym obecnym PŻ (rdzenia)",
       "summary": "Zyskaj Spętania na początku następnej tury",
       "undefined": "-"
     },
@@ -3361,7 +3361,7 @@
     {
       "id": "MeursaultWorkerBee",
       "name": "Feromon Lojalnościowy",
-      "desc": "- Maks Wartość: 3\n- Zyskaj dane efekty na początku następnej tury zależnie od Wartości na Końcu Tury:\n1+ Wartość: 1 Ochrona\n2+ Wartość: 1 Pośpiech\n3 Wartość: 1 Większa Moc Starcia",
+      "desc": "- Maks Wartość: 3\n- Zyskaj dane efekty na początku następnej tury zależnie od Wartości na Końcu Tury:\n1+ Wartości: 1 Ochrona\n2+ Wartości: 1 Pośpiech\n3 Wartość: 1 Większa Moc Starcia",
       "summary": "",
       "undefined": "-"
     },
@@ -3460,7 +3460,7 @@
     {
       "id": "SelfChargeAlly",
       "name": "Automatyczne Ładowanie",
-      "desc": "- +2 Ostatecznej Mocy\n- Zyskaj Ilość Naładowania równą straconej Wartości\n- Strać Wartość w danych sytuacjach:\n· Koniec Ataku Zdolności, która trafiła tą jednostkę (strać 1 Wartość)\n· Koniec Ataku (strać 3 Wartości)\n· Koniec Tury (strać 5 Wartości)\n- Maks Wartość: 20\n- HP tej jednostki nie może spaść poniżej 1 tak długo, jak ma ona ten efekt",
+      "desc": "- +2 Ostatecznej Mocy\n- Zyskaj Ilość Naładowania równą straconej Wartości\n- Strać Wartość w danych sytuacjach:\n· Koniec Ataku Zdolności, która trafiła tą jednostkę (strać 1 Wartość)\n· Koniec Ataku (strać 3 Wartości)\n· Koniec Tury (strać 5 Wartości)\n- Maks Wartość: 20\n- PŻ tej jednostki nie może spaść poniżej 1 tak długo, jak ma ona ten efekt",
       "summary": "",
       "undefined": "-"
     },
@@ -3630,7 +3630,7 @@
     {
       "id": "ScarletMothRodion",
       "name": "Szkarłatna Ćma",
-      "desc": "- Maks Wartość: 3\n- Koniec Tury: Ulecz (Wartość)% PŻ (minimalne leczenie PŻ: 1)\n- Koniec Tury: Ulecz SP equal to Wartość\n- Koniec Tury: Wartość spada o 1",
+      "desc": "- Maks Wartość: 3\n- Koniec Tury: Ulecz (Wartość)% PŻ (minimalne leczenie PŻ: 1)\n- Koniec Tury: Ulecz SP równe Wartości\n- Koniec Tury: Wartość spada o 1",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3646,7 +3646,7 @@
     {
       "id": "SojiRyoshuEchoFuture",
       "name": "Phantom Trace",
-      "desc": "- Maks Wartość: 1\n- Take +5% damage from Blade of the House of Spiders Ryōshū's Base Attack Skills",
+      "desc": "- Maks Wartość: 1\n- Take +5% obrażeń from Blade of the House of Spiders Ryōshū's Base Attack Skills",
       "summary": "",
       "undefined": "-",
       "flavor": "A phantom trace (殘影) is not simply a faint shade left in passing. It is the shadow of razy past, cruelly drawn across bygone days."
@@ -3662,7 +3662,7 @@
     {
       "id": "SojiRyoshuShin",
       "name": "Shin (心) - Dihui Star [地慧星]",
-      "desc": "- +2 Min & Maks Prędkości\n- Upon using a Base Attack Skill, zyskaj 2 Tchnienie Potency i +1 Ilości Tchnienia\n- This unit's Base Attack Skills zadaj +10% obrażeń on Critical Hit\n- Take -20% damage from Unopposed Attacks i Unbreakable Coins",
+      "desc": "- +2 Min & Maks Prędkości\n- Upon using a Base Attack Skill, zyskaj 2 Tchnienie Potency i +1 Ilości Tchnienia\n- This unit's Base Attack Skills zadaj +10% obrażeń on Critical Hit\n- Take -20% obrażeń from Unopposed Attacks i Unbreakable Coins",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3670,7 +3670,7 @@
     {
       "id": "PhantomIncisionID",
       "name": "Bladetrail [Afterimage]",
-      "desc": "- Maks Wartość: 100\n- Take +1% damage from Slash Skills za każde 10 Stacks",
+      "desc": "- Maks Wartość: 100\n- Take +1% obrażeń from Slash Skills za każde 10 Wartości",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3678,7 +3678,7 @@
     {
       "id": "PhantomIncisionTotalID",
       "name": "Dihui Star's Blade",
-      "desc": "- Maks Wartość: 70\n- Total sum of Bladetrail Stacks inflicted by this unit\n- Can zyskaj up to 25 Stacks per turn",
+      "desc": "- Maks Wartość: 70\n- Total sum of Bladetrail Wartości inflicted by this unit\n- Can zyskaj up to 25 Wartości per turn",
       "summary": "",
       "undefined": "-",
       "flavor": "Etch a mark into the earth. Such is the purpose this blade was made to serve.\nInto this sword was poured the light of a star, so that something may be left behind in this land."
@@ -3781,8 +3781,8 @@
     },
     {
       "id": "MatchesPersonality",
-      "name": "Blazing",
-      "desc": "- Min & Maks Speed +1\n- This turn's first-used Base Attack Skill Zyskuje Ostatecznej Mocy +2\n- Take 2% HP damage On Hit with the affected Skill (Maks 10%; this damage does not Stagger or reduce this unit's HP below 1)\n- Expires at Koniec Tury",
+      "name": "Rozpalenie",
+      "desc": "- +1 Min & Maks Prędkości\n- Pierwsza użyta w tej turze Bazowa Zdolność Ofensywna Zyskuje +2 Ostatecznej Mocy\n- Przy trafieniu tą Zdolnością otrzymaj 2% obrażeń PŻ (Maks 10%; te obrażenia nie mogą Zachwiać tej jednostki, ani zmniejszyć jej PŻ poniżej 1)\n- Wyfasa na Koniec Tury",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3875,209 +3875,191 @@
       "undefined": "-"
     },
     {
-      "id": "GainSinStockAdder",
-      "name": "E.G.O Resource Amp",
-      "desc": "Gain +{0} E.G.O resources from using skills this turn.",
-      "summary": "+{0} E.G.O resource gain"
-    },
-    {
-      "id": "MaxHpMultiplier",
-      "name": "Max HP Up",
-      "desc": "Increase Max HP by {0}0",
-      "summary": "Max HP +{0}0"
-    },
-    {
-      "id": "StickCoinHeadAndTailToMaxPer",
-      "name": "Meshed Possibilities",
-      "desc": "Every three turns, all Coins on each skill used by allies land on the same side depending on the Coin's type",
-      "summary": "Every 3 turns, all Coins land on the same side based on the type"
-    },
-    {
       "id": "DuelEdgeAlly",
-      "name": "The Duel Escalates",
-      "desc": "- Affects The House of Spiders: The Thumb Apprentice Heathcliff's Skills and Passive effects\n- Can gain up to 3 Stacks per turn\n- Max Stack: 5",
-      "summary": "Affects The House of Spiders: The Thumb Apprentice Heathcliff's Skills and Passive effects"
+      "name": "Wzmagający Się Pojedynek",
+      "desc": "- Wpływa na efekty asywne i Zdolności Pupila Kciuka Heathcliffa\n- Podczas jednej tury można zyskać maks 3 Wartości\n- Maks Wartość: 5",
+      "summary": "Wpływa na efekty asywne i Zdolności Pupila Kciuka Heathcliffa"
     },
     {
       "id": "SeveredTendonAlly",
-      "name": "Severed Tendon",
-      "desc": "- Base Power -1\n- Expires at Turn End\n- Max Stack: 1",
-      "summary": "Base Power -1"
+      "name": "Podcięte Śćięgno",
+      "desc": "- -1 Bazowej Mocy\n- Wygasa na końcu tury\n- Maks Wartość: 1",
+      "summary": "-1 Bazowej Mocy"
     },
     {
       "id": "EvolvingManual",
-      "name": "Maturing Textbook",
-      "desc": "- Base Skills deal +(10 + (Stack x 5))% damage\n- Can gain up to 2 Stacks per turn\n- Max Stack: 3",
-      "summary": "Base Skills deal more damage"
+      "name": "Dorastajacy Podręcznik",
+      "desc": "- Bazowe Zdolności zadają +(10 + (Wartość x 5))% obrażeń\n- Podczas jednej tury można zyskać maks 2 Wartości\n- Maks Wartość: 3",
+      "summary": "Bazowe Zdolności zadają więcej obrażeń"
     },
     {
       "id": "ObsessionAndGreedRodion",
-      "name": "Shin (心) - Disgrace",
-      "desc": "- Min & Max Speed +1\n- Base Skills inflict +1 more Tremor and Burn Potency and Count\n- Deal +3% damage for every 3 Poise Potency on self (max 15%)",
+      "name": "Shin (心) - Zhańbienie",
+      "desc": "- +1 Min & Maks Prędkości\n- Bazowe Zdolności nakładają +1 dodatkowej Siły i Ilości Podpalenia i Drżenia\n- +3% zadawanych obrażeń za każde 3 Siły Tchnienia na sobie (maks 15%)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FutureEyeOnRodion",
-      "name": "Eye of Precognition",
-      "desc": "- Max Stack: 30\n- Can lose up to 10 Stacks per turn",
+      "name": "Prorocze Oko",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można stracić maks 10 Wartości",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FutureEyeOffRodion",
-      "name": "Eye of Precognition - Overheat",
-      "desc": "- Max Stack: 30\n- Offense Level +3, Defense Level -3\n- Turn Start: Gain 10 Stacks\n- At 30 Stacks, convert into \"Eye of Precognition\"",
+      "name": "Prorocze Oko - Przegrzane",
+      "desc": "- Maks Wartość: 30\n- +3 Poziomy Ataku, -3 Poziomy Obrony\n- Początek Tury: Zyskaj 10 Wartości\n- Mając 30 Wartości, zmienia się w \"Prorocze Oko\"",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LookingFutureRodion",
-      "name": "Accelerating Future",
-      "desc": "- Max Stack: 5\n- Base Skills deal +3% damage for every Stack (max 15%)\n- Base Skill Clash Power +1 for every 2 Stacks\n- At 5 Stacks, Base Skill Coin Power +1\n- Expires at Skill End",
+      "name": "Przyspieszająca Przyszłość",
+      "desc": "- Maks Wartość: 5\n- Bazowe Zdolności zadają +3% obrażeń za każdą Wartość (maks 15%)\n- Bazowe Zdolności Ofensywne zyskują +1 Mocy Starcia za każde 2 Wartości\n- Mając 5 Wartości, Bazowe Zdolności zyskują +1 Mocy Monet\n- Wygasa po użyciu Zdolności",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPreyRodion",
-      "name": "Game Target",
-      "desc": "- Take +15% damage from Base Skills used by The House of Spiders: The Thumb Nursefather Rodion",
+      "name": "Zwierzyna",
+      "desc": "- +15% obrażeń otrzymywanych od Bazowych Zdolności Ojczyma Kciuka Rodion",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StigmaWorkshopHandStep1",
-      "name": "Light of Daybreak",
-      "desc": "- Max Stack: 30\n- Can gain up to 20 Stack per turn\n- Turn Start: Gain 1 Burn for every 5 Stack; then, gain +1 Burn Count for every 10 Stack\n- On Hit using a Base Attack Skill, gain (1 + (Burn on target / 3)) Stack (max 3)\n- At 10+ Stack, Base Skills inflict +1 more Burn Potency on enemies\n- At 20+ Stack, Base Skills inflict +1 more Burn Count on enemies",
-      "summary": "Gain Stack On Hit\nWhen conditions are met, inflict more Burn Potency and Count",
+      "name": "Blask Świtu",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Początek Tury: Zyskaj 1 Podpalenie za każde 5 Wartości, po czym zyskaj +1 Ilości Podpalenia za każde 10 Wartość\n- Przy trafieniu Bazową Zdolnością Ofensywną, zyskaj (1 + (Podpalenie na celu / 3)) Wartości (maks 3)\n- Mając 10+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia\n- Mając 20+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu\nPo spełnieniu warunków, zwiększa Siłę i Ilość nakładanego Podpalenia",
       "undefined": "-",
-      "flavor": "The first flare of dawn is not a fire that scorches, but one that casts its glow on people."
+      "flavor": "Pierwsze promyki brzasku nie są palącym płomieniem, tylko ciepłem ogrzewającym ludzi."
     },
     {
       "id": "StigmaWorkshopHandStep2",
-      "name": "Light of Daybreak",
-      "desc": "- Max Stack: 30\n- Can gain up to 20 Stack per turn\n- Turn Start: Gain 1 Burn for every 5 Stack; then, gain +1 Burn Count for every 10 Stack\n- On Hit using a Base Attack Skill, gain (1 + (Burn on target / 3)) Stack (max 3)\n- At 10+ Stack, Base Skills inflict +1 more Burn Potency on enemies\n- At 20+ Stack, Base Skills inflict +1 more Burn Count on enemies",
-      "summary": "Gain Stack On Hit\nWhen conditions are met, inflict more Burn Potency and Count",
+      "name": "Blask Świtu",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Początek Tury: Zyskaj 1 Podpalenie za każde 5 Wartości, po czym zyskaj +1 Ilości Podpalenia za każde 10 Wartość\n- Przy trafieniu Bazową Zdolnością Ofensywną, zyskaj (1 + (Podpalenie na celu / 3)) Wartości (maks 3)\n- Mając 10+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia\n- Mając 20+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu\nPo spełnieniu warunków, zwiększa Siłę i Ilość nakładanego Podpalenia",
       "undefined": "-",
-      "flavor": "The first flare of dawn is not a fire that scorches, but one that casts its glow on people."
+      "flavor": "Pierwsze promyki brzasku nie są palącym płomieniem, tylko ciepłem ogrzewającym ludzi."
     },
     {
       "id": "StigmaWorkshopHandStep3",
-      "name": "Light of Daybreak",
-      "desc": "- Max Stack: 30\n- Can gain up to 20 Stack per turn\n- Turn Start: Gain 1 Burn for every 5 Stack; then, gain +1 Burn Count for every 10 Stack\n- On Hit using a Base Attack Skill, gain (1 + (Burn on target / 3)) Stack (max 3)\n- At 10+ Stack, Base Skills inflict +1 more Burn Potency on enemies\n- At 20+ Stack, Base Skills inflict +1 more Burn Count on enemies",
-      "summary": "Gain Stack On Hit\nWhen conditions are met, inflict more Burn Potency and Count",
+      "name": "Blask Świtu",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Początek Tury: Zyskaj 1 Podpalenie za każde 5 Wartości, po czym zyskaj +1 Ilości Podpalenia za każde 10 Wartość\n- Przy trafieniu Bazową Zdolnością Ofensywną, zyskaj (1 + (Podpalenie na celu / 3)) Wartości (maks 3)\n- Mając 10+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia\n- Mając 20+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu\nPo spełnieniu warunków, zwiększa Siłę i Ilość nakładanego Podpalenia",
       "undefined": "-",
-      "flavor": "The first flare of dawn is not a fire that scorches, but one that casts its glow on people."
+      "flavor": "Pierwsze promyki brzasku nie są palącym płomieniem, tylko ciepłem ogrzewającym ludzi."
     },
     {
       "id": "DawnLight",
-      "name": "Dawnherald",
-      "desc": "- Max Stack: 3\n- Base Skills that inflict Burn Potency, Count, or 'Unique Burn' deal +10% damage\n· If the said Skill is a Wrath Skill, deal +15% damage instead\n\n- Base Skills that inflict Burn Potency, Count, or 'Unique Burn', gain Clash Power +1\n· If this unit is a Dawn Office Identity, gain Base Power +1 instead\n- Turn End: Lose 1 Stack",
+      "name": "Herald Brzasku",
+      "desc": "- Maks Wartość: 3\n- Bazowe Zdolności, które nakładają Podalenie lub 'Specjalne Podpalenie' zadają +10% obrażeń\n· Jeśli ta Zdolność jest od Gniewu, zamiast tego zadaje +15% obrażeń\n\n- Bazowe Zdolności, które nakładają Podalenie lub 'Specjalne Podpalenie', zyskuja +1 Mocy Starcia\n· Jeśli ta jednostka jest członkiem Biura Brzasku, zamiast tego zyskuje +1 Bazowej Mocy\n- Koniec Tury: Wartość spada o 1",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"Burn, burn, burn—y'see, Kid, fire's not the be-all, end-all solution to every problem you've got. When it comes to using heat-modulating weapons like these, the deciding factors often come down to <i>when</i> to spark the flame, and <i>how hot</i> you let it burn.\n\"Yeah, that's why I'm always chewing your ear off about how important it is to feel the 'moment' that comes with the territory of using heat-modulating weapons. But on the other hand... when that 'moment' tells you to burn it all down, don't hold back and just let it rip. ... Hm? Oh, you want to know who's the best in the field?\"\n\"Hmm, let's see... Well, the best of the best's got to be the Vermilion Cross, I'd wager.\""
+      "flavor": "\"Palić, palić, palić—właśnie widzisz, młody, ogień nie jest właśnie jedynym rozwiązaniem na każdy tam problem. Z takimi jak te broniami cieplnymi, decydującą kwestią zazwyczaj jest <i>kiedy</i> wszcząć ogień i <i>jak gorąco</i> pozwolisz mu zapłonąć.\n\"Ta, właśnie dlatego tak ciągle gadam ci o tym, jak ważne jest wyczucie 'chwili' idącej za wyborem broni cieplnej. Choć też z drugiej strony... gdy ta 'chwila' mówi ci, że czas wszystko spalić, nie wachaj się, daj z siebie wszystko i pozwól ponieść się pasji. ... Hm? Oh, chcesz wiedzieć kto jest najleszy w tej działce?\"\n\"Hmm, daj mi pomyśleć... O, mam, mógłbym się założyć, że najleszym z najleszych był Cynobrowy Krzyż.\""
     },
     {
       "id": "RunSinclair",
-      "name": "Escape Apparatus",
-      "desc": "- When this unit takes damage that brings its HP down to 10, this unit's HP does not drop below 10 for the turn\n- Turn End after the above effect activates: Recover from Stagger and Retreat from the Encounter (excluding forced Staggers; does not count as death; in Encounters where Retreat is disabled, the Retreat effect does not activate and expires at Turn End)\n  · In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n  · When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
+      "name": "Urządzenie Ucieczkowe",
+      "desc": "- Kiedy ta jednostka otrzyma obrażenia, które sprowadziłuby jej PŻ do 10, PŻ tej jednostki nie sadają poniżej 10 podczas tej tury\n- Koniec Tury po aktywacji powyższego efektu: Wyjdź ze stanu Zachwiania i Wycofaj się z walki (nie działa na wymuszone Zachwianie; to nie liczy się jako śmierć; w Potyczkach, w których nie można się Wycofać, efekt Wycofania nie aktywuje się, a efekt wygasa na końcu tury)\n  · W walkach Szeregowych, Żetony Zdolności tej jednostki są przekazane jednostce, która wchodzi na jej miejsce, a ona sama zostaje przeniesiona na ostatnie miejsce w Kolejności Wdrożenia jednostek rezerwowych (Jeśli nie ma już jednostek rezerwowych, z którymi ta mogłaby zamienić się miejscami, zamiast tego całkiem ucieka z walki. Wracając do walki, ta jednostka ustawia się w tej samej pozycji wdrożenia, na której była)\n  · Powracając do walki, SP i PŻ pozostają takie same, jak podczas odwrotu, a wszelkie efekty na sobie zostają usunięte, z kilkoma wyjątkami (jeśl SP tej jednostki wynosiło 0 w chwili wycofania, zamiast tego zostaje ustawione na 0)",
       "summary": "",
       "undefined": "-",
-      "flavor": "'... Live.'"
+      "flavor": "'... Przeżyj.'"
     },
     {
       "id": "FireField",
-      "name": "Scorchfield",
-      "desc": "- Max Value: 999\n- Stores all Burn damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters",
+      "name": "Wypalanie Ziemi",
+      "desc": "- Maks Wartość: 999\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
       "summary": "",
       "undefined": "-",
-      "flavor": "Heat turns air into a breeze, a gust, a firestorm, scorching the forest with abandon as men and beasts alike depart."
+      "flavor": "Ciepło zmienia powietrze w powiew, wicher, płomienny huragan, palący szaleńczo lasy i ziemię, wypędzaąc z nich i ludzi i bestie."
     },
     {
       "id": "DawnGregor",
-      "name": "From Dawnbreak to Sunset",
-      "desc": "- If this unit has 3+ Stagger Thresholds, remove the first Stagger Threshold\n- Turn End: If this unit is Staggered, recover from Stagger; if this unit is at Uptie 3 or higher, replace 1 of its Base Skills with Skill 3\n(excluding forced Staggers; once per Encounter; prioritizes the Skill of lowest rank)\n\n- Turn Start: Heal 5 SP\n- Passive \"Unstable Shell of Ego\" effects, Base Attack Skill effects, and Volatile Passion effects cannot reduce this unit's SP below 25\n\n- When in Volatile E.G.O::Waxen Pinion state, gain the following effects:\n  · Turn Start: Gain Shield equal to 15% of max HP\n  · When hit while this unit has Shield, inflict 1 Burn against the attacker (2 times per turn)\n  · Activate Scorchfield on this field\n\n※ Scorchfield effects\n- Stores all Burn damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters",
+      "name": "Od Brzasku Aż Po Zmierzch",
+      "desc": "- Jeśli ta jednostka ma 3+ Progi Zachwiania, usuń pierwszy z nich\n- Koniec Tury: Jeśli ta jednostka jest Zachwiana, Wyjdź ze stanu Zachwiania; Jeśli Poziom Powiązania tej jednostki wynosi 3 lub więcej, zastą 1 z jej Bazowych Zdolności jej 3 Zdolnością\n(nie działa na wymuszone Zachwianie; raz na Potyczkę; w pierwszej kolejności działa na Zdolność o najniższym poziomie)\n\n- Początek Tury: Ulecz 5 SP\n- Efekty Zdolności Pasywnej \"Niestabilna Skorupa E.G.O\", Bazowych Zdolności Ofensywnych i Kruchego Zapału nie mogą zmniejszyć SP tej jednostki poniżej 25\n\n- Kiedy ta jednostka manifestuje Kruchą Skorupę E.G.O::Woskowe Skrzydła, zyskuje dane efekty:\n  · Początek Tury: Zyskaj Tarczę równą 15% of maks PŻ\n  · Kiedy ta jednostka zostanie trafiona mając Tarczę, nakłada na agresora 1 Podpalenia (2 razy na turę)\n  · Aktywuj Wypalanie Ziemi\n\n※ Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"Ah... What a pleasant aroma. You're practically a Color Fixer when it comes to brewing ssanghwa-cha, you know that? I hereby anoint you Color Fixer \"The Yellow Ssanghwa...\"\n\"That's settled, then. I'll be tutoring you myself, so you'd better keep up. I see real potential in you, Kid—your ssanghwa-cha brewing skills have this instinctive grasp of the 'moment'... And being able to recognize that 'moment' is the key to just about everything.\""
+      "flavor": "\"Ah... Co za prztjemny zapach. Jeśli chodzi o parzenie ssanghwa-cha, jesteś praktycznie Kolorem, wiesz? Ogłaszam cię wszech i wobec Fachowcem Koloru \"Żółta Ssanghwa...\"\n\"No i załatwione.Ja będę cię uczył, więc leiej nadążaj. Widzę w tobie sporo potencjału, młody—twoje zdolności w parzeniu ssanghwa-cha pokazują, że instynktownie wyczuwasz 'chwilę'... A zdolność rozpoznania właściwie 'chwili' jest tutaj kluczem wszystkiego.\""
     },
     {
       "id": "DawnFaust",
-      "name": "High Noon",
-      "desc": "- Min Speed +2\n- On Base Attack Skill Use: Gain Base Power +2 and deal +(45 / # of Coins)% damage\n\n- Apply the following effects to \"Sunset Blade\"\n· On final Coin Hit: If target has 15+ Burn, activate Burn on target; then, reduce target's Burn Count by 1\n\n- Apply the following effects to \"Blazing Strike\"\n· Deal +100% damage\n· On Use: Convert all Coins into Unbreakable Coins\n· On Hit against an enemy, activate Burn on target; then, reduce target's Burn Count by 1\n· On Use: At 3+ Volatile Passion, consume up to 100 Scorchfield\n· Deal +1% damage for every Scorchfield consumed (max 100%)\n\n* Scorchfield Effects\n- Stores all Burn damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters",
-      "summary": "Strengthen Base Attack Skills",
+      "name": "Samo Południe",
+      "desc": "- +2 Min Prędkości\n- Przy użyciu Bazowej Zdolności: Zyskaj +2 Bazowej Mocy i zadaj +(45 / # Monet)% obrażeń\n\n- Przyznaj dane efekty ostatniej Monecie Zdolności \"Ostrze Zachodu Słońca\" : Jeśli cel ma 15+ Podpalenia, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n\n- Nałóż dane efekty na \"Rozżarzone Natarcie\"\n· +100% zadanych obrażeń\n· Przy Użyciu: Zamień wszystkie Monety w Niezłomne Monety\n· Przy Trafieniu przeciwnika, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n· Przy Użyciu: Mając 3+ Kruchego Zapału, zużyj do 100 Wypalania Ziemi\n· +1% zadanych obrażeń za każde zużyte Wypalanie Ziemi (maks 100%)\n\n* Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "Wzmacnia Bazowe Zdolności Ofensywne",
       "undefined": "-",
-      "flavor": "\"The request has been resolved ahead of schedule, and the weather conditions are optimal today for a team lunch. Shall we all proceed?\""
+      "flavor": "\"Wykonaliśmy zlecenie przed czasem, a pogoda zdaje się być dobra na zespołowy lunch. Wszyscy chętni?\""
     },
     {
       "id": "DawnGregorDying",
-      "name": "Blazing Sunset",
-      "desc": "- If this unit has 3+ Stagger Thresholds, remove the first Stagger Threshold\n- Turn End: If this unit is Staggered, recover from Stagger; if this unit is at Uptie 3 or higher, replace 1 of its Base Skills with Skill 3\n(excluding forced Staggers; once per Encounter; prioritizes the Skill of lowest rank)\n\n- Turn Start: Heal 8 SP\n- Passive \"Unstable Shell of Ego\" effects, Base Attack Skill effects, and Volatile Passion effects cannot reduce this unit's SP below 45\n\n- Turn Start: enter the Volatile E.G.O::Waxen Pinion State, heal 50% HP, and heal SP to max (once per Encounter)\n- Volatile E.G.O::Waxen Pinion State is maintained even when this unit has 0 or lower SP at Turn Start\n\n- When in Volatile E.G.O::Waxen Pinion state, gain the following effects:\n  · Turn Start: Gain Shield equal to 20% of max HP\n  · When hit while this unit has Shield, inflict 2 Burn against the attacker (2 times per turn)\n  · Activate Scorchfield on this field\n\n※ Scorchfield effects\n- Stores all Burn damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters",
+      "name": "Rozżarzony Zmierzch",
+      "desc": "- Jeśli ta jednostka ma 3+ Progi Zachwiania, usuń pierwszy z nich\n- Koniec Tury: Jeśli ta jednostka jest Zachwiana, Wyjdź ze stanu Zachwiania; Jeśli Poziom Powiązania tej jednostki wynosi 3 lub więcej, zastą 1 z jej Bazowych Zdolności jej 3 Zdolnością\n(nie działa na wymuszone Zachwianie; raz na Potyczkę; w pierwszej kolejności działa na Zdolność o najniższym poziomie)\n\n- Początek Tury: Ulecz 8 SP\n- Efekty Zdolności Pasywnej \"Niestabilna Skorupa E.G.O\", Bazowych Zdolności Ofensywnych i Kruchego Zapału nie mogą zmniejszyć SP tej jednostki poniżej 45\n\n- Początek Tury: zmanifestuj Kruchą Skorupę E.G.O::Woskowe Skrzydła, ulecz 50% PŻ, i maks SP (raz na Potyczkę)\n- Krucha Skorupa E.G.O::Woskowe Skrzydła zostaje utrzymana, nawet kiedy SP tej jednostki spadnie poniżej 0 na Początku Tury\n\n- Kiedy ta jednostka manifestuje Kruchą Skorupę E.G.O::Woskowe Skrzydła, zyskuje dane efekty:\n  · Początek Tury: Zyskaj Tarczę równą 20% of maks PŻ\n  · Kiedy ta jednostka zostanie trafiona mając Tarczę, nakłada na agresora 2 Podpalenia (2 razy na turę)\n  · Aktywuj Wypalanie Ziemi\n\n※ Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"Master, please... I still have so much to learn... You said it yourself...\"\nDawn is a fleeting thing; it soon gives way to morning and fades into daylight, with a promise of sunset that will bring about the evening."
+      "flavor": "\"Proszę pana, proszę... Wciąż jeszcze tyle muszę się nauczyć... Sam pan tak powiedział...\"\nBrzask jest wyjątkowo ulotny; po chwili zmienia się w poranek, a ten w dzień, który z pewnością przejdzie w zmierzch, gdy nadejdzie wieczór."
     },
     {
       "id": "DawnFaustDying",
-      "name": "Loneliness at High Noon",
-      "desc": "- Min Speed +2\n- On Base Attack Skill Use: Gain Base Power +3 and deal +(90 / # of Coins)% damage\n\n- Apply the following effects to \"Sunset Blade\"\n· On final Coin Hit: If target has 15+ Burn, activate Burn on target; then, reduce target's Burn Count by 1\n\n- Apply the following effects to \"Blazing Strike\"\n· Deal +150% damage\n· On Use: Convert all Coins into Unbreakable Coins\n· On Hit against an enemy, activate Burn on target; then, reduce target's Burn Count by 1\n· On Use: Consume up to 100 Scorchfield and deal +1.5% damage for every Scorchfield consumed (max 150%)\n\n- When this unit takes damage that brings its HP down to 0 this turn, this unit's HP cannot drop below 1 for the turn, and recovers from Stagger when Staggered due to damage (once per Encounter)\n\n* Scorchfield Effects\n- Stores all Burn damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters",
-      "summary": "Strengthen Base Attack Skills",
+      "name": "Samotność W Samo Południe",
+      "desc": "- +2 Min Prędkości\n- Przy użyciu Bazowej Zdolności: Zyskaj +3 Bazowej Mocy i zadaj +(90 / # Monet)% obrażeń\n\n- Przyznaj dane efekty ostatniej Monecie Zdolności \"Ostrze Zachodu Słońca\" : Jeśli cel ma 15+ Podpalenia, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n\n- Nałóż dane efekty na \"Rozżarzone Natarcie\"\n· +150% zadanych obrażeń\n· Przy Użyciu: Zamień wszystkie Monety w Niezłomne Monety\n· Przy Trafieniu przeciwnika, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n· Przy Użyciu: Zużyj do 100 Wypalania Ziemi i zadaj +1.5% obrażeń za każde zużyte Wypalanie Ziemi (maks 150%)\n\n- Jeśli ta jednostka otrzyma obrażenia, które obniżyłyby jej PŻ do 0 w tej turze, PŻ tej jednostki nie może spaść poniżej 1 podczas tej tury. Jeśli ta jednostka była Zachwiana przy aktywacji powyższego efektu, wychodzi ze stanu Zachwiania (raz na Potyczkę)\n\n* Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "Wzmacnia Bazowe Zdolności Ofensywne",
       "undefined": "-",
-      "flavor": "\"Do you understand what 'loneliness' means, Sinclair? Loneliness is being bathed in the light of the sun at high noon, only to realize that the ones you would have shared a luncheon with have departed you. That is how I would put into words the concept of 'loneliness'—for me, at least. I do hope, Sinclair, that you will never have cause to understand that concept.\""
+      "flavor": "\"Rozumiesz, co oznacza 'samotność', Sinclair? Samotnością jest bycie skąpanym w świetle południowego słońca, a jednak myśleć o tym, że ci, z którymi dzieliłbyś lunch cię opuścili. Tak opisałabym słowami koncept 'samotności'—przynajmniej jak ja go widzę. Mam nadzieję, że nigdy nie będziesz musiał zrozumieć tego konceptu, Sinclair.\""
     },
     {
       "id": "DawnTeam",
-      "name": "Dawn Office",
-      "desc": "- Max Stack: 3\n- Gain 1 Offense Level for every Stack\n- Turn Start: At 3 Stack, heal 5 SP\n- Turn Start: If all other allied Identities that have \"Dawn Office\" are defeated, expires",
+      "name": "Biuro Brzasku",
+      "desc": "- Maks Wartość: 3\n- Zyskaj 1 Poziom Ataku za każdą Wartość\n- Początek Tury: Mając 3 Wartości, Uuecz 5 SP\n- Początek Tury: Jeśli wszystkie inne jednostki posiadające \"Biuro Brzasku\" zostaną okonane, ten efekt wygasa",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Dawn Office of this Mirror World, unlike that of others, has yet to completely lose its fervor. One can reasonably conjecture that the two leading Fixers of this Office have sufficient competence to find work as Grade 1 of the vocation.\n\nHowever, it must be stated that the Office and its Fixers' grades do not vary from those of other observed Mirror Worlds, as combat capability is hardly the sole criterion by which the Grades are assigned. Failure to meet the conditions stipulated by the contract clauses to the client's satisfaction, eschewal of high-risk contracts that contribute to the advancement of Fixer Grades—these are all conditions that limit one's mobility along the ladder of Fixer Grades."
+      "flavor": "Biuro Brzasku w tym lustrzanym świecie, w przeciwieństwie do pozostałych, nie straciło jeszcze zapału. Można by pomyśleć, że zdolności dwóch wiodących Fachowców tego Biura wystarczyłyby do znalezienia pracy, biorąc pod uwagęich pierwszą klasę.\n\nTrzeba jednak wspomnieć, że klasa Biura i jego Fachowców nie różnią się od tych zaobserwowanych w innch Lustrzanych Światach, jako że zdolności bojowe to nie jedyne kryterium, na odstawie którego przypisywane są Klasy. Nie spełnienie któregoś z warunków umowy do zadowalającego klienta poziomu, unikanie ryzykownych kontraktów, które przyczyniłyby się do wzrostu Klasy Fachowca—każda z tych rzeczy ogranicza mobilność po szczeblach Klas Fachowca."
     },
     {
       "id": "StigmaWorkshopCelloCaseOne",
-      "name": "Fire Butterfly Coffin",
-      "desc": "- Max Stack: 30\n- Can gain up to 20 Stacks per turn\n- On Hit using a Base Skill, gain 2 Stacks\n- Turn End: At 20+ Stacks, gain Burn next turn equal to half of surplus Stacks past 20 (rounded down)\n· At 30 Stacks, gain 5 Burn and +2 Burn Count instead",
-      "summary": "Gain Stack On Hit, gain Burn next turn based on Stack",
-      "flavor": "Heated to a smoldering temperature within the coffin are butterflies, the kaleidoscope spilling forth to melt and tear the target apart.\n\n\"This type of weapon is still too premature for you to wield, Sinclair, but it is advisable that you familiarize yourself with its properties.\"\n\n\"The array of blades within the coffin affords considerable convenience in circumstances where time constraints prove solitary handling of requests impossible, or in combat against multiple adversaries.\""
+      "name": "Trumna Płomiennych Motyli",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Przy trafieniu Bazową Zdolnością, zyskaj 2 Wartości\n- Koniec Tury: Mając 20+ Wartości, zyskaj na początku następnej tury Podpalenie równe połowie nadwyźki Wartości ponad 20 (zaokrąglone w dół)\n· Mając 30 Wartości, zamiast tego zyskaj 5 Podpalenie i +2 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu, zyskaj Podpalenie na początku następnej tury zależnie od Wartości",
+      "flavor": "W trumnie przebywają rozgrzane do czerwoności motyle, kaleidoskop gotowy spopielić i rozerwać cel.\n\n\"Wprawdzie nie jesteś jeszcze gotowy na posługiwanie się taką bronią, Sinclair, jednak dobrze, żebyś zaznajomił się z jej działaniem.\"\n\n\"Zbiór ostrzy wewnątrz trumny jeat przydatny, gdy czas nie pozwala na samotne ukończenie zlecenia, lub w wypadku walki z wieloma wrogami.\""
     },
     {
       "id": "StigmaWorkshopCelloCaseTwo",
-      "name": "Fire Butterfly Coffin",
-      "desc": "- Max Stack: 30\n- Can gain up to 20 Stacks per turn\n- On Hit using a Base Skill, gain 2 Stacks\n- Turn End: At 20+ Stacks, gain Burn next turn equal to half of surplus Stacks past 20 (rounded down)\n· At 30 Stacks, gain 5 Burn and +2 Burn Count instead",
-      "summary": "Gain Stack On Hit, gain Burn next turn based on Stack",
-      "flavor": "Heated to a smoldering temperature within the coffin are butterflies, the kaleidoscope spilling forth to melt and tear the target apart.\n\n\"This type of weapon is still too premature for you to wield, Sinclair, but it is advisable that you familiarize yourself with its properties.\"\n\n\"The array of blades within the coffin affords considerable convenience in circumstances where time constraints prove solitary handling of requests impossible, or in combat against multiple adversaries.\""
+      "name": "Trumna Płomiennych Motyli",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Przy trafieniu Bazową Zdolnością, zyskaj 2 Wartości\n- Koniec Tury: Mając 20+ Wartości, zyskaj na początku następnej tury Podpalenie równe połowie nadwyźki Wartości ponad 20 (zaokrąglone w dół)\n· Mając 30 Wartości, zamiast tego zyskaj 5 Podpalenie i +2 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu, zyskaj Podpalenie na początku następnej tury zależnie od Wartości",
+      "flavor": "W trumnie przebywają rozgrzane do czerwoności motyle, kaleidoskop gotowy spopielić i rozerwać cel.\n\n\"Wprawdzie nie jesteś jeszcze gotowy na posługiwanie się taką bronią, Sinclair, jednak dobrze, żebyś zaznajomił się z jej działaniem.\"\n\n\"Zbiór ostrzy wewnątrz trumny jeat przydatny, gdy czas nie pozwala na samotne ukończenie zlecenia, lub w wypadku walki z wieloma wrogami.\""
     },
     {
       "id": "StigmaWorkshopCelloCaseThree",
-      "name": "Fire Butterfly Coffin",
-      "desc": "- Max Stack: 30\n- Can gain up to 20 Stacks per turn\n- On Hit using a Base Skill, gain 2 Stacks\n- Turn End: At 20+ Stacks, gain Burn next turn equal to half of surplus Stacks past 20 (rounded down)\n· At 30 Stacks, gain 5 Burn and +2 Burn Count instead",
-      "summary": "Gain Stack On Hit, gain Burn next turn based on Stack",
-      "flavor": "Heated to a smoldering temperature within the coffin are butterflies, the kaleidoscope spilling forth to melt and tear the target apart.\n\n\"This type of weapon is still too premature for you to wield, Sinclair, but it is advisable that you familiarize yourself with its properties.\"\n\n\"The array of blades within the coffin affords considerable convenience in circumstances where time constraints prove solitary handling of requests impossible, or in combat against multiple adversaries.\""
+      "name": "Trumna Płomiennych Motyli",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Przy trafieniu Bazową Zdolnością, zyskaj 2 Wartości\n- Koniec Tury: Mając 20+ Wartości, zyskaj na początku następnej tury Podpalenie równe połowie nadwyźki Wartości ponad 20 (zaokrąglone w dół)\n· Mając 30 Wartości, zamiast tego zyskaj 5 Podpalenie i +2 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu, zyskaj Podpalenie na początku następnej tury zależnie od Wartości",
+      "flavor": "W trumnie przebywają rozgrzane do czerwoności motyle, kaleidoskop gotowy spopielić i rozerwać cel.\n\n\"Wprawdzie nie jesteś jeszcze gotowy na posługiwanie się taką bronią, Sinclair, jednak dobrze, żebyś zaznajomił się z jej działaniem.\"\n\n\"Zbiór ostrzy wewnątrz trumny jeat przydatny, gdy czas nie pozwala na samotne ukończenie zlecenia, lub w wypadku walki z wieloma wrogami.\""
     },
     {
       "id": "Firstlight",
-      "name": "Battle Instinct",
-      "desc": "- Max Stack: 3\n- Min & Max Speed +2\n- Base Skills inflict +1 more Burn Potency and Burn Count on enemies\n- Skill \"Eject\" deals +(Stack x 5)% damage\n- Skills \"Eject - High Noon\" and \"Dismemberment at High Noon\" deal +(Stack x 10)% damage",
-      "summary": "Deal more damage using \"Eject\", \"Eject - High Noon\", \"Dismemberment at High Noon\"",
-      "flavor": "\"To resume the subject at hand: aside from Singularities, there exists a means of overcoming the penalties incurred by using this type of weaponry. Namely, effort.\"\n\n\"This may go without saying, but it is recommended that you focus on honing your body and battle instinct whenever time permits—both during downtime and when handling requests.\"\n\n\"Granted, battle instinct, in most cases, can only be properly demonstrated in the heat of battle. One might refer to this process as a \"warm up,\" although that term is perhaps <i>too</i> simple. In any case, a heightened natural battle instinct will help you offset the gear's structural and technical vulnerabilities. This is how you may raise the baseline of your performance threshold. Are you able to comprehend this explanation, Sinclair?\""
+      "name": "Instynkty Bitewne",
+      "desc": "- Maks Wartość: 3\n- +2 Min & Maks Prędkości\n- Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia i Ilości Podpalenia\n- Zdolność \"Wystrzał\" zadaje +(Wartość x 5)% obrażeń\n- Zdolności \"Wystrzał - Samo Południe\" i \"Cwiartowanie w Samo Południe\" zadają +(Wartość x 10)% obrażeń",
+      "summary": "Zdolności \"Wystrzał\", \"Wystrzał - Samo Południe\" i \"Cwiartowanie w Samo Południe\" zadają więcej obrażeń",
+      "flavor": "\"Wracając do tematu: Poza Osobliwościami, istnieją sposoby przezwyciężenia trudności związanych z tego rodzaju bronią. Przeważnie sprowadza się to do wprawy.\"\n\n\"To może być oczywiste, ale zalecam skupienie się na treningu ciała i instynktu bitwenego przy każdej nadarzającej się okazji—czy to w czasie wolnym, czy podczas wykonywania zleceń.\"\n\n\"Oczywiście instykt bitewny, w większości przypadków, można porządnie zademonstrować jedynie w ferworze walki. Można by opisać ten proces jako \"rozgrzewkę,\" jednak to słowo może być <i>zbyt</i> proste. W każdym razie, wyczulony instynkt pomoże zrównoważyć strukturalne i techniczne słabości tego sprzętu. Tak właśnie możesz podnieść średnią sprawności. Nadążasz za tym wyjaśnieniem, Sinclair?\""
     },
     {
       "id": "CaseOverheating",
-      "name": "Overheated Coffin",
-      "desc": "- Max Stack: 1\n- Turn End:\n· Gain 3 Burn next turn\n· This effect expires",
+      "name": "Przegrzana Trumna",
+      "desc": "- Maks Wartość: 1\n- Koniec Tury:\n· Zyskaj 3 Podpalenia na początku następnej tury\n· Ten efekt wygasa",
       "summary": "",
-      "flavor": "\"Keep in mind, however, that convenience is always accompanied by a trade-off. A weapon of this structure comes with drawbacks that standard Stigma Workshop weapons would not possess—inevitable penalties that can only be mitigated by Singularities, the pinnacle of the myriad technological innovations of the City.\"\n\n\"It would do justice to properly acknowledge the extraordinary qualities of Singulari—ahem. That was tangential to the subject. Let us return to the subject, Sinclair.\""
+      "flavor": "\"Powinieneś jednak pamiętać, że wygoda zawsze idzie w parze z kompromisami. Broń o takiej strukturze posiada wady, których nie spotkasz w standardowym arsenale Warsztatu Stygmy—nieuniknione słabości, które złagodzić mogłaby tylko Osobliwość, szczyt technologicznych wymysłów Miasta.\"\n\n\"Należałoby tutaj zaznaczyć nadzwyczajne wartości Osobli—ahem. Przepraszam, zbaczam z tematu. Wróćmy do tej broni, Sinclair.\""
     },
     {
       "id": "DriftingDimensionYisang",
-      "name": "Dimensional Castaway",
-      "desc": "Max Stack: 3\nBefore Getting Hit, gain Shield equal to (Stack)% HP (3 times per turn)",
+      "name": "Rozbitek Wymiarowy",
+      "desc": "Maks Wartość: 3\nZanim ta jednostka zostanie trafiona, zyskuje Tarczę równą (Wartość)% PŻ (3 razy na turę)",
       "summary": ""
     },
     {
       "id": "FourDimensionYisang",
-      "name": "Quadricolor Dimensions",
-      "desc": "- Max Stack: 4\n- Gain the following effects based on Stack:\n· 1+: Offense Level +1\n· 2+: Defense Level +2\n· 3+: Gain +1 more Charge Count from this unit's Skills\n· 4+: This unit's Skills deal +(Charge Potency x 4)% damage (max 20%)\n\n- If this unit gains this effect past its max cap, this unit gains the surplus Stack next turn\n- Turn End: Lose 1 Stack",
+      "name": "Czterokolorowe Wymiary",
+      "desc": "- Maks Wartość: 4\n- Zyskaj dane efekty zależnie od Wartości:\n· 1+: +1 Poziomu Ataku\n· 2+: +2 Poziomy Obrony \n· 3+: Zyskuj ze Zdolności +1 dodatkowej Ilości Naładowania\n· 4+: Zdolności tej jednostki zadają +(Siła Naładowania x 4)% obrażeń (maks 20%)\n\n- Jeśli ta jednostka zyska Wartość tego efektu przekraczającą maksymalną, nadwyżka jest uzyskana na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
       "summary": ""
     }
   ]

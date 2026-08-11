@@ -3222,8 +3222,8 @@
     },
     {
       "id": "MatchesPersonality",
-      "name": "Blazing",
-      "desc": "- Min & Max Speed +1\n- This turn's first-used Base Attack Skill gains Final Power +2\n- Take 2% HP damage On Hit with the affected Skill (max 10%; this damage does not Stagger or reduce this unit's HP below 1)\n- Expires at Turn End",
+      "name": "Rozpalenie",
+      "desc": "- +1 Min & Maks Prędkości\n- Pierwsza użyta w tej turze Bazowa Zdolność Ofensywna Zyskuje +2 Ostatecznej Mocy\n- Przy trafieniu tą Zdolnością otrzymaj 2% obrażeń PŻ (Maks 10%; te obrażenia nie mogą Zachwiać tej jednostki, ani zmniejszyć jej PŻ poniżej 1)\n- Wyfasa na Koniec Tury",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3314,6 +3314,194 @@
       "desc": "- Maks Wartość: 1\n- +1 Mocy Dodatnich Monet, +15% obrażeń zadanych przy Trafieniu Krytycznym\n- Wygasa na Końcu Tury",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "DuelEdgeAlly",
+      "name": "Wzmagający Się Pojedynek",
+      "desc": "- Wpływa na efekty asywne i Zdolności Pupila Kciuka Heathcliffa\n- Podczas jednej tury można zyskać maks 3 Wartości\n- Maks Wartość: 5",
+      "summary": "Wpływa na efekty asywne i Zdolności Pupila Kciuka Heathcliffa"
+    },
+    {
+      "id": "SeveredTendonAlly",
+      "name": "Podcięte Śćięgno",
+      "desc": "- -1 Bazowej Mocy\n- Wygasa na końcu tury\n- Maks Wartość: 1",
+      "summary": "-1 Bazowej Mocy"
+    },
+    {
+      "id": "EvolvingManual",
+      "name": "Dorastajacy Podręcznik",
+      "desc": "- Bazowe Zdolności zadają +(10 + (Wartość x 5))% obrażeń\n- Podczas jednej tury można zyskać maks 2 Wartości\n- Maks Wartość: 3",
+      "summary": "Bazowe Zdolności zadają więcej obrażeń"
+    },
+    {
+      "id": "ObsessionAndGreedRodion",
+      "name": "Shin (心) - Zhańbienie",
+      "desc": "- +1 Min & Maks Prędkości\n- Bazowe Zdolności nakładają +1 dodatkowej Siły i Ilości Podpalenia i Drżenia\n- +3% zadawanych obrażeń za każde 3 Siły Tchnienia na sobie (maks 15%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FutureEyeOnRodion",
+      "name": "Prorocze Oko",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można stracić maks 10 Wartości",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FutureEyeOffRodion",
+      "name": "Prorocze Oko - Przegrzane",
+      "desc": "- Maks Wartość: 30\n- +3 Poziomy Ataku, -3 Poziomy Obrony\n- Początek Tury: Zyskaj 10 Wartości\n- Mając 30 Wartości, zmienia się w \"Prorocze Oko\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LookingFutureRodion",
+      "name": "Przyspieszająca Przyszłość",
+      "desc": "- Maks Wartość: 5\n- Bazowe Zdolności zadają +3% obrażeń za każdą Wartość (maks 15%)\n- Bazowe Zdolności Ofensywne zyskują +1 Mocy Starcia za każde 2 Wartości\n- Mając 5 Wartości, Bazowe Zdolności zyskują +1 Mocy Monet\n- Wygasa po użyciu Zdolności",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersPreyRodion",
+      "name": "Zwierzyna",
+      "desc": "- +15% obrażeń otrzymywanych od Bazowych Zdolności Ojczyma Kciuka Rodion",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StigmaWorkshopHandStep1",
+      "name": "Blask Świtu",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Początek Tury: Zyskaj 1 Podpalenie za każde 5 Wartości, po czym zyskaj +1 Ilości Podpalenia za każde 10 Wartość\n- Przy trafieniu Bazową Zdolnością Ofensywną, zyskaj (1 + (Podpalenie na celu / 3)) Wartości (maks 3)\n- Mając 10+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia\n- Mając 20+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu\nPo spełnieniu warunków, zwiększa Siłę i Ilość nakładanego Podpalenia",
+      "undefined": "-",
+      "flavor": "Pierwsze promyki brzasku nie są palącym płomieniem, tylko ciepłem ogrzewającym ludzi."
+    },
+    {
+      "id": "StigmaWorkshopHandStep2",
+      "name": "Blask Świtu",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Początek Tury: Zyskaj 1 Podpalenie za każde 5 Wartości, po czym zyskaj +1 Ilości Podpalenia za każde 10 Wartość\n- Przy trafieniu Bazową Zdolnością Ofensywną, zyskaj (1 + (Podpalenie na celu / 3)) Wartości (maks 3)\n- Mając 10+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia\n- Mając 20+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu\nPo spełnieniu warunków, zwiększa Siłę i Ilość nakładanego Podpalenia",
+      "undefined": "-",
+      "flavor": "Pierwsze promyki brzasku nie są palącym płomieniem, tylko ciepłem ogrzewającym ludzi."
+    },
+    {
+      "id": "StigmaWorkshopHandStep3",
+      "name": "Blask Świtu",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Początek Tury: Zyskaj 1 Podpalenie za każde 5 Wartości, po czym zyskaj +1 Ilości Podpalenia za każde 10 Wartość\n- Przy trafieniu Bazową Zdolnością Ofensywną, zyskaj (1 + (Podpalenie na celu / 3)) Wartości (maks 3)\n- Mając 10+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia\n- Mając 20+ Wartości, Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu\nPo spełnieniu warunków, zwiększa Siłę i Ilość nakładanego Podpalenia",
+      "undefined": "-",
+      "flavor": "Pierwsze promyki brzasku nie są palącym płomieniem, tylko ciepłem ogrzewającym ludzi."
+    },
+    {
+      "id": "DawnLight",
+      "name": "Herald Brzasku",
+      "desc": "- Maks Wartość: 3\n- Bazowe Zdolności, które nakładają Podalenie lub 'Specjalne Podpalenie' zadają +10% obrażeń\n· Jeśli ta Zdolność jest od Gniewu, zamiast tego zadaje +15% obrażeń\n\n- Bazowe Zdolności, które nakładają Podalenie lub 'Specjalne Podpalenie', zyskuja +1 Mocy Starcia\n· Jeśli ta jednostka jest członkiem Biura Brzasku, zamiast tego zyskuje +1 Bazowej Mocy\n- Koniec Tury: Wartość spada o 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Palić, palić, palić—właśnie widzisz, młody, ogień nie jest właśnie jedynym rozwiązaniem na każdy tam problem. Z takimi jak te broniami cieplnymi, decydującą kwestią zazwyczaj jest <i>kiedy</i> wszcząć ogień i <i>jak gorąco</i> pozwolisz mu zapłonąć.\n\"Ta, właśnie dlatego tak ciągle gadam ci o tym, jak ważne jest wyczucie 'chwili' idącej za wyborem broni cieplnej. Choć też z drugiej strony... gdy ta 'chwila' mówi ci, że czas wszystko spalić, nie wachaj się, daj z siebie wszystko i pozwól ponieść się pasji. ... Hm? Oh, chcesz wiedzieć kto jest najleszy w tej działce?\"\n\"Hmm, daj mi pomyśleć... O, mam, mógłbym się założyć, że najleszym z najleszych był Cynobrowy Krzyż.\""
+    },
+    {
+      "id": "RunSinclair",
+      "name": "Urządzenie Ucieczkowe",
+      "desc": "- Kiedy ta jednostka otrzyma obrażenia, które sprowadziłuby jej PŻ do 10, PŻ tej jednostki nie sadają poniżej 10 podczas tej tury\n- Koniec Tury po aktywacji powyższego efektu: Wyjdź ze stanu Zachwiania i Wycofaj się z walki (nie działa na wymuszone Zachwianie; to nie liczy się jako śmierć; w Potyczkach, w których nie można się Wycofać, efekt Wycofania nie aktywuje się, a efekt wygasa na końcu tury)\n  · W walkach Szeregowych, Żetony Zdolności tej jednostki są przekazane jednostce, która wchodzi na jej miejsce, a ona sama zostaje przeniesiona na ostatnie miejsce w Kolejności Wdrożenia jednostek rezerwowych (Jeśli nie ma już jednostek rezerwowych, z którymi ta mogłaby zamienić się miejscami, zamiast tego całkiem ucieka z walki. Wracając do walki, ta jednostka ustawia się w tej samej pozycji wdrożenia, na której była)\n  · Powracając do walki, SP i PŻ pozostają takie same, jak podczas odwrotu, a wszelkie efekty na sobie zostają usunięte, z kilkoma wyjątkami (jeśl SP tej jednostki wynosiło 0 w chwili wycofania, zamiast tego zostaje ustawione na 0)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'... Przeżyj.'"
+    },
+    {
+      "id": "FireField",
+      "name": "Wypalanie Ziemi",
+      "desc": "- Maks Wartość: 999\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ciepło zmienia powietrze w powiew, wicher, płomienny huragan, palący szaleńczo lasy i ziemię, wypędzaąc z nich i ludzi i bestie."
+    },
+    {
+      "id": "DawnGregor",
+      "name": "Od Brzasku Aż Po Zmierzch",
+      "desc": "- Jeśli ta jednostka ma 3+ Progi Zachwiania, usuń pierwszy z nich\n- Koniec Tury: Jeśli ta jednostka jest Zachwiana, Wyjdź ze stanu Zachwiania; Jeśli Poziom Powiązania tej jednostki wynosi 3 lub więcej, zastą 1 z jej Bazowych Zdolności jej 3 Zdolnością\n(nie działa na wymuszone Zachwianie; raz na Potyczkę; w pierwszej kolejności działa na Zdolność o najniższym poziomie)\n\n- Początek Tury: Ulecz 5 SP\n- Efekty Zdolności Pasywnej \"Niestabilna Skorupa E.G.O\", Bazowych Zdolności Ofensywnych i Kruchego Zapału nie mogą zmniejszyć SP tej jednostki poniżej 25\n\n- Kiedy ta jednostka manifestuje Kruchą Skorupę E.G.O::Woskowe Skrzydła, zyskuje dane efekty:\n  · Początek Tury: Zyskaj Tarczę równą 15% of maks PŻ\n  · Kiedy ta jednostka zostanie trafiona mając Tarczę, nakłada na agresora 1 Podpalenia (2 razy na turę)\n  · Aktywuj Wypalanie Ziemi\n\n※ Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Ah... Co za prztjemny zapach. Jeśli chodzi o parzenie ssanghwa-cha, jesteś praktycznie Kolorem, wiesz? Ogłaszam cię wszech i wobec Fachowcem Koloru \"Żółta Ssanghwa...\"\n\"No i załatwione.Ja będę cię uczył, więc leiej nadążaj. Widzę w tobie sporo potencjału, młody—twoje zdolności w parzeniu ssanghwa-cha pokazują, że instynktownie wyczuwasz 'chwilę'... A zdolność rozpoznania właściwie 'chwili' jest tutaj kluczem wszystkiego.\""
+    },
+    {
+      "id": "DawnFaust",
+      "name": "Samo Południe",
+      "desc": "- +2 Min Prędkości\n- Przy użyciu Bazowej Zdolności: Zyskaj +2 Bazowej Mocy i zadaj +(45 / # Monet)% obrażeń\n\n- Przyznaj dane efekty ostatniej Monecie Zdolności \"Ostrze Zachodu Słońca\" : Jeśli cel ma 15+ Podpalenia, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n\n- Nałóż dane efekty na \"Rozżarzone Natarcie\"\n· +100% zadanych obrażeń\n· Przy Użyciu: Zamień wszystkie Monety w Niezłomne Monety\n· Przy Trafieniu przeciwnika, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n· Przy Użyciu: Mając 3+ Kruchego Zapału, zużyj do 100 Wypalania Ziemi\n· +1% zadanych obrażeń za każde zużyte Wypalanie Ziemi (maks 100%)\n\n* Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "Wzmacnia Bazowe Zdolności Ofensywne",
+      "undefined": "-",
+      "flavor": "\"Wykonaliśmy zlecenie przed czasem, a pogoda zdaje się być dobra na zespołowy lunch. Wszyscy chętni?\""
+    },
+    {
+      "id": "DawnGregorDying",
+      "name": "Rozżarzony Zmierzch",
+      "desc": "- Jeśli ta jednostka ma 3+ Progi Zachwiania, usuń pierwszy z nich\n- Koniec Tury: Jeśli ta jednostka jest Zachwiana, Wyjdź ze stanu Zachwiania; Jeśli Poziom Powiązania tej jednostki wynosi 3 lub więcej, zastą 1 z jej Bazowych Zdolności jej 3 Zdolnością\n(nie działa na wymuszone Zachwianie; raz na Potyczkę; w pierwszej kolejności działa na Zdolność o najniższym poziomie)\n\n- Początek Tury: Ulecz 8 SP\n- Efekty Zdolności Pasywnej \"Niestabilna Skorupa E.G.O\", Bazowych Zdolności Ofensywnych i Kruchego Zapału nie mogą zmniejszyć SP tej jednostki poniżej 45\n\n- Początek Tury: zmanifestuj Kruchą Skorupę E.G.O::Woskowe Skrzydła, ulecz 50% PŻ, i maks SP (raz na Potyczkę)\n- Krucha Skorupa E.G.O::Woskowe Skrzydła zostaje utrzymana, nawet kiedy SP tej jednostki spadnie poniżej 0 na Początku Tury\n\n- Kiedy ta jednostka manifestuje Kruchą Skorupę E.G.O::Woskowe Skrzydła, zyskuje dane efekty:\n  · Początek Tury: Zyskaj Tarczę równą 20% of maks PŻ\n  · Kiedy ta jednostka zostanie trafiona mając Tarczę, nakłada na agresora 2 Podpalenia (2 razy na turę)\n  · Aktywuj Wypalanie Ziemi\n\n※ Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Proszę pana, proszę... Wciąż jeszcze tyle muszę się nauczyć... Sam pan tak powiedział...\"\nBrzask jest wyjątkowo ulotny; po chwili zmienia się w poranek, a ten w dzień, który z pewnością przejdzie w zmierzch, gdy nadejdzie wieczór."
+    },
+    {
+      "id": "DawnFaustDying",
+      "name": "Samotność W Samo Południe",
+      "desc": "- +2 Min Prędkości\n- Przy użyciu Bazowej Zdolności: Zyskaj +3 Bazowej Mocy i zadaj +(90 / # Monet)% obrażeń\n\n- Przyznaj dane efekty ostatniej Monecie Zdolności \"Ostrze Zachodu Słońca\" : Jeśli cel ma 15+ Podpalenia, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n\n- Nałóż dane efekty na \"Rozżarzone Natarcie\"\n· +150% zadanych obrażeń\n· Przy Użyciu: Zamień wszystkie Monety w Niezłomne Monety\n· Przy Trafieniu przeciwnika, aktywuj na nim Podpalenie, po czym zmniejsz jego Ilość Podpalenia o 1\n· Przy Użyciu: Zużyj do 100 Wypalania Ziemi i zadaj +1.5% obrażeń za każde zużyte Wypalanie Ziemi (maks 150%)\n\n- Jeśli ta jednostka otrzyma obrażenia, które obniżyłyby jej PŻ do 0 w tej turze, PŻ tej jednostki nie może spaść poniżej 1 podczas tej tury. Jeśli ta jednostka była Zachwiana przy aktywacji powyższego efektu, wychodzi ze stanu Zachwiania (raz na Potyczkę)\n\n* Efekty Wypalania Ziemi\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Podpalenia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki",
+      "summary": "Wzmacnia Bazowe Zdolności Ofensywne",
+      "undefined": "-",
+      "flavor": "\"Rozumiesz, co oznacza 'samotność', Sinclair? Samotnością jest bycie skąpanym w świetle południowego słońca, a jednak myśleć o tym, że ci, z którymi dzieliłbyś lunch cię opuścili. Tak opisałabym słowami koncept 'samotności'—przynajmniej jak ja go widzę. Mam nadzieję, że nigdy nie będziesz musiał zrozumieć tego konceptu, Sinclair.\""
+    },
+    {
+      "id": "DawnTeam",
+      "name": "Biuro Brzasku",
+      "desc": "- Maks Wartość: 3\n- Zyskaj 1 Poziom Ataku za każdą Wartość\n- Początek Tury: Mając 3 Wartości, Uuecz 5 SP\n- Początek Tury: Jeśli wszystkie inne jednostki posiadające \"Biuro Brzasku\" zostaną okonane, ten efekt wygasa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Biuro Brzasku w tym lustrzanym świecie, w przeciwieństwie do pozostałych, nie straciło jeszcze zapału. Można by pomyśleć, że zdolności dwóch wiodących Fachowców tego Biura wystarczyłyby do znalezienia pracy, biorąc pod uwagęich pierwszą klasę.\n\nTrzeba jednak wspomnieć, że klasa Biura i jego Fachowców nie różnią się od tych zaobserwowanych w innch Lustrzanych Światach, jako że zdolności bojowe to nie jedyne kryterium, na odstawie którego przypisywane są Klasy. Nie spełnienie któregoś z warunków umowy do zadowalającego klienta poziomu, unikanie ryzykownych kontraktów, które przyczyniłyby się do wzrostu Klasy Fachowca—każda z tych rzeczy ogranicza mobilność po szczeblach Klas Fachowca."
+    },
+    {
+      "id": "StigmaWorkshopCelloCaseOne",
+      "name": "Trumna Płomiennych Motyli",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Przy trafieniu Bazową Zdolnością, zyskaj 2 Wartości\n- Koniec Tury: Mając 20+ Wartości, zyskaj na początku następnej tury Podpalenie równe połowie nadwyźki Wartości ponad 20 (zaokrąglone w dół)\n· Mając 30 Wartości, zamiast tego zyskaj 5 Podpalenie i +2 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu, zyskaj Podpalenie na początku następnej tury zależnie od Wartości",
+      "flavor": "W trumnie przebywają rozgrzane do czerwoności motyle, kaleidoskop gotowy spopielić i rozerwać cel.\n\n\"Wprawdzie nie jesteś jeszcze gotowy na posługiwanie się taką bronią, Sinclair, jednak dobrze, żebyś zaznajomił się z jej działaniem.\"\n\n\"Zbiór ostrzy wewnątrz trumny jeat przydatny, gdy czas nie pozwala na samotne ukończenie zlecenia, lub w wypadku walki z wieloma wrogami.\""
+    },
+    {
+      "id": "StigmaWorkshopCelloCaseTwo",
+      "name": "Trumna Płomiennych Motyli",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Przy trafieniu Bazową Zdolnością, zyskaj 2 Wartości\n- Koniec Tury: Mając 20+ Wartości, zyskaj na początku następnej tury Podpalenie równe połowie nadwyźki Wartości ponad 20 (zaokrąglone w dół)\n· Mając 30 Wartości, zamiast tego zyskaj 5 Podpalenie i +2 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu, zyskaj Podpalenie na początku następnej tury zależnie od Wartości",
+      "flavor": "W trumnie przebywają rozgrzane do czerwoności motyle, kaleidoskop gotowy spopielić i rozerwać cel.\n\n\"Wprawdzie nie jesteś jeszcze gotowy na posługiwanie się taką bronią, Sinclair, jednak dobrze, żebyś zaznajomił się z jej działaniem.\"\n\n\"Zbiór ostrzy wewnątrz trumny jeat przydatny, gdy czas nie pozwala na samotne ukończenie zlecenia, lub w wypadku walki z wieloma wrogami.\""
+    },
+    {
+      "id": "StigmaWorkshopCelloCaseThree",
+      "name": "Trumna Płomiennych Motyli",
+      "desc": "- Maks Wartość: 30\n- Podczas jednej tury można zyskać maks 20 Wartości\n- Przy trafieniu Bazową Zdolnością, zyskaj 2 Wartości\n- Koniec Tury: Mając 20+ Wartości, zyskaj na początku następnej tury Podpalenie równe połowie nadwyźki Wartości ponad 20 (zaokrąglone w dół)\n· Mając 30 Wartości, zamiast tego zyskaj 5 Podpalenie i +2 Ilości Podpalenia",
+      "summary": "Zyskaj Wartość przy trafieniu, zyskaj Podpalenie na początku następnej tury zależnie od Wartości",
+      "flavor": "W trumnie przebywają rozgrzane do czerwoności motyle, kaleidoskop gotowy spopielić i rozerwać cel.\n\n\"Wprawdzie nie jesteś jeszcze gotowy na posługiwanie się taką bronią, Sinclair, jednak dobrze, żebyś zaznajomił się z jej działaniem.\"\n\n\"Zbiór ostrzy wewnątrz trumny jeat przydatny, gdy czas nie pozwala na samotne ukończenie zlecenia, lub w wypadku walki z wieloma wrogami.\""
+    },
+    {
+      "id": "Firstlight",
+      "name": "Instynkty Bitewne",
+      "desc": "- Maks Wartość: 3\n- +2 Min & Maks Prędkości\n- Bazowe Zdolności nakładają na przeciwników dodatkowe +1 Siły Podpalenia i Ilości Podpalenia\n- Zdolność \"Wystrzał\" zadaje +(Wartość x 5)% obrażeń\n- Zdolności \"Wystrzał - Samo Południe\" i \"Cwiartowanie w Samo Południe\" zadają +(Wartość x 10)% obrażeń",
+      "summary": "Zdolności \"Wystrzał\", \"Wystrzał - Samo Południe\" i \"Cwiartowanie w Samo Południe\" zadają więcej obrażeń",
+      "flavor": "\"Wracając do tematu: Poza Osobliwościami, istnieją sposoby przezwyciężenia trudności związanych z tego rodzaju bronią. Przeważnie sprowadza się to do wprawy.\"\n\n\"To może być oczywiste, ale zalecam skupienie się na treningu ciała i instynktu bitwenego przy każdej nadarzającej się okazji—czy to w czasie wolnym, czy podczas wykonywania zleceń.\"\n\n\"Oczywiście instykt bitewny, w większości przypadków, można porządnie zademonstrować jedynie w ferworze walki. Można by opisać ten proces jako \"rozgrzewkę,\" jednak to słowo może być <i>zbyt</i> proste. W każdym razie, wyczulony instynkt pomoże zrównoważyć strukturalne i techniczne słabości tego sprzętu. Tak właśnie możesz podnieść średnią sprawności. Nadążasz za tym wyjaśnieniem, Sinclair?\""
+    },
+    {
+      "id": "CaseOverheating",
+      "name": "Przegrzana Trumna",
+      "desc": "- Maks Wartość: 1\n- Koniec Tury:\n· Zyskaj 3 Podpalenia na początku następnej tury\n· Ten efekt wygasa",
+      "summary": "",
+      "flavor": "\"Powinieneś jednak pamiętać, że wygoda zawsze idzie w parze z kompromisami. Broń o takiej strukturze posiada wady, których nie spotkasz w standardowym arsenale Warsztatu Stygmy—nieuniknione słabości, które złagodzić mogłaby tylko Osobliwość, szczyt technologicznych wymysłów Miasta.\"\n\n\"Należałoby tutaj zaznaczyć nadzwyczajne wartości Osobli—ahem. Przepraszam, zbaczam z tematu. Wróćmy do tej broni, Sinclair.\""
+    },
+    {
+      "id": "DriftingDimensionYisang",
+      "name": "Rozbitek Wymiarowy",
+      "desc": "Maks Wartość: 3\nZanim ta jednostka zostanie trafiona, zyskuje Tarczę równą (Wartość)% PŻ (3 razy na turę)",
+      "summary": ""
+    },
+    {
+      "id": "FourDimensionYisang",
+      "name": "Czterokolorowe Wymiary",
+      "desc": "- Maks Wartość: 4\n- Zyskaj dane efekty zależnie od Wartości:\n· 1+: +1 Poziomu Ataku\n· 2+: +2 Poziomy Obrony \n· 3+: Zyskuj ze Zdolności +1 dodatkowej Ilości Naładowania\n· 4+: Zdolności tej jednostki zadają +(Siła Naładowania x 4)% obrażeń (maks 20%)\n\n- Jeśli ta jednostka zyska Wartość tego efektu przekraczającą maksymalną, nadwyżka jest uzyskana na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
+      "summary": ""
     }
   ]
 }
