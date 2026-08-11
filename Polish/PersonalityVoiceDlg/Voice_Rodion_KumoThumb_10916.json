@@ -58,67 +58,67 @@
       {
           "id": "formation_10916_1",
           "desc": "Deployment",
-          "dlg": "Sonuvabitch... Think I'm some fuckin' pushover? C'mon, bring it on. Should've brought a Color Fixer if ya wanted the slightest bit of chance to survive this, you miserable cocksuckers..."
+          "dlg": "No ja pierdole... Myślicie, że jestem jakąś cieńką szprotką? Dobra, zaraz wam pokaże. Tak... pokaże wam, że jedyny scenariusz, w którym takie żałosne fiutożłopy jak wy przeżyłyby tą walkę to ten, w którym przyprowadziliście ze sobą Fachowca Koloru..."
       },
       {
           "id": "battleentry_10916_1",
           "desc": "Stage Entry",
-          "dlg": "Keep those eyes wide open and watch."
+          "dlg": "Patrzcie i podziwiajcie."
       },
       {
           "id": "battle_select_10916_1",
           "desc": "Viewed in Battle",
-          "dlg": "Fall back—you're gettin' in the way. Tsk. I just can't with greenhorns who haven't had a taste of the War..."
+          "dlg": "Cofnij się—wchodzisz mi w droge. Tsk. Nie mam cierpliwości do żółtodziobów którzy w życiu nawet nie widzieli wojny na oczy..."
       },
       {
           "id": "battle_endcommand_10916_1",
           "desc": "Commencing Attack",
-          "dlg": "Feelin' confident? Then parry this, asshole."
+          "dlg": "Nie srasz jeszcze w porty? No to spróbuj to odbić, skurwielu."
       },
       {
           "id": "battle_enemy_break_10916_1",
           "desc": "Enemy Stagger",
-          "dlg": "Ya know, you're one tap away from bitin' it."
+          "dlg": "Wiesz, teraz zabił by cię nawet mocniejszy powiew wiatru."
       },
       {
           "id": "battle_break_10916_1",
           "desc": "Staggered",
-          "dlg": "You've gotta be fucking kidding me..."
+          "dlg": "To są jakieś kurwa kpiny..."
       },
       {
           "id": "battle_kill_10916_1",
           "desc": "Enemy Killed",
-          "dlg": "Hah! Next!"
+          "dlg": "Ha! Dawać następnego!"
       },
       {
           "id": "battle_dead_10916_1",
           "desc": "Death",
-          "dlg": "... I... How could I... lose...? What... the fu..."
+          "dlg": "... Ja... Jakim cudem ja... przegrałam...? Jak to... kurwa możli..."
       },
       {
           "id": "choice_success_p_10916_2",
           "desc": "Check Passed",
-          "dlg": "*scoff* <i>This</i> is what you needed me for? Get Textbook to run your errands next time."
+          "dlg": "*parsk* Po <i>to</i> zawracaliście mi dupe? Następnym razem idźcie z tym do Podręcznika."
       },
       {
           "id": "choice_fail_n_10916_1",
           "desc": "Check Failed",
-          "dlg": "Fuck if I know... Do I have to bother knowing shit like this...?"
+          "dlg": "A skąd ja mam kurwa... Na jakiego chuja miałabym się czegoś takiego uczyć...?"
       },
       {
           "id": "battle_clear_10916_1",
           "desc": "Victory Cry",
-          "dlg": "... So <i>this</i> is the \"Blade\" the Fingers were clamorin' for? All this time, we busted our asses just for some fuckin' landfill? Hah, what a sick joke... And it doesn't even have a punchline.\nHey, Heathcliff—on your feet, don't be a bitch! I'm callin' up Central. Ya go check which of the poor motherfuckers bought the farm."
+          "dlg": "... A więc <i>to</i> jest to całe \"Ostrze\" o które wszystkie Palce suszyły nam dupy? Przez te wszystkie lata pracowaliśmy nad… najpotężniejszą niszczarką do papieru w całym mieście? Hah, co za chory żart… I nie ma nawet dobrej puenty.\nHej, Heathcliff—nie bądź pizda, na nogi! Dzwonie do Centrali. Idź sprawdź który z tych żałosnych idiotów kopnął w kalendarz."
       },
       {
           "id": "battle_clear_ex_10916_1",
           "desc": "Extra Conditions Fulfilled",
-          "dlg": "... What, surprised? Told ya, didn't I? I don't lose duels. Never have, never will."
+          "dlg": "... Co, zaskoczeni? Mówiłam wam, nie? Nigdy nie przegrałam pojedynku. Nie planuje zacząć dziś."
       },
       {
           "id": "battle_defeat_10916_1",
           "desc": "Defeat Wail",
-          "dlg": "You... you little...! Heathcliff... You... You dare betray me, after everything...? Gah..."
+          "dlg": "Ty... ty holerny...! Heathcliff... Ty draniu... Zdradziłeś mnię, po wszystkim co dla ciebię zrobiłam...? Gah..."
       }
   ]
 }
