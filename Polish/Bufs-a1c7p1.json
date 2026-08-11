@@ -2,183 +2,183 @@
   "dataList": [
     {
       "id": "BloodScissor",
-      "name": "Blood-tinged Scissorblades",
-      "desc": "- Max Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- Used for special skills",
+      "name": "Splamione Krwią Nożyce",
+      "desc": "- Maks Wartość: 10\n- 1 Poziom Splamionych Krwią Nożyc\n- Używane przez niektóre Zdolności",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorTwo",
-      "name": "Blood-tinged Scissorblades II",
-      "desc": "- Max Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- Used for certain Skills",
+      "name": "Splamione Krwią Nożyce II",
+      "desc": "- Maks Wartość: 20\n-  2 Poziom Splamionych Krwią Nożyc\n- Początej Tury: zyskaj 1 Wyższy Poziom Ataku i 1 Wyższy Poziom Obrony za każde 5 Wartości\n- Używane przez niektóre Zdolności",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorThree",
-      "name": "Blood-tinged Scissorblades III",
-      "desc": "- Max Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Turn Start: gain 2 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- Used for certain Skills",
+      "name": "Splamione Krwią Nożyce III",
+      "desc": "- Maks Wartość: 30\n-  3 Poziom Splamionych Krwią Nożyc\n- Początej Tury: zyskaj 2 Wyższe Poziomy Ataku i 1 Wyższe Poziomy Obrony za każde 5 Wartości\n- Używane przez niektóre Zdolności",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner",
-      "name": "Bloodfeast",
-      "desc": "- Max Value: 999\n- Stores all Bleed damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters\n- Among allies, if there is a higher Kindred who also consumes Bloodfeast in the same turn, this unit cannot consume Bloodfeast until that ally consumes it first.",
+      "name": "Krwawa Uczta",
+      "desc": "- Maks Wartość: 999\n- Przechowuje wszystkie zadane w tej strefie obrażenia od Krwawienia\n- Resetuje się przy przejściu do następnej strefy\n- Ta wartość jest dzielona pomiędzy wszystkimi uczestnikami walki\n- Spośród sojuszników, jeśli w tej turze Wyższy Krewny też ma skosztować Krwawej Uczty, ta jednostka nie może skosztować Krwawej Uczty, doóki nie skoszuje jej ten Krewny.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Accumulation",
-      "name": "Bloodfeast Consumed",
-      "desc": "- Max Value: 999\n- Total Bloodfeast consumed in this Encounter: {0}",
+      "name": "Skosztowana Krwawa Uczta",
+      "desc": "- Maks Wartość: 999\n- Całośc Krwawej Uczty skosztowanej w tej Potyczce: {0}",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBlood_LowMorale",
-      "name": "Hunger",
-      "desc": "- Low Morale\n- Turn Start: gain 1 Bind and 3 Attack Power Up. Turn End: take 5 SP damage",
+      "name": "Głód",
+      "desc": "- Niskie Morale\n- Początej Tury: zyskaj 1 Spętanie i 3 Większej Mocy Ataku. Koniec Tury: otrzymaj 5 obrażeń SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FamineBlood_Panic",
-      "name": "Hunger",
-      "desc": "- Panic\nTurn Start: Gain 2 Bind and 4 Attack Power Up.",
+      "name": "Głód",
+      "desc": "- Panic\nPoczątej Tury: zyskaj 2 Spętania i 4 Większej Mocy Ataku.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelDeclaration_Camille",
-      "name": "Declared Duel - Camille",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. \n- Replaced when another unit inflicts Declared Duel on the same target.",
+      "name": "Deklaracja Pojedynku - Camille",
+      "desc": "- W starciu pomiędzy jednostką, która nałożyła Deklarację Pojedynku i jednostką z tym statusem, deklarujący posiada +1 Mocy Starcia. Przy Trafieniu, deklarujący zyskuje 1 Pośpiech na początku następnej tury. (4 razy na turę)\n- Efekt zostaje zdjęty, kiedy jednostka, która zadeklarowała pojedynek zadeklaruje go innemu celowi.\n- Zostaje zastąpioy, kiedy inna jednostka zadeklaruje temu celowi pojedynek.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RecklessDuel",
-      "name": "Foolhardy Duel",
-      "desc": "Turn End: gain 1 Clash Power Up next turn for every 10% of the missing HP. (max 5)\nTurn End: gain 1 Bind next turn for every 10% of the missing HP. (max 5)",
+      "name": "Brawurowy Pojedynek",
+      "desc": "Koniec Tury: zyskaj 1 Większą Moc Starcia na początku następnej tury za każde 10% brakującego PŻ. (maks 5)\nKoniec Tury: zyskaj 1 Spętanie na początku następnej tury za każde 10% brakującego PŻ. (maks 5)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ConcentratedAttack",
-      "name": "Focused Attack",
-      "desc": "Used on certain Slots",
+      "name": "Skupiony Atak",
+      "desc": "Używane przez niektóre Zdolności",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TrulyWeak",
-      "name": "The Weak",
-      "desc": "- Deal -10% damage\n- Turn End: Reduce Value by 1",
+      "name": "Słabeusz",
+      "desc": "- -10% zadawanych obrażeń\n- Koniec Tury: Wartość spada o 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RealPaperBear",
-      "name": "An Actual Bear",
-      "desc": "- It eats people. How fearsome!",
+      "name": "O Cholera, Czy To Freddy Fazbear",
+      "desc": "- Ou  Ou Ou-Ou Ou  Ou  Ou-Ou Ou-Ou!",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodScissorScars",
-      "name": "Deep Laceration",
-      "desc": "- On Clash Lose: gain +3 Bleed Count and trigger Bleed on self. Then, lose 1 Bleed Count.\n- Expires at Turn End",
+      "name": "Głębokie Cięcie",
+      "desc": "- Przegranie Starcia: zyskaj +3 Ilości Krwawienia i aktywuj na sobie Krwawienie, po czym strać 1 Ilości Krwawienia.\n- Wygasa na końcu tury",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LineCutting",
-      "name": "Sewing Target",
-      "desc": "- Prioritized by ???.\n- Expires at Turn End",
+      "name": "Cel Szycia",
+      "desc": "- Cel ataków ???.\n- Wygasa na końcu tury",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingBarberOne",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 15 Base Offense Level\n- Lose 15 Base Defense Level",
+      "name": "Wygłodzenie",
+      "desc": "- Nie zaznali smaku krwi od bardzo, bardzo dawna.\n- Strać 15 Bazowego Poiomu Ataku\n- Strać 15 Bazowego Poiomu Obrony",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingBarberTwo",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 25 Base Offense Level\n- Lose 25 Base Defense Level",
+      "name": "Wygłodzenie",
+      "desc": "- Nie zaznali smaku krwi od bardzo, bardzo dawna.\n- Strać 25 Bazowego Poiomu Ataku\n- Strać 25 Bazowego Poiomu Obrony",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodShooting",
-      "name": "Blood-shooting!!",
-      "desc": "On Death:\n- Bloodfeast +30\n- gain 2 E.G.O resource for the least-owned E.G.O resource\n- Next turn: all allies gain 0.1 to all Phys. Resistances. This effect can stack. (max 5)",
+      "name": "Krwawaa Strzelnica!!",
+      "desc": "Przy śmierci:\n- zwiększ Krwawą Ucztę o +30\n- Przyznaj 2 zaoby E.G.O z grzechu o najmniejszej ilości\n- na początku następnej tury: wszyscy sojusznicy zyskują 0.1 do wszystkich odporności fizycznych. Ten efekt się nakłada. (maks 5)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RighteousFeeling",
-      "name": "HOW RIGHTEOUS!!",
-      "desc": "- At every Turn End: gain 1 Haste, 3 Offense Level Up, and 3 Defense Level Down next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "name": "ZA SPRAWIEDLIWOŚĆ!!",
+      "desc": "- Na Koniec Każdej Tury: zyskaj 1 Pośiech, 3 Wyższe Poziomy Ataku, i 3 Wyższe Poziomy Obrony na początku następnej tury\n- Zyskaj 2 dodatkowe Wyższe Poziomy Ataku po każdych 3 kolejnych turach (maks 6)\n- Wygrywając Starcie, ulecz 3 SP\n- Pokonując cel, zyskaj 1 Większą Moc Starcia na początku następnej tury (Raz na turę)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelDeclarationMeursault",
-      "name": "Declared Duel - Meursault",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. \n- Replaced when another unit inflicts Declared Duel on the same target.",
+      "name": "Deklaracja Pojedynku - Meursault",
+      "desc": "- W starciu pomiędzy jednostką, która nałożyła Deklarację Pojedynku i jednostką z tym statusem, deklarujący posiada +1 Mocy Starcia. Przy Trafieniu, deklarujący zyskuje 1 Pośpiech na początku następnej tury. (4 razy na turę)\n- Efekt zostaje zdjęty, kiedy jednostka, która zadeklarowała pojedynek zadeklaruje go innemu celowi.\n- Zostaje zastąpioy, kiedy inna jednostka zadeklaruje temu celowi pojedynek.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ConcentratedAttackMeursault",
-      "name": "Focused Attack - Meursault",
-      "desc": "<Focused Encounters Only>\nThe unit that inflicted this Focused Attack gains the following effects based on the target Slot's Focused Attack Stack.\n  · 1x Stack: Gain Clash Power +1\n  · 2x Stack: Gain Base Power +1\n  · 3x Stack: Gain Base Power +1 and Coin Power +1\n- Expires if, for a turn, the unit that inflicted it fails to hit the Slot inflicted with their Focused Attack.",
+      "name": "Skupiony Atak - Meursault",
+      "desc": "<Tylko w Skupionych Potyczkach>\nJednostka, ktora nałolzylla ten efekt zyskuje dane efekty, zależnie of wartości na Żetonie, który jest celem.\n  · 1x Wartości: zyskaj 1 Mocy Starcia\n  · 2x Wartości: zyskaj +1 Bazowej Mocy\n  · 3x Wartości: zyskaj +1 Bazowej Mocy i +1 Mocy Monet\n- Wygasa, jeżeli jednostka, która nałożyła ten efekt nie trafiła w tej turze tego Żetonu.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Duello_LowMorale",
-      "name": "Duel Specialist",
-      "desc": "- Low Morale\n- Turn Start: Gain 2 Offense Level Up. On Clash Lose, gain 1 Defense Level Down(max 3 per turn). Min. Speed -1",
+      "name": "Specjalista Od Pojedynków",
+      "desc": "- Niskie Morale\n- Początej Tury: zyskaj 2 Wyższe Poziomy Ataku. Przegranie Starcia: zyskaj 1 Wyższy Poziom Obrony(maks 3 na turę). Min. Prędkość -1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Duello_Panic",
-      "name": "Duel Specialist",
-      "desc": "- Panic\n- Turn Start: Gain 4 Offense Level Up. On Clash Lose, gain 2 Defense Level Down(max 6 per turn). Min. Speed -1",
+      "name": "Specjalista Od Pojedynków",
+      "desc": "- Panic\n- Początej Tury: zyskaj 4 Wyższe Poziomy Ataku. Przegranie Starcia: zyskaj 2 Wyższe Poziomy Obrony(maks 6 na turę). Min. Prędkość -1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RighteousFeelingSancho",
-      "name": "I will take responsibility, through my bloody tears.",
-      "desc": "- Gain 1 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "name": "Przyjmę tą odpowiedzianość, poprzez me krwawe łzy.",
+      "desc": "- Zyskaj 1 dodatkową Utwardzoną Krew za każdym razem, kiedy ta jednostka zyskuje zyskuje Utwardzoną Krew. (5 razy na turę)\n- Na Końcu Każdej Tury: zyskaj 2 Pośpiechu i 3 Wyższe Poziomy Ataku na początku następnej tury\n- zyskaj 2 dodatkowe Wyższe Poziomy Ataku po każdych 3 kolejnych turach (maks 6)\n- Wygrywając Starcie, ulecz 3 SP\n- Pokonując cel, zyskaj 1 Większą Moc Starcia na początku następnej tury (Raz na turę)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnfinishedDreamSancho",
-      "name": "In which is recounted the thralldom to blood thicker than water.",
-      "desc": "- Gain 2 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 2 Clash Power Up next turn (once per turn)",
+      "name": "Opowieść o jarzmie krwi, co nie woda.",
+      "desc": "- Zyskaj 2 dodatkowe Utwardzoną Krew za każdym razem, kiedy ta jednostka zyskuje zyskuje Utwardzoną Krew. (5 razy na turę)\n- Na Końcu Każdej Tury: zyskaj 2 Pośpiechu i 3 Wyższe Poziomy Ataku na początku następnej tury\n- zyskaj 2 dodatkowe Wyższe Poziomy Ataku po każdych 3 kolejnych turach (maks 6)\n- Wygrywając Starcie, ulecz 3 SP\n- Pokonując cel, zyskaj 2 Większej Mocy Starcia na początku następnej tury (Raz na turę)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHopeSancho",
-      "name": "Which treats the banquet of blood for the Family's suffering.",
-      "desc": "Gain Clash Power Up equal to Stack\nDeal +10% damage",
+      "name": "Traktujac o krwawym bankiecie za cierpienie Rodziny.",
+      "desc": "Zyskaj Wyższą Moc Starcia równą Wartości\n +10% zadawanych obrażeń",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHopeTwoSancho",
-      "name": "Of how a lone Bloodfiend came to bear the guilt of slaying the Father who forsook his Children.",
-      "desc": "- Clash Power +4 for every value\n- Apply Shield to self and all allies at Combat Start\n- Deal +20% damage\n- On Hit, deal 1 fixed damage as well",
+      "name": "O tym, jak samotna Krwiopijca poniosła winę zgładzenia Ojca, który porzucił swoje Dzieci.",
+      "desc": "- +4 Mocy Starcia za każdą wartość\n- Nałóż Tarczę na siebie i wszystkich sojuszników na Początku Walki\n- +20% zadawanych obrażeń\n- Przy Trafieniu, zadaj dodatkowe 1 obrażeń",
       "summary": "",
       "undefined": "-"
     }
