@@ -62,7 +62,7 @@
     },
     {
       "id": "16",
-      "content": "Stowrzona Zdolnosc obronna pojawia sie na dolnym Żetonie Żdolności Grzesznika i zastąpi obecną tam Zdolność lub E.G.O."
+      "content": "Stowrzona Zdolność obronna pojawia sie na dolnym Żetonie Zdolności Grzesznika i zastąpi obecną tam Zdolność lub E.G.O."
     },
     {
       "id": "17",
@@ -139,6 +139,10 @@
     {
       "id": "34",
       "content": "Zdolności Pasywne wymagają posiadania lub rezonansu różnych Grzechów do ich aktywacji."
+    },
+    {
+      "id": "35",
+      "content": "Bojowe i Wspierające Zdolności Pasywne wymagają rezonansu konkretnego Grzechu, lub osiadania wystarczającej ilości zasobów ego."
     }
   ]
 }
