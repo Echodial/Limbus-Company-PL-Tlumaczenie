@@ -14,7 +14,7 @@
     },
     {
       "id": "mirrordungeon_name_2_0",
-      "content": "Mirror of Mirrors - Normal"
+      "content": "Mirror of Mirrors - ZWYKŁĘ"
     },
     {
       "id": "mirrordungeon_name_2_1",
@@ -26,7 +26,7 @@
     },
     {
       "id": "mirrordungeon_name_3_0",
-      "content": "Mirror of the Lake - Normal"
+      "content": "Mirror of the Lake - ZWYKŁĘ"
     },
     {
       "id": "mirrordungeon_name_3_1",
@@ -50,11 +50,11 @@
     },
     {
       "id": "mirrordungeon_name_5_0",
-      "content": "Mirror of the Dreaming [NORMAL]"
+      "content": "Mirror of the Dreaming [ZWYKŁĘ]"
     },
     {
       "id": "mirrordungeon_name_5_1",
-      "content": "Mirror of the Dreaming [HARD]"
+      "content": "Mirror of the Dreaming [TRUDNE]"
     },
     {
       "id": "mirrordungeon_name_6",
@@ -62,11 +62,23 @@
     },
     {
       "id": "mirrordungeon_name_6_0",
-      "content": "Mirror of Immortality [NORMAL]"
+      "content": "Mirror of Immortality [ZWYKŁĘ]"
     },
     {
       "id": "mirrordungeon_name_6_1",
-      "content": "Mirror of Immortality [HARD]"
+      "content": "Mirror of Immortality [TRUDNE]"
+    },
+    {
+      "id": "mirrordungeon_name_7",
+      "content": "Lustro Imion i Pająków"
+    },
+    {
+      "id": "mirrordungeon_name_7_0",
+      "content": "Lustro Imion i Pająków [ZWYKŁĘ]"
+    },
+    {
+      "id": "mirrordungeon_name_7_1",
+      "content": "Lustro Imion i Pająków [TRUDNE]"
     }
   ]
 }
