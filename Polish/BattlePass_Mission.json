@@ -2,59 +2,59 @@
   "dataList": [
     {
       "id": "CLEAR_STAGE",
-      "content": "Clear any stage {0} time(s)"
+      "content": "Przejdź dowolny etap {0} razy"
     },
     {
       "id": "KILL_ENEMY_ANY",
-      "content": "Defeat {0} enemies"
+      "content": "Pokonaj {0} przeciwników"
     },
     {
       "id": "KILL_ENEMY_ABNORMALITY",
-      "content": "Suppress {0} Abnormalities"
+      "content": "Unieszkodliw {0} Anomalii"
     },
     {
       "id": "SOMEONE_PARTICIPATED_IN_BATTLE",
-      "content": "Have {1} in battle {0} time(s)"
+      "content": "Have {1} in battle {0} raz(y)"
     },
     {
       "id": "MIRROR_DUNGEON_TRY",
-      "content": "Enter the Mirror Dungeon {0} time(s)"
+      "content": "Wejdź do Lustrzanego Lochu {0} raz(y)"
     },
     {
       "id": "MIRROR_DUNGEON_CLEAR",
-      "content": "Clear Mirror Dungeons {0} time(s)"
+      "content": "Clear Mirror Dungeons {0} raz(y)"
     },
     {
       "id": "BATTLEPASS_LEVELUP",
-      "content": "Reach Battle Pass Level {0}"
+      "content": "Osiągnij {0} poziom Przepustki Bojowej"
     },
     {
       "id": "USE_EGO_20402",
-      "content": "Use Ryōshū’s 4th Match Flame {0} time(s)"
+      "content": "Use Ryōshū’s 4th Match Flame {0} raz(y)"
     },
     {
       "id": "USE_ANNOUNCER_2",
-      "content": "Have Gregor as the Announcer {0} time(s)"
+      "content": "Have Gregor as the Announcer {0} raz(y)"
     },
     {
       "id": "LOGIN_ONCE",
-      "content": "{0} daily log-ins"
+      "content": "Zaloguj się w {0} dni"
     },
     {
       "id": "LOGIN_MULTIPLE",
-      "content": "{0} total daily log-ins"
+      "content": "Zaloguj się w {0} dni"
     },
     {
       "id": "EXPDUNGEON_CLEAR",
-      "content": "Clear EXP Luxcavation {0} time(s)"
+      "content": "Przejdź Lukskawację DOŚW {0} raz(y)"
     },
     {
       "id": "THREADDENGEON_CLEAR",
-      "content": "Clear Thread Luxcavation {0} time(s)"
+      "content": "Przejdź Lukskawację Nici {0} raz(y)"
     },
     {
       "id": "PURCHASE_ENKEPHALIN_MODULE",
-      "content": "Assemble {0} Enkephalin Module(s)"
+      "content": "Złóż {0} Moduł Enkefaliny"
     }
   ]
 }
