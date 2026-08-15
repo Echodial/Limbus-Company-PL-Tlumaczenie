@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Aboard Mephistopheles",
       "model": "로쟈",
-      "content": "Bweh… Greg, znasz tych koleszków?"
+      "content": "Bweh… Greg, znasz tych koleżków?"
     },
     {
       "id": 1,
@@ -22,12 +22,12 @@
     },
     {
       "id": 4,
-      "content": "W przeciwieństwie do innych niegodziwców z którymi jak do tej pory musieliśmy się mierzyć, ci stojący za naszym oknem posiadali owadzie atrybuty."
+      "content": "W przeciwieństwie do innych niegodziwców, z którymi jak do tej pory musieliśmy się mierzyć, ci stojący za naszym oknem posiadali owadzie atrybuty."
     },
     {
       "id": 5,
       "model": "로쟈",
-      "content": "Kurcze… Dante, dzięki bogom że twoja głowa to zegar. Chyba bym dostała nudności gdyby moim kierownikiem byłby ogromny robal."
+      "content": "Kurcze… Dante, dzięki bogom że twoja głowa to zegar. Chyba bym puściła pawia, gdyby moim kierownikiem byłby ogromny robal."
     },
     {
       "id": 6,
@@ -56,7 +56,7 @@
     },
     {
       "id": 11,
-      "content": "Podczas gdy Gregor drapał się zakłopotany po głowie po jego słabo odebranym żarcie, w autobusie wybrzmiał znajomy dźwięk toważyszący jego zatrzymaniu."
+      "content": "Podczas gdy Gregor drapał się zakłopotany po głowie na słaby odbiór żartu, w autobusie wybrzmiał znajomy dźwięk towarzyszący jego zatrzymaniu."
     },
     {
       "id": 12,
@@ -79,7 +79,7 @@
     {
       "id": 16,
       "model": "홍루",
-      "content": "Zastanawiam się, gdzie ci ludzie wogóle śpią?"
+      "content": "Zastanawiam się, gdzie ci ludzie w ogóle śpią?"
     },
     {
       "id": 17,
@@ -99,7 +99,7 @@
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "Oraz, o ile mnię oczy nie mylą, uznali że stanie nam na drodze jest mądrym pomysłem."
+      "content": "Oraz, o ile mnie oczy nie mylą, uznali, że stanie nam na drodze jest mądrym pomysłem."
     },
     {
       "id": 21,
@@ -109,7 +109,7 @@
     {
       "id": 22,
       "model": "그레고르",
-      "content": "A czemu akurat mnię wywołujesz po imieniu?"
+      "content": "A czemu akurat mnie wywołujesz po imieniu?"
     },
     {
       "id": 23,
@@ -124,7 +124,7 @@
     {
       "id": 25,
       "model": "그레고르",
-      "content": "…Niezły z ciebię kawał drania."
+      "content": "…Niezły z ciebie kawał drania."
     },
     {
       "id": 26,
@@ -134,7 +134,7 @@
     {
       "id": 27,
       "model": "그레고르",
-      "content": "Bah… Naprawde nie lubię stać na czelę."
+      "content": "Bah… Naprawdę nie lubię stać na czele."
     },
     {
       "id": 28,
@@ -148,7 +148,7 @@
       "model": "의아한패잔병",
       "teller": "Zdziwiony Weteran",
       "title": "???",
-      "content": "Chwilunia… Gdzieś już kiedyś widziałem tą facjate."
+      "content": "Chwilunia… Gdzieś już kiedyś widziałem tą facjatę."
     },
     {
       "id": 30,
@@ -158,12 +158,12 @@
     {
       "id": 31,
       "model": "단테",
-      "content": "<Gregor? Znasz ich z kądś?>"
+      "content": "<Gregor? Znasz ich skądś?>"
     },
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "…Nie sądzie że to stoi teraz na szczycie naszej listy priorytetów, Kierowniku. Wygląda na to, że nie mamy czasu na wspominanie."
+      "content": "…Nie wydaje mi się żeby to stało teraz na szczycie naszej listy priorytetów, Kierowniku. Wygląda na to, że nie mamy czasu na wspominanie."
     },
     {
       "id": 33,
@@ -180,12 +180,12 @@
     {
       "id": 35,
       "model": "로쟈",
-      "content": "Po co oni wogóle paradują tak ze swoimi robaczymi kończynami?"
+      "content": "Po co oni w ogóle paradują tak ze swoimi robaczymi kończynami?"
     },
     {
       "id": 36,
       "model": "로쟈",
-      "content": "Tylko straszy to dzieci. Mogliby się nauczyć się od ciebię troche subtelności, prawda Greg?"
+      "content": "Tylko straszy to dzieci. Mogliby nauczyć się od ciebie troche subtelności, prawda Greg?"
     },
     {
       "id": 37,
@@ -195,7 +195,7 @@
     {
       "id": 38,
       "model": "그레고르",
-      "content": "Choć nawet biorąc to pod uwagę… Nie sądze, że to z czym wylądowałem jest jakoś specjalnie lepsze."
+      "content": "Choć nawet biorąc to pod uwagę… Nie sądzę, że to z czym wylądowałem jest jakoś specjalnie lepsze."
     },
     {
       "id": 39,
@@ -230,7 +230,7 @@
     {
       "id": 44,
       "model": "그레고르",
-      "content": "I po co się tak na mnię gapisz? Nie wiem o nich więcej, niż ty."
+      "content": "I po co się tak na mnie gapisz? Nie wiem o nich więcej, niż ty."
     }
   ]
 }
