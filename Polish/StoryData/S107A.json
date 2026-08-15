@@ -6,7 +6,7 @@
       "model": "유리",
       "teller": "Yuri",
       "title": "Fachowiec Klasy 8",
-      "content": "Dobra, spójżmy jeszcze raz na mape."
+      "content": "Dobra, spójrzmy jeszcze raz na mapę."
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "Charon, czy możesz się prosze skupić?"
+      "content": "Charon, czy możesz się proszę skupić?"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
     {
       "id": 5,
       "model": "파우스트",
-      "content": "Jeśli mamy być specyficzni, to został on stworzony dla nas."
+      "content": "Mówiąc konkretnie, to został on stworzony dla nas."
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
     {
       "id": 12,
       "model": "단테",
-      "content": "<Tak czy owak, wytworzenie go musiało zająć naprawde sporo czasu. Biorąc zwłaszcza pod uwagę tą… “paszcze” na boku.>"
+      "content": "<Tak czy owak, wytworzenie go musiało zająć naprawde sporo czasu. Zwłaszcza biorąc pod uwagę tą… “paszcze” na boku.>"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
     {
       "id": 20,
       "model": "파우스트",
-      "content": "Ponadto, nie ma w ludzkim żywocie źródła większej satysfakcji niż docieranie do własnych rozwiązań. Faust wolałaby nie odbierać im tej radości."
+      "content": "Ponadto, nie ma w ludzkim żywocie źródła większej satysfakcji, niż docieranie do własnych rozwiązań. Faust wolałaby nie odbierać im tej radości."
     },
     {
       "id": 21,
@@ -129,7 +129,7 @@
     },
     {
       "id": 26,
-      "content": "Podśmiewki Gregora szybko zostały zagłuszone dźwiękiem silnika ruszającego z miejsca Mefistofolesa."
+      "content": "Podśmiewki Gregora szybko zostały zagłuszone dźwiękiem silnika ruszającego z miejsca Mefistofelesa."
     }
   ]
 }
