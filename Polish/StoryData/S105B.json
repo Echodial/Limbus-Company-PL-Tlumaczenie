@@ -4,11 +4,11 @@
       "id": 0,
       "place": "Tylne Uliczki 4 Dystryktu",
       "model": "베르길리우스",
-      "content": "Hej! Powinno już wystarczyć. Nasz gość powinien przybyć już niedługo."
+      "content": "Hej! Powinno już wystarczyć. Nasz gość powinien już niedługo przybyć."
     },
     {
       "id": 1,
-      "content": "Powiesział Wergiliusz, wychylając głowę przez okno."
+      "content": "Zawołał Wergiliusz, wychylając głowę przez okno."
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
     {
       "id": 10,
       "model": "단테",
-      "content": "<'Poprzedni' L Corp, czyli…>"
+      "content": "<'Poprzedni L Corp, czyli…>"
     },
     {
       "id": 11,
@@ -92,7 +92,7 @@
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Nie “potworów”,- Anomalii. W każdym razie masz rację. Jednak znajdziemy tam też ważniejsze rzeczy."
+      "content": "Nie “potworów” - Anomalii. W każdym razie masz rację. Jednak znajdziemy tam też ważniejsze rzeczy."
     },
     {
       "id": 18,
@@ -111,7 +111,7 @@
     },
     {
       "id": 21,
-      "content": "Wciąż dostaje bólu głowy na samo słowo ‘Aspekt’."
+      "content": "Wciąż dopada mnie ból głowy na samo słowo ‘Aspekt’."
     },
     {
       "id": 22,
@@ -120,7 +120,7 @@
     {
       "id": 23,
       "model": "파우스트",
-      "content": "Nie ma potrzeby próbować sobie przypomnieć czegoś, czego nie możesz pamiętać. Wszystko wróci w swoim czasie."
+      "content": "Nie ma potrzeby próbować przypomnieć sobie czegoś, czego nie możesz pamiętać. Wszystko wróci w swoim czasie."
     },
     {
       "id": 24,
@@ -182,7 +182,7 @@
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "Nie wiem, skąd masz takie pomysły, ale w Fachowcach nie ma nic szlachetnego ani bohaterskiego. Jedyne co od nich poczujes to fetor korpo niewolników."
+      "content": "Nie wiem, skąd masz takie pomysły, ale w Fachowcach nie ma nic szlachetnego ani bohaterskiego. Jedyne co od nich poczujesz to fetor korpo niewolników."
     },
     {
       "id": 38,
