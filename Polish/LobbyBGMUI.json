@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "ui_lobby_bgm_title_window",
-      "content": "Set Window BGM"
+      "content": "Ustaw Ścieżkę Dźwiękową Lustra"
     },
     {
       "id": "ui_lobby_bgm_title",
-      "content": "Set Sinner BGM"
+      "content": "Ustaw Ścieżkę Dźwiękową Grzesznika"
     },
     {
       "id": "ui_bgm_ui_all_bgm_toggle",
-      "content": "All Tracks"
+      "content": "Wszystkie Utwory"
     },
     {
       "id": "ui_bgm_ui_all_playlist_toggle",
-      "content": "Playlist"
+      "content": "Playlista"
     },
     {
       "id": "ui_bgm_ui_all_bgm_list_title",
-      "content": "All Soundtracks"
+      "content": "Wszystkie Ścieżki Dźwiękowe"
     },
     {
       "id": "ui_bgm_ui_all_bgm_list_desc",
-      "content": "※ Window BGM will randomly shuffle between the selected soundtracks."
+      "content": "※ Ścieżka dźwiękowa lustra będzie losowo wybierać z wybranych utworów."
     },
     {
       "id": "ui_settings_popup_tab_title_change_ui",
-      "content": "Change UI Style"
+      "content": "Zmień Styl Interfejsu"
     },
     {
       "id": "ui_settings_popup_tab_title_change_bgm",
-      "content": "Change BGM"
+      "content": "Zmień Ścieżkę Dźwiękową"
     },
     {
       "id": "ui_playing_lobby_bgm",
-      "content": "Playing: Default Window BGM"
+      "content": "Teraz Gra: Domyślna Ścieżka Dźwiękowa Lustra"
     },
     {
       "id": "ui_playing_character_bgm",
-      "content": "Playing: Selected Sinner BGM"
+      "content": "Teraz Gra: Wybrana Ścieżka Dźwiękowa Grzesznika"
     },
     {
       "id": "buy_bgm",
-      "content": "Purchase BGM"
+      "content": "Kup Utwór"
     },
     {
       "id": "notice_not_enough_twine",
-      "content": "※ Not enough Thread."
+      "content": "※ Niewystarczająca Ilość Nici."
     },
     {
       "id": "not_enough_twine",
-      "content": "Not enough Thread"
+      "content": "Niewystarczająca Ilość Nici"
     },
     {
       "id": "ui_jukebox_title",
-      "content": "Jukebox"
+      "content": "Magnetofon"
     },
     {
       "id": "ui_open_jukebox_button",
-      "content": "Jukebox"
+      "content": "Magnetofon"
     },
     {
       "id": "ui_setting_character_bgm_button",
-      "content": "Set Sinner BGM"
+      "content": "Ustaw Ścieżkę Dźwiękową Grzesznika"
     },
     {
       "id": "ui_lobby_bgm_should_get_from_vending_machine",
-      "content": "Available for purchase from the Dispenser"
+      "content": "Utwór Dostępny Do Zakupu W Automacie"
     },
     {
       "id": "ui_lobby_bgm_acquired_after_chapter_clear",
-      "content": "Mixtape"
+      "content": "Składanka"
     },
     {
       "id": "ui_lobby_bgm_filter_owned",
-      "content": "Owned"
+      "content": "Posiadany"
     },
     {
       "id": "ui_lobby_bgm_no_item_in_playlist",
-      "content": "Playlist is empty."
+      "content": "Ta Playlista Jest Pusta."
     },
     {
       "id": "ui_lobby_bgm_no_item_in_search_list",
-      "content": "No tracks found in this category."
+      "content": "Nie Znaleziono Utworów Naleźących do Tej Kategorii."
     },
     {
       "id": "ui_lobby_bgm_playlist_registered_desc_lobby_bgm",
-      "content": "Tracks in Playlist ({0}/{1})"
+      "content": "Ilość Utworów w Playliście ({0}/{1})"
     },
     {
-      "id": "ui_lobby_bgm_playlist_registered_desc_jukebox",
-      "content": "Tracks in Playlist ({0}/{1})"
+      "id": "ui_lobby_bgm_playlist_registered_desc_Magnetofon",
+      "content": "Ilość Utworów w Playliście ({0}/{1})"
     },
     {
       "id": "ui_lobby_bgm_playlist_title",
-      "content": "Playlist"
+      "content": "Playlista"
     },
     {
       "id": "ui_lobby_bgm_add_failed_by_empty_character",
-      "content": "Select a Sinner before setting BGM."
+      "content": "Wybierz Grzesznika Przed Ustawieniem Ścieżki."
     },
     {
       "id": "ui_lobby_bgm_add_failed_by_playlist_filled",
-      "content": "Playlist is full.\nUnable to add soundtrack."
+      "content": "Playlista jest pełna.\nDodanie utworu nieudane."
     },
     {
       "id": "ui_lobby_bgm_acquired_after_chapter_clear_with_condition",
-      "content": "Mixtape: {0}"
+      "content": "Składanka: {0}"
     },
     {
       "id": "ui_setting_lobby_bgm_button",
-      "content": "Set Window BGM"
+      "content": "Ustaw Ścieżkę Lustra"
     },
     {
       "id": "ui_setting_dynamic_ui_select_clear",
-      "content": "Clear Selection"
+      "content": "Wyczyść Wybory"
     }
   ]
 }
