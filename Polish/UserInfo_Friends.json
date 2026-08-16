@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "GetConditionTitle",
-      "content": "Requirements"
+      "content": "Wymagania"
     },
     {
       "id": "BannerSelect",
-      "content": "Banner"
+      "content": "Baner"
     },
     {
       "id": "Personality",
-      "content": "Identities"
+      "content": "Tożsamości"
     },
     {
       "id": "CharacterNumber",
@@ -18,43 +18,43 @@
     },
     {
       "id": "Rarity",
-      "content": "Rarity"
+      "content": "Rzadkość"
     },
     {
       "id": "Season",
-      "content": "Season"
+      "content": "Sezon"
     },
     {
       "id": "Group",
-      "content": "Faction"
+      "content": "Fakcja"
     },
     {
       "id": "Name",
-      "content": "Name"
+      "content": "Imię"
     },
     {
       "id": "LastLoginDay",
-      "content": "Last Online:"
+      "content": "Ostatnio Online:"
     },
     {
       "id": "Manager",
-      "content": "Manager"
+      "content": "Kierownik"
     },
     {
       "id": "Company",
-      "content": "Company"
+      "content": "Zespół"
     },
     {
       "id": "Friends",
-      "content": "Friends"
+      "content": "Chwaty"
     },
     {
       "id": "Add_Friends",
-      "content": "Add a Friend"
+      "content": "Dodaj Chwata"
     },
     {
       "id": "Delete_Friends",
-      "content": "Remove Friend"
+      "content": "Usuń Chwata"
     },
     {
       "id": "Waiting_Friends",
@@ -62,11 +62,11 @@
     },
     {
       "id": "Accept_Friends",
-      "content": "Inbox"
+      "content": "Skrzynka Pocztowa"
     },
     {
       "id": "Last_Reload",
-      "content": "{0}s ago!"
+      "content": "{0} sekund temu!"
     },
     {
       "id": "WaitCancle",
@@ -74,215 +74,215 @@
     },
     {
       "id": "Refuse",
-      "content": "Decline"
+      "content": "Odmów"
     },
     {
       "id": "Accept",
-      "content": "Accept"
+      "content": "Zaakceptuj"
     },
     {
       "id": "Send_Add_Friends",
-      "content": "Send them a friend request?"
+      "content": "Zaprosić tą osobę do grona chwatów?"
     },
     {
       "id": "Delete_Friends_Apply",
-      "content": "Are you sure you want to remove this user from your friend list?"
+      "content": "Czy na pewno chcesz usunąć tą osobę z grona chwatów?"
     },
     {
       "id": "SendSendFriend_1",
-      "content": "You have too many requests."
+      "content": "Masz za dużo zaproszeń."
     },
     {
       "id": "SendSendFriend_2",
-      "content": "Your friend list is full."
+      "content": "Twoje grono chwatów jest pełne."
     },
     {
       "id": "SendSendFriend_3",
-      "content": "This user currently has too many requests."
+      "content": "Ta osoba ma za dużo zaproszeń w skrzynce, aby przyjąć kolejne."
     },
     {
       "id": "SendSendFriend_4",
-      "content": "This user’s friend list is full."
+      "content": "Grono chwatów tej osoby jest pełne."
     },
     {
       "id": "SendSendFriend_5",
-      "content": "Invalid user."
+      "content": "Niepoprawny kod użytkownika."
     },
     {
       "id": "SendSendFriend_6",
-      "content": "The user is already on the request list."
+      "content": "Ta osoba jest już na liście zaproszeń."
     },
     {
       "id": "SendSendFriend_7",
-      "content": "An unexpected error has occurred."
+      "content": "Wystąpił niespodziewany błąd."
     },
     {
       "id": "SendAcceptReceivedFriend_1",
-      "content": "Your friend list is full."
+      "content": "Obawiam się, że twój profil jest przechwacony."
     },
     {
       "id": "SendAcceptReceivedFriend_2",
-      "content": "This user’s friend list became full."
+      "content": "Ta osoba jest przechwacona."
     },
     {
       "id": "SendAcceptReceivedFriend_3",
-      "content": "The user canceled their request."
+      "content": "Ta osoba wycofała swoje zaproszenie."
     },
     {
       "id": "SendAcceptReceivedFriend_4",
-      "content": "An unexpected error has occurred."
+      "content": "Wystąpił niespodziewany błąd."
     },
     {
       "id": "Today",
-      "content": "Today!"
+      "content": "Dziś!"
     },
     {
       "id": "Ago",
-      "content": "{0}d ago"
+      "content": "{0} dni temu"
     },
     {
       "id": "Day_Ago",
-      "content": "MM/dd"
+      "content": "dd/MM"
     },
     {
       "id": "Change_Introduce",
-      "content": "Edit Intro Tagline"
+      "content": "Edytuj Intro Taglineidkhowtodothis"
     },
     {
       "id": "Sorting_Level",
-      "content": "Level"
+      "content": "Poziom"
     },
     {
       "id": "Sorting_LastLogin",
-      "content": "Last Online"
+      "content": "Ostatnio Online"
     },
     {
       "id": "Season_0",
-      "content": "Regular"
+      "content": "Standard"
     },
     {
       "id": "Season_1",
-      "content": "Season 1"
+      "content": "Sezon 1"
     },
     {
       "id": "Season_2",
-      "content": "Season 2"
+      "content": "Sezon 2"
     },
     {
       "id": "Change",
-      "content": "Change"
+      "content": "Zmień"
     },
     {
       "id": "Uninstall",
-      "content": "Unequip"
+      "content": "Zdejmij"
     },
     {
       "id": "All",
-      "content": "All"
+      "content": "Wszyscy"
     },
     {
       "id": "Reset_Company_Title",
-      "content": "Reset Settings"
+      "content": "Zresetuj Ustawienia"
     },
     {
       "id": "Reset_Company_desc",
-      "content": "Are you sure you want to reset your company settings?"
+      "content": "Czy na pewno chcesz zresetować ustawienia zespołu?"
     },
     {
       "id": "NO_Friends",
-      "content": "Nothing to display here yet."
+      "content": "Nie ma co tu wystawić."
     },
     {
       "id": "NO_SendFriends",
-      "content": "No requests made."
+      "content": "Nie masz wysłanych zaproszeń."
     },
     {
       "id": "NO_AcceptFriends",
-      "content": "No requests received."
+      "content": "Nie masz otrzymanych zaproszeń."
     },
     {
       "id": "SupportPersonality_Reset",
-      "content": "Reset"
+      "content": "Zresetuj"
     },
     {
       "id": "SearchFriends",
-      "content": "Discover w/ ID"
+      "content": "Odnajdź przez ID"
     },
     {
       "id": "ReLoad",
-      "content": "Refresh"
+      "content": "Odśwież"
     },
     {
       "id": "Btn_Search",
-      "content": "Search"
+      "content": "Wyszukaj"
     },
     {
       "id": "Sentence",
-      "content": "Phrase"
+      "content": "Szablon"
     },
     {
       "id": "Word",
-      "content": "Word"
+      "content": "Słowo"
     },
     {
       "id": "Uid_Copy",
-      "content": "Copy"
+      "content": "Kopiuj"
     },
     {
       "id": "Uid_Copy_ModalTitle",
-      "content": "Copy Success"
+      "content": "Kopiowanie Udane"
     },
     {
       "id": "Uid_Copy_ModalDesc",
-      "content": "The ID has been copied."
+      "content": "ID zostało zkopiowane."
     },
     {
       "id": "TicketCustom_Button",
-      "content": "Customize"
+      "content": "Dostosuj"
     },
     {
       "id": "TicketCustom_Popup_L",
-      "content": "Border 1"
+      "content": "Ramka 1"
     },
     {
       "id": "TicketCustom_Popup_R",
-      "content": "Border 2"
+      "content": "Ramka 2"
     },
     {
       "id": "TicketCustom_Popup_EGOBG",
-      "content": "Bg"
+      "content": "Tło"
     },
     {
       "id": "Using",
-      "content": "In Use"
+      "content": "Aktualnie Używana"
     },
     {
       "id": "IntroduceSort_Default",
-      "content": "Default"
+      "content": "Standardowe"
     },
     {
       "id": "IntroduceSort_ABC",
-      "content": "Alphabetical"
+      "content": "Alfabetycznie"
     },
     {
       "id": "IntroduceSort_Acquisition",
-      "content": "Claim Date"
+      "content": "Po Dacie Zdobycia"
     },
     {
       "id": "SimilarBanner",
-      "content": "Banner List"
+      "content": "Lista Banerów"
     },
     {
       "id": "SimilarTicket",
-      "content": "Ticket List"
+      "content": "Lista "
     },
     {
       "id": "Choosing",
-      "content": "Selecting"
+      "content": "Wybrana"
     },
     {
       "id": "IntroduceSort_Release",
-      "content": "Release Date"
+      "content": "Po Dacie Wyjścia"
     }
   ]
 }
