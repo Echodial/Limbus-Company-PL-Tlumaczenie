@@ -6,7 +6,7 @@
     },
     {
       "id": "formation_name_filter_contents_title",
-      "content": "Contents"
+      "content": "Treści"
     },
     {
       "id": "formation_name_filter_contents_story",
@@ -14,27 +14,39 @@
     },
     {
       "id": "formation_name_filter_contents_mirrordungeon",
-      "content": "Mirror Dun."
+      "content": "Lustrzany Loch"
     },
     {
       "id": "formation_name_filter_contents_railwaydungeon",
-      "content": "Railway"
+      "content": "Kolej"
     },
     {
       "id": "formation_name_filter_contents_exp_mining",
-      "content": "EXP Lux."
+      "content": "Luksywacja Dośw."
     },
     {
       "id": "formation_name_filter_contents_thread_mining",
-      "content": "Thread Lux."
+      "content": "Luksywacja Nici"
     },
     {
       "id": "formation_name_filter_contents_practice",
-      "content": "Testing"
+      "content": "Testowanie"
     },
     {
       "id": "formation_name_total_tag_count_limitation",
-      "content": "※ Up to 10 tags can be selected."
+      "content": "※ Może być wybrane maks 10 znaczników."
+    },
+    {
+      "id": "formation_name_filter_contents_raid",
+      "content": "Rozbicie"
+    },
+    {
+      "id": "formation_name_filter_contents_walpurgisnacht",
+      "content": "Noc Walpurgi"
+    },
+    {
+      "id": "formation_name_filter_contents_event",
+      "content": "Wydażenie"
     }
   ]
 }
