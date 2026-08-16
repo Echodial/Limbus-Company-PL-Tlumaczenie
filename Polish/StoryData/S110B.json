@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 4 - LC Branch Exterior",
+      "place": "Dystrykt 4 - Wejście do Filii LC",
       "model": "베르길리우스2",
       "teller": "Wergiliusz",
       "title": "Przewodnik",
@@ -10,14 +10,14 @@
     },
     {
       "id": 1,
-      "content": "Gdy reszta drużyny wymieniała się powitaniami, Wergiliusz zawołał mnię na bok."
+      "content": "Gdy reszta drużyny wymieniała się powitaniami, Wergiliusz zawołał mnie na bok."
     },
     {
       "id": 2,
       "model": "베르길리우스2",
       "teller": "Wergiliusz",
       "title": "Przewodnik",
-      "content": "Chcę, żebyś pamiętało że są oni tylko Fachowcami Klasy 8."
+      "content": "Chcę, żebyś pamiętało, że są oni tylko Fachowcami Klasy 8."
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "model": "베르길리우스2",
       "teller": "Wergiliusz",
       "title": "Przewodnik",
-      "content": "…To znaczy, że są nisko w chierarchii i głównie zajmują się prostymi robotami."
+      "content": "…To znaczy, że są nisko w hierarchii i zajmują się głównie prostymi robotami."
     },
     {
       "id": 5,
@@ -41,18 +41,18 @@
     {
       "id": 6,
       "model": "단테",
-      "content": "<Czyli innymi słowami nie mogę liczyć, że czymkolwiek się za nas zajmą.>"
+      "content": "<Czyli innymi słowy nie mogę liczyć, że czymkolwiek się za nas zajmą.>"
     },
     {
       "id": 7,
-      "content": "Kiwnełom aby przekazać, że zrozumiałom przekaz."
+      "content": "Kiwnełom na znaj, że zrozumiałom przekaz."
     },
     {
       "id": 8,
       "model": "베르길리우스2",
       "teller": "Wergiliusz",
       "title": "Przewodnik",
-      "content": "…Jesteś chyba jedyną osobą na pokłądzie, z którą mogę poprowadzić produktywną rozmowę."
+      "content": "…Jesteś chyba jedyną osobą na pokładzie, z którą mogę poprowadzić produktywną rozmowę."
     },
     {
       "id": 9,
@@ -63,7 +63,7 @@
     },
     {
       "id": 10,
-      "content": "Wergiliusz poklepał mnię po ramieniu z gorzkim uśmiechem na twarzy, po czym zaczął powoli wracać w stronę autobusa."
+      "content": "Wergiliusz poklepał mnie po ramieniu z gorzkim uśmiechem na twarzy, po czym zaczął powoli wracać w stronę autobusa."
     }
   ]
 }
