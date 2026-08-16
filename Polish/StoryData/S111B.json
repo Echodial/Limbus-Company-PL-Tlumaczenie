@@ -7,7 +7,7 @@
     },
     {
       "id": 1,
-      "content": "Z każdym krokiem było coraz ciemniej, a okropny zapach podziemia był coraz mocniejszy."
+      "content": "Z każdym krokiem było coraz ciemniej, a okropny zapach podziemia stawał się coraz mocniejszy."
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "model": "파우스트",
-      "content": "Powtórzę jeszcze raz: Jeśli zginiecie tutaj, Dante nie będzie w stanie was ożywić nawet po zakończeniu walki."
+      "content": "Powtórzę jeszcze raz: Jeśli zginiecie tutaj, Dante nie będzie w stanie was ożywić, nawet po zakończeniu walki."
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
     },
     {
       "id": 8,
-      "content": "Zdaje się, że źle naszrozumieli, ale Faust nic nie wspomniała, więc też zdecydowałom się pozostać cicho."
+      "content": "Zdaje się, że źle nas zrozumieli, ale Faust nic nie wspomniała, więc też zdecydowałom się pozostać cicho."
     },
     {
       "id": 9,
@@ -94,7 +94,7 @@
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Pffhah… No coo ty, przecież to przezabawne~ Kto by pomyślał, że z nas wszystkich t o kaurat ty będziesz bał się wielonogich…"
+      "content": "Pffhah… No coo ty, przecież to przezabawne~ Kto by pomyślał, że z nas wszystkich to akurat ty będziesz bał się wielonogich…"
     },
     {
       "id": 19,
@@ -140,12 +140,12 @@
     {
       "id": 27,
       "model": "이스마엘",
-      "content": "Wśród Fixerów i Szajek ciągle krążą pogłoski o “Lobotomicznym Śnie” czy “Enkefalinowy High”."
+      "content": "Wśród Fixerów i Szajek ciągle mówią “Lobotomy Dream” czy “Enkephalin Rush”."
     },
     {
       "id": 28,
       "model": "료슈",
-      "content": "LŚ, E-Hi… Nieźle to brzmi…"
+      "content": "LD, E-Rush… Nieźle to brzmi…"
     },
     {
       "id": 29,
@@ -155,7 +155,7 @@
     {
       "id": 30,
       "model": "이상",
-      "content": "Czy takie swobodne podejście do języka Polskiego nie jest skłonne do zamazywania zamierzonego znaczenia?"
+      "content": "Czy takie swobodne używawnie angielskiego nie jest skłonne do zamazywania zamierzonego znaczenia?"
     },
     {
       "id": 31,
@@ -165,7 +165,7 @@
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "Huh, wydaje mi się, czy jesteś bardzoejgadatliwy niż zwykle, Yi Sang?"
+      "content": "Huh, wydaje mi się, czy jesteś bardziej gadatliwy niż zwykle, Yi Sang?"
     },
     {
       "id": 33,
@@ -195,7 +195,7 @@
     {
       "id": 38,
       "model": "이상",
-      "content": "Zachowujesz się, jakbyś była tu kapitanem. Ośmielę się swtwierdzić, że ta rola należy prędzej do naszego Kierownika."
+      "content": "Zachowujesz się, jakbyś była tu kapitanem. Ośmielę się stwierdzić, że ta rola należy prędzej do naszego Kierownika."
     },
     {
       "id": 39,
@@ -257,7 +257,7 @@
     },
     {
       "id": 51,
-      "content": "Wszyscy mieliśmy ten sam pomysł co do tego, na co wskazywała Outis:"
+      "content": "Wszyscy mieliśmy ten sam pomysł co do tego, na co mogła wskazywać Outis:"
     },
     {
       "id": 52,
@@ -290,13 +290,13 @@
       "id": 58,
       "teller": "Szemrany Weteran",
       "title": "Niedobitek G Corpu",
-      "content": "Huh? Myślałem, że jesteśmy tu tylko my."
+      "content": "Huh? Myślałam, że jesteśmy tu tylko my."
     },
     {
       "id": 59,
       "teller": "Wulgarny Weteran",
       "title": "Niedobitek G Corpu",
-      "content": "Przekradli się obok naszymi przy wejściu? Co chwilę przychodzą nowe sępy."
+      "content": "Przekradli się obok naszych przy wejściu? Co chwilę przychodzą nowe sępy."
     },
     {
       "id": 60,
@@ -342,7 +342,7 @@
     {
       "id": 67,
       "model": "그레고르",
-      "content": "Tsk, czyli jedmak mnie poznaliście, co?"
+      "content": "Tsk, czyli jednak mnie rozpoznaliście, co?"
     },
     {
       "id": 68,
@@ -367,12 +367,12 @@
       "id": 72,
       "teller": "Szemrany Weteran",
       "title": "Niedobitek G Corpu",
-      "content": "Skończ pierdolić! Rzygam na myśl, że kiedyś ci salutowałem."
+      "content": "Skończ pierdolić! Rzygam na myśl, że kiedyś ci salutowałam."
     },
     {
       "id": 73,
       "model": "그레고르",
-      "content": "Ej, ej, spokojnie, przecież nigdy nie musiałeś salutować mi osobiście."
+      "content": "Ej, ej, spokojnie, przecież nigdy nie musiałaś salutować mi osobiście."
     },
     {
       "id": 74,
@@ -384,7 +384,7 @@
       "id": 75,
       "teller": "Wulgarny Weteran",
       "title": "Niedobitek G Corpu",
-      "content": "Nigdy nie dali nam szansy, ty dwulicowa kurwo. Gdy tylko wojna się skończyła, wyrzucili nas jak śmieci."
+      "content": "Nam nigdy nie dali szansy, ty dwulicowa kurwo. Gdy tylko wojna się skończyła, wyrzucili nas jak śmieci."
     },
     {
       "id": 76,
@@ -399,7 +399,7 @@
     {
       "id": 78,
       "model": "오티스",
-      "content": "Stój! Nic dobrego nie wyniknie z obrażania wroga!"
+      "content": "Przestań! Nic dobrego nie wyniknie z obrażania wroga!"
     },
     {
       "id": 79,
@@ -441,7 +441,7 @@
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Bogaci czy spłukani, ludzie rzucają się sobie do gardeł jak tylko mogą coś z tego zyskać. Wiara w ludzi to zwykła naiwność."
+      "content": "Bogaci czy spłukani, ludzie rzucają się sobie do gardeł, jak tylko mogą coś z tego zyskać. Wiara w ludzi to zwykła naiwność."
     }
   ]
 }
