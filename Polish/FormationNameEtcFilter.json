@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "formation_name_filter_Etc_title",
-      "content": "Other"
+      "content": "Inne"
     },
     {
       "id": "formation_name_filter_Etc_LIMBUS_COMPANY",
@@ -10,7 +10,7 @@
     },
     {
       "id": "formation_name_filter_Etc_L_CORP",
-      "content": "Lobotomy Corp. HQ"
+      "content": "Lobotomy Corp"
     },
     {
       "id": "formation_name_filter_Etc_H_CORP",
@@ -66,27 +66,27 @@
     },
     {
       "id": "formation_name_filter_Etc_BLADE_LINEAGE",
-      "content": "Blade Lineage"
+      "content": " Rodowód Ostrza"
     },
     {
       "id": "formation_name_filter_Etc_BLACK_CLOUD",
-      "content": "Kurokumo Clan"
+      "content": "Klan Kurokumo"
     },
     {
       "id": "formation_name_filter_Etc_ATL",
-      "content": "Technology Liberation Alliance"
+      "content": "Liga Wyzwolenia Technologii"
     },
     {
       "id": "formation_name_filter_Etc_WUTHERING_HEIGHTS",
-      "content": "Wuthering Heights"
+      "content": "Wichrowe Wzgórza"
     },
     {
       "id": "formation_name_filter_Etc_PEQUOD_CREW",
-      "content": "The Pequod"
+      "content": "Pequod"
     },
     {
       "id": "formation_name_filter_Etc_BLOODFIEND",
-      "content": "Bloodfiend"
+      "content": "Krwiopijcy"
     },
     {
       "id": "formation_name_filter_Etc_BLACK_BEAST",
@@ -94,31 +94,31 @@
     },
     {
       "id": "formation_name_filter_Etc_FINGER",
-      "content": "The Fingers"
+      "content": "Palce"
     },
     {
       "id": "formation_name_filter_Etc_THUMB_FINGER",
-      "content": "The Thumb"
+      "content": "Kciuk"
     },
     {
       "id": "formation_name_filter_Etc_INDEX_FINGER",
-      "content": "The Index"
+      "content": "Wskaz"
     },
     {
       "id": "formation_name_filter_Etc_MIDDLE_FINGER",
-      "content": "The Middle"
+      "content": "Środek"
     },
     {
       "id": "formation_name_filter_Etc_RING_FINGER",
-      "content": "The Ring"
+      "content": "Pierścień"
     },
     {
       "id": "formation_name_filter_Etc_LITTLE_FINGER",
-      "content": "The Pinky"
+      "content": "Obwód"
     },
     {
       "id": "formation_name_filter_Etc_SPIDER_HOUSE",
-      "content": "The House of Spiders"
+      "content": "Dom Pająków"
     },
     {
       "id": "formation_name_filter_Etc_LIMBUS_COMPANY_LCE",
@@ -126,15 +126,15 @@
     },
     {
       "id": "formation_name_filter_Etc_EGO_EQUIPMENT",
-      "content": "E.G.O Gear"
+      "content": "Sprzęt E.G.O"
     },
     {
       "id": "formation_name_filter_Etc_BULLET",
-      "content": "Ammo"
+      "content": "Naboje"
     },
     {
       "id": "formation_name_filter_Etc_DISCARD_SKILL",
-      "content": "Discard"
+      "content": "Odrzucenie"
     }
   ]
 }
