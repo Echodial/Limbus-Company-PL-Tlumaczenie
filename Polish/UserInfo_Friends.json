@@ -58,7 +58,7 @@
     },
     {
       "id": "Waiting_Friends",
-      "content": "Sent Requests"
+      "content": "Wysłane Zaproszenia"
     },
     {
       "id": "Accept_Friends",
@@ -70,7 +70,7 @@
     },
     {
       "id": "WaitCancle",
-      "content": "Cancel"
+      "content": "Anuluj"
     },
     {
       "id": "Refuse",
@@ -146,7 +146,7 @@
     },
     {
       "id": "Change_Introduce",
-      "content": "Edytuj Intro Taglineidkhowtodothis"
+      "content": "Edytuj Powitanie"
     },
     {
       "id": "Sorting_Level",
