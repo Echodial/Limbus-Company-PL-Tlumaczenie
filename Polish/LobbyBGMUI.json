@@ -82,14 +82,14 @@
     },
     {
       "id": "ui_lobby_bgm_no_item_in_search_list",
-      "content": "Nie Znaleziono Utworów Naleźących do Tej Kategorii."
+      "content": "Nie znaleziono utworów należących do tej kategorii."
     },
     {
       "id": "ui_lobby_bgm_playlist_registered_desc_lobby_bgm",
       "content": "Ilość Utworów w Playliście ({0}/{1})"
     },
     {
-      "id": "ui_lobby_bgm_playlist_registered_desc_Magnetofon",
+      "id": "ui_lobby_bgm_playlist_registered_desc_jukebox",
       "content": "Ilość Utworów w Playliście ({0}/{1})"
     },
     {
