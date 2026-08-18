@@ -3,12 +3,12 @@
         {
             "id": "get_10310_1",
             "desc": "Identity Acquisition",
-            "dlg": "The Family will be well-cared for.\n... After all, the onus always fell on me to provide for what you abandoned."
+            "dlg": "Rodzina pozostaje w dobrych rękach.\n... W końcu brzemię porzucinych przez ciebie obowiązków i tak zawsze spadało na mnie."
         },
         {
             "id": "lobby_morning_10310_1",
             "desc": "Morning Greeting",
-            "dlg": "The sun rises... Humans will be arriving soon. Abound with smiles and laughter, their ignorance buried in happiness.\nAll the while the Family is reduced to laughingstocks and forced to endure this burning thirst, clutching their parched throats..."
+            "dlg": "Słońce wstaje... Już niedługo zjawią się ludzie. Niosą ze sobą śmiech i rozradowane twarze, szczęście skrywajace ignorancję.\nTymczasem nasza Rodzina jest pośmiewiskiem, zmuszeni do trwania w wiecznym pragnieniu, łapiąc sie za wysuszone gardła..."
         },
         {
             "id": "lobby_noon_10310_1",
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10310_1",
             "desc": "Uptying",
-            "dlg": "Was it sweet, your hollow, juvenile dream? It is about time you awakened from it. Take responsibility for those you had once abandoned in the hands of others.\nResent us, O Father. For we shall resent you in return."
+            "dlg": "Czy ten sen, twój pusty, dzieciecy sen był tak błogi? Czas, byś się z niego wybudziłił. Czas, byś wziął na siebie odpowiedzialność, ktora pozostawiłeś w cudzych rękach.\nMożesz miec do nas żal, Ojcze \nJednak my tylko odwrocilamy sie od ciebie tak samo jak ty odwrociles sie od nas."
         },
         {
             "id": "formation_10310_1",
@@ -98,7 +98,7 @@
         {
             "id": "choice_success_p_10310_2",
             "desc": "Check Passed",
-            "dlg": "We triumphed for now, yet I do not know what lies in our future."
+            "dlg": "Dziś zwyciężyliśmy, nie wiem jednak, co czeka nas w przyszlosci."
         },
         {
             "id": "choice_fail_n_10310_1",
