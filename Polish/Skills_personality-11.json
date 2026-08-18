@@ -2675,7 +2675,7 @@
         {
           "level": 4,
           "name": "Piętno Odwetu",
-          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\n<style=\"highlight\">At 6+ Envy A-Reson., +1 Mocy Monety</style>\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n<style=\"highlight\">[WhenUse] Convert this Skill's Coins into [SuperCoin]s equal to [ReinforcedTattooSpiderOutis] on this unit, beginning with Coin 3</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, Zyskaj 1 [HitobrażeńUp] na początku następnej tury (raz na turę)</style>",
+          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\n<style=\"highlight\">Przy 6+ sumy A-Rezonansu Zazdrości, +1 Mocy Monety</style>\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n<style=\"highlight\">[WhenUse] Convert this Skill's Coins into [SuperCoin]s equal to [ReinforcedTattooSpiderOutis] on this unit, beginning with Coin 3</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, Zyskaj 1 [HitobrażeńUp] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2739,7 +2739,7 @@
         {
           "level": 4,
           "name": "Łamanie Zasad",
-          "desc": "<style=\"highlight\">[StartBattle] Mając 6+ sumy A-Rezonansu Zazdrości, użyj jako kontry Zdolności \"Piętno Odwetu\" lub \"Kompletna oraz Totalna Kremacja\" (W pierwszej kolejności aktywuje się na Żetonach po lewej. Aktywuje się 2 razy na turę)</style>\n[StartBattle] Zyskaj <style=\"highlight\">30%</style> brakującego PŻ jako Tarczę (raz na turę)",
+          "desc": "<style=\"highlight\">[StartBattle] Przy 6+ sumy A-Rezonansu Zazdrości, użyj jako kontry Zdolności \"Piętno Odwetu\" lub \"Kompletna oraz Totalna Kremacja\" (W pierwszej kolejności aktywuje się na Żetonach po lewej. Aktywuje się 2 razy na turę)</style>\n[StartBattle] Zyskaj <style=\"highlight\">30%</style> brakującego PŻ jako Tarczę (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
