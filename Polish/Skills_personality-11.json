@@ -828,14 +828,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -844,19 +844,19 @@
         {
           "level": 2,
           "name": "Kropkowanie",
-          "desc": "Jeżeli cel posiada 6+ [Laceration], Moc Starcia +1<style=\"highlight\"></style>",
+          "desc": "Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, Moc Starcia +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -865,19 +865,19 @@
         {
           "level": 4,
           "name": "Kropkowanie",
-          "desc": "Jeżeli cel posiada 6+ [Laceration], Moc Starcia +1\n<style=\"highlight\">Jeżeli cel posiada 10+ [Laceration], +1 Mocy Monet </style>",
+          "desc": "Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, Moc Starcia +1\n<style=\"highlight\">Jeżeli cel posiada 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -900,7 +900,7 @@
                   "desc": "[OnSucceedAttack] 20% szansy aby jednorazowo Ponownie Użyć tej Monety. Szansa ta zwiększa się o kolejne 20% za każdy rodzaj negatywnego efektu na celu<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -909,7 +909,7 @@
         {
           "level": 2,
           "name": "Krwiste Malowidło",
-          "desc": "Jeżeli cel posiada 6+ [Laceration], Moc Starcia +1<style=\"highlight\"></style>",
+          "desc": "Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, Moc Starcia +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -918,7 +918,7 @@
                   "desc": "[OnSucceedAttack] 20% szansy aby jednorazowo Ponownie Użyć tej Monety. Szansa ta zwiększa się o kolejne 20% za każdy rodzaj negatywnego efektu na celu<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]\nPodczas Powtarzania tej Monety przez efekty tej jednostki, nałóż +1 więcej Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\nPodczas Powtarzania tej Monety przez efekty tej jednostki, nałóż +1 więcej Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -927,7 +927,7 @@
         {
           "level": 4,
           "name": "Krwiste Malowidło",
-          "desc": "Jeżeli cel posiada 6+ [Laceration], Moc Starcia +2<style=\"highlight\"></style>",
+          "desc": "Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, Moc Starcia +2<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -936,7 +936,7 @@
                   "desc": "[OnSucceedAttack] 40% szansy aby jednorazowo Ponownie Użyć tej Monety. Szansa ta zwiększa się o kolejne 20% za każdy rodzaj negatywnego efektu na celu<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]\nPodczas Powtarzania tej Monety przez efekty tej jednostki, nałóż +1 więcej Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\nPodczas Powtarzania tej Monety przez efekty tej jednostki, nałóż +1 więcej Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -956,13 +956,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 jednostki jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 jednostki jednego z tych efektów: [Combustion], <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateobrażeńUp] 1 innemu sojusznikowi z najwyższym PP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateDamageUp] 1 innemu sojusznikowi z najwyższym PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -971,19 +971,19 @@
         {
           "level": 4,
           "name": "Inspekcja Sztuki",
-          "desc": "Jeżeli cel posiada 6+ [Laceration], +1 Mocy Monet\nZadaj +12.5% Obrażeń za każdy typ negatywnego efektu na celu (maks 50%)\n[WhenUse] Na początku następnej tury nałóż 1 [Agility] 2 sojusznikom sąsiadującym tej jednostce na tablicy<style=\"highlight\"></style>",
+          "desc": "Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\nZadaj +12.5% Obrażeń za każdy typ negatywnego efektu na celu (maks 50%)\n[WhenUse] Na początku następnej tury nałóż 1 [Agility] 2 sojusznikom sąsiadującym tej jednostce na tablicy<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 jednostki jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 3 jednostki jednego z tych efektów: [Combustion], <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateobrażeńUp] 1 innemu sojusznikowi z najwyższym PP. <style=\"highlight\">Jeżeli efekt aktywowałsię na sojuszniku który jest członkiem Pierścienia, nałóż dodatkowo 1 [PenetrateResultUp]</style>"
+                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateDamageUp] 1 innemu sojusznikowi z najwyższym PP. <style=\"highlight\">Jeżeli efekt aktywowałsię na sojuszniku który jest członkiem Pierścienia, nałóż dodatkowo 1 [PenetrateResultUp]</style>"
                 }
               ]
             }
@@ -997,7 +997,7 @@
         {
           "level": 1,
           "name": "Garda",
-          "desc": "[WhenUse] Jeżeli cel posiada 10+ [Laceration], +3 Mocy Monet<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeżeli cel posiada 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +3 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -1005,7 +1005,7 @@
         {
           "level": 4,
           "name": "Garda",
-          "desc": "[WhenUse] Jeżeli cel posiada 10+ [Laceration], +7 Mocy Monet<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeżeli cel posiada 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +7 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -1259,19 +1259,19 @@
         {
           "level": 1,
           "name": "Zszywanie",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 10)\n[WhenUse] Skosztuj do 40 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 8 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj +2 Ilości [Laceration]<style=\"highlight\"></style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 10)\n[WhenUse] Skosztuj do 40 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 8 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1280,25 +1280,25 @@
         {
           "level": 2,
           "name": "Zszywanie",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 10)\n[WhenUse] Skosztuj do 40 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 8 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj +2 Ilości [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], +1 Mocy Monet</style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 10)\n[WhenUse] Skosztuj do 40 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 8 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóz 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóz 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>"
                 }
               ]
             }
@@ -1307,25 +1307,25 @@
         {
           "level": 4,
           "name": "Zszywanie",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 10)\n[WhenUse] Skosztuj do 40 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 8 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj +2 Ilości [Laceration]\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 [Laceration] na celu (maks 2)</style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 10)\n[WhenUse] Skosztuj do 40 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 8 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1339,25 +1339,25 @@
         {
           "level": 1,
           "name": "Rozcięcie",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 20)\n[WhenUse] Skosztuj do 60 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 6 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 20)\n[WhenUse] Skosztuj do 60 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 6 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1373,25 +1373,25 @@
         {
           "level": 2,
           "name": "Rozcięcie",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 20)\n[WhenUse] Skosztuj do 60 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 6 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], +1 Mocy Monet</style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 20)\n[WhenUse] Skosztuj do 60 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 6 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1407,25 +1407,25 @@
         {
           "level": 4,
           "name": "Rozcięcie",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 20)\n[WhenUse] Skosztuj do 60 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 6 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj 5 [Laceration]\n[WhenUse] Jeżeli cel posiada 6+ [Laceration], +1 Mocy Monet<style=\"highlight\"></style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 10% zadanych Obrażeń (maks 20)\n[WhenUse] Skosztuj do 60 [BloodDinner] i zyskaj 1 [BloodScissorPersonalityFirst] za każde 6 [BloodDinner] ta jednostka skosztowała\n- Jeżeli ta jednostka nie skosztowała [BloodDinner], zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Jeżeli cel posiada 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli cel posiada [LineCuttingPersonality], nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1446,26 +1446,26 @@
         {
           "level": 3,
           "name": "Przygotuję Ci Nową Suknię!",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 30% zadanych Obrażeń (maks 20)\n[BeforeAttack] Mając 10+ [BloodScissorPersonalityFirst], Waga Ataku +1\n[WhenUse] Jeżeli cel posiada 5+ [Laceration], +1 Mocy Monet\n[WhenUse] Moc Starcia +1 za każde 6 [Laceration] na celu (maks 2)\n[EndSkill] Zużyj 15 [BloodScissorPersonalityFirst] za każdą Wagę Ataku zyskaną\n[EndSkill] Jeżeli cel jest zabity, zwiększ [BloodDinner] o 10. Odnów połowę[BloodScissorPersonalityFirst] zużytą przez tą Umiejętność (raz na turę)<style=\"highlight\"></style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 30% zadanych Obrażeń (maks 20)\n[BeforeAttack] Mając 10+ [BloodScissorPersonalityFirst], Waga Ataku +1\n[WhenUse] Jeżeli cel posiada 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[WhenUse] Moc Starcia +1 za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[EndSkill] Zużyj 15 [BloodScissorPersonalityFirst] za każdą Wagę Ataku zyskaną\n[EndSkill] Jeżeli cel jest zabity, zwiększ [BloodDinner] o 10. Odnów połowę[BloodScissorPersonalityFirst] zużytą przez tą Umiejętność (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1481,26 +1481,26 @@
         {
           "level": 4,
           "name": "Przygotuję Ci Nową Suknię!",
-          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 30% zadanych Obrażeń (maks 20)\n[BeforeAttack] Mając 10+ [BloodScissorPersonalityFirst], Waga Ataku +1\n<style=\"highlight\">- Mając 20+ [BloodScissorPersonalityFirst], zastąp powyższy efekt z Wagą Ataku +2</style>\n[WhenUse] Jeżeli cel posiada 5+ [Laceration], +1 Mocy Monet\n[WhenUse] Moc Starcia +1 za każde 6 [Laceration] na celu (maks 2)\n[EndSkill] Skosztuj <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] za każdą Wagę Ataku zyskaną\n[EndSkill] Jeżeli cel jest zabity, zwiększ [BloodDinner] o <style=\"highlight\">20</style>. Odnów połowę[BloodScissorPersonalityFirst] zużytą przez tą Umiejętność (raz na turę)\n<style=\"highlight\">- Jeżeli cel to [LineCuttingPersonality], dodatkowo zwiększ [BloodDinner] o 20 lub więcej i zyskaj 5 [BloodScissorPersonalityFirst] (raz na turę)</style>",
+          "desc": "Przy uderzeniu tą Umiejętnością: ulecz HP równe 30% zadanych Obrażeń (maks 20)\n[BeforeAttack] Mając 10+ [BloodScissorPersonalityFirst], Waga Ataku +1\n<style=\"highlight\">- Mając 20+ [BloodScissorPersonalityFirst], zastąp powyższy efekt z Wagą Ataku +2</style>\n[WhenUse] Jeżeli cel posiada 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[WhenUse] Moc Starcia +1 za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[EndSkill] Skosztuj <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] za każdą Wagę Ataku zyskaną\n[EndSkill] Jeżeli cel jest zabity, zwiększ [BloodDinner] o <style=\"highlight\">20</style>. Odnów połowę[BloodScissorPersonalityFirst] zużytą przez tą Umiejętność (raz na turę)\n<style=\"highlight\">- Jeżeli cel to [LineCuttingPersonality], dodatkowo zwiększ [BloodDinner] o 20 lub więcej i zyskaj 5 [BloodScissorPersonalityFirst] (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -1521,12 +1521,12 @@
         {
           "level": 1,
           "name": "Jakże Niegrzecznie!",
-          "desc": "[WhenUse] Mając 10+ [BloodScissorPersonalityFirst], Moc Bazowa +1\n[WhenUse] Mając 5+ [Laceration], +1 Mocy Monet<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Mając 10+ [BloodScissorPersonalityFirst], Moc Bazowa +1\n[WhenUse] Mając 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1535,12 +1535,12 @@
         {
           "level": 4,
           "name": "Jakże Niegrzecznie!",
-          "desc": "[WhenUse] Mając 10+ [BloodScissorPersonalityFirst], Moc Bazowa +1<style=\"highlight\">\n- Mając 20+ [BloodScissorPersonalityFirst], zyskaj Moc Bazową +2 zamiast powyższego efektu</style>\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 [Laceration] na sobie (maks 3)</style>",
+          "desc": "[WhenUse] Mając 10+ [BloodScissorPersonalityFirst], Moc Bazowa +1<style=\"highlight\">\n- Mając 20+ [BloodScissorPersonalityFirst], zyskaj Moc Bazową +2 zamiast powyższego efektu</style>\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na sobie (maks 3)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2357,7 +2357,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel posiada PP, aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] na celu o 1\nJeśli cel posiada mniej niż 0 PP, Nałóż 1 [AzureTakeobrażeńUp] (raz na turę)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel posiada PP, aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] na celu o 1\nJeśli cel posiada mniej niż 0 PP, Nałóż 1 [AzureTakeDamageUp] (raz na turę)</style>"
                 }
               ]
             }
@@ -2409,14 +2409,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2425,19 +2425,19 @@
         {
           "level": 2,
           "name": "Stompanie",
-          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)</style>\n[WhenUse] Zyskaj 5 PP",
+          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)</style>\n[WhenUse] Zyskaj 5 PP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2446,19 +2446,19 @@
         {
           "level": 3,
           "name": "Stompanie",
-          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"</style>\n[WhenUse] Zyskaj 5 PP",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"</style>\n[WhenUse] Zyskaj 5 PP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Binding] na początku następnej tury (raz na turę)</style>"
@@ -2470,12 +2470,12 @@
         {
           "level": 4,
           "name": "Stompanie",
-          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], zamień Drugą Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color></style>\n[WhenUse] Zyskaj 5 PP",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], zamień Drugą Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color></style>\n[WhenUse] Zyskaj 5 PP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Podnieś Próg Zachwiania celu o 5</style>"
@@ -2485,7 +2485,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Binding] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
@@ -2507,21 +2507,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2530,12 +2530,12 @@
         {
           "level": 2,
           "name": "Nie Daj Się Temu Złamać!",
-          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)</style>\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis], przy trafieniu Monetą, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)</style>\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis], przy trafieniu Monetą, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)</style>"
@@ -2545,14 +2545,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2561,12 +2561,12 @@
         {
           "level": 3,
           "name": "Nie Daj Się Temu Złamać!",
-          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wybebeszenie\"</style>\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] <style=\"highlight\">lub [MiddleFatherSwordThreeOutis]</style>, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wybebeszenie\"</style>\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] <style=\"highlight\">lub [MiddleFatherSwordThreeOutis]</style>, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
@@ -2576,17 +2576,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 20%)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu)% finalnych obrażeń tej Monety (maks 20%)</style>"
                 }
               ]
             }
@@ -2595,12 +2595,12 @@
         {
           "level": 4,
           "name": "Nie Daj Się Temu Złamać!",
-          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wybebeszenie\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Zamień liczbę Monet równą [ReinforcedTatooSpiderOutis] w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>, zaczynając od Trzeciej Monety</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wybebeszenie\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Zamień liczbę Monet równą [ReinforcedTattooSpiderOutis] w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>, zaczynając od Trzeciej Monety</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
@@ -2610,7 +2610,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury (raz na turę)</style>"
@@ -2620,10 +2620,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu)% finalnych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2637,26 +2637,26 @@
         {
           "level": 3,
           "name": "Piętno Odwetu",
-          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie",
+          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 3)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2666,7 +2666,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2675,26 +2675,26 @@
         {
           "level": 4,
           "name": "Piętno Odwetu",
-          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\n<style=\"highlight\">Przy 6+ sumy A-Rezonansu Zazdrości, +1 Mocy Monety</style>\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n<style=\"highlight\">[WhenUse] Convert this Skill's Coins into [SuperCoin]s equal to [ReinforcedTattooSpiderOutis] on this unit, beginning with Coin 3</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, Zyskaj 1 [HitobrażeńUp] na początku następnej tury (raz na turę)</style>",
+          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 3)\n<style=\"highlight\">Przy 6+ sumy A-Rezonansu Zazdrości, +1 Mocy Monety</style>\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n<style=\"highlight\">[WhenUse] Zamień liczbę Monet równą [ReinforcedTattooSpiderOutis] w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>, zaczynając od Trzeciej Monety</style></style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] Jeśli ta Umiejętność została użyta jako Kontra, Zyskaj 1 [HitDamageUp] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2704,7 +2704,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             }
@@ -2723,7 +2723,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2744,7 +2744,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2765,7 +2765,7 @@
         {
           "level": 3,
           "name": "Wypatrosze Cię Jak Rybę",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2773,7 +2773,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania celu o 5"
@@ -2798,7 +2798,7 @@
         {
           "level": 4,
           "name": "Wypatrosze Cię Jak Rybę",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Laceration] przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2806,7 +2806,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania celu o <style=\"highlight\">10</style>"
@@ -2836,7 +2836,7 @@
         {
           "level": 3,
           "name": "Wybebeszanie [Lævateinn]",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\nJeśli cel posiada 4+ ([Combustion] + [Laceration]), +1 Mocy Finalnej\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\nJeśli cel posiada 4+ ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Finalnej\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2854,7 +2854,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2874,7 +2874,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2893,7 +2893,7 @@
         {
           "level": 4,
           "name": "Wybebeszenie [Lævateinn]",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\nJeśli cel posiada 4+ ([Combustion] + [Laceration]), +1 Mocy Finalnej\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\nJeśli cel posiada 4+ ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Finalnej\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2911,7 +2911,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2931,7 +2931,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2955,7 +2955,7 @@
         {
           "level": 3,
           "name": "Kompletna oraz Totalna Kremacja [Lævateinn]",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\nZadaj +1% obrażeń za każde 1 ([Combustion] + [Laceration]) na celu (maks 20%)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], +1 Mocy Monety\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Finalnej za każde 4 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 3)\nZadaj +1% obrażeń za każde 1 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 20%)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], +1 Mocy Monety\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie",
           "coinlist": [
             {
               "coindescs": [
@@ -2983,7 +2983,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2993,7 +2993,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -3003,10 +3003,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] zadaj obrażenia od Przebicia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przebicia równe ([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu)% finalnych obrażeń tej Monety (maks 25%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu)% finalnych obrażeń tej Monety (maks 25%)"
                 }
               ]
             }
@@ -3015,7 +3015,7 @@
         {
           "level": 4,
           "name": "Kompletna oraz Totalna Kremacja [Lævateinn]",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\nZadaj +1% obrażeń za każde 1 ([Combustion] + [Laceration]) na celu (maks <style=\"highlight\">40%</style>)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], +1 Mocy Monety\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Laceration] Potency przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, Zyskaj 1 [HitobrażeńUp] na początku następnej tury (raz na turę)</style>",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Finalnej za każde 4 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 3)\nZadaj +1% obrażeń za każde 1 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks <style=\"highlight\">40%</style>)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], +1 Mocy Monety\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 Nasilenia <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] Jeśli ta Umiejętność została użyta jako Kontra, Zyskaj 1 [HitDamageUp] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3043,10 +3043,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] obrażenia od Cięcia równe (([Combustion] na celu + [Laceration] na celu) x 2)% finalnych obrażeń tej Monety (maks 50%)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Cięcia równe (([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu) x 2)% finalnych obrażeń tej Monety (maks 50%)</style>"
                 }
               ]
             },
@@ -3056,10 +3056,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] obrażenia od Cięcia równe (([Combustion] na celu + [Laceration] na celu) x 2)% finalnych obrażeń tej Monety (maks 50%)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Cięcia równe (([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu) x 2)% finalnych obrażeń tej Monety (maks 50%)</style>"
                 }
               ]
             },
@@ -3069,10 +3069,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] zadaj obrażenia od Przebicia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przebicia równe ([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu)% finalnych obrażeń tej Monety (maks 25%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu)% finalnych obrażeń tej Monety (maks 25%)"
                 }
               ]
             }
@@ -3104,7 +3104,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -3124,7 +3124,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [VioletTakeobrażeńUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [VioletTakeDamageUp] na początku następnej tury"
                 }
               ]
             }
@@ -3151,7 +3151,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -3171,7 +3171,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [VioletTakeobrażeńUp] na początku następnej tury"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [VioletTakeDamageUp] na początku następnej tury"
                 }
               ]
             }
@@ -3185,7 +3185,7 @@
         {
           "level": 3,
           "name": "Zuch Dziewczyna. Rodzina Nie Zapomni Twojego Poświęcenia.",
-          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n[CantDuel]\n[CantChangeTarget]\nZewnętrzne efekty nie mogą wywołać powtórnego użycia tej Umiejętności, oraz ta Umiejętność nie aktywuje Umiejętności Defensywnych\n+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na głównym celu (maks 3)\n[WhenUse] +1 Mocy Finalnej oraz zadaj +10% obrażeń za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3, maks 100%)\n[WhenUse] Jeśli tożsamość Ishmael 'Dom Pająków: Pupil Środka' jest jednym z celów, zadaj +100% obrażeń\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie, po czym zyskaj 5 [ResentmentSpiderOutis]\n[EndSkill] Jeśli Sojusznik w którego mierzyła ta Umiejętność umrze z jej powodu, zyskaj 10 [ResentmentSpiderOutis]",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n[CantDuel]\n[CantChangeTarget]\nZewnętrzne efekty nie mogą wywołać powtórnego użycia tej Umiejętności, oraz ta Umiejętność nie aktywuje Umiejętności Defensywnych\n+1 Mocy Finalnej za każde 4 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na głównym celu (maks 3)\n[WhenUse] +1 Mocy Finalnej oraz zadaj +10% obrażeń za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3, maks 100%)\n[WhenUse] Jeśli tożsamość Ishmael 'Dom Pająków: Pupil Środka' jest jednym z celów, zadaj +100% obrażeń\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie, po czym zyskaj 5 [ResentmentSpiderOutis]\n[EndSkill] Jeśli Sojusznik w którego mierzyła ta Umiejętność umrze z jej powodu, zyskaj 10 [ResentmentSpiderOutis]",
           "coinlist": [
             {
               "coindescs": [
@@ -3199,7 +3199,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 3 [Combustion] oraz +2 Ilości [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration] oraz +2 Ilości [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> oraz +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe (100% finalnych obrażeń tej Monety)"
