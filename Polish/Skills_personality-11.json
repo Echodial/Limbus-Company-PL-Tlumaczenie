@@ -582,7 +582,7 @@
         {
           "level": 3,
           "name": "Koszmarny Pocisk: Wystrzał",
-          "desc": "Zadaj +0.5% Obrażeń za każde [Combustion] na celu (maks 15%)\n\n[BeforeAttack] Zyskaj 1 [FreischutzShotCount]\n- Strać (([FreischutzShotCount] -1)x5) SP\n- Waga Ataku staje się równa wartości [FreischutzShotCount]\n- Mając 10 lub mniej SP, 50% szans by zaatakować bez rozróżnienia\n\n[EndSkill] Jeżeli ta jednostka posiada 7 [FreischutzShotCount], zresetuj je do 0 (Liczy się jako zużycie reszty [Bullet])<style=\"highlight\"></style>",
+          "desc": "Zadaj +0.5% Obrażeń za każde [Combustion] na celu (maks 15%)\n\n[BeforeAttack] Zyskaj 1 [FreischutzShotCount]\n- Strać (([FreischutzShotCount] -1)x5) PP\n- Waga Ataku staje się równa wartości [FreischutzShotCount]\n- Mając 10 lub mniej PP, 50% szans by zaatakować bez rozróżnienia\n\n[EndSkill] Jeżeli ta jednostka posiada 7 [FreischutzShotCount], zresetuj je do 0 (Liczy się jako zużycie reszty [Bullet])<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -596,7 +596,7 @@
         {
           "level": 4,
           "name": "Koszmarny Pocisk: Wystrzał",
-          "desc": "<style=\"highlight\">Zadaj +1% Obrażeń za każde [Combustion] na celu (maks 30%)</style>\n\n[BeforeAttack] Zyskaj 1 [FreischutzShotCount]\n- Strać (([FreischutzShotCount] -1)x5) SP\n- Waga Ataku staje się równa wartości [FreischutzShotCount]\n- Mając 10 lub mniej SP, 50% szans by zaatakować bez rozróżnienia\n\n[EndSkill] Jeżeli ta jednostka posiada 7 [FreischutzShotCount], zresetuj je do 0 (Liczy się jako zużycie reszty [Bullet])",
+          "desc": "<style=\"highlight\">Zadaj +1% Obrażeń za każde [Combustion] na celu (maks 30%)</style>\n\n[BeforeAttack] Zyskaj 1 [FreischutzShotCount]\n- Strać (([FreischutzShotCount] -1)x5) PP\n- Waga Ataku staje się równa wartości [FreischutzShotCount]\n- Mając 10 lub mniej PP, 50% szans by zaatakować bez rozróżnienia\n\n[EndSkill] Jeżeli ta jednostka posiada 7 [FreischutzShotCount], zresetuj je do 0 (Liczy się jako zużycie reszty [Bullet])",
           "coinlist": [
             {
               "coindescs": [
@@ -615,7 +615,7 @@
         {
           "level": 1,
           "name": "Koszt Jednego Pocisku",
-          "desc": "[WhenUse] Zyskaj 1 [FreischutzShotCount] (Raz na turę)\n[EndSkillAll] Strać SP równe [FreischutzShotCount]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj 1 [FreischutzShotCount] (Raz na turę)\n[EndSkillAll] Strać PP równe [FreischutzShotCount]<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -623,7 +623,7 @@
         {
           "level": 4,
           "name": "Koszt Jednego Pocisku",
-          "desc": "[WhenUse] Zyskaj 1 [FreischutzShotCount] (Raz na turę)\n[WhenUse] Zyskaj Moc Końcową równą ([FreischutzShotCount] x2)\n[EndSkillAll] Strać SP równe [FreischutzShotCount]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj 1 [FreischutzShotCount] (Raz na turę)\n[WhenUse] Zyskaj Moc Końcową równą ([FreischutzShotCount] x2)\n[EndSkillAll] Strać PP równe [FreischutzShotCount]<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -962,7 +962,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 3 jednostki jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateDamageUp] 1 innemu sojusznikowi z najwyższym SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateobrażeńUp] 1 innemu sojusznikowi z najwyższym PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -983,7 +983,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 3 jednostki jednego z tych efektów: [Combustion], [Laceration], [Vibration], [Burst], lub [Sinking]. Efekt wybrany losowo.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateDamageUp] 1 innemu sojusznikowi z najwyższym SP. <style=\"highlight\">Jeżeli efekt aktywowałsię na sojuszniku który jest członkiem Pierścienia, nałóż dodatkowo 1 [PenetrateResultUp]</style>"
+                  "desc": "[EndSkill] Jeżeli cel jest zachwian bądź pokonany, na początku następnej tury nałóż 1 [PenetrateobrażeńUp] 1 innemu sojusznikowi z najwyższym PP. <style=\"highlight\">Jeżeli efekt aktywowałsię na sojuszniku który jest członkiem Pierścienia, nałóż dodatkowo 1 [PenetrateResultUp]</style>"
                 }
               ]
             }
@@ -2357,7 +2357,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel posiada SP, aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] na celu o 1\nJeśli cel posiada mniej niż 0 SP, Nałóż 1 [AzureTakeDamageUp] (raz na turę)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel posiada PP, aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] na celu o 1\nJeśli cel posiada mniej niż 0 PP, Nałóż 1 [AzureTakeobrażeńUp] (raz na turę)</style>"
                 }
               ]
             }
@@ -2391,6 +2391,818 @@
               "coindescs": [
                 {
                   "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stompanie",
+          "desc": "[WhenUse] Zyskaj 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Stompanie",
+          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)</style>\n[WhenUse] Zyskaj 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Stompanie",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"</style>\n[WhenUse] Zyskaj 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Binding] na początku następnej tury (raz na turę)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Stompanie",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], zamień Drugą Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color></style>\n[WhenUse] Zyskaj 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Podnieś Próg Zachwiania celu o 5</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Binding] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nie Daj Się Temu Złamać!",
+          "desc": "[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis], przy trafieniu Monetą, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nie Daj Się Temu Złamać!",
+          "desc": "<style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)</style>\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis], przy trafieniu Monetą, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Nie Daj Się Temu Złamać!",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wybebeszenie\"</style>\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] <style=\"highlight\">lub [MiddleFatherSwordThreeOutis]</style>, nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nie Daj Się Temu Złamać!",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wybebeszenie\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Zamień liczbę Monet równą [ReinforcedTatooSpiderOutis] w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>, zaczynając od Trzeciej Monety</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury (raz na turę)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Piętno Odwetu",
+          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Piętno Odwetu",
+          "desc": "+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\n<style=\"highlight\">At 6+ Envy A-Reson., +1 Mocy Monety</style>\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Kompletna oraz Totalna Kremacja\"\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] +1 Mocy Finalnej za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3)\n<style=\"highlight\">[WhenUse] Convert this Skill's Coins into [SuperCoin]s equal to [ReinforcedTattooSpiderOutis] on this unit, beginning with Coin 3</style>\n[WhenUse] Jeśli miecz tej jednostki jest w fazie [MiddleFatherSwordTwoOutis] lub [MiddleFatherSwordThreeOutis], nałóż [Combustion] równe bazowej liczbie <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> nakładanego przez tą Zdolność\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, Zyskaj 1 [HitobrażeńUp] na początku następnej tury (raz na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Łamanie Zasad",
+          "desc": "[StartBattle] Zyskaj 15% brakującego PŻ jako Tarczę (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Obniż Próg Zachwiania użytkownika o 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Łamanie Zasad",
+          "desc": "<style=\"highlight\">[StartBattle] Mając 6+ sumy A-Rezonansu Zazdrości, użyj jako kontry Zdolności \"Piętno Odwetu\" lub \"Kompletna oraz Totalna Kremacja\" (W pierwszej kolejności aktywuje się na Żetonach po lewej. Aktywuje się 2 razy na turę)</style>\n[StartBattle] Zyskaj <style=\"highlight\">30%</style> brakującego PŻ jako Tarczę (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Obniż Próg Zachwiania użytkownika o <style=\"highlight\">10</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Wypatrosze Cię Jak Rybę",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania celu o 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion] oraz +2 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wypatrosze Cię Jak Rybę",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + [Laceration]) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Laceration] przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania celu o <style=\"highlight\">10</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion] oraz +2 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Binding] <style=\"highlight\">oraz 1 [Paralysis]</style> na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Wybebeszanie [Lævateinn]",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\nJeśli cel posiada 4+ ([Combustion] + [Laceration]), +1 Mocy Finalnej\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wybebeszenie [Lævateinn]",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\nJeśli cel posiada 4+ ([Combustion] + [Laceration]), +1 Mocy Finalnej\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[WhenUse] Zyskaj +5 [Aggro] dla tego Żetonu Zdolności na początku następnej tury\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] <style=\"highlight\">oraz 1 [Paralysis]</style> na początku następnej tury (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Kompletna oraz Totalna Kremacja [Lævateinn]",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\nZadaj +1% obrażeń za każde 1 ([Combustion] + [Laceration]) na celu (maks 20%)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], +1 Mocy Monety\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] zadaj obrażenia od Przebicia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kompletna oraz Totalna Kremacja [Lævateinn]",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na celu (maks 3)\nZadaj +1% obrażeń za każde 1 ([Combustion] + [Laceration]) na celu (maks <style=\"highlight\">40%</style>)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans) (maks 6)\n[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], +1 Mocy Monety\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 [Laceration] Potency przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, Zyskaj 1 [HitobrażeńUp] na początku następnej tury (raz na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] obrażenia od Cięcia równe (([Combustion] na celu + [Laceration] na celu) x 2)% finalnych obrażeń tej Monety (maks 50%)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] obrażenia od Cięcia równe (([Combustion] na celu + [Laceration] na celu) x 2)% finalnych obrażeń tej Monety (maks 50%)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] zadaj obrażenia od Przebicia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe ([Combustion] na celu + [Laceration] na celu)% finalnych obrażeń tej Monety (maks 25%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Czas na Unboxing!",
+          "desc": "Zewnętrzne efekty nie mogą wywołać powtórnego użycia tej Umiejętności\n[EndSkill] Zdejmij jedną pieczęć z Miecza",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania celu o 10"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [VioletTakeobrażeńUp] na początku następnej tury"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Czas na Unboxing!",
+          "desc": "Zewnętrzne efekty nie mogą wywołać powtórnego użycia tej Umiejętności\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], zadaj obrażenia od Cięcia równe (25% finalnych obrażeń każdej Monety) przy Trafieniu Monety</style>\n[EndSkill] Zdejmij jedną pieczęć z Miecza",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania celu o 10"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [VioletTakeobrażeńUp] na początku następnej tury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111509,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Zuch Dziewczyna. Rodzina Nie Zapomni Twojego Poświęcenia.",
+          "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n[CantDuel]\n[CantChangeTarget]\nZewnętrzne efekty nie mogą wywołać powtórnego użycia tej Umiejętności, oraz ta Umiejętność nie aktywuje Umiejętności Defensywnych\n+1 Mocy Finalnej za każde 4 ([Combustion] + [Laceration]) na głównym celu (maks 3)\n[WhenUse] +1 Mocy Finalnej oraz zadaj +10% obrażeń za każde [ReinforcedTattooSpiderOutis] na sobie (maks 3, maks 100%)\n[WhenUse] Jeśli tożsamość Ishmael 'Dom Pająków: Pupil Środka' jest jednym z celów, zadaj +100% obrażeń\n[EndSkill] Zużyj całe [ResentmentSpiderOutis] na sobie, po czym zyskaj 5 [ResentmentSpiderOutis]\n[EndSkill] Jeśli Sojusznik w którego mierzyła ta Umiejętność umrze z jej powodu, zyskaj 10 [ResentmentSpiderOutis]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jeśli Wytrzymałość na Uderzenie celu jest poniżej \"Zwykła\" (1.0), traktuj ją jakby była \"Zwykła\" (1.0)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion] oraz +2 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration] oraz +2 Ilości [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Udeżenia równe (100% finalnych obrażeń tej Monety)"
                 }
               ]
             }
