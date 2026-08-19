@@ -3078,7 +3078,7 @@
                   "desc": "[ReUseOnSucceedAttack] Nałóż 1 [Combustion]"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (once per Skill)"
+                  "desc": "[ReUseOnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (raz na Zdolność)"
                 }
               ]
             }
@@ -3105,7 +3105,7 @@
                   "desc": "[ReUseOnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (raz na Zdolność)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3132,7 +3132,7 @@
                   "desc": "[ReUseOnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (raz na Zdolność)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3146,7 +3146,7 @@
         {
           "level": 3,
           "name": "Wystrzał",
-          "desc": "[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], aktywuj w zamian \"Wystrzał - Samo Południe[TabExplain]\" (raz na turę)\n[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Vibration]), +1 Mocy Monet\n[WhenUse] Zyskaj 5 [StigmaWorkshopCelloCaseOne]\n[WhenUse] Za każde 10 [StigmaWorkshopCelloCaseOne], ta Umiejętność zyskuje raz następujące efekty:\n- +1 Mocy Starcia (maks 2)\n- Nałóż +1 Ilości [Combustion] (maks 2)\n- Nałóż +1 Ilości [Vibration] (maks 2)\n- Użyj ponownie finalną Monetę (2 razy na Umiejętność)",
+          "desc": "[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], zamiast tej zdolności użyj \"Wystrzał - Samo Południe[TabExplain]\" (raz na turę)\n[WhenUse] Jeśli cel posiada 6+ ([Combustion] + [Vibration]), +1 Mocy Monet\n[WhenUse] Zyskaj 5 [StigmaWorkshopCelloCaseOne]\n[WhenUse] Za każde 10 [StigmaWorkshopCelloCaseOne], ta Umiejętność zyskuje raz następujące efekty:\n- +1 Mocy Starcia (maks 2)\n- Nałóż +1 Ilości [Combustion] (maks 2)\n- Nałóż +1 Ilości [Vibration] (maks 2)\n- Użyj ponownie finalną Monetę (2 razy na Umiejętność)",
           "coinlist": [
             {
               "coindescs": [
@@ -3165,7 +3165,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (2 razy na Umiejętność)"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (2 razy na Umiejętność)"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] Nałóż 1 [Combustion]"
@@ -3177,7 +3177,7 @@
         {
           "level": 4,
           "name": "Wystrzał",
-          "desc": "[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], aktywuj w zamian \"Wystrzał - Samo Południe[TabExplain]\" (raz na turę)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WhenUse] Zyskaj <style=\"highlight\">8</style> [StigmaWorkshopCelloCaseOne]\n[WhenUse] Za każde 10 [StigmaWorkshopCelloCaseOne], ta Umiejętność zyskuje raz następujące efekty:\n- +1 Mocy Starcia (maks <style=\"highlight\">3</style>)\n- Nałóż +1 Ilości [Combustion] (maks <style=\"highlight\">3</style>)\n- Nałóż +1 Ilości [Vibration] (maks <style=\"highlight\">3</style>)\n- Użyj ponownie finalną Monetę (2 razy na Umiejętność)",
+          "desc": "[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], zamiast tej zdolności użyj \"Wystrzał - Samo Południe[TabExplain]\" (raz na turę)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WhenUse] Zyskaj <style=\"highlight\">8</style> [StigmaWorkshopCelloCaseOne]\n[WhenUse] Za każde 10 [StigmaWorkshopCelloCaseOne], ta Umiejętność zyskuje raz następujące efekty:\n- +1 Mocy Starcia (maks <style=\"highlight\">3</style>)\n- Nałóż +1 Ilości [Combustion] (maks <style=\"highlight\">3</style>)\n- Nałóż +1 Ilości [Vibration] (maks <style=\"highlight\">3</style>)\n- Użyj ponownie finalną Monetę (2 razy na Umiejętność)",
           "coinlist": [
             {
               "coindescs": [
@@ -3196,7 +3196,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (<style=\"highlight\">3</style> razy na Umiejętność)"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (<style=\"highlight\">3</style> razy na Umiejętność)"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
@@ -3234,7 +3234,7 @@
         {
           "level": 3,
           "name": "Płomienny Stygmat Wyzwolonego Motyla",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], aktywuj w zamian \"Cwiartowanie w Samo Południe[TabExplain]\" (raz na turę)\n- Jeśli ta jednostka posiada [CaseOverheating], the effect above does not aktywuj w zamian\n[WhenUse] Posiadając 5+ [Combustion], +1 Mocy Monet</style>\n[WhenUse] Strać 5 [Combustion] (raz na turę)\n[WinDuel] Strać 3 [Combustion] (raz na turę)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], zamiast tej zdolności użyj \"Cwiartowanie w Samo Południe[TabExplain]\" (raz na turę)\n- Jeśli ta jednostka posiada [CaseOverheating], powyższy efekt nie aktywuje się\n[WhenUse] Posiadając 5+ [Combustion], +1 Mocy Monet</style>\n[WhenUse] Strać 5 [Combustion] (raz na turę)\n[WinDuel] Strać 3 [Combustion] (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -3255,7 +3255,7 @@
         {
           "level": 4,
           "name": "Płomienny Stygmat Wyzwolonego Motyla",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Zyskaj 6 [StigmaWorkshopCelloCaseOne] (once per Encounter)</style>\n[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], aktywuj w zamian \"Cwiartowanie w Samo Południe[TabExplain]\" (raz na turę)\n- Jeśli ta jednostka posiada [CaseOverheating], the effect above does not aktywuj w zamian\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 [Combustion] na sobie (maks 2)</style>\n[WhenUse] Strać 5 [Combustion] (raz na turę)\n[WinDuel] Strać 3 [Combustion] (raz na turę)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Zyskaj 6 [StigmaWorkshopCelloCaseOne] (raz na Potyczkę)</style>\n[BeforeUse] Posiadając 30 [StigmaWorkshopCelloCaseOne], zamiast tej zdolności użyj \"Cwiartowanie w Samo Południe[TabExplain]\" (raz na turę)\n- Jeśli ta jednostka posiada [CaseOverheating], powyższy efekt nie aktywuje się\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 [Combustion] na sobie (maks 2)</style>\n[WhenUse] Strać 5 [Combustion] (raz na turę)\n[WinDuel] Strać 3 [Combustion] (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -3374,7 +3374,7 @@
                   "desc": "Użyj tej Monety Ponownie (maks 2 razy)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (2 razy na Umiejętność)"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (2 razy na Umiejętność)"
                 }
               ]
             }
@@ -3411,7 +3411,7 @@
                   "desc": "<style=\"highlight\">Jeśli ta jednostka posiada [Firstlight], zadaj +(Nasilenie [Combustion] na celu / 2)% obrażeń (maks 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (<style=\"highlight\">3</style> razy na Umiejętność)"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (<style=\"highlight\">3</style> razy na Umiejętność)"
                 }
               ]
             }
@@ -3450,7 +3450,7 @@
                   "desc": "Użyj tej Monety Ponownie (maks 2 razy)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (2 razy na Umiejętność)"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (2 razy na Umiejętność)"
                 }
               ]
             }
@@ -3487,7 +3487,7 @@
                   "desc": "<style=\"highlight\">Jeśli ta jednostka posiada [Firstlight], zadaj +(Nasilenie [Combustion] na celu)% obrażeń (maks 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; Następnie, Zmniejsz Ilość [Vibration] o 1 (<style=\"highlight\">3</style> razy na Umiejętność)"
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość [Vibration] o 1 (<style=\"highlight\">3</style> razy na Umiejętność)"
                 }
               ]
             }
