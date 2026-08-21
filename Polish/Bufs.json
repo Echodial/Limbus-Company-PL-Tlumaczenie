@@ -604,8 +604,8 @@
     },
     {
       "id": "Bullet",
-      "name": "Amunicja",
-      "desc": "Zużywana przez niektóre zdolności. Niektóre ataki mogą zostac anulowane, jeśli brakuje im amunicji.",
+      "name": "Nabój",
+      "desc": "Zużywana przez niektóre zdolności. Niektóre ataki mogą zostac anulowane, jeśli brakuje im naboi.",
       "summary": "Zużywana przez Zdolności"
     },
     {
@@ -2333,7 +2333,7 @@
     },
     {
       "id": "Bullet_LogicAtelier",
-      "name": "Amunicja - Atelier Logic",
+      "name": "Nabój - Atelier Logic",
       "desc": "Specjalna Amunicja\n Specjalne Naboje Warsztatu Atelier Logic\n- Ta amunicja nie może być zyskana lub stracona z powodu zewnętrznych czynników"
     },
     {
