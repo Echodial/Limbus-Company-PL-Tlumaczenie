@@ -62,7 +62,7 @@
     },
     {
       "id": 20503,
-      "name": "Pogoń",
+      "name": "Prawomocność",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "id": 20905,
-      "name": "Pogoń",
+      "name": "Prawomocność",
       "desc": "Rodion’s E.G.O Gear"
     },
     {
@@ -534,6 +534,26 @@
       "id": 20210,
       "name": "Gwiazda Płomiennego Rozkwitu",
       "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20909,
+      "name": "Into the Sunset",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20509,
+      "name": "Shadow-vested Bladesinger [着影揮刀]",
+      "desc": "Meursault’s E.G.O Gear"
+    },
+    {
+      "id": 20109,
+      "name": "Solemn Lament",
+      "desc": "Yi Sang’s E.G.O Gear"
+    },
+    {
+      "id": 20310,
+      "name": "I'll Go fer Scissors. How 'Bout You?",
+      "desc": "Don Quixote’s E.G.O Gear"
     }
   ]
 }

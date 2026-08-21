@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "UnitKeyword_BLADE_LINEAGE",
-      "content": "Blade Lineage"
+      "content": "Rodowód Ostrza"
     },
     {
       "id": "UnitKeyword_BLACK_CLOUD",
-      "content": "Kurokumo Clan"
+      "content": "Klan Kurokumo"
     },
     {
       "id": "UnitKeyword_YURODIVY",
-      "content": "Yurodiviye"
+      "content": "Yurodiviy"
     },
     {
       "id": "UnitKeyword_MACHINE_BOUND_ORGANISM",
-      "content": "Mechanical Amalgam"
+      "content": "Mechaniczny Amalgamat"
     },
     {
       "id": "UnitKeyword_ON_THE_LAKE",
-      "content": "Lake Entity"
+      "content": "Byt Z Jeziora"
     },
     {
       "id": "UnitKeyword_N_CORP",
@@ -46,67 +46,67 @@
     },
     {
       "id": "UnitKeyword_SEVEN",
-      "content": "Seven Association"
+      "content": "Stowarzyszenie Seven"
     },
     {
       "id": "UnitKeyword_CINQ",
-      "content": "Cinq Association"
+      "content": "Stowarzyszenie Cinq"
     },
     {
       "id": "UnitKeyword_ZWEI",
-      "content": "Zwei Association"
+      "content": "Stowarzyszenie Zwei"
     },
     {
       "id": "UnitKeyword_LIU",
-      "content": "Liu Association"
+      "content": "Stowarzyszenie Liu"
     },
     {
       "id": "UnitKeyword_SHI",
-      "content": "Shi Association"
+      "content": "Stowarzyszenie Shi"
     },
     {
       "id": "UnitKeyword_DIECI",
-      "content": "Dieci Association"
+      "content": "Stowarzyszenie Dieci"
     },
     {
       "id": "UnitKeyword_OUFI",
-      "content": "Öufi Association"
+      "content": "Stowarzyszenie Öufi"
     },
     {
       "id": "UnitKeyword_TROUBLE_SHOOTER",
-      "content": "Rosespanner Workshop"
+      "content": "Warsztat Rosespanner"
     },
     {
       "id": "UnitKeyword_ATL",
-      "content": "Technology Liberation Alliance"
+      "content": "Liga Wyzwolenia Technologii"
     },
     {
       "id": "UnitKeyword_MOLAR",
-      "content": "Molar Office"
+      "content": "Zazębione Biuro"
     },
     {
       "id": "UnitKeyword_MIDDLE_FINGER",
-      "content": "The Middle"
+      "content": "Śodek"
     },
     {
       "id": "UnitKeyword_RING_FINGER",
-      "content": "The Ring"
+      "content": "Pierścień"
     },
     {
       "id": "UnitKeyword_PEQUOD_CREW",
-      "content": "The Pequod"
+      "content": "Pequod"
     },
     {
       "id": "UnitKeyword_WUTHERING_HEIGHTS",
-      "content": "Wuthering Heights"
+      "content": "Wichrowe Wzgórza"
     },
     {
       "id": "UnitKeyword_DEAD_RABBITS",
-      "content": "The Dead Rabbits"
+      "content": "MArtwe Zające"
     },
     {
       "id": "UnitKeyword_WILD_HUNT",
-      "content": "The Wild Hunt"
+      "content": "Dziki Gon"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY",
@@ -114,7 +114,7 @@
     },
     {
       "id": "UnitKeyword_KONG_KONG",
-      "content": "Tingtang Gang"
+      "content": "Gang Tingtang"
     },
     {
       "id": "UnitKeyword_MARIACHI",
@@ -122,19 +122,19 @@
     },
     {
       "id": "UnitKeyword_HOOK_OFFICE",
-      "content": "Hook Office"
+      "content": "Biuro Sierpu"
     },
     {
       "id": "UnitKeyword_DUAL_HOOK_PIRATE",
-      "content": "Twinhook Pirates"
+      "content": "Piraci Dwóch Haków"
     },
     {
       "id": "UnitKeyword_DAWN",
-      "content": "Dawn Office"
+      "content": "Biuro Brzasku"
     },
     {
       "id": "UnitKeyword_MULTI_CRACK",
-      "content": "MultiCrack Office"
+      "content": "Biuro WieloTrzask"
     },
     {
       "id": "UnitKeyword_BACKSTREET_COOK",
@@ -142,47 +142,47 @@
     },
     {
       "id": "UnitKeyword_TIEQIU",
-      "content": "Tieqiu Crew"
+      "content": "Ekipa Tieqiu"
     },
     {
       "id": "UnitKeyword_LINTON",
-      "content": "Edgar Family"
+      "content": "Rodzina Edgar"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_HEAD",
-      "content": "Lobotomy Corp. Headquarters"
+      "content": "Centrala Lobotomy Corp."
     },
     {
       "id": "UnitKeyword_LOBOTOMY_BRANCH",
-      "content": "Lobotomy Corp. Branch"
+      "content": "Filia Lobotomy Corp."
     },
     {
       "id": "UnitKeyword_FIXER",
-      "content": "Fixer"
+      "content": "Fachowiec"
     },
     {
       "id": "UnitKeyword_CLAN",
-      "content": "Syndicate"
+      "content": "Szajka"
     },
     {
       "id": "UnitKeyword_WHITE_PARASITE",
-      "content": "Pallidified"
+      "content": "Zbledzeni"
     },
     {
       "id": "UnitKeyword_N_CORP_FNATIC",
-      "content": "N Corp. Fanatic"
+      "content": "Fanatyk N Corp."
     },
     {
       "id": "UnitKeyword_BACK_STREET",
-      "content": "The Backstreets"
+      "content": "Tylne Uliczki"
     },
     {
       "id": "UnitKeyword_DEVYAT",
-      "content": "Devyat' Association"
+      "content": "Stowarzyszenie Devyat'"
     },
     {
       "id": "UnitKeyword_LA_MANCHA_LAND",
-      "content": "La Manchaland"
+      "content": "La Manczaland"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCE",
@@ -198,15 +198,15 @@
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_RABBIT",
-      "content": "Heishou Pack - Mao Branch"
+      "content": "Stado Heishou - Oddział Mao"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST",
-      "content": "Heishou Pack"
+      "content": "Stado Heishou"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_SNAKE",
-      "content": "Heishou Pack - Si Branch"
+      "content": "Stado Heishou - Oddział Si"
     },
     {
       "id": "UnitKeyword_THUMB_LEVEL_CAPO_FOUR",
@@ -222,11 +222,11 @@
     },
     {
       "id": "UnitKeyword_EGO_EQUIPMENT",
-      "content": "E.G.O Gear"
+      "content": "Sprzęt E.G.O"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_CHIEF",
-      "content": "Heishou Pack Adept"
+      "content": "Wyróżniony Stada Heishou"
     },
     {
       "id": "UnitKeyword_H_CORP",
@@ -234,43 +234,43 @@
     },
     {
       "id": "UnitKeyword_ERROR",
-      "content": "<color=#d40000><s>Jia Family</s></color>"
+      "content": "<color=#d40000><s>Rodzina Jia</s></color>"
     },
     {
       "id": "UnitKeyword_FAMILY_GA_CANCELED",
-      "content": "<color=#d40000><s>Jia Family</s></color>"
+      "content": "<color=#d40000><s>Rodzina Jia</s></color>"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_HORSE",
-      "content": "Heishou Pack - Wu Branch"
+      "content": "Stado Heishou - Oddział Wu"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_CHICKEN",
-      "content": "Heishou Pack - You Branch"
+      "content": "Stado Heishou - Oddział You"
     },
     {
       "id": "UnitKeyword_FAMILY_GA_HIERARCH",
-      "content": "Family Hierarch"
+      "content": "Hierarcha Rodziny"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_CHIEF_FORMER",
-      "content": "<color=#d40000><s>Heishou Pack Adept</s></color>"
+      "content": "<color=#d40000><s>Wyróżniony Stada Heishou</s></color>"
     },
     {
       "id": "UnitKeyword_NIGHTSTILETTO",
-      "content": "Night Awls"
+      "content": "Nocni Szewcy"
     },
     {
       "id": "UnitKeyword_JEONG_OFFICE",
-      "content": "Jeong's Office"
+      "content": "Office Jeong"
     },
     {
       "id": "UnitKeyword_OUFI_COOP",
-      "content": "Associate Office - Öufi"
+      "content": "Biuro Partnerskie - Öufi"
     },
     {
       "id": "UnitKeyword_BLACK_BEAST_SHEEP",
-      "content": "Heishou Pack - Wei Branch"
+      "content": "Stado Heishou - Oddział Wei"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCA",
@@ -279,6 +279,58 @@
     {
       "id": "UnitKeyword_TRUST_AGENT",
       "content": "The Oracle's Proxy"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_MAESTRO",
+      "content": "Maestro"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_DOCENT",
+      "content": "Docent"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_STUDENT",
+      "content": "Student"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_FAUVISM",
+      "content": "School of Fauvism"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_POINTILLISM",
+      "content": "School of Pointillism"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_PHYSICAL",
+      "content": "School of Corporism"
+    },
+    {
+      "id": "UnitKeyword_FINGER_CANCELED",
+      "content": "<s>The Fingers</s>"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER_CANCELED",
+      "content": "<s>The Middle</s>"
+    },
+    {
+      "id": "UnitKeyword_SPIDER_HOUSE_CANCELED",
+      "content": "<s>The House of Spiders</s>"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED",
+      "content": "LCE?"
+    },
+    {
+      "id": "UnitKeyword_DIHUI_STAR",
+      "content": "Dihui Star"
+    },
+    {
+      "id": "UnitKeyword_DIHUI_STAR_CANCELED",
+      "content": "<color=#d40000><s>Dihui Star</s></color>"
+    },
+    {
+      "id": "UnitKeyword_BIG_SISTER_PAST",
+      "content": "<color=#d40000><s>Great Sister</s></color>"
     }
   ]
 }
