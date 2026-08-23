@@ -29,7 +29,7 @@
     {
       "id": 5,
       "model": "파우스트",
-      "content": "Podczas gdy my będziemy postępowac nasze zlecenie zebrania Złotych Gałązek, tłumienie będzie słabnąć. Nawet jeśli to była prosta walka…"
+      "content": "Podczas gdy my będziemy zbierać Złote Gałązki, tłumienie będzie słabnąć. Nawet jeśli to była prosta walka…"
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "…Patrzcie tam."
     },
     {
@@ -98,8 +98,8 @@
       "id": 19,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
-      "content": "…I po upływie czasu, wykluje się."
+      "title": "Fachowiec Klasy 8",
+      "content": "…Z której po upływie pewnego czasu wykluje się anomalia."
     },
     {
       "id": 20,
@@ -120,7 +120,7 @@
       "id": 23,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "Jako pracownik, moim zadaniem było włożyć rdzeń z powrotem do jego jednostki przechowawczej… Teraz jest inaczej."
     },
     {
@@ -137,7 +137,7 @@
       "id": 26,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "No tak… To był After Team? Coś o nich słyszałam przy spotkaniu orientacyjnym."
     },
     {
