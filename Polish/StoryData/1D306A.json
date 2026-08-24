@@ -7,11 +7,11 @@
     },
     {
       "id": 1,
-      "content": "Jednak Yuri którą znamy zawsze była przygarbiona."
+      "content": "Jednak Yuri, którą znamy, zawsze była przygarbiona."
     },
     {
       "id": 2,
-      "content": "Wiecznie pohylona, jak gdyby na jej ramionach, jako jedynej, która przeżyła, ciążyła pamięć o jej martwych współpracownikach."
+      "content": "Wiecznie pochylona, jak gdyby na jej ramionach, jako jedynej, która przeżyła, ciążyła pamięć o jej martwych współpracownikach."
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
     {
       "id": 5,
       "model": "그레고르",
-      "content": "…Ta, mi też się tak wydaje."
+      "content": "…Ta, też mi się tak wydaje."
     },
     {
       "id": 6,
@@ -43,7 +43,7 @@
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "Nie chciałam umierać."
     },
     {
@@ -64,7 +64,7 @@
       "id": 13,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "Nikt z nas nie chciał umrzeć."
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "id": 26,
-      "content": "Gdy odcięta ręka upada na podłogę, kobieta osuwa się po ścianie, chwitając oddech."
+      "content": "Gdy odcięta ręka upada na podłogę, kobieta osuwa się po ścianie, chwytając oddech."
     },
     {
       "id": 27,
@@ -150,12 +150,12 @@
     },
     {
       "id": 30,
-      "content": "Odrośnięta ręka rzuca się do przodu, jak gdyby pamiętając ból, który został jej przed chwilą zadany."
+      "content": "Odrośnięta ręka rzuca się do przodu, jak gdyby pamiętała ból, który został jej przed chwilą zadany."
     },
     {
       "id": 31,
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "……"
     },
     {
@@ -172,13 +172,13 @@
     {
       "id": 34,
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "……"
     },
     {
       "id": 35,
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "Co innego miałam zrobić? Czy to źle, że przeżyłam?"
     },
     {
@@ -189,7 +189,7 @@
     {
       "id": 37,
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "……"
     },
     {
@@ -215,7 +215,7 @@
     {
       "id": 42,
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "Nhh… Aah…"
     },
     {
@@ -255,7 +255,7 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Że my też potrzebujemy teych gałązek; a wy jesteście w stanie je znaleźć."
+      "content": "Że my też potrzebujemy tych gałązek; a wy jesteście w stanie je znaleźć."
     },
     {
       "id": 50,
@@ -309,7 +309,7 @@
       "model": "가환",
       "teller": "Jia Huan",
       "title": "???",
-      "content": "Masz świadomość jak okropnie śmierdzi twoje ubranie? Gdyby tylko rodzina widziała w jakim jesteś opłakanym stanie."
+      "content": "Masz świadomość jak okropnie śmierdzi twoje ubranie? Gdyby tylko rodzina widziała, w jakim jesteś opłakanym stanie."
     },
     {
       "id": 59,
@@ -328,12 +328,12 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Nie zainwestowałam tyle w ciebie, żeby teraz patrzeć na ciebie w tym stanie."
+      "content": "Nie zainwestowałam tyle w ciebie, żeby teraz widzieć cię w takim stanie."
     },
     {
       "id": 62,
       "model": "그레고르",
-      "content": "Nigdy o to nie prosiłem… Ani raz…"
+      "content": "Nigdy o to nie prosiłem… Ani razu…"
     },
     {
       "id": 63,
@@ -358,7 +358,7 @@
     },
     {
       "id": 66,
-      "content": "Mężczyzna imieniem Jia Huan dwa razy klasnął."
+      "content": "Mężczyzna imieniem Jia Huan klasnął dwa razy."
     },
     {
       "id": 67,
@@ -378,14 +378,14 @@
     },
     {
       "id": 71,
-      "place": "Na pokładzie Mefistofolesa",
+      "place": "Na pokładzie Mefistofelesa",
       "model": "베르길리우스",
       "content": "A myślałem, że to będzie dla was prosta misja."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "Ale na pewno macie tupet, pokazywać siętutaj po tym, jak pozwoliliście, żeby zwinąć wam Złotą Gałązkę tuż sprzed oczu."
+      "content": "Zdecydowanie pewno macie tupet, pokazywać się tutaj po tym, jak pozwoliliście, żeby zwinąć wam Złotą Gałązkę tuż sprzed oczu."
     },
     {
       "id": 73,
@@ -449,7 +449,7 @@
     {
       "id": 85,
       "model": "베르길리우스",
-      "content": "Jeszcze po wynajęciu Fixerów do pomocy."
+      "content": "Jeszcze po wynajęciu Fachowców do pomocy."
     },
     {
       "id": 86,
@@ -514,7 +514,7 @@
     {
       "id": 98,
       "model": "오티스",
-      "content": "Czy to na pewno twoje oczekiwania nie były zbyt wysokie jak na pierwszą misję? Wiedz, że nasz Kierownik spisało się niezarzeczalnie wybitnie."
+      "content": "Czy to na pewno twoje oczekiwania nie były zbyt wysokie jak na pierwszą misję? Wiedz, że przewodnictwo Kierownika było niezarzeczalnie wybitne."
     },
     {
       "id": 99,
@@ -557,7 +557,7 @@
     },
     {
       "id": 108,
-      "content": "Po czyn nagel wstał, wyjął coś z kieszeni i zawiesił to przy przedniej szybie busa."
+      "content": "Po czym nagle wstał, wyjął coś z kieszeni i zawiesił to przy przedniej szybie busa."
     },
     {
       "id": 109,
@@ -618,7 +618,7 @@
     },
     {
       "id": 121,
-      "content": "A na przedniej szybie zwisiała ozdobnie maska gazowa."
+      "content": "A na przedniej szybie zwisała ozdobnie maska gazowa."
     },
     {
       "id": 122
