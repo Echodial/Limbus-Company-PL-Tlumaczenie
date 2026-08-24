@@ -5,8 +5,8 @@
       "place": "Centralny Front Wojny Smogowej",
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
-      "content": "Guh… Chyba będę żygać. Wszystko się chwieje…"
+      "title": "Fachowiec Klasy 8",
+      "content": "Guh… Chyba będę rzygać. Wszystko się chwieje…"
     },
     {
       "id": 1,
@@ -41,7 +41,7 @@
     {
       "id": 7,
       "model": "그레고르",
-      "content": "Wiem, jak mogę stąd wyjść."
+      "content": "Wiem, jak stąd wyjść."
     },
     {
       "id": 8,
@@ -76,12 +76,12 @@
     {
       "id": 14,
       "model": "그레고르",
-      "content": "Nie pamiętam już dlaczego to zrobiłem."
+      "content": "Nie pamiętam już, dlaczego to zrobiłem."
     },
     {
       "id": 15,
       "model": "그레고르",
-      "content": "Może byłem już wycieńczony mentlalnie."
+      "content": "Może byłem już wycieńczony mentalnie."
     },
     {
       "id": 16,
