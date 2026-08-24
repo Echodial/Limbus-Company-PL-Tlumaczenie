@@ -4,12 +4,12 @@
       "id": 0,
       "place": "Dystrykt 4 - Wnętrze Filii LC",
       "model": "로쟈",
-      "content": "Podłoga tego piętra jest pełna larw."
+      "content": "Strasznie tu dużo robaków."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<W porównaniu do Anomalii z poprzedniego piętra te robaki wcale nie są takie złe. Raczej wolałobym, jakbyśmy nie musieli czegoś takiego powtarzać.>"
+      "content": "<W porównaniu do Anomalii z poprzedniego piętra, te larwy wcale nie są takie złe. Raczej wolałobym, jakbyśmy nie musieli czegoś takiego powtarzać.>"
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "id": 9,
       "model": "유리",
       "teller": "Yuri",
-      "title": "Fixer Klasy 8",
+      "title": "Fachowiec Klasy 8",
       "content": "Czekaj, chwila, to jednostka przechowawcza…!"
     },
     {
@@ -72,7 +72,7 @@
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "Czy my… cofneliśmy się w czasie?"
+      "content": "Czy my… cofnęliśmy się w czasie?"
     },
     {
       "id": 15,
@@ -80,7 +80,7 @@
     },
     {
       "id": 16,
-      "content": "Dochodzące ze wszystkich stron krzyki i jęki splatają się w okropną kakofonię.."
+      "content": "Dochodzące ze wszystkich stron krzyki splatają się w okropną kakofonię.."
     },
     {
       "id": 17,
@@ -130,12 +130,12 @@
     {
       "id": 26,
       "model": "오티스",
-      "content": "Każdy z działającą parą oczu wie, gdzie to jest."
+      "content": "Każdy z działającą parą oczu rozpoznałby to miejsce."
     },
     {
       "id": 27,
       "model": "단테",
-      "content": "<Uhhh, Znaczy bo… ja… nie wiem>"
+      "content": "<Uhhh, Znaczy, bo… ja… nie wiem>"
     },
     {
       "id": 28,
@@ -172,7 +172,7 @@
     },
     {
       "id": 35,
-      "content": "Nagle, ktoś podszedł do nas od tyłu i pociągnął za koszulę Hethcliffa."
+      "content": "Nagle, ktoś podszedł do nas od tyłu i pociągnął za koszulę Heathcliffa."
     },
     {
       "id": 36,
@@ -216,13 +216,13 @@
       "id": 43,
       "teller": "Tomah",
       "title": "Wspomnienie Żołnierza",
-      "content": "Myśłałem, że jesteś częścią oddziału frontowego; Nie spodziewałem się znaleźć ciebie tutaj, na tyłach."
+      "content": "Myśłałem, że jest Pan częścią oddziału frontowego; Nie spodziewałem się znaleźć Pana tutaj, na tyłach."
     },
     {
       "id": 44,
       "teller": "Tomah",
       "title": "Wspomnienie Żołnierza",
-      "content": "Chyba że jesteś w drodze tam? Mogę pomóc ci się tam dostać, ulepszenia moich nóg pozwalają mi skakać―"
+      "content": "Chyba, że jest Pan w drodze tam? Mogę pomóc ci się tam dostać, ulepszenia moich nóg pozwalają mi skakać―"
     },
     {
       "id": 45,
