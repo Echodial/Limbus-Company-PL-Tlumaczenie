@@ -62,7 +62,7 @@
     },
     {
       "id": 12,
-      "content": "Gregor spojrzał w falę złotego światła wylewającą się z pokoju."
+      "content": "Gregor nieprzytomnie patrzył się w falę złotego światła wylewającą się z pokoju."
     },
     {
       "id": 13,
@@ -84,7 +84,7 @@
     },
     {
       "id": 17,
-      "content": "Rozdzierające uszy wybuchy artylerii i okrzyki wojenne wypełniają powietrze."
+      "content": "Rozdzierające uszy wybuchy artylerii i rozgorzałe okrzyki wojenne wypełniają powietrze."
     },
     {
       "id": 18,
@@ -120,12 +120,12 @@
     {
       "id": 24,
       "model": "이스마엘",
-      "content": "Masz na myśli Złote Gałązki?"
+      "content": "Masz na myśli Złotą Gałązkę?"
     },
     {
       "id": 25,
       "model": "파우스트",
-      "content": "Zgadza się. Rozpoznajecie, w jakim czasie się znajdujemy?"
+      "content": "Zgadza się. Rozpoznajecie, kiedy się znajdujemy?"
     },
     {
       "id": 26,
@@ -149,7 +149,7 @@
     {
       "id": 30,
       "model": "이스마엘",
-      "content": "Nic lepszego nie wymyśliła…"
+      "content": "Serio nie mogła wymyślić niczego lepszego…?"
     },
     {
       "id": 31,
@@ -288,7 +288,7 @@
     {
       "id": 57,
       "model": "파우스트",
-      "content": "Innymi słowy, na otwartej ścieżka do twojego umysłu…"
+      "content": "Innymi słowy, stoimy na samym środku ruchliwej autostrady twoich myśli…"
     },
     {
       "id": 58,
