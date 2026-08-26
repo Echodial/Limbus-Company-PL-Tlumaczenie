@@ -130,7 +130,7 @@
       "id": 25,
       "teller": "Tomah",
       "title": "Wspomnienie Żołnierza",
-      "content": "Potrzebuję pomocy."
+      "content": "Pomocy."
     },
     {
       "id": 26,
@@ -158,7 +158,7 @@
     },
     {
       "id": 31,
-      "content": "Biegliśmy ile sił w nogach, jednak spadające z nieba dłonie nie odstępowały nas o krok."
+      "content": "Biegliśmy ile sił w nogach, jednak spadające z nieba dłonie nie odstępowały od nas o krok."
     },
     {
       "id": 32,
@@ -210,7 +210,7 @@
     {
       "id": 42,
       "model": "파우스트",
-      "content": "Jedyne, czego jestem w tej chwili pewna, to że nasz cel nie jest blisko. W innym razie Dante wyraźnie by zareagowało."
+      "content": "Jedynym, czego jestem w tej chwili pewna, jest to że nasz cel nie jest blisko. W innym razie Dante wyraźnie by zareagowało."
     },
     {
       "id": 43,
@@ -345,7 +345,7 @@
     {
       "id": 70,
       "model": "히스클리프",
-      "content": "Ehhh, Dobra."
+      "content": "Ehhh, dobra."
     },
     {
       "id": 71,
