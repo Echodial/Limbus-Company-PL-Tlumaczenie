@@ -19,7 +19,7 @@ Wszystkie EGO
 
 Całe Selva Obscura(reviewed)
 
-Całe Canto 1(partially reviewed)
+Całe Canto 1(reviewed)
 
 Dużo Ego giftów
 
