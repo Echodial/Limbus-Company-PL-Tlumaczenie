@@ -72,4 +72,4 @@ Historyjki Powiązania(to może nawet czekać aż dogonimy aktualne canto, ale j
 
 Pogawędki przez Lustro(tu okazjonalnie może kogoś nawiedzić i może pare być zrobione raz na jakiś czas. Tak było z Młodszą Siostrą Środka Don Kichote oraz Yurodivy z Dwudziestego Dystryktu Ryoshu)
 
-Komentatorzy(dante i ricardo są zrobieni, ryoshu, gebura oraz full stop office są od czasu do czasu na warsztacie ale nie oczekujcie tu cudów)
+Komentatorzy(dante, ricardo i full stop office są zrobieni, ryoshu i gebura są od czasu do czasu na warsztacie ale nie oczekujcie tu cudów)
