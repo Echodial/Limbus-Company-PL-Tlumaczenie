@@ -6,7 +6,7 @@
     },
     {
       "id": "announcer_cheer_25_2",
-      "dlg": "- Misja Rozpoczęta.\n- Czytaj ich wzory i nigdy nie daj się rozproszyć, dobra?\n- A jak już zrobi się gorąco nie spuszczaj palca ze spustu."
+      "dlg": "- Misja Rozpoczęta.\n- Czytajcie  ich wzory i nigdy nie dajcie się rozproszyć, dobra?\n- A jak już zrobi się gorąco, nie spuszczajcie palca ze spustu."
     },
     {
       "id": "announcer_specialcheer_25_1",
@@ -22,7 +22,7 @@
     },
     {
       "id": "announcer_ally_break_25_1",
-      "dlg": "- Jak tak dalej pójdzie to nie przeżyją tej walki.\n- Ciaśniejsza formacja powinna pomóc im stanąć z powrotem na nogi."
+      "dlg": "- Jak tak dalej pójdzie ,to nie przeżyją tej walki.\n- Ciaśniejsza formacja powinna pomóc im stanąć z powrotem na nogi."
     },
     {
       "id": "announcer_killenemy_25_1",
@@ -34,7 +34,7 @@
     },
     {
       "id": "announcer_enemy_adv_25_1",
-      "dlg": "- Oni ciągle tam stoją? Jak chcą ujść z życiem powinni rzucić broń i ucie—\n- O czym ty do jasnej cholery pierdolisz?!\n- Nie porzuca się od tak swojej broni."
+      "dlg": "- Oni ciągle tam stoją? Jak chcą ujść z życiem, powinni rzucić broń i ucie—\n- O czym ty do jasnej cholery pierdolisz?!\n- Nie porzuca się od tak swojej broni."
     },
     {
       "id": "announcer_ally_advex_25_1",
@@ -42,11 +42,11 @@
     },
     {
       "id": "announcer_danger_25_1",
-      "dlg": "- Pamiętacie tą jedną akcję? Kiedy mieliśmy tylko jeden pocisk.\n- I trzech zbójów na karku. A Tamaki udało się zbrukać ich wszystkich jednym strzałem.\n- Może uda im się zrobić coś podobnego."
+      "dlg": "- Pamiętacie tą jedną akcję? Kiedy mieliśmy tylko jeden pocisk.\n- I trzech zbójów na karku. A Tamaki udało się kropnąć ich wszystkich jednym strzałem.\n- Może uda im się zrobić coś podobnego."
     },
     {
       "id": "announcer_enemy_specialskill_25_1",
-      "dlg": "- Co tam się odwala...\n- Patrz na tamtego. Na pewno na coś się szykuje."
+      "dlg": "- Co się tam odwala...\n- Patrz na tamtego. Na pewno na coś się szykuje."
     },
     {
       "id": "announcer_enemy_specialgimmick_25_1",
@@ -58,7 +58,7 @@
     },
     {
       "id": "announcer_disadvatk_physical_25_1",
-      "dlg": "- Marnują tylko amunicję...\n- Ile oni jeszcze wystrzelą zanim zorientują się, że nie zostawiają na nich nawet rysy?"
+      "dlg": "- Marnują tylko amunicję...\n- Ile oni jeszcze wystrzelą, zanim zorientują się, że nie zostawiają na nich nawet rysy?"
     },
     {
       "id": "announcer_advatk_attr_25_1",
@@ -82,7 +82,7 @@
     },
     {
       "id": "announcer_ally_specialdebuff_25_1",
-      "dlg": "- No ja zaraz zwariuje... Na co oni do cholery czekają?\n- Możliwe, że morale w ich rangach spadło. Jeśli jest tak jak myśle, nie zaszkodziłoby im się teraz przegrupować."
+      "dlg": "- No ja tu zaraz zwariuje... Na co oni do cholery czekają?\n- Możliwe, że morale w ich rangach spadło. Jeśli jest tak, jak myśle, nie zaszkodziłoby im się teraz przegrupować."
     },
     {
       "id": "announcer_enemy_destroy_25_1",
@@ -90,15 +90,15 @@
     },
     {
       "id": "announcer_enemy_destroy_25_2",
-      "dlg": "- Tak jest! Ognia!\n- Spokojnie. Nie ma co się podniecać, powinni najpierw upewnić się że—\n- Nie pierdol mi teraz o jakimś u-paw-nianiu!\n Chyba nie powiesz mi, że nie powinni teraz skupić się na tej złamanej części?"
+      "dlg": "- Tak jest! Ognia!\n- Spokojnie. Nie ma co się podniecać, powinni najpierw upewnić się, że—\n- Nie pierdol mi teraz o jakimś u-paw-nianiu!\n Chyba nie powiesz mi, że nie powinni teraz skupić się na tej złamanej części?"
     },
     {
       "id": "announcer_round_takebigdmg_25_1",
-      "dlg": "- Szczerze? Nie widzę co oni mogą tutaj zrobić.\n- Tiaaaa, nie wiem jak oni sobie tu poradzą. Mają troche przesrane."
+      "dlg": "- Szczerze? Nie widzę, co oni mogą tutaj zrobić.\n- Tiaaaa, nie wiem jak oni sobie tu poradzą. Mają troche przesrane."
     },
     {
       "id": "announcer_round_takebigdmg_25_2",
-      "dlg": "- Hej, a tak z ciekawości. Co ty byś zrobił gdybym dostał po mordzie taką kanonadą?\n- Zostawił bym cię.Nie miałbym za dużego wyboru.\n- ... Dobra, niby się tego spodziewałem. Ale ciągle trochę boli."
+      "dlg": "- Hej, a tak z ciekawości. Co ty byś zrobił, gdybym dostał po mordzie taką kanonadą?\n- Zostawił bym cię. Nie miałbym za dużego wyboru.\n- ... Dobra, niby się tego spodziewałem. Ale ciągle trochę boli."
     },
     {
       "id": "announcer_round_givebigdmg_25_1",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_special_25_1",
-      "dlg": "Te ziomki z kościołą zaraz tu będą... Upewnijcie się, że broń jest sprawna i nie dajcie się rozproszyć!",
+      "dlg": "Te ziomki z kościoła zaraz tu będą... Upewnijcie się, że broń jest sprawna i nie dajcie się rozproszyć!",
       "imgStr": "Stephan_announcer",
       "isHide": true
     },
