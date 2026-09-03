@@ -3,32 +3,32 @@
     {
       "id": 1001,
       "panicName": "Compulsion",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Haste</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
-      "panicDescription": "Turn Start: Lose 10 HP."
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Haste</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
+      "panicDescription": "Początrk Tury: Lose 10 HP."
     },
     {
       "id": 1002,
       "panicName": "Outlash",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
-      "panicDescription": "Turn Start: Random ally loses 20 SP."
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Większej Mocy Ataku</color></link></u> i 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>",
+      "panicDescription": "Początrk Tury: Random ally loses 20 SP."
     },
     {
       "id": 1003,
-      "panicName": "Overwhelmed",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>",
-      "panicDescription": "Does not act for this turn."
+      "panicName": "Przytłoczenie",
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</color></link></u>",
+      "panicDescription": "Nie wykonuje ruchu w tej turze."
     },
     {
       "id": 1004,
-      "panicName": "Atrophied",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>",
-      "panicDescription": "Turn Start: Gain 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>"
+      "panicName": "Atrofia",
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</color></link></u>",
+      "panicDescription": "Początrk Tury: Zyskaj 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Mniejszej Mocy Ataku</color></link></u>"
     },
     {
       "id": 1005,
-      "panicName": "Agitated",
-      "lowMoraleDescription": "Turn Start: Gain 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
-      "panicDescription": "Turn Start: Gain 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> and 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>"
+      "panicName": "Podenerwowanie",
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Większej Mocy Ataku</color></link></u> i 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>",
+      "panicDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Większej Mocy Ataku</color></link></u> i 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>"
     },
     {
       "id": 1006,
@@ -39,92 +39,92 @@
     {
       "id": 1007,
       "panicName": "Sorrow",
-      "lowMoraleDescription": "Gain 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> each turn",
-      "panicDescription": "Gain 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u> each turn"
+      "lowMoraleDescription": "Zyskaj 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> each turn",
+      "panicDescription": "Zyskaj 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> i 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u> each turn"
     },
     {
       "id": 1008,
-      "panicName": "Maddened",
-      "lowMoraleDescription": "When at low morale for the first time, targets units indiscriminately",
-      "panicDescription": "Targets indiscriminately; Clash Power +1, and gain 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u>"
+      "panicName": "Szaleństwo",
+      "lowMoraleDescription": "Osiągając Niskie Morale po raz pierwszy, zaczyna atakować sojuszników",
+      "panicDescription": "Może atakować sojuszników; +1 Mocy Starcia, i zyskuje 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Większej Mocy Ataku</color></link></u>"
     },
     {
       "id": 1009,
-      "panicName": "Suicidal",
-      "lowMoraleDescription": "When at low morale for the first time, become unable to act",
-      "panicDescription": "Cannot act for 3 turns. After 3 turns, unit dies at turn start; all its allies lose additional 10 SP with every SP loss condition"
+      "panicName": "Samobójczość",
+      "lowMoraleDescription": "Osiągając Niskie Morale po raz pierwszy, przestaje atakować",
+      "panicDescription": "Nie atakuje przez 3 tury. Umiera na początku tury; wszyscy sojusznicy tracą 10 SP"
     },
     {
       "id": 1010,
-      "panicName": "Wandering",
-      "lowMoraleDescription": "Turn End: Deal 2 SP damage to allies",
-      "panicDescription": "Turn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed"
+      "panicName": "Tułaczka",
+      "lowMoraleDescription": "Koniec Tury: Zadaje sojusznikom 2 obrażenia SP",
+      "panicDescription": "Koniec Tury: Zadaje sojusznikom 5 obrażeń SP. Ucieka z walki po 3 turach"
     },
     {
       "id": 1011,
-      "panicName": "Unstable",
-      "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>",
-      "panicDescription": "Turn Start: Become staggered"
+      "panicName": "Chwiejna Wola",
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Większej Mocy Ataku</color></link></u> i 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</color></link></u>",
+      "panicDescription": "Początrk Tury: Ta jednostka zostaje zachwiana"
     },
     {
       "id": 1012,
-      "panicName": "Dejection",
-      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -1 for the clash.",
-      "panicDescription": "Gain 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
+      "panicName": "Niechęć",
+      "lowMoraleDescription": "Zyskaj 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>; Podczas Starcia, jeśli któraś z Monet wyląduje na reszce, -1 Mocy Starcia w tym Starciu.",
+      "panicDescription": "Zyskaj 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>; Podczas Starcia, jeśli któraś z Monet wyląduje na reszce, -3 Mocy Starcia w tym Starciu."
     },
     {
       "id": 9999,
-      "panicName": "Panic",
+      "panicName": "Panika",
       "lowMoraleDescription": "",
-      "panicDescription": "Does not act for this turn."
+      "panicDescription": "Nie wykonuje ruchu w tej turze."
     },
     {
       "id": 1013,
-      "panicName": "Impurity",
-      "lowMoraleDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 2 SP if this unit loses the clash",
-      "panicDescription": "Gain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 5 SP if this unit loses the clash"
+      "panicName": "Nieczystość",
+      "lowMoraleDescription": "Zyskaj 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>. Jeśi ta jednostka przegra Starcie, jej cel traci 2 SP",
+      "panicDescription": "Zyskaj 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</color></link></u>. Jeśi ta jednostka przegra Starcie, jej cel traci 5 SP"
     },
     {
       "id": 1014,
-      "panicName": "Vengeance",
-      "lowMoraleDescription": "Turn Start: Gain 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Gain <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> based on the amount of damage taken last turn (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> for every 3% of Max HP lost)",
-      "panicDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Gain <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> based on the amount of damage taken last turn (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> for every 3% of Max HP lost)"
+      "panicName": "Zemsta",
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Większej Mocy Ataku</color></link></u> i 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</color></link></u>. Zyskaj <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Większą Moc Ataku</color></link></u> za każde 3% Maks PŻ straconych przez obrażenia w poprzedniej turze",
+      "panicDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Większej Mocy Ataku</color></link></u> i 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</color></link></u>. Zyskaj <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Większą Moc Ataku</color></link></u> za każde 3% Maks PŻ straconych przez obrażenia w poprzedniej turze"
     },
     {
       "id": 1015,
-      "panicName": "Pallid Panic",
-      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
-      "panicDescription": "Every Turn End: Gain 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Bind</color></link></u>.\nEvery Coin this unit flips lands on tails."
+      "panicName": "Blada Panika",
+      "lowMoraleDescription": "+2 [MentalSystemResultDecrease_Typo]",
+      "panicDescription": "Na Końcu Każdej Tury: Zyskaj 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Spętania</color></link></u>.\nKażda Moneta rzucona przez tą jednostkęląduje na Reszce."
     },
     {
       "id": 1016,
-      "panicName": "Resentment",
-      "lowMoraleDescription": "Turn Start: gain 2 [AttackDmgUp] and 3 [DefenseDown]",
-      "panicDescription": "Turn Start: gain 1 [Enhancement] and 5 [DefenseDown]"
+      "panicName": "Uraza",
+      "lowMoraleDescription": "Początrk Tury: Zyskaj 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Większą Moc Ataku</color></link> i 3 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</color></link>",
+      "panicDescription": "Początrk Tury: Zyskaj 1 [Enhancement] i 5 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Mniejszych Poziomów Obrony</color></link>"
     },
     {
       "id": 1026,
-      "panicName": "Ruin",
-      "lowMoraleDescription": "Gain 3 [Sinking] at every Turn End; Clash Power -1",
-      "panicDescription": "Gain 5 [Sinking] and +3 [Sinking] Count at every Turn End; Clash Power -2"
+      "panicName": "Ruina",
+      "lowMoraleDescription": "Zyskaj 3 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Zrozpaczenia</color></link> na Końcu Każdej Tury; -1 Mocy Starcia",
+      "panicDescription": "Zyskaj 5 <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Zrozpaczenia</color></link> i +3 Ilości <sprite name=\"Sinking\"><color=#f8c200><u><link=\"Sinking\">Zrozpaczenia</color></link> na Końcu Każdej Tury; -2 Mocy Starcia"
     },
     {
       "id": 9994,
-      "panicName": "Love and Hate",
+      "panicName": "Miłość i Nienawiść",
       "lowMoraleDescription": "",
-      "panicDescription": "Does not act for this turn."
+      "panicDescription": "Nie wykonuje ruchu w tej turze."
     },
     {
       "id": 1065,
-      "panicName": "Shattermark",
-      "lowMoraleDescription": "Clash Power -1, Defense Level -2",
-      "panicDescription": "Clash Power -2, Defense Level -3"
+      "panicName": "Zdruzgotanie",
+      "lowMoraleDescription": "-1 Mocy Starcia, -2 Poziomy Obrony",
+      "panicDescription": "-2 Mocy Starcia, -3 Poziomy Obrony"
     },
     {
       "id": 1085,
-      "panicName": "Blue Sand",
-      "lowMoraleDescription": "Clash Power -1\nMin & Max Speed -1",
-      "panicDescription": "Clash Power -2\nMin & Max Speed -1"
+      "panicName": "Błękitny Piach",
+      "lowMoraleDescription": "-1 Mocy Starcia\nMin & Maks Prędkość -1",
+      "panicDescription": "-2 Mocy Starcia\nMin & Maks Prędkość -1"
     }
   ]
 }
