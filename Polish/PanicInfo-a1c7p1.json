@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": 1027,
-      "panicName": "Hunger",
-      "lowMoraleDescription": "Turn Start: Gain 1 [Binding] and 2 [Enhancement]. Take 5 SP damage at Turn End",
-      "panicDescription": "Turn Start: gain 2 [Binding] and 4 [Enhancement]."
+      "panicName": "Głód",
+      "lowMoraleDescription": "Początek Tury: Zyskaj 1 [Binding] and 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color>. Otrzymaj 5 obrażeń SP na Koniec Tury",
+      "panicDescription": "Początek Tury: zyskaj 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Spętania</link></u></color> i 4 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color>."
     },
     {
       "id": 1028,
-      "panicName": "Duel Specialist",
-      "lowMoraleDescription": "Turn Start: Gain 2 [AttackUp]. On Clash Lose, gain 1 [DefenseDown] (max 3 per turn). Min. Speed -1",
-      "panicDescription": "Turn Start: Gain 4 [AttackUp]. On Clash Lose, gain 2 [DefenseDown] (max 6 per turn). Min. Speed -1"
+      "panicName": "Specjalista Od Pojedynków",
+      "lowMoraleDescription": "Początek Tury: Zyskaj 2 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Większe Poziomy Ataku</link></u></color>. Przegrywając Starcie, zyskaj 1 [DefenseDown] (max 3 per turn). -1 Min. Prędkości",
+      "panicDescription": "Początek Tury: Zyskaj 4 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Większe Poziomy Ataku</link></u></color>. Przegrywając Starcie, zyskaj 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color> (max 6 per turn). -1 Min. Prędkości"
     }
   ]
 }
