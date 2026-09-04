@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórna Wyrocznia ",
           "desc": "",
           "coinlist": [
             {
@@ -148,7 +148,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórna Wyrocznia ",
           "desc": "[BeforeAttack] Jeśli Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -166,7 +166,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórna Wyrocznia ",
           "desc": "[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Jeśli ten Rezonans był Absolutny, zyskuje ona dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -192,7 +192,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórna Wyrocznia ",
           "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -210,7 +210,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórna Wyrocznia ",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórna Wyrocznia ",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Jeśli ten Rezonans był Absolutny, zyskuje ona dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -257,7 +257,7 @@
         {
           "level": 1,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -281,7 +281,7 @@
         {
           "level": 3,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "<style=\"highlight\">[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)</style>",
           "coinlist": [
             {
@@ -293,7 +293,7 @@
                   "desc": "- Jeśli wybrane jednostki mają już na sobie [ShieldManagerCryingToad], zmień jego wartość na 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- Jeśli najwyższy Rezonans Przygnębenia wynosi 4+, powyższe efekty zmieniają się w 'Nałóż 3 [ShieldManagerCryingToad]' oraz 'zmień jego wartość na 3' instead.<style=\"highlight\"></style>"
+                  "desc": "- Jeśli najwyższy Rezonans Przygnębenia wynosi 4+, powyższe efekty zmieniają się w 'Nałóż 3 [ShieldManagerCryingToad]' oraz 'zmień jego wartość na 3'.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -302,7 +302,7 @@
         {
           "level": 4,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -314,7 +314,7 @@
                   "desc": "- Jeśli wybrane jednostki mają już na sobie [ShieldManagerCryingToad], zmień jego wartość na 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- Jeśli najwyższy Rezonans Przygnębenia wynosi 4+, powyższe efekty zmieniają się w 'Nałóż 3 [ShieldManagerCryingToad]' oraz 'zmień jego wartość na 3' instead.<style=\"highlight\"></style>"
+                  "desc": "- Jeśli najwyższy Rezonans Przygnębenia wynosi 4+, powyższe efekty zmieniają się w 'Nałóż 3 [ShieldManagerCryingToad]' oraz 'zmień jego wartość na 3'.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -328,7 +328,7 @@
         {
           "level": 1,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Zyskaj +5 [Aggro] na tym Żetonie Umiejętności na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -352,7 +352,7 @@
         {
           "level": 3,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)</style>\n[BeforeAttack] Zyskaj <style=\"highlight\">+10 [Aggro]</style> na tym Żetonie Umiejętności na początku następnej tury",
           "coinlist": [
             {
@@ -376,7 +376,7 @@
         {
           "level": 4,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Ta Umiejętność zyskuje (wartość najwyższego Rezonansu -2) Wagi ataku (maks 2)\n[BeforeAttack] Zyskaj +10 [Aggro] na tym Żetonie Umiejętności na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -408,7 +408,7 @@
         {
           "level": 1,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -433,7 +433,7 @@
         {
           "level": 3,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "<style=\"highlight\">[BeforeAttack] Jeśli najwyższy Rezonans Zazdrości posiadający w sobie tą Umiejętność wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku</style>\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2",
           "coinlist": [
             {
@@ -461,7 +461,7 @@
         {
           "level": 4,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "<style=\"highlight\">[BeforeAttack] Za każde 3 wartości Rezonansu Zazdrości posiadającego w sobie tą Umiejętność, Ta Umiejętność zyskuje +1 Wagi Ataku (maks 2)</style>\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2",
           "coinlist": [
             {
@@ -497,7 +497,7 @@
         {
           "level": 1,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -522,7 +522,7 @@
         {
           "level": 3,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -550,7 +550,7 @@
         {
           "level": 4,
           "name": "Zaklęta Igła",
-          "abName": "Hurting Teddy Bear",
+          "abName": "Skrzwdzony Pluszowy Miś",
           "desc": "[CantIdentify]\nLosowe Cele\n[EndSkill] Jeśli cel posiada [Curse], aktywuj ją dwukrotnie, po czym zmniejsz jej wartość o 2<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -773,7 +773,7 @@
         {
           "level": 1,
           "name": "Harmonia",
-          "abName": "Singing Machine",
+          "abName": "Mieląca Mięso Muzyczna Machina",
           "desc": "+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks 6)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks 10%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[TargetKill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm] na początku następnej tury (jaz na Umiejętność)\n[EndSkill] Ulecz 8 SP dla (1 + wartość najwyższego Rezonansu) Sojuszników z najniższą ilością SP (może uleczyć maks 4 jednostki)\n[EndSkill] Na końcu następnych 2 tur, włącznie z tą, jednostka ta traci 8 SP",
           "coinlist": [
             {
@@ -812,7 +812,7 @@
         {
           "level": 3,
           "name": "Harmonia",
-          "abName": "Singing Machine",
+          "abName": "Mieląca Mięso Muzyczna Machina",
           "desc": "+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">8</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">15</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[TargetKill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm] na początku następnej tury (jaz na Umiejętność)\n[EndSkill] Ulecz <style=\"highlight\">10</style> SP dla (1 + wartość najwyższego Rezonansu) Sojuszników z najniższą ilością SP (może uleczyć maks 4 jednostki)\n[EndSkill] Na końcu następnych 2 tur, włącznie z tą, jednostka ta traci 8 SP",
           "coinlist": [
             {
@@ -851,7 +851,7 @@
         {
           "level": 4,
           "name": "Harmonia",
-          "abName": "Singing Machine",
+          "abName": "Mieląca Mięso Muzyczna Machina",
           "desc": "+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">10</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">20</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[TargetKill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm] na początku następnej tury (jaz na Umiejętność)\n[EndSkill] Ulecz <style=\"highlight\">12 SP</style> dla (1 + wartość najwyższego Rezonansu) Sojuszników z najniższą ilością SP (może uleczyć maks 4 jednostki)\n[EndSkill] Na końcu następnych 2 tur, włącznie z tą, jednostka ta traci 8 SP",
           "coinlist": [
             {
@@ -895,7 +895,7 @@
         {
           "level": 1,
           "name": "Harmonia",
-          "abName": "Singing Machine",
+          "abName": "Mieląca Mięso Muzyczna Machina",
           "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks 6)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks 10%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[BeforeAttack] Zyskaj Wage Ataku równą (wartość najwyższego Rezonansu / 2) (maks 2; zaokrąglone w dół)\n[BeforeAttack] -2 Mocy Bazowej za każdą Nadkruszoną Monete (maks -6)\n[EndSkill] Ulecz 10 SP dla 4 Sojuszników z najmniejszą ilością SP\n[EndSkill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] na początku następnej tury\n- Jeśli cel tej Umiejętności został pokonany, aktywuj ten efekt jeszcze raz",
           "coinlist": [
             {
@@ -943,7 +943,7 @@
         {
           "level": 3,
           "name": "Harmonia",
-          "abName": "Singing Machine",
+          "abName": "Mieląca Mięso Muzyczna Machina",
           "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">8</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">15</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[BeforeAttack] Zyskaj Wage Ataku równą (wartość najwyższego Rezonansu / 2) (maks 2; zaokrąglone w dół)\n[BeforeAttack] -2 Mocy Bazowej za każdą Nadkruszoną Monete (maks -6)\n[EndSkill] Ulecz <style=\"highlight\">12</style> SP dla 4 Sojuszników z najmniejszą ilością SP\n[EndSkill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] na początku następnej tury\n- Jeśli cel tej Umiejętności został pokonany, aktywuj ten efekt jeszcze raz",
           "coinlist": [
             {
@@ -991,7 +991,7 @@
         {
           "level": 4,
           "name": "Harmonia",
-          "abName": "Singing Machine",
+          "abName": "Mieląca Mięso Muzyczna Machina",
           "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Starcia za każde 2 ([Laceration] + [Combustion]) na głównym celu (maks <style=\"highlight\">10</style>)\nZadaj więcej %obrażeń równych brakującym PŻ na sobie (maks <style=\"highlight\">20</style>%)\nTa Zdolność zadaje -50% obrażeń celom pobocznym\n[BeforeAttack] Zyskaj Wage Ataku równą (wartość najwyższego Rezonansu / 2) (maks 2; zaokrąglone w dół)\n[BeforeAttack] -2 Mocy Bazowej za każdą Nadkruszoną Monete (maks -6)\n[EndSkill] Ulecz <style=\"highlight\">15</style> SP dla 4 Sojuszników z najmniejszą ilością SP\n[EndSkill] Wszyscy Sojusznicy zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] na początku następnej tury\n- Jeśli cel tej Umiejętności został pokonany, aktywuj ten efekt jeszcze raz",
           "coinlist": [
             {
