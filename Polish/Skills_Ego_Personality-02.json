@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórzana Wyrocznia",
           "desc": "",
           "coinlist": [
             {
@@ -21,7 +21,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -39,7 +39,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku\nPrzy 6+ (Absolutnego Rezonansu Porządania), zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -56,13 +56,36 @@
         }
       ]
     },
+        {
+          "level": 5,
+          "name": "9:2(ut5 TO DO)",
+          "abName": "Skórzana Wyrocznia",
+          "desc": "<style=\"highlight\">Required Gluttony E.G.O resource to use this Skill is reduced by 1</style>\n[BeforeAttack] At 4+ (<style=\"highlight\">highest Reson.</style>), Atk Weight +1\nAt 6+ (<style=\"highlight\">highest Reson.</style>), additional Atk Weight +1\n\n<style=\"highlight\">[BeforeAttack] Deal +5% damage for every ([Combustion] on all targets + [Combustion] on self) (max 100%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 5 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target into 1 [DefenseDown] (<style=\"highlight\">max 5; this effect cannot lower target's [Combustion] Potency below 1)\n- If target has fewer than 10 [Combustion] Potency, this unit may use excess [Combustion] Potency on self past 30 for the above effect</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 2020521,
       "levelList": [
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -80,7 +103,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -101,7 +124,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skin Prophet",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ (Absolutnego Rezonansu Porządania), zyskaj +1 Wagi Ataku\nPrzy 6+ (Absolutnego Rezonansu Porządania), zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -121,6 +144,35 @@
         }
       ]
     },
+        {
+          "level": 5,
+          "name": "9:2(UT5 TO DO)",
+          "abName": "Skórzana Wyrocznia",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Required Gluttony E.G.O resource to use this Skill is reduced by 1</style>\n[BeforeAttack] At 4+ (<style=\"highlight\">highest Reson.</style>), Atk Weight +1\nAt 6+ (<style=\"highlight\">highest Reson.</style>), additional Atk Weight +1\n\n<style=\"highlight\">[BeforeAttack] Deal +6% damage for every ([Combustion] on all targets + [Combustion] on self) (max 120%)\n[DefeatDuel] Base Power -10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Nałóż 2 [Binding] na początku następnej tury"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 5 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target into 1 [DefenseDown] (<style=\"highlight\">max 5; this effect cannot lower target's [Combustion] Potency below 1)\n- If target has fewer than 10 [Combustion] Potency, this unit may use excess [Combustion] Potency on self past 30 for the above effect</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 2020611,
       "levelList": [
@@ -128,7 +180,7 @@
           "level": 1,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(2.5 x (Różnica Prędkości))% więcej obrażeń (Maks 25%)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury<style=\"highlight\"></style>",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(2.5 x (Różnica Prędkości))% więcej obrażeń (Maks 25%)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n[EndSkill] Przez 3 tury, strać 10 PP na Końcu Tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +222,7 @@
           "level": 3,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">3.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">35%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n<style=\"highlight\">- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks 5)</style>\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">3.5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">35%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe najwyższemu Rezonansowi (Maks 5)\n<style=\"highlight\">- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks 5)</style>\n[EndSkill] Przez 3 tury, strać 10 PP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +264,7 @@
           "level": 4,
           "name": "Nieustanność",
           "abName": "Time Duck",
-          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">50%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe (<style=\"highlight\">2</style> x (Najwyższy Rezonans)) (Maks <style=\"highlight\">10</style>)\n- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks <style=\"highlight\">10</style>)\n[EndSkill] Przez 3 tury, strać 10 SP na Końcu Tury",
+          "desc": "Jeśli cel jest Wolniejszy od tej jednostki, zadaj +(<style=\"highlight\">5</style> x (Różnica Prędkości))% więcej obrażeń (Maks <style=\"highlight\">50%</style>)\n[BeforeAttack] Przy 3+ najwyższego Rezonansu, Nałóż [Vibration] równe (<style=\"highlight\">2</style> x (Najwyższy Rezonans)) (Maks <style=\"highlight\">10</style>)\n- Jeśli najwyższym Rezonansem był Absolutny Rezonans Lenistwa, Nałóż Ilości [Vibration] by [Vibration] Nałóżed (Maks <style=\"highlight\">10</style>)\n[EndSkill] Przez 3 tury, strać 10 PP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
@@ -350,7 +402,7 @@
         {
           "level": 1,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -379,7 +431,7 @@
         {
           "level": 3,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "<style=\"highlight\">Jeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety</style>\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n[BeforeAttack] Przy 4+ Rezonansu Obżarstwa lub Pożądania, zyskaj +1 Wagi Ataku</style>",
           "coinlist": [
             {
@@ -408,7 +460,7 @@
         {
           "level": 4,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "Jeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n<style=\"highlight\">- Jeśli tym Rezonansem był Rez. Obżarstwa, zyskaj dodatkowe +1 Wagi Ataku</style>",
           "coinlist": [
             {
@@ -442,7 +494,7 @@
         {
           "level": 1,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -471,7 +523,7 @@
         {
           "level": 3,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety</style>\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury</style>",
           "coinlist": [
             {
@@ -494,7 +546,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [Snare]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] zadaj +2% więcej obrażeń za każde [Burst] na celu (Maks 30%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj +2% więcej obrażeń za każde [Burst] na celu (Maks 30%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -503,7 +555,7 @@
         {
           "level": 4,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli suma wartości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monety\n+1 Mocy Monety za każde 7 [Burst] na celu (Maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n<style=\"highlight\">[EndSkill] Jeśli cel zostanie Zachwiany lub Pokonany, zyskaj 1 [ShamrockResultUp] na początku następnej tury</style>",
           "coinlist": [
             {
@@ -526,7 +578,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Snare]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] zadaj +2% więcej obrażeń za każde [Burst] na celu (Maks 60%)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj +2% więcej obrażeń za każde [Burst] na celu (Maks 60%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -612,7 +664,7 @@
           "level": 1,
           "name": "Torakalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% HP na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 4)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% PŻ na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 4)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -634,7 +686,7 @@
           "level": 3,
           "name": "Torakalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% HP na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks <style=\"highlight\">6</style>)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% PŻ na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks <style=\"highlight\">6</style>)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury",
           "coinlist": [
             {
               "coindescs": [
@@ -656,7 +708,7 @@
           "level": 4,
           "name": "Torakalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% HP na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 6)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy mniej niż 20 Nasilenia [Breath], zyskaj maksymalnie 20 Nasilenia [Breath] oraz zużyj (zyskane Nasilenie [Breath] x 2)% PŻ na sobie\n- Ten efekt nie może Zachwiać ani Pokonać tej jednostki\n[BeforeAttack] Nałóż (Najwyższy Rezonans) Nasilenia [Breath] na wszystkich sojuszników (Maks 6)\n- Przy 3+ Rezonansu Pychy, nałóż +1 Ilości [Breath] na wcześniej wspomnianych sojuszników, oraz nałóż również 1 [ReleaseBreath] i 1 [IndigoDamageUp] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -683,7 +735,7 @@
           "level": 1,
           "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
-          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +1 Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o 15% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP<style=\"highlight\"></style>",
+          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +1 Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %PŻ o 15% maks PŻ tej jednostki\n- Jeśli ta jednostka posiada maks PŻ, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 PP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym PP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -701,7 +753,7 @@
           "level": 3,
           "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
-          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">2</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n<style=\"highlight\">- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o 1.5</style>\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o <style=\"highlight\">20</style>% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP",
+          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">2</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 15%)\n<style=\"highlight\">- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o 1.5</style>\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %PŻ o <style=\"highlight\">20</style>% maks PŻ tej jednostki\n- Jeśli ta jednostka posiada maks PŻ, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz 10 PP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym PP",
           "coinlist": [
             {
               "coindescs": [
@@ -719,7 +771,7 @@
           "level": 4,
           "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
-          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">3</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks <style=\"highlight\">25</style>%)\n- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o <style=\"highlight\">2</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %HP o <style=\"highlight\">30</style>% maks HP tej jednostki\n- Jeśli ta jednostka posiada maks HP, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz <style=\"highlight\">15</style> SP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym SP",
+          "desc": "Jeśli główny cel miał [Combustion] lub [Burst], +<style=\"highlight\">3</style> Mocy Finalnej\n[BeforeAttack] Zadaj +1% obrażeń za każde (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks <style=\"highlight\">25</style>%)\n- Jeśli ta jednostka posiada [CuredFilm], pomnóż wynik oraz sufit tego efektu o <style=\"highlight\">2</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Ulecz siebię oraz 1 sojusznika z najmniejszym %PŻ o <style=\"highlight\">30</style>% maks PŻ tej jednostki\n- Jeśli ta jednostka posiada maks PŻ, ulecz zamiast tego dwóch innych sojuszników\n[EndSkill] Ulecz <style=\"highlight\">15</style> PP dla 2 sojuszników, biorąc pod uwagę również tą jednostkę, z najniższym PP",
           "coinlist": [
             {
               "coindescs": [
@@ -742,7 +794,7 @@
           "level": 1,
           "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą HP straconemu przez ten efekt\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj 4 [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać PŻ równe 20% maks PŻ tej jednostki, oraz zyskaj Tarczę równą PŻ straconemu przez ten efekt\n- Utrata PŻ wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -775,7 +827,7 @@
           "level": 3,
           "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
-          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli główny cel ma 6+ (sumy Nasilenia [Burst] oraz Ilości [Burst]), +1 Bazowej Mocy</style>\n[BeforeAttack] Przy <style=\"highlight\">3</style>+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą HP straconemu przez ten efekt\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli główny cel ma 6+ (sumy Nasilenia [Burst] oraz Ilości [Burst]), +1 Bazowej Mocy</style>\n[BeforeAttack] Przy <style=\"highlight\">3</style>+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Zyskaj <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać PŻ równe 20% maks PŻ tej jednostki, oraz zyskaj Tarczę równą PŻ straconemu przez ten efekt\n- Utrata PŻ wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -811,7 +863,7 @@
           "level": 4,
           "name": "Rozkaz :: Rozłam",
           "abName": "Kal'tsit",
-          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">+1 Bazowej Mocy za każde 6 (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 2)</style>\n<style=\"highlight\">[BeforeAttack] Zyskaj +1 Wagi Ataku za każde 3 najwyższego Rezonansu (maks 2)</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać HP równe 20% maks HP tej jednostki, oraz zyskaj Tarczę równą <style=\"highlight\">(HP stracone przez ten efekt x 2)</style>\n- Utrata HP wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">+1 Bazowej Mocy za każde 6 (sumy Nasilenia [Burst] oraz Ilości [Burst]) na głównym celu (maks 2)</style>\n<style=\"highlight\">[BeforeAttack] Zyskaj +1 Wagi Ataku za każde 3 najwyższego Rezonansu (maks 2)</style>\n[EndSkill] Zyskaj <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] Jeśli obrażenia zadane przez tą Umiejętność nie zachwiały ani nie zabiły żadnego z celów, strać PŻ równe 20% maks PŻ tej jednostki, oraz zyskaj Tarczę równą <style=\"highlight\">(PŻ stracone przez ten efekt x 2)</style>\n- Utrata PŻ wywołana przez ten efekt nie może zabić tej jednostki. Zyskaj Maksymalny Stack [CuredFilm] na Końcu tej Tury oraz zyskaj 2 [AttackDmgUp] na początku następniej tury (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -941,7 +993,7 @@
           "level": 1,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 PP za każde 10 [Combustion] na sobie (maks 10)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -970,7 +1022,7 @@
           "level": 3,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (maks 10)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 PP za każde 10 [Combustion] na sobie (maks 10)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1002,7 +1054,7 @@
           "level": 4,
           "name": "Gwiazda Płomiennego Rozkwitu",
           "abName": "Ćma Płomiennego Rozkwitu",
-          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 SP za każde 10 [Combustion] na sobie (<style=\"highlight\">maks 15</style>)",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] +1 Mocy Finalnej za każde 10 ([Combustion] na wszystkich celach + [Combustion] na sobie) (maks 2)\n[EndSkill] Zyskaj 10 [Combustion] oraz +1 Ilości [Combustion]\n[EndSkill] Przy 25+ [Combustion] na sobie, Zyskaj 2 [CrimsonDamageUp] na początku następnej tury (raz na turę)\n[EndSkill] Jeśli tej jednostce brakuje 50% lub więcej PŻ, ulecz 5 PP za każde 10 [Combustion] na sobie (<style=\"highlight\">maks 15</style>)",
           "coinlist": [
             {
               "coindescs": [
