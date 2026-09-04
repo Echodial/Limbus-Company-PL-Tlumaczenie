@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "",
           "coinlist": [
             {
@@ -15,7 +15,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 4 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] Zyskaj 3 przypadkowe posiadane zasoby E.G.O<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj 3 losowe zasoby E.G.O należące do posiadanych już kategorii<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -24,7 +24,7 @@
         {
           "level": 3,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "",
           "coinlist": [
             {
@@ -33,7 +33,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 5 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] Zyskaj 3 przypadkowe posiadane zasoby E.G.O; Wszyscy sojusznicy zyskują 3 SP<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj 3 losowe zasoby E.G.O należące do posiadanych już kategorii; Wszyscy sojusznicy zyskują 3 PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -42,7 +42,7 @@
         {
           "level": 4,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "",
           "coinlist": [
             {
@@ -51,7 +51,30 @@
                   "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] Zyskaj 3 przypadkowe posiadane zasoby E.G.O; Wszyscy sojusznicy zyskują 3 SP<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Zyskaj 3 losowe zasoby E.G.O należące do posiadanych już kategorii; Wszyscy sojusznicy zyskują 3 PP<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+        {
+          "level": 5,
+          "name": "Soda",
+          "abName": "Nazdrówko",
+          "desc": "<style=\"highlight\">Jeśli cel posiada mniej niż 25% PŻ, zadaj +40% obrażeń\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n\n[EndSkill] Przyznaj 1 [GainSinStockAdder] na początku następnej tury (2 + najwyższy Rezonans) losowym Sojusznikom, wliczając w to tą jednostkę (maks 7)\n[EndSkill] Jeśli jeden z celów jest Zachwiany lub Panikuje, zyskaj 1 zasób E.G.O z najmniej posiadanej kategorii; zyskaj 3 PP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 4 [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EnemyKill] Zyskaj 3 losowe zasoby E.G.O należące do posiadanych już kategorii; wszyscy Sojusznicy zyskują 3 PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -65,7 +88,7 @@
         {
           "level": 1,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -83,7 +106,7 @@
         {
           "level": 3,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -101,7 +124,7 @@
         {
           "level": 4,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -110,7 +133,36 @@
                   "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Wszyscy sojusznicy zyskują +1 <sprite name=\"ZyskajSinStockAdder\"><color=#f8c200><u><link=\"ZyskajSinStockAdder\">zasób E.G.O Amp</color></link></u>., apply 1 Haste na początku następnej tury<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Wszyscy sojusznicy zyskują +1 <sprite name=\"ZyskajSinStockAdder\"><color=#f8c200><u><link=\"ZyskajSinStockAdder\">zasób E.G.O Amp</color></link></u>., przyznaj 1 [Agility] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+        {
+          "level": 5,
+          "name": "Soda",
+          "abName": "Nazdrówko",
+          "desc": "[CantIdentify]\nLosowe Cele\n\n<style=\"highlight\">Jeśli cel posiada mniej niż 25% PŻ, zadaj +40% obrażeń\n[DefeatDuel] -12 Mocy Bazowej\n[BeforeAttack] Przy 4+ najwyższego Rezonansu, zyskaj +1 Wagi Ataku\n[EndSkill] Jeśli jeden z celów jest Zachwiany lub Panikuje, zyskaj 1 zasób E.G.O z najmniej posiadanej kategorii; zyskaj 3 PP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 4 [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Wszyscy Sojusznicy zyskują 1 [GainSinStockAdder], przyznaj 1 [Agility] na początku następnej tury<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] Wszyscy Sojusznicy zyskują 1 [GainSinStockAdder] na początku następnej tury (raz na turę)</style>"
                 }
               ]
             }
@@ -237,7 +289,7 @@
           "level": 1,
           "name": "Odraza, Trwoga",
           "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks 2)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] (Maks 7)\n[EndSkill] Strać 10 SP pod koniec dwóch następnych Tur<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks 2)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] (Maks 7)\n[EndSkill] Strać 10 PP pod koniec dwóch następnych Tur<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -253,7 +305,7 @@
           "level": 3,
           "name": "Odraza, Trwoga",
           "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks <style=\"highlight\">4</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] (Maks 7)\n[EndSkill] Strać 10 SP pod koniec dwóch następnych Tur",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks <style=\"highlight\">4</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] (Maks 7)\n[EndSkill] Strać 10 PP pod koniec dwóch następnych Tur",
           "coinlist": [
             {},
             {
@@ -269,7 +321,7 @@
           "level": 4,
           "name": "Odraza, Trwoga",
           "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks <style=\"highlight\">6</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] <style=\"highlight\">na początku tej oraz następnej tury</style> (Maks 7)\n<style=\"highlight\">[EndSkill] Jeśli ta Umiejętność była częścią Rezonansu Porządania, zyskaj 1 zasób E.G.O z każdej kategorii do której należą Umiejętności tej jednostki</style>\n[EndSkill] Strać 10 SP pod koniec dwóch następnych Tur",
+          "desc": "[BeforeAttack] Zyskaj (Suma najwyższego Rezon.) Wagi Ataku (Maks <style=\"highlight\">6</style>)\n[BeforeAttack] Zyskaj (Suma najwyższego Rezon. + 1) [GazePersonality] <style=\"highlight\">na początku tej oraz następnej tury</style> (Maks 7)\n<style=\"highlight\">[EndSkill] Jeśli ta Umiejętność była częścią Rezonansu Porządania, zyskaj 1 zasób E.G.O z każdej kategorii do której należą Umiejętności tej jednostki</style>\n[EndSkill] Strać 10 PP pod koniec dwóch następnych Tur",
           "coinlist": [
             {},
             {
@@ -417,7 +469,7 @@
           "level": 1,
           "name": "Torakalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% HP aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 2 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +2 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym PŻ (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% PŻ aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 2 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +2 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u><style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -433,7 +485,7 @@
           "level": 3,
           "name": "Torakalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% HP aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n<style=\"highlight\">- Zyskaj 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdego sojusznika w którego mierzy ta Umiejętność (Maks 2)</style>\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 2 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują <style=\"highlight\">4</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +2 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n<style=\"highlight\">- Odzyskaj połowe SP użytego przez tą Umiejętność</style>",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym PŻ (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% PŻ aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n<style=\"highlight\">- Zyskaj 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdego sojusznika w którego mierzy ta Umiejętność (Maks 2)</style>\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 2 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują <style=\"highlight\">4</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +2 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n<style=\"highlight\">- Odzyskaj połowe PP użytego przez tą Umiejętność</style>",
           "coinlist": [
             {},
             {
@@ -452,7 +504,7 @@
           "level": 4,
           "name": "Torakalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% HP aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n- Zyskaj <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdego sojusznika w którego mierzy ta Umiejętność (Maks <style=\"highlight\">4</style>)\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 3 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +<style=\"highlight\">4</style> Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n<style=\"highlight\">- Odzyskaj całe SP oraz zyskaj po jednym zasobie E.G.O z każdej kategorii którą wymaga ta Umiejętność</style>",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym PŻ (prioretyzuje sojuszników)\nJeśli sojusznik jest jednym z celów tej Umiejętności, Zadaje ona 30% więcej Obrażeń\n\n[BeforeAttack] Jeśli ta jednostka posiada mniej niż 15 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>, Zużyj 10% PŻ aby zyskać 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +5 Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n- Jednostka ta nie może być Zachwiana ani pokonana przez ten efekt\n- Zyskaj <style=\"highlight\">2</style> <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> za każdego sojusznika w którego mierzy ta Umiejętność (Maks <style=\"highlight\">4</style>)\n\n[EndSkill] Jeśli jeden z celów został pokonany, zyskaj 3 [HoldingBreath] na początku następnej tury. (raz na turę) Jeśli pokonanym celem był sojusznik, aktywuj również ten efekt:\n- Sojusznicy któży zostali zmuszeni do uczestnictwa lub zastępują martwego sojusznika zyskują 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u> oraz +<style=\"highlight\">4</style> Ilości <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Tchnienia</color></color></link></u>\n<style=\"highlight\">- Odzyskaj całe PP oraz zyskaj po jednym zasobie E.G.O z każdej kategorii którą wymaga ta Umiejętność</style>",
           "coinlist": [
             {},
             {
@@ -476,7 +528,7 @@
           "level": 1,
           "name": "Wielki Trychiliokosm [三千大世界]",
           "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans) [Breath] (maks 7)\n\n[EndSkill] Zyskaj 1 [RyoshuEGOPF]\n[EndSkill] Strać 10 SP na Końcu następnych 3 Tur (włącznie z tą)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans) [Breath] (maks 7)\n\n[EndSkill] Zyskaj 1 [RyoshuEGOPF]\n[EndSkill] Strać 10 PP na Końcu następnych 3 Tur (włącznie z tą)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -518,7 +570,7 @@
           "level": 3,
           "name": "Wielki Trychiliokosm [三千大世界]",
           "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans) [Breath] (maks 7)\n<style=\"highlight\">[BeforeAttack] Zyskaj +2 Ilości [Breath]</style>\n\n[EndSkill] Zyskaj 1 [RyoshuEGOPF]\n[EndSkill] Strać 10 SP na Końcu następnych 3 Tur (włącznie z tą)",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans) [Breath] (maks 7)\n<style=\"highlight\">[BeforeAttack] Zyskaj +2 Ilości [Breath]</style>\n\n[EndSkill] Zyskaj 1 [RyoshuEGOPF]\n[EndSkill] Strać 10 PP na Końcu następnych 3 Tur (włącznie z tą)",
           "coinlist": [
             {
               "coindescs": [
@@ -529,7 +581,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury</style>"
                 }
               ]
             },
@@ -572,7 +624,7 @@
           "level": 4,
           "name": "Wielki Trychiliokosm [三千大世界]",
           "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans) [Breath] (maks 7)\n[BeforeAttack] Zyskaj <style=\"highlight\">+3</style> Ilości [Breath]\n\n[EndSkill] Zyskaj 1 [RyoshuEGOPF]\n[EndSkill] Strać 10 SP na Końcu następnych 3 Tur (włącznie z tą)",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans) [Breath] (maks 7)\n[BeforeAttack] Zyskaj <style=\"highlight\">+3</style> Ilości [Breath]\n\n[EndSkill] Zyskaj 1 [RyoshuEGOPF]\n[EndSkill] Strać 10 PP na Końcu następnych 3 Tur (włącznie z tą)",
           "coinlist": [
             {
               "coindescs": [
@@ -583,7 +635,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -684,7 +736,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury</style>"
                 }
               ]
             },
@@ -738,7 +790,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 }
               ]
             },
