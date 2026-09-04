@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 1025,
-      "panicName": "Bloodthirst",
-      "lowMoraleDescription": "Turn Start: gain 1 [Vulnerable] and [AttackDmgUp]",
-      "panicDescription": "Turn Start: gain 2 [Vulnerable] and [AttackDmgUp]"
+      "panicName": "Pragnienie Krwi",
+      "lowMoraleDescription": "Początek Tury: zyskaj 1 [Vulnerable] i [AttackDmgUp]",
+      "panicDescription": "Początek Tury: zyskaj 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color> i <sprite name=\"AttackDmgUp\"><color=#ffc700><u><link=\"AttackDmgUp\">Wyższych Poziomów Ataku</link></u></color>"
     }
   ]
 }
