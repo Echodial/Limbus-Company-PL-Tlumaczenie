@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": 1030,
-      "panicName": "Bridle of Nihility",
-      "lowMoraleDescription": "Turn Start: gain 1 [Enhancement] and 3 [DefenseDown]. Take 5 SP at Turn End.",
-      "panicDescription": "Turn Start: gain 2 [Enhancement] and 6 [DefenseDown]. Heal 10 SP at Turn End."
+      "panicName": "Brzemie Daremności",
+      "lowMoraleDescription": "Początek Tury: zyskaj 1 [Enhancement] i 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color>. Na końcu tury otrzymaj 5 obrażeń SP.",
+      "panicDescription": "Początek Tury: zyskaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Ataku</link></u></color> i 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejszych Poziomów Obrony</link></u></color>.  Na końcu tury ulecz xię o 10 SP."
     },
     {
       "id": 9996,
-      "panicName": "Thorns",
-      "lowMoraleDescription": "On Clash Win, gain 1 [AttackDmgUp]",
-      "panicDescription": "On Clash Win, gain 1 [AttackDmgUp]. At Turn End, gain 2 [ParryingResultUp] next turn."
+      "panicName": "Ciernie",
+      "lowMoraleDescription": "Wygrywając Starcie zyskaj 1 [AttackDmgUp]",
+      "panicDescription": "Wygrywając Starcie zyskaj 1 [AttackDmgUp]. Na Końcu Tury, zyskaj 2 <sprite name=\"Enhancement\"><color=#ffc700><u><link=\"Enhancement\">Większej Mocy Starcia</link></u></color> na początku kolejnej tury."
     }
   ]
 }
