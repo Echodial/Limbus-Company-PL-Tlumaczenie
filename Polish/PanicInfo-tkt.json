@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 1024,
-      "panicName": "Broken Unity",
-      "lowMoraleDescription": "Gain 1 [Vulnerable]. Gain +1 [Vibration] Count when hit. (3 times max)",
-      "panicDescription": "Gain 2 [Vulnerable]. Gain +2 [Vibration] Count when hit. (3 times max)"
+      "panicName": "Przełamana Wspólnota",
+      "lowMoraleDescription": "Zyskaj 1 [Vulnerable]. Zyskaj +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> kiedy ta jednostka zostanie trafiona. (maks 3 razy)",
+      "panicDescription": "Zyskaj 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Kruchości</link></u></color>. Zyskaj +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> kiedy ta jednostka zostanie trafiona. (maks 3 razy)"
     }
   ]
 }
