@@ -6,16 +6,16 @@
         {
           "level": 1,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %HP o 10 HP<style=\"highlight\"></style>"
+                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %PŻ o 10 PŻ<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillTail] Ulecz 10 SP dla dwóch sojuszników z najniższą wartością SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkillTail] Ulecz 10 PP dla dwóch sojuszników z najniższą wartością PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -24,19 +24,19 @@
         {
           "level": 3,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %HP o 12 HP<style=\"highlight\"></style>"
+                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %PŻ o 12 PŻ<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillTail] Ulecz 12 SP dla dwóch sojuszników z najniższą wartością SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkillTail] Ulecz 12 PP dla dwóch sojuszników z najniższą wartością PP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalEndSkill] Ulecz sojusznika z najniższym %HP o 6 HP; Ulecz sojusznika z najniższą wartością SP o 6 SP<style=\"highlight\"></style>"
+                  "desc": "[CriticalEndSkill] Ulecz sojusznika z najniższym %PŻ o 6 PŻ; Ulecz sojusznika z najniższą wartością PP o 6 PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -45,19 +45,19 @@
         {
           "level": 4,
           "name": "Soda",
-          "abName": "Wellcheers",
+          "abName": "Nazdrówko",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %HP o 15 HP<style=\"highlight\"></style>"
+                  "desc": "[EndSkillHead] Ulecz 2 sojuszników z najniższym %PŻ o 15 PŻ<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillTail] Ulecz 15 SP dla dwóch sojuszników z najniższą wartością SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkillTail] Ulecz 15 PP dla dwóch sojuszników z najniższą wartością PP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalEndSkill] Ulecz sojusznika z najniższym %HP o 8 HP; Ulecz sojusznika z najniższą wartością SP o 8 SP<style=\"highlight\"></style>"
+                  "desc": "[CriticalEndSkill] Ulecz sojusznika z najniższym %PŻ o 8 PŻ; Ulecz sojusznika z najniższą wartością PP o 8 PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -71,8 +71,8 @@
         {
           "level": 1,
           "name": "Soda",
-          "abName": "Wellcheers",
-          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym HP<style=\"highlight\"></style>",
+          "abName": "Nazdrówko",
+          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym PŻ<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -89,8 +89,8 @@
         {
           "level": 3,
           "name": "Soda",
-          "abName": "Wellcheers",
-          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym HP<style=\"highlight\"></style>",
+          "abName": "Nazdrówko",
+          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym PŻ<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -107,8 +107,8 @@
         {
           "level": 4,
           "name": "Soda",
-          "abName": "Wellcheers",
-          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym HP<style=\"highlight\"></style>",
+          "abName": "Nazdrówko",
+          "desc": "[CantIdentify] Bierze na cel jednostkę z najniższym PŻ<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
+          "abName": "Perła Podróżniczka",
           "desc": "",
           "coinlist": [
             {
@@ -148,8 +148,8 @@
         {
           "level": 3,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
-          "desc": "[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[BeforeAttack] Przy 50%- PŻ, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -169,8 +169,8 @@
         {
           "level": 4,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
-          "desc": "[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku;\nPrzy 25%- HP, zyskaj zamiast tego +2 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[BeforeAttack] Przy 50%- PŻ, zyskaj +1 Wagi Ataku;\nPrzy 25%- PŻ, zyskaj zamiast tego +2 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -195,8 +195,8 @@
         {
           "level": 1,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
-          "desc": "[CantIdentify]\nTargets the unit with the least HP<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[CantIdentify]\nTargets the unit with the least PŻ<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
                   "desc": "[OnSucceedAttack] Nałóż Ilość [Burst] równe (Rezonansu Obżarstwa /3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ulecz wartość HP równą 20% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz wartość PŻ równą 20% zadanych obrażeń<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
@@ -216,8 +216,8 @@
         {
           "level": 3,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
-          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP\n[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym PŻ\n[BeforeAttack] Przy 50%- PŻ, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -225,7 +225,7 @@
                   "desc": "[OnSucceedAttack] Nałóż Ilość [Burst] równe (Rezonansu Obżarstwa /3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ulecz wartość HP równą 30% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz wartość PŻ równą 30% zadanych obrażeń<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
@@ -237,8 +237,8 @@
         {
           "level": 4,
           "name": "Żrąca Piana",
-          "abName": "Ambling Pearl",
-          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym HP\n[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku\nAt 25%- HP, additional +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[CantIdentify]\nBierze na cel jednostki z najniższym PŻ\n[BeforeAttack] Przy 50%- PŻ, zyskaj +1 Wagi Ataku\nAt 25%- PŻ, additional +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -246,7 +246,7 @@
                   "desc": "[OnSucceedAttack] Nałóż Ilość [Burst] równe (Rezonansu Obżarstwa /3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ulecz wartość HP równą 50% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz wartość PŻ równą 50% zadanych obrażeń<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 2 [Binding] na początku następnej tury<style=\"highlight\"></style>"
@@ -263,7 +263,7 @@
         {
           "level": 1,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "Jeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 20%)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -281,7 +281,7 @@
         {
           "level": 3,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "Jeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">25%</style>)\n<style=\"highlight\">- Przy 4+ najwyższego Rezonansu, zmień kalkulacje obrażeń na: zadaj +(5 + (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 35%)</style>",
           "coinlist": [
             {
@@ -302,7 +302,7 @@
         {
           "level": 4,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "Jeśli cel posiada [Vibration], zadaj +(<style=\"highlight\">5 +</style> (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">30%</style>)\n- Przy 4+ najwyższego Rezonansu, zmień kalkulacje obrażeń na: zadaj +(<style=\"highlight\">7.5 +</style> (suma Nasilenia oraz Ilości [Vibration] na celu)/<style=\"highlight\">1.5</style>)% więcej obrażeń (maks <style=\"highlight\">40%</style>)",
           "coinlist": [
             {
@@ -328,7 +328,7 @@
         {
           "level": 1,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 25%)\n- Przy 4+ najwyższego Rezonansu, podnieś sufit tego efektu do (maks 35%)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -346,7 +346,7 @@
         {
           "level": 3,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli cel posiada [Vibration], zadaj +((suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">30%</style>)\n- Przy 4+ najwyższego Rezonansu, <style=\"highlight\">zmień kalkulacje obrażeń na: zadaj +(5 + (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks 40%)</style>",
           "coinlist": [
             {
@@ -370,7 +370,7 @@
         {
           "level": 4,
           "name": "Gorycz z Grot",
-          "abName": "Blubbering Toad",
+          "abName": "Rycząca Ropucha",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli cel posiada [Vibration], zadaj +(<style=\"highlight\">5</style> + (suma Nasilenia oraz Ilości [Vibration] na celu)/2)% więcej obrażeń (maks <style=\"highlight\">40%</style>)\n- Przy 4+ najwyższego Rezonansu, zmień kalkulacje obrażeń na: zadaj +(<style=\"highlight\">7.5</style> + (suma Nasilenia oraz Ilości [Vibration] na celu)/<style=\"highlight\">1.5</style>)% więcej obrażeń (maks <style=\"highlight\">50%</style>)",
           "coinlist": [
             {
@@ -399,7 +399,7 @@
         {
           "level": 1,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -438,7 +438,7 @@
         {
           "level": 3,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "<style=\"highlight\">Jeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet</style>\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury",
           "coinlist": [
             {
@@ -477,7 +477,7 @@
         {
           "level": 4,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "Jeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -497,7 +497,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 2 [TakeHpHealReduce] na początku następnej tury</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 2 [TakePŻHealReduce] na początku następnej tury</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż +1 Ilość [Burst] za każde 2 Rezonansu Obżarstwa (maks 3)<style=\"highlight\"></style>"
@@ -524,7 +524,7 @@
         {
           "level": 1,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "[CantIdentify]\nLosowe Cele\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -559,7 +559,7 @@
         {
           "level": 3,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">Jeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet</style>\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n<style=\"highlight\">[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury</style>",
           "coinlist": [
             {
@@ -594,7 +594,7 @@
         {
           "level": 4,
           "name": "Lasso",
-          "abName": "Rose Hunter",
+          "abName": "Różany Łowca",
           "desc": "[CantIdentify]\nLosowe Cele\nJeśli suma watości prędkości tej jednostki oraz jej celu wynosi 6 lub więcej, +1 Mocy Monet\n+1 Mocy Monet za każde 7 [Burst] na celu (maks 2)\n[BeforeAttack] Zyskaj 2 [Agility] na początku następnej tury\n<style=\"highlight\">[BeforeAttack] Przy 4+ Rezonansu Obżarstwa lub Pożądania, zyskaj +1 Wagi Ataku</style>",
           "coinlist": [
             {
@@ -607,7 +607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 3 [TakeHpHealReduce] na początku następnej tury</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 3 [TakePŻHealReduce] na początku następnej tury</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż +2 Ilość [Laceration]<style=\"highlight\"></style>"
@@ -643,7 +643,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Ta jednostka traci HP równe Finalnej Mocy tej Umiejętności\n- Stracone w ten sposób HP nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
+                  "desc": "Ta jednostka traci PŻ równe Finalnej Mocy tej Umiejętności\n- Stracone w ten PPosób PŻ nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -658,7 +658,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Ta jednostka traci HP równe Finalnej Mocy tej Umiejętności\n- Stracone w ten sposób HP nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
+                  "desc": "Ta jednostka traci PŻ równe Finalnej Mocy tej Umiejętności\n- Stracone w ten PPosób PŻ nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -673,7 +673,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Ta jednostka traci HP równe Finalnej Mocy tej Umiejętności\n- Stracone w ten sposób HP nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
+                  "desc": "Ta jednostka traci PŻ równe Finalnej Mocy tej Umiejętności\n- Stracone w ten PPosób PŻ nie może zachwiać ani zabić tej jednostki<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -985,7 +985,7 @@
           "level": 4,
           "name": "Chciałbym Być Sobą [宁作吾]",
           "abName": "Ling",
-          "desc": "[WhenUse] Zyskaj <style=\"highlight\">4</style> [Breath]\n[BeforeAttack] zyskaj +1 Mocy Finalnej za każde 5 (Suma Nasilania oraz Ilości [Breath] na sobie) (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Jeśli ta jednostka nie posiada [Cianjing] ani [SeniorCianjing], zwróć połowę SP oraz Zasobów E.G.O zużytych przez tą umiejętność (zaokrąglone w dół)</style>\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing], zyskaj +1 Wagi Ataku oraz zadaj +<style=\"highlight\">25</style>% obrażeń\n[BeforeAttack] Jeśli ta jednostka posiada [SeniorCianjing], zyskaj +2 Wagi Ataku oraz zadaj +<style=\"highlight\">45</style>% obrażeń\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]",
+          "desc": "[WhenUse] Zyskaj <style=\"highlight\">4</style> [Breath]\n[BeforeAttack] zyskaj +1 Mocy Finalnej za każde 5 (Suma Nasilania oraz Ilości [Breath] na sobie) (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Jeśli ta jednostka nie posiada [Cianjing] ani [SeniorCianjing], zwróć połowę PP oraz Zasobów E.G.O zużytych przez tą umiejętność (zaokrąglone w dół)</style>\n[BeforeAttack] Jeśli ta jednostka posiada [Cianjing], zyskaj +1 Wagi Ataku oraz zadaj +<style=\"highlight\">25</style>% obrażeń\n[BeforeAttack] Jeśli ta jednostka posiada [SeniorCianjing], zyskaj +2 Wagi Ataku oraz zadaj +<style=\"highlight\">45</style>% obrażeń\n[EndSkill] Zyskaj 5 [Cianjing]\n- Jeśli ta jednostka posiada [Cianjing] lub [SeniorCianjing], zużyj je wszystkie i zyskaj 5 [SeniorCianjing]",
           "coinlist": [
             {},
             {
