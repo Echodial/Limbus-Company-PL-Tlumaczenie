@@ -130,7 +130,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skórna Wyrocznia ",
+          "abName": "Skórzana Wyrocznia",
           "desc": "",
           "coinlist": [
             {
@@ -148,7 +148,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skórna Wyrocznia ",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[BeforeAttack] Jeśli Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -166,7 +166,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skórna Wyrocznia ",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Jeśli ten Rezonans był Absolutny, zyskuje ona dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -192,7 +192,7 @@
         {
           "level": 1,
           "name": "9:2",
-          "abName": "Skórna Wyrocznia ",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[CantIdentify]\nLosowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -210,7 +210,7 @@
         {
           "level": 3,
           "name": "9:2",
-          "abName": "Skórna Wyrocznia ",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "name": "9:2",
-          "abName": "Skórna Wyrocznia ",
+          "abName": "Skórzana Wyrocznia",
           "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Jeśli najwyższy Rezonans Żądzy wynosi 4+, Ta Umiejętność zyskuje +1 Wagi Ataku\n[BeforeAttack] Jeśli ten Rezonans był Absolutny, zyskuje ona dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
