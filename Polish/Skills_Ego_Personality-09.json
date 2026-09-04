@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Żrąca Piana",
-          "abName": "Wędrująca Perła",
+          "abName": "Perła Podróżniczka",
           "desc": "",
           "coinlist": [
             {
@@ -24,8 +24,8 @@
         {
           "level": 3,
           "name": "Żrąca Piana",
-          "abName": "Wędrująca Perła",
-          "desc": "[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[BeforeAttack] Jeśli główny cel posiada więcej niż 50% PŻ, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -45,8 +45,8 @@
         {
           "level": 4,
           "name": "Żrąca Piana",
-          "abName": "Wędrująca Perła",
-          "desc": "[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku;\nJeśli główny cel posiada więcej niż 75% HP, zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[BeforeAttack] Jeśli główny cel posiada więcej niż 50% PŻ, zyskaj +1 Wagi Ataku;\nJeśli główny cel posiada więcej niż 75% PŻ, zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -71,13 +71,13 @@
         {
           "level": 1,
           "name": "Żrąca Piana",
-          "abName": "Wędrująca Perła",
+          "abName": "Perła Podróżniczka",
           "desc": "[CantIdentify]\nPrzypadkowe Cele<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ulecz ilość HP równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz ilość PŻ równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
@@ -89,13 +89,13 @@
         {
           "level": 3,
           "name": "Żrąca Piana",
-          "abName": "Wędrująca Perła",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli główny cel posiada więcej niż 50% PŻ, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ulecz ilość HP równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz ilość PŻ równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color><style=\"highlight\"></style>"
@@ -110,13 +110,13 @@
         {
           "level": 4,
           "name": "Żrąca Piana",
-          "abName": "Wędrująca Perła",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli główny cel posiada więcej niż 50% HP, zyskaj +1 Wagi Ataku;\nJeśli główny cel posiada więcej niż 75% HP, zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
+          "abName": "Perła Podróżniczka",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Jeśli główny cel posiada więcej niż 50% PŻ, zyskaj +1 Wagi Ataku;\nJeśli główny cel posiada więcej niż 75% PŻ, zyskaj dodatkowe +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ulecz ilość HP równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz ilość PŻ równą 30% zadanych Obrażeń<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Mniejsze Poziomy Obrony</link></u></color><style=\"highlight\"></style>"
@@ -145,7 +145,7 @@
                   "desc": "[OnSucceedAttackHead] Nałóż 1 [AmberTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Ulecz dwóch Sojuszników z najniższym %HP o 15% Maks HP tej jednostki<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Ulecz dwóch Sojuszników z najniższym %PŻ o 15% Maks PŻ tej jednostki<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -163,10 +163,10 @@
                   "desc": "[OnSucceedAttackHead] Nałóż 1 [AmberTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Ulecz dwóch Sojuszników z najniższym %HP o 25% Maks HP tej jednostki<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Ulecz dwóch Sojuszników z najniższym %PŻ o 25% Maks PŻ tej jednostki<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillHead] Jeśli cel jest Zachwiany lub pokonany, nałóż 10% Maks HP tej jednostki jako Tarcza na Sojuszników uleczonych powyższym efektem<style=\"highlight\"></style>"
+                  "desc": "[EndSkillHead] Jeśli cel jest Zachwiany lub pokonany, nałóż 10% Maks PŻ tej jednostki jako Tarcza na Sojuszników uleczonych powyższym efektem<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -184,10 +184,10 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [AmberTakeDamageUp] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Ulecz dwóch Sojuszników z najniższym %HP o 30% Maks HP tej jednostki<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Ulecz dwóch Sojuszników z najniższym %PŻ o 30% Maks PŻ tej jednostki<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillHead] Jeśli cel jest Zachwiany lub pokonany, nałóż 15% Maks HP tej jednostki jako Tarcza na Sojuszników uleczonych powyższym efektem<style=\"highlight\"></style>"
+                  "desc": "[EndSkillHead] Jeśli cel jest Zachwiany lub pokonany, nałóż 15% Maks PŻ tej jednostki jako Tarcza na Sojuszników uleczonych powyższym efektem<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -210,7 +210,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj 15 Obrażeń SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj 15 Obrażeń PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -220,7 +220,7 @@
           "level": 3,
           "name": "Prawomocność",
           "abName": "Skryba Niebiańskiego Kata",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 50%- HP, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 50%- PŻ, zyskaj +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -228,10 +228,10 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj 20 Obrażeń SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj 20 Obrażeń PP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Jeśli cel został Zachwiany lub pokonany, ulecz na sobie 5 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Jeśli cel został Zachwiany lub pokonany, ulecz na sobie 5 PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -241,7 +241,7 @@
           "level": 4,
           "name": "Prawomocność",
           "abName": "Skryba Niebiańskiego Kata",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 50%- HP, zyskaj +2 Wagi Ataku<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[BeforeAttack] Przy 50%- PŻ, zyskaj +2 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -249,10 +249,10 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Zadaj 20 Obrażeń SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Zadaj 20 Obrażeń PP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel został Zachwiany lub pokonany, ulecz na sobie 7 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel został Zachwiany lub pokonany, ulecz na sobie 7 PP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -267,7 +267,7 @@
           "level": 1,
           "name": "Zew Krwi",
           "abName": "Czerwone Buty",
-          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks 6)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.<style=\"highlight\"></style>",
+          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks 6)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 PP na Końcu Tury.<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -276,7 +276,7 @@
                   "summary": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu"
                 },
                 {
-                  "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe HP Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
+                  "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe PŻ Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
                   "summary": "[EnemyKill] Rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia."
                 }
               ]
@@ -287,7 +287,7 @@
           "level": 3,
           "name": "Zew Krwi",
           "abName": "Czerwone Buty",
-          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks <style=\"highlight\">9</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.",
+          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks <style=\"highlight\">9</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 PP na Końcu Tury.",
           "coinlist": [
             {
               "coindescs": [
@@ -296,7 +296,7 @@
                   "summary": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu"
                 },
                 {
-                  "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe HP Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
+                  "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe PŻ Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
                   "summary": "[EnemyKill] Rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia."
                 }
               ]
@@ -307,7 +307,7 @@
           "level": 4,
           "name": "Zew Krwi",
           "abName": "Czerwone Buty",
-          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks <style=\"highlight\">13</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury.",
+          "desc": "+1 Mocy Monety za każde 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu (maks <style=\"highlight\">13</style>)\n[StartBattle] Główny cel tej Umiejętności nie traci Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> podczas tej tury.\n[EndSkill] Przez 3 tury, Strać 10 PP na Końcu Tury.",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
                   "summary": "[OnSucceedAttack] Zadaj Obrażenia od Rządzy równe Nasileniu <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link> na celu"
                 },
                 {
-                  "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe HP Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
+                  "desc": "[EnemyKill] Jeśli ta Umiejętność lub efekty jej Monet zadadzą obrażenia które przewyższają pozostałe PŻ Celu(w skupionych potyczkach, rdzenia celu), rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia.<style=\"highlight\"></style>",
                   "summary": "[EnemyKill] Rozdziel po równo nadwyżkę obrażeń pomiędzy wszyskich Przeciwników jako stałe obrażenia."
                 }
               ]
@@ -391,7 +391,7 @@
           "level": 1,
           "name": "Zaklęta Igła",
           "abName": "Skrzwdzony Pluszowy Miś",
-          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %HP o 12.5% Maks HP tej jednostki<style=\"highlight\"></style>",
+          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %PŻ o 12.5% Maks PŻ tej jednostki<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -416,7 +416,7 @@
           "level": 3,
           "name": "Zaklęta Igła",
           "abName": "Skrzwdzony Pluszowy Miś",
-          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %HP o 12.5% Maks HP tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej HP za każde 2 negatywne efekty na sobie (maks 7.5)</style>",
+          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %PŻ o 12.5% Maks PŻ tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej PŻ za każde 2 negatywne efekty na sobie (maks 7.5)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -441,7 +441,7 @@
           "level": 4,
           "name": "Zaklęta Igła",
           "abName": "Skrzwdzony Pluszowy Miś",
-          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %HP o <style=\"highlight\">15%</style> Maks HP tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej HP za <style=\"highlight\">każdy</style> negatywny efekt na sobie (maks <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
+          "desc": "[EndSkill] Ulecz siebie oraz dwóch Sojuszników z najniższym %PŻ o <style=\"highlight\">15%</style> Maks PŻ tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka leczy +2.5% więcej PŻ za <style=\"highlight\">każdy</style> negatywny efekt na sobie (maks <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
           "level": 1,
           "name": "Zaklęta Igła",
           "abName": "Skrzwdzony Pluszowy Miś",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %HP o 15% Maks HP tej jednostki<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %PŻ o 15% Maks PŻ tej jednostki<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -499,7 +499,7 @@
           "level": 3,
           "name": "Zaklęta Igła",
           "abName": "Skrzwdzony Pluszowy Miś",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %HP o 15% Maks HP tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka zyskuje 1 [AttackUp] za każde 2 negatywne efekty na tych jednostkach (maks 2)</style>",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %PŻ o 15% Maks PŻ tej jednostki\n<style=\"highlight\">- Każda uleczona przez poprzedni efekt jednostka zyskuje 1 [AttackUp] za każde 2 negatywne efekty na tych jednostkach (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -527,7 +527,7 @@
           "level": 4,
           "name": "Zaklęta Igła",
           "abName": "Skrzwdzony Pluszowy Miś",
-          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %HP o <style=\"highlight\">20%</style> Maks HP tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka zyskuje 1 [AttackUp] za <style=\"highlight\">każdy</style> negatywny efekt na tych jednostkach (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
+          "desc": "[CantIdentify]\nPrzypadkowe Cele\n[EndSkill] Ulecz trzech Sojuszników z najniższym %PŻ o <style=\"highlight\">20%</style> Maks PŻ tej jednostki\n- Każda uleczona przez poprzedni efekt jednostka zyskuje 1 [AttackUp] za <style=\"highlight\">każdy</style> negatywny efekt na tych jednostkach (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">- Przy 4+ Rezonansu Zazdrości w którym jest ta Umiejętność, ulecz jednego dodatkowego Sojusznika</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
           "level": 1,
           "name": "Proces Pokazowy",
           "abName": "Płonąca Księżna",
-          "desc": "[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %HP o 15% ich maks HP (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury<style=\"highlight\"></style>",
+          "desc": "[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %PŻ o 15% ich maks PŻ (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 PP na Końcu Tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -579,7 +579,7 @@
           "level": 3,
           "name": "Proces Pokazowy",
           "abName": "Płonąca Księżna",
-          "desc": "<style=\"highlight\">[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)</style>\n[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %HP o <style=\"highlight\">18</style>% ich maks HP (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury",
+          "desc": "<style=\"highlight\">[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)</style>\n[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %PŻ o <style=\"highlight\">18</style>% ich maks PŻ (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 PP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
@@ -598,7 +598,7 @@
           "level": 4,
           "name": "Proces Pokazowy",
           "abName": "Płonąca Księżna",
-          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)\n[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %HP o <style=\"highlight\">20</style>% ich maks HP (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 SP na Końcu Tury",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezonans / 2) Wagi Ataku (maks 3; zaokrąglone w dół)\n[EndSkill] Ulecz (1 + najwyższy Rezonans) Sojuszników z najniższym %PŻ o <style=\"highlight\">20</style>% ich maks PŻ (maks 3 Sojuszników)\n[EndSkill] Przez 3 tury, Strać 10 PP na Końcu Tury",
           "coinlist": [
             {
               "coindescs": [
@@ -646,7 +646,7 @@
                   "desc": "Zadaj +1% obrażeń głównemu celowi za każde Nasilenie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na głównym celu (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %HP (maks 4 Sojuszników; Raz na Umiejętność)<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %PŻ (maks 4 Sojuszników; Raz na Umiejętność)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -680,7 +680,7 @@
                   "desc": "Zadaj +1% obrażeń głównemu celowi za każde Nasilenie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na głównym celu (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %HP (maks <style=\"highlight\">5</style> Sojuszników; Raz na Umiejętność)"
+                  "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %PŻ (maks <style=\"highlight\">5</style> Sojuszników; Raz na Umiejętność)"
                 }
               ]
             }
@@ -717,7 +717,7 @@
                   "desc": "Zadaj +<style=\"highlight\">2</style>% obrażeń głównemu celowi za każde Nasilenie <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na głównym celu (maks <style=\"highlight\">100</style>%)"
                 },
                 {
-                  "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %HP (maks <style=\"highlight\">6</style> Sojuszników; Raz na Umiejętność)"
+                  "desc": "[EnemyKill] Nałóż 1 [CrimsonResultUp] oraz 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) Sojuszników z najniższym %PŻ (maks <style=\"highlight\">6</style> Sojuszników; Raz na Umiejętność)"
                 }
               ]
             }
