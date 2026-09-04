@@ -2,113 +2,113 @@
   "dataList": [
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
-      "add": "Increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
-      "min": "Decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+      "add": "Zwiększa się po wygraniu Starcia, zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1)</size>",
+      "min": "Zmniejsza się po wygraniu Starcia, zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1)</size>"
     },
     {
       "id": "OnKillEnemyAsLevelRatioMultiply",
-      "add": "Increase by {0} after this unit defeats an enemy whose level was higher than or equal to this unit’s",
-      "min": "Decrease by {0} after this unit defeats an enemy whose level was higher than or equal to this unit’s"
+      "add": "Zwiększa się o {0} kiedy ta jednostka pokona przeciwnika, którego poziom był wyższy lub równy jej poziomowi",
+      "min": "Zmniejsza się o {0} kiedy ta jednostka pokona przeciwnika, którego poziom był wyższy lub równy jej poziomowi"
     },
     {
       "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
-      "add": "Increase by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s",
-      "min": "Decrease by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s"
+      "add": "Zwiększa się o {0} kiedy sojusznik pokona przeciwnika, którego poziom był wyższy lub równy jego poziomowi",
+      "min": "Zmniejsza się o {0} kiedy sojusznik pokona przeciwnika, którego poziom był wyższy lub równy jego poziomowi"
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
-      "add": "Increases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
-      "min": "Decreases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+      "add": "Zwiększa się po przegraniu Starcia, zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1)</size>",
+      "min": "Zmniejsza się po przegraniu Starcia, zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1)</size>"
     },
     {
       "id": "OnDieAllyAsLevelRatio",
-      "add": "If the level of the defeated ally was higher than or equal to the unit’s,\nincrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>",
-      "min": "If the level of the defeated ally was higher than or equal to the unit’s,\ndecrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>"
+      "add": "Jeśli poziom pokonanego sojusznika był wyższy lub równy poziomowi tej jednostki,\nzwiększa się zależnie od różnicy poziomów\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {0} za każdy poziom)</size>",
+      "min": "Jeśli poziom pokonanego sojusznika był wyższy lub równy poziomowi tej jednostki,\nzmniejsza się zależnie od różnicy poziomów\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {0} za każdy poziom)</size>"
     },
     {
       "id": "OnRoundStartAfterEvent",
-      "add": "Increased by {0} at the start of the turn",
-      "min": "Decreased by {0} at the start of the turn"
+      "add": "Zwiększa się o {0} na początku tury",
+      "min": "Zmniejsza się o {0} na początku tury"
     },
     {
       "id": "OnKillEnemyMp",
-      "add": "Increase by {0} after this unit defeats an enemy regardless of their level",
-      "min": "Decrease by {0} after this unit defeats an enemy regardless of their level"
+      "add": "Zwiększa się o {0} kiedy ta jednostka pokona przeciwnika, niezależnie od poziomu",
+      "min": "Zmniejsza się o {0} kiedy ta jednostka pokona przeciwnika, niezależnie od poziomu"
     },
     {
       "id": "OnDieAllyMp",
-      "add": "If an ally is defeated, increase by {0} regardless of the ally's level",
-      "min": "If an ally is defeated, decrease by {0} regardless of the ally's level"
+      "add": "Jeśli sojusznik zostanie pokonany, zwiększa się o {0} niezależnie od jego poziomu",
+      "min": "Jeśli sojusznik zostanie pokonany, zmniejsza się o {0} niezależnie od jego poziomu"
     },
     {
       "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
-      "add": "Increase by {0} after an ally defeats an enemy whose level was higher than or equal to this unit’s",
-      "min": "Decrease by {0} after an ally defeats an enemy whose level was higher than or equal to this unit’s. Does not decrease when the enemy was defeated by an Assist Attack."
+      "add": "Zwiększa się o {0} kiedy sojusznik pokona przeciwnika, którego poziom był wyższy lub równy poziomowi tej jednostki",
+      "min": "Zmniejsza się o {0} kiedy sojusznik pokona przeciwnika, którego poziom był wyższy lub równy poziomowi tej jednostki. Nie zmniejsza się, jeśli przeciwnik został pokonany asystą w ataku."
     },
     {
       "id": "OnDieBladeLineageAlly",
-      "add": "If a Blade Lineage ally is defeated, gain {0} regardless of the ally's level",
-      "min": "If a Blade Lineage ally is defeated, lose {0} regardless of the ally's level"
+      "add": "Jeśli zostanie pokonany sojusznik z Rodowodu Ostrza, zyskaj {0} niezależnie od jego poziomu",
+      "min": "Jeśli zostanie pokonany sojusznik z Rodowodu Ostrza, strać {0} niezależnie od jego poziomu"
     },
     {
       "id": "OnWinDuelLessMpTarget",
-      "add": "Increases by {0} after winning a Clash against an enemy with SP lower than this unit's",
-      "min": "Decreases by {0} after winning a Clash against an enemy with SP lower than this unit's"
+      "add": "Zwiększa się by {0} po wygraniu Starcia z przeciwnikiem, którego PP jest mniejsze niż tej jednostki",
+      "min": "Zmniejsza się by {0} po wygraniu Starcia z przeciwnikiem, którego PP jest mniejsze niż tej jednostki"
     },
     {
       "id": "OnLoseDuelLessMpTarget",
-      "add": "Increases by {0} after losing a Clash against an enemy with SP lower than this unit's",
-      "min": "Decreases by {0} after losing a Clash against an enemy with SP lower than this unit's"
+      "add": "Zwiększa się by {0} po przegraniu Starcia z przeciwnikiem, którego PP są mniejsze niż tej jednostki",
+      "min": "Zmniejsza się by {0} po przegraniu Starcia z przeciwnikiem, którego PP są mniejsze niż tej jednostki"
     },
     {
       "id": "OnKillEnemyByOtherAlly",
-      "add": "Increase by {0} after an ally defeats an enemy regardless of their level",
-      "min": "Decrease by {0} after an ally defeats an enemy regardless of their level"
+      "add": "Zwiększa się o {0} kiedy sojusznik pokona przeciwnika, niezależnie od poziomu",
+      "min": "Zmniejsza się o {0} kiedy sojusznik pokona przeciwnika, niezależnie od poziomu"
     },
     {
       "id": "OnWinDuelAnyTarget",
-      "add": "Increased by {0} on Clash Win",
-      "min": "Decreased by {0} on Clash Lose"
+      "add": "Zwiększa się o {0} przy wygraniu Starcia",
+      "min": "Zmniejsza się o {0} przy przegraniu Starcia"
     },
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax",
-      "add": "Increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1; max {2}%)</size>",
-      "min": "Decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1; max {2}%)</size>"
+      "add": "Zwiększa się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1; max {2}%)</size>",
+      "min": "Zmniejsza się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1; max {2}%)</size>"
     },
     {
       "id": "OnLoseDuelAnyTarget",
-      "add": "Increased by {0} on Clash Lose",
-      "min": "Decreased by {0} on Clash Lose"
+      "add": "Zwiększa się o {0} przy przegraniu Starcia",
+      "min": "Zmniejsza się o {0} przy przegraniu Starcia"
     },
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
-      "add": "Increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by <color=red>{1}%</color> per Clash count after 1)</size>",
-      "min": "Decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by <color=red>{1}%</color> per Clash count after 1)</size>"
+      "add": "Zwiększa się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o <color=red>{1}%</color> za każde starcie ponad 1)</size>",
+      "min": "Zmniejsza się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o <color=red>{1}%</color> za każde starcie ponad 1)</size>"
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
-      "add": "Increases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by <color=red>{1}%</color> per Clash count after 1)</size>",
-      "min": "Decreases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by <color=red>{1}%</color> per Clash count after 1)</size>"
+      "add": "Zwiększa się po przegraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o <color=red>{1}%</color> za każde starcie ponad 1)</size>",
+      "min": "Zmniejsza się po przegraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o <color=red>{1}%</color> za każde starcie ponad 1)</size>"
     },
     {
       "id": "OnTakeAttackDamagePerWithMax",
-      "add": "<color=red>Increases when hit by an enemy\n<size=95%>(Base Value is {0}, raised by up to {1} per Turn)</size></color>",
-      "min": "<color=red>Decreases when hit by an enemy\n<size=95%>(Base Value is {0}, raised by up to {1} per Turn)</size></color>"
+      "add": "<color=red>Zwiększa się kiedy ta jednostka zostaje trafiona przez przeciwnika\n<size=95%>(Bazowa Ilość: {0}, zwiększone do maks {1} na turę)</size></color>",
+      "min": "<color=red>Zmniejsza się kiedy ta jednostka zostaje trafiona przez przeciwnika\n<size=95%>(Bazowa Ilość: {0}, zwiększone do maks {1} na turę)</size></color>"
     },
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThan",
-      "add": "At {2} or higher SP, increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
-      "min": "At {2} or higher SP, decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+      "add": "Mając {2} lub więcej PP, zwiększa się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1)</size>",
+      "min": "Mając {2} lub więcej PP, zmniejsza się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o {1}% za każde starcie ponad 1)</size>"
     },
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThanWithEmphasis",
-      "add": "<color=red>At {2} or higher SP,</color> increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by <color=red>{1}%</color> per Clash count after 1)</size>",
-      "min": "<color=red>At {2} or higher SP,</color> decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by <color=red>{1}%</color> per Clash count after 1)</size>"
+      "add": "<color=red>Mając {2} lub więcej PP,</color> zwiększa się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o <color=red>{1}%</color> za każde starcie ponad 1)</size>",
+      "min": "<color=red>Mając {2} lub więcej PP,</color> zmniejsza się po wygraniu Starcia zależnie od wartości Starcia\n<size=95%>(Bazowa Ilość: {0}, zwiększone o <color=red>{1}%</color> za każde starcie ponad 1)</size>"
     },
     {
       "id": "OnOneSideAttackEnd",
-      "add": "Increase by {0} after Unopposed Attack",
-      "min": "Decrease by {0} after Unopposed Attack"
+      "add": "Zwiększa się o {0} po Bezpośrednim Ataku",
+      "min": "Zmniejsza się o {0} po Bezpośrednim Ataku"
     }
   ]
 }
