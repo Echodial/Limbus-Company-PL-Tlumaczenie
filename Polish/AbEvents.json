@@ -3,14 +3,14 @@
     {
       "id": 800101,
       "title": "백설선택지1",
-      "eventDesc": "Serce rozdarte na tysiąc kawałków musi zostać skryte przed oczami patrzących, tak więc zakopuje się w ziemi, otaczając się cierniami.\n\nJednak ktoś musi wyciągnąć te kolczaste korzenie,\ngdyż żadna rana nie może pozostać nieodkopana.\n\nGrzesznicy spoglądają po sobie.\nBycie otoczonym przebijającym, ostrym bólem jest unikane nawet we śnie.",
+      "eventDesc": "Serce rozdarte na tysiąc kawałków musi zostać skryte przed oczami patrzących, tak więc zakopuje się w ziemi, otaczając się cierniami.\n\nJednak ktoś musi wyciągnąć te kolczaste korzenie,\ngdyż żadna rana nie może pozostać nieodkopana.\n\nGrzesznicy spoglądają po sobie.\nNawet w snach unika się bycia otoczonym przebijającym, kłującym bólem.",
       "prevDesc": "Te pnącza pokrywające podłogę strasznie przeszkadzają.\nMoże uda nam się ich pozbyć?",
-      "behaveDesc": "Sucha ziemia musi zostać wykopana.\nKtóry Grzesznik się tego podejmie?",
+      "behaveDesc": "Ktoś musi przekopać się przez tą suchą ziemię.\nKtóry Grzesznik się tego podejmie?",
       "successDesc": [
-        "{0} idzie chwiejnym krokiem.\nWykopuje korzenie gołymi rękami.\n\nW rękach czuje zwątpienie innych.\nWtedy dociera to do tego Grzesznika…\n\nO ile rany się zaleczą, nieufność może głęboko zapuścić korzenie w sercu."
+        "{0} idzie chwiejnym krokiem.\nWykopuje korzenie gołymi rękami.\n\nKolce kłują zwątpieniem innych.\nWtedy coś dociera do tego Grzesznika…\n\nO ile rany się zaleczą, nieufność może głęboko zapuścić korzenie w sercu."
       ],
       "failureDesc": [
-        "{0} nie może nic wykopać.\nNie jest to proste zadanie, korzenie są splątane tak mocno, że nikt nie mógłby się w tym połapać.\n\nŁapiąc się sa siebie, sieć korzeni się rozrasta,\na Grzesznicy będą nadal cierpieć."
+        "{0} nie może nic wykopać.\nW końcu to nie takie proste, korzenie są splątane tak mocno, że nikt nie mógłby się w tym połapać.\n\nŁapiąc się sa siebie, sieć korzeni rozrasta się,\na Grzesznicy nadal będą cierpieć."
       ]
     },
     {
@@ -42,14 +42,14 @@
     {
       "id": 800105,
       "title": "백설선택지5",
-      "eventDesc": "Grzesznicy wpatrzyli się w twarz Anomalii.\nWidzieli w nim wyblakłe wspomnienia…\n\nNawet dziury zostawione przez szkodniki.\n\nŻycie jakbłka nie kończy się, kiedy dojrzeje w szkarłatną czerwień.\nDopiero kiedy zbrązowieje, popęka, pomarszczy się i zacznie przyciągać wszelakie okropieństwa…\nWtedy właśnie osiąga złocistą rozkosz.\n\nGrzesznicy wiedzieli. że to była chwila, w której sprowadzają jabłko na ziemię.",
+      "eventDesc": "Grzesznicy wpatrzyli się w twarz Anomalii.\nWidzieli w niej wyblakłe wspomnienia…\n\nNawet dziury zostawione przez szkodniki.\n\nŻycie jakbłka nie kończy się, kiedy dojrzeje w barwie szkarłatnej czerwieni.\nDopiero kiedy zbrązowieje, popęka, pomarszczy się i zacznie przyciągać wszelakie okropieństwa…\nWtedy właśnie osiąga złocistą rozkosz.\n\nGrzesznicy wiedzieli. że to była chwila, w której sprowadzają jabłko na ziemię.",
       "prevDesc": "Owoc narodził się na nowo.\nMoże to nasza szansa, by zniszczyć go raz na zawsze?",
       "behaveDesc": "Jabłko jest otwarte na atak.\nKtóry z Grzeszników sprowadzi je na ziemię?",
       "successDesc": [
         "{0} zrzuca jabłko na ziemię.\nUpada ono z głuchym odgłosem.\n\nOwoc już dawno został pozbawiony sił życiowych; pozostała tylko próżność.\nTen atak pozwolił Grzesznikom na chwilę wypoczynku."
       ],
       "failureDesc": [
-        "{0} nie udaje się zrzucić jabłka.\nWachanie spowodowane niepewne sercem Grzesznika musiało przeszkodzić.\n\nWszystkie umysły są takie same.\nIW każdym można znaleźć poczucie niższości, skłonne uwłaczać samemu sobie."
+        "{0} nie udaje się zrzucić jabłka.\nWachanie spowodowane niepewności w sercu Grzesznika musiało przeszkodzić.\n\nWszystkie umysły są takie same.\nW każdym można znaleźć poczucie niższości, skłonne uwłaczać samemu sobie."
       ]
     },
     {
@@ -59,10 +59,10 @@
       "prevDesc": "Może Złota Gałązka jest gdzieś w jabłku?",
       "behaveDesc": "Nie możecie po prostu posłać Yuri samej.\nKtóry z Grzeszników pójdzie razem z nią?",
       "successDesc": [
-        "Pęknięta skorupa owocu zaczęła trżęść się, jakby miał w każdej chwili na was skoczyć.\n\n{0} udało się uciec, jednak Yuri nie miała tyle szczęścia.\nMiąsz owocu już zlał się z nią, by stworzyć nowe ciało.\n\nNie czuj się o to winne. Jedno stracone życie to i tak lepiej niż dwa."
+        "Pęknięta skorupa owocu zaczęła trżąść się, jakby miał w każdej chwili na was skoczyć.\n\n{0} udało się uciec, jednak Yuri nie miała tyle szczęścia.\nMiąsz owocu już scalił się z nią, by stworzyć nowe ciało.\n\nNie czuj się o to winne. Jedno stracone życie to i tak lepiej niż dwa."
       ],
       "failureDesc": [
-        "Pęknięta skorupa owocu zaczęła trżęść się, jakby miał w każdej chwili na was skoczyć.\n\n{0} ledwo udało się odskoczyć na czas.\nŻyje, choć nie bez szwanku.\n\nYuri zauważyła jeszcze później. Miąsz owocu już zlał się z nią, by stworzyć nowe ciało.\n\nOkropna szkoda, ale nic nie mogłoś na to poradzić. Do tego oberwał jeden z waszych."
+        "Pęknięta skorupa owocu zaczęła trżąść się, jakby miał w każdej chwili na was skoczyć.\n\n{0} ledwo udało się odskoczyć na czas.\nŻyje, choć nie bez szwanku.\n\nYuri zauważyła jeszcze później. Miąsz owocu już scalił się z nią, by stworzyć nowe ciało.\n\nOkropna szkoda, ale nic nie mogłoś na to poradzić. Do tego oberwał jeden z waszych."
       ]
     },
     {
@@ -75,10 +75,10 @@
       "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
       "behaveDesc": "Kto zadowoli Anomalię?",
       "successDesc": [
-        "Zdaje się, że krew {0} wystarczyła.\nBędąc zadowolona, Anomalia chwilowo się uspokoiła."
+        "Zdaje się, że krew {0} wystarczyła.\nAnomalia wygląda na zadowoloną i chwilowo się uspokoiła."
       ],
       "failureDesc": [
-        "Zdaje się, że krew {0} nie przypadła Anomalii do gustu.\nTeraz wygląda na jeszcze wścieklejszą niż wcześniej."
+        "Zdaje się, że krew {0} nie przypadła Anomalii do gustu.\nTeraz wygląda na jeszcze jeszcze bardziej wściekłą niż wcześniej."
       ]
     },
     {
