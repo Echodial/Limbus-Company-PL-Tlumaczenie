@@ -562,7 +562,7 @@
         {
           "level": 1,
           "name": "Ja Wybieram Nożyce. A ty?",
-          "abName": "Zagrasz Ze Mną?",
+          "abName": "Pobawisz Się Ze Mną?",
           "desc": "Przy Ataku w Ślepy Punkt: Nie aktywuje efektów tej Umiejętności polegających na kondycji [UnBrokenCoinOnSucceedAttack]\n[WinDuel] Zużyj ilość Zasobów E.G.O. Zazdrości równą Rezonansowi Zazdrości, po czym przyznaj jeden Zasób E.G.O. należący do najmniej posiadanej kategorii za każdy zużyty w ten sposób Zasób Zazdrości (maks ilość zużytych zasobów Zazdrości: 4)\n[DefeatDuel] -4 Mocy Finalnej oraz zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 20)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -587,7 +587,7 @@
         {
           "level": 3,
           "name": "Ja Wybieram Nożyce. A ty?",
-          "abName": "Zagrasz Ze Mną?",
+          "abName": "Pobawisz Się Ze Mną?",
           "desc": "Przy Ataku w Ślepy Punkt: Nie aktywuje efektów tej Umiejętności polegających na kondycji [UnBrokenCoinOnSucceedAttack]\n[WinDuel] Zużyj ilość Zasobów E.G.O. Zazdrości równą Rezonansowi Zazdrości, po czym przyznaj jeden Zasób E.G.O. należący do najmniej posiadanej kategorii za każdy zużyty w ten sposób Zasób Zazdrości (maks ilość zużytych zasobów Zazdrości: 5)\n[DefeatDuel] -4 Mocy Finalnej oraz zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 25)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -615,7 +615,7 @@
         {
           "level": 4,
           "name": "Ja Wybieram Nożyce. A ty?",
-          "abName": "Zagrasz Ze Mną?",
+          "abName": "Pobawisz Się Ze Mną?",
           "desc": "Przy Ataku w Ślepy Punkt: Nie aktywuje efektów tej Umiejętności polegających na kondycji [UnBrokenCoinOnSucceedAttack]\n[WinDuel] Zużyj ilość Zasobów E.G.O. Zazdrości równą Rezonansowi Zazdrości, po czym przyznaj jeden Zasób E.G.O. należący do najmniej posiadanej kategorii za każdy zużyty w ten sposób Zasób Zazdrości (maks ilość zużytych zasobów Zazdrości: 6)\n[DefeatDuel] -4 Mocy Finalnej oraz zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 30)<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -648,7 +648,7 @@
         {
           "level": 1,
           "name": "Ja Wybieram Nożyce. A ty?",
-          "abName": "Zagrasz Ze Mną?",
+          "abName": "Pobawisz Się Ze Mną?",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\nPrzy 2+ Rezonansu Zazdrości, +1 Mocy Finalnej\n[WinDuel] +1 Wagi Ataku za każde 2 Rezonansu Zazdrości (maks 2)\n[DefeatDuel] Zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks 20)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowego [NiddleEGO] oraz [NailPersonality]<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -683,7 +683,7 @@
         {
           "level": 3,
           "name": "Ja Wybieram Nożyce. A ty?",
-          "abName": "Zagrasz Ze Mną?",
+          "abName": "Pobawisz Się Ze Mną?",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n<style=\"highlight\">+1 Mocy Finalnej za każde 2 Rezonansu Zazdrości (maks 2)</style>\n[WinDuel] +1 Wagi Ataku za każde 2 Rezonansu Zazdrości (maks 2)\n[DefeatDuel] Zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowego [NiddleEGO], <style=\"highlight\">[Curse]</style>, oraz [NailPersonality]",
           "coinlist": [
             {
@@ -721,7 +721,7 @@
         {
           "level": 4,
           "name": "Ja Wybieram Nożyce. A ty?",
-          "abName": "Zagrasz Ze Mną?",
+          "abName": "Pobawisz Się Ze Mną?",
           "desc": "[CantIdentify]\nPrzypadkowe Cele\n+1 Mocy Finalnej za każde 2 Rezonansu Zazdrości (maks <style=\"highlight\">3</style>)\n[WinDuel] +1 Wagi Ataku za każde 2 Rezonansu Zazdrości (maks 2)\n[DefeatDuel] Zyskaj Tarczę równą (Rezonans Zazdrości x 5) (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowego [NiddleEGO], [Curse], oraz [NailPersonality]<style=\"highlight\"></style>",
           "coinlist": [
             {
