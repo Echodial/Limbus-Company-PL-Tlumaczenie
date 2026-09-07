@@ -3,18 +3,18 @@
     {
       "id": 101001,
       "name": "Human Offering",
-      "subDesc": "Widzimy przed nami gliniane lalki.",
-      "desc": "Grzebią w trupach, jakby czegoś szukały.\nW uszach odbijają wam się nieustanne prośby o ofiarę.\nLalki wyglądają, jakby miały się na was rzucić.\n\nNiedaleko was zauważasz umierającą osobę, ledwo chwytającą powietre.\nPowinnoś złożyć ją w ofierze?\nCzy może…",
+      "subDesc": "Na naszej drodze znajdujemy gliniane lalki.",
+      "desc": "Grzebią w trupach, jakby czegoś szukały.\nW uszach odbijają wam się nieustanne domaganie się ofiary.\nLalki wyglądają, jakby miały się na was rzucić.\n\nNiedaleko was zauważasz umierającą osobę, ledwo chwytającą powietrze.\nPowinnoś złożyć ją w ofierze?\nCzy może…",
       "options": [
         {
-          "message": "Złóż osobę.",
+          "message": "Ofiaruj tą osobę.",
           "messageDesc": "Wszyscy sojusznicy tracą SP. Zdobywasz Dar E.G.O.",
           "result": [
             "Zadowolone ofiarą, gliniane lalki wynoszą gdzieś ciało."
           ]
         },
         {
-          "message": "Nie składaj osoby.",
+          "message": "Nie składaj ofiary.",
           "messageDesc": "Rozpoczyna potyczkę. Wygraj, by zdobyć silniejszy Dar E.G.O.",
           "result": [
             "Zdenerwowane twoim niezdecydowaniem, gliniane lalki was atakują."
@@ -32,18 +32,18 @@
     {
       "id": 10100101,
       "name": "Human Offering",
-      "subDesc": "Widzimy przed nami gliniane lalki.",
-      "desc": "Grzesznicy nie pójdą na ofiarę.\n\nPowinniśmy złożyć ją w ofierze?\nCzy może…",
+      "subDesc": "Na naszej drodze znajdujemy gliniane lalki.",
+      "desc": "Grzesznicy nie pójdą na ofiarę.\n\nPowinniśmy złożyć umiejrającą osobę w ofierze?\nCzy może…",
       "options": [
         {
-          "message": "Złóż osobę.",
+          "message": "Ofiaruj osobę.",
           "messageDesc": "Wszyscy sojusznicy tracą SP. Zdobywasz Dar E.G.O.",
           "result": [
             "Zadowolone ofiarą, gliniane lalki wynoszą gdzieś ciało."
           ]
         },
         {
-          "message": "Nie składaj osoby.",
+          "message": "Nie składaj ofiary.",
           "messageDesc": "Rozpoczyna potyczkę. Wygraj, by zdobyć silniejszy Dar E.G.O.",
           "result": [
             "Zdenerwowane twoim niezdecydowaniem, gliniane lalki was atakują."
@@ -60,7 +60,7 @@
           "message": "Sprawdź, skąd dochodzi głos.",
           "messageDesc": "Przejdź Test Pychy. Zdobądź Dar E.G.O.",
           "result": [
-            "Pod gruzem został uwięziony żołnierz, jęcząc z bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.\nKomu rozkażesz ukrócić cierpienie żołnierza?"
+            "Pod gruzem został uwięziony żołnierz, jęcząc z bólu.\n\n“Proszę, po prostu mnie zabijcie… Nie zniosę dłużej tego bólu.”\n\nNie możecie go zignorować.\nKomu rozkażesz skrócić cierpienie żołnierza?"
           ]
         },
         {
@@ -76,7 +76,7 @@
       "id": 101003,
       "name": "An Encounter with the Unbearable",
       "subDesc": "Crunching sounds jar on your nerves.",
-      "desc": "Przechodząc przez wąskie przejście, na waszej drodze pojawia się chmara karaluchów.\nNa ten szeleszczący widok zbiera ci się na wymioty.\n\nPrzejdziesz obok nich? Czy…",
+      "desc": "Przechodząc przez wąskie przejście, na waszej drodze pojawia się chmara karaluchów.\nZ tego odrażającego widoku aż zbiera ci się na wymioty.\n\nPrzejdziesz obok nich? Czy…",
       "options": [
         {
           "message": "Przejdź ostrożnie obok ochydne chmary.",
