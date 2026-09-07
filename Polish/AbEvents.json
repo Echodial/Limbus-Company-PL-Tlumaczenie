@@ -75,7 +75,7 @@
       "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
       "behaveDesc": "Kto zadowoli Anomalię?",
       "successDesc": [
-        "Zdaje się, że krew {0} wystarczyła.\nAnomalia wygląda na zadowoloną i chwilowo się uspokoiła."
+        "Zdaje się, że krew {0} wystarczyła.\nAnomalia wygląda na zadowoloną i chwilowo się uspokaja."
       ],
       "failureDesc": [
         "Zdaje się, że krew {0} nie przypadła Anomalii do gustu.\nTeraz wygląda na jeszcze jeszcze bardziej wściekłą niż wcześniej."
@@ -91,7 +91,7 @@
       "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
       "behaveDesc": "Kto ma najchłodniejsze serce?",
       "successDesc": [
-        "{0} udało się stłumić zapał Anomalii.\nPłomień osłabł, aż został tylko lekki żar."
+        "{0} udało się stłumić zapał Anomalii.\nPłomień osłabł, aż pozostał z niego tylko lekki żar."
       ],
       "failureDesc": [
         "Może w {0} było więcej ciepła niż myśleliśmy.\nAnomalia zaczyna jeszcze mocniej pluć ogniem."
@@ -100,7 +100,7 @@
     {
       "id": 800205,
       "prevDesc": "Wyczuwasz złowrogi blask.",
-      "behaveDesc": "Gwiazdy migoczą w naszą stronę.\nGdy w pełni zaświecą, zabiorą nasz wzrok.\nJaki dar spodoba się gwiazdom?"
+      "behaveDesc": "Gwiazdy migoczą w naszą stronę.\nGdy w pełni zaświecą, odbiorą nam wzrok.\nJaki dar spodoba się gwiazdom?"
     },
     {
       "id": 800206,
@@ -108,7 +108,7 @@
       "eventDesc": "Wygląda na to, że któryś z Grzeszników musi zastąpić glinianą lalkę.",
       "behaveDesc": "Czyj głos ukoi gwiazdy do snu?",
       "successDesc": [
-        "Dzięki kołysance {0} gwiazdy zapadły w głęboki sen.\nIch blask zostawi nas, chodźby na chwilę."
+        "Dzięki kołysance {0} gwiazdy zapadły w głęboki sen.\nIch blask nas nie dosięgnie, przynajmniej na razie."
       ],
       "failureDesc": [
         "Kołysanka {0} obudziła gwiazdy.\nI wygląda na to, że nas za to ukarzą.\n\nNiewyobrażalnie jasny blask wypalił nam oczy.\nByć może przed naszymi spalonymi oczami ukazał się sam kosmos."
