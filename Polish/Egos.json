@@ -537,23 +537,28 @@
     },
     {
       "id": 20909,
-      "name": "Into the Sunset",
+      "name": "Prosto w Stronę Słońca",
       "desc": "Rodion’s E.G.O Gear"
     },
     {
       "id": 20509,
-      "name": "Shadow-vested Bladesinger [着影揮刀]",
+      "name": "Obrany w Cienie Pieśniaż Ostrza [着影揮刀]",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
       "id": 20109,
-      "name": "Solemn Lament",
+      "name": "Uroczysty Lament",
       "desc": "Yi Sang’s E.G.O Gear"
     },
     {
       "id": 20310,
-      "name": "I'll Go fer Scissors. How 'Bout You?",
+      "name": "Ja Wybieram Nożyce. A ty??",
       "desc": "Don Quixote’s E.G.O Gear"
+    },
+    {
+      "id": 21210,
+      "name": "Zameldowanie",
+      "desc": "Gregor’s E.G.O Gear"
     }
   ]
 }
