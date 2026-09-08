@@ -1088,7 +1088,7 @@
         {
           "level": 1,
           "name": "Pociągnij Za Spust",
-          "desc": "[WhenUse] Zyskaj +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1305,7 +1305,7 @@
         {
           "level": 3,
           "name": "Koniec-I-Kropka",
-          "desc": "Moc Bazowa +1 za każda [Bullet] który zostanie zużyty przez tą umiejęność\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, activate [CoveringFire]\n[WhenUse] Zyskaj 5 [Breath]<style=\"highlight\"></style>",
+          "desc": "Moc Bazowa +1 za każda [Bullet] który zostanie zużyty przez tą umiejęność\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, Aktywuj [CoveringFire]\n[WhenUse] Zyskaj 5 [Breath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1351,7 +1351,7 @@
         {
           "level": 4,
           "name": "Koniec-I-Kropka",
-          "desc": "Moc Bazowa +1 za każda [Bullet] który zostanie zużyty przez tą umiejęność\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, activate [CoveringFire]\n[WhenUse] Zyskaj 5 [Breath]\n<style=\"highlight\">[WinDuel] Zyskaj +2 [Breath] Count</style>",
+          "desc": "Moc Bazowa +1 za każda [Bullet] który zostanie zużyty przez tą umiejęność\n[WhenUse] If Full-Stop Office Fixer Heathcliff is on the field, Aktywuj [CoveringFire]\n[WhenUse] Zyskaj 5 [Breath]\n<style=\"highlight\">[WinDuel] Zyskaj +2 Ilości [Breath]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2554,7 +2554,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill against the target (raz na turę)"
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill aZyskajst the target (raz na turę)"
                 }
               ]
             }
@@ -2588,7 +2588,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill against the target (raz na turę)"
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill aZyskajst the target (raz na turę)"
                 }
               ]
             }
@@ -2622,7 +2622,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj +4 Ilości [ChargeBodyArt]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill against the target (raz na turę)"
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada na sobie 5 lub więcej negatywnych efektów, użyj \"Trzecia Sztuka Wystawy: Prowizoryczna Klatka Piersiowa\" Skill aZyskajst the target (raz na turę)"
                 }
               ]
             }
@@ -3031,6 +3031,618 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ciasne Więzy Ohry",
+          "desc": "[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada [TiedRopeHonglu], Nałóż 1 [TiedRopeHonglu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ciasne Więzy Ohry",
+          "desc": "[WhenUse] Przy 6+ ([Breath] na sobie + [Laceration] na celu), +1 Mocy Monet\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada [TiedRopeHonglu], Nałóż 1 [TiedRopeHonglu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ciasne Więzy Ohry",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 6 ([Breath] na sobie + [Laceration] na celu) (maks 2)\n[WhenUse] Jeśli cel posiada [TiedRopeHonglu], +1 Mocy Finalnej\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada [TiedRopeHonglu], Nałóż 1 [TiedRopeHonglu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rwące Cięcie",
+          "desc": "[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 2+ [TiedRopeHonglu], zużyj 1 [TiedRopeHonglu] na celu żeby Użyć tej Monety Jeszcze Raz (raz na Umiejętność)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Zyskaj 2 [Agility] na początku następnej tury"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Aktywuj [Laceration] na celu. Cel traci 1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Rwące Cięcie",
+          "desc": "[WhenUse] Przy 6+ ([Breath] na sobie + [Laceration] na celu), +1 Mocy Monet\n[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 2+ [TiedRopeHonglu], zużyj 1 [TiedRopeHonglu] na celu żeby Użyć tej Monety Jeszcze Raz (raz na Umiejętność)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Zyskaj 2 [Agility] na początku następnej tury"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Aktywuj [Laceration] na celu. Cel traci 1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rwące Cięcie",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 6 ([Breath] na sobie + [Laceration] na celu) (maks 2)\n[WhenUse] Jeśli cel posiada [TiedRopeHonglu], +1 Mocy Finalnej\n[WhenUse] Zyskaj +2 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 2+ [TiedRopeHonglu], zużyj 1 [TiedRopeHonglu] na celu żeby Użyć tej Monety Jeszcze Raz (raz na Umiejętność)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Zyskaj 2 [Agility] na początku następnej tury"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Aktywuj [Laceration] na celu. Cel traci 1 Ilości [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Myśliwska Technika Tropicielska",
+          "desc": "[WhenUse] Przy 6+ ([Breath] na sobie + [Laceration] na celu), +1 Mocy Monet\n[WhenUse] Jeśli cel posiada [TiedRopeHonglu], zamień wszystkie Monety tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>, Zyskaj +1 Mocy Finalnej, a finalna Moneta nakłada następujące efekty Przy Trafieniu:\n- Nałóż +2 Ilości [Laceration]\n- Nałóż 1 [Reduction] na początku następnej tury\n[WhenUse] Zyskaj 5 [Breath]\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie posiada [TiedRopeHonglu], Nałóż [TiedRopeHonglu]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Myśliwska Technika Tropicielska",
+          "desc": "[WhenUse] +1 Mocy Monet za każde 6 ([Breath] na sobie + [Laceration] na celu) (maks 2)\n[WhenUse] Jeśli cel posiada [ScratchesHurtID], zadaj +20% obrażeń\n[WhenUse] Jeśli cel posiada [TiedRopeHonglu], zamień wszystkie Monety tej Umiejętności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>, Zyskaj +1 Mocy Finalnej, a finalna Moneta nakłada następujące efekty Przy Trafieniu:\n- Nałóż +2 Ilości [Laceration]\n- Nałóż 1 [Reduction] na początku następnej tury\n[WhenUse] Zyskaj 5 [Breath]\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel nie posiada [TiedRopeHonglu], Nałóż [TiedRopeHonglu]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +50% obrażeń przy Krytycznym Trafieniu"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [ScratchesHurtID]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 1 [IndigoTakeobrażeńUp] na początku następnej tury"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rzut Więzem Ohry",
+          "desc": "[DuelCounter]\n[WhenUse] Przy 6+ ([Breath] na sobie + [Laceration] na celu), +2 Mocy Starcia\n[WhenUse] Zyskaj 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [TiedRopeHonglu]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rzut Więzem Ohry",
+          "desc": "[DuelCounter]\n[WhenUse] Przy 6+ ([Breath] na sobie + [Laceration] na celu), +2 Mocy Starcia\n[WhenUse] Zyskaj 5 [Breath]\n[WinDuel] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż [TiedRopeHonglu]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fa Jin",
+          "desc": "[WhenUse] Jeśli cel nie posiada [DianxueHongLu], +1 Mocy Starcia\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 3+ [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fa Jin",
+          "desc": "<style=\"highlight\">Jeśli ta jednostka jest szybsza od celu o 2 Prędkości lub więcej, +1 Mocy Monet</style>\n[WhenUse] Jeśli cel nie posiada [DianxueHongLu], +1 Mocy Starcia\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 3+ [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Nałóż 1 [Combustion]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fa Jin",
+          "desc": "Jeśli ta jednostka jest szybsza od celu o 2 Prędkości lub więcej, +1 Mocy Monet\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każde 6 ([Breath] na sobie + [Combustion] na celu) (maks 2)</style>\n[WhenUse] Jeśli cel nie posiada [DianxueHongLu], +1 Mocy Starcia\n[WhenUse] Zyskaj +3 Ilości [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 3+ [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dłoń Jadeitowego Płomienia",
+          "desc": "[WinDuel] Zyskaj 3 [Breath]\n- Zyskaj Ilość [Breath] równą [DianxueHongLu] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 2+ [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dłoń Jadeitowego Płomienia",
+          "desc": "<style=\"highlight\">Jeśli ta jednostka jest szybsza od celu, Zyskaj Moc Monet równą różnicy Prędkości (+1 Mocy Monet za każde 2 różnicy Prędkości; maks 2)</style>\n[WinDuel] Zyskaj 3 [Breath]\n- Zyskaj Ilość [Breath] równą [DianxueHongLu] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">2</style> Ilości [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości [Combustion]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 2+ [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Nałóż [DefenseDown] równy [DianxueHongLu] na celu (raz na turę)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dłoń Jadeitowego Płomienia",
+          "desc": "Jeśli ta jednostka jest szybsza od celu, Zyskaj Moc Monet równą różnicy Prędkości (+1 Mocy Monet za każde 2 różnicy Prędkości; maks 2)\n<style=\"highlight\">[WhenUse] Przy 6+ ([Breath] na sobie + [Combustion] na celu), +1 Mocy Finalnej</style>\n[WinDuel] Zyskaj 3 [Breath]\n- Zyskaj Ilość [Breath] równą [DianxueHongLu] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada 2+ [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Nałóż [DefenseDown] równy [DianxueHongLu] na celu (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Proszę, Zrób Mi Przysługę i Oberwij Od Każdego Ciosu w Tej Salwie.",
+          "desc": "Jeśli ta jednostka jest szybsza od celu o 2 Prędkości lub więcej, +1 Mocy Monet\n[WinDuel] Zyskaj 3 [Breath]\n- Zyskaj Ilość [Breath] równą [DianxueHongLu] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +([Breath] na sobie + [Combustion] na celu)% obrażeń przy Krytycznym Trafieniu (maks 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [DefenseDown] (2 razy na turę)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] zadaj obrażenia od Gniewu równe ([Combustion] na celu x 2)% finalnych obrażeń tej Monety (maks 40%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Proszę, Zrób Mi Przysługę i Oberwij Od Każdego Ciosu w Tej Salwie.",
+          "desc": "Jeśli ta jednostka jest szybsza od celu o 2 Prędkości lub więcej, +1 Mocy Monet\n<style=\"highlight\">[WhenUse] Przy 6+ ([Breath] na sobie + [Combustion] na celu), +1 Mocy Monet</style>\n[WinDuel] Zyskaj <style=\"highlight\">5</style> [Breath]\n- Zyskaj Ilość [Breath] równą [DianxueHongLu] na celu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Zadaj +([Breath] na sobie + [Combustion] na celu)% obrażeń przy Krytycznym Trafieniu (maks <style=\"highlight\">30</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Nałóż 2 [DefenseDown] (2 razy na turę)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel posiada [DianxueHongLu], użyj tej Monety Jeszcze Raz (raz na Umiejętność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] zadaj obrażenia od Gniewu równe ([Combustion] na celu x 2)% finalnych obrażeń tej Monety (maks 40%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lekki jak Chmurka",
+          "desc": "Jeśli jednostka ta jest szybsza od agresora o 2 lub więcej Prędkości, +1 Mocy Monet\n[StartBattle] Zyskaj +2 Ilości [Breath] (raz na turę)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lekki jak Chmurka",
+          "desc": "Jeśli jednostka ta jest szybsza od agresora o 2 lub więcej Prędkości, +1 Mocy Monet\n[StartBattle] Zyskaj +<style=\"highlight\">3</style> Ilości [Breath] (raz na turę)",
+          "coinlist": [
+            {}
           ]
         }
       ]
