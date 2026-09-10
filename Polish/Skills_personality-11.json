@@ -2446,7 +2446,7 @@
         {
           "level": 3,
           "name": "Stompanie",
-          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"</style>\n[WhenUse] Zyskaj 5 PP",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n<style=\"highlight\">[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatroszę Cię Jak Rybę\"</style>\n[WhenUse] Zyskaj 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2470,7 +2470,7 @@
         {
           "level": 4,
           "name": "Stompanie",
-          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatrosze Cię Jak Rybę\"\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], zamień Drugą Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color></style>\n[WhenUse] Zyskaj 5 PP",
+          "desc": "+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[BeforeUse] Jeśli ta jednostka posiada [MiddleFatherSwordFourOutis], użyj zamiast tego \"Wypatroszę Cię Jak Rybę\"\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], zamień Drugą Monetę w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomną Monetę</link></u></color></style>\n[WhenUse] Zyskaj 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2764,7 +2764,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Wypatrosze Cię Jak Rybę",
+          "name": "Wypatroszę Cię Jak Rybę",
           "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
           "coinlist": [
             {
@@ -2797,7 +2797,7 @@
         },
         {
           "level": 4,
-          "name": "Wypatrosze Cię Jak Rybę",
+          "name": "Wypatroszę Cię Jak Rybę",
           "desc": "Umiejętnośc Ekskluzywna do [MiddleFatherSwordFourOutis]\n+1 Mocy Monet za każde 6 ([Combustion] + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>) na celu (maks 2)\n[WhenUse] Ta Umiejętność zdobywa Poziom Ataku równy (najwyższy Rezonans / 2) (maks 3, zaokrąglony w dół)\n<style=\"highlight\">[WhenUse] Jeśli ta jednostka posiada [ReinforcedTattooSpiderOutis], Nałóż 1 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy Trafieniu Monety</style>\n[BeforeAttack] Zyskaj [Combustion] równe ilości Monet, które posiada ta Umiejętność\n[EndSkill] Strać 5 PP",
           "coinlist": [
             {
