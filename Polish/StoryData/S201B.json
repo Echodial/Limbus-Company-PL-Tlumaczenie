@@ -1,21 +1,21 @@
-{
+﻿{
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "The bus wasn’t all that lively."
+      "place": "W Mefistofelesie",
+      "content": "W busie trwała stypa."
     },
     {
       "id": 1,
-      "content": "I could hear Rodya’s occasional quips, or Heathcliff starting pointless quarrels with someone—probably Don Quixote or Sinclair."
+      "content": "Czasem słyszałom dowcipy Rodyi, albo bezsensowne sprzeczki Heathcliffa z kimś—najpewniej z Don Quixote lub Sinclairem."
     },
     {
       "id": 2,
-      "content": "And Ryōshū’s demanding a source of heat to light her cigarette, having run out of lighter fluid."
+      "content": "Oraz żądania Ryōshū o „ogień” dla jej papierosa, ponieważ skończył jej się gaz w zapalniczce."
     },
     {
       "id": 3,
-      "content": "Amidst the gripes and disorder, Gregor was pretty much the only Sinner I could rely on to willingly turn the mood around…"
+      "content": "Pośród zgiełku oraz hałastry, Gregor był jedynym Grzesznikiem, który mógł zmienić nastrój do góry nogami..."
     },
     {
       "id": 4,
@@ -24,11 +24,11 @@
     },
     {
       "id": 5,
-      "content": "But now, he was one of the quietest."
+      "content": "Ale był jednym z najcichszych w busie."
     },
     {
       "id": 6,
-      "content": "He was just staring out through the window, seemingly lost in deep thought."
+      "content": "Spoglądał poza okno, snując myślami gdzieś daleko stąd."
     },
     {
       "id": 7,
@@ -37,86 +37,86 @@
     },
     {
       "id": 8,
-      "content": "One thing was for sure."
+      "content": "Jedna rzecz była pewna."
     },
     {
       "id": 9,
-      "content": "If anyone were to blame for trashing the mood on the bus, it’d be Vergilius."
+      "content": "Osobą, która popsuła humor wszystkim w busie, był Wergiliusz."
     },
     {
       "id": 10,
-      "content": "The road to the Golden Bough was an awfully arduous one…"
+      "content": "Droga do Złotych Gałęzi była uciążliwa oraz mozolna..."
     },
     {
       "id": 11,
-      "content": "Putting us on the brink of death (and some past that) several times, not to mention the occasions when we almost ended up unemployed."
+      "content": "Wysyłając nas ku śmierci (i poza nią) parę razy, nie zapominając o chwilach kiedy byśmy trafili prosto na bezrobocie."
     },
     {
       "id": 12,
-      "content": "Yet Vergilius refused to see from our perspective."
+      "content": "Mimo tego Wergiliusz nie rozumiał naszego punktu widzenia."
     },
     {
       "id": 13,
-      "content": "Given the circumstances, it’s only natural for our Sinners to be palpably disgruntled."
+      "content": "Nie dziwota, że Grzesznicy stali się tacy markotni jak i gnerdliwi."
     },
     {
       "id": 14,
-      "content": "Tired of the silent treatment, Ishmael spoke up."
+      "content": "Mając dość tych cichych dni, Ishmael zabrała głos."
     },
     {
       "id": 15,
-      "model": "이스마엘",
-      "content": "Couldn’t you tell me where our next destination is now, at least?"
+      "model": "그레고르",
+      "content": "Nie mógłbyś nam chociaż powiedzieć dokąd zmierzamy?"
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Oh, sorry about that."
+      "content": "Och, racja."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "I was wondering whether briefing the mission to you miscreants would be worth the effort."
+      "content": "Zastanawiałem się czy warto odprawić odprawe, dla takich łachudr jak wy."
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Pah, you’re hurting me with your cold shoulder. Don’t you know that kids falling behind need more love?"
+      "content": "Ajć, ranisz mnie tą oziębłością. Nie wiesz, że dzieci pozostające w tyle potrzebują więcej miłości?"
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "And let me plead you not to embarrass me this time."
+      "content": "Zatem pozwól mi wytłumaczyć jedną rzecz, abyście mnie nie skompromitowali."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "I sure don’t want to look like a teacher taking a bunch of gradeschoolers out for a picnic."
+      "content": "Nie chcę wyglądać jak przedszkolanka ze zgrają przedszkolaków na placu zabaw."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "I have high hopes for you in particular, Rodion. You might just make a good guide for this tour."
+      "content": "Akurat w tobie, Rodio pokładam wielką nadzieję. Będzie z ciebie idealny przewodnik dzisiaj."
     },
     {
       "id": 22,
       "model": "로쟈",
-      "content": "Huh? I know I’m a big deal, but I don’t think I can be a guide for a place I don’t know…"
+      "content": "Huh? Wiem, że ze mnie jest niezła szycha, ale nie nadaję się na przewodnika po miejscu, którego nie znam..."
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "No worries. We’re heading to a location you should be more than familiar with."
+      "content": "Nie lękaj się. Jedziemy w znane ci strony."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "A Nest of hedonism where you can drown in money or be drained of everything you have:"
+      "content": "Gniazdo hedoizmu gdzie możesz tonąć w pieniądzach albo być o suchej nitce:"
     },
     {
       "id": 25,
       "model": "베르길리우스",
-      "content": "J Corp’s."
+      "content": "J Korp."
     },
     {
       "id": 26,
@@ -125,31 +125,31 @@
     },
     {
       "id": 27,
-      "content": "Great, even Rodya has gone quiet now."
+      "content": "Świetnie, nawet Rodya ucichła."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Well, I suppose it wouldn’t be so bad to win big while we’re at it."
+      "content": "Cóź, nikt nam nic nie zrobi jeśli wygramy trochę hajsu przy okazji."
     },
     {
       "id": 29,
       "model": "히스클리프",
-      "content": "Oi, someone wake me up when we’re there."
+      "content": "Ej, niech ktoś mnie obudzi jak dojedziemy."
     },
     {
       "id": 30,
       "model": "베르길리우스",
-      "content": "…Coincidentally, the bus will be unable to take you right to the branch building this time, dear passenger."
+      "content": "...Co za przypadek, tym razem bus nie da rady was dowieźć tuż przed wejście, drogi pasażerze."
     },
     {
       "id": 31,
       "model": "베르길리우스",
-      "content": "Charon, park it."
+      "content": "Charon, zaparkuj tu."
     },
     {
       "id": 32,
-      "model": "카론",
+      "model": "로쟈",
       "content": "……"
     },
     {
@@ -159,123 +159,123 @@
     },
     {
       "id": 34,
-      "model": "카론",
-      "content": "What’s “park”?"
+      "model": "로쟈",
+      "content": "Co to „zaparkuj”?"
     },
     {
       "id": 35,
       "model": "베르길리우스",
-      "content": "It means stop."
+      "content": "To oznacza „zatrzymaj się”."
     },
     {
       "id": 36,
-      "model": "카론",
-      "content": "Stops are red. Red tastes bad to Charon."
+      "model": "로쟈",
+      "content": "Zatrzymać się jest za długie. Charon nie lubi jak coś jest za długie."
     },
     {
       "id": 37,
-      "content": "Grumbling, Charon hit the brakes without warning, sending most of the Sinners flying face-first into the seats ahead and flinging others off theirs."
+      "content": "Zrzędząc, Charon zaciąga ręczny bez ostrzeżenia, sprawiając że większość Grzeszników wylatuje ze swoich miejsc."
     },
     {
       "id": 38,
-      "content": "I was, of course, powerless against the inertia."
+      "content": "Oczywiście, ja także dołączyłom do ich lotu."
     },
     {
       "id": 39,
-      "content": "A cacophony of complaints and shouts erupted."
+      "content": "Kakofonia krzyków i zgrzytów wypełniła bus."
     },
     {
       "id": 40,
-      "content": "Although I didn’t get to hear the Sinners’ ramblings in clear detail…"
+      "content": "Przynajmniej tak mi się wydaję, ledwo zrozumiałom Grzeszników..."
     },
     {
       "id": 41,
-      "content": "I’m willing to bet a good half of them were profanities, so maybe I’m better off not knowing."
+      "content": "Chociaż obstawiam, że były tam bluzgi zamiast zgrzytu, szczerze? Wolę nie wiedzieć."
     },
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "Good to see you all full of energy. Now out."
+      "content": "Przynajmniej nie symulujecie. Wysiadać."
     },
     {
       "id": 43,
       "model": "홍루",
-      "content": "Hmm… The destination still seemed rather far… Ah! Will you call a taxi for us?"
+      "content": "Hmm... Wciąż mamy szmat drogi do przebycia... Ach! Zadzwoniłeś nam po taksówkę?"
     },
     {
       "id": 44,
       "model": "베르길리우스",
-      "content": "…As Ms. Faust will explain in detail, this mission is going to be quite different from our last, Dante."
+      "content": "...Pani Faust wyjaśni wam szczegółowo wasz cel, lecz pamiętaj Dante, to nie są takie same ruiny L Korpu jak ostatnio."
     },
     {
       "id": 45,
       "model": "베르길리우스",
-      "content": "This is because the location of the Golden Bough…"
+      "content": "Ponieważ Złota Gałązka znajduje się..."
     },
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "…is in the underground of a casino."
+      "content": "...w podziemiach kasyna."
     },
     {
       "id": 47,
       "model": "오티스",
-      "content": "Do you mean to tell us that it’s among the brightly lit buildings standing at the center of that street?"
+      "content": "W skrócie mamy się udać do jednego z tych świecącyh budynków po środku tamtej ulicy?"
     },
     {
       "id": 48,
       "model": "베르길리우스",
-      "content": "That’s right, it’s one of those."
+      "content": "Zgadza się. To jeden z tamtych budynków."
     },
     {
       "id": 49,
-      "model": "이스마엘",
-      "content": "The Lobotomy Branch Facility we infiltrated last time was one that had been neglected for quite a while."
+      "model": "그레고르",
+      "content": "Ostatnia Gałąź Placówki Lob Korpu jaką zinflirtowaliśmy była dość zaniedbana od jakiegoś czasu."
     },
     {
       "id": 50,
-      "model": "싱클레어",
-      "content": "So you mean that… that was the exception?"
+      "model": "그레고르",
+      "content": "Czyli z tą... będzie inaczej?"
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "See, it’s times like this that remind me our team doesn’t necessarily lack critical thinkers… It really does make me wonder how you managed to blunder your previous mission even more."
+      "content": "Widzicie, jednak macie kilka szarych komórek w zapasie... Myślałem, że zostawiliście je przed wejściem do ruin na poprzedniej misji."
     },
     {
       "id": 52,
-      "model": "이스마엘",
+      "model": "그레고르",
       "content": "……"
     },
     {
       "id": 53,
       "model": "베르길리우스",
-      "content": "The Golden Bough is a potent energy source, holding the essence of many technological marvels."
+      "content": "Złota Gałązka jest bardzo wydajnym źródłem energii, ma w sobie wiele cudownych zastosowań."
     },
     {
       "id": 54,
       "model": "베르길리우스",
-      "content": "Such founts of energy will attract flows of wealth and people, and in no time, a whole civilization is built on top of it."
+      "content": "Takie źródło energii przyciąga wiele bogactw jak i ludzi, nim się obejrzyjsz a powstaną już cywylizację wokół niej."
     },
     {
       "id": 55,
-      "model": "파우스트",
-      "content": "Therefore, it’s likely that future destinations will have been occupied by other factions and their structures."
+      "model": "그레고르",
+      "content": "Ergo, prawdopodobieństwo, że jakaś fakcja okupuje jej lokalizacje jest bardzo wysoka."
     },
     {
       "id": 56,
-      "model": "파우스트",
-      "content": "…Which, in turn, indicates that we should be prepared to visit a wide variety of venues in addition to this casino."
+      "model": "그레고르",
+      "content": "...Zatem powinniśmy być gotowi na odwiedzenie wielu lokali oprócz kasyna."
     },
     {
       "id": 57,
       "model": "베르길리우스",
-      "content": "It also means that your first mission was a relatively easy one, yet you somehow snatched defeat from the wide-open maws of success."
+      "content": "To również oznacza, że wasza pierwsza misja była stosunkowo łatwa, a jakoś ją spartaczyliście."
     },
     {
       "id": 58,
-      "model": "단테",
-      "content": "<…Does he usually hold grudges that long?>"
+      "model": "홍루",
+      "content": "<...On zawsze tak długo żywi uraze?>"
     },
     {
       "id": 59,
@@ -285,114 +285,114 @@
     {
       "id": 60,
       "model": "로쟈",
-      "content": "Don’t ask me~ We haven’t known him much longer than you have."
+      "content": "Nie mam zielonego pojęcia~ Znamy go prawie tyle samo co ty."
     },
     {
       "id": 61,
       "model": "로쟈",
-      "content": "What’d he say again? Something like, “Welcome to Limbus Company. I’m your guide, Vergilius” and all that…"
+      "content": "Czekaj, jak to leciało? Chyba to szło, „Witajcie w Limbus Company. Jestem waszym przewodnikiem, zwę się Wergiliusz” i tyle..."
     },
     {
       "id": 62,
       "model": "로쟈",
-      "content": "Hah! Pretty good impression, wasn’t it?"
+      "content": "Hah! Nieźle mi poszło, co nie?"
     },
     {
       "id": 63,
       "model": "그레고르",
-      "content": "You got his authoritative tone down to a tee, I’ll give you that. I had to hold myself back from asking if I could resign right after joining."
+      "content": "I to całkiem nieźle, aż dostałem ciarek.  Musiałem się powstrzymać przed zwolnieniem kiedy go usłyszałem."
     },
     {
       "id": 64,
-      "model": "단테",
-      "content": "<I get the feeling the rest of you thought the same.>"
+      "model": "홍루",
+      "content": "<Mam wrażenie, że reszta też tak chciała zrobić.>"
     },
     {
       "id": 65,
-      "model": "돈키호테",
-      "content": "Nonsense! ‘Twas a day to go down in history! Beckoned by the Red Gaze himself! Truly, there is no honor greater than a Color addressing your―"
+      "model": "그레고르",
+      "content": "Nonsens! Przecie usłyszeć głos Czerwonego Wzroku to istny zaszczyt! Nie ma wspanialszego głosu Fachowca w―"
     },
     {
       "id": 66,
       "model": "그레고르",
-      "content": "Huh, I guess he does have a fan after all."
+      "content": "Ech, jednak ma jakiegoś fana."
     },
     {
       "id": 67,
       "model": "로쟈",
-      "content": "Ufuhu, true that."
+      "content": "*Chichocze* Na to wychodzi."
     },
     {
       "id": 68,
-      "content": "With their spirits lifted, Rodya and Gregor began to chuckle."
+      "content": "Rodya z Gregorem chichoczą pod nosem, ich humor zdecydowanie się polepszył."
     },
     {
       "id": 69,
       "model": "베르길리우스",
-      "content": "That’s more talking than necessary. I really do not wish for there to be impetus behind a third rule for this bus ride."
+      "content": "Coś za głośno zaczyna się robić. Aż tak chcecie abym dodał trzecią zasadę w tym busie?"
     },
     {
       "id": 70,
       "model": "로쟈",
-      "content": "C’mon, give the employees some room to badmouth their boss. You’re being totally petty."
+      "content": "Oj tam, daj nam poobgadywać naszego szefa. Czepiasz się błahostek."
     },
     {
       "id": 71,
       "model": "베르길리우스",
-      "content": "Next time, do it out of earshot."
+      "content": "Następnym razem nie róbcie tego w jego obecności."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "I’m more fragile than I look, you see."
+      "content": "Jestem bardziej delikatny, niż myślicie."
     },
     {
       "id": 73,
       "model": "베르길리우스",
-      "content": "Right, time to get up and at it. I sure hope you come back with a Golden Bough in your hands this time."
+      "content": "Koniec tego miłego, pora wyruszać. Mam nadzieję, że mnie nie zawiedziecie i wrócicie ze Złotą Gałązką."
     },
     {
       "id": 74,
       "model": "히스클리프",
-      "content": "And if we bugger it twice?"
+      "content": "A jak znowu spieprzymy robotę?"
     },
     {
       "id": 75,
       "model": "베르길리우스",
-      "content": "Who knows? Charon might suddenly forget what button to press to open the door for you."
+      "content": "Kto wie? Charon może zapomnieć, którym przyciskiem otwiera się wam drzwi."
     },
     {
       "id": 76,
-      "model": "카론",
-      "content": "Button, red. Yucky color."
+      "model": "로쟈",
+      "content": "Guzik, czerwony. Paskudny kolor."
     },
     {
       "id": 77,
       "model": "히스클리프",
-      "content": "…You’re one daft bloke…"
+      "content": "...Ależ żartowniś z ciebie..."
     },
     {
       "id": 78,
-      "model": "료슈",
-      "content": "UITGAAN."
+      "model": "로쟈",
+      "content": "B.I.P.U.G.G."
     },
     {
       "id": 79,
       "model": "히스클리프",
-      "content": "And that means?"
+      "content": "Po ludzku?"
     },
     {
       "id": 80,
-      "model": "료슈",
-      "content": "Shorthand for “Useless idiotic travelers go and abscond, now”."
+      "model": "로쟈",
+      "content": "To skrót od „Bezużytyteczni idiotyczni poszukiwacze uciekają gdzie gałązka”"
     },
     {
       "id": 81,
-      "content": "Heathcliff glared at Ryōshū, insults welling up in his throat, only to then expel a loud sigh."
+      "content": "Heathcliff spojrzał Ryōshū jakby chciał jej przywalić, ale powstrzyamł się, po czym przewrócił oczami."
     },
     {
       "id": 82,
-      "content": "He resigned uncharacteristically, as if he came to the realization that killing her wouldn’t solve anything."
+      "content": "Zdał sobie sprawę, że zabicie jej jest bez sensu."
     }
   ]
 }
