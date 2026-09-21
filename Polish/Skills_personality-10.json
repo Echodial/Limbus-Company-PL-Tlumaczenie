@@ -559,7 +559,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Wypale na Tobie tą Stygmę!",
+          "name": "Wypalę na Tobie tą Stygmę!",
           "desc": "Jeśli przeciwnik ma 10+ [Combustion], +1 Mocy Monety\nJeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, aktywuj 'Rozżarzone Natarcie' w miejscu tej umiejętności\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 10 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
@@ -580,7 +580,7 @@
         },
         {
           "level": 4,
-          "name": "Wypale na Tobie tą Stygmę!",
+          "name": "Wypalę na Tobie tą Stygmę!",
           "desc": "<style=\"highlight\">+1 Mocy Monety za każde 7 [Combustion] na przeciwniku (Maks 2)</style>\nJeśli ta Jednostka zmanifestowała Kruchą Skorupę E.G.O, aktywuj 'Rozżarzone Natarcie' w miejscu tej umiejętności\n[WinDuel] Zyskaj 10 SP\n[DefeatDuel] Strać 10 SP",
           "coinlist": [
             {
