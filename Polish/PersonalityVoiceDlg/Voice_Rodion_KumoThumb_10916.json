@@ -58,7 +58,7 @@
       {
           "id": "formation_10916_1",
           "desc": "Deployment",
-          "dlg": "No ja pierdole... Myślicie, że jestem jakąś cieńką szprotką? Dobra, zaraz wam pokaże. Tak... pokaże wam, że jedyny scenariusz, w którym takie żałosne fiutożłopy jak wy przeżyłyby tą walkę to ten, w którym przyprowadziliście ze sobą Fachowca Koloru..."
+          "dlg": "No ja pierdole... Myślicie, że jestem jakąś cieńką szprotką? Dobra, zaraz wam pokażę. Tak... pokażę wam, że jedyny scenariusz, w którym takie żałosne fiutożłopy jak wy przeżyłyby tą walkę to ten, w którym przyprowadziliście ze sobą Fachowca Koloru..."
       },
       {
           "id": "battleentry_10916_1",
@@ -68,7 +68,7 @@
       {
           "id": "battle_select_10916_1",
           "desc": "Viewed in Battle",
-          "dlg": "Cofnij się—wchodzisz mi w droge. Tsk. Nie mam cierpliwości do żółtodziobów którzy w życiu nawet nie widzieli wojny na oczy..."
+          "dlg": "Cofnij się—wchodzisz mi w droge. Tsk. Nie mam cierpliwości do żółtodziobów, którzy w życiu nawet nie widzieli wojny na oczy..."
       },
       {
           "id": "battle_endcommand_10916_1",
@@ -118,7 +118,7 @@
       {
           "id": "battle_defeat_10916_1",
           "desc": "Defeat Wail",
-          "dlg": "Ty... ty cholerny...! Heathcliff... Ty draniu... Zdradziłeś mnie, po wszystkim co dla ciebię zrobiłam...? Gah..."
+          "dlg": "Ty... ty cholerny...! Heathcliff... Ty draniu... Zdradziłeś mnie, po wszystkim co dla ciebie zrobiłam...? Gah..."
       }
   ]
 }
