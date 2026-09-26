@@ -46,19 +46,19 @@
     },
     {
       "id": "AMBER",
-      "name": "Amber"
+      "name": "<color=#e30000>[</color>"
     },
     {
       "id": "SHAMROCK",
-      "name": "Shamrock"
+      "name": "<color=#e30000>]</color>"
     },
     {
       "id": "AZURE",
-      "name": "Azure"
+      "name": "<color=#e30000>[</color>"
     },
     {
       "id": "INDIGO",
-      "name": "Indigo"
+      "name": "<color=#e30000>]</color>"
     },
     {
       "id": "VIOLET",
@@ -267,6 +267,30 @@
     {
       "id": "BeforeBehavior",
       "name": "[Przed Akcją]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2050911",
+      "name": "[Always Active - Blade Lineage Mentor Meursault Exclusive Effect]"
+    },
+    {
+      "id": "WhenUseEGOPassive",
+      "name": "[Effect on Use]"
+    },
+    {
+      "id": "WinDuelEndSkill",
+      "name": "[Attack End After Clash Win]"
+    },
+    {
+      "id": "WhenUseEGOPassive2010911",
+      "name": "[Effect on Use - Lobotomy E.G.O::Solemn Lament Yi Sang Exclusive Effect]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2010911",
+      "name": "[Always Active - Lobotomy E.G.O::Solemn Lament Yi Sang Exclusive Effect]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive",
+      "name": "[Always Active]"
     }
   ]
 }
