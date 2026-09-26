@@ -3774,7 +3774,7 @@
     {
       "id": "CountSkillMidOutis",
       "name": "Rosnące Emocje",
-      "desc": "Wartość spada o 1 po spełnieniu jednego z danych warunków (raz na turę):\n- Użycie Zdolności \"Stempel Zemsty\" (licząc aktywację jako kontrę)\n- Na końcu tury po aktywowaniu 6+ A-Rezonansu Zazdrości.\n\nGdy Wartość spadnie do 0, użyj Zdolności \"Pora Rozpakować To Cudeńko!\"",
+      "desc": "Wartość spada o 1 po spełnieniu jednego z danych warunków (raz na turę):\n- Użycie Zdolności \"Piętno Zemsty\" (licząc aktywację jako kontrę)\n- Na końcu tury po aktywowaniu 6+ A-Rezonansu Zazdrości.\n\nGdy Wartość spadnie do 0, użyj Zdolności \"Czas na Unboxing!\"",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3782,7 +3782,7 @@
     {
       "id": "MatchesPersonality",
       "name": "Rozpalenie",
-      "desc": "- +1 Min & Maks Prędkości\n- Pierwsza użyta w tej turze Bazowa Zdolność Ofensywna Zyskuje +2 Ostatecznej Mocy\n- Przy trafieniu tą Zdolnością otrzymaj 2% obrażeń PŻ (Maks 10%; te obrażenia nie mogą Zachwiać tej jednostki, ani zmniejszyć jej PŻ poniżej 1)\n- Wyfasa na Koniec Tury",
+      "desc": "- +1 Min & Maks Prędkości\n- Pierwsza użyta w tej turze Bazowa Zdolność Ofensywna Zyskuje +2 Ostatecznej Mocy\n- Przy trafieniu tą Zdolnością otrzymaj 2% obrażeń PŻ (Maks 10%; te obrażenia nie mogą Zachwiać tej jednostki, ani zmniejszyć jej PŻ poniżej 1)\n- Wygasa na Koniec Tury",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -4061,6 +4061,139 @@
       "name": "Czterokolorowe Wymiary",
       "desc": "- Maks Wartość: 4\n- Zyskaj dane efekty zależnie od Wartości:\n· 1+: +1 Poziomu Ataku\n· 2+: +2 Poziomy Obrony \n· 3+: Zyskuj ze Zdolności +1 dodatkowej Ilości Naładowania\n· 4+: Zdolności tej jednostki zadają +(Siła Naładowania x 4)% obrażeń (maks 20%)\n\n- Jeśli ta jednostka zyska Wartość tego efektu przekraczającą maksymalną, nadwyżka jest uzyskana na początku następnej tury\n- Koniec Tury: Wartość spada o 1",
       "summary": ""
+    },
+    {
+      "id": "DianxueHongLu",
+      "name": "Nerve Strike - Hong Lu",
+      "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on target's (or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target (or a different Part)\n- Replaced when another unit inflicts Nerve Strike (Stacks are preserved)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelSousTemoinsEast",
+      "name": "Witnessed - Eastern Cinq",
+      "desc": "- Max Stack: 3\n- Offense Level +(Stack)\n- At 2+ Stack, Base Skills gain +1 more Poise Potency\n- At 3+ Stack, Base Skills gain +1 more Poise Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoirSuitAlly",
+      "name": "Le Noir: Gabardine Overcoat",
+      "desc": "- Max Stack: 100\n- Defense Level +1 for every 25 Stacks\n- Gain +5 Aggro to the leftmost Slot\n- When hit while this unit has Shield, gain 5 Stacks (10 per turn)\n- Turn End: If this unit has remaining Shield, gain 10 Stacks\n- Apply the following when this unit gains or consumes Preservation Count due to its Skill or Passive effects:\n · Gain Stack equal to Preservation Count gained (this effect's Stack is gained regardless of Preservation's max Count)\n · Gain Stack equal to (Preservation Count consumed x 2)\n · Can gain up to 30 Stacks per turn via this effect\n- At 100 Stacks, convert this effect into Armure Éveillée next turn",
+      "summary": "Gain Defense Level and Aggro",
+      "flavor": "An overcoat made from twill fabric, a type of weave made by threading several weft threads over fewer warp threads.\nIts characteristic high-density weave protects its wearer from external trauma."
+    },
+    {
+      "id": "ChargeNoirAlly",
+      "name": "Preservation",
+      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count\n\n<color=#1aece7>Cumulative Count consumed: {2}</color>",
+      "summary": "Unique Charge",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": "RealisationAlly",
+      "name": "Armure Éveillée",
+      "desc": "- Max Stack: 100\n- Min & Max Speed +2\n- Offense Level +1 and Defense Level +1 for every 25 Stacks\n- Convert all Base Attack Skill Coins into Unbreakable Coins\n- Turn Start: Heal 8 SP\n- At 0 Stacks, convert this effect into \"Le Noir: Gabardine Overcoat\"",
+      "summary": "Gain Offense Level, Defense Level, and Speed\nConvert Base Attack Skill Coins into Unbreakable Coins",
+      "flavor": "Le Noir's fabric weave prevents external force from reaching its wearer. The purpose for which it awakens is to eliminate change imposed from the outside.\nThe fabric stores energy from attacks it absorbs, then expels all that force in a single burst to remove the external source of change."
+    },
+    {
+      "id": "ChargeRougeAlly",
+      "name": "Pulsation",
+      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RougeIshmaelCocoon",
+      "name": "Changing Room",
+      "desc": "- Max Stack: 2\n- Fix this unit's Speed to 1\n- Take -50% damage from Skills\n- Immediately after gaining this effect, remove Stagger Thresholds; when Staggered, recover from Stagger\n- Turn Start: Gain 10 Aggro\n- When hit, gain +1 Pulsation Count (20 times per turn)\n- Turn End: Lose 1 Stack\n- Cannot Retreat\n- Cannot enter E.G.O Corrosion; instead, enters default Panic state (is affected by Panic-changing effects)\n- While in this state, aside from its exclusive Skill \"As the Voice Says, I Gladly Withdraw into Myself\", cannot equip Defense Skills or E.G.O Skills",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Though it has become hardier, it has now become passive. When viewed through the lens of Le Rouge, however durable something might have become, what is passive is always fragile.\n\nBut one must first come to a halt in order to usher in change. And that is what makes this process painful."
+    },
+    {
+      "id": "RougeIshmaelEclose",
+      "name": "Full Makeover",
+      "desc": "- Min & Max Speed +1\n- Max HP increased by 25%\n- Take -10% damage from Skills\n- Base Skills inflict +1 more Bleed Potency on enemies",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Though she has emerged from the cocoon, she has failed to truly metamorphose—as that process involves the disintegration of the self. Still, the process has managed to boost her physical abilities."
+    },
+    {
+      "id": "EmpathicDistressAlly",
+      "name": "Fracturing of the Senses",
+      "desc": "- Max Stack: 5\n- When other allies are hit, gain +1 Tremor Count, and lose 1 Stack (once per Skill)\n- If there are no other allies on the field, gain 2 Tremor Potency when hit, and lose 1 Stack (once per Skill)\n- When hit by Crit Attack, take +(Tremor Potency on self)% damage (max 15%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The fracturing occurs when one first recognizes the incongruity between the forms of the body and the heart."
+    },
+    {
+      "id": "PersonalityVibration",
+      "name": "Tremor Identity",
+      "desc": "Identities that have Base Attack Skills that inflict Tremor Potency, Tremor Count, or Unique Tremor",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityBreath",
+      "name": "Poise Identity",
+      "desc": "Identities that have Base Attack Skills that apply or gain Poise Potency or Poise Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityCharge",
+      "name": "Charge Identity",
+      "desc": "Identities that have Base Attack Skills that apply, gain, or consume Charge or Unique Charge",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargeKhakiAlly",
+      "name": "Inertia of Drifting",
+      "desc": "- Max Count: 20\n- Unique Charge\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count\n\n<color=#1aece7>Cumulative Count consumed: {2}</color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Those who are carried by the tide like buoys may not be able to change the flow of things, but they can still bolster the tide and commit to their acts within."
+    },
+    {
+      "id": "NoirScissorAlly",
+      "name": "Mark of Shearing",
+      "desc": "- Max Stack: 4\n- When a target that has this effect is defeated, the unit that inflicted this effect heals 5 SP and gains 1 Offense Level Up next turn (3 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A cutting mark used to trim fabric and other materials to the required measurements."
+    },
+    {
+      "id": "NoirScissorCut",
+      "name": "Blossom Scissors",
+      "desc": "- Max Stack: 2\n- Deal +7% damage for every Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The scissors used to sever the primordial materials produced underground are larger and more extraordinary still. These scissors have cut and recut the very first cloth ever woven. That flowers should bloom from them is only natural, for they have always cut things at their very roots."
+    },
+    {
+      "id": "SupportAlly",
+      "name": "Duality",
+      "desc": "Skills can target allied Identities\nUpon auto-targeting Skills, or in Regular Encounters, prioritize the ally with the earliest Deployment Order\n- If target is an ally, the attack does not hit, and does not trigger Defense Skills (including Clashable Defense Skills)\nIf target is an ally, activate this Skill at Combat Start",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportEnemy",
+      "name": "Duality",
+      "desc": "Skills can target allies\nUpon auto-targeting Skills, or in Regular Encounters, target random allies\n- If target is an ally, the attack does not hit, and does not trigger Defense Skills (including Clashable Defense Skills)\nIf target is an ally, activate this Skill at Combat Start",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoirScissorShield",
+      "name": "Second is Welcome-snipping",
+      "desc": "- Max Stack: 1\n- Offense Level +3, Defense Level +3\n- On Skill Use, heal 5 SP if this unit is a Charge Identity (once per turn)\n- On Base Skill Hit, deal Slash damage equal to 5% of each Coin's final damage\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A pair of scissors becomes one through two, and makes two of what was one."
     }
   ]
 }
