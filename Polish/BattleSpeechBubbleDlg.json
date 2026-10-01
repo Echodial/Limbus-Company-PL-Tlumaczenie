@@ -103,7 +103,7 @@
     {
       "id": "8SV-020",
       "desc": "가치우광역기 사용시",
-      "dlg": "Czy obecność twoich towarzyszy sprawia, że ciągle dusisz w sobie swoje zdanie?\nW takim razie... może muszę zostać wstrząśnięci,\nzanim w końcu powiesz, co naprawdę myślisz."
+      "dlg": "Czy obecność twoich towarzyszy sprawia, że ciągle dusisz w sobie swoje zdanie?\nW takim razie... może muszą zostać wstrząśnięci,\nzanim w końcu powiesz, co naprawdę myślisz."
     },
     {
       "id": "8SV-021",
@@ -183,7 +183,7 @@
     {
       "id": "8SV-037",
       "desc": "가환광역기사용시",
-      "dlg": "Behold! This contempt!\nIt rains down upon the disgusting filth!"
+      "dlg": "Spójż! This contempt!\nIt rains down upon the disgusting filth!"
     },
     {
       "id": "8SV-038",
@@ -198,7 +198,7 @@
     {
       "id": "8SV-040",
       "desc": "구보난사 패턴 진입",
-      "dlg": "Do not let your past ties ruin your judgment.\nIt makes me want to blast them all away."
+      "dlg": "Do not let your past ties ruin your Ocena.\nIt makes me want to blast them all away."
     },
     {
       "id": "8SV-041",
@@ -4905,7 +4905,7 @@
     {
       "id": "battle_dead_10810_1",
       "desc": "",
-      "dlg": "Szlag, dopadli nas…\n Muszę wezwać wsparcie…"
+      "dlg": "Szlag, dopadli nas…\nMuszę wezwać wsparcie…"
     },
     {
       "id": "battle_s3_10810_1_4-01",
@@ -5045,7 +5045,7 @@
     {
       "id": "battle_dead_11111_1",
       "desc": "",
-      "dlg": "P-pozwól mi przynajmniej zachować na twarzy maskę…! … Jeśli muszę umrzeć… to daj mi chociaż zachować twarz…"
+      "dlg": "P-pozwól mi przynajmniej zachować na twarzy maskę…!\n… Jeśli muszę umrzeć… to daj mi chociaż zachować twarz…"
     },
     {
       "id": "battle_s3_11111_1_1-01",
@@ -5720,7 +5720,7 @@
     {
       "id": "battle_dead_10112_1",
       "desc": "",
-      "dlg": "Jest niezmierną szkodą to… że muszę… opuścić ten świat z tak… wielkimi brakami w mojej… wiedzy…"
+      "dlg": "Jest niezmierną szkodą to… że muszę…\n opuścić ten świat z tak…\nwielkimi brakami w mojej… wiedzy…"
     },
     {
       "id": "battle_s3_10112_1_1-03",
@@ -6496,7 +6496,7 @@
     {
       "id": "battle_dead_10613_1",
       "desc": "battle_dead_10613_1",
-      "dlg": "Patrząc teraz na drogę, która doprowadziła mnie do tej chwili… to wygląda mi zwyczajnie na kolejną podróż którą muszę odbyć…"
+      "dlg": "Patrząc teraz na drogę, która doprowadziła mnie do tej chwili…\nto wygląda mi zwyczajnie na kolejną podróż którą muszę odbyć…"
     },
     {
       "id": "battle_s3-1_10613_1_1",
@@ -7146,7 +7146,7 @@
     {
       "id": "battle_react_noVoice_10613_5",
       "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
-      "dlg": "Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
+      "dlg": "Spójż the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
     },
     {
       "id": "battle_react_10613_6",
@@ -8826,7 +8826,7 @@
 	{
       "id": "battle_eE_10415_1",
       "desc": "############ Blade of the House of Spiders Ryoshu ##############이스터 - 메인(상) - 루치오 조우 시",
-      "dlg": "I'll cut you up so you won't dare attempt such mimicry again."
+      "dlg": "Odetnę ci ręce żebyś nie próbował nigdy więcej mnię naśladować."
     },
     {
       "id": "battle_eE_10415_2",
@@ -9118,12 +9118,12 @@
     {
       "id": "battle_s3_10815_1_1-01",
       "desc": "",
-      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia (鬼火腰擊)."
+      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia\n(鬼火腰擊)."
     },
     {
       "id": "battle_s3_10815_1_1-02",
       "desc": "",
-      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia (鬼火腰擊)."
+      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia\n(鬼火腰擊)."
     },
     {
       "id": "battle_s3_10815_1_2-02",
@@ -9158,12 +9158,12 @@
     {
       "id": "battle_s3_10815_1_5",
       "desc": "",
-      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia (鬼火腰擊). Zmiana Postawy Bojowej—Manewr Trzeci."
+      "dlg": "Rozpłatacz Kręgów Diabelskiego Płomienia\n(鬼火腰擊).\nZmiana Postawy Bojowej—Manewr Trzeci."
     },
     {
       "id": "battle_special_10815_1",
       "desc": "",
-      "dlg": "Nie mogę już patrzeć w tył. Muszę jedynie podnieść mój miecz i wyciąć nam ścieżkę na przód."
+      "dlg": "Nie mogę patrzeć w tył.\nMuszę jedynie podnieść mój miecz i wyciąć nam ścieżkę na przód."
     },
     {
       "id": "battle_special_10815_2",
@@ -9368,12 +9368,12 @@
     {
       "id": "battle_special_11009_5",
       "desc": "",
-      "dlg": "Nie przyniosę ci hańby będąc strachliwym, tonącym we własnych żalach uczniem, Seonbae. Wiem, że we mnię wierzysz... I wiem, że muszę brnąć do przodu...!"
+      "dlg": "Nie przyniosę ci hańby będąc strachliwym,\ntonącym we własnych żalach uczniem, Seonbae.\nWiem, że we mnię wierzysz... I wiem, że muszę brnąć do przodu...!"
     },
     {
       "id": "battle_special_11009_6",
       "desc": "",
-      "dlg": "Trudno jest mi wytrzymać ten ból... ale wytrzymam go. Nie ważne, ile razy upadnę, zawsze wstanę z powrotem na nogi o własnych siłach. Obiecuje ci, Mistrzu, osiągnę siłę równą z twoim brzaskiem... abym nigdy więcej nie musiał nikogo stracić!"
+      "dlg": "Trudno jest mi wytrzymać ten ból... ale wytrzymam go.\nNie ważne, ile razy upadnę, zawsze wstanę z powrotem na nogi o własnych siłach.\nObiecuje ci, Mistrzu, osiągnę siłę równą z twoim brzaskiem... abym nigdy więcej nie musiał nikogo stracić!"
     },
     {
       "id": "battle_special_11009_7",
@@ -9383,7 +9383,7 @@
     {
       "id": "battle_special_11009_8",
       "desc": "",
-      "dlg": "Nie pozwól aby ten cynobrowy ognień, światło, które mnie oświetla, zgasł—spraw, aby rozniecał i pożerał wszystkich na mojej drodze."
+      "dlg": "Nie pozwól aby ten cynobrowy ognień, to światło, które mnie oświetla, zgasł—spraw, aby rozniecał i pożerał wszystkich na mojej drodze."
     },
     {
       "id": "battle_special_11009_9",
@@ -9509,6 +9509,141 @@
       "id": "battle_s3_10616_1_1",
       "desc": "3스킬 대사",
       "dlg": "Prosze się nie wiercić...! Na pewno umrzesz jeśli trafię w nie ten punkt."
+    },
+    {
+      "id": "battle_s3_10816_1_2",
+      "desc": "르루즈 이스마엘 3스킬 2타",
+      "dlg": "Przybita!"
+    },
+    {
+      "id": "battle_s3_10816_1_2-01",
+      "desc": "르루즈 이스마엘 3스킬 2타",
+      "dlg": "Przybita!"
+    },
+    {
+      "id": "battle_s3_10816_1_2-02",
+      "desc": "르루즈 이스마엘 3스킬 2타",
+      "dlg": "Przybita!"
+    },
+    {
+      "id": "battle_s3_10816_1_3",
+      "desc": "르루즈 이스마엘 3스킬 3타",
+      "dlg": "Wbita!"
+    },
+    {
+      "id": "battle_s3_10816_1_3-01",
+      "desc": "르루즈 이스마엘 3스킬 3타",
+      "dlg": "Wbita!"
+    },
+    {
+      "id": "battle_s3_10816_1_3-02",
+      "desc": "르루즈 이스마엘 3스킬 3타",
+      "dlg": "Wbita!"
+    },
+    {
+      "id": "battle_s3_10816_1_4",
+      "desc": "르루즈 이스마엘 3스킬 재사용",
+      "dlg": "I Dobita!"
+    },
+    {
+      "id": "battle_s3_10816_1_4-01",
+      "desc": "르루즈 이스마엘 3스킬 재사용",
+      "dlg": "I Dobita!"
+    },
+    {
+      "id": "battle_s3_10416_1_1",
+      "desc": "원레그 료슈 3스킬 1타",
+      "dlg": "Niech każdy krok który postawisz,"
+    },
+    {
+      "id": "battle_s3_10416_1_3",
+      "desc": "원레그 료슈 3스킬 2타",
+      "dlg": "przypomni ci o..."
+    },
+    {
+      "id": "battle_s3_10416_1_4",
+      "desc": "원레그 료슈 3스킬 3타",
+      "dlg": "... tym cierpeniu!"
+    },
+    {
+      "id": "battle_special_10416_1_3",
+      "desc": "원레그 료슈 3-2스킬(강화3스킬) 3타",
+      "dlg": "Chętnie zgniotę cie pod moją podeszwą!"
+    },
+    {
+      "id": "battle_special_10416_1_4",
+      "desc": "원레그 료슈 3-2스킬(강화3스킬) 4타",
+      "dlg": "Wynocha!"
+    },
+    {
+      "id": "battle_special_10416_2",
+      "desc": "원레그 료슈 레알리자시옹 버프를 얻고 다음 턴 시작",
+      "dlg": "Bezbłędnie przycięte."
+    },
+    {
+      "id": "battle_special_10816_1",
+      "desc": "고치 상태 진입",
+      "dlg": "Chętnie wycofam się w swoją powłokę."
+    },
+    {
+      "id": "battle_special_10816_2",
+      "desc": "우화 상태 진입",
+      "dlg": "Zrywam z siebię warstwy przybitych do mnię kłamstw... I wychodzę jako moje autentyczne "ja"!"
+    },
+    {
+      "id": "battle_s3_10315_1_1",
+      "desc": "",
+      "dlg": "I jak stoi gwóźdź..."
+    },
+    {
+      "id": "battle_s3_10315_1_3",
+      "desc": "",
+      "dlg": "... tak wbije go młot!"
+    },
+    {
+      "id": "battle_special_10315_1_1",
+      "desc": "",
+      "dlg": "Światłość!"
+    },
+    {
+      "id": "battle_special_10315_1_2",
+      "desc": "",
+      "dlg": "Ocena!"
+    },
+    {
+      "id": "battle_special_10315_2_1",
+      "desc": "",
+      "dlg": "Waga twych grzechów nie zna granic..."
+    },
+    {
+      "id": "battle_special_10315_2_1-02",
+      "desc": "",
+      "dlg": "... Czeka was Boska kara!"
+    },
+    {
+      "id": "battle_special_10315_2_2",
+      "desc": "",
+      "dlg": "Z każdym uderzeniem nadkruszę wasz żywot..."
+    },
+    {
+      "id": "battle_special_10315_2_2-02",
+      "desc": "",
+      "dlg": "... aby na końcu go stłuc!"
+    },
+    {
+      "id": "battle_special_10315_3",
+      "desc": "",
+      "dlg": "Obiecany odpoczynek."
+    },
+    {
+      "id": "battle_special_10315_4",
+      "desc": "",
+      "dlg": "Spójż, bowiem oznajmiam tą ziemię jako świętą. Niech pięknie jaśnieje."
+    },
+    {
+      "id": "battle_special_10315_8",
+      "desc": "",
+      "dlg": "Zachowójcie się jak na strażników prawości przystaje."
     }
   ]
 }
