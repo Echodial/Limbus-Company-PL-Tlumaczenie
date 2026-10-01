@@ -5986,14 +5986,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], +10% Obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], +10% Obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], +10% Obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], +10% Obrażenia<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Ulecz się o 30% zadanych obrażeń<style=\"highlight\"></style>"
@@ -6298,7 +6298,7 @@
         {
           "level": 4,
           "name": "Ciach",
-          "desc": "[WinDuel] Obrażenia +40%\nJeśli cel ma 5+ [Burst]], +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "[WinDuel] Obrażenia +40%\nJeśli cel ma 5+ [Burst], +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -6349,7 +6349,7 @@
         {
           "level": 4,
           "name": "Rozczłonkowanie",
-          "desc": "Jeśli cel ma 5+ [Burst]], zadaj +50% obrażeń<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma 5+ [Burst], zadaj +50% obrażeń<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -6376,21 +6376,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -6406,26 +6406,26 @@
         {
           "level": 4,
           "name": "Wypatroszenie",
-          "desc": "Jeśli cel ma 5+ [Burst]], +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma 5+ [Burst], +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zadaj 30% zadanych obrażeń jako dodatkowe obrażenia<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -7425,7 +7425,7 @@
         {
           "level": 4,
           "name": "Wykorzystaj Dystans",
-          "desc": "Podczas Starcia, Przeciwnik ma -2 Mocy Starcia\nJeśli cel ma 7+ [Burst]], +2 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "Podczas Starcia, Przeciwnik ma -2 Mocy Starcia\nJeśli cel ma 7+ [Burst], +2 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "Powstrzymać Intruza",
-          "desc": "Jeśli cel ma 5+ [Burst]], +1 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma 5+ [Burst], +1 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -9764,7 +9764,7 @@
         {
           "level": 2,
           "name": "Powstrzymać Intruza",
-          "desc": "Jeśli cel ma 5+ [Burst]], +2 Mocy Monety<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma 5+ [Burst], +2 Mocy Monety<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "Powstrzymać Intruza",
-          "desc": "Jeśli cel ma 5+ [Burst]], +3 Mocy Monety\n[WhenUse] Daj temu Żetonowi Ataku +5 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma 5+ [Burst], +3 Mocy Monety\n[WhenUse] Daj temu Żetonowi Ataku +5 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst]], Ulecz się o 20% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst], Ulecz się o 20% zadanych obrażeń<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst]], Ulecz się o 20% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst], Ulecz się o 20% zadanych obrażeń<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst]], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst]], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst]], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst]], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Burst]\nJeśli cel ma 10+ [Burst], Ulecz się o 50% zadanych obrażeń<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -10024,7 +10024,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma 3+ [Burst]], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 3+ [Burst], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -10041,7 +10041,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -10051,7 +10051,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -10061,7 +10061,7 @@
                   "desc": "[OnSucceedAttack] Zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst]], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [Burst], zyskaj 1 [Talisman]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -10087,7 +10087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [[Talisman]], nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [[Talisman], nałóż +1 Ilości [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -10108,7 +10108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma [[Talisman]], nałóż +3 Ilości [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma [[Talisman], nałóż +3 Ilości [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
