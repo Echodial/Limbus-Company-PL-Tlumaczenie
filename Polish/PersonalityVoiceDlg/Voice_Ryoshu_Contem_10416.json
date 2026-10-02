@@ -68,17 +68,17 @@
       {
         "id": "battle_select_10416_1",
         "desc": "Viewed in Battle",
-        "dlg": "Hm... Too many. I don't deal with customers who stand on S.M.L."
+        "dlg": "Hm... Za dużo. Nie obsługuje klientów, którzy stoją na T.W.N."
       },
       {
         "id": "battle_endcommand_10416_1",
         "desc": "Commencing Attack",
-        "dlg": "I'll make an exception and receive you."
+        "dlg": "Zrobię wyjątek i cię obsłużę."
       },
       {
         "id": "battle_enemy_break_10416_1",
         "desc": "Enemy Stagger",
-        "dlg": "Insole-ent fools."
+        "dlg": "Flek-matyczni frajerzy."
       },
       {
         "id": "battle_break_10416_1",
@@ -88,22 +88,22 @@
       {
         "id": "battle_kill_10416_1",
         "desc": "Enemy Killed",
-        "dlg": "A <i>fitting</i> end."
+        "dlg": "<i>Pasuje</i> ci taki los."
       },
       {
         "id": "battle_dead_10416_1",
         "desc": "Death",
-        "dlg": "How... imperfect..."
+        "dlg": "Co za... tandeta..."
       },
       {
         "id": "choice_success_p_10416_2",
         "desc": "Check Passed",
-        "dlg": "Remember T.A.P. The \"when and where\" are the first things to consider when choosing what to wear."
+        "dlg": "Pamiętaj, M.I.C. To \"gdzie i kiedy\" idziesz jest zawsze najważniejsze w wyborze stroju."
       },
       {
         "id": "choice_fail_n_10416_1",
         "desc": "Check Failed",
-        "dlg": "Spending too long around things of B.E. dulled my eye..."
+        "dlg": "Widocznie spędzam ostatnio za dużo czasu otoczona F.J.U..."
       },
       {
         "id": "battle_clear_10416_1",
@@ -118,7 +118,7 @@
       {
         "id": "battle_defeat_10416_1",
         "desc": "Defeat Wail",
-        "dlg": "What... a disgrace... To see the exalted Footwear Hall... trampled under the disgusting feet... of the Rouges..."
+        "dlg": "Co... za zniewaga... Jak mogłam pozwolić żeby szlachetna hala obuwia została... zadeptana przez obleśne podeszwy... Rougeów..."
       }
     ]
 }
