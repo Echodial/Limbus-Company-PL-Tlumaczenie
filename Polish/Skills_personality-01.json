@@ -2946,6 +2946,342 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cięcie Wymiarowe",
+          "desc": "[WhenUse] Zużyj 2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zużyj 1 [DriftingDimensionYisang] by ponownie użyć tej Monety (raz na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Cięcie Wymiarowe",
+          "desc": "[WhenUse] Zużyj 2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zużyj 1 [DriftingDimensionYisang] by ponownie użyć tej Monety (raz na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cięcie Wymiarowe",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 6 (Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie + [Burst] i [DimensionRift] na celu) (maks 3)</style>\n[WhenUse] Zużyj 2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Mocy Monet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zużyj 1 [DriftingDimensionYisang] by ponownie użyć tej Monety (raz na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Podwójne Cięcie Wymiarowe",
+          "desc": "[WhenUse] Zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +2 Ostatecznej Mocy<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwę Wymiarową</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Cięcia równe (Siła <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie x 4)% ostatecznych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Podwójne Cięcie Wymiarowe",
+          "desc": "[WhenUse] Zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +2 Ostatecznej Mocy\n<style=\"highlight\">[WhenUse] Mając 3+ Siły <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwę Wymiarową</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Cięcia równe (Siła <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie x 4)% ostatecznych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Podwójne Cięcie Wymiarowe",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 6 ([Burst] + [DimensionRift]) na celu (maks 3)</style>\n[WhenUse] Zużyj 5 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +2 Ostatecznej Mocy\n[WhenUse] Mając 3+ Siły <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, +1 Mocy Monet",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwę Wymiarową</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Cięcia równe (Siła <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie x 4)% ostatecznych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Rozdarcie Przestrzeni",
+          "desc": "[BeforeUse] Mając 15+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, użyj \"Czterowymiarowe Rozcięcie Odbicia Serii Czasu\" zamiast tej Zdolności\n[WhenUse] Mając 7~14 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>:\n - Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Mocy Monet za każde 7 Ilości zużytego <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks 2)\n\n[WhenUse] Zyskaj 1 [DriftingDimensionYisang] i 1 [FourDimensionYisang]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowe</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Cięcia równe (Siła <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie x 4)% ostatecznych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rozdarcie Przestrzeni",
+          "desc": "[BeforeUse] Mając 15+ Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, użyj \"Czterowymiarowe Rozcięcie Odbicia Serii Czasu\" zamiast tej Zdolności\n[WhenUse] Mając 7~14 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>:\n - Zużyj całą Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Mocy Monet za każde 7 Ilości zużytego <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (maks 2)\n\n<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 6 ([Burst] + [DimensionRift]) na celu (maks 4)</style>\n[WhenUse] Zyskaj 1 [DriftingDimensionYisang] i 1 [FourDimensionYisang]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowe</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj Obrażenia od Cięcia równe (Siła <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie x 4)% ostatecznych obrażeń tej Monety (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Krok W Bok",
+          "desc": "[StartBattle] Zyskaj 1 [DriftingDimensionYisang] i 1 [FourDimensionYisang] (raz na turę)\n - Mając 3+ Siły <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zyskaj 1 dodatkową Wartość powyższych efektów\n\n[StartBattle] Mając mniej niż 7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj (7 - Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie)% HP by zyskać do 7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (ten efekt nie może zmniejszyć PŻ tej jednostki poniżej 0; zaokrąglone w dół)\n\n[StartBattle] Mając więcej niż 15 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj do 10 dodatkowej Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by aktywować dane efekty:\n - Ulecz (Ilość zużytego <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>)% HP\n - Zyskaj (Ilość zużytego <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> / 3) <sprite name=\"Agility\"><color=#9f6a3a><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (zaokrąglone w dół)<style=\"highlight\"></style>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Krok W Bok",
+          "desc": "<style=\"highlight\">[StartBattle] Zyskaj <sprite name=\"ChargeForceField\"><color=#ffc700><u><link=\"ChargeForceField\">Naładowaną Barierę</link></u></color> równą Sile <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie (raz na turę; maks 5)</style>\n[StartBattle] Zyskaj 1 [DriftingDimensionYisang] i 1 [FourDimensionYisang] (raz na turę)\n - Mając 3+ Siły <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zyskaj 1 dodatkową Wartość powyższych efektów\n\n[StartBattle] Mając mniej niż 7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj (7 - Ilość <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> na sobie)% HP by zyskać do 7 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (ten efekt nie może zmniejszyć PŻ tej jednostki poniżej 0; zaokrąglone w dół)\n\n[StartBattle] Mając więcej niż 15 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, zużyj do 10 dodatkowej Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by aktywować dane efekty:\n - Ulecz (Ilość zużytego <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>)% HP\n - Zyskaj (Ilość zużytego <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> / 3) <sprite name=\"Agility\"><color=#9f6a3a><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (zaokrąglone w dół)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Czterowymiarowe Rozcięcie Odbicia Serii Czasu",
+          "desc": "[WideAreaRampage]\n[WhenUse] +1 Ostatecznej Mocy za każde 6 ([Burst] + [DimensionRift]) na głównym celu (maks 3)\n[WhenUse] Zyskaj 1 [DriftingDimensionYisang] i 1 [FourDimensionYisang]\n[WhenUse] Zużyj 15 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> by zyskać +1 Ostatecznej Mocy i +2 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [FourDimensionYisang]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj wszystkim celom Obrażenia od Cięcia równe 5% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [FourDimensionYisang]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj wszystkim celom Obrażenia od Cięcia równe 5% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [FourDimensionYisang]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj wszystkim celom Obrażenia od Cięcia równe 5% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"DimensionRift\"><color=#e30000><u><link=\"DimensionRift\">Wyrwy Wymiarowe</link></u></color><style=\"highlight\"></style><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj wszystkim celom Obrażenia od Cięcia równe 5% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając 5+ Siły <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, Ponownie użyj tą Monetę (raz na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
