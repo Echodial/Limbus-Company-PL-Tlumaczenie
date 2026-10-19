@@ -119,6 +119,51 @@
       "id": "battle_erosion_20108_3",
       "desc": "E.G.O Corrosion",
       "dlg": "Historie mnie samego, rozkruszone na proch, niedługo, nareszcie, zostaną rozwiane... i doznają unicestwienia."
+    },
+    {
+      "id": "battle_awaken_20109_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Gdy wybija Pierwszy Śmierci Dzwon. Przybywam z nekrologiem w ręku, bowiem znicze na twym grobie rozświetlą się przez chmarę żałobnych motyli! ... I w jego pogłosie, nic się nie postanie."
+    },
+    {
+      "id": "battle_awaken_20109_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Gdy wybija Pierwszy Śmierci Dzwon."
+    },
+    {
+      "id": "battle_awaken_20109_3",
+      "desc": "E.G.O Activation",
+      "dlg": "Przybywam z nekrologiem w ręku,"
+    },
+    {
+      "id": "battle_awaken_20109_4",
+      "desc": "E.G.O Activation",
+      "dlg": "bowiem znicze na twym grobie rozświetlą się przez chmarę żałobnych motyli!"
+    },
+    {
+      "id": "battle_awaken_20109_5",
+      "desc": "E.G.O Activation",
+      "dlg": "... I w jego pogłosie, nic się nie postanie."
+    },
+    {
+      "id": "battle_erosion_20109_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Dla zmarłych, uderzamy w pierwszy dzwon."
+    },
+    {
+      "id": "battle_erosion_20109_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Bliski i odległy punkt przechodzą przez łuk okręgu,\nssawka motyla przebija kolistą granicę nektarium."
+    },
+    {
+      "id": "battle_erosion_20109_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "A gdy nadejdzie pochówek,"
+    },
+    {
+      "id": "battle_erosion_20109_4",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Moje liniowe ja złoży okrąg do grobu."
     }
   ]
 }
