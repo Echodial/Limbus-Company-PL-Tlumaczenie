@@ -382,9 +382,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Great Trichiliocosm [三千大世界]",
-          "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)<style=\"highlight\"></style>",
+          "name": "Wielki Trichiliokosmos [三千大世界]",
+          "abName": "Motyl Splątanych Żyć [羅生蝶]",
+          "desc": "[BeforeAttack] Zyskaj (najwyższy Rezon.) <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 7)\n- Jeśli był to A-Rezon., zyskaj też +(najwyższy Rezon. / 3) Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 2; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -392,10 +392,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -405,7 +405,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [ThreeMirrorpartYiSang] w tej i następnej turze<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -415,10 +415,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to (([Sinking] on target / 3) (max 5; rounded down)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] Równe (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczeniu</link></u></color> na celu / 3) (maks 5; zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -428,7 +428,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktywuj [Combustion] na celu jeden raz, po czym zmniejsz jego Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> o 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -436,9 +436,9 @@
         },
         {
           "level": 3,
-          "name": "Great Trichiliocosm [三千大世界]",
-          "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "<style=\"highlight\">[BeforeAttack] If the main target has 15+ ([Combustion] + [Sinking]), Coin Power +1</style>\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)",
+          "name": "Wielki Trichiliokosmos [三千大世界]",
+          "abName": "Motyl Splątanych Żyć [羅生蝶]",
+          "desc": "<style=\"highlight\">[BeforeAttack] Jeśli główny cel ma 15+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>), +1 Mocy Monet</style>\n[BeforeAttack] Zyskaj (najwyższy Rezon.) <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 7)\n- Jeśli był to A-Rezon., zyskaj też +(najwyższy Rezon. / 3) Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 2; zaokrąglone w dół)",
           "coinlist": [
             {
               "coindescs": [
@@ -446,10 +446,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">+2</style> Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             },
@@ -459,7 +459,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [ThreeMirrorpartYiSang] w tej i następnej turze<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -469,10 +469,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to ([Sinking] on target / 3) (max 5; rounded down)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] Równe (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczeniu</link></u></color> na celu / 3) (maks 5; zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -482,7 +482,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktywuj [Combustion] na celu jeden raz, po czym zmniejsz jego Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> o 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -490,9 +490,9 @@
         },
         {
           "level": 4,
-          "name": "Great Trichiliocosm [三千大世界]",
-          "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[BeforeAttack] If the main target has <style=\"highlight\">10</style>+ ([Combustion] + [Sinking]), Coin Power +1\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)",
+          "name": "Wielki Trichiliokosmos [三千大世界]",
+          "abName": "Motyl Splątanych Żyć [羅生蝶]",
+          "desc": "[BeforeAttack] Jeśli główny cel ma <style=\"highlight\">10</style>+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>), +1 Mocy Monet\n[BeforeAttack] Zyskaj (najwyższy Rezon.) <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 7)\n- Jeśli był to A-Rezon., zyskaj też +(najwyższy Rezon. / 3) Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 2; zaokrąglone w dół)",
           "coinlist": [
             {
               "coindescs": [
@@ -500,10 +500,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">3</style> Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             },
@@ -513,7 +513,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nałóż 1 [ThreeMirrorpartYiSang] w tej i następnej turze<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -523,10 +523,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to (([Sinking] on target / 3) (max 5; rounded down)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż [Combustion] Równe (<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczeniu</link></u></color> na celu / 3) (maks 5; zaokrąglone w dół)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -536,7 +536,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktywuj [Combustion] na celu jeden raz, po czym zmniejsz jego Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> o 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -549,9 +549,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Great Trichiliocosm [三千大世界]",
-          "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[CantIdentify]\nTargets randomly\nOn Coin Hit, gain 5 [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)<style=\"highlight\"></style>",
+          "name": "Wielki Trichiliokosmos [三千大世界]",
+          "abName": "Motyl Splątanych Żyć [羅生蝶]",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nTrafiając Monetą, zyskaj 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>; używając Ostatniej Monety, +1 Ostatecznej Mocy (maks 3; jeden raz na Monetę)\n[BeforeAttack] Zyskaj (najwyższy Rezon.) <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 7)\n- Jeśli był to A-Rezon., zyskaj też +(najwyższy Rezon. / 3) Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 2; zaokrąglone w dół)\n[BeforeAttack] -1 Bazowej Mocy za każdą Pękniętą Monetę (do -4)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -559,10 +559,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -572,7 +572,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ThreeMirrorpartYiSang] w tej i następnej turze<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -582,10 +582,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -595,11 +595,11 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max 40%)<style=\"highlight\"></style>",
-                  "summary": "[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets"
+                  "desc": "[OnStartCoin] +10% zadanych obrażeń za każde 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>) na wszystkich celach (maks 40%)<style=\"highlight\"></style>",
+                  "summary": "[OnStartCoin] Deal more damage za każde 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>) na wszystkich celach"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktywuj [Combustion] na celu jeden raz, po czym zmniejsz jego Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> o 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -607,9 +607,9 @@
         },
         {
           "level": 3,
-          "name": "Great Trichiliocosm [三千大世界]",
-          "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[CantIdentify]\nTargets randomly\nOn Coin Hit, gain <style=\"highlight\">4</style> [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)",
+          "name": "Wielki Trichiliokosmos [三千大世界]",
+          "abName": "Motyl Splątanych Żyć [羅生蝶]",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nTrafiając Monetą, zyskaj <style=\"highlight\">4</style> (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>; używając Ostatniej Monety, +1 Ostatecznej Mocy (maks 3; jeden raz na Monetę)\n[BeforeAttack] Zyskaj (najwyższy Rezon.) <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 7)\n- Jeśli był to A-Rezon., zyskaj też +(najwyższy Rezon. / 3) Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 2; zaokrąglone w dół)\n[BeforeAttack] -1 Bazowej Mocy za każdą Pękniętą Monetę (do -4)",
           "coinlist": [
             {
               "coindescs": [
@@ -617,10 +617,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ThreeMirrorpartYiSang] w tej i następnej turze<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -640,10 +640,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -653,11 +653,11 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max <style=\"highlight\">50</style>%)",
-                  "summary": "[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets"
+                  "desc": "[OnStartCoin] +10% zadanych obrażeń za każde 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>) na wszystkich celach (maks <style=\"highlight\">50</style>%)",
+                  "summary": "[OnStartCoin] Deal more damage za każde 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>) na wszystkich celach"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktywuj [Combustion] na celu jeden raz, po czym zmniejsz jego Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> o 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -665,9 +665,9 @@
         },
         {
           "level": 4,
-          "name": "Great Trichiliocosm [三千大世界]",
-          "abName": "Butterfly of Entangled Lives [羅生蝶]",
-          "desc": "[CantIdentify]\nTargets randomly\nOn Coin Hit, gain <style=\"highlight\">3</style> [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)",
+          "name": "Wielki Trichiliokosmos [三千大世界]",
+          "abName": "Motyl Splątanych Żyć [羅生蝶]",
+          "desc": "[CantIdentify]\nPrzypadkowe cele\nTrafiając Monetą, zyskaj <style=\"highlight\">3</style> (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>; używając Ostatniej Monety, +1 Ostatecznej Mocy (maks 3; jeden raz na Monetę)\n[BeforeAttack] Zyskaj (najwyższy Rezon.) <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 7)\n- Jeśli był to A-Rezon., zyskaj też +(najwyższy Rezon. / 3) Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (maks 2; zaokrąglone w dół)\n[BeforeAttack] -1 Bazowej Mocy za każdą Pękniętą Monetę (do -4)",
           "coinlist": [
             {
               "coindescs": [
@@ -675,10 +675,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">3</style> Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>"
                 }
               ]
             },
@@ -688,7 +688,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ThreeMirrorpartYiSang] w tej i następnej turze<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -698,10 +698,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             },
@@ -711,11 +711,412 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max <style=\"highlight\">60</style>%)",
-                  "summary": "[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets"
+                  "desc": "[OnStartCoin] +10% zadanych obrażeń za każde 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>) na wszystkich celach (maks <style=\"highlight\">60</style>%)",
+                  "summary": "[OnStartCoin] Deal more damage za każde 10 (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> + <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color>) na wszystkich celach"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktywuj [Combustion] na celu jeden raz, po czym zmniejsz jego Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> o 1<style=\"highlight\"></style>"
+
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[WideAreaRampage]\n<sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color> nakładane przez tą Zdolność mają (Szansa wyrzucenia Orła)% szansy nałożyć Tych, Co Już Odeszli. Jeśli ta jednostka nie nałoży Tych, Co Już Odeszli, nałoży zamiast tego Tych, Co Jeszcze Żyją. (ta kalkulacja jest wykonywana osobno dla każdej nakładanej Wartości <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyli</link></u></color>)\n\nJeżeli tej Zdolności użył E.G.O::Uroczysty Lament Yi Sang:\n- [BeforeAttack] Zyskaj (<color=#0dc0eb>Rezon Przygnębienia</color> + 1) <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli</link></u></color> w losowej kombinacji (maks 7)\n- [EndSkill] [ReloadLament]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel wszystkich <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Jeszcze Żyją)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Już Odeszli)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[WideAreaRampage]\n<sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color> nakładane przez tą Zdolność mają (Szansa wyrzucenia Orła)% szansy nałożyć Tych, Co Już Odeszli. Jeśli ta jednostka nie nałoży Tych, Co Już Odeszli, nałoży zamiast tego Tych, Co Jeszcze Żyją. (ta kalkulacja jest wykonywana osobno dla każdej nakładanej Wartości <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyli</link></u></color>)\n\nJeżeli tej Zdolności użył E.G.O::Uroczysty Lament Yi Sang:\n- [BeforeAttack] Zyskaj (<color=#0dc0eb>Rezon Przygnębienia</color> + 1) <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli</link></u></color> w losowej kombinacji (maks 7)\n- [EndSkill] [ReloadLament]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel wszystkich <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Jeszcze Żyją)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Już Odeszli)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe \"Wszystkim\" <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motylom</link></u></color> na celu</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe ([BulletLament] wystrzeleni przez tą Monetę x 2)% ostatecznych obrażeń tej Monety</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[WideAreaRampage]\n<sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color> nakładane przez tą Zdolność mają (Szansa wyrzucenia Orła)% szansy nałożyć Tych, Co Już Odeszli. Jeśli ta jednostka nie nałoży Tych, Co Już Odeszli, nałoży zamiast tego Tych, Co Jeszcze Żyją. (ta kalkulacja jest wykonywana osobno dla każdej nakładanej Wartości <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyli</link></u></color>)\n<style=\"highlight\">+1 Mocy Starcia za każde 4 ([Sinking] + wszystkie <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>) na głównym celu (maks 4)</style>\n\nJeżeli tej Zdolności użył E.G.O::Uroczysty Lament Yi Sang:\n- [BeforeAttack] Zyskaj (<color=#0dc0eb>Rezon Przygnębienia</color> + 1) <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli</link></u></color> w losowej kombinacji (maks 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 losowe <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [AzureTakeDamageUp] i 1 [AzureResistDown], w tej i w następnej turze</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Wystrzel wszystkich <sprite name=\"BulletLament\"><color=#9f6a3a><u><link=\"BulletLament\">Tych, Co Jeszcze Żyją i Tych, Co Już Odeszli</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Jeszcze Żyją)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Już Odeszli)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe \"Wszystkim\" <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motylom</link></u></color> na celu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe ([BulletLament] wystrzeleni przez tą Monetę x 2)% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +(najwyższy Reson. / 2) Wagi Ataku (maks 2, zaokrąglone w dół)\n[BeforeAttack] -2 Bazowej Mocy za każdą Pękniętą Monetę (maks -6)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Jeszcze Żyją)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Już Odeszli)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[CantIdentify]\nLosowe Cele\n[BeforeAttack] Zyskaj +(najwyższy Reson. / 2) Wagi Ataku (maks 2, zaokrąglone w dół)\n[BeforeAttack] -2 Bazowej Mocy za każdą Pękniętą Monetę (maks -6)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Jeszcze Żyją)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Już Odeszli)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe \"Wszystkim\" <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motylom</link></u></color> na celu</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Uroczysty Lament",
+          "abName": "Pogrzeb Umarłych Motyli",
+          "desc": "[CantIdentify]\nLosowe Cele\n<style=\"highlight\">+1 Mocy Starcia za każde 4 ([Sinking] + wszystkie <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>) na głównym celu (maks 4)</style>\n[BeforeAttack] Zyskaj +(najwyższy Reson. / 2) Wagi Ataku (maks 2, zaokrąglone w dół)\n[BeforeAttack] -2 Bazowej Mocy za każdą Pękniętą Monetę (maks -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Jeszcze Żyją)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motyle</link></u></color>(Ci, Co Już Odeszli)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [AzureTakeDamageUp] i 1 [AzureResistDown], w tej i w następnej turze</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Przygnębienia równe \"Wszystkim\" <sprite name=\"SinkingWhite\"><color=#d8d8d8><u><link=\"SinkingWhite\">Motylom</link></u></color> na celu<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Deal Gloom damage równe <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Zrozpaczeniu</link></u></color> on target</style>"
                 }
               ]
             }
