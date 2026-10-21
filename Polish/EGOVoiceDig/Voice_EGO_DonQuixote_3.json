@@ -139,6 +139,16 @@
       "id": "battle_erosion_20309_6",
       "desc": "E.G.O Corrosion",
       "dlg": "Jestem wybranką… Nie jestem taka jak wy… Ja jestem inna!!!"
+    },
+    {
+      "id": "battle_awaken_20310_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Tak oto przegrałeś! A więc według zasad gry... Masz bezzwłocznie oddać mi swoją rękę!"
+    },
+    {
+      "id": "battle_erosion_20310_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Przyjaciel! Mamy tu przyjaciela!\nPatrz, ja... zagram nożyce, a ty co zagrasz?"
     }
   ]
 }
