@@ -882,18 +882,18 @@
           "level": 1,
           "name": "Ja Wybieram Nożyce. A ty??",
           "abName": "Pobawisz Się Ze Mną?",
-          "desc": "[WinDuelEndSkill] Ulecz 2% PŻ oraz 5 PP dla każdego z (2 + Rezonansu Zazrości / 2) Sojuszników posiadających najmniejszy %PŻ (maks 3 jednostki)\n[DefeatDuel] Zyskaj (Rezonansu Zazrości x 5) Tarczy (maks 20)\n[DefeatDuel] Zadaj +100% obrażeń głównemu celowi",
+          "desc": "[WinDuelEndSkill] Ulecz 2% PŻ oraz 5 PP dla każdego z (2 + <color=#9808de>Rezonans Zazrości</color> / 2) Sojuszników posiadających najmniejszy %PŻ (maks 3 jednostki)\n[DefeatDuel] Zyskaj (<color=#9808de>Rezonans Zazrości</color> x 5) Tarczy (maks 20)\n[DefeatDuel] Zadaj +100% obrażeń głównemu celowi<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)"
+                  "desc": "[WinDuelAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -903,18 +903,18 @@
           "level": 3,
           "name": "Ja Wybieram Nożyce. A ty??",
           "abName": "Pobawisz Się Ze Mną?",
-          "desc": "[WinDuelEndSkill] Ulecz <style=\"highlight\">4</style>% PŻ oraz 5 PP dla każdego z (2 + Rezonansu Zazrości / 2) Sojuszników posiadających najmniejszy %PŻ (maks <style=\"highlight\">4</style> jednostki)\n[DefeatDuel] Zyskaj (Rezonansu Zazrości x 5) Tarczy (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Zadaj +<style=\"highlight\">150</style>% obrażeń głównemu celowi",
+          "desc": "[WinDuelEndSkill] Ulecz <style=\"highlight\">4</style>% PŻ oraz 5 PP dla każdego z (2 + <color=#9808de>Rezonans Zazrości</color> / 2) Sojuszników posiadających najmniejszy %PŻ (maks <style=\"highlight\">4</style> jednostki)\n[DefeatDuel] Zyskaj (<color=#9808de>Rezonans Zazrości</color> x 5) Tarczy (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Zadaj +<style=\"highlight\">150</style>% obrażeń głównemu celowi",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)"
+                  "desc": "[WinDuelAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -924,18 +924,18 @@
           "level": 4,
           "name": "Ja Wybieram Nożyce. A ty??",
           "abName": "Pobawisz Się Ze Mną?",
-          "desc": "[WinDuelEndSkill] Ulecz <style=\"highlight\">6</style>% PŻ oraz 5 PP dla każdego z (2 + Rezonansu Zazrości / 2) Sojuszników posiadających najmniejszy %PŻ (maks 4 jednostki)\n[DefeatDuel] Zyskaj (Rezonansu Zazrości x 5) Tarczy (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Zadaj +<style=\"highlight\">200</style>% obrażeń głównemu celowi",
+          "desc": "[WinDuelEndSkill] Ulecz <style=\"highlight\">6</style>% PŻ oraz 5 PP dla każdego z (2 + <color=#9808de>Rezonans Zazrości</color> / 2) Sojuszników posiadających najmniejszy %PŻ (maks 4 jednostki)\n[DefeatDuel] Zyskaj (<color=#9808de>Rezonans Zazrości</color> x 5) Tarczy (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Zadaj +<style=\"highlight\">200</style>% obrażeń głównemu celowi",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[WinDuelAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)"
+                  "desc": "[WinDuelAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 4 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -950,32 +950,32 @@
           "level": 1,
           "name": "Ja Wybieram Nożyce. A ty??",
           "abName": "Pobawisz Się Ze Mną?",
-          "desc": "[CantIdentify]\nLosowe cele\nAt 2+ Rezonansu Zazrości, +1 Mocy Finalnej\n[WinDuel] Zadaj +60% obrażeń głównemu celowi\n[DefeatDuel] Zyskaj Tarczę równą (Rezonansu Zazrości x 5) (maks 20)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowe [ResultReduction]",
+          "desc": "[CantIdentify]\nLosowe cele\nAt 2+ <color=#9808de>Rezonans Zazrości</color>, +1 Mocy Finalnej\n[WinDuel] Zadaj +60% obrażeń głównemu celowi\n[DefeatDuel] Zyskaj Tarczę równą (<color=#9808de>Rezonans Zazrości</color> x 5) (maks 20)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowe [ResultReduction]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -985,32 +985,32 @@
           "level": 3,
           "name": "Ja Wybieram Nożyce. A ty??",
           "abName": "Pobawisz Się Ze Mną?",
-          "desc": "[CantIdentify]\nLosowe cele\n+1 Mocy Finalnej <style=\"highlight\">za każde 2 Rezonansu Zazrości (maks 2)</style>\n[WinDuel] Zadaj +<style=\"highlight\">80</style>% obrażeń głównemu celowi\n[DefeatDuel] Zyskaj Tarczę równą (Rezonansu Zazrości x 5) (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowe [ResultReduction]",
+          "desc": "[CantIdentify]\nLosowe cele\n+1 Mocy Finalnej <style=\"highlight\">za każde 2 <color=#9808de>Rezonans Zazrości</color> (maks 2)</style>\n[WinDuel] Zadaj +<style=\"highlight\">80</style>% obrażeń głównemu celowi\n[DefeatDuel] Zyskaj Tarczę równą (<color=#9808de>Rezonans Zazrości</color> x 5) (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowe [ResultReduction]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1020,32 +1020,32 @@
           "level": 4,
           "name": "Ja Wybieram Nożyce. A ty??",
           "abName": "Pobawisz Się Ze Mną?",
-          "desc": "[CantIdentify]\nLosowe cele\n+1 Mocy Finalnej za każde 2 Rezonansu Zazrości (maks <style=\"highlight\">3</style>)\n[WinDuel] Zadaj +<style=\"highlight\">100</style>% obrażeń głównemu celowi\n[DefeatDuel] Zyskaj Tarczę równą (Rezonansu Zazrości x 5) (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowe [ResultReduction]",
+          "desc": "[CantIdentify]\nLosowe cele\n+1 Mocy Finalnej za każde 2 <color=#9808de>Rezonans Zazrości</color> (maks <style=\"highlight\">3</style>)\n[WinDuel] Zadaj +<style=\"highlight\">100</style>% obrażeń głównemu celowi\n[DefeatDuel] Zyskaj Tarczę równą (<color=#9808de>Rezonans Zazrości</color> x 5) (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Ta Umiejętność nakłada +1 dodatkowe [ResultReduction]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)"
+                  "desc": "[OnSucceedAttack] Nałóż 1 [ResultReduction] na początku następnej tury (raz na turę na cel)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Nałóż 6 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }

@@ -497,13 +497,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ulecz 10 HP.<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz 10 PŻ.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ulecz dodatkowe HP zależną od [Burst] na celu (1 HP uleczone na 1 [Burst]. Maks 20)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz dodatkowe PŻ zależną od [Burst] na celu (1 PŻ uleczone na 1 [Burst]. Maks 20)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Mając 50%- HP, użyj tą Monetę ponownie<style=\"highlight\"></style>"
+                  "desc": "Mając 50%- PŻ, użyj tą Monetę ponownie<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -525,13 +525,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ulecz 15 HP. Ulecz o +50% więcej HP używając tej Monety ponownie.<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz 15 PŻ. Ulecz o +50% więcej PŻ używając tej Monety ponownie.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ulecz dodatkowe HP zależną od [Burst] na celu (2 HP uleczone na 1 [Burst]. Maks 40)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ulecz dodatkowe PŻ zależną od [Burst] na celu (2 PŻ uleczone na 1 [Burst]. Maks 40)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Mając 50%- HP, użyj tą Monetę ponownie<style=\"highlight\"></style>"
+                  "desc": "Mając 50%- PŻ, użyj tą Monetę ponownie<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -545,7 +545,7 @@
         {
           "level": 1,
           "name": "Szczękające Zęby",
-          "desc": "[EndBattle] Ulecz HP równe pozostałemu HP Tarczy (Raz na turę. Maks ilość leczenia: 10% Maks HP)<style=\"highlight\"></style>",
+          "desc": "[EndBattle] Ulecz PŻ równe pozostałemu PŻ Tarczy (Raz na turę. Maks ilość leczenia: 10% Maks PŻ)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -559,7 +559,7 @@
         {
           "level": 4,
           "name": "Szczękające Zęby",
-          "desc": "[WhenUse] Jeśli cel ma 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +3 Ostatecznej Mocy\n[EndBattle] Ulecz HP równe pozostałemu HP Tarczy (Raz na turę. Maks ilość leczenia: 10% Maks HP)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Jeśli cel ma 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color>, +3 Ostatecznej Mocy\n[EndBattle] Ulecz PŻ równe pozostałemu PŻ Tarczy (Raz na turę. Maks ilość leczenia: 10% Maks PŻ)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -971,7 +971,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma 10+ <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, zużyj 10 [Vibration] na celu i nałóż 2 [TimeSuspend]\n- Jeśli ta jednostka jest w stanie <sprite name=\"TimeRentalTwoPersonality\"><color=#ffc700><u><link=\"TimeRentalTwoPersonality\">Pożyczonego Czasu</link></u></color>, ten efekt nie zużywa [Vibration] celu<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 10+ <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, zużyj 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu i nałóż 2 [TimeSuspend]\n- Jeśli ta jednostka jest w stanie <sprite name=\"TimeRentalTwoPersonality\"><color=#ffc700><u><link=\"TimeRentalTwoPersonality\">Pożyczonego Czasu</link></u></color>, ten efekt nie zużywa <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli ta jednostka jest szybsza od celu, [Switch_Vibration] na [VibrationChainPersonality]<style=\"highlight\"></style>"
@@ -1003,7 +1003,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel ma 10+ <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, zużyj 10 [Vibration] na celu i nałóż 2 [TimeSuspend]\n- Jeśli ta jednostka jest w stanie <sprite name=\"TimeRentalTwoPersonality\"><color=#ffc700><u><link=\"TimeRentalTwoPersonality\">Pożyczonego Czasu</link></u></color>, ten efekt nie zużywa [Vibration] celu<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 10+ <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>, zużyj 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu i nałóż 2 [TimeSuspend]\n- Jeśli ta jednostka jest w stanie <sprite name=\"TimeRentalTwoPersonality\"><color=#ffc700><u><link=\"TimeRentalTwoPersonality\">Pożyczonego Czasu</link></u></color>, ten efekt nie zużywa <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>celu o 1</style>"
@@ -1044,7 +1044,7 @@
         {
           "level": 1,
           "name": "Mamy Już Dość",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 5 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 5 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -1059,7 +1059,7 @@
         {
           "level": 2,
           "name": "Mamy Już Dość",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 5 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 5 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>",
           "coinlist": [
             {},
             {
@@ -1074,7 +1074,7 @@
         {
           "level": 4,
           "name": "Mamy Już Dość",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 5 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 5 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,7 +1100,7 @@
         {
           "level": 1,
           "name": "Abyśmy Wszyscy Mogli Zakwitnąć",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[BeforeAttack] Mając 10+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>, +1 Wagi Ataku<style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[BeforeAttack] Mając 10+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>, +1 Wagi Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1124,7 +1124,7 @@
         {
           "level": 2,
           "name": "Abyśmy Wszyscy Mogli Zakwitnąć",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>\n[BeforeAttack] <style=\"highlight\">+1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks 2)</style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>\n[BeforeAttack] <style=\"highlight\">+1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1148,7 +1148,7 @@
         {
           "level": 4,
           "name": "Abyśmy Wszyscy Mogli Zakwitnąć",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[BeforeAttack] +1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks 2)<style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[BeforeAttack] +1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1177,7 +1177,7 @@
         {
           "level": 3,
           "name": "Przebiję Cię Na Wylot!",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 10)\n[WhenUse] +1 Mocy Starcia za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)\n[WhenUse] Jeśli cel ma 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +10% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Accumulation\"><color=#e30000><u><link=\"BloodDinner_Accumulation\">Krwawej Uczty Skosztowanej</link></u></color> przez tą jednostkę (maks 50%)\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o 30; otrzymaj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (raz na turę)<style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 10)\n[WhenUse] +1 Mocy Starcia za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)\n[WhenUse] Jeśli cel ma 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +10% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Accumulation\"><color=#e30000><u><link=\"BloodDinner_Accumulation\">Krwawej Uczty Skosztowanej</link></u></color> przez tą jednostkę (maks 50%)\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o 30; otrzymaj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -1193,7 +1193,7 @@
         {
           "level": 4,
           "name": "Przebiję Cię Na Wylot!",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 10)\n[WhenUse] +1 Mocy Starcia za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +<style=\"highlight\">20</style>% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Accumulation\"><color=#e30000><u><link=\"BloodDinner_Accumulation\">Krwawej Uczty Skosztowanej</link></u></color> przez tą jednostkę (maks <style=\"highlight\">100</style>%)\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o <style=\"highlight\">60</style>; otrzymaj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (raz na turę)",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 10)\n[WhenUse] +1 Mocy Starcia za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 skosztowanej przez tą jednostkę <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +<style=\"highlight\">20</style>% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Accumulation\"><color=#e30000><u><link=\"BloodDinner_Accumulation\">Krwawej Uczty Skosztowanej</link></u></color> przez tą jednostkę (maks <style=\"highlight\">100</style>%)\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o <style=\"highlight\">60</style>; otrzymaj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (raz na turę)",
           "coinlist": [
             {},
             {},
@@ -1214,7 +1214,7 @@
         {
           "level": 1,
           "name": "Jeszcze I My Będziemy Się Śmiać",
-          "desc": "[DuelCounter]\n[StartBattle] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[StartBattle] Przyznaj jednemu sojusznikowi z najniższym HP 1 [SwirlingBloodPersonality] za każde 50 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 10, raz na turę)<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[StartBattle] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[StartBattle] Przyznaj jednemu sojusznikowi z najniższym PŻ 1 [SwirlingBloodPersonality] za każde 50 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 10, raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -1229,7 +1229,7 @@
         {
           "level": 4,
           "name": "Jeszcze I My Będziemy Się Śmiać",
-          "desc": "[DuelCounter]\n[StartBattle] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[StartBattle] Przyznaj jednemu sojusznikowi z najniższym HP 1 [SwirlingBloodPersonality] za każde 50 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks <style=\"highlight\">15</style>, raz na turę)",
+          "desc": "[DuelCounter]\n[StartBattle] Skosztuj do 50 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> by otrzymać 1 [BloodArmorPersonalityFirst] za każde 10 <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>\n- Jeśli ta jednostka nie skosztowała <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawej Uczty</link></u></color>, otrzymaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[StartBattle] Przyznaj jednemu sojusznikowi z najniższym PŻ 1 [SwirlingBloodPersonality] za każde 50 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks <style=\"highlight\">15</style>, raz na turę)",
           "coinlist": [
             {},
             {
@@ -1249,7 +1249,7 @@
         {
           "level": 1,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 6 - Bicz",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 20)\n[WhenUse] Zyskaj 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Nałóż +1 więcej <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy trafieniu za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>. (maks 2) Po Ataku zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 20)\n[WhenUse] Zyskaj 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Nałóż +1 więcej <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy trafieniu za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>. (maks 2) Po Ataku zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
         {
           "level": 2,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 6 - Bicz",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 20)\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>\n[WhenUse] Zyskaj 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Nałóż +1 więcej <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy trafieniu za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>. (maks 2) Po Ataku zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 20)\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>\n[WhenUse] Zyskaj 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Nałóż +1 więcej <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy trafieniu za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>. (maks 2) Po Ataku zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>",
           "coinlist": [
             {},
             {
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 6 - Bicz",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 20)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Zyskaj 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Nałóż +1 więcej <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy trafieniu za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>. (maks 2) Po Ataki zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 20)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Zyskaj 20 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Nałóż +1 więcej <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> przy trafieniu za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>. (maks 2) Po Ataki zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>",
           "coinlist": [
             {},
             {
@@ -1347,7 +1347,7 @@
         {
           "level": 1,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 8 - Rozcięcie",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[BeforeAttack] Mając 10+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>, +1 Wagi Ataku\n[EndSkill] Jeśli ta Zdolność miała zwiększoną Wagę Ataku, zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[BeforeAttack] Mając 10+ <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>, +1 Wagi Ataku\n[EndSkill] Jeśli ta Zdolność miała zwiększoną Wagę Ataku, zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1381,7 +1381,7 @@
         {
           "level": 2,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 8 - Rozcięcie",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[BeforeAttack] <style=\"highlight\">Zyskaj +1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)</style>\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każdą otrzymaną Wagę Ataku",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[BeforeAttack] <style=\"highlight\">Zyskaj +1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)</style>\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każdą otrzymaną Wagę Ataku",
           "coinlist": [
             {
               "coindescs": [
@@ -1415,7 +1415,7 @@
         {
           "level": 4,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 8 - Rozcięcie",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń HP (maks 10)\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[BeforeAttack] Zyskaj +1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każdą otrzymaną Wagę Ataku<style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 30% zadanych obrażeń PŻ (maks 10)\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[BeforeAttack] Zyskaj +1 Wagi Ataku za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> (maks 2)\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każdą otrzymaną Wagę Ataku<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1454,7 +1454,7 @@
         {
           "level": 3,
           "name": "Wyższa Technika Stawardniałej Krwi Sancho - La Sangre",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 20)\n[WhenUse] +1 Mocy Bazowej za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks 2)\n[WhenUse] Jeśli cel ma 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +20% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 100%)\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o 50. Odzyskaj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> zużytej przez tą zdolność (raz na turę)<style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 20)\n[WhenUse] +1 Mocy Bazowej za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks 2)\n[WhenUse] Jeśli cel ma 10+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +20% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 100%)\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o 50. Odzyskaj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> zużytej przez tą zdolność (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1495,7 +1495,7 @@
         {
           "level": 4,
           "name": "Wyższa Technika Stawardniałej Krwi Sancho - La Sangre",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń HP (maks 20)\n[WhenUse] +1 Mocy Bazowej za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +20% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 100%)\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o <style=\"highlight\">100</style>. Odzyskaj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> zużytej przez tą zdolność (raz na turę)",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz 50% zadanych obrażeń PŻ (maks 20)\n[WhenUse] +1 Mocy Bazowej za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie (maks <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] +5% zadanych obrażeń za każde [Laceration] na celu (maks 50%)\n[WhenUse] +20% zadanych obrażeń za każde 100 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color> (maks 100%)\n[EndSkill] Zużyj 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> za każde 10 <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color>\n[EndSkill] Jeśli cel zostanie pokonany, zwiększ <sprite name=\"BloodDinner\"><color=#9f6a3a<u><link=\"BloodDinner\">Krwawą Ucztę</link></u></color> o <style=\"highlight\">100</style>. Odzyskaj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> zużytej przez tą zdolność (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -1541,7 +1541,7 @@
         {
           "level": 1,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 15 - Przygotowanie do Finału",
-          "desc": "[DuelCounter]\n[StartBattle] Przyznaj (3 + (najwyższy Rezon. / 2)) sojusznikom z najniższym HP (1 + ([BloodArmorPersonalityFirst] / 15)) <sprite name=\"SwirlingBloodPersonality\"><color=#ffc700><u><link=\"SwirlingBloodPersonality\">Migotania【Krwiopijca】</link></u></color> za każde 40 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>, po czym zużyj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie. (jeden raz na sojusznika; zaokrąglone w dół)<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[StartBattle] Przyznaj (3 + (najwyższy Rezon. / 2)) sojusznikom z najniższym PŻ (1 + ([BloodArmorPersonalityFirst] / 15)) <sprite name=\"SwirlingBloodPersonality\"><color=#ffc700><u><link=\"SwirlingBloodPersonality\">Migotania【Krwiopijca】</link></u></color> za każde 40 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>, po czym zużyj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie. (jeden raz na sojusznika; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -1559,7 +1559,7 @@
         {
           "level": 4,
           "name": "Techniki Stwardniałej Krwi: Wariant Sancho 15 - Przygotowanie do Finału",
-          "desc": "[DuelCounter]\n[StartBattle] Dla (3 + (highest Rezon. / 2)) sojuszników z najniższym HP: przyznaj (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) <sprite name=\"SwirlingBloodPersonality\"><color=#ffc700><u><link=\"SwirlingBloodPersonality\">Migotania【Krwiopijca】</link></u></color> za każde 40 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>, po czym zużyj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie. (jeden raz na sojusznika; zaokrąglone w dół)",
+          "desc": "[DuelCounter]\n[StartBattle] Dla (3 + (highest Rezon. / 2)) sojuszników z najniższym PŻ: przyznaj (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) <sprite name=\"SwirlingBloodPersonality\"><color=#ffc700><u><link=\"SwirlingBloodPersonality\">Migotania【Krwiopijca】</link></u></color> za każde 40 <sprite name=\"BloodDinner_Common_Accumulation\"><color=#9f6a3a<u><link=\"BloodDinner_Common_Accumulation\">Wspólnie Skosztowanej Krwawej Uczty</link></u></color>, po czym zużyj połowę <sprite name=\"BloodArmorPersonalityFirst\"><color=#ffc700><u><link=\"BloodArmorPersonalityFirst\">Utwardzonej Krwi</link></u></color> na sobie. (jeden raz na sojusznika; zaokrąglone w dół)",
           "coinlist": [
             {},
             {
@@ -2867,7 +2867,7 @@
         {
           "level": 1,
           "name": "Tkanina Przez Nakaz Uszyta I Przez Nakaz Mi Dana",
-          "desc": "+1 Ostatecznej Mocy za każdy poziom <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color> (maks 3)\n[StartBattle] Zyskaj Tarczę równą 10% maks HP (raz na turę)\n- Zmniejsz uzyskaną Tarczę o 1% za każde 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>; mając 50+ <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>, ta Zdolność nie przyznaje Tarczy\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndBattle] Jeśli ta jednostka nie ma <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color>, zyskuje [UnlockBuffAlly_1] (raz na turę)\n- Zmień Wartość <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaski Nakazu</link></u></color> na 3\n- Zyskaj 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style> na początku następnej tury za każdą zyskaną <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaskę Nakazu</link></u></color><style=\"highlight\"></style>",
+          "desc": "+1 Ostatecznej Mocy za każdy poziom <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color> (maks 3)\n[StartBattle] Zyskaj Tarczę równą 10% maks PŻ (raz na turę)\n- Zmniejsz uzyskaną Tarczę o 1% za każde 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>; mając 50+ <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>, ta Zdolność nie przyznaje Tarczy\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndBattle] Jeśli ta jednostka nie ma <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color>, zyskuje [UnlockBuffAlly_1] (raz na turę)\n- Zmień Wartość <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaski Nakazu</link></u></color> na 3\n- Zyskaj 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style> na początku następnej tury za każdą zyskaną <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaskę Nakazu</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2889,7 +2889,7 @@
         {
           "level": 4,
           "name": "Tkanina Przez Nakaz Uszyta I Przez Nakaz Mi Dana",
-          "desc": "+1 Ostatecznej Mocy <style=\"highlight\">i +15% zadawanych obrażeń</style> za każdy poziom <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color> (maks 3; <style=\"highlight\">maks 45%</style>)\n[StartBattle] Zyskaj Tarczę równą <style=\"highlight\">15</style>% maks HP (raz na turę)\n- Zmniejsz uzyskaną Tarczę o <style=\"highlight\">1.5</style>% za każde 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>; mając 50+ <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>, ta Zdolność nie przyznaje Tarczy\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndBattle] Jeśli ta jednostka nie ma <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color>, zyskuje [UnlockBuffAlly_1] (raz na turę)\n- Zmień Wartość <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaski Nakazu</link></u></color> na 3\n- Zyskaj 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style> na początku następnej tury za każdą zyskaną <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaskę Nakazu</link></u></color>",
+          "desc": "+1 Ostatecznej Mocy <style=\"highlight\">i +15% zadawanych obrażeń</style> za każdy poziom <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color> (maks 3; <style=\"highlight\">maks 45%</style>)\n[StartBattle] Zyskaj Tarczę równą <style=\"highlight\">15</style>% maks PŻ (raz na turę)\n- Zmniejsz uzyskaną Tarczę o <style=\"highlight\">1.5</style>% za każde 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>; mając 50+ <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style>, ta Zdolność nie przyznaje Tarczy\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndBattle] Jeśli ta jednostka nie ma <sprite name=\"UnlockBuff_Base\"><color=#ffc700><u><link=\"UnlockBuff_Base\">Odblokowania</link></u></color>, zyskuje [UnlockBuffAlly_1] (raz na turę)\n- Zmień Wartość <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaski Nakazu</link></u></color> na 3\n- Zyskaj 5 <sprite name=\"KarmaOfIndexAlly\"><color=#e30000><u><link=\"KarmaOfIndexAlly\">Nagannej Karmy</link></u></color></style> na początku następnej tury za każdą zyskaną <sprite name=\"BlessingOfIndexPrescriptAlly\"><color=#ffc700><u><link=\"BlessingOfIndexPrescriptAlly\">Łaskę Nakazu</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -3226,6 +3226,467 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nadejście Gwoździa",
+          "desc": "[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet\n[WhenUse] Przyznaj sobie i 1 innemu sojusznikowi z \"Le Noir\" z najniższą Ilością <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> +2 Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Nadejście Gwoździa",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 4 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks 2)</style>\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet <style=\"highlight\">i +20% zadanych obrażeń</style>\n[WhenUse] Przyznaj sobie i 1 innemu sojusznikowi z \"Le Noir\" z najniższą Ilością <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> +<style=\"highlight\">3</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">5</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Nadejście Gwoździa",
+          "desc": "[WhenUse] +1 Ostatecznej Mocy za każde 4 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks <style=\"highlight\">3</style>)\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +<style=\"highlight\">40</style>% zadanych obrażeń\n[WhenUse] Przyznaj +<style=\"highlight\">4</style> Ilości <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color> (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">6</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wezwanie Gwoździa",
+          "desc": "[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Wezwanie Gwoździa",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 4 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks 2)</style>\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet <style=\"highlight\">i +20% zadanych obrażeń</style>\n<style=\"highlight\">[BeforeAttack] Ostatnia Moneta zyskuje +1 Ostatecznej Mocy za każdą wartość najwyższego Rezonansu (maks 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">7</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wezwanie Gwoździa",
+          "desc": "[WhenUse] +1 Ostatecznej Mocy za każde 4 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks <style=\"highlight\">3</style>)\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +<style=\"highlight\">30</style>% zadanych obrażeń\n[BeforeAttack] Ostatnia Moneta zyskuje +1 Ostatecznej Mocy za każdą wartość najwyższego Rezonansu (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">8</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Odcinam Twą Ścieżkę!",
+          "desc": "[StartBattle] Zyskaj 3 [OathFieldDonQuixote] (raz na turę)\n[StartBattle] Przyznaj 2 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Wyższe Poziomy Ataku</link></u></color> i 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Wyższe Poziomy Obrony</link></u></color> sobie i jednemu sojusznikowi z \"Le Noir\" z najwyższą Prędkością (raz na turę)\n[WhenUse] Jeśli cel ma 6+ (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]), +1 Mocy Monet\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +20% zadanych obrażeń\n[BeforeAttack] Ostatnia Moneta zyskuje +1 Ostatecznej Mocy za każdą wartość najwyższego Rezonansu (maks 4)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationFocusing]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 3+ <sprite name=\"NoirNailDonQuixote\"><color=#e30000><u><link=\"NoirNailDonQuixote\">Obiecanych Gwoździ</link></u></color>, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Odcinam Twą Ścieżkę!",
+          "desc": "[StartBattle] Zyskaj 3 [OathFieldDonQuixote] (raz na turę)\n[StartBattle] Przyznaj 2 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Wyższe Poziomy Ataku</link></u></color> i 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Wyższe Poziomy Obrony</link></u></color> sobie i jednemu sojusznikowi z \"Le Noir\" z najwyższą Prędkością (raz na turę)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks 2)</style>\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +<style=\"highlight\">40</style>% zadanych obrażeń\n[BeforeAttack] Ostatnia Moneta zyskuje +1 Ostatecznej Mocy za każdą wartość najwyższego Rezonansu (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">4</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationFocusing]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 3+ <sprite name=\"NoirNailDonQuixote\"><color=#e30000><u><link=\"NoirNailDonQuixote\">Obiecanych Gwoździ</link></u></color>, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Podziwiajcie, Wy, Pogrążeni W Ciszy",
+          "desc": "[StartBattle] Zyskaj 3 [OathFieldDonQuixote] (raz na turę)\n[StartBattle] Ulecz 4 SP siebie i jednego sojusznika z \"Le Noir\" z najniższym PP (raz na turę)\n[StartBattle] Zyskaj +2 Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color> (raz na turę)\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Podziwiajcie, Wy, Pogrążeni W Ciszy",
+          "desc": "[StartBattle] Zyskaj 3 [OathFieldDonQuixote] (raz na turę)\n[StartBattle] Ulecz <style=\"highlight\">5</style> SP siebie i jednego sojusznika z \"Le Noir\" z najniższym PP (raz na turę)\n<style=\"highlight\">[StartBattle] Przyznaj dane efekty zależnie od Wartości <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color> na sobie:\n- Mając 100 <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color>, użyj \"Z Każdym Ciosem, Odcinam Twą Ścieżkę!\" zamiast tej Zdolności (raz na turę; może aktywować się jako Bezpośredni Atak)\n- Mając mniej niż 100 <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color>, zyskaj Tarczę równą (<sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łasce Obsydianowego Boga</link></u></color> / 10)% maks PŻ tej jednostki (raz na turę)</style>\n[StartBattle] Zyskaj +<style=\"highlight\">3</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color> (raz na turę)\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]), +1 Mocy Monet</style>\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet <style=\"highlight\">i +10% zadanych obrażeń</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">3</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Podziwiajcie, Wy, Pogrążeni W Ciszy",
+          "desc": "[StartBattle] Zyskaj 3 [OathFieldDonQuixote] (raz na turę)\n[StartBattle] Ulecz <style=\"highlight\">6</style> SP siebie i jednego sojusznika z \"Le Noir\" z najniższym PP (raz na turę)\n[StartBattle] Przyznaj dane efekty zależnie od Wartości <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color> na sobie:\n- Mając 100 <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color>, activate \"Z Każdym Ciosem, Odcinam Twą Ścieżkę!\" zamiast tej Zdolności (raz na turę; może aktywować się jako Bezpośredni Atak)\n- Mając mniej niż 100 <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color>, zyskaj Tarczę równą (<sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaski Obsydianowego Boga</link></u></color> / 10)% maks PŻ tej jednostki (raz na turę)\n[StartBattle] Zyskaj +<style=\"highlight\">4</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color> (raz na turę)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks 2)</style>\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +<style=\"highlight\">20</style>% zadanych obrażeń",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">4</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Będę Twoim Sędzią!",
+          "desc": "[CantDuel]\nTa Zdolność posiada dane właściwości:\n- Nie aktywuje Zdolności Obronnych\n- Ta Zdolność nie może być użyta ponownie przez efekty zewnętrzne\n- PŻ celu nie mogą spaść poniżej 1 przez zakończeniem tej Zdolności\n[WhenUse] +1 Ostatecznej Mocy za każde 4 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks 2)\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +20% zadanych obrażeń<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Będę Twoim Sędzią!",
+          "desc": "[CantDuel]\nTa Zdolność posiada dane właściwości:\n- Nie aktywuje Zdolności Obronnych\n- Ta Zdolność nie może być użyta ponownie przez efekty zewnętrzne\n- PŻ celu nie mogą spaść poniżej 1 przez zakończeniem tej Zdolności\n[WhenUse] +1 Ostatecznej Mocy za każde 4 (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na celu (maks <style=\"highlight\">3</style>)\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet i +<style=\"highlight\">40</style>% zadanych obrażeń",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Z Każdym Ciosem, Odcinam Twą Ścieżkę!",
+          "desc": "Ta zdolność liczy się jako Zdolność Ofensywna, nawet jeśli została aktywowana zamiast Zdolności Obronnej; co za tym idzie, na tą Zdolność nie działają efkety zmieniające Moc Obrony, tylko te zmieniające Moc Ataku\n[StartBattle] Przyznaj 2 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Wyższe Poziomy Ataku</link></u></color> i 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Wyższe Poziomy Obrony</link></u></color> wszystkim sojusznikom z \"Le Noir\" (raz na turę)\n[WhenUse] Mając 6+ sumy Wartości (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na wszystkich celach, +1 Mocy Monet\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet\n[WhenUse] +30% zadanych obrażeń za każdą nadwyżdkę Wagi Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, Części)\n[BeforeAttack] Ostatnia Moneta zyskuje +2 Ostatecznej Mocy za każdą wartość najwyższego Rezonansu (maks 8)\n[EndSkill] Zużyj całą <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaskę Obsydianowego Boga</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color> (once per Coin)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationFocusing]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przyznaj dane efekty na cele zależnie od ich poszczególnych Wartości <sprite name=\"NoirNailDonQuixote\"><color=#e30000><u><link=\"NoirNailDonQuixote\">Obiecanych Gwoździ</link></u></color>\n- Jeśli cel ma 3+ <sprite name=\"NoirNailDonQuixote\"><color=#e30000><u><link=\"NoirNailDonQuixote\">Obiecanych Gwoździ</link></u></color>, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1\n- Zadaj obrażenia od Lenistwa równe ([NoirNailDonQuixote] na celu x 1.5)% ostatecznych obrażeń tej Monety (maks 45%)\n- Zużyj wszystkie [NoirNailDonQuixote] na celu<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Z Każdym Ciosem, Odcinam Twą Ścieżkę!",
+          "desc": "Ta zdolność liczy się jako Zdolność Ofensywna, nawet jeśli została aktywowana zamiast Zdolności Obronnej; co za tym idzie, na tą Zdolność nie działają efkety zmieniające Moc Obrony, tylko te zmieniające Moc Ataku\n[StartBattle] Przyznaj 2 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Wyższe Poziomy Ataku</link></u></color> i 2 <sprite name=\"DefenseUp\"><color=#ffc700><u><link=\"DefenseUp\">Wyższe Poziomy Obrony</link></u></color> wszystkim sojusznikom z \"Le Noir\" (raz na turę)\n[WhenUse] <style=\"highlight\">+1 Mocy Monet za każde 6 sumy Wartości (Siła <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> + [NoirNailDonQuixote]) na wszystkich celach (maks 2)</style>\n[WhenUse] Mając 3+ Siły <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color>, +1 Mocy Monet\n[WhenUse] +<style=\"highlight\">50</style>% zadanych obrażeń za każdą nadwyżdkę Wagi Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, Części)\n[BeforeAttack] Ostatnia Moneta zyskuje +2 Ostatecznej Mocy za każdą wartość najwyższego Rezonansu (maks 8)\n[EndSkill] Zużyj całą <sprite name=\"NoirShieldUpDonQuixote\"><color=#ffc700><u><link=\"NoirShieldUpDonQuixote\">Łaskę Obsydianowego Boga</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirNailDonQuixote]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">4</style> Ilości <sprite name=\"ChargeNoir\"><color=#ffc700><u><link=\"ChargeNoirAlly\">Konserwacji</link></u></color> (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationFocusing]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przyznaj dane efekty na cele zależnie od ich poszczególnych Wartości <sprite name=\"NoirNailDonQuixote\"><color=#e30000><u><link=\"NoirNailDonQuixote\">Obiecanych Gwoździ</link></u></color>\n- Jeśli cel ma 3+ <sprite name=\"NoirNailDonQuixote\"><color=#e30000><u><link=\"NoirNailDonQuixote\">Obiecanych Gwoździ</link></u></color>, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1\n- Zadaj obrażenia od Lenistwa równe ([NoirNailDonQuixote] na celu x <style=\"highlight\">3</style>)% ostatecznych obrażeń tej Monety (maks <style=\"highlight\">90</style>%)\n- Zużyj wszystkie [NoirNailDonQuixote] na celu"
                 }
               ]
             }
