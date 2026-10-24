@@ -3,14 +3,14 @@
     {
       "id": "BloodyHand_2nd",
       "name": "Bloodied Hand II",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- Gain 1 Offense Level for every 6 Stack",
+      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- Zyskaj 1 Offense Level for every 6 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHand_3rd",
       "name": "Bloodied Hand III",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- Gain 1 Attack Power\n- At 30 Stack: On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- At 30 Stack: On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target",
+      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- Zyskaj 1 Attack Power\n- At 30 Stack: On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- At 30 Stack: On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target",
       "summary": "",
       "undefined": "-"
     },
@@ -73,21 +73,21 @@
     {
       "id": "TinyCarmilla",
       "name": "Little Carmilla",
-      "desc": "- Max Stack: 3\n- Gain 2 Bleed every time this unit gains Little Carmilla\n- Turn End: gain +2 Bleed Count\n- Turn End: at 3 Stack, take fixed damage equal to 15% of this unit's max HP, heal HP equal to 5% of each enemy's max HP, then this effect expires",
+      "desc": "- Max Stack: 3\n- Zyskaj 2 Bleed every time this unit gains Little Carmilla\n- Turn End: gain +2 Bleed Count\n- Turn End: at 3 Stack, take fixed damage equal to 15% of this unit's max HP, heal HP equal to 5% of each enemy's max HP, then this effect expires",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "OneDropNutrition",
       "name": "A Drop of Nourishment",
-      "desc": "- Max Stack: 10\n- Gain 1 Stack every time this unit heals 10% of its max HP with its HP-healing Attacks\n- HP healed: {0}%",
+      "desc": "- Max Stack: 10\n- Zyskaj 1 Stack every time this unit heals 10% of its max HP with its HP-healing Attacks\n- HP healed: {0}%",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThornNoose",
       "name": "Barbed Lasso",
-      "desc": "- Max Stack: 3\n- Turn End: gain 2 Rupture and +2 Rupture Count\n- Turn End: at 1+ Stack, fix this unit's Speed to 1.\n- Turn End: at 2 Stack, take 20 Gluttony damage.\n- Turn End: at 3 Stack, become forcibly Staggered next turn. This effect and the connected Barbed Lasso both expire.\n- Gain 1 at Turn Start",
+      "desc": "- Max Stack: 3\n- Turn End: gain 2 Rupture and +2 Rupture Count\n- Turn End: at 1+ Stack, fix this unit's Speed to 1.\n- Turn End: at 2 Stack, take 20 Gluttony damage.\n- Turn End: at 3 Stack, become forcibly Staggered next turn. This effect and the connected Barbed Lasso both expire.\n- Zyskaj 1 at Turn Start",
       "summary": "",
       "undefined": "-"
     },
@@ -156,8 +156,8 @@
     },
     {
       "id": "RoseWedge",
-      "name": "Rose Wedge",
-      "desc": "- Max Potency: 10\n- Max Count: 4\n- Gain 1 Potency every time this unit takes 10 Bleed damage\n- When gaining Bleed or 'Unique Bleed' from getting hit, gain 2 Bleed and inflict 1 Bleed against the Attacker. (5 times per turn)\n· At 10 Potency, gain +1 Bleed Count as well when triggering the above effect.\n- Turn End: lose 1 Count\n- Combat End: at 10 Potency or 1 Count, this effect expires, and this unit takes (Potency x 10) Lust damage.\n- If the unit inflicted with this effect dies, or when this effect expires: increase Bloodfeast by (Potency x 10), and deal (Potency x 2) Lust damage against all of its allies (min 1)",
+      "name": "Różany Klin",
+      "desc": "- Maks Siła: 10\n- Maks Wartość: 4\n- Zyskaj 1 Siły za każdym razem, kiedy ta jednostka otrzyma 10 obrażeń od Krwawienia\n- Kiedy ta jednostka zyskuje Krwawienie lub 'Specjalne Krwawienie' przez zostanie trafioną, zyskuje 2 Krwawienia i nakłada 1 Krwawienia na agresora. (5 razy na turę)\n· Mając 10 Siły, zyskaj +1 Ilości Krwawienia w dodatku do powyższego efektu.\n- Konie tury: strać 1 Wartości\n- Koniec walki: Jeśli ta jednostka ma 10 Siły lub 1 Ilości, ten efekt wygasa i zadaje tej jednostce (Siła x 10) obrażeń od Porządania.\n- Jeśli jednostka posiadająca ten efekt zostanie pokonana, lub kiedy ten efekt wygaśnie: zwiększ Krwawą Ucztę o (Siła x 10), i zadaj wszystkim sojusznikom tej jednostki (Siła x 2) obrażeń od Porządania (min 1)",
       "summary": "",
       "undefined": "-"
     },
@@ -199,14 +199,14 @@
     {
       "id": "WeightOfResponsibility_LowMorale",
       "name": "Time to abandon my dream...",
-      "desc": "- Low Morale\n- Gain 2 Attack Power Up and 1 Fragile; raise max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 2 Offense Level Up and 2 Defense Level Down",
+      "desc": "- Low Morale\n- Zyskaj 2 Attack Power Up and 1 Fragile; raise max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 2 Offense Level Up and 2 Defense Level Down",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WeightOfResponsibility_Panic",
       "name": "... for my Family, as their Father...",
-      "desc": "- Panic\n- Gain 2 Attack Power Up, 2 Haste, and 2 Fragile\n- Heal +50% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 3 Offense Level Up and 5 Defense Level Down",
+      "desc": "- Panic\n- Zyskaj 2 Attack Power Up, 2 Haste, and 2 Fragile\n- Heal +50% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 3 Offense Level Up and 5 Defense Level Down",
       "summary": "",
       "undefined": "-"
     },
@@ -234,7 +234,7 @@
     {
       "id": "UnfinishedDream",
       "name": "IN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER",
-      "desc": "- At every Turn End: gain 1 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "desc": "- At every Turn End: gain 1 Haste and 3 Offense Level Up next turn\n- Zyskaj 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
       "summary": "",
       "undefined": "-"
     },
@@ -248,14 +248,14 @@
     {
       "id": "SanchoMind_Panic",
       "name": "Reawakening Joy Of Carnage",
-      "desc": "- Panic\nTurn Start: gain 6 Defense Level Up. Gain 3 Offense Level Up next turn",
+      "desc": "- Panic\nTurn Start: gain 6 Defense Level Up. Zyskaj 3 Offense Level Up next turn",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHope",
       "name": "WHICH TREATS THE BUS, THE COMPANIONS, AND THE ADVENTURES",
-      "desc": "Gain Clash Power equal to the value",
+      "desc": "Zyskaj Clash Power equal to the value",
       "summary": "",
       "undefined": "-"
     },

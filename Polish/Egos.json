@@ -542,7 +542,7 @@
     },
     {
       "id": 20509,
-      "name": "Obrany w Cienie Pieśniaż Ostrza [着影揮刀]",
+      "name": "Skąpany w Cieniach Tancerz Ostrzy [着影揮刀]",
       "desc": "Meursault’s E.G.O Gear"
     },
     {
@@ -559,6 +559,26 @@
       "id": 21210,
       "name": "Zameldowanie",
       "desc": "Gregor’s E.G.O Gear"
+    },
+    {
+      "id": 20610,
+      "name": "Repudiation",
+      "desc": "Hong Lu’s E.G.O Gear"
+    },
+    {
+      "id": 20910,
+      "name": "Mirror-touch",
+      "desc": "Rodion’s E.G.O Gear"
+    },
+    {
+      "id": 20211,
+      "name": "Dziura",
+      "desc": "Faust’s E.G.O Gear"
+    },
+    {
+      "id": 20510,
+      "name": "Dziura",
+      "desc": "Meursault’s E.G.O Gear"
     }
   ]
 }
