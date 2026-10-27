@@ -629,7 +629,7 @@
                   "desc": "[OnSucceedAttack] Nałóż 1 [Binding] na początku następnej tury<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli ta jednostka jest w stanie [TimeRentalTwoPersonality], Nałóż 2 [TimeSuspend]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli ta jednostka jest w stanie [TimeRentalTwoPersonality], Nałóż 2 [TimeSuWystrzel]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -670,7 +670,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Jeżeli ta jednostka zużyła Ilość [Vibration] z użyciem umiejętności, nałóż 2 [Binding] na początku następnej tury</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeżeli ta jednostka jest w stanie [TimeRentalTwoPersonality], nałóż 2 [TimeSuspend]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Jeżeli ta jednostka jest w stanie [TimeRentalTwoPersonality], nałóż 2 [TimeSuWystrzel]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, obniż Ilość [Vibration] celu o 1</style>"
@@ -1796,7 +1796,7 @@
         {
           "level": 1,
           "name": "Wiara Rycerza",
-          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj Tarczę równą (SP / 5)% maks HP tej jednostki (raz na turę)\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 SP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj Tarczę równą (SP / 5)% maks HP tej jednostki (raz na turę)\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1810,7 +1810,7 @@
         {
           "level": 4,
           "name": "Wiara Rycerza",
-          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] Moc Monet +1 za każde 2 [ProtectiveSword] (maks 2)</style>\n[StartBattle] Zyskaj Tarczę Równą (SP / <style=\"highlight\">3</style>)% maks HP tej jednostki (raz na turę)\n[WhenUse] Zyskaj <style=\"highlight\">5</style> [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 SP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP",
+          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] Moc Monet +1 za każde 2 [ProtectiveSword] (maks 2)</style>\n[StartBattle] Zyskaj Tarczę Równą (SP / <style=\"highlight\">3</style>)% maks HP tej jednostki (raz na turę)\n[WhenUse] Zyskaj <style=\"highlight\">5</style> [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP",
           "coinlist": [
             {
               "coindescs": [
@@ -2035,7 +2035,7 @@
         {
           "level": 1,
           "name": "Wyblakła Duma",
-          "desc": "[DuelCounter]\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 SP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2062,7 +2062,7 @@
         {
           "level": 4,
           "name": "Wyblakła Duma",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Moc Końcowa +1 za każde 2 [PenetratingSword] (maks 2)</style>\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 SP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Moc Końcowa +1 za każde 2 [PenetratingSword] (maks 2)</style>\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP",
           "coinlist": [
             {
               "coindescs": [
@@ -2871,6 +2871,1013 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli jest to trzecia Moneta w tej Umiejętności, Nałóż 1 [BoldBrushstrokesRodion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Colpi di Taglio",
+          "desc": "[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Colpi di Taglio",
+          "desc": "<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Colpi di Taglio",
+          "desc": "[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chętnie Wystrzele Ci Nową Dziurkę na Guziki",
+          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration] oraz +1 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Chętnie Wystrzele Ci Nową Dziurkę na Guziki",
+          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration] oraz +1 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chętnie Wystrzele Ci Nową Dziurkę na Guziki",
+          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration] oraz +1 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sezionatura di Elefante",
+          "desc": "[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n[BeforeAttack] Strać 10 [FutureEyeOnRodion] na sobie (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sezionatura di Elefante",
+          "desc": "[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[BeforeAttack] Strać 10 [FutureEyeOnRodion] na sobie (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Wystrzel 1 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1\n<style=\"highlight\">- Aktywuj powyższy efekt ponownie za każdy wystrzelony przez tą Monetę [AccelBullet] (maks 2 times)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pierdol się!",
+          "desc": "[DuelCounter]\n[WhenUse] Strać 3 [FutureEyeOnRodion] na sobie\n[EndBattle] Jeśli ta jednostka posiada mniej niż 5 [AccelBullet], załaduj[TabExplain] [AccelBullet] aż będzie mieć ich 5 (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pierdol się!",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WhenUse] Strać <style=\"highlight\">4</style> [FutureEyeOnRodion] na sobie\n[EndBattle] Jeśli ta jednostka posiada mniej niż 5 [AccelBullet], załaduj[TabExplain] [AccelBullet] aż będzie mieć ich 5 (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sezionatura di Coniglio",
+          "desc": "[CantDuel]\nUmiejętność ta nie aktywuje wrogich Umiejętności Defensywnych a zewnętrzne efekty nie mogą wywołać jej ponownego użycia",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Sezionatura di Coniglio",
+          "desc": "[CantDuel]\nUmiejętność ta nie aktywuje wrogich Umiejętności Defensywnych a zewnętrzne efekty nie mogą wywołać jej ponownego użycia\n<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sezionatura di Coniglio",
+          "desc": "[CantDuel]\nUmiejętność ta nie aktywuje wrogich Umiejętności Defensywnych a zewnętrzne efekty nie mogą wywołać jej ponownego użycia\n[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Bazowej za każde 4 ([Combustion] + [Vibration]) na celu (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sezionatura di Cervo",
+          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration] oraz +2 Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Sezionatura di Cervo",
+          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, <style=\"highlight\">Zyskaj +2 Mocy Finalnej</style> oraz Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration] oraz +2 Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sezionatura di Cervo",
+          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, Zyskaj +2 Mocy Finalnej oraz Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration] oraz +2 Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli cel posiada 10+ [Vibration], Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Likwidacja",
+          "desc": "Jeśli cel posiada mniej niż 50% PŻ, Zadaj +50% obrażeń\nGdy atakuje [TeachersPreyRodion], +1 Mocy Monet\n[WhenUse] Jeśli ta jednostka posiada 1+ [AccelBullet] w Cylindrze, +1 Mocy Monet\n[EnemyKill] Po pokonaniu [TeachersPreyRodion], dodaj 1 \"Likwidacja\" do listy Umiejętności na początku następnej tury (pokonanie [TeachersPreyRodion] zyskaną w ten sposób \"Likwidacją\" nie aktywuje tego efektu)\n[EnemyKill] [FullReload] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Wystrzel 5 [AccelBullet]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1\n- Aktywuj powyższy efekt ponownie za każdy wystrzelony przez tą Monetę [AccelBullet] (maks 2 times)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Likwidacja",
+          "desc": "Jeśli cel posiada mniej niż 50% PŻ, Zadaj +50% obrażeń\nGdy atakuje [TeachersPreyRodion], +1 Mocy Monet\n[WhenUse] Jeśli ta jednostka posiada 1+ [AccelBullet] w Cylindrze, +1 Mocy Monet\n<style=\"highlight\">[WhenUse] +1 Mocy Finalnej za każde 4 ([Combustion] + [Vibration]) na celu (maks 5)</style>\n[EnemyKill] Po pokonaniu [TeachersPreyRodion], dodaj 1 \"Likwidacja\" do listy Umiejętności na początku następnej tury (pokonanie [TeachersPreyRodion] zyskaną w ten sposób \"Likwidacją\" nie aktywuje tego efektu)\n[EnemyKill] [FullReload] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Wystrzel 5 [AccelBullet]\nZadaj +10% obrażeń za każdy [AccelBullet] który zostanie wystrzelony przez powyższy efekt (maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1\n- Aktywuj powyższy efekt ponownie za każdy wystrzelony przez tą Monetę [AccelBullet] (maks <style=\"highlight\">3</style> times)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Proroctwo",
+          "desc": "Po udanym uniknięciu wszystkich Monet wrogiej Umiejętności, wymież \"Sezionatura di Coniglio\" w Ślepy Punkt agresora (raz na turę)\n+1 Mocy Monet za każde 2 [FutureEyeRodion] na sobie (maks 4)\n+1 Mocy Bazowej za każde 2 [FutureEyeRodion] powyżej 10 (maks 4)\n[WhenUse] Zyskaj +3 Ilości [Breath] (raz na turę)\n[OnSucceedEvade] Zyskaj 2 [Breath] (2 razy na turę)\n[EndSkillAll] Strać 2 [FutureEyeOnRodion] na sobie",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Proroctwo",
+          "desc": "Po udanym uniknięciu wszystkich Monet wrogiej Umiejętności, wymież \"Sezionatura di Coniglio\" w Ślepy Punkt agresora (raz na turę)\n+1 Mocy Monet za każde 2 [FutureEyeRodion] na sobie (maks 4)\n+1 Mocy Bazowej za każde 2 [FutureEyeRodion] powyżej 10 (maks 4)\n[WhenUse] Zyskaj +3 Ilości [Breath] (raz na turę)\n[OnSucceedEvade] Zyskaj 2 [Breath] (2 razy na turę)\n<style=\"highlight\">[OnSucceedEvade] Zyskaj 3 PP (2 razy na turę)</style>\n[EndSkillAll] Strać 2 [FutureEyeOnRodion] na sobie",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Jeśli celem jest Sojusznik, nałóż +3 Ilości [Charge] oraz 1 [AttackUp]\n[EndSkill] Jeśli celem jest Sojusznik, aktywuj następnujące efekty (raz na turę):\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Daj 1 [NoirScissorShield]\n- Jeśli celem jest [PersonalityCharge], Daj również 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Jeśli celem jest Sojusznik, nałóż +<style=\"highlight\">4</style> Ilości [Charge] oraz 1 [AttackUp]\n[EndSkill] Jeśli celem jest Sojusznik, aktywuj następnujące efekty (raz na turę):\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Daj 1 [NoirScissorShield]\n- Jeśli celem jest [PersonalityCharge], Daj również 1 [Enhancement]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Jeśli celem jest Sojusznik, nałóż +4 Ilości [Charge] oraz 1 [AttackUp]\n[EndSkill] Jeśli celem jest Sojusznik, aktywuj następnujące efekty <style=\"highlight\">(2 razy na turę)</style>:\n- Nałóż Tarczę równą <style=\"highlight\">10%</style> maks PŻ tej jednostki (min 1)\n- Daj 1 [NoirScissorShield]\n- Jeśli celem jest [PersonalityCharge], Daj również 2 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pin oraz Trim Along the Patterns",
+          "desc": "[StartBattle] Daj następujące efekty 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]; raz na turę):\n- Daj 2 [AttackUp]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Jeśli ta jednostka to [PersonalityCharge], Daj również dodatkowe 1 [AttackUp] oraz Tarczę równą 5% maks PŻ tej jednostki\n\n[WhenUse] Jeśli cel posiada 6+ Nasilenia [Vibration], +1 Mocy Monet\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości [ChargeKhakiAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Pin oraz Trim Along the Patterns",
+          "desc": "[StartBattle] Daj następujące efekty <style=\"highlight\">tej jednostce oraz</style> 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]; raz na turę):\n- Daj 2 [AttackUp]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Jeśli ta jednostka to [PersonalityCharge], Daj również dodatkowe 1 [AttackUp] oraz Tarczę równą 5% maks PŻ tej jednostki\n\n[WhenUse] Jeśli cel posiada 6+ Nasilenia [Vibration], +1 Mocy Monet\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości [ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pin oraz Trim Along the Patterns",
+          "desc": "[StartBattle] Daj następujące efekty tej jednostce, 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]), <style=\"highlight\">oraz 1 Sojusznikowi z najniższym %PŻ</style> (raz na turę):\n- Daj 2 [AttackUp]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Jeśli ten Sojusznik to [PersonalityCharge], Daj również dodatkowe 1 [AttackUp] oraz Tarczę równą 5% maks PŻ tej jednostki\n\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 Nasilenia [Vibration] na celu (maks 2)</style>\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +6 Ilości [ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [AmberResistDown] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Coupez dans le Biais",
+          "desc": "Zadaj +15% obrażeń za każde [NoirScissorCut] na sobie (maks 30%)\n\n[StartBattle] Daj następujące efekty 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]) oraz 1 Sojusznikowi z najniższym %PŻ (raz na turę):\n- Daj 1 [NoirScissorShield]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n\n[WhenUse] Jeśli cel posiada 6+ Nasilenia [Vibration], +1 Mocy Monet\n[WhenUse] +1 Mocy Finalnej za każde 3 Nasilenia [ChargeKhakiAlly] (maks 2)\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej\n\n[EndSkill] Zyskaj +5 Ilości [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 5+ Ilości [ChargeKhakiAlly], Zużyj 5 Ilości [ChargeKhakiAlly] aby Aktywować [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coupez dans le Biais",
+          "desc": "Zadaj <style=\"highlight\">+30%</style> obrażeń za każde [NoirScissorCut] na sobie <style=\"highlight\">(maks 60%)</style>\n\n[StartBattle] Daj następujące efekty tej jednostce, 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]), oraz 1 Sojusznikowi z najniższym %PŻ (raz na turę):\n- Daj 1 [NoirScissorShield]\n- Nałóż Tarczę równą <style=\"highlight\">10%</style> maks PŻ tej jednostki (min 1)\n\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 Nasilenia [Vibration] na celu (maks 2)</style>\n[WhenUse] +1 Mocy Finalnej za każde 3 Nasilenia [ChargeKhakiAlly] (maks 2)\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej\n\n[EndSkill] Zyskaj +5 Ilości [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przy 5+ Ilości [ChargeKhakiAlly], Zużyj 5 Ilości [ChargeKhakiAlly] aby Aktywować [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przycinanie",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj +5 Ilości [ChargeKhakiAlly] (2 razy na turę)\n[StartBattle] Nałóż Tarczę równą 5% maks PŻ tej jednostki tej jednostce oraz 2 Sojusznikom z najniższym %PŻ (min 1, raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przycinanie",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj +5 Ilości [ChargeKhakiAlly] (2 razy na turę)\n[StartBattle] Nałóż Tarczę równą <style=\"highlight\">10%</style> maks PŻ tej jednostki tej jednostce oraz 2 Sojusznikom z najniższym %PŻ (min 1, raz na turę)\n\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każde 5 Ilości [ChargeKhakiAlly] (maks 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wzorowanie",
+          "desc": "[CantDuel]\n[WhenUse] Zyskaj +3 Ilości [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przy 3+ Nasilenia [ChargeKhakiAlly], Użyj tej Monety jeszcze raz (raz na Umiejętność)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [NoirScissorAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wycinanka",
+          "desc": "[CantDuel]\n[WhenUse] +1 Mocy Finalnej za każde 3 Nasilenia [ChargeKhakiAlly] (maks 2)\n[WhenUse] Zyskaj +5 Ilości [ChargeKhakiAlly]\n\n[EndSkill] Zużyj 2 [NoirScissorAlly] na celu\n[EndSkill] Zyskaj 1 [NoirScissorCut]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion]; następnie, zmniejsz Ilość [Vibration] na celu o 1"
                 }
               ]
             }
