@@ -1,4 +1,4 @@
-{
+  {
   "dataList": [
     {
       "id": "battle_speechbubble_cromer_1",
@@ -6236,7 +6236,7 @@
     {
       "id": "battle_select_10113_1",
       "desc": "############ N Corp Yi Sang Start ############",
-      "dlg": "Hah hah… mm. Zapomnij to usłyszałoś. Po co tu jesteś?"
+      "dlg": "Hah hah… mm. Zapomnij że to usłyszałoś. Po co tu jesteś?"
     },
     {
       "id": "battle_endcommand_10113_1",
@@ -9588,7 +9588,7 @@
     {
       "id": "battle_special_10816_2",
       "desc": "우화 상태 진입",
-      "dlg": "Zrywam z siebię warstwy przybitych do mnię kłamstw... I wychodzę jako moje autentyczne 'ja'!"
+      "dlg": "Zrywam z siebię warstwy przybitych do mnię kłamstw... I wychodzę jako moje autentyczne \"ja\"!"
     },
     {
       "id": "battle_s3_10315_1_1",
@@ -9633,7 +9633,7 @@
     {
       "id": "battle_special_10315_3",
       "desc": "",
-      "dlg": "Obiecany odpoczynek."
+      "dlg": "Obiecany spoczynek."
     },
     {
       "id": "battle_special_10315_4",
@@ -9643,7 +9643,177 @@
     {
       "id": "battle_special_10315_8",
       "desc": "",
-      "dlg": "Zachowójcie się jak na strażników prawości przystaje."
+      "dlg": "Zachowujcie się jak na strażników prawości przystaje."
+    },
+    {
+      "id": "battle_s2_11016_1_b",
+      "desc": "아군에게 2번 스킬 사용",
+      "dlg": "Pozwól mi pomóc."
+    },
+    {
+      "id": "battle_s3_11016_1_1",
+      "desc": "3번 스킬 사용",
+      "dlg": "Nie przestawaj przeć w przód."
+    },
+    {
+      "id": "battle_s3_11016_1_2",
+      "desc": "3번 스킬 사용",
+      "dlg": "Dalej..."
+    },
+    {
+      "id": "battle_s3_11016_1_3",
+      "desc": "3번 스킬 사용",
+      "dlg": "Aż do samego końca!"
+    },
+    {
+      "id": "battle_special_11016_1_a",
+      "desc": "양극성 - 아군 선택 시",
+      "dlg": "Uważaj na siebie."
+    },
+    {
+      "id": "battle_special_11016_1_b",
+      "desc": "양극성 - 아군 선택 시",
+      "dlg": "Wszystko będzie okej."
+    },
+    {
+      "id": "battle_special_11016_2_a",
+      "desc": "1코인 추가공격",
+      "dlg": "Pique."
+    },
+    {
+      "id": "battle_special_11016_2_b",
+      "desc": "1코인 추가공격",
+      "dlg": "Wróć do gleby."
+    },
+    {
+      "id": "battle_special_11016_3",
+      "desc": "아군 흐트 해제",
+      "dlg": "Niech twe istnienie nigdy nie ustanie."
+    },
+    {
+      "id": "battle_special_11016_4_a",
+      "desc": "원호 방어 요청",
+      "dlg": "Nie chcę czuć bólu."
+    },
+    {
+      "id": "battle_special_11016_4_b",
+      "desc": "원호 방어 요청",
+      "dlg": "... Proszę, czy możesz mnie obronić?"
+    },
+    {
+      "id": "battle_special_11016_5",
+      "desc": "스테이지 시작시 르루즈 인격이 있다면",
+      "dlg": "Czemu... tak bardzo cieszy was moje istnienie? Ja przecież nic dla was nie zrobiłem..."
+    },
+    {
+      "id": "battle_special_11016_6",
+      "desc": "르누돈키와 인격 편성후 턴 시작 시",
+      "dlg": "... Jeśli naprawde myślisz że jestem tak obleśny, to czemu mi pomagasz? Czy rozkazało ci tak Obsydianowe Bóstwo? Czy może..."
+    },
+    {
+      "id": "battle_special_11016_7",
+      "desc": "이스터에그-붉은신 미생",
+      "dlg": "... Istnienie, życie, głos który nie zna jeszcze cierpienia. ... Odetne je tutaj."
+    },
+    {
+      "id": "battle_special_11016_8",
+      "desc": "이스터에그-뷔페",
+      "dlg": "Choć udało im się powstrzymać przemianę w przerośniętego potwora, ich esencja ciągle pozostała taka sama..."
+    },
+    {
+      "id": "battle_s2_11016_2_1",
+      "desc": "2-2번 스킬(죄) 사용 - 1타",
+      "dlg": "Accord!"
+    },
+    {
+      "id": "battle_s2_11016_2_4",
+      "desc": "2-2번 스킬(죄) 사용 - 3타",
+      "dlg": "Płyń obficie!"
+    },
+    {
+      "id": "battle_s3_11016_2_1",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "Pożrę sam koncept nienasycenia, pozbęde się tego pragnienia...!"
+    },
+    {
+      "id": "battle_s3_11016_2_2",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... i nareszcie poprowadzę Le Rouge..."
+    },
+    {
+      "id": "battle_s3_11016_2_3",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... do kompletnej sytości!"
+    },
+    {
+      "id": "battle_s3_11016_2_1-01",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "Pożrę tą pustkę...!"
+    },
+    {
+      "id": "battle_s3_11016_2_2-01",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... I napełnię..."
+    },
+    {
+      "id": "battle_s3_11016_2_3-01",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... wszystko co istnieje!"
+    },
+    {
+      "id": "battle_special_11016_9",
+      "desc": "라브젝트 5스택 이후, 2코인 추가공격",
+      "dlg": "Rozerwijcie ich na strzępy! Konsumujcie!"
+    },
+    {
+      "id": "battle_special_11016_9_b_2",
+      "desc": "라브젝트 5스택 이후, 2코인 추가공격",
+      "dlg": "Czas na ucztę!"
+    },
+    {
+      "id": "battle_special_11016_10_a",
+      "desc": "5코인 강화 3스",
+      "dlg": "Instnienie... Natura... Głód... Jeśli żadne z nich nie znają odpowiedzi na moje pytania, po prostu pożrę moją ciekawość!"
+    },
+    {
+      "id": "battle_special_11016_10_b",
+      "desc": "5코인 강화 3스",
+      "dlg": "Twożą mnie cudze oczekiwania i nadzieje... Niech będzie, odpowiem im! Radujcie się bez umiaru z każdej uciechy swojego życia!"
+    },
+    {
+      "id": "battle_special_11016_11",
+      "desc": "원호 방어 요청",
+      "dlg": "Przynieś to do mnie."
+    },
+    {
+      "id": "battle_special_11016_12_a",
+      "desc": "턴 시작 시 미숙에서 완숙으로 변신",
+      "dlg": "Napychajcie się aż nawet wola pójścia w przód zostanie wypchnięta z waszych serc."
+    },
+    {
+      "id": "battle_special_11016_12_b",
+      "desc": "턴 시작 시 미숙에서 완숙으로 변신",
+      "dlg": "Ja... dojżałem. A więc nie musicie już dłużej czekać."
+    },
+    {
+      "id": "battle_special_11016_13",
+      "desc": "변신 후 다음턴에 만찬 전개",
+      "dlg": "Przywołuje nieporównywalną ucztę bezkresnego pożerania."
+    },
+    {
+      "id": "battle_special_10315_7",
+      "desc": "",
+      "dlg": "Mm... Choć jest to niebywale nieprzyjemnie, musi być to wpierw zaobserwowane. O, zbeżczeszczony, wstrzymam na ten moment twą ocenę."
+    },
+    {
+      "id": "battle_special_11016_14_a",
+      "desc": "르루즈 이스마엘 강화",
+      "dlg": "Jeśli ubrania to kłamstwa, ja jestem nagi. Przybądź do mnie i poznaj swą własną prawdę."
+    },
+    {
+      "id": "battle_special_11016_14_b",
+      "desc": "르루즈 이스마엘 강화",
+      "dlg": "Rozebranie się jest najprawdziwszą formą odrodzenia."
     }
   ]
 }
