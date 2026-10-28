@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Oświetl Pustkę Swą",
-          "desc": "Zyskaj ([KnowledgeExplored] x 3% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 3% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -22,7 +22,7 @@
         {
           "level": 2,
           "name": "Oświetl Pustkę Swą",
-          "desc": "Zyskaj ([KnowledgeExplored] x 4% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] Jeżeli [KnowledgeExplored] wynosi 2 lub więcej, zyskaj Moc Monet równą ([KnowledgeExplored] -1)<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 4% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] Jeżeli [KnowledgeExplored] wynosi 2 lub więcej, zyskaj Moc Monet równą ([KnowledgeExplored] -1)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -38,7 +38,7 @@
         {
           "level": 4,
           "name": "Oświetl Pustkę Swą",
-          "desc": "Zyskaj ([KnowledgeExplored] x 5% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] Jeżeli [KnowledgeExplored] wynosi 2 lub więcej, zyskaj Moc Monet równą ([KnowledgeExplored] -1)<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 5% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] Jeżeli [KnowledgeExplored] wynosi 2 lub więcej, zyskaj Moc Monet równą ([KnowledgeExplored] -1)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -59,7 +59,7 @@
         {
           "level": 1,
           "name": "Waga Wiedzy",
-          "desc": "Zyskaj ([KnowledgeExplored] x 5% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 1 Umiejętność najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 2 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 5% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 1 Umiejętność najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 2 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -76,7 +76,7 @@
         {
           "level": 2,
           "name": "Waga Wiedzy",
-          "desc": "Zyskaj ([KnowledgeExplored] x 8% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 1 Umiejętność najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 3 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 8% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 1 Umiejętność najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 3 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -93,7 +93,7 @@
         {
           "level": 4,
           "name": "Waga Wiedzy",
-          "desc": "Zyskaj ([KnowledgeExplored] x 10% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 1 Umiejętność najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 3 [Aggro] na początku następnej tury\n[WhenUse] Jeżeli cel posiada 5+ [Sinking], zyskaj Moc Starcia +2<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 10% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 1 Umiejętność najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 3 [Aggro] na początku następnej tury\n[WhenUse] Jeżeli cel posiada 5+ [Sinking], zyskaj Moc Starcia +2<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
@@ -115,7 +115,7 @@
         {
           "level": 3,
           "name": "Dręcząca Nauka",
-          "desc": "Zyskaj ([KnowledgeExplored] x 15% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 2 Umiejętności najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 3 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 15% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 2 Umiejętności najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 3 [Aggro] na początku następnej tury<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -138,7 +138,7 @@
         {
           "level": 4,
           "name": "Dręcząca Nauka",
-          "desc": "Zyskaj ([KnowledgeExplored] x 20% maks HP) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 2 Umiejętności najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 5 [Aggro] na początku następnej tury\n[WhenUse] Jeżeli cel posiada 7+ [Sinking], zyskaj Moc Monet +1<style=\"highlight\"></style>",
+          "desc": "Zyskaj ([KnowledgeExplored] x 20% maks PŻ) Tarczy jeżeli ta umiejętność została Odrzucona\n[WhenUse] [Discard] 2 Umiejętności najniższego poziomu ze wszystkich Żetonów Umiejętności ten jednostki\n[WhenUse] Ten Żeton zyskuje 5 [Aggro] na początku następnej tury\n[WhenUse] Jeżeli cel posiada 7+ [Sinking], zyskaj Moc Monet +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -932,7 +932,7 @@
         {
           "level": 1,
           "name": "Wsparcie Kurierskie i Sekwencja Kontrolna",
-          "desc": "[StartBattle] Mając 15+ [DevyatDimensionalSack], aktywuj 'To tylko... Strategiczna Przerwa!' zamiast tej umiejętności (raz na turę)\n[StartBattle] Jeżeli ta umiejętność będzie aktywowana, zyskaj ([DevyatDimensionalSack]/2)%  maks HP tej jednostki jako Tarczę (maks 15%, raz na turę)\n[WhenUse] Zyskaj 2 [DevyatDimensionalSack] (raz na turę)\n- Mając mniej niż 15 [DevyatDimensionalSack], zyskaj 1 dodatkowy [DevyatDimensionalSack]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Mając 15+ [DevyatDimensionalSack], aktywuj 'To tylko... Strategiczna Przerwa!' zamiast tej umiejętności (raz na turę)\n[StartBattle] Jeżeli ta umiejętność będzie aktywowana, zyskaj ([DevyatDimensionalSack]/2)%  maks PŻ tej jednostki jako Tarczę (maks 15%, raz na turę)\n[WhenUse] Zyskaj 2 [DevyatDimensionalSack] (raz na turę)\n- Mając mniej niż 15 [DevyatDimensionalSack], zyskaj 1 dodatkowy [DevyatDimensionalSack]<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -940,7 +940,7 @@
         {
           "level": 4,
           "name": "Wsparcie Kurierskie i Sekwencja Kontrolna",
-          "desc": "[StartBattle] Mając 15+ [DevyatDimensionalSack], aktywuj 'To tylko... Strategiczna Przerwa!' zamiast tej umiejętności (raz na turę)\n[StartBattle] Jeżeli ta umiejętność będzie aktywowana, zyskaj <style=\"highlight\">([DevyatDimensionalSack])%</style> maks HP tej jednostki jako Tarczę (maks <style=\"highlight\">25%</style>, raz na turę)\n[WhenUse] Zyskaj 2 [DevyatDimensionalSack] (raz na turę)\n- Mając mniej niż 15 [DevyatDimensionalSack], zyskaj 1 dodatkowy [DevyatDimensionalSack]",
+          "desc": "[StartBattle] Mając 15+ [DevyatDimensionalSack], aktywuj 'To tylko... Strategiczna Przerwa!' zamiast tej umiejętności (raz na turę)\n[StartBattle] Jeżeli ta umiejętność będzie aktywowana, zyskaj <style=\"highlight\">([DevyatDimensionalSack])%</style> maks PŻ tej jednostki jako Tarczę (maks <style=\"highlight\">25%</style>, raz na turę)\n[WhenUse] Zyskaj 2 [DevyatDimensionalSack] (raz na turę)\n- Mając mniej niż 15 [DevyatDimensionalSack], zyskaj 1 dodatkowy [DevyatDimensionalSack]",
           "coinlist": [
             {}
           ]
@@ -953,7 +953,7 @@
         {
           "level": 1,
           "name": "To tylko... Strategiczna Przerwa!",
-          "desc": "[StartBattle] Jeżeli ta umiejętność będzie aktywowana, zyskaj ([DevyatDimensionalSack]/2)%  maks HP tej jednostki jako Tarczę (maks 15%, raz na turę)\n[EndBattle] Aktywuj [Retreat]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Jeżeli ta umiejętność będzie aktywowana, zyskaj ([DevyatDimensionalSack]/2)%  maks PŻ tej jednostki jako Tarczę (maks 15%, raz na turę)\n[EndBattle] Aktywuj [Retreat]<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -961,7 +961,7 @@
         {
           "level": 4,
           "name": "To tylko... Strategiczna Przerwa!",
-          "desc": "[StartBattle]Jeżeli ta umiejętność będzie aktywowana, zyskaj <style=\"highlight\">([DevyatDimensionalSack])%</style> maks HP tej jednostki jako Tarczę (maks <style=\"highlight\">25%</style>, raz na turę)\n[EndBattle] Aktywuj [Retreat]",
+          "desc": "[StartBattle]Jeżeli ta umiejętność będzie aktywowana, zyskaj <style=\"highlight\">([DevyatDimensionalSack])%</style> maks PŻ tej jednostki jako Tarczę (maks <style=\"highlight\">25%</style>, raz na turę)\n[EndBattle] Aktywuj [Retreat]",
           "coinlist": [
             {}
           ]
@@ -974,7 +974,7 @@
         {
           "level": 1,
           "name": "Znikaj...",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks PŻ: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -992,7 +992,7 @@
         {
           "level": 2,
           "name": "Znikaj...",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks PŻ: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
           "coinlist": [
             {},
             {
@@ -1010,7 +1010,7 @@
         {
           "level": 4,
           "name": "Znikaj...",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks HP: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najwyższym maks PŻ: skosztuj do 20 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada 1 dodatkowy [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
           "coinlist": [
             {},
             {
@@ -1033,7 +1033,7 @@
         {
           "level": 1,
           "name": "Zmielony w Krwawą Rosę",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks PŻ: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1061,7 +1061,7 @@
         {
           "level": 2,
           "name": "Zmielony w Krwawą Rosę",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks PŻ: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Jeżeli cel posiada 6+ [Laceration], Moc Monet +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1089,7 +1089,7 @@
         {
           "level": 4,
           "name": "Zmielony w Krwawą Rosę",
-          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks HP: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
+          "desc": "[StartBattle] Na sobie i 1 sojuszniku z najniższym maks PŻ: nałóż 1 [Enhancement], skosztuj do 30 [BloodDinner] oraz nałóż 1 [BloomingThornsRodionFirst] za każde 10 [BloodDinner] ta jednostka skosztowała (2 razy na turę)\n- Priorytetyzuje sojuszników <Bloodfiend>\n- Jeżeli sojusznik na którym aktywuje się ten efekt to <Bloodfiend>, ta jednostka nakłada dodatkowy 1 [Enhancement] oraz 2 [BloomingThornsRodionFirst]\n- Jeżeli tej jednostce nie udało się skosztować [BloodDinner], zyskaj 5 [Laceration]\n<style=\"highlight\">[WhenUse] Moc Monet +1 za każde 6 [Laceration] na celu (maks 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1796,7 +1796,7 @@
         {
           "level": 1,
           "name": "Wiara Rycerza",
-          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj Tarczę równą (SP / 5)% maks HP tej jednostki (raz na turę)\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj Tarczę równą (SP / 5)% maks PŻ tej jednostki (raz na turę)\n[WhenUse] Zyskaj 3 [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1810,7 +1810,7 @@
         {
           "level": 4,
           "name": "Wiara Rycerza",
-          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] Moc Monet +1 za każde 2 [ProtectiveSword] (maks 2)</style>\n[StartBattle] Zyskaj Tarczę Równą (SP / <style=\"highlight\">3</style>)% maks HP tej jednostki (raz na turę)\n[WhenUse] Zyskaj <style=\"highlight\">5</style> [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP",
+          "desc": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] Moc Monet +1 za każde 2 [ProtectiveSword] (maks 2)</style>\n[StartBattle] Zyskaj Tarczę Równą (SP / <style=\"highlight\">3</style>)% maks PŻ tej jednostki (raz na turę)\n[WhenUse] Zyskaj <style=\"highlight\">5</style> [BlackTearsAlly] (2 razy na turę)\n[EndBattle] Mając mniej niż 3 [SwordCutwithTear], strać 15 PP i zyskaj 1 [SwordCutwithTear] (raz na turę)\n- Jeżeli ta jednostka posiada [SwordCutwithTear], strać ([SwordCutwithTear] x 15) więcej SP",
           "coinlist": [
             {
               "coindescs": [
@@ -2303,7 +2303,7 @@
                   "desc": "[OnSucceedAttack] Podnieś Próg Zachwiania o 10% zadanych Obrażeń<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">- At 3+ [Charge], Podnieś Próg Zachwiania o 20% zadanych Obrażeń instead</style>"
+                  "desc": "<style=\"highlight\">- Przy 3+ [Charge], Podnieś Próg Zachwiania o 20% zadanych Obrażeń instead</style>"
                 }
               ]
             },
@@ -2884,7 +2884,7 @@
         {
           "level": 1,
           "name": "Colpi di Taglio",
-          "desc": "[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 10%)",
+          "desc": "[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 10%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2911,7 +2911,7 @@
         {
           "level": 2,
           "name": "Colpi di Taglio",
-          "desc": "<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 10%)",
+          "desc": "<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 10%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2938,7 +2938,7 @@
         {
           "level": 4,
           "name": "Colpi di Taglio",
-          "desc": "[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 10%)",
+          "desc": "[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 10%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2970,7 +2970,7 @@
         {
           "level": 1,
           "name": "Chętnie Wystrzele Ci Nową Dziurkę na Guziki",
-          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 15%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3007,7 +3007,7 @@
         {
           "level": 2,
           "name": "Chętnie Wystrzele Ci Nową Dziurkę na Guziki",
-          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n<style=\"highlight\">[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 15%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3044,7 +3044,7 @@
         {
           "level": 4,
           "name": "Chętnie Wystrzele Ci Nową Dziurkę na Guziki",
-          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "desc": "Na początku tury: Jeśli ta jednostka nie posiada [AccelBullet], aktywuj zamiast tego \"Sezionatura di Cervo\"\n[WhenUse] Przy 6+ [Breath], +1 Mocy Finalnej\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 15%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3327,7 +3327,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Cervo",
-          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 15%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3361,7 +3361,7 @@
         {
           "level": 2,
           "name": "Sezionatura di Cervo",
-          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, <style=\"highlight\">Zyskaj +2 Mocy Finalnej</style> oraz Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, <style=\"highlight\">Zyskaj +2 Mocy Finalnej</style> oraz Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 15%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3395,7 +3395,7 @@
         {
           "level": 4,
           "name": "Sezionatura di Cervo",
-          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, Zyskaj +2 Mocy Finalnej oraz Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeRodion] (maks 15%)",
+          "desc": "[WhenUse] Jeśli [FutureEyeOnRodion] tej jednostki jest <sprite name=\"FutureEyeOffRodion\"><color=#ffc700><u><link=\"FutureEyeOffRodion\">Przegrzane</link></u></color>, Zyskaj +2 Mocy Finalnej oraz Zamień wszystkie Monety tej umiejętności w [SuperCoin]\n[WhenUse] Zyskaj +4 Ilości [Breath]\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać (liczba pozostałych Monet) [FutureEyeOnRodion] na sobie; zadaj +5% obrażeń za każde stracone [FutureEyeOnRodion] (maks 15%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3580,7 +3580,7 @@
         {
           "level": 1,
           "name": "Proroctwo",
-          "desc": "Po udanym uniknięciu wszystkich Monet wrogiej Umiejętności, wymież \"Sezionatura di Coniglio\" w Ślepy Punkt agresora (raz na turę)\n+1 Mocy Monet za każde 2 [FutureEyeRodion] na sobie (maks 4)\n+1 Mocy Bazowej za każde 2 [FutureEyeRodion] powyżej 10 (maks 4)\n[WhenUse] Zyskaj +3 Ilości [Breath] (raz na turę)\n[OnSucceedEvade] Zyskaj 2 [Breath] (2 razy na turę)\n[EndSkillAll] Strać 2 [FutureEyeOnRodion] na sobie",
+          "desc": "Po udanym uniknięciu wszystkich Monet wrogiej Umiejętności, wymież \"Sezionatura di Coniglio\" w Ślepy Punkt agresora (raz na turę)\n+1 Mocy Monet za każde 2 [FutureEyeOnRodion] na sobie (maks 4)\n+1 Mocy Bazowej za każde 2 [FutureEyeOnRodion] powyżej 10 (maks 4)\n[WhenUse] Zyskaj +3 Ilości [Breath] (raz na turę)\n[OnSucceedEvade] Zyskaj 2 [Breath] (2 razy na turę)\n[EndSkillAll] Strać 2 [FutureEyeOnRodion] na sobie",
           "coinlist": [
             {}
           ]
@@ -3588,7 +3588,7 @@
         {
           "level": 4,
           "name": "Proroctwo",
-          "desc": "Po udanym uniknięciu wszystkich Monet wrogiej Umiejętności, wymież \"Sezionatura di Coniglio\" w Ślepy Punkt agresora (raz na turę)\n+1 Mocy Monet za każde 2 [FutureEyeRodion] na sobie (maks 4)\n+1 Mocy Bazowej za każde 2 [FutureEyeRodion] powyżej 10 (maks 4)\n[WhenUse] Zyskaj +3 Ilości [Breath] (raz na turę)\n[OnSucceedEvade] Zyskaj 2 [Breath] (2 razy na turę)\n<style=\"highlight\">[OnSucceedEvade] Zyskaj 3 PP (2 razy na turę)</style>\n[EndSkillAll] Strać 2 [FutureEyeOnRodion] na sobie",
+          "desc": "Po udanym uniknięciu wszystkich Monet wrogiej Umiejętności, wymież \"Sezionatura di Coniglio\" w Ślepy Punkt agresora (raz na turę)\n+1 Mocy Monet za każde 2 [FutureEyeOnRodion] na sobie (maks 4)\n+1 Mocy Bazowej za każde 2 [FutureEyeOnRodion] powyżej 10 (maks 4)\n[WhenUse] Zyskaj +3 Ilości [Breath] (raz na turę)\n[OnSucceedEvade] Zyskaj 2 [Breath] (2 razy na turę)\n<style=\"highlight\">[OnSucceedEvade] Zyskaj 3 PP (2 razy na turę)</style>\n[EndSkillAll] Strać 2 [FutureEyeOnRodion] na sobie",
           "coinlist": [
             {}
           ]
