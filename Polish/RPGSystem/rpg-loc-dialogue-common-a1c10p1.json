@@ -5,7 +5,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "<It's just a corpse.>"
+          "text": "<To tylko ciało.>"
         }
       ]
     },
@@ -14,7 +14,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "<... No longer breathing.>"
+          "text": "<... Nie oddycha.>"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "<There is no response.>"
+          "text": "<Nie odpowiada.>"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "... (She gazes at me without a word. The serene smile on her face suggests that she regards us favorably.)",
+          "text": "... (Spogląda na mnie bez słowa. Błogi uśmiech na jej twarzy wskazuje na to, że myśli o nas przychylnie.)",
           "speaker": "???"
         }
       ]
@@ -52,22 +52,22 @@
       "texts": [
         {
           "index": 0,
-          "text": "... It's the restroom.",
+          "text": "... Jest to łazienka.",
           "speaker": "???"
         },
         {
           "index": 1,
-          "text": "<Right...>",
+          "text": "<Okej...>",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "<Hang on... She can interpret my ticking?!>",
+          "text": "<Chwila... Ona rozumie moje tykanie?!>",
           "speaker": "Dante"
         },
         {
           "index": 3,
-          "text": "... (She says nothing more, but her smile lingers still.>",
+          "text": "... (Nie mówi ona nic więcej, a uśmiech na jej twarzy pozostaje bez zmiany.>",
           "speaker": "???"
         }
       ]
@@ -77,17 +77,17 @@
       "texts": [
         {
           "index": 0,
-          "text": "... Keep following the star, then someday...",
+          "text": "... Podążaj za gwiazdą, a kiedyś...",
           "speaker": "???"
         },
         {
           "index": 1,
-          "text": "... Star...",
+          "text": "... Gwiazdą...",
           "speaker": "Sinclair"
         },
         {
           "index": 2,
-          "text": "Sinclair seems to sink inward, lost in deep thought."
+          "text": "W reakcji na to słowo Sinclair wpadł w stan głębokiego zamyślenia."
         }
       ]
     },
@@ -96,7 +96,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "(She does not reply. It seems any attempt to uncover her identity will prove futile.)",
+          "text": "(Nie odpowiada. Wygląda na to, że próby odkrycia jej tożsamości nie przyniosą żadnych wyników.)",
           "speaker": "???"
         }
       ]
@@ -106,7 +106,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "It seems wisest to venture outside as Miss Ishmael suggests.",
+          "text": "Sugestia Pani Ishmael o wyjściu na zewnątrz wydaje się naszą najlepszą opcją.",
           "speaker": "Yi Sang"
         }
       ]
@@ -116,7 +116,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Faust is staring into empty space, her brow faintly furrowed. She may be analyzing our present circumstances. I shouldn't interrupt."
+          "text": "Faust marszczy brwi i patrzy w dal. Chyba analizuje naszą aktualną sytuację. Nie powinnom jej przeszkadzać."
         }
       ]
     },
@@ -125,7 +125,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Let's head outside. Hanging around here won't solve anything.",
+          "text": "Chodźmy już z tąd. Siedzenie na tyłkach w niczym nam nie pomoże.",
           "speaker": "Ishmael"
         }
       ]
@@ -135,17 +135,17 @@
       "texts": [
         {
           "index": 0,
-          "text": "Huh. Good thing I've still got some smokes left.",
+          "text": "Huh. Dobrze że odłożyłem sobię pare fajek.",
           "speaker": "Gregor"
         },
         {
           "index": 1,
-          "text": "<Is smoking allowed in here?>",
+          "text": "<A tutaj można palić?>",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "Tch... Not sure. I'll light one up once we get outside, then.",
+          "text": "Tch... W sumie racja. W takim razie zapale jak wyjdziemy.",
           "speaker": "Gregor"
         }
       ]
@@ -155,7 +155,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Isn't this restroom rather cramped for a \"luxury\" department store? Maybe it's only a temporary facility until they can build a proper one.",
+          "text": "Czy ta łazienka nie wydaje ci się zbyt mała jak na \"luksusowe\" centrum handlowe? Myśle, że to tylko tymczasowy zamiennik na czas budowy odpowiedniego kibelka.",
           "speaker": "Hong Lu"
         }
       ]
@@ -165,7 +165,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Sinclair is staring fixedly at the mysterious woman who resembles Demian."
+          "text": "Sinclair jest wpatrzony w tajemniczą, przypominającą Demiana kobiete."
         }
       ]
     },
@@ -174,7 +174,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Verily, never before have I beheld a privy of such splendor! If the privy alone boasteth such grandeur, what wonders must await beyond... Manager Esquire! Let us sally forth at once!",
+          "text": "Doprawdy, nigdy w moim życiu nie widziałam tak wspaniałej łaźni! A jeśli zwykłą łaźnia jest tak wspaniała, to co może czekać na nas po drugiej stronie drzwi... Wielmożny Kierowniku! Musimy jak najprędzej z tąd wyruszyć!",
           "speaker": "Don Quixote"
         }
       ]
@@ -184,7 +184,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Get movin', you lot, or I'm heading out first.",
+          "text": "Ludziska, albo zaraz się ruszycie albo wyjde z tąd sam.",
           "speaker": "Heathcliff"
         }
       ]
@@ -194,7 +194,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "We should establish this location as a forward base and reconnoiter the surrounding area first, Executive Manager.",
+          "text": "Powinniśmy zabezpieczyć to miejsce, ustanowić tutaj wysuniętą bazę operacyjną, oraz rozpocząć rekonesans otaczających nasz terytoriów, Kierowniku Wykonawczy.",
           "speaker": "Outis"
         }
       ]
@@ -204,7 +204,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Hiya, Dante. So when're we leavin'? It's nice and clean in here, sure, but... there's something creepy about this place.",
+          "text": "Hejka, Dante. To kiedy wychodzimy? Jest tu ładnie i czysto ale... to miejce daje mi ciary.",
           "speaker": "Rodion"
         }
       ]
@@ -214,16 +214,16 @@
       "texts": [
         {
           "index": 0,
-          "text": "... G.G., C.H.",
+          "text": "... R.T., Z.G.",
           "speaker": "Ryōshū"
         },
         {
           "index": 1,
-          "text": "... I think I can guess what she means even without her T.L., S.C. interpreting."
+          "text": "... Myśle że uda mi się to rozszyfrować bez pomocy od jej T.M., S.C."
         },
         {
           "index": 2,
-          "text": "It's probably \"Gotta Go, Chore Hour.\" or more probably... \"Get Going, Clockhead.\""
+          "text": "Może to \"Ręko Tykacz, Zbieraj Grupę.\" albo w sumie pewnie... \"Ruszaj Tyłek, Zegarogłowe.\""
         }
       ]
     },
@@ -232,7 +232,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Dante. I am well aware that circumstances weigh heavily upon us... But ought we not hasten to find Meursault?",
+          "text": "Dante. Rozumiem, że aktualna sytuacja nie jest dla nas idealna... Ale nie sądzisz że powinniśmy jak najprędzej wyruszyć szukać Meursaulta?",
           "speaker": "Yi Sang"
         }
       ]
@@ -242,7 +242,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "No further explanation from my side is necessary.",
+          "text": "Dalsze wytłumaczenia z mojej strony nie są konieczne.",
           "speaker": "Faust"
         }
       ]
@@ -252,7 +252,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Was there something else you needed to check? Let's make it quick and get moving. We need to find Meursault ASAP.",
+          "text": "Czy chciałoś coś jeszcze sprawdzić? No to lepiej szybko to zrób. Musimy jak najszybciej znaleźć Meursaulta.",
           "speaker": "Ishmael"
         }
       ]
@@ -262,7 +262,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "*puff* Can't exactly take a proper break when I know one of us could be experiencing the worst thing out there. Let's go if you fellas are all rested up.",
+          "text": "*puf* Trudno mi się zrelaksować, kiedy wiem że jeden z nas może w tym samym czasie być w niebezpieczeństwie. Jeśli wszyscy są wypoczęci to powinniśmy już ruszać.",
           "speaker": "Gregor"
         }
       ]
@@ -272,17 +272,17 @@
       "texts": [
         {
           "index": 0,
-          "text": "Do you suppose Meursault is all right? Being cast out into a strange place like this, all on your own... It'd leave anyone terribly lost and afraid.",
+          "text": "Czy myślisz, że u meursaulta wszsystko jest okej? Bycie rzuconym w środek tak dziwnego miejsca i do tego kompletnie samemu... Każdy czuł by się zagubiony i wystraszony.",
           "speaker": "Hong Lu"
         },
         {
           "index": 1,
-          "text": "<I... don't think he'd feel lost and afraid... But yeah, best we hurry up and find him.>",
+          "text": "<Ja... nie sądze że jest specjalnie zagubiony lub wystraszony... Ale masz rację, powinniśmy się pośpieszyć i go znaleźć.>",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "Fuhu... Then let's be on our way!",
+          "text": "Fuhu... No to w drogę!",
           "speaker": "Hong Lu"
         }
       ]
@@ -292,7 +292,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Um... Manager... Shouldn't we hurry and start looking for Meursault?",
+          "text": "Um... Kierowniku... Czy nie powinniśmy szukać teraz Meursaulta?",
           "speaker": "Sinclair"
         }
       ]
@@ -302,7 +302,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Sinclair is still huffing, apparently not yet over his anger."
+          "text": "Sinclair nadal ciężko dycha. Widocznie ciągle jest nabuzowany po spotkaniu Kromer."
         }
       ]
     },
@@ -311,7 +311,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Hath the time arrived for us to resume our adventure? Verily, I remain ever at the ready!",
+          "text": "Czyżby nadeszła pora wznowić naszą przygodę? Doprawdy, ja ciągle pozostaje w gotowości!",
           "speaker": "Don Quixote"
         }
       ]
@@ -321,16 +321,16 @@
       "texts": [
         {
           "index": 0,
-          "text": "Bloody hell...",
+          "text": "Jasna cholera...",
           "speaker": "Heathcliff"
         },
         {
           "index": 1,
-          "text": "Heathcliff is pacing back and forth restlessly."
+          "text": "Heathcliff chodzi po pokoju, wyraźnie zaniecierpliwiony."
         },
         {
           "index": 2,
-          "text": "Oh. Are we movin' again, then?",
+          "text": "O. Nareszcie wychodzimy?",
           "speaker": "Heathcliff"
         }
       ]
@@ -340,22 +340,22 @@
       "texts": [
         {
           "index": 0,
-          "text": "Please rest more if you remain fatigued, Executive Manager. Give the order, and I, Outis, shall detach a search party and...",
+          "text": "Jeśli jesteś zmęczone, Kierowniku Wykonawczy, nie bój się odpocząć. Wystarczy że wydasz rozkaz I ja, Outis, poprowadzę drużynę poszukiwawczą...",
           "speaker": "Outis"
         },
         {
           "index": 1,
-          "text": "<It's okay. I should go with you guys.>",
+          "text": "<Nie trzeba. I tak powinnom pójść z wami.>",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "As expected of our Executive Manager. You are an example to every unit under your command...",
+          "text": "Odpowiedzialność typowa dla naszego Kierownika Wykonawczego. Jesteś świecącym przykładem dla każdej jednostki pod twoim pieczem...",
           "speaker": "Outis"
         },
         {
           "index": 3,
-          "text": "Outis showers me with praise. Didn't know public restrooms came with showers."
+          "text": "Outis obsypuje mnie komplementami. Nie sądze, że publiczna toaleta to najlepsze na to miejsce."
         }
       ]
     },
@@ -364,7 +364,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "We ready to go? Man, I sure hope we won't see another pile of corpses fallin' down on us. I <i>don't</i> wanna get crushed to death under a pile of rotting meat... That'd be the stuff of 3 nights-long-nightmare.",
+          "text": "To co, idziemy? Kurde, mam nadzieję że nie spadnie na nas kolejna kupa ciał. Naprawde wolałabym <i>nie</i> być zgnieciona na śmierć przez górę gnijącego mięsa... Na pewno miałabym po tym koszmary.",
           "speaker": "Rodion"
         }
       ]
@@ -374,16 +374,16 @@
       "texts": [
         {
           "index": 0,
-          "text": "G.G., C.H.",
+          "text": "R.T., Z.G.",
           "speaker": "Ryōshū"
         },
         {
           "index": 1,
-          "text": "Gotta Go, Chore Hour? Or... Get Going, Clockhead...?"
+          "text": "\"Ręko Tykacz, Zbieraj Grupę.\" czy... \"Ruszaj Tyłek, Zegarogłowe\"...?"
         },
         {
           "index": 2,
-          "text": "I'll go and ask Sinclair later."
+          "text": "Muszę zapytać się później Sinclaira."
         }
       ]
     },
@@ -392,7 +392,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "This place is quiet to an uncanny degree. A \"room of rest\"... Truly, a chamber wherein one may rest freely.",
+          "text": "To miejsce jest ciche... aż nazbyt. Tak zwane \"miejsce, do którego się łazi\"... A jednak, nikt poza nami tutaj jescze nie \"wlazł\".",
           "speaker": "Yi Sang"
         }
       ]
@@ -402,7 +402,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Faust is staring into the empty space."
+          "text": "Faust wpatruje się w eter."
         }
       ]
     },
@@ -411,7 +411,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Ready when you are.",
+          "text": "Gotowa w każdej chwili.",
           "speaker": "Ishmael"
         }
       ]
@@ -475,7 +475,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "Heathcliff keeps circling the same spot restlessly."
+          "text": "Heathcliff kręci się w kółko."
         }
       ]
     },
