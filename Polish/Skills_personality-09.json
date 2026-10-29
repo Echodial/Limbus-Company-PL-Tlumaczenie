@@ -3635,7 +3635,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pin oraz Trim Along the Patterns",
+          "name": "Przypnij i Przytnij Zgodnie z Wzorami",
           "desc": "[StartBattle] Daj następujące efekty 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]; raz na turę):\n- Daj 2 [AttackUp]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Jeśli ta jednostka to [PersonalityCharge], Daj również dodatkowe 1 [AttackUp] oraz Tarczę równą 5% maks PŻ tej jednostki\n\n[WhenUse] Jeśli cel posiada 6+ Nasilenia [Vibration], +1 Mocy Monet\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej",
           "coinlist": [
             {
@@ -3663,7 +3663,7 @@
         },
         {
           "level": 2,
-          "name": "Pin oraz Trim Along the Patterns",
+          "name": "Przypnij i Przytnij Zgodnie z Wzorami",
           "desc": "[StartBattle] Daj następujące efekty <style=\"highlight\">tej jednostce oraz</style> 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]; raz na turę):\n- Daj 2 [AttackUp]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Jeśli ta jednostka to [PersonalityCharge], Daj również dodatkowe 1 [AttackUp] oraz Tarczę równą 5% maks PŻ tej jednostki\n\n[WhenUse] Jeśli cel posiada 6+ Nasilenia [Vibration], +1 Mocy Monet\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej",
           "coinlist": [
             {
@@ -3691,7 +3691,7 @@
         },
         {
           "level": 4,
-          "name": "Pin oraz Trim Along the Patterns",
+          "name": "Przypnij i Przytnij Zgodnie z Wzorami",
           "desc": "[StartBattle] Daj następujące efekty tej jednostce, 1 Sojusznikowi najwcześniej w Kolejności Wdrożenia (priorytetyzuje [PersonalityCharge]), <style=\"highlight\">oraz 1 Sojusznikowi z najniższym %PŻ</style> (raz na turę):\n- Daj 2 [AttackUp]\n- Nałóż Tarczę równą 5% maks PŻ tej jednostki (min 1)\n- Jeśli ten Sojusznik to [PersonalityCharge], Daj również dodatkowe 1 [AttackUp] oraz Tarczę równą 5% maks PŻ tej jednostki\n\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 Nasilenia [Vibration] na celu (maks 2)</style>\n[WhenUse] Zużyj 5 Ilości [ChargeKhakiAlly] aby zyskać +2 Mocy Finalnej",
           "coinlist": [
             {
