@@ -370,7 +370,7 @@
         {
           "level": 3,
           "name": "Harpun Obsesji",
-          "desc": "Zadaj tym więcej Obrażeń im mniej PŻ posiada cel (+0.2% Obrażeń za każdy 1% brakującego PŻ, maks +20%)\n[EndSkill] Jeżeli cel jest Zachwiany bądź pokonany, (1+(najwyższy A-Rezon./2)) sojuszników z najmniejszą ilością SP leczy 10 SP, zyskuje 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, oraz +4 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>. (3 razy maks. maks liczba sojuszników która może być uleczona: 4)<style=\"highlight\"></style>",
+          "desc": "Zadaj tym więcej Obrażeń im mniej PŻ posiada cel (+0.2% Obrażeń za każdy 1% brakującego PŻ, maks +20%)\n[EndSkill] Jeżeli cel jest Zachwiany bądź pokonany, (1+(najwyższy A-Rezon./2)) sojuszników z najmniejszą ilością PP leczy 10 PP, zyskuje 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, oraz +4 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>. (3 razy maks. maks liczba sojuszników która może być uleczona: 4)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "Harpun Obsesji",
-          "desc": "Zadaj tym więcej Obrażeń im mniej PŻ posiada cel (+0.3% Obrażeń za każdy 1% brakującego PŻ, maks +30%)\n+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[EndSkill] Jeżeli cel jest Zachwiany bądź pokonany, (1+(najwyższy A-Rezon./2)) sojuszników z najmniejszą ilością SP leczy 10 SP, zyskuje 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, oraz +4 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>. (maks 4 razy. maks liczba sojuszników która może być uleczona: 4)<style=\"highlight\"></style>",
+          "desc": "Zadaj tym więcej Obrażeń im mniej PŻ posiada cel (+0.3% Obrażeń za każdy 1% brakującego PŻ, maks +30%)\n+1 Mocy Monet za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[EndSkill] Jeżeli cel jest Zachwiany bądź pokonany, (1+(najwyższy A-Rezon./2)) sojuszników z najmniejszą ilością PP leczy 10 PP, zyskuje 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, oraz +4 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>. (maks 4 razy. maks liczba sojuszników która może być uleczona: 4)<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
@@ -433,7 +433,7 @@
         {
           "level": 1,
           "name": "Nie Lękajcie Się",
-          "desc": "[WhenUse] Ulecz 3 SP 2 sojusznikom sąsiadującym z tą jednostką na Tablicy (2 razy maks)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Ulecz 3 PP 2 sojusznikom sąsiadującym z tą jednostką na Tablicy (2 razy maks)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 4,
           "name": "Nie Lękajcie Się",
-          "desc": "[WhenUse] Ulecz 5 SP 2 sojusznikom sąsiadującym z tą jednostką na Tablicy (2 razy maks)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Ulecz 5 PP 2 sojusznikom sąsiadującym z tą jednostką na Tablicy (2 razy maks)<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -698,7 +698,7 @@
         {
           "level": 4,
           "name": "Unik",
-          "desc": "[OnSucceedEvade] Ulecz 5 SP (raz na turę)<style=\"highlight\"></style>",
+          "desc": "[OnSucceedEvade] Ulecz 5 PP (raz na turę)<style=\"highlight\"></style>",
           "coinlist": [
             {}
           ]
@@ -1357,14 +1357,14 @@
                   "desc": "[OnSucceedAttack] Zyskaj [Breath] równe <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięciu</link></u></color> na celu (maks 5)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj Ilość [Breath] równą Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Zyskaj Ilość <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> równą Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+(20 + [Breath] na sobie + [Burst] na celu)% Obrażeń w przypadku Uderzenia Krytycznego (maks 50%)<style=\"highlight\"></style>"
+                  "desc": "+(20 + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + [Burst] na celu)% Obrażeń w przypadku Uderzenia Krytycznego (maks 50%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1401,14 +1401,14 @@
                   "desc": "[OnSucceedAttack] Zyskaj [Breath] równe <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięciu</link></u></color> na celu (maks 5)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj Ilość [Breath] równą Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Zyskaj Ilość <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> równą Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+(20 + [Breath] na sobie + [Burst] na celu)% Obrażeń w przypadku Uderzenia Krytycznego (maks 50%)<style=\"highlight\"></style>"
+                  "desc": "+(20 + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + [Burst] na celu)% Obrażeń w przypadku Uderzenia Krytycznego (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[CriticalEnemyTargetKill] Zyskaj 3 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Wyższego Poziomu Ataku</link></u></color> na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
@@ -1448,14 +1448,14 @@
                   "desc": "[OnSucceedAttack] Zyskaj [Breath] równe <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięciu</link></u></color> na celu (maks 5)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Zyskaj Ilość [Breath] równą Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu (maks 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Zyskaj Ilość <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> równą Ilości <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na celu (maks 3)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+(20 + [Breath] na sobie + [Burst] na celu)% Obrażeń w przypadku Uderzenia Krytycznego (maks 50%)<style=\"highlight\"></style>"
+                  "desc": "+(20 + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + [Burst] na celu)% Obrażeń w przypadku Uderzenia Krytycznego (maks 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[CriticalEnemyTargetKill] Zyskaj 3 <sprite name=\"AttackUp\"><color=#ffc700><u><link=\"AttackUp\">Wyższego Poziomu Ataku</link></u></color> na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
@@ -1480,10 +1480,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "+(20 + [Breath] na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń (maks 40%)<style=\"highlight\"></style>"
+                  "desc": "+(20 + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń (maks 40%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "+(45 + [Breath] na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń w przypadku Uderzeniu Krytycznego (maks 65%)<style=\"highlight\"></style>"
+                  "desc": "+(45 + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń w przypadku Uderzeniu Krytycznego (maks 65%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "+5% Obrażeń przy Uderzeniu Krytycznym za każde [StartXichun] na sobie (maks 30%)<style=\"highlight\"></style>"
@@ -1512,10 +1512,10 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "+(<style=\"highlight\">50</style> + [Breath] na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń (maks <style=\"highlight\">75</style>%)"
+                  "desc": "+(<style=\"highlight\">50</style> + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń (maks <style=\"highlight\">75</style>%)"
                 },
                 {
-                  "desc": "+(<style=\"highlight\">80</style> + [Breath] na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń przy Uderzeniu Krytycznym (maks <style=\"highlight\">105</style>%)"
+                  "desc": "+(<style=\"highlight\">80</style> + <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> na sobie + <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Pęknięcia</link></u></color> na głównym celu)% Obrażeń przy Uderzeniu Krytycznym (maks <style=\"highlight\">105</style>%)"
                 },
                 {
                   "desc": "+5% Obrażeń przy Uderzeniu Krytycznym za każde [StartXichun] na sobie (maks 30%)<style=\"highlight\"></style>"
@@ -1782,7 +1782,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ulecz 5 SP</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ulecz 5 PP</style>"
                 }
               ]
             }
@@ -1979,7 +1979,7 @@
         {
           "level": 1,
           "name": "Taki Na Serio Zajebisty Wpierdziel",
-          "desc": "[WhenUse] Ulecz 5 SP<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Ulecz 5 PP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1994,7 +1994,7 @@
         {
           "level": 2,
           "name": "Taki Na Serio Zajebisty Wpierdziel",
-          "desc": "<style=\"highlight\">Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet</style>\n[WhenUse] Ulecz 5 SP",
+          "desc": "<style=\"highlight\">Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet</style>\n[WhenUse] Ulecz 5 PP",
           "coinlist": [
             {
               "coindescs": [
@@ -2015,7 +2015,7 @@
         {
           "level": 4,
           "name": "Taki Na Serio Zajebisty Wpierdziel",
-          "desc": "Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet\n[WhenUse] Ulecz 5 SP<style=\"highlight\"></style>",
+          "desc": "Jeśli cel ma 6+ (<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style> + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>), +1 Mocy Monet\n[WhenUse] Ulecz 5 PP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2178,7 +2178,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +<style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> Count"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <style=\"highlight\">2</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
                 }
               ]
             },
@@ -2237,6 +2237,860 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rozcięcie",
+          "desc": "[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Jeśli ta jednostka ma [Agility], zyskaj 1 [WindBladeIshmael] (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Rozcięcie",
+          "desc": "<style=\"highlight\">[WhenUse] Mając 3+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, +1 Mocy Starcia</style>\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Jeśli ta jednostka ma [Agility], zyskaj 1 [WindBladeIshmael] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rozcięcie",
+          "desc": "<style=\"highlight\">[WhenUse] Mając 5+ <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, +1 Mocy Monet\n[WhenUse] +1 Mocy Starcia za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Mając 3+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, +1 Mocy Starcia\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Jeśli ta jednostka ma [Agility], zyskaj 1 [WindBladeIshmael] (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka ma [AengduNewArmIshmael] i 3+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, użyj tą Monetę ponownie (raz na turę)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akupunktura",
+          "desc": "[WhenUse] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Zyskaj 1 [WindBladeIshmael] za każdy [Agility] na sobie (maks 2, raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Akupunktura",
+          "desc": "<style=\"highlight\">[WhenUse] Mając 3+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, +2 Mocy Starcia</style>\n[WhenUse] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Zyskaj 1 [WindBladeIshmael] za każdy [Agility] na sobie (maks 2, raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Akupunktura",
+          "desc": "<style=\"highlight\">[WhenUse] Mając 5+ <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>, +1 Mocy Monet\n[WhenUse] +1 Mocy Starcia za każde 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Mając 3+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, +2 Mocy Starcia\n[WhenUse] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Zyskaj 1 [WindBladeIshmael] za każdy [Agility] na sobie (maks 2, raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka ma [AengduNewArmIshmael] i 3+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, użyj tą Monetę ponownie (raz na turę)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Płomień Lśniących Fal",
+          "desc": "+1.5% obrażeń zadanych przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 30%)\n[WhenUse] +1 Ostatecznej Mocy za każde 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na sobie (maks 2)\n[WhenUse] Mając 10+ [WindBladeIshmael], zamień wszystkie Monety w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>\n[WhenUse] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[WhenUse] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)\n[EndSkill] Zyskaj 1 [WindBladeIshmael] za każdy [Agility] na sobie (maks 3, raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+2% obrażeń zadanych przy Trafieniu Krytycznym za każde [WindBladeIshmael] na sobie (maks 20%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Płomień Lśniących Fal",
+          "desc": "+1.5% obrażeń zadanych przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 30%)\n[WhenUse] +1 Ostatecznej Mocy za każde 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na sobie (maks 2)\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Breath] na sobie + <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu) (maks 2)</style>\n[WhenUse] Mając 10+ [WindBladeIshmael], zamień wszystkie Monety w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>\n[WhenUse] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[WhenUse] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)\n[EndSkill] Zyskaj 1 [WindBladeIshmael] za każdy [Agility] na sobie (maks 3, raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Zyskaj 1 [WindBladeIshmael]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 2 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Zyskaj 1 [WindBladeIshmael]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+2% obrażeń zadanych przy Trafieniu Krytycznym za każde [WindBladeIshmael] na sobie (maks 20%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] (raz na turę)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Zyskaj 1 [WindBladeIshmael]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oświetlę Scieżkę Przed Nami",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj 1 <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asystę Obronną</link></u></color> (raz na turę)\n[WhenUse] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (raz na turę)\n[WinDuel] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Oświetlę Scieżkę Przed Nami",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj 1 <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asystę Obronną</link></u></color> (raz na turę)\n[WhenUse] Zyskaj 2 <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color> na początku następnej tury (raz na turę)\n[WhenUse] Zyskaj +2 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color> (raz na turę)\n[WinDuel] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n<style=\"highlight\">[EndSkillAll] Jeśli ta jednostka ma [Agility], zyskaj 2 [WindBladeIshmael] (raz na turę)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "By Wygrać Wojnę",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych\n+0.5% zadanych obrażeń za każde 1% brakujących PŻ na sobie (maks 20%)\n+3% obrażeń zadanych przy Trafieniu Krytycznym za każdy [Agility] na sobie (maks 15%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "By Wygrać Wojnę",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych\n+0.5% zadanych obrażeń za każde 1% brakujących PŻ na sobie (maks 20%)\n+3% obrażeń zadanych przy Trafieniu Krytycznym za każdy [Agility] na sobie (maks 15%)\n<style=\"highlight\">[WhenUse] +1% zadanych obrażeń za każde [WindBladeIshmael] na sobie (maks 15%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "By Wygrać Wojnę",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych\n+0.5% zadanych obrażeń za każde 1% brakujących PŻ na sobie (maks 20%)\n+3% obrażeń zadanych przy Trafieniu Krytycznym za każdy [Agility] na sobie (maks 15%)\n[WhenUse] +1% zadanych obrażeń za każde [WindBladeIshmael] na sobie (maks 15%)\n<style=\"highlight\">[WhenUse] +1.5% obrażeń zadanych przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [SlashTakeDamageUp] (raz na turę)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Paralysis] na początku następnej tury<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Przywrócenie Równowagi - Płomień Lśniących Fal",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych\n+1.5% obrażeń zadanych przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 30%)\n[WhenUse] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Zużyj całe [WindBladeIshmael] na sobie<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Mając więcej niż 15 [WindBladeIshmael], zadaj +5% obrażeń przy Trafieniu Krytycznym za każdą Wartość nadwyżki (maks 25%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Mając 5+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Przywrócenie Równowagi - Płomień Lśniących Fal",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych\n+1.5% obrażeń zadanych przy Trafieniu Krytycznym za każde [Breath] na sobie (maks 30%)\n<style=\"highlight\">+5% obrażeń zadanych przy Trafieniu Krytycznym za każdy [Agility] na sobie (maks 25%)</style>\n[WhenUse] Zyskaj +3 Ilości <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>\n[EndSkill] Zużyj całe [WindBladeIshmael] na sobie",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Zyskaj 1 [WindBladeIshmael]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Zyskaj 1 [WindBladeIshmael]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Zyskaj 1 [WindBladeIshmael]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Mając więcej niż 15 [WindBladeIshmael], zadaj +5% obrażeń przy Trafieniu Krytycznym za każdą Wartość nadwyżki (maks 25%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Mając 5+ <sprite name=\"Agility\"><color=#ffc700><u><link=\"Agility\">Pośpiechu</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obejrzę Kamienie Na Planszy",
+          "desc": "[CanDuelGuard]\nZdolność ekskluzywna dla <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asysty Obronnej</link></u></color>\n\n[WhenUse] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obejrzę Kamienie Na Planszy",
+          "desc": "[CanDuelGuard]\nZdolność ekskluzywna dla <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asysty Obronnej</link></u></color>\n<style=\"highlight\">[WhenUse] Ulecz <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Chroniony</link></u></color> cel o 5 PP</style>\n[WhenUse] Zyskaj 3 <sprite name=\"Breath\"><color=#ffc700><u><link=\"Breath\">Tchnienia</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ahh... Nie Słyszysz Go, Prawda?",
+          "desc": "[WhenUse] Mając 80%+ PŻ, zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ahh... Nie Słyszysz Go, Prawda?",
+          "desc": "<style=\"highlight\">Mając 2+ <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, +1 Mocy Monet</style>\n[WhenUse] Mając 80%+ PŻ, zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">3</style> Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ahh... Nie Słyszysz Go, Prawda?",
+          "desc": "Mając 2+ <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, +1 Mocy Monet\n[WhenUse] Mając 80%+ PŻ, zyskaj +<style=\"highlight\">5</style> Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>\n<style=\"highlight\">[WhenUse] +1 Mocy Starcia za każde 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ah Tak, Cisza Głosu Nie Oznaczała Jego Nieobecności!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Ulecz się o (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> x 2)% PŻ (maks 10%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ah Tak, Cisza Głosu Nie Oznaczała Jego Nieobecności!",
+          "desc": "<style=\"highlight\">+1 Ostatecznej Mocy za każde 2 <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (maks 2)\n[WhenUse] Mając mniej niż 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj 3(10 - obecna Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>)% PŻ by podnieść Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> do 10\n[WhenUse] Zużyj 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> by zyskać +1 Mocy Monet\n[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[BeforeAttack] Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, +20% zadanych obrażeń\n- Jeśli ta jednostka nie przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozy</link></u></color>, zużyj 20% PŻ na sobie by aktywować powyższy efekt</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +<style=\"highlight\">4</style> Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Mając 3+ <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, inflict 1 [ScarletTakeDamageUp] na początku następnej tury (raz na turę)</style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Ulecz się o (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> x <style=\"highlight\">3</style>)% PŻ (maks <style=\"highlight\">15</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ah Tak, Cisza Głosu Nie Oznaczała Jego Nieobecności!",
+          "desc": "+1 Ostatecznej Mocy za każde 2 <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (maks 2)\n[WhenUse] Mając mniej niż 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj 3(10 - obecna Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>)% PŻ by podnieść Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> do 10\n[WhenUse] Zużyj 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> by zyskać +1 Mocy Monet\n[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet\n[BeforeAttack] Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, +<style=\"highlight\">40</style>% zadanych obrażeń\n- Jeśli ta jednostka nie przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozy</link></u></color>, zużyj 20% PŻ na sobie by aktywować powyższy efekt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Mając <style=\"highlight\">2</style>+ <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, inflict 1 [ScarletTakeDamageUp] na początku następnej tury (raz na turę)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Ulecz się o (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> x 3)% PŻ (maks 15%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Zdrap, Zedrzyj i Nabij!",
+          "desc": "+5% zadanych obrażeń za każdą <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsację</link></u></color> (maks 25%)\n[StartBattle] Mając mniej niż 50% PŻ, lub jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, zamień wszystkie Monety w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>\n[WhenUse] Mając mniej niż 15 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj 3(15 - obecna Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>)% PŻ by podnieść Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> do 15\n[WhenUse] Zużyj 15 <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsację</link></u></color> by zyskać +3 Mocy Monet\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[BeforeAttack] Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, +40% zadanych obrażeń\n- Jeśli ta jednostka nie przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozy</link></u></color>, zużyj 20% PŻ na sobie by aktywować powyższy efekt<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Rządzy równe (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie x 10)% ostatecznych obrażeń tej Monety (maks 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Ulecz się o (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> x 4)% PŻ (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zdrap, Zedrzyj i Nabij!",
+          "desc": "+<style=\"highlight\">10</style>% zadanych obrażeń za każdą <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsację</link></u></color> na sobie (maks <style=\"highlight\">50</style>%)\n[StartBattle] Mając mniej niż 50% PŻ, lub jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, zamień wszystkie Monety w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>\n[WhenUse] Mając mniej niż 15 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj 3(15 - obecna Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>)% PŻ by podnieść Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> do 15\n[WhenUse] Zużyj 15 <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsację</link></u></color> by zyskać +3 Mocy Monet\n[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)\n[BeforeAttack] Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, +40% zadanych obrażeń\n- Jeśli ta jednostka nie przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozy</link></u></color>, zużyj 20% PŻ na sobie by aktywować powyższy efekt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż <style=\"highlight\">4</style> <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, użyj tą Monetę ponownie (raz na Zdolność)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Rządzy równe (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie x 10)% ostatecznych obrażeń tej Monety (maks 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Ulecz się o (Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> x 4)% PŻ (maks 20%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oczywiście... W Tym Świecie Jednak Można Odnaleźć Znaczenie",
+          "desc": "[DuelCounter]\n[StartBattle] Mając 10% lub mniej PŻ, wejdź do <sprite name=\"RougeIshmaelCocoon\"><color=#9f6a3a><u><link=\"RougeIshmaelCocoon\">Przebieralni</link></u></color> (zyskaj 2 Wartości) (once per Encounter)\n[StartBattle] Jeśli ta jednostka nie przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozy</link></u></color>, zużyj 20% PŻ na sobie i przyznaj temu Żatonowi Zdolności +10 [Aggro] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Oczywiście... W Tym Świecie Jednak Można Odnaleźć Znaczenie",
+          "desc": "[DuelCounter]\n[StartBattle] Mając 10% lub mniej PŻ, wejdź do <sprite name=\"RougeIshmaelCocoon\"><color=#9f6a3a><u><link=\"RougeIshmaelCocoon\">Przebieralni</link></u></color> (zyskaj 2 Wartości) (once per Encounter)\n[StartBattle] Jeśli ta jednostka nie przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozy</link></u></color>, zużyj 20% PŻ na sobie i przyznaj temu Żatonowi Zdolności +10 [Aggro] na początku następnej tury (raz na turę)\n<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 2 Siła <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (maks 2)\n[WhenUse] +10% zadanych obrażeń za każde 4 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jeśli ta jednostka przeszła <sprite name=\"RougeIshmaelEclose\"><color=#9f6a3a><u><link=\"RougeIshmaelEclose\">Metamorfozę</link></u></color>, ulecz się o 10% PŻ (raz na turę)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jak Mawia Głos, Z Chęcią Zamknę Się W Sobie",
+          "desc": "Zdolność ekskluzywna dla <sprite name=\"RougeIshmaelCocoon\"><color=#9f6a3a><u><link=\"RougeIshmaelCocoon\">Przebieralni</link></u></color>\n[CanDuelGuard]\n[StartBattle] Mając 10+ Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> by przyznać 2 sojusznikom znajdującym się najwcześniej w Kolejności Wdrożenia 1 [ResultEnhancement] na początku następnej tury (raz na turę)\n[StartBattle] Ulecz się o 50% PŻ (raz na turę)\n[WinDuel] Zyskaj +5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (4 razy na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Jak Mawia Głos, Z Chęcią Zamknę Się W Sobie",
+          "desc": "Zdolność ekskluzywna dla <sprite name=\"RougeIshmaelCocoon\"><color=#9f6a3a><u><link=\"RougeIshmaelCocoon\">Przebieralni</link></u></color>\n[CanDuelGuard]\n[StartBattle] Mając 10+ Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> by przyznać 2 sojusznikom znajdującym się najwcześniej w Kolejności Wdrożenia 1 [ResultEnhancement] na początku następnej tury (raz na turę)\n<style=\"highlight\">- Jeśli efekt wpłynął na sojusznika z Le Rouge, zyskaj +5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na początku następnej tury i nałóż na tego sojusznika 1 dodatkowe [AttackDmgUp]</style>\n[StartBattle] Ulecz się o <style=\"highlight\">100</style>% PŻ (raz na turę)\n<style=\"highlight\">[WinDuel] Usuń z siebie 1 możliwy do usunięcia negatywny efekt (raz na turę)</style>\n[WinDuel] Zyskaj +5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (4 razy na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             }
