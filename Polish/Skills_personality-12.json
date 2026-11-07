@@ -890,7 +890,7 @@
         {
           "level": 1,
           "name": "Poświęcenie dla Rodziny",
-          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n- Mając 50%+ HP, zyskaj +15 dodatkowego <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n- Mając 50%+ PŻ, zyskaj +15 dodatkowego <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -914,7 +914,7 @@
         {
           "level": 2,
           "name": "Poświęcenie dla Rodziny",
-          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma na sobie 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n- Mając 50%+ HP, zyskaj 15 dodatkowego <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n<style=\"highlight\">[WhenUse] +1 Mocy Monet jeśli cel ma na sobie 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color></style>\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n- Mając 50%+ PŻ, zyskaj 15 dodatkowego <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -938,7 +938,7 @@
         {
           "level": 4,
           "name": "Poświęcenie dla Rodziny",
-          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n- Mając 50%+ HP, zyskaj 15 dodatkowego <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>",
+          "desc": "[WhenUse] Daj temu Żetonowi Ataku +3 [Aggro] na początku następnej tury\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> na celu (maks 2)</style>\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n- Mając 50%+ PŻ, zyskaj 15 dodatkowego <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1044,7 +1044,7 @@
         {
           "level": 3,
           "name": "Niewybaczalny Grzech",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń HP (maks 100 za każde użycie Zdolności)\n[WhenUse] Zadaj +1% obrażeń za każde 1% brakującego HP na sobie (maks 60%)\n[WhenUse] +1 Mocy Monet jeśli cel ma na sobie 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Zużyj całą Wartość <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Krwawej Ręki</link></u></color> ponad 10 by zyskać następujące efekty:\n- Ulecz się o (Zużyta Wartość x 3) HP\n- +1 Mocy Monet jeśli ta jednostka zużyła 10+ Wartości\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[EndSkill] Ulecz się o 10% HP na sobie<style=\"highlight\"></style>",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń PŻ (maks 100 za każde użycie Zdolności)\n[WhenUse] Zadaj +1% obrażeń za każde 1% brakującego PŻ na sobie (maks 60%)\n[WhenUse] +1 Mocy Monet jeśli cel ma na sobie 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Zużyj całą Wartość <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Krwawej Ręki</link></u></color> ponad 10 by zyskać następujące efekty:\n- Ulecz się o (Zużyta Wartość x 3) PŻ\n- +1 Mocy Monet jeśli ta jednostka zużyła 10+ Wartości\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[EndSkill] Ulecz się o 10% PŻ na sobie<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 4,
           "name": "Niewybaczalny Grzech",
-          "desc": "Przy Trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń HP (maks 100 za każde użycie Zdolności)\n[WhenUse] Zadaj <style=\"highlight\">+1.5%</style> dodatkowych obrażeń za każde 1% brakującego HP na sobie <style=\"highlight\">(maks 90%)</style>\n[WhenUse] +1 Mocy Monet jeśli cel ma na sobie 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Zużyj całą Wartość <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Krwawej Ręki</link></u></color> ponad 10 by zyskać następujące efekty:\n- Ulecz się o (Zużyta Wartość x 3) HP na sobie\n- +1 Mocy Monet jeśli ta jednostka zużyła 10+ Wartości\n<style=\"highlight\">- Jeśli ta jednostka zużyła 20 Wartości, Użyj ostatnią Monetę ponownie</style>\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[EndSkill] Ulecz się o 10% HP na sobie",
+          "desc": "Przy Trafieniu tą Zdolnością: ulecz się o 50% zadanych obrażeń PŻ (maks 100 za każde użycie Zdolności)\n[WhenUse] Zadaj <style=\"highlight\">+1.5%</style> dodatkowych obrażeń za każde 1% brakującego PŻ na sobie <style=\"highlight\">(maks 90%)</style>\n[WhenUse] +1 Mocy Monet jeśli cel ma na sobie 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[WhenUse] Zużyj całą Wartość <sprite name=\"BloodyHandGregFirst\"><color=#9f6a3a><u><link=\"BloodyHandGregFirst\">Krwawej Ręki</link></u></color> ponad 10 by zyskać następujące efekty:\n- Ulecz się o (Zużyta Wartość x 3) PŻ na sobie\n- +1 Mocy Monet jeśli ta jednostka zużyła 10+ Wartości\n<style=\"highlight\">- Jeśli ta jednostka zużyła 20 Wartości, Użyj ostatnią Monetę ponownie</style>\n[WhenUse] Zyskaj 10 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>\n[EndSkill] Ulecz się o 10% PŻ na sobie",
           "coinlist": [
             {
               "coindescs": [
@@ -1131,7 +1131,7 @@
         {
           "level": 4,
           "name": "Na Krańcu Cierpliwości",
-          "desc": "<style=\"highlight\">[StartBattle] Mając 40%+ HP, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> i aktywuj [Laceration] do 3 razy na sobie (raz na turę; utrać Ilość [Laceration] równą temu, ile razy zostało aktywowane)\n[StartBattle] Mając mniej niż 40% HP, skosztuj do 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> i ulecz się o tyle samo HP (raz na turę)</style>\n[StartBattle] Zyskaj 3 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Schorowanego Serca</link></u></color> (raz na turę)",
+          "desc": "<style=\"highlight\">[StartBattle] Mając 40%+ PŻ, zyskaj 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> i aktywuj [Laceration] do 3 razy na sobie (raz na turę; utrać Ilość [Laceration] równą temu, ile razy zostało aktywowane)\n[StartBattle] Mając mniej niż 40% PŻ, skosztuj do 20 <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Krwawej Uczty</link></u></color> i ulecz się o tyle samo PŻ (raz na turę)</style>\n[StartBattle] Zyskaj 3 <sprite name=\"WornHeartGreg\"><color=#9f6a3a><u><link=\"WornHeartGreg\">Schorowanego Serca</link></u></color> (raz na turę)",
           "coinlist": [
             {
               "coindescs": [
@@ -1799,7 +1799,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli (Rdzeń) przeciwnika ma 20%- HP, użyj 'Mercé'<style=\"highlight\"></style>",
+                  "desc": "[OnSucceedAttack] Jeśli (Rdzeń) przeciwnika ma 20%- PŻ, użyj 'Mercé'<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Użyj 'Mercé'"
                 }
               ]
@@ -1831,7 +1831,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Jeśli (Rdzeń) przeciwnika ma 20%- HP, lub <style=\"highlight\">jeśli cel ma <sprite name=\"HorrHurtNightStiletto\"><color=#e30000><u><link=\"HorrHurtNightStiletto\">Śmiertelną Ranę</link></u></color></style>, użyj 'Mercé'",
+                  "desc": "[OnSucceedAttack] Jeśli (Rdzeń) przeciwnika ma 20%- PŻ, lub <style=\"highlight\">jeśli cel ma <sprite name=\"HorrHurtNightStiletto\"><color=#e30000><u><link=\"HorrHurtNightStiletto\">Śmiertelną Ranę</link></u></color></style>, użyj 'Mercé'",
                   "summary": "[OnSucceedAttack] Użyj 'Mercé'"
                 }
               ]
@@ -1878,7 +1878,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu o 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, ma na sobie <sprite name=\"HorrHurtNightStiletto\"><color=#e30000><u><link=\"HorrHurtNightStiletto\">Śmiertelną Ranę</link></u></color>, lub (Rdzeń) przeciwnika ma 20%- HP, użyj 'Mercé'<style=\"highlight\"></style>",
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, ma na sobie <sprite name=\"HorrHurtNightStiletto\"><color=#e30000><u><link=\"HorrHurtNightStiletto\">Śmiertelną Ranę</link></u></color>, lub (Rdzeń) przeciwnika ma 20%- PŻ, użyj 'Mercé'<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Użyj 'Mercé'"
                 }
               ]
@@ -1920,7 +1920,7 @@
                   "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> celu o 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, ma na sobie <sprite name=\"HorrHurtNightStiletto\"><color=#e30000><u><link=\"HorrHurtNightStiletto\">Śmiertelną Ranę</link></u></color>, lub (Rdzeń) przeciwnika ma 20%- HP, użyj 'Mercé'<style=\"highlight\"></style>",
+                  "desc": "[OnSucceedAttack] Jeśli cel jest Zachwiany, ma na sobie <sprite name=\"HorrHurtNightStiletto\"><color=#e30000><u><link=\"HorrHurtNightStiletto\">Śmiertelną Ranę</link></u></color>, lub (Rdzeń) przeciwnika ma 20%- PŻ, użyj 'Mercé'<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Użyj 'Mercé'"
                 }
               ]
@@ -1968,7 +1968,7 @@
         {
           "level": 2,
           "name": "Mercé",
-          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego HP (Rdzenia) przeciwnika (maks 2)\nJeśli (Rdzeń) przeciwnika ma 20%- HP, +80% zadanych obrażeń<style=\"highlight\"></style>",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego PŻ (Rdzenia) przeciwnika (maks 2)\nJeśli (Rdzeń) przeciwnika ma 20%- PŻ, +80% zadanych obrażeń<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1982,7 +1982,7 @@
         {
           "level": 4,
           "name": "Mercé",
-          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego HP (Rdzenia) przeciwnika (maks <style=\"highlight\">4</style>)\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +120% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>",
+          "desc": "[CantDuel]\nTa Zdolność nie aktywuje Zdolności Obronnych i nie zyskuje zasobów E.G.O\n+1 Mocy Monet za każde 20% brakującego PŻ (Rdzenia) przeciwnika (maks <style=\"highlight\">4</style>)\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego PŻ (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- PŻ, <style=\"highlight\">zamiast tego +120% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Zyskaj 1 [Agility] na początku następnej tury (raz na turę)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2007,7 +2007,7 @@
         {
           "level": 3,
           "name": "Nocni Szewcy",
-          "desc": "+10% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (maks 40%)\n+50% zadanych obrażeń jeśli (Rdzeń) przeciwnika ma 20%- HP\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (maks 2)\n[WinDuel] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>",
+          "desc": "+10% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (maks 40%)\n+50% zadanych obrażeń jeśli (Rdzeń) przeciwnika ma 20%- PŻ\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (maks 2)\n[WinDuel] Aktywuj [VibrationExplosion]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2060,7 +2060,7 @@
         {
           "level": 4,
           "name": "Nocni Szewcy",
-          "desc": "+<style=\"highlight\">15</style>% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (maks <style=\"highlight\">60</style>%)\n<style=\"highlight\">Jeśli Cel ma Tarczę, +30% zadanych obrażeń (w Skupionych Potyczkach, Rdzeń lub Części)</style>\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego HP (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- HP, <style=\"highlight\">zamiast tego +100% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Nałóż 5 [DefenseDown]</style>\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (maks <style=\"highlight\">3</style>)\n[WinDuel] <style=\"highlight\">Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion]",
+          "desc": "+<style=\"highlight\">15</style>% zadanych obrażeń za każde 1 ([Agility] na sobie + [Binding] na celu) (maks <style=\"highlight\">60</style>%)\n<style=\"highlight\">Jeśli Cel ma Tarczę, +30% zadanych obrażeń (w Skupionych Potyczkach, Rdzeń lub Części)</style>\n<style=\"highlight\">+1% zadanych obrażeń za każde 1% brakującego PŻ (Rdzenia) przeciwnika</style>\n- Jeśli (Rdzeń) przeciwnika ma 20%- PŻ, <style=\"highlight\">zamiast tego +100% zadanych obrażeń</style>\n<style=\"highlight\">[WhenUse] Nałóż 5 [DefenseDown]</style>\n[WhenUse] +1 Mocy Monet za każde 4 (<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color> + <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color>) na celu (maks <style=\"highlight\">3</style>)\n[WinDuel] <style=\"highlight\">Nałóż 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color></style> i aktywuj [VibrationExplosion]",
           "coinlist": [
             {
               "coindescs": [
@@ -2300,7 +2300,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Nałóż +2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2336,12 +2336,12 @@
             {
               "coindescs": [
                 {
-                  "desc": "Jeśli (Rdzeń) celu ma 25% HP lub mniej, lub jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj +60% obrażeń<style=\"highlight\"></style>",
+                  "desc": "Jeśli (Rdzeń) celu ma 25% PŻ lub mniej, lub jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj +60% obrażeń<style=\"highlight\"></style>",
                   "summary": "Zadaj +60% obrażeń"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj obrażenia od Przygnębienia równe 60% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>",
-                  "summary": "[OnSucceedAttack] Zadaj (60% ostatecznych obrażeń tej Monety) Gloom damage"
+                  "summary": "[OnSucceedAttack] Zadaj (60% ostatecznych obrażeń tej Monety) <color=#0dc0eb>obrażeń od Przygnębienia</color>"
                 }
               ]
             }
@@ -2375,12 +2375,12 @@
             {
               "coindescs": [
                 {
-                  "desc": "Jeśli (Rdzeń) celu ma 25% HP lub mniej, lub jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, +60% zadanych obrażeń<style=\"highlight\"></style>",
+                  "desc": "Jeśli (Rdzeń) celu ma 25% PŻ lub mniej, lub jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, +60% zadanych obrażeń<style=\"highlight\"></style>",
                   "summary": "Zadaj +60% obrażeń"
                 },
                 {
                   "desc": "[OnSucceedAttack] Jeśli cel jest <sprite name=\"DelusionHohenheimBigBird\"><color=#e30000><u><link=\"DelusionGregBigBird\">Zaślepiony</link></u></color>, zadaj obrażenia od Przygnębienia równe 80% ostatecznych obrażeń tej Monety<style=\"highlight\"></style>",
-                  "summary": "[OnSucceedAttack] Zadaj (80% ostatecznych obrażeń tej Monety) Gloom damage"
+                  "summary": "[OnSucceedAttack] Zadaj (80% ostatecznych obrażeń tej Monety) <color=#0dc0eb>obrażeń od Przygnębienia</color>"
                 }
               ]
             }
@@ -2394,7 +2394,7 @@
         {
           "level": 1,
           "name": "Lont Ze Spalonych Piór",
-          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia HP równe 1% maks HP (ten efekt nie może mniejsztć HP tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 3) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia PŻ równe 1% maks PŻ (ten efekt nie może mniejsztć PŻ tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 3) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2408,7 +2408,7 @@
         {
           "level": 4,
           "name": "Lont Ze Spalonych Piór",
-          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia HP równe 1% maks HP (ten efekt nie może mniejsztć HP tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 2) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] Zyskaj <sprite name=\"LanternHohenheimBigBird\"><color=#9f6a3a><u><link=\"LanternGregBigBird\">Lampę</link></u></color> by mieć 8 Wartości; za każdą zyskaną Wartość, otrzymaj obrażenia PŻ równe 1% maks PŻ (ten efekt nie może mniejsztć PŻ tej jednostki poniżej 1)\n[EndBattle] Przyznaj 1 [Agility] na początku następnej tury dla ([Binding] na sobie / 2) innych sojuszników z najniższą Prędkością (raz na turę; zaokrąglone w dół)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2780,6 +2780,520 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Nałóż [ChargedSting] równe <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowaniu</link></u></color> na początku następnej tury (maks <style=\"highlight\">5</style>)\n- Mając 5+ <sprite name=\"Charge\"><color=#ffc700><u><link=\"Charge\">Naładowania</link></u></color>, nałóż <style=\"highlight\">5</style> <sprite name=\"ChargedSting\"><color=#e30000><u><link=\"ChargedSting\">Naładowanego Użądlenia</link></u></color> w tej i w następnej turze zamiast tego (raz na turę)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pierwszy Brzask",
+          "desc": "[WhenUse] Mając 30+ <sprite name=\"StigmaWorkshopHandStep3\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep3\">Blasku Świtu</link></u></color>, ta Zdolność zyskuje dodatkową 2 Monetę, która jest <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomna</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Pierwszy Brzask",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 4 ([Combustion] + [Vibration]) na celu (maks 3)</style>\n[WhenUse] Mając 30+ <sprite name=\"StigmaWorkshopHandStep3\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep3\">Blasku Świtu</link></u></color>, ta Zdolność zyskuje dodatkową 2 Monetę, która jest <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomna</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pierwszy Brzask",
+          "desc": "[WhenUse] +1 Ostatecznej Mocy za każde 4 ([Combustion] + [Vibration]) na celu (maks 3)\n[WhenUse] Mając <style=\"highlight\">20</style>+ [StigmaWorkshopHandStep1], ta Zdolność zyskuje dodatkową 2 Monetę, która jest <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomna</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ostrze Zachodu Słońca",
+          "desc": "[WhenUse] Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, ta Zdolność zyskuje dodatkową 3 Monetę, która jest <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomna</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ostrze Zachodu Słońca",
+          "desc": "<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 4 ([Combustion] + [Vibration]) na celu (maks 4)</style>\n[WhenUse] Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, ta Zdolność zyskuje dodatkową 3 Monetę, która jest <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomna</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ostrze Zachodu Słońca",
+          "desc": "[WhenUse] +1 Ostatecznej Mocy za każde 4 ([Combustion] + [Vibration]) na celu (maks 4)\n[WhenUse] Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, zyskaj dane efekty:\n- Ta Zdolność zyskuje dodatkową 3 Monetę, która jest <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomna</link></u></color>\n- <style=\"highlight\">Przy Trafieniu wspomnianą Monetą, aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Promyk Brzasku",
+          "desc": "[StartBattle] Przyznaj 2 losowym sojusznikom 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>\n(w pierwszej kolejności działa na sojuszników, którzy nie mają <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>; wśród nich, w pierszej kolejności działa na sojuszników z Biura Brzasku)\n[BeforeUse] Mając 30 <sprite name=\"StigmaWorkshopHandStep3\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep3\">Blasku Świtu</link></u></color>, użyj zamiast tej Zdolności \"<color=#fe0101>Świtającego Słońca</color>\" (raz na turę)\n[WhenUse] Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, aktywuj dane efekty:\n- +1 Ostatecznej Mocy\n- Zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>\n[EndSkill] Przyznaj na początku następnej tury wszystkim sojusznikom 1 <sprite name=\"DawnLight\"><color=#ffc700><u><link=\"DawnLight\">Heralda Brzasku</link></u></color>\n- Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, przyznaj 1 dodatkowego <sprite name=\"DawnLight\"><color=#ffc700><u><link=\"DawnLight\">Heralda Brzasku</link></u></color><style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Promyk Brzasku",
+          "desc": "<style=\"highlight\"> +([Combustion] na sobie + <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na celu)% zadanych obrażeń (maks 30%)</style>\n[StartBattle] Przyznaj 2 losowym sojusznikom 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>\n(w pierwszej kolejności działa na sojuszników, którzy nie mają <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>; wśród nich, w pierszej kolejności działa na sojuszników z Biura Brzasku)\n[BeforeUse] Mając 30 <sprite name=\"StigmaWorkshopHandStep3\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep3\">Blasku Świtu</link></u></color>, użyj zamiast tej Zdolności \"<color=#fe0101>Świtającego Słońca</color>\" (raz na turę)\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WhenUse] Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, aktywuj dane efekty:\n- +1 Ostatecznej Mocy\n- Zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color>\n<style=\"highlight\">- Przy Trafieniu ostatnią Monetą, aktywuj [Combustion] na celu, po czym zmniejsz Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na celu o 1</style>\n[EndSkill] Przyznaj na początku następnej tury wszystkim sojusznikom 1 <sprite name=\"DawnLight\"><color=#ffc700><u><link=\"DawnLight\">Heralda Brzasku</link></u></color>\n- Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, przyznaj 1 dodatkowego <sprite name=\"DawnLight\"><color=#ffc700><u><link=\"DawnLight\">Heralda Brzasku</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +2 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strażnik",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asystę Obronną</link></u></color> (raz na turę)\n[WhenUse] Zyskaj 5 [StigmaWorkshopHandStep1] (raz na turę)\n[WinDuel] Strać 2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> (raz na turę)\n[EndSkillAll] Strać 5 Siły <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Strażnik",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asystę Obronną</link></u></color> (raz na turę)\n<style=\"highlight\">[BeforeUse] Mając 30 <sprite name=\"StigmaWorkshopHandStep3\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep3\">Blasku Świtu</link></u></color>, użyj zamiast tej Zdolności \"<color=#fe0101>Świtającego Słońca</color>\" (raz na turę)</style>\n[WhenUse] Zyskaj 5 [StigmaWorkshopHandStep1] (raz na turę)\n[WinDuel] Strać 2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> (raz na turę)\n[EndSkillAll] Strać 5 Siły <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Strażnik",
+          "desc": "[DuelCounter]\n[StartBattle] Zyskaj 1 <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asystę Obronną</link></u></color> (raz na turę)\n[BeforeUse] Mając 30 <sprite name=\"StigmaWorkshopHandStep3\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep3\">Blasku Świtu</link></u></color>, użyj zamiast tej Zdolności \"<color=#fe0101>Świtającego Słońca</color>\" (raz na turę)\n[WhenUse] Zyskaj 5 [StigmaWorkshopHandStep1] (raz na turę)\n<style=\"highlight\">[WhenUse] +1 Ostatecznej Mocy za każde 4 ([Combustion] + [Vibration]) na celu (maks 2)</style>\n[WinDuel] Strać 2 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> (raz na turę)\n[EndSkillAll] Strać 5 Siły <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> (raz na turę)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +1 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Świtające Słońce",
+          "desc": "+50% zadanych obrażeń za każdą Wagę Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, Części)\n[WhenUse] Przyznaj 2 losowym sojusznikom 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na początku następnej tury\n(w pierwszej kolejności działa na sojuszników, którzy nie mają <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>; wśród nich, w pierszej kolejności działa na sojuszników z Biura Brzasku)\n[WhenUse] Mając 15+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>, +1 Mocy Monet\n[EndSkill] Aktywuj dane efekty:\n- Przyznaj na początku następnej tury wszystkim sojusznikom 3 <sprite name=\"DawnLight\"><color=#ffc700><u><link=\"DawnLight\">Heralda Brzasku</link></u></color>\n- Zużyj do 15 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na sobie i ulecz się o (15 + zużyte <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)% PŻ\n- Zużyj cały [StigmaWorkshopHandStep3] na sobie<style=\"highlight\"></style>",
+          "flavor": "W samym środku jednej z niezliczonych pól bitwy Wojny Smogowej, właśnie ta technika stopiła i odcięła ostatnią parę skrzydeł pewnej decydującej broni, razem z przestrzenią, którą zajmowały, będąc heraldem końca brzasku.\n\n\"Hah... Prawie mnie tym dorwali...!\"\n\"Panienko, myślisz... że dasz radę wykończyćtego potwora?\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activate [Combustion] na celu, po czym zmniejsz Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Świtające Słońce",
+          "desc": "+<style=\"highlight\">75</style>% zadanych obrażeń za każdą Wagę Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, Części)\n[WhenUse] Przyznaj 2 losowym sojusznikom 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> na początku następnej tury\n(w pierwszej kolejności działa na sojuszników, którzy nie mają <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color>; wśród nich, w pierszej kolejności działa na sojuszników z Biura Brzasku)\n[WhenUse] Mając 15+ <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>, +1 Mocy Monet\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na głównym celu (maks 2)</style>\n[EndSkill] Aktywuj dane efekty:\n- Przyznaj na początku następnej tury wszystkim sojusznikom 3 <sprite name=\"DawnLight\"><color=#ffc700><u><link=\"DawnLight\">Heralda Brzasku</link></u></color>\n- Zużyj do 15 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na sobie i ulecz się o (15 + zużyte <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color>)% PŻ\n- Zużyj cały [StigmaWorkshopHandStep3] na sobie",
+          "flavor": "W samym środku jednej z niezliczonych pól bitwy Wojny Smogowej, właśnie ta technika stopiła i odcięła ostatnią parę skrzydeł pewnej decydującej broni, razem z przestrzenią, którą zajmowały, będąc heraldem końca brzasku.\n\n\"Hah... Prawie mnie tym dorwali...!\"\n\"Panienko, myślisz... że dasz radę wykończyćtego potwora?\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 5 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Switch_Vibration] na [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktywuj [VibrationExplosion], po czym zmniejsz Ilość <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Drżenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activate [Combustion] na celu, po czym zmniejsz Ilość <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Podpalenia</link></u></color> na celu o 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ciepły Ciąg",
+          "desc": "[DuelCounter]\nZdolność ekskluzywna dla <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asysty Obronnej</link></u></color>\n[WhenUse] Zyskaj 5 [StigmaWorkshopHandStep1] (raz na turę)\n[WhenUse] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ciepły Ciąg",
+          "desc": "[DuelCounter]\nZdolność ekskluzywna dla <sprite name=\"SupportProtect\"><color=#9f6a3a><u><link=\"SupportProtect\">Asysty Obronnej</link></u></color>\n[WhenUse] Zyskaj 5 [StigmaWorkshopHandStep1] (raz na turę)\n[WhenUse] Zyskaj 2 <sprite name=\"Protection\"><color=#ffc700><u><link=\"Protection\">Ochrony</link></u></color> (raz na turę)\n<style=\"highlight\">[WhenUse] +1 Mocy Monet za każde 6 ([Combustion] + [Vibration]) na celu (maks 2)\n[WhenUse] Mając 20+ <sprite name=\"StigmaWorkshopHandStep2\"><color=#ffc700><u><link=\"StigmaWorkshopHandStep2\">Blasku Świtu</link></u></color>, lub jeśli ta jednostka użyła w tej turze \"<color=#fe0101>Świtającego Słońca</color>\", zamień wszystkie Monety tej Zdolności w <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Niezłomne Monety</link></u></color></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             }

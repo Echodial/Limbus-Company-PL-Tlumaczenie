@@ -8,8 +8,8 @@
     },
     {
       "id": "VibrationIgnition",
-      "name": "Tremor - Scorch",
-      "desc": "- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold equal by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Drżenie - Poparzenie",
+      "desc": "- Przy aktywacji Impulsu Drżeń, otrzymaj obrażenia równe (suma Siły Drżenia i Siły Podpalenia / 2), i strać 1 Ilości Podpalenia\n- Po zostaniu trafionym atakiem aktywującym Impuls Drżeń, podnosi Próg Zachwiania o Siłę\n- Koniec tury: Zmniejsz Ilość o 1\n(Reaguje na efekty zwiększające i zmniejszające Siłę/Ilość Drżeń tak samo jak zwykłe Drżenie)",
       "summary": ""
     },
     {
