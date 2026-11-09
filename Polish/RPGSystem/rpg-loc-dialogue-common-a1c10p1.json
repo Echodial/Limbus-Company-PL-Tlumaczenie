@@ -648,7 +648,7 @@
         },
         {
           "index": 10,
-          "text": "Heathcliff stood agape at Outis, who didn't seem to feel even an ounce of hesitation about using him as cannon fodder. He stepped back, shaking his head as though the interaction had tired him out."
+          "text": "Heathcliff z otwartymi ustami patrzył się na Outis, która właśnie bez najmniejszego zawachania zaoferowała, byśmy użyli go jako mięsa armatniego. Wziął on krok w tył trząsąc głową, jakby nie miał siły ani ochoty prowadzić dalszej dyskusji."
         }
       ]
     },
@@ -657,27 +657,27 @@
       "texts": [
         {
           "index": 0,
-          "text": "... Are you planning to knock on the stalls all day, Dante?",
+          "text": "... Dante, czy planujesz cały dzień pukać do tych kabin?",
           "speaker": "Ishmael"
         },
         {
           "index": 1,
-          "text": "<You never know...>",
+          "text": "<Nigdy nie wiadomo...>",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "It's only proper to do so in a restroom. Toilet etiquette is an important virtue!",
+          "text": "Właśnie tak wypada. Łazienkowa etykieta to ważna rzecz!",
           "speaker": "Hong Lu"
         },
         {
           "index": 3,
-          "text": "All well and good, I suppose... But shouldn't we be on our way and take a look around outside?",
+          "text": "No dobra, spoko, ale... nie sądzicie że lepiej byłoby wyjść z tąd i rozejrzeć sie na zewnątrz?",
           "speaker": "Ishmael"
         },
         {
           "index": 4,
-          "text": "<That's the plan.>",
+          "text": "<Taki jest plan.>",
           "speaker": "Dante"
         }
       ]
@@ -692,22 +692,22 @@
         },
         {
           "index": 1,
-          "text": "What's got you rattled, Manager Bud?",
+          "text": "Wszystko tam dobrze, szefuńciu?",
           "speaker": "Gregor"
         },
         {
           "index": 2,
-          "text": "<I just heard what sounded like a toilet flushing in there...>",
+          "text": "<Wydaje mi się, że usłyszałom jak ktoś spuszczał w środku wodę...>",
           "speaker": "Dante"
         },
         {
           "index": 3,
-          "text": "... You're still trying to spook me, even after everything we've been through? Not falling for it anymore... Nope...",
+          "text": "... Naprawde próbujesz nastroszyć mi piórka, po wszystkim co razem przeszliśmy? Cóż, nie dam się na to tym razem złapać... Nie ma mowy...",
           "speaker": "Sinclair"
         },
         {
           "index": 4,
-          "text": "<But I really heard it...>",
+          "text": "<Ale ja serio coś usłyszałom...>",
           "speaker": "Dante"
         }
       ]
@@ -717,32 +717,32 @@
       "texts": [
         {
           "index": 0,
-          "text": "Enough, Clockhead! What d'you reckon gawping inside those toilet stalls is going to do?",
+          "text": "Do licha, skończ z tym w końcu! Co ty w ogóle próbujesz osiągnąć zaglądając do tych wszystkich kibelków?",
           "speaker": "Heathcliff"
         },
         {
           "index": 1,
-          "text": "The Executive Manager is executing a methodical search pattern! Even these fixtures may conceal hints of intelligence decisive to the operation!",
+          "text": "Kierownik Wykonawczy dokonuje dokładnego przeczesania terenu! Nawet te ubikacje mogą skrywać w sobie witalny dla naszej operacji intel!",
           "speaker": "Outis"
         },
         {
           "index": 2,
-          "text": "*puff* This master detective inspected this entire restroom the moment we entered. There is nothing left to see, C.H.",
+          "text": "*puf* Ta tutaj M.D. przeczesała wszystkie kabiny od razu jak tu weszliśmy. Nie ma w nich nic ciekawego, Z.G.",
           "speaker": "Ryōshū"
         },
         {
           "index": 3,
-          "text": "This reminds me of when we played detective back in T Corp.~ We had so much fun back then, didn't we, Rodya?",
+          "text": "Wiecie, przypomina mi to jak odgrywaliśmy role detektywów w T Korpie~ Ah, nieźle się wtedy bawiliśmy, co nie Rodya?",
           "speaker": "Hong Lu"
         },
         {
           "index": 4,
-          "text": "Yeah... we did. Anyway, how about we hurry up and get out of here first?",
+          "text": "No... masz racje. A tak z innej beczki, możemy sie pośpieszyć i w końcu z tąd wyjść?",
           "speaker": "Rodion"
         },
         {
           "index": 5,
-          "text": "Yeah. We can't waste any more time here."
+          "text": "No tak. Nie możemy marnować tu więcej czasu."
         }
       ]
     },
@@ -751,7 +751,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "A stall with a closed door."
+          "text": "Zamknięte drzwi klopa."
         }
       ]
     },
@@ -760,11 +760,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "Familiar golden light leaks through a narrow gap between the tiles."
+          "text": "Znany mi dobrze złoty blask wylewa się z za kafelek."
         },
         {
           "index": 1,
-          "text": "I can almost hear the faint murmuring of conversation between people."
+          "text": "Chyba słyszę z niego cichą rozmowę."
         }
       ]
     },
@@ -773,7 +773,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "I peer through the gap, but the glare of the light is too bright for me to see anything."
+          "text": "Patrze przez szparę, ale światło jest za jasne aby cokolwiek przez nią zobaczyć."
         }
       ]
     },
@@ -782,11 +782,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -795,28 +795,28 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         },
         {
           "index": 2,
-          "text": "<color=#ebcaa2>At Grand Magasin Sisyphe, customers who spend more are awarded a status worthy of their patronage. We encourage you to continue shopping and work your way toward our highest tiers.</color>"
+          "text": "<color=#ebcaa2>W Wielkiej Sisyphiańskiej Manufkaturze, klienci którzy więcej \"Szastają forsą\" otrzymują rangę równą swoim wydatkom. Zachęcamy was, aby kupować i pracować gorliwie ku wyższym poziomom prestiżu.</color>"
         },
         {
           "index": 3,
-          "text": "<color=#ebcaa2>We invite you to prove what you are worth by consuming to your hearts' content. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>"
+          "text": "<color=#ebcaa2>Zapraszamy was do praktykowania niepochamowanego konsumcjonizmu, oraz dziękujemy wam za wybranie Wielkiej Sisyphiańskiej Manufkatury. Miłych zakupów.</color>"
         },
         {
           "index": 4,
-          "text": "<Huh. Looks like our rank went up.>",
+          "text": "<Huh. Wygląda na to, że wspinamy się po szczeblach społecznych.>",
           "speaker": "Dante"
         },
         {
           "index": 5,
-          "text": "<I've got no idea what's changed, though... or what new perks come with it.>",
+          "text": "<Choć... nie do końca wiem co w zasadzie to zmieniło... ani czy ułatwiło nam to jakoś życie.>",
           "speaker": "Dante"
         }
       ]
@@ -826,11 +826,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -839,11 +839,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -852,11 +852,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -865,11 +865,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -878,11 +878,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -891,11 +891,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -904,11 +904,11 @@
       "texts": [
         {
           "index": 0,
-          "text": "<color=#ebcaa2>Your attention, please.</color>"
+          "text": "<color=#ebcaa2>Uwaga, drodzy klienci.</color>"
         },
         {
           "index": 1,
-          "text": "<color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+          "text": "<color=#ebcaa2>Z największą przyjemnością oznajmiam, że Poziom waszego Prestiżu wzrósł do następnego poziomu.</color>"
         }
       ]
     },
@@ -926,7 +926,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "<Something seems to have changed... Let's try taking the escalator.>",
+          "text": "<Coś się zmieniło... Powinniśmy spróbować znowu użyć ruchomych schodów.>",
           "speaker": "Dante"
         }
       ]
@@ -1110,7 +1110,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "The corpse of a Noir. The only remaining proof of their existence is this abandoned hat, signifying their rank."
+          "text": "Ciało Le Noir. Jedynym dowodem ich istnienia jest ich cylinder, wskazujący na ich wysoką rangę."
         }
       ]
     },
@@ -1119,7 +1119,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "<It's just a corpse.>"
+          "text": "<To tylko ciało.>"
         }
       ]
     },
@@ -1128,7 +1128,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "The corpse of a Noir. The fabric used to weave their clothing is so thick that not even blood seeps into it."
+          "text": "Ciało Le Noir. Materiał ich ciuchów jest tak gruby, że nie wsiąka w niego nawet krew."
         }
       ]
     },
@@ -1137,7 +1137,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "The corpse of a Noir. Blood seeps into the black suit, turning it dark crimson."
+          "text": "Ciało Le Noir. Krew wsiąkła w ich czarny garnitur, barwiąc go w głębokim odcieniu karmazynu."
         }
       ]
     },
@@ -1146,7 +1146,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "The corpse of a Rouge. Their veins have stopped writhing, turning dry and grey."
+          "text": "Ciało Le Rouge. Ich żyły przestały się wić, schnąc i więdnąc w bladą szarość."
         }
       ]
     },
@@ -1155,7 +1155,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "A hide of skin stitched with something lies stuck to the floor like an unwashed rag. Its lips, eyes, and teeth have all lost their distinguishing features and emulsified into one slick mass."
+          "text": "Zszyta... czymś skóra leży na posadzce jak brudna szmata. Jej usta, oczy i zęby kompletnie straciły wszystkie indywidualne cechy i stopiły się w jednolitą masę."
         }
       ]
     }
