@@ -10,60 +10,60 @@
         },
         {
           "index": 1,
-          "text": "<It just appeared out of nowhere and killed Meursault. It even blocked off the way out so we couldn't escape...>",
+          "text": "<To coś pojawiło się z nikąd i zabiło Meursaulta. Do tego zablokowało nam wszystkie drogi ucieczki...>",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "<Why would something like that even be wandering around a department store...?>",
+          "text": "<Co takie monstrum wogóle robi w centrum handlowym...?>",
           "speaker": "Dante"
         },
         {
           "index": 3,
-          "text": "... Sorry, what are we talking about?",
+          "text": "... Sorka, o czym ty teraz właśnie mówisz?",
           "speaker": "Ishmael"
         },
         {
           "index": 4,
-          "text": "<You know, that entity we just encountered, it was...>",
+          "text": "<No wiesz, to coś co nas zaatakowało, to nie było...>",
           "speaker": "Dante"
         },
         {
           "index": 5,
-          "text": "... was neither a Distortion nor an Abnormality."
+          "text": "... ani Zniekrztałcenie ani Anomalia."
         },
         {
           "index": 6,
-          "text": "And yet... I couldn't say with any confidence whether I should really call it..."
+          "text": "A jednak... Trudno by mi było nazwać to..."
         },
         {
           "index": 7,
-          "text": "Oh, come on. You can't get us all curious and then just trail off like that, Manager Bud.",
+          "text": "Hej, no weź Szefuńciu. Nie możesz rzucić takim tekstem a potem nie dokończyć zdania.",
           "speaker": "Gregor"
         },
         {
           "index": 8,
-          "text": "<... human.>",
+          "text": "<... człowiekiem.>",
           "speaker": "Dante"
         },
         {
           "index": 9,
-          "text": "<I'm talking about that monster with all those nails driven into its back.>",
+          "text": "<Mówie o tym stworzeniu która ma wbite w swoje plecy setki gwoździ.>",
           "speaker": "Dante"
         },
         {
           "index": 10,
-          "text": "Such a being... had never once entered my sight prior to our arrival at the restroom.",
+          "text": "Taka kreatura... ani razu nie ujrzałem czegoś takiego przed naszym przybyciem do wychodka.",
           "speaker": "Yi Sang"
         },
         {
           "index": 11,
-          "text": "<Huh...?>",
+          "text": "<Hę...?>",
           "speaker": "Dante"
         },
         {
           "index": 12,
-          "text": "...Dante, why don'tcha rest a little longer if you're outta juice? We found Meur already, so...",
+          "text": "...Dante, może sobie chwilkę odpoczniesz? Znaleźliśmy już Meura, więc...",
           "speaker": "Rodion"
         },
         {
@@ -73,51 +73,51 @@
         },
         {
           "index": 14,
-          "text": "The Sinners kept casting worried glances at the hands of my clock. Once they finally moved away, I went straight to Meursault and asked him what was going on."
+          "text": "Grzesznicy patrzyli zmarwieni na tarczę mojego zegara. Gdy w końcu odeszli, podeszłom do Meursaulta i zapytałom go, o co biega."
         },
         {
           "index": 15,
-          "text": "<What the hell happened just now, Meursault? Do you—>",
+          "text": "<Meursault, co do licha się tam odwaliło? Czy ty—>",
           "speaker": "Dante"
         },
         {
           "index": 16,
-          "text": "... I do remember, Manager.",
+          "text": "... Pamiętam to, Kierowniku.",
           "speaker": "Meursault"
         },
         {
           "index": 17,
-          "text": "To answer your question, the reason the other Sinners have no memory of what occurred is because we were \"returned.\"",
+          "text": "Odpowiadając na twoje pytanie, reszta Grzeszników nie pamięta tych zdażeń, bo zostaliśmy \"Zwróceni.\"",
           "speaker": "Meursault"
         },
         {
           "index": 18,
-          "text": "<\"Returned\"...?>",
+          "text": "<\"Zwróceni\"...?>",
           "speaker": "Dante"
         },
         {
           "index": 19,
-          "text": "It means that the Grand Magasin was reset to a point before a particular choice was made.",
+          "text": "Oznacza to, że Wielka Megasyna została cofnięta co momentu, przed którym został wykonany pewien wybór.",
           "speaker": "Meursault"
         },
         {
           "index": 20,
-          "text": "This appears to be a phenomenon that most are incapable of perceiving. You and I, however, appear to be exceptions.",
+          "text": "Wygląda na to, że jest to fenomen który jest niewidoczny dla większości. Wygląda również na to, że ty i ja jesteśmy wyjątkami.",
           "speaker": "Meursault"
         },
         {
           "index": 21,
-          "text": "<Okay, fine, putting that aside... what caused the reset in the first place...?>",
+          "text": "<Okej, dobrze, a wiemy... co wywołało ten \"Zwrot\"...?>",
           "speaker": "Dante"
         },
         {
           "index": 22,
-          "text": "It likely wanted you to make a different choice.",
+          "text": "Pewnie chciało, abyś wybrało kolejny wybór.",
           "speaker": "Meursault"
         },
         {
           "index": 23,
-          "text": "... Because the choice you made before was not bound in chains.",
+          "text": "... Ponieważ ten, który wybrałoś, nie był owinięty łańcuchami.",
           "speaker": "Meursault"
         },
         {
@@ -127,15 +127,15 @@
         },
         {
           "index": 25,
-          "text": "I should probably take a moment to collect my thoughts before we head out."
+          "text": "Powinnom na chwilę się tu zatrzymiać i ułożyć myśli."
         },
         {
           "index": 26,
-          "text": "Why did that entity appear..."
+          "text": "Czemu to stworzenie się pojawiło..."
         },
         {
           "index": 27,
-          "text": "... and why were we sent back...?"
+          "text": "... i czemu zostaliśmy cofnięci...?"
         }
       ]
     },
@@ -144,57 +144,57 @@
       "texts": [
         {
           "index": 0,
-          "text": "<Had a feeling this would happen... and sure enough, we're back here.>",
+          "text": "<Miałom uczucie, że to się stanie... i patrz, jesteśmy z powrotem w łazience.>",
           "speaker": "Dante"
         },
         {
           "index": 1,
-          "text": "<Wait, this makes me wonder... Why do the rest of us get dragged back to the restroom when Meursault is the only one who dies?> ",
+          "text": "<Chwilunia, a w sumie... Czemu wszyscy wracamy tu gdy tylko Meursault umarł?> ",
           "speaker": "Dante"
         },
         {
           "index": 2,
-          "text": "Because I am the subject to which the symbol is bound. Therefore, when I die, it would appear that both you and the other Sinners are returned to this restroom as well, Manager.",
+          "text": "Ponieważ jestem Podmiotem symbolu. Wygląda na to że z tego powodu, gdy ja umieram, ty i reszta Grzeszników wracacie do łazienki razem ze mną, Kierowniku.",
           "speaker": "Meursault"
         },
         {
           "index": 3,
-          "text": "So what, that makes us some kinda ghosts now?",
+          "text": "To co, czy my jesteśmy teraz jak duchy?",
           "speaker": "Rodion"
         },
         {
           "index": 4,
-          "text": "... That would be an inaccurate classification. However, if it aids your understanding, there is no practical issue with regarding it as such.",
+          "text": "... Klasyfikowanie waszego stanu jako \"Duchy\" byłoby niecelne. Jednakże, jeśli sprawia to że łatwiej jest ci zrozumieć aktualną sytuacje, nie ma w nazywaniu go w ten sposób praktycznych problemów.",
           "speaker": "Meursault"
         },
         {
           "index": 5,
-          "text": "If that is indeed how this mechanism operates... then it may have tactical value, depending on the circumstances.",
+          "text": "Jeśli ten system tak naprawde tak działa... to może być do dla nas sytuacyjnie wartościowa taktyczna przewaga.",
           "speaker": "Outis"
         },
         {
           "index": 6,
-          "text": "Tactical value...?",
+          "text": "Sytuacyjnie wartościowa... taktyczna przewaga...?",
           "speaker": "Sinclair"
         },
         {
           "index": 7,
-          "text": "Indeed. What bears note is that, regardless of circumstance, our course appears certain to return us unto this privy.",
+          "text": "Rzeczywiście. Warto jednak wspomnieć że, nieznacznie od sytuacji w której się znajdziemy, wygląda na to że zawsze wracamy do tej tu łaźni.",
           "speaker": "Yi Sang"
         },
         {
           "index": 8,
-          "text": "Precisely. If we are cornered beyond reasonable escape, or our route becomes irretrievably lost... this could serve as a means of withdrawal.",
+          "text": "Dokładnie. Jeśli zostaniemy wpędzeni w kozi róg lub zgubimy komplenie się w obcym terytorium... jest to dla nas opcja natychmiastowego odwrotu.",
           "speaker": "Outis"
         },
         {
           "index": 9,
-          "text": "I'd really prefer if we... didn't start treating this like an escape route.",
+          "text": "Może… ale naprawde wolałbym gdybyśmy... nie używali tego jak panaceum.",
           "speaker": "Sinclair"
         },
         {
           "index": 10,
-          "text": "<Yeah... let's not make a habit of it. But if things get bad enough, we should at least remember it's an option.>",
+          "text": "<Zgadzam się... nie powinniśmy używać tego przy każdej okazji. Ale jeśli sytuacja zrobi się naprawde nieprzyjemna, powinniśmy przynajmniej pamiętać, że mamy taką opcje.>",
           "speaker": "Dante"
         }
       ]
