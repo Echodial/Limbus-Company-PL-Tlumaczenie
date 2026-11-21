@@ -3,7 +3,7 @@
     {
       "id": "get_10617_1",
       "desc": "Identity Acquisition",
-      "dlg": "<i>Desire. And to the meaassuuuurrrreeee...</i>\nHm... A shame the tape's stretched so thin. That's too bad, it was one of my favorites. Well, not that I'll ever need to broadcast this derelict Voice again."
+      "dlg": "<i>Pragnij. Pragnij aż osiąąąggggnnniiiiiiiiiiiiiiii...</i>\nHm... Ta taśma jest już kompletnie zużyta. Szkoda, lubiałem sobie jej czasem słuchać. No cóż, nagrany na niej głos i tak jest już kompletnie bezużyteczny."
     },
     {
       "id": "lobby_morning_10617_1",
@@ -48,62 +48,62 @@
     {
       "id": "neglect_10617_1",
       "desc": "Idle",
-      "dlg": "Ah, I'm still fiddling with the modulation—would you mind waiting a bit?"
+      "dlg": "Ah, już kończe dostosowywać modulacje—możesz poczekać jeszcze sekundke?"
     },
     {
       "id": "gacksung_10617_1",
       "desc": "Uptying",
-      "dlg": "That false Voice has led you astray—I'm afraid I'll have to tuck you under a blanket and give those profaned ears a good cleansing wash."
+      "dlg": "Ten Fałszywy głos sprowadził cię na mielizne—Ale spokojnie, zaraz wcisnę cię pod moją kołudre i wyczyszcze ci porządnie te zapchane uszy."
     },
     {
       "id": "formation_10617_1",
       "desc": "Deployment",
-      "dlg": "Follow a wandering voice for long enough, and you're bound to lose your way."
+      "dlg": "Ci, którzy podąrzają za wędrującym głosem z czasem na pewno też sami się zgubią."
     },
     {
       "id": "battleentry_10617_1",
       "desc": "Stage Entry",
-      "dlg": "Desire. Then... the more shall your self become."
+      "dlg": "Pragnij. Pragnij, aby... stać się swoim najprawdziwszym \"ja\"."
     },
     {
       "id": "battle_select_10617_1",
       "desc": "Viewed in Battle",
-      "dlg": "Shh. Keep your voice down, please. You'll alarm the red ones otherwise."
+      "dlg": "Cii. Proszę, nie podnoś głosu. Nie chcemy chyba sprowadzić tu czerwonych."
     },
     {
       "id": "battle_endcommand_10617_1",
       "desc": "Commencing Attack",
-      "dlg": "Are you ready to lend your ears?"
+      "dlg": "Czy jesteście gotowi mnie wysłuchać?"
     },
     {
       "id": "battle_enemy_break_10617_1",
       "desc": "Enemy Stagger",
-      "dlg": "You should listen, you know?"
+      "dlg": "Naprawde powinniście uważniej mnie słuchać."
     },
     {
       "id": "battle_break_10617_1",
       "desc": "Staggered",
-      "dlg": "... The tinny ringing..."
+      "dlg": "... Ten metaliczny brzęk..."
     },
     {
       "id": "battle_kill_10617_1",
       "desc": "Enemy Killed",
-      "dlg": "A little quiet, please."
+      "dlg": "Proszę o ciszę na sali."
     },
     {
       "id": "battle_dead_10617_1",
       "desc": "Death",
-      "dlg": "The narration... ends here..."
+      "dlg": "I tu... kończy się narracja..."
     },
     {
       "id": "choice_success_p_10617_2",
       "desc": "Check Passed",
-      "dlg": "Fuhu, it's easy-peasy as long as you cared to listen~"
+      "dlg": "Fuhu, gdy uważnie słuchasz instrukcji wszystko staje się łatwizną~"
     },
     {
       "id": "choice_fail_n_10617_1",
       "desc": "Check Failed",
-      "dlg": "Oh dear... some background noise crept in."
+      "dlg": "O rajku... słuchać chyba coś w tle."
     },
     {
       "id": "battle_clear_10617_1",
@@ -113,12 +113,12 @@
     {
       "id": "battle_clear_ex_10617_1",
       "desc": "Extra Conditions Fulfilled",
-      "dlg": "Thus spake the Obsidian God: The profane shall fall, the Golden Resin untouched; Sisyphe shall be eternally preserved."
+      "dlg": "Tak rzekło Obsydianowe Bóstwo: Nieczyste upadnie, Złota Żywica pozostanie nietknięta; a Syzyfa pozostanie na zawsze taka, jaka być powinna."
     },
     {
       "id": "battle_defeat_10617_1",
       "desc": "Defeat Wail",
-      "dlg": "A blanketed imitation of a Voice could never have replaced the real thing..."
+      "dlg": "Cieńko ubrana imitacja Głosu nigdy nie zastąpi orginału..."
     }
   ]
 }
