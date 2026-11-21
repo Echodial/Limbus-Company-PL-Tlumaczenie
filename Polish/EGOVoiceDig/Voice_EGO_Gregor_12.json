@@ -119,6 +119,16 @@
       "id": "battle_erosion_21209_4",
       "desc": "E.G.O Corrosion",
       "dlg": "nawet patrzenie prosto w słońce nie skrzywdzi jej oczu..."
+    },
+    {
+      "id": "battle_awaken_21210_1",
+      "desc": "E.G.O Activation",
+      "dlg": "... Hah! Ale złapałem cacko! A teraz każdy odmawiający kooperacji turysta...\nzostanie ukarany na mocy Zasady A62GBFE1!"
+    },
+    {
+      "id": "battle_erosion_21210_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Kontaktowanie Administratora... NIE MOŻNA WYKONAĆ, NIE MOŻNA WYKONAĆ. Resetowanie... ODMOWA, ODMOWA!\nProtokół schwytania... KONTYNUOWAĆ, KONTYNUOWAĆ! KONTYNUOWAĆ WYKONYWANIE PROTOKOŁU!!"
     }
   ]
 }
