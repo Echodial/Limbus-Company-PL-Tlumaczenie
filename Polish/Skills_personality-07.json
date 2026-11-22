@@ -3142,6 +3142,442 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bla Bla Bla Wątki, Pitu Pitu Osnowy",
+          "desc": "[WhenUse] Mając mniej niż 5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj (2 x (5 - Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>))% HP by podnieść jej Ilość do 5<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Bla Bla Bla Wątki, Pitu Pitu Osnowy",
+          "desc": "<style=\"highlight\">+1 Mocy Ostatecznej za każde 2 Mocy <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie (maks 2)</style>\n[WhenUse] Mając mniej niż 5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj (2 x (5 - Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>))% HP by podnieść jej Ilość do 5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color> równe posiadanym <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkom</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bla Bla Bla Wątki, Pitu Pitu Osnowy",
+          "desc": "+1 Mocy Ostatecznej za każde 2 Mocy <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie (maks 2)\n[WhenUse] Mając mniej niż 5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj (2 x (5 - Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>))% HP by podnieść jej Ilość do 5\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +4 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż +3 Ilości <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color> równe posiadanym <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkom</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ścieg! Za! Ściegiem!",
+          "desc": "[WhenUse] Mając mniej niż 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj (2 x (10 - Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>))% HP by podnieść jej Ilość do 10\n[WhenUse] Zużyj 7 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie by zyskać +2 Ostatecznej Mocy<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ścieg! Za! Ściegiem!",
+          "desc": "<style=\"highlight\">+1 Mocy Ostatecznej za każde 2 Mocy <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie (maks 2)</style>\n[WhenUse] Mając mniej niż 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj (2 x (10 - Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>))% HP by podnieść jej Ilość do 10\n[WhenUse] Zużyj 7 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie by zyskać +2 Ostatecznej Mocy",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color> równe posiadanym <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkom</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ścieg! Za! Ściegiem!",
+          "desc": "+1 Mocy Ostatecznej za każde 2 Mocy <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie (maks 2)\n[WhenUse] Mając mniej niż 10 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>, zużyj (2 x (10 - Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>))% HP by podnieść jej Ilość do 10\n[WhenUse] Zużyj 7 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie by zyskać +2 Ostatecznej Mocy\n<style=\"highlight\">[WhenUse] Jeśli cel ma 6+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienia</link></u></color>, +1 Mocy Monet</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +2 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color> równe posiadanym <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkom</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zadaj obrażenia od Dźgania równe 1% ostatecznych obrażeń tej Monety za każdą posiadaną <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełkę</link></u></color> (min 1)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Że niby stebnówka zbyt oczywista?! Żebym ci ja zaraz dupy nie zastębnował!",
+          "desc": "[WhenUse] Zyskaj +1 Wagi Ataku za każde 15 <sprite name=\"NiddlePinGather\"><color=#9f6a3a><u><link=\"NiddlePinGather\">Drobnych I Ostrych Igieł</link></u></color> na sobie (maks 2)\n[WhenUse] +30% zadanych obrażeń za za każdą nadwyżkę Wagi Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, Części)\n[WhenUse] Zużyj do 20 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie by zdobyć dane efekty:\n- +1 Mocy Monet za każde 7 zużytej Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (maks 2)\n- +2% obrażeń zadawanych tą Zdolnością za każdą zużytą Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>\n[EndSkill] Zużyj [NiddlePinGather] na sobie równe (Waga Ataku uzyskana od <sprite name=\"NiddlePinGather\"><color=#9f6a3a><u><link=\"NiddlePinGather\">Drobnych I Ostrych Igieł</link></u></color> x 15)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (once per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (once per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 3 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 5+ <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgieł</link></u></color>, zużyj te 5 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgieł</link></u></color> by <sprite name=\"NiddlePinnedAlly\"><color=#e30000><u><link=\"NiddlePinnedAlly\">Przyszpilić</link></u></color> go na początku następnej tury (liczone osobno dla każdego celu)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Że niby stebnówka zbyt oczywista?! Żebym ci ja zaraz dupy nie zastębnował!",
+          "desc": "<style=\"highlight\">+1 Mocy Ostatecznej za każde 2 Mocy <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie (maks 2)</style>\n[WhenUse] Zyskaj +1 Wagi Ataku za każde 15 <sprite name=\"NiddlePinGather\"><color=#9f6a3a><u><link=\"NiddlePinGather\">Drobnych I Ostrych Igieł</link></u></color> na sobie (maks 2)\n[WhenUse] +30% zadanych obrażeń za za każdą nadwyżkę Wagi Ataku ponad rzeczywistą liczbę celów (w Skupionych Potyczkach, Części)\n[WhenUse] Zużyj do 20 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie by zdobyć dane efekty:\n- +1 Mocy Monet za każde 7 zużytej Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (maks 2)\n- +2% obrażeń zadawanych tą Zdolnością za każdą zużytą Ilość <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color>\n[EndSkill] Zużyj [NiddlePinGather] na sobie równe (Waga Ataku uzyskana od <sprite name=\"NiddlePinGather\"><color=#9f6a3a><u><link=\"NiddlePinGather\">Drobnych I Ostrych Igieł</link></u></color> x 15)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (once per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +3 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> (once per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Nałóż 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 3 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Nałóż 1 [PenetrateTakeDamageUp] na początku następnej tury</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jeśli cel ma 5+ <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgieł</link></u></color>, zużyj 5 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgieł</link></u></color> by <sprite name=\"NiddlePinnedAlly\"><color=#e30000><u><link=\"NiddlePinnedAlly\">Przyszpilić</link></u></color> go na początku następnej tury (liczone osobno dla każdego celu)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gnnnngh...",
+          "desc": "[DuelCounter]\n[StartBattle] Zużyj 20% HP na sobie by zyskać 1 [Enhancement] na początku następnej tury (raz na turę)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 2 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gnnnngh...",
+          "desc": "[DuelCounter]\n[StartBattle] Zużyj 20% HP na sobie by zyskać <style=\"highlight\">2 [Enhancement] i +5 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color></style> na początku następnej tury (raz na turę)\n<style=\"highlight\">[WhenUse] +1 Mocy Ostatecznej za każde 2 Mocy <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color> na sobie (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 2 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071705,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "Podwójnym ściegiem na bocznych szwach? Podwójne Szycie! Odrzucone!",
+          "desc": "[WideAreaRampage]\nPrzy trafieniu tą Zdolnością, heal 8% HP\n[WhenUse] Przyznaj tej jednostce i 2 innym losowym sojusznikom 1 [PenetrateDamageUp] na początku następnej tury\n- W pierwsej kolejności działa na Tożsamości \"Le Rouge\" (w Kolejności Wdrożenia)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Rzuć <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełką</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 2 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Rzuć <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełką</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 2 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Rzuć <sprite name=\"NeedlekinAlly\"><color=#ffc700><u><link=\"NeedlekinAlly\">Igiełką</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Zyskaj +1 Ilości <sprite name=\"ChargeRougeAlly\"><color=#ffc700><u><link=\"ChargeRougeAlly\">Pulsacji</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Przybij do celu 2 <sprite name=\"NiddlePinAlly\"><color=#e30000><u><link=\"NiddlePinAlly\">Gwoździgły</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
