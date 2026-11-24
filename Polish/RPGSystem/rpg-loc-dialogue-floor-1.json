@@ -5,7 +5,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "<This place... looks like some kind of store...>",
+          "text": "<To miejsce... wygląda troche jak sklep...>",
           "speaker": "Dante"
         }
       ]
@@ -15,22 +15,22 @@
       "texts": [
         {
           "index": 0,
-          "text": "What exactly are they selling here? No, actually, why's anything being sold here in the first place?",
+          "text": "Co oni tu wogóle sprzedają? Czekaj, nieważne, czemu wogóle jest tu cokolwiek sprzedawane?",
           "speaker": "Ishmael"
         },
         {
           "index": 1,
-          "text": "I mean, it's a department store~",
+          "text": "Ish, skarbie, czy przypadkiem nie o to właśnie chodzi w centach handlowych?~",
           "speaker": "Rodion"
         },
         {
           "index": 2,
-          "text": "Grand Magasin... A department store is, by nature, a place where a myriad little squares crowd upon one another in pursuit of profit.",
+          "text": "Wielka Manufaktura... Centrum Handlowe jest, w swej esencji, miejcem w którym ogrom różnych zakładów zbiera się w jedno miejsce w pogoni za zyskiem.",
           "speaker": "Yi Sang"
         },
         {
           "index": 3,
-          "text": "I suppose we'll have to look around if we want to learn anything more in detai—",
+          "text": "Wygląda na to, że będziemy musieli się bardziej rozejrzeć jeśli chcemy wiedzieć wię—",
           "speaker": "Hong Lu"
         }
       ]
@@ -40,27 +40,27 @@
       "texts": [
         {
           "index": 0,
-          "text": "Wha? What was that?",
+          "text": "Co jest? Co to było?",
           "speaker": "Rodion"
         },
         {
           "index": 1,
-          "text": "What <i>is</i> that?!",
+          "text": "Co <i>to</i> jest?!",
           "speaker": "Rodion"
         },
         {
           "index": 2,
-          "text": "I don't know, but whatever it is, something <i>huge</i>...",
+          "text": "Nie mam bladego pojęcia, ale jedno jest pewne. Coś <i>ogromnego</i>...",
           "speaker": "Gregor"
         },
         {
           "index": 3,
-          "text": "... has plummeted from above.",
+          "text": "... upadło z wysokości.",
           "speaker": "Yi Sang"
         },
         {
           "index": 4,
-          "text": "That was close. We would have sustained a severe impact... had we moved a few steps closer to the side.",
+          "text": "Było blisko. Zastalibyśmy znaczące braki w ludziach... gdybyśmy stali choćby pare kroków bliżej.",
           "speaker": "Outis"
         },
         {
@@ -70,7 +70,7 @@
         },
         {
           "index": 6,
-          "text": "It appears to be... a huge mass of human bodies tangled together, though the remains are far too severely mutilated to discern any individual forms.",
+          "text": "Wyląda to na... ogromną masę zaplątanych ludzkich ciał, choć są one w zbyt przykrym stanie aby rozróżnić jakiekolwiek indywidualne formy.",
           "speaker": "Faust"
         }
       ]
@@ -80,8 +80,8 @@
       "texts": [
         {
           "index": 0,
-          "text": "A big one dropped. Might be plenty worth salvaging this time. Hope the customers were heavy eyeball-spenders.",
-          "speaker": "Desperate Customer"
+          "text": "Wyszła spora kolekcja. Powinno być w niej dużo wartego zbierania. Miejmy nadzieje, że ci klienci byli bardziej dziani niż ostatnia zgraja dusi-gałek.",
+          "speaker": "Zdesperowany Klient"
         }
       ]
     },
@@ -90,13 +90,13 @@
       "texts": [
         {
           "index": 0,
-          "text": "Damn it, I'm out of empty bottles! Hey, you borrowed three from me last season. When are you going to pay me back?!",
-          "speaker": "Destitute Customer"
+          "text": "Cholera, nie mam już pustych butelek! Hej, ty! Pożyczyłeś ode mnie trzy podczas poprzedniego sezonu. Kiedy mi je w końcu oddasz?!",
+          "speaker": "Znędzniały Klient"
         },
         {
           "index": 1,
-          "text": "Fuck off! This season's new drop is all... all mine. No one else's!",
-          "speaker": "Impatient Customer"
+          "text": "Wara! Najnowsza kolekcja sezonu będzie... moja. I tylko moja!",
+          "speaker": "Zniecierpliwiony Klient"
         }
       ]
     },
